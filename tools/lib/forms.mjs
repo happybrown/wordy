@@ -46,6 +46,7 @@ const NOT_A_FORM = new Set([
   'equipments', 'knowledges', 'healths', 'lucks', 'pollutions', 'traffics', 'musics',
   'breads', 'rices', 'weathers', 'funs',
   'safeties', 'insurances', 'violences', 'freedoms', 'patiences', 'progresses', 'accesses',
+  'agricultures', 'cautions', 'chaoses', 'leathers', 'organics', 'contraries',
   'deader', 'deadest', 'falser', 'falsest', 'truer', 'truest', 'uniquer', 'uniquest',
   'perfecter', 'perfectest', 'mainer', 'mainest', 'onlier', 'onliest', 'wholer', 'wholest',
   'baddest', 'badder', 'gooder', 'goodest', 'worser', 'littler', 'littlest', 'farer', 'farest',
