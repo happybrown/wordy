@@ -1,0 +1,26 @@
+{
+  "$comment": "항목의 topic 값(고정 분류). 레벨별 유닛은 이 순서로 topic별 묶음을 만든다. key는 entry.topic, ko는 UI 표시명.",
+  "topics": [
+    { "key": "people_family",        "ko": "사람·가족·관계" },
+    { "key": "body_health",          "ko": "신체·건강" },
+    { "key": "food_cooking",         "ko": "음식·요리" },
+    { "key": "home_daily",           "ko": "집·일상생활" },
+    { "key": "school_learning",      "ko": "학교·학습" },
+    { "key": "work_business",        "ko": "일·직장·비즈니스" },
+    { "key": "money_shopping",       "ko": "돈·쇼핑·경제" },
+    { "key": "travel_transport",     "ko": "여행·교통·장소" },
+    { "key": "nature_animals",       "ko": "자연·동물·날씨" },
+    { "key": "environment_science",  "ko": "환경·과학·기술" },
+    { "key": "society_politics",     "ko": "사회·정치·법" },
+    { "key": "culture_arts",         "ko": "문화·예술·미디어" },
+    { "key": "sports_leisure",       "ko": "스포츠·취미·여가" },
+    { "key": "emotions_personality", "ko": "감정·성격" },
+    { "key": "thinking_opinion",     "ko": "사고·의견·판단" },
+    { "key": "communication",        "ko": "말하기·의사소통" },
+    { "key": "time_quantity",        "ko": "시간·수량·정도" },
+    { "key": "movement_action",      "ko": "동작·이동" },
+    { "key": "description_quality",  "ko": "묘사·성질·상태" },
+    { "key": "abstract_general",     "ko": "추상·일반" },
+    { "key": "academic",             "ko": "학술·연구" }
+  ]
+}

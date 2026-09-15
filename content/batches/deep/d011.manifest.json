@@ -1,0 +1,477 @@
+{
+  "batch": "d011",
+  "kind": "deep",
+  "levels": [
+    "ELEM"
+  ],
+  "count": 20,
+  "entries": [
+    {
+      "id": "chance",
+      "headword": "chance",
+      "level": "ELEM",
+      "isCore": true,
+      "pos_hint": [
+        "n"
+      ],
+      "forms": [
+        "chances"
+      ],
+      "cefr": "A2",
+      "freqRank": 560,
+      "confusable_candidates": [
+        "cancel",
+        "cancer",
+        "chancellor",
+        "change",
+        "channel",
+        "charge"
+      ]
+    },
+    {
+      "id": "wrong",
+      "headword": "wrong",
+      "level": "ELEM",
+      "isCore": true,
+      "pos_hint": [
+        "adj",
+        "adv"
+      ],
+      "forms": [],
+      "cefr": "A1",
+      "freqRank": 575,
+      "confusable_candidates": [
+        "bring",
+        "frog",
+        "front",
+        "iron",
+        "irony",
+        "long"
+      ]
+    },
+    {
+      "id": "check",
+      "headword": "check",
+      "level": "ELEM",
+      "isCore": true,
+      "pos_hint": [
+        "n",
+        "v"
+      ],
+      "forms": [
+        "checked",
+        "checking",
+        "checks",
+        "cheque"
+      ],
+      "cefr": "A1",
+      "freqRank": 580,
+      "confusable_candidates": [
+        "cheap",
+        "cheek",
+        "cheer",
+        "chef",
+        "chess",
+        "chest"
+      ]
+    },
+    {
+      "id": "lie",
+      "headword": "lie",
+      "level": "ELEM",
+      "isCore": true,
+      "pos_hint": [
+        "n",
+        "v"
+      ],
+      "forms": [
+        "lain",
+        "lied",
+        "lies",
+        "lying"
+      ],
+      "cefr": "A2",
+      "freqRank": 582,
+      "confusable_candidates": []
+    },
+    {
+      "id": "pick",
+      "headword": "pick",
+      "level": "ELEM",
+      "isCore": true,
+      "pos_hint": [
+        "n",
+        "v"
+      ],
+      "forms": [
+        "picked",
+        "picking",
+        "picks"
+      ],
+      "cefr": "A1",
+      "freqRank": 583,
+      "confusable_candidates": [
+        "back",
+        "brick",
+        "click",
+        "deck",
+        "disk",
+        "duck"
+      ]
+    },
+    {
+      "id": "ground",
+      "headword": "ground",
+      "level": "ELEM",
+      "isCore": true,
+      "pos_hint": [
+        "n"
+      ],
+      "forms": [
+        "grounds"
+      ],
+      "cefr": "A1",
+      "freqRank": 586,
+      "confusable_candidates": [
+        "around",
+        "bound",
+        "found",
+        "grand",
+        "group",
+        "pound"
+      ]
+    },
+    {
+      "id": "fight",
+      "headword": "fight",
+      "level": "ELEM",
+      "isCore": true,
+      "pos_hint": [
+        "n",
+        "v"
+      ],
+      "forms": [
+        "fighting",
+        "fights",
+        "fought"
+      ],
+      "cefr": "A1",
+      "freqRank": 595,
+      "confusable_candidates": [
+        "bright",
+        "fish",
+        "fist",
+        "flight",
+        "fright",
+        "height"
+      ]
+    },
+    {
+      "id": "fine",
+      "headword": "fine",
+      "level": "ELEM",
+      "isCore": true,
+      "pos_hint": [
+        "adj",
+        "adv",
+        "n",
+        "v"
+      ],
+      "forms": [
+        "fined",
+        "finer",
+        "fines",
+        "finest",
+        "fining"
+      ],
+      "cefr": "A1",
+      "freqRank": 597,
+      "confusable_candidates": [
+        "bike",
+        "bin",
+        "bind",
+        "bite",
+        "bone",
+        "cite"
+      ]
+    },
+    {
+      "id": "finish",
+      "headword": "finish",
+      "level": "ELEM",
+      "isCore": true,
+      "pos_hint": [
+        "n",
+        "v"
+      ],
+      "forms": [
+        "finished",
+        "finishes",
+        "finishing"
+      ],
+      "cefr": "A1",
+      "freqRank": 609,
+      "confusable_candidates": [
+        "finite",
+        "furnish",
+        "punish",
+        "vanish"
+      ]
+    },
+    {
+      "id": "fire",
+      "headword": "fire",
+      "level": "ELEM",
+      "isCore": true,
+      "pos_hint": [
+        "n",
+        "v"
+      ],
+      "forms": [
+        "fired",
+        "fires",
+        "firing",
+        "firings"
+      ],
+      "cefr": "A1",
+      "freqRank": 613,
+      "confusable_candidates": [
+        "air",
+        "bare",
+        "bike",
+        "bird",
+        "bite",
+        "bore"
+      ]
+    },
+    {
+      "id": "store",
+      "headword": "store",
+      "level": "ELEM",
+      "isCore": true,
+      "pos_hint": [
+        "n",
+        "v"
+      ],
+      "forms": [
+        "stored",
+        "stores",
+        "storing"
+      ],
+      "cefr": "A1",
+      "freqRank": 617,
+      "confusable_candidates": [
+        "bore",
+        "core",
+        "scare",
+        "scope",
+        "score",
+        "share"
+      ]
+    },
+    {
+      "id": "bank",
+      "headword": "bank",
+      "level": "ELEM",
+      "isCore": true,
+      "pos_hint": [
+        "n",
+        "v"
+      ],
+      "forms": [
+        "banked",
+        "banking",
+        "banks"
+      ],
+      "cefr": "A1",
+      "freqRank": 627,
+      "confusable_candidates": [
+        "ant",
+        "ask",
+        "baby",
+        "back",
+        "bad",
+        "bag"
+      ]
+    },
+    {
+      "id": "surprise",
+      "headword": "surprise",
+      "level": "ELEM",
+      "isCore": true,
+      "pos_hint": [
+        "n",
+        "v"
+      ],
+      "forms": [
+        "surprised",
+        "surprises",
+        "surprising"
+      ],
+      "cefr": "A1",
+      "freqRank": 634,
+      "confusable_candidates": [
+        "surprisingly"
+      ]
+    },
+    {
+      "id": "drop",
+      "headword": "drop",
+      "level": "ELEM",
+      "isCore": true,
+      "pos_hint": [
+        "n",
+        "v"
+      ],
+      "forms": [
+        "dropped",
+        "dropping",
+        "drops"
+      ],
+      "cefr": "A1",
+      "freqRank": 640,
+      "confusable_candidates": [
+        "chop",
+        "cop",
+        "crop",
+        "damp",
+        "deep",
+        "dip"
+      ]
+    },
+    {
+      "id": "miss",
+      "headword": "miss",
+      "level": "ELEM",
+      "isCore": true,
+      "pos_hint": [
+        "n",
+        "v"
+      ],
+      "forms": [
+        "missed",
+        "misses",
+        "missing"
+      ],
+      "cefr": "A1",
+      "freqRank": 645,
+      "confusable_candidates": [
+        "bias",
+        "boss",
+        "dish",
+        "disk",
+        "fish",
+        "fist"
+      ]
+    },
+    {
+      "id": "worry",
+      "headword": "worry",
+      "level": "ELEM",
+      "isCore": true,
+      "pos_hint": [
+        "n",
+        "v"
+      ],
+      "forms": [
+        "worried",
+        "worries",
+        "worrying"
+      ],
+      "cefr": "A1",
+      "freqRank": 653,
+      "confusable_candidates": [
+        "berry",
+        "carry",
+        "curry",
+        "ferry",
+        "hurry",
+        "marry"
+      ]
+    },
+    {
+      "id": "key",
+      "headword": "key",
+      "level": "ELEM",
+      "isCore": true,
+      "pos_hint": [
+        "adj",
+        "n"
+      ],
+      "forms": [
+        "keys"
+      ],
+      "cefr": "A1",
+      "freqRank": 659,
+      "confusable_candidates": []
+    },
+    {
+      "id": "inside",
+      "headword": "inside",
+      "level": "ELEM",
+      "isCore": true,
+      "pos_hint": [
+        "adj",
+        "adv",
+        "n",
+        "prep"
+      ],
+      "forms": [
+        "insides"
+      ],
+      "cefr": "A1",
+      "freqRank": 660,
+      "confusable_candidates": [
+        "aside",
+        "insider",
+        "insist",
+        "inspire",
+        "insure",
+        "invade"
+      ]
+    },
+    {
+      "id": "paint",
+      "headword": "paint",
+      "level": "ELEM",
+      "isCore": true,
+      "pos_hint": [
+        "n",
+        "v"
+      ],
+      "forms": [
+        "painted",
+        "painting",
+        "paintings",
+        "paints"
+      ],
+      "cefr": "A1",
+      "freqRank": 672,
+      "confusable_candidates": [
+        "aunt",
+        "faint",
+        "gain",
+        "haunt",
+        "hint",
+        "joint"
+      ]
+    },
+    {
+      "id": "hit",
+      "headword": "hit",
+      "level": "ELEM",
+      "isCore": true,
+      "pos_hint": [
+        "n",
+        "v"
+      ],
+      "forms": [
+        "hits",
+        "hitting"
+      ],
+      "cefr": "A2",
+      "freqRank": 695,
+      "confusable_candidates": []
+    }
+  ]
+}

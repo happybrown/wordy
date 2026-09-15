@@ -1,0 +1,505 @@
+{
+  "batch": "d006",
+  "kind": "deep",
+  "levels": [
+    "PRE",
+    "ELEM"
+  ],
+  "count": 20,
+  "entries": [
+    {
+      "id": "drink",
+      "headword": "drink",
+      "level": "PRE",
+      "isCore": true,
+      "pos_hint": [
+        "n",
+        "v"
+      ],
+      "forms": [
+        "drank",
+        "drinking",
+        "drinks",
+        "drunk"
+      ],
+      "cefr": "A1",
+      "freqRank": 655,
+      "confusable_candidates": [
+        "blink",
+        "brick",
+        "bring",
+        "dine",
+        "disk",
+        "drain"
+      ]
+    },
+    {
+      "id": "park",
+      "headword": "park",
+      "level": "PRE",
+      "isCore": true,
+      "pos_hint": [
+        "n",
+        "v"
+      ],
+      "forms": [
+        "parked",
+        "parking",
+        "parks"
+      ],
+      "cefr": "A1",
+      "freqRank": 657,
+      "confusable_candidates": [
+        "apart",
+        "arm",
+        "art",
+        "ask",
+        "back",
+        "bank"
+      ]
+    },
+    {
+      "id": "catch",
+      "headword": "catch",
+      "level": "PRE",
+      "isCore": true,
+      "pos_hint": [
+        "n",
+        "v"
+      ],
+      "forms": [
+        "catches",
+        "catching",
+        "caught"
+      ],
+      "cefr": "A1",
+      "freqRank": 683,
+      "confusable_candidates": [
+        "bath",
+        "cash",
+        "cater",
+        "coach",
+        "couch",
+        "march"
+      ]
+    },
+    {
+      "id": "pull",
+      "headword": "pull",
+      "level": "PRE",
+      "isCore": true,
+      "pos_hint": [
+        "v"
+      ],
+      "forms": [
+        "pulled",
+        "pulling",
+        "pulls"
+      ],
+      "cefr": "A2",
+      "freqRank": 799,
+      "confusable_candidates": [
+        "ball",
+        "bell",
+        "bill",
+        "bulk",
+        "bull",
+        "bully"
+      ]
+    },
+    {
+      "id": "red",
+      "headword": "red",
+      "level": "PRE",
+      "isCore": true,
+      "pos_hint": [
+        "adj",
+        "n"
+      ],
+      "forms": [
+        "redder",
+        "reddest",
+        "reds"
+      ],
+      "cefr": "A1",
+      "freqRank": 800,
+      "confusable_candidates": []
+    },
+    {
+      "id": "sleep",
+      "headword": "sleep",
+      "level": "PRE",
+      "isCore": true,
+      "pos_hint": [
+        "n",
+        "v"
+      ],
+      "forms": [
+        "sleeping",
+        "sleeps",
+        "slept"
+      ],
+      "cefr": "A1",
+      "freqRank": 827,
+      "confusable_candidates": [
+        "asleep",
+        "bleed",
+        "creep",
+        "deep",
+        "flee",
+        "keep"
+      ]
+    },
+    {
+      "id": "fish",
+      "headword": "fish",
+      "level": "PRE",
+      "isCore": true,
+      "pos_hint": [
+        "n",
+        "v"
+      ],
+      "forms": [
+        "fished",
+        "fishes",
+        "fishing"
+      ],
+      "cefr": "A1",
+      "freqRank": 828,
+      "confusable_candidates": [
+        "ash",
+        "bush",
+        "cash",
+        "dash",
+        "dish",
+        "disk"
+      ]
+    },
+    {
+      "id": "clean",
+      "headword": "clean",
+      "level": "PRE",
+      "isCore": true,
+      "pos_hint": [
+        "adj",
+        "v"
+      ],
+      "forms": [
+        "cleaned",
+        "cleaning",
+        "cleanings",
+        "cleans"
+      ],
+      "cefr": "A1",
+      "freqRank": 842,
+      "confusable_candidates": [
+        "bean",
+        "cheap",
+        "clap",
+        "clay",
+        "clear",
+        "clerk"
+      ]
+    },
+    {
+      "id": "star",
+      "headword": "star",
+      "level": "PRE",
+      "isCore": true,
+      "pos_hint": [
+        "n",
+        "v"
+      ],
+      "forms": [
+        "starred",
+        "starring",
+        "stars"
+      ],
+      "cefr": "A1",
+      "freqRank": 846,
+      "confusable_candidates": [
+        "bar",
+        "bear",
+        "car",
+        "dear",
+        "ear",
+        "far"
+      ]
+    },
+    {
+      "id": "throw",
+      "headword": "throw",
+      "level": "PRE",
+      "isCore": true,
+      "pos_hint": [
+        "n",
+        "v"
+      ],
+      "forms": [
+        "threw",
+        "throwing",
+        "thrown",
+        "throws"
+      ],
+      "cefr": "A1",
+      "freqRank": 853,
+      "confusable_candidates": [
+        "arrow",
+        "grow",
+        "show",
+        "throat"
+      ]
+    },
+    {
+      "id": "blue",
+      "headword": "blue",
+      "level": "PRE",
+      "isCore": true,
+      "pos_hint": [
+        "adj",
+        "n"
+      ],
+      "forms": [
+        "bluer",
+        "blues",
+        "bluest"
+      ],
+      "cefr": "A1",
+      "freqRank": 858,
+      "confusable_candidates": [
+        "able",
+        "bake",
+        "bare",
+        "base",
+        "bee",
+        "bike"
+      ]
+    },
+    {
+      "id": "cold",
+      "headword": "cold",
+      "level": "PRE",
+      "isCore": true,
+      "pos_hint": [
+        "adj",
+        "n"
+      ],
+      "forms": [
+        "colder",
+        "coldest",
+        "colds"
+      ],
+      "cefr": "A1",
+      "freqRank": 867,
+      "confusable_candidates": [
+        "bold",
+        "bond",
+        "call",
+        "calm",
+        "card",
+        "cell"
+      ]
+    },
+    {
+      "id": "push",
+      "headword": "push",
+      "level": "PRE",
+      "isCore": true,
+      "pos_hint": [
+        "n",
+        "v"
+      ],
+      "forms": [
+        "pushed",
+        "pushes",
+        "pushing"
+      ],
+      "cefr": "A1",
+      "freqRank": 868,
+      "confusable_candidates": [
+        "ash",
+        "brush",
+        "bus",
+        "bush",
+        "bust",
+        "busy"
+      ]
+    },
+    {
+      "id": "fly",
+      "headword": "fly",
+      "level": "PRE",
+      "isCore": true,
+      "pos_hint": [
+        "n",
+        "v"
+      ],
+      "forms": [
+        "flew",
+        "flies",
+        "flown",
+        "flying"
+      ],
+      "cefr": "A1",
+      "freqRank": 881,
+      "confusable_candidates": []
+    },
+    {
+      "id": "green",
+      "headword": "green",
+      "level": "PRE",
+      "isCore": true,
+      "pos_hint": [
+        "adj",
+        "n"
+      ],
+      "forms": [
+        "greener",
+        "greenest",
+        "greens"
+      ],
+      "cefr": "A1",
+      "freqRank": 940,
+      "confusable_candidates": [
+        "agree",
+        "breed",
+        "creek",
+        "creep",
+        "free",
+        "garden"
+      ]
+    },
+    {
+      "id": "dance",
+      "headword": "dance",
+      "level": "PRE",
+      "isCore": true,
+      "pos_hint": [
+        "n",
+        "v"
+      ],
+      "forms": [
+        "danced",
+        "dances",
+        "dancing"
+      ],
+      "cefr": "A1",
+      "freqRank": 959,
+      "confusable_candidates": [
+        "cancel",
+        "cancer",
+        "chance",
+        "danger",
+        "dare",
+        "date"
+      ]
+    },
+    {
+      "id": "smile",
+      "headword": "smile",
+      "level": "PRE",
+      "isCore": true,
+      "pos_hint": [
+        "n",
+        "v"
+      ],
+      "forms": [
+        "smiled",
+        "smiles",
+        "smiling"
+      ],
+      "cefr": "A1",
+      "freqRank": 990,
+      "confusable_candidates": [
+        "file",
+        "male",
+        "mild",
+        "mile",
+        "milk",
+        "mill"
+      ]
+    },
+    {
+      "id": "wind",
+      "headword": "wind",
+      "level": "PRE",
+      "isCore": true,
+      "pos_hint": [
+        "n",
+        "v"
+      ],
+      "forms": [
+        "winded",
+        "winding",
+        "winds",
+        "wound"
+      ],
+      "cefr": "A1",
+      "freqRank": 1013,
+      "confusable_candidates": [
+        "aid",
+        "band",
+        "bend",
+        "bid",
+        "bin",
+        "bind"
+      ]
+    },
+    {
+      "id": "mean",
+      "headword": "mean",
+      "level": "ELEM",
+      "isCore": true,
+      "pos_hint": [
+        "adj",
+        "n",
+        "v"
+      ],
+      "forms": [
+        "meaner",
+        "meanest",
+        "meaning",
+        "meanings",
+        "means",
+        "meant"
+      ],
+      "cefr": "A1",
+      "freqRank": 95,
+      "confusable_candidates": [
+        "ban",
+        "beam",
+        "bean",
+        "bear",
+        "beat",
+        "clean"
+      ]
+    },
+    {
+      "id": "last",
+      "headword": "last",
+      "level": "ELEM",
+      "isCore": true,
+      "pos_hint": [
+        "adv",
+        "det",
+        "pron",
+        "v"
+      ],
+      "forms": [
+        "lasted",
+        "lasting",
+        "lasts"
+      ],
+      "cefr": "A2",
+      "freqRank": 101,
+      "confusable_candidates": [
+        "act",
+        "ant",
+        "art",
+        "ash",
+        "ask",
+        "base"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,445 @@
+{
+  "batch": "d020",
+  "kind": "deep",
+  "levels": [
+    "MID"
+  ],
+  "count": 20,
+  "entries": [
+    {
+      "id": "original",
+      "headword": "original",
+      "level": "MID",
+      "isCore": true,
+      "pos_hint": [
+        "adj",
+        "n"
+      ],
+      "forms": [
+        "originals"
+      ],
+      "cefr": "A2",
+      "freqRank": 963,
+      "confusable_candidates": [
+        "criminal",
+        "origin",
+        "originally"
+      ]
+    },
+    {
+      "id": "pound",
+      "headword": "pound",
+      "level": "MID",
+      "isCore": true,
+      "pos_hint": [
+        "n",
+        "v"
+      ],
+      "forms": [
+        "pounded",
+        "pounding",
+        "poundings",
+        "pounds"
+      ],
+      "cefr": "B1",
+      "freqRank": 984,
+      "confusable_candidates": [
+        "around",
+        "bond",
+        "bound",
+        "count",
+        "fond",
+        "found"
+      ]
+    },
+    {
+      "id": "shape",
+      "headword": "shape",
+      "level": "MID",
+      "isCore": true,
+      "pos_hint": [
+        "n",
+        "v"
+      ],
+      "forms": [
+        "shaped",
+        "shapes",
+        "shaping"
+      ],
+      "cefr": "A2",
+      "freqRank": 986,
+      "confusable_candidates": [
+        "cape",
+        "chase",
+        "escape",
+        "grape",
+        "hate",
+        "have"
+      ]
+    },
+    {
+      "id": "estimate",
+      "headword": "estimate",
+      "level": "MID",
+      "isCore": true,
+      "pos_hint": [
+        "n",
+        "v"
+      ],
+      "forms": [
+        "estimated",
+        "estimates",
+        "estimating"
+      ],
+      "cefr": "B1",
+      "freqRank": 999,
+      "confusable_candidates": [
+        "intimate",
+        "ultimate"
+      ]
+    },
+    {
+      "id": "purchase",
+      "headword": "purchase",
+      "level": "MID",
+      "isCore": true,
+      "pos_hint": [
+        "n",
+        "v"
+      ],
+      "forms": [
+        "purchased",
+        "purchases",
+        "purchasing"
+      ],
+      "cefr": "B2",
+      "freqRank": 1002,
+      "confusable_candidates": [
+        "purchaser"
+      ]
+    },
+    {
+      "id": "stick",
+      "headword": "stick",
+      "level": "MID",
+      "isCore": true,
+      "pos_hint": [
+        "n",
+        "v"
+      ],
+      "forms": [
+        "sticking",
+        "sticks",
+        "stuck"
+      ],
+      "cefr": "B1",
+      "freqRank": 1010,
+      "confusable_candidates": [
+        "brick",
+        "click",
+        "kick",
+        "pick",
+        "quick",
+        "sack"
+      ]
+    },
+    {
+      "id": "request",
+      "headword": "request",
+      "level": "MID",
+      "isCore": true,
+      "pos_hint": [
+        "n",
+        "v"
+      ],
+      "forms": [
+        "requested",
+        "requesting",
+        "requests"
+      ],
+      "cefr": "A2",
+      "freqRank": 1011,
+      "confusable_candidates": [
+        "frequent"
+      ]
+    },
+    {
+      "id": "exchange",
+      "headword": "exchange",
+      "level": "MID",
+      "isCore": true,
+      "pos_hint": [
+        "n",
+        "v"
+      ],
+      "forms": [
+        "exchanged",
+        "exchanges",
+        "exchanging"
+      ],
+      "cefr": "A2",
+      "freqRank": 1015,
+      "confusable_candidates": []
+    },
+    {
+      "id": "budget",
+      "headword": "budget",
+      "level": "MID",
+      "isCore": true,
+      "pos_hint": [
+        "adj",
+        "n"
+      ],
+      "forms": [
+        "budgets"
+      ],
+      "cefr": "A2",
+      "freqRank": 1016,
+      "confusable_candidates": [
+        "bucket",
+        "bullet",
+        "burger",
+        "judge"
+      ]
+    },
+    {
+      "id": "count",
+      "headword": "count",
+      "level": "MID",
+      "isCore": true,
+      "pos_hint": [
+        "n",
+        "v"
+      ],
+      "forms": [
+        "counted",
+        "counting",
+        "counts"
+      ],
+      "cefr": "A2",
+      "freqRank": 1022,
+      "confusable_candidates": [
+        "amount",
+        "aunt",
+        "bound",
+        "cent",
+        "coast",
+        "coat"
+      ]
+    },
+    {
+      "id": "content",
+      "headword": "content",
+      "level": "MID",
+      "isCore": true,
+      "pos_hint": [
+        "adj",
+        "n"
+      ],
+      "forms": [
+        "contents"
+      ],
+      "cefr": "B1",
+      "freqRank": 1025,
+      "confusable_candidates": [
+        "comment",
+        "concept",
+        "concert",
+        "connect",
+        "consent",
+        "constant"
+      ]
+    },
+    {
+      "id": "mix",
+      "headword": "mix",
+      "level": "MID",
+      "isCore": true,
+      "pos_hint": [
+        "n",
+        "v"
+      ],
+      "forms": [
+        "mixed",
+        "mixes",
+        "mixing"
+      ],
+      "cefr": "A2",
+      "freqRank": 1029,
+      "confusable_candidates": []
+    },
+    {
+      "id": "beat",
+      "headword": "beat",
+      "level": "MID",
+      "isCore": true,
+      "pos_hint": [
+        "n",
+        "v"
+      ],
+      "forms": [
+        "beaten",
+        "beating",
+        "beatings",
+        "beats"
+      ],
+      "cefr": "B1",
+      "freqRank": 1035,
+      "confusable_candidates": [
+        "bad",
+        "bag",
+        "ban",
+        "bar",
+        "bat",
+        "bath"
+      ]
+    },
+    {
+      "id": "handle",
+      "headword": "handle",
+      "level": "MID",
+      "isCore": true,
+      "pos_hint": [
+        "n",
+        "v"
+      ],
+      "forms": [
+        "handled",
+        "handles",
+        "handling"
+      ],
+      "cefr": "A2",
+      "freqRank": 1041,
+      "confusable_candidates": [
+        "angle",
+        "bundle",
+        "hardly"
+      ]
+    },
+    {
+      "id": "text",
+      "headword": "text",
+      "level": "MID",
+      "isCore": true,
+      "pos_hint": [
+        "n",
+        "v"
+      ],
+      "forms": [
+        "texts"
+      ],
+      "cefr": "A2",
+      "freqRank": 1048,
+      "confusable_candidates": [
+        "beat",
+        "belt",
+        "best",
+        "bet",
+        "cent",
+        "debt"
+      ]
+    },
+    {
+      "id": "conduct",
+      "headword": "conduct",
+      "level": "MID",
+      "isCore": true,
+      "pos_hint": [
+        "n",
+        "v"
+      ],
+      "forms": [
+        "conducted",
+        "conducting",
+        "conducts"
+      ],
+      "cefr": "B1",
+      "freqRank": 1054,
+      "confusable_candidates": [
+        "connect",
+        "consult",
+        "contact",
+        "convict"
+      ]
+    },
+    {
+      "id": "extra",
+      "headword": "extra",
+      "level": "MID",
+      "isCore": true,
+      "pos_hint": [
+        "adj",
+        "adv",
+        "n"
+      ],
+      "forms": [
+        "extras"
+      ],
+      "cefr": "A2",
+      "freqRank": 1058,
+      "confusable_candidates": [
+        "entry"
+      ]
+    },
+    {
+      "id": "executive",
+      "headword": "executive",
+      "level": "MID",
+      "isCore": true,
+      "pos_hint": [
+        "adj",
+        "n"
+      ],
+      "forms": [
+        "executives"
+      ],
+      "cefr": "B2",
+      "freqRank": 1059,
+      "confusable_candidates": []
+    },
+    {
+      "id": "appeal",
+      "headword": "appeal",
+      "level": "MID",
+      "isCore": true,
+      "pos_hint": [
+        "n",
+        "v"
+      ],
+      "forms": [
+        "appealed",
+        "appealing",
+        "appeals"
+      ],
+      "cefr": "B1",
+      "freqRank": 1073,
+      "confusable_candidates": [
+        "appear",
+        "appearance"
+      ]
+    },
+    {
+      "id": "tough",
+      "headword": "tough",
+      "level": "MID",
+      "isCore": true,
+      "pos_hint": [
+        "adj"
+      ],
+      "forms": [
+        "tougher",
+        "toughest"
+      ],
+      "cefr": "B2",
+      "freqRank": 1469,
+      "confusable_candidates": [
+        "couch",
+        "cough",
+        "laugh",
+        "mouth",
+        "rough",
+        "south"
+      ]
+    }
+  ]
+}

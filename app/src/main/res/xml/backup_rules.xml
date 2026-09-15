@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<full-backup-content>
+    <!-- content.db is re-copied from assets; only the progress database and settings are worth backing up -->
+    <exclude domain="database" path="content.db" />
+</full-backup-content>

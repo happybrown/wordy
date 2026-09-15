@@ -1,0 +1,457 @@
+{
+  "batch": "d003",
+  "kind": "deep",
+  "levels": [
+    "PRE"
+  ],
+  "count": 20,
+  "entries": [
+    {
+      "id": "same",
+      "headword": "same",
+      "level": "PRE",
+      "isCore": true,
+      "pos_hint": [
+        "adj",
+        "adv",
+        "pron"
+      ],
+      "forms": [],
+      "cefr": "A1",
+      "freqRank": 122,
+      "confusable_candidates": [
+        "age",
+        "bake",
+        "bare",
+        "base",
+        "blame",
+        "cafe"
+      ]
+    },
+    {
+      "id": "try",
+      "headword": "try",
+      "level": "PRE",
+      "isCore": true,
+      "pos_hint": [
+        "n",
+        "v"
+      ],
+      "forms": [
+        "tried",
+        "tries",
+        "trying"
+      ],
+      "cefr": "A1",
+      "freqRank": 125,
+      "confusable_candidates": []
+    },
+    {
+      "id": "point",
+      "headword": "point",
+      "level": "PRE",
+      "isCore": true,
+      "pos_hint": [
+        "n",
+        "v"
+      ],
+      "forms": [
+        "pointed",
+        "pointing",
+        "points"
+      ],
+      "cefr": "A1",
+      "freqRank": 131,
+      "confusable_candidates": [
+        "coin",
+        "count",
+        "faint",
+        "hint",
+        "join",
+        "joint"
+      ]
+    },
+    {
+      "id": "little",
+      "headword": "little",
+      "level": "PRE",
+      "isCore": true,
+      "pos_hint": [
+        "adj",
+        "adv",
+        "det",
+        "pron"
+      ],
+      "forms": [
+        "littler",
+        "littlest"
+      ],
+      "cefr": "A1",
+      "freqRank": 132,
+      "confusable_candidates": [
+        "battle",
+        "bottle",
+        "cattle",
+        "settle",
+        "title"
+      ]
+    },
+    {
+      "id": "help",
+      "headword": "help",
+      "level": "PRE",
+      "isCore": true,
+      "pos_hint": [
+        "n",
+        "v"
+      ],
+      "forms": [
+        "helped",
+        "helping",
+        "helpings",
+        "helps"
+      ],
+      "cefr": "A1",
+      "freqRank": 133,
+      "confusable_candidates": [
+        "bell",
+        "belt",
+        "cell",
+        "cheap",
+        "deep",
+        "half"
+      ]
+    },
+    {
+      "id": "ask",
+      "headword": "ask",
+      "level": "PRE",
+      "isCore": true,
+      "pos_hint": [
+        "v"
+      ],
+      "forms": [
+        "asked",
+        "asking",
+        "asks"
+      ],
+      "cefr": "A1",
+      "freqRank": 134,
+      "confusable_candidates": []
+    },
+    {
+      "id": "meet",
+      "headword": "meet",
+      "level": "PRE",
+      "isCore": true,
+      "pos_hint": [
+        "v"
+      ],
+      "forms": [
+        "meeting",
+        "meetings",
+        "meets",
+        "met"
+      ],
+      "cefr": "A1",
+      "freqRank": 135,
+      "confusable_candidates": [
+        "beat",
+        "bee",
+        "beef",
+        "beer",
+        "belt",
+        "best"
+      ]
+    },
+    {
+      "id": "start",
+      "headword": "start",
+      "level": "PRE",
+      "isCore": true,
+      "pos_hint": [
+        "n",
+        "v"
+      ],
+      "forms": [
+        "started",
+        "starting",
+        "starts"
+      ],
+      "cefr": "A1",
+      "freqRank": 136,
+      "confusable_candidates": [
+        "apart",
+        "cart",
+        "chart",
+        "heart",
+        "part",
+        "salt"
+      ]
+    },
+    {
+      "id": "talk",
+      "headword": "talk",
+      "level": "PRE",
+      "isCore": true,
+      "pos_hint": [
+        "n",
+        "v"
+      ],
+      "forms": [
+        "talked",
+        "talking",
+        "talks"
+      ],
+      "cefr": "A1",
+      "freqRank": 137,
+      "confusable_candidates": [
+        "ask",
+        "back",
+        "ball",
+        "bank",
+        "bark",
+        "bulk"
+      ]
+    },
+    {
+      "id": "put",
+      "headword": "put",
+      "level": "PRE",
+      "isCore": true,
+      "pos_hint": [
+        "v"
+      ],
+      "forms": [
+        "puts",
+        "putted",
+        "putting"
+      ],
+      "cefr": "A1",
+      "freqRank": 139,
+      "confusable_candidates": []
+    },
+    {
+      "id": "late",
+      "headword": "late",
+      "level": "PRE",
+      "isCore": true,
+      "pos_hint": [
+        "adj",
+        "adv"
+      ],
+      "forms": [
+        "later",
+        "latest"
+      ],
+      "cefr": "A1",
+      "freqRank": 147,
+      "confusable_candidates": [
+        "age",
+        "bake",
+        "bare",
+        "base",
+        "bat",
+        "bath"
+      ]
+    },
+    {
+      "id": "high",
+      "headword": "high",
+      "level": "PRE",
+      "isCore": true,
+      "pos_hint": [
+        "adj",
+        "adv"
+      ],
+      "forms": [
+        "higher",
+        "highest"
+      ],
+      "cefr": "A1",
+      "freqRank": 148,
+      "confusable_candidates": [
+        "big",
+        "dig",
+        "dish",
+        "fight",
+        "fish",
+        "hide"
+      ]
+    },
+    {
+      "id": "off",
+      "headword": "off",
+      "level": "PRE",
+      "isCore": true,
+      "pos_hint": [
+        "adj",
+        "adv",
+        "prep"
+      ],
+      "forms": [],
+      "cefr": "A1",
+      "freqRank": 150,
+      "confusable_candidates": []
+    },
+    {
+      "id": "end",
+      "headword": "end",
+      "level": "PRE",
+      "isCore": true,
+      "pos_hint": [
+        "n",
+        "v"
+      ],
+      "forms": [
+        "ended",
+        "ending",
+        "ends"
+      ],
+      "cefr": "A1",
+      "freqRank": 152,
+      "confusable_candidates": []
+    },
+    {
+      "id": "live",
+      "headword": "live",
+      "level": "PRE",
+      "isCore": true,
+      "pos_hint": [
+        "adj",
+        "v"
+      ],
+      "forms": [
+        "lived",
+        "lives",
+        "living"
+      ],
+      "cefr": "A1",
+      "freqRank": 153,
+      "confusable_candidates": [
+        "alike",
+        "alive",
+        "bike",
+        "bite",
+        "cave",
+        "cite"
+      ]
+    },
+    {
+      "id": "play",
+      "headword": "play",
+      "level": "PRE",
+      "isCore": true,
+      "pos_hint": [
+        "n",
+        "v"
+      ],
+      "forms": [
+        "played",
+        "playing",
+        "plays"
+      ],
+      "cefr": "A1",
+      "freqRank": 158,
+      "confusable_candidates": [
+        "ally",
+        "away",
+        "bay",
+        "clap",
+        "clay",
+        "day"
+      ]
+    },
+    {
+      "id": "home",
+      "headword": "home",
+      "level": "PRE",
+      "isCore": true,
+      "pos_hint": [
+        "adv",
+        "n"
+      ],
+      "forms": [
+        "homes"
+      ],
+      "cefr": "A1",
+      "freqRank": 161,
+      "confusable_candidates": [
+        "bomb",
+        "bone",
+        "bore",
+        "code",
+        "coke",
+        "come"
+      ]
+    },
+    {
+      "id": "group",
+      "headword": "group",
+      "level": "PRE",
+      "isCore": true,
+      "pos_hint": [
+        "n",
+        "v"
+      ],
+      "forms": [
+        "grouped",
+        "grouping",
+        "groups"
+      ],
+      "cefr": "A1",
+      "freqRank": 167,
+      "confusable_candidates": [
+        "crop",
+        "drop",
+        "grasp",
+        "grip",
+        "gross",
+        "ground"
+      ]
+    },
+    {
+      "id": "case",
+      "headword": "case",
+      "level": "PRE",
+      "isCore": true,
+      "pos_hint": [
+        "n"
+      ],
+      "forms": [
+        "cases"
+      ],
+      "cefr": "A1",
+      "freqRank": 168,
+      "confusable_candidates": [
+        "age",
+        "ash",
+        "ask",
+        "bake",
+        "bare",
+        "base"
+      ]
+    },
+    {
+      "id": "around",
+      "headword": "around",
+      "level": "PRE",
+      "isCore": true,
+      "pos_hint": [
+        "adv",
+        "prep"
+      ],
+      "forms": [],
+      "cefr": "A1",
+      "freqRank": 170,
+      "confusable_candidates": [
+        "aloud",
+        "amount",
+        "bound",
+        "found",
+        "ground",
+        "pound"
+      ]
+    }
+  ]
+}

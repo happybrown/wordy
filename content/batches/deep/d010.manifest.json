@@ -1,0 +1,482 @@
+{
+  "batch": "d010",
+  "kind": "deep",
+  "levels": [
+    "ELEM"
+  ],
+  "count": 20,
+  "entries": [
+    {
+      "id": "design",
+      "headword": "design",
+      "level": "ELEM",
+      "isCore": true,
+      "pos_hint": [
+        "n",
+        "v"
+      ],
+      "forms": [
+        "designed",
+        "designing",
+        "designs"
+      ],
+      "cefr": "A1",
+      "freqRank": 441,
+      "confusable_candidates": [
+        "assign",
+        "designate",
+        "designer",
+        "desire",
+        "resign"
+      ]
+    },
+    {
+      "id": "carry",
+      "headword": "carry",
+      "level": "ELEM",
+      "isCore": true,
+      "pos_hint": [
+        "v"
+      ],
+      "forms": [
+        "carried",
+        "carries",
+        "carrying"
+      ],
+      "cefr": "A1",
+      "freqRank": 446,
+      "confusable_candidates": [
+        "army",
+        "berry",
+        "candy",
+        "card",
+        "care",
+        "carrot"
+      ]
+    },
+    {
+      "id": "please",
+      "headword": "please",
+      "level": "ELEM",
+      "isCore": true,
+      "pos_hint": [
+        "adv",
+        "v"
+      ],
+      "forms": [
+        "pleased",
+        "pleases",
+        "pleasing"
+      ],
+      "cefr": "A1",
+      "freqRank": 471,
+      "confusable_candidates": [
+        "cease",
+        "lease",
+        "leave",
+        "peace",
+        "phase",
+        "phrase"
+      ]
+    },
+    {
+      "id": "step",
+      "headword": "step",
+      "level": "ELEM",
+      "isCore": true,
+      "pos_hint": [
+        "n",
+        "v"
+      ],
+      "forms": [
+        "stepped",
+        "stepping",
+        "steps"
+      ],
+      "cefr": "A1",
+      "freqRank": 477,
+      "confusable_candidates": [
+        "deep",
+        "item",
+        "keep",
+        "sea",
+        "see",
+        "seed"
+      ]
+    },
+    {
+      "id": "phone",
+      "headword": "phone",
+      "level": "ELEM",
+      "isCore": true,
+      "pos_hint": [
+        "n",
+        "v"
+      ],
+      "forms": [
+        "phoned",
+        "phones",
+        "phoning"
+      ],
+      "cefr": "A1",
+      "freqRank": 479,
+      "confusable_candidates": [
+        "alone",
+        "bone",
+        "clone",
+        "hole",
+        "home",
+        "honey"
+      ]
+    },
+    {
+      "id": "date",
+      "headword": "date",
+      "level": "ELEM",
+      "isCore": true,
+      "pos_hint": [
+        "n",
+        "v"
+      ],
+      "forms": [
+        "dated",
+        "dates",
+        "dating"
+      ],
+      "cefr": "A1",
+      "freqRank": 483,
+      "confusable_candidates": [
+        "age",
+        "bake",
+        "bare",
+        "base",
+        "bat",
+        "bath"
+      ]
+    },
+    {
+      "id": "practice",
+      "headword": "practice",
+      "level": "ELEM",
+      "isCore": true,
+      "pos_hint": [
+        "n",
+        "v"
+      ],
+      "forms": [
+        "practiced",
+        "practices",
+        "practicing",
+        "practise",
+        "practised",
+        "practises",
+        "practising"
+      ],
+      "cefr": "A1",
+      "freqRank": 484,
+      "confusable_candidates": [
+        "practical"
+      ]
+    },
+    {
+      "id": "front",
+      "headword": "front",
+      "level": "ELEM",
+      "isCore": true,
+      "pos_hint": [
+        "adj",
+        "n"
+      ],
+      "forms": [
+        "fronts"
+      ],
+      "cefr": "A1",
+      "freqRank": 488,
+      "confusable_candidates": [
+        "faint",
+        "float",
+        "fond",
+        "foot",
+        "frog",
+        "frost"
+      ]
+    },
+    {
+      "id": "outside",
+      "headword": "outside",
+      "level": "ELEM",
+      "isCore": true,
+      "pos_hint": [
+        "adj",
+        "adv",
+        "n",
+        "prep"
+      ],
+      "forms": [
+        "outsides"
+      ],
+      "cefr": "A1",
+      "freqRank": 491,
+      "confusable_candidates": [
+        "outline"
+      ]
+    },
+    {
+      "id": "land",
+      "headword": "land",
+      "level": "ELEM",
+      "isCore": true,
+      "pos_hint": [
+        "n",
+        "v"
+      ],
+      "forms": [
+        "landed",
+        "landing",
+        "landings",
+        "lands"
+      ],
+      "cefr": "A2",
+      "freqRank": 497,
+      "confusable_candidates": [
+        "add",
+        "aid",
+        "ant",
+        "bad",
+        "ban",
+        "band"
+      ]
+    },
+    {
+      "id": "sign",
+      "headword": "sign",
+      "level": "ELEM",
+      "isCore": true,
+      "pos_hint": [
+        "n",
+        "v"
+      ],
+      "forms": [
+        "signed",
+        "signing",
+        "signs"
+      ],
+      "cefr": "A1",
+      "freqRank": 500,
+      "confusable_candidates": [
+        "big",
+        "bin",
+        "dig",
+        "high",
+        "inn",
+        "lion"
+      ]
+    },
+    {
+      "id": "travel",
+      "headword": "travel",
+      "level": "ELEM",
+      "isCore": true,
+      "pos_hint": [
+        "n",
+        "v"
+      ],
+      "forms": [
+        "traveled",
+        "traveling",
+        "travelled",
+        "travelling",
+        "travels"
+      ],
+      "cefr": "A1",
+      "freqRank": 503,
+      "confusable_candidates": [
+        "brave",
+        "grave",
+        "trace",
+        "trade",
+        "trader",
+        "trail"
+      ]
+    },
+    {
+      "id": "act",
+      "headword": "act",
+      "level": "ELEM",
+      "isCore": true,
+      "pos_hint": [
+        "n",
+        "v"
+      ],
+      "forms": [
+        "acted",
+        "acting",
+        "acts"
+      ],
+      "cefr": "A2",
+      "freqRank": 515,
+      "confusable_candidates": []
+    },
+    {
+      "id": "list",
+      "headword": "list",
+      "level": "ELEM",
+      "isCore": true,
+      "pos_hint": [
+        "n",
+        "v"
+      ],
+      "forms": [
+        "listed",
+        "listing",
+        "listings",
+        "lists"
+      ],
+      "cefr": "A1",
+      "freqRank": 523,
+      "confusable_candidates": [
+        "best",
+        "bit",
+        "blast",
+        "bust",
+        "cast",
+        "cost"
+      ]
+    },
+    {
+      "id": "wish",
+      "headword": "wish",
+      "level": "ELEM",
+      "isCore": true,
+      "pos_hint": [
+        "n",
+        "v"
+      ],
+      "forms": [
+        "wished",
+        "wishes",
+        "wishing"
+      ],
+      "cefr": "A1",
+      "freqRank": 524,
+      "confusable_candidates": [
+        "ash",
+        "bush",
+        "cash",
+        "dash",
+        "dish",
+        "disk"
+      ]
+    },
+    {
+      "id": "wear",
+      "headword": "wear",
+      "level": "ELEM",
+      "isCore": true,
+      "pos_hint": [
+        "v"
+      ],
+      "forms": [
+        "wearing",
+        "wears",
+        "wore",
+        "worn"
+      ],
+      "cefr": "A1",
+      "freqRank": 526,
+      "confusable_candidates": [
+        "bar",
+        "beam",
+        "bean",
+        "bear",
+        "beard",
+        "beat"
+      ]
+    },
+    {
+      "id": "kid",
+      "headword": "kid",
+      "level": "ELEM",
+      "isCore": true,
+      "pos_hint": [
+        "n",
+        "v"
+      ],
+      "forms": [
+        "kidded",
+        "kidding",
+        "kids"
+      ],
+      "cefr": "A1",
+      "freqRank": 529,
+      "confusable_candidates": []
+    },
+    {
+      "id": "vote",
+      "headword": "vote",
+      "level": "ELEM",
+      "isCore": true,
+      "pos_hint": [
+        "n",
+        "v"
+      ],
+      "forms": [
+        "voted",
+        "votes",
+        "voting"
+      ],
+      "cefr": "A1",
+      "freqRank": 548,
+      "confusable_candidates": [
+        "bite",
+        "bone",
+        "bore",
+        "cite",
+        "code",
+        "coke"
+      ]
+    },
+    {
+      "id": "focus",
+      "headword": "focus",
+      "level": "ELEM",
+      "isCore": true,
+      "pos_hint": [
+        "n",
+        "v"
+      ],
+      "forms": [
+        "focused",
+        "focuses",
+        "focusing",
+        "focussed",
+        "focusses",
+        "focussing"
+      ],
+      "cefr": "A1",
+      "freqRank": 550,
+      "confusable_candidates": [
+        "bonus",
+        "forum"
+      ]
+    },
+    {
+      "id": "address",
+      "headword": "address",
+      "level": "ELEM",
+      "isCore": true,
+      "pos_hint": [
+        "n",
+        "v"
+      ],
+      "forms": [
+        "addressed",
+        "addresses",
+        "addressing"
+      ],
+      "cefr": "A1",
+      "freqRank": 558,
+      "confusable_candidates": []
+    }
+  ]
+}

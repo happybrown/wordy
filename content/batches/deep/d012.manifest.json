@@ -1,0 +1,463 @@
+{
+  "batch": "d012",
+  "kind": "deep",
+  "levels": [
+    "ELEM"
+  ],
+  "count": 20,
+  "entries": [
+    {
+      "id": "alone",
+      "headword": "alone",
+      "level": "ELEM",
+      "isCore": true,
+      "pos_hint": [
+        "adj",
+        "adv"
+      ],
+      "forms": [],
+      "cefr": "A1",
+      "freqRank": 719,
+      "confusable_candidates": [
+        "alike",
+        "alive",
+        "aloud",
+        "blonde",
+        "bone",
+        "clone"
+      ]
+    },
+    {
+      "id": "tomorrow",
+      "headword": "tomorrow",
+      "level": "ELEM",
+      "isCore": true,
+      "pos_hint": [
+        "adv",
+        "n"
+      ],
+      "forms": [
+        "tomorrows"
+      ],
+      "cefr": "A1",
+      "freqRank": 726,
+      "confusable_candidates": []
+    },
+    {
+      "id": "review",
+      "headword": "review",
+      "level": "ELEM",
+      "isCore": true,
+      "pos_hint": [
+        "n",
+        "v"
+      ],
+      "forms": [
+        "reviewed",
+        "reviewing",
+        "reviews"
+      ],
+      "cefr": "A1",
+      "freqRank": 730,
+      "confusable_candidates": [
+        "relief",
+        "revise",
+        "revive"
+      ]
+    },
+    {
+      "id": "race",
+      "headword": "race",
+      "level": "ELEM",
+      "isCore": true,
+      "pos_hint": [
+        "n",
+        "v"
+      ],
+      "forms": [
+        "raced",
+        "races",
+        "racing"
+      ],
+      "cefr": "B1",
+      "freqRank": 732,
+      "confusable_candidates": [
+        "act",
+        "age",
+        "back",
+        "bake",
+        "bare",
+        "base"
+      ]
+    },
+    {
+      "id": "board",
+      "headword": "board",
+      "level": "ELEM",
+      "isCore": true,
+      "pos_hint": [
+        "n",
+        "v"
+      ],
+      "forms": [
+        "boarded",
+        "boarding",
+        "boards"
+      ],
+      "cefr": "A1",
+      "freqRank": 741,
+      "confusable_candidates": [
+        "aboard",
+        "award",
+        "band",
+        "bare",
+        "bark",
+        "barn"
+      ]
+    },
+    {
+      "id": "interview",
+      "headword": "interview",
+      "level": "ELEM",
+      "isCore": true,
+      "pos_hint": [
+        "n",
+        "v"
+      ],
+      "forms": [
+        "interviewed",
+        "interviewing",
+        "interviews"
+      ],
+      "cefr": "A1",
+      "freqRank": 784,
+      "confusable_candidates": [
+        "interact",
+        "interaction",
+        "interest",
+        "interested",
+        "interesting",
+        "interfere"
+      ]
+    },
+    {
+      "id": "score",
+      "headword": "score",
+      "level": "ELEM",
+      "isCore": true,
+      "pos_hint": [
+        "n",
+        "v"
+      ],
+      "forms": [
+        "scored",
+        "scores",
+        "scoring",
+        "scorings"
+      ],
+      "cefr": "B1",
+      "freqRank": 823,
+      "confusable_candidates": [
+        "bore",
+        "care",
+        "code",
+        "coke",
+        "come",
+        "cope"
+      ]
+    },
+    {
+      "id": "trip",
+      "headword": "trip",
+      "level": "ELEM",
+      "isCore": true,
+      "pos_hint": [
+        "n",
+        "v"
+      ],
+      "forms": [
+        "tripped",
+        "tripping",
+        "trips"
+      ],
+      "cefr": "A1",
+      "freqRank": 825,
+      "confusable_candidates": [
+        "chip",
+        "clip",
+        "crisp",
+        "crop",
+        "dip",
+        "drop"
+      ]
+    },
+    {
+      "id": "touch",
+      "headword": "touch",
+      "level": "ELEM",
+      "isCore": true,
+      "pos_hint": [
+        "n",
+        "v"
+      ],
+      "forms": [
+        "touched",
+        "touches",
+        "touching"
+      ],
+      "cefr": "A1",
+      "freqRank": 834,
+      "confusable_candidates": [
+        "coach",
+        "couch",
+        "cough",
+        "mouth",
+        "rough",
+        "south"
+      ]
+    },
+    {
+      "id": "file",
+      "headword": "file",
+      "level": "ELEM",
+      "isCore": true,
+      "pos_hint": [
+        "n",
+        "v"
+      ],
+      "forms": [
+        "filed",
+        "files",
+        "filing",
+        "filings"
+      ],
+      "cefr": "A1",
+      "freqRank": 835,
+      "confusable_candidates": [
+        "able",
+        "aisle",
+        "bible",
+        "bike",
+        "bill",
+        "bite"
+      ]
+    },
+    {
+      "id": "middle",
+      "headword": "middle",
+      "level": "ELEM",
+      "isCore": true,
+      "pos_hint": [
+        "adj",
+        "n"
+      ],
+      "forms": [
+        "middles"
+      ],
+      "cefr": "A1",
+      "freqRank": 836,
+      "confusable_candidates": [
+        "module"
+      ]
+    },
+    {
+      "id": "bar",
+      "headword": "bar",
+      "level": "ELEM",
+      "isCore": true,
+      "pos_hint": [
+        "n",
+        "v"
+      ],
+      "forms": [
+        "barred",
+        "barring",
+        "bars"
+      ],
+      "cefr": "A1",
+      "freqRank": 837,
+      "confusable_candidates": []
+    },
+    {
+      "id": "deep",
+      "headword": "deep",
+      "level": "ELEM",
+      "isCore": true,
+      "pos_hint": [
+        "adj",
+        "adv"
+      ],
+      "forms": [
+        "deeper",
+        "deepest"
+      ],
+      "cefr": "A2",
+      "freqRank": 840,
+      "confusable_candidates": [
+        "bee",
+        "beef",
+        "beer",
+        "creep",
+        "damp",
+        "dead"
+      ]
+    },
+    {
+      "id": "match",
+      "headword": "match",
+      "level": "ELEM",
+      "isCore": true,
+      "pos_hint": [
+        "n",
+        "v"
+      ],
+      "forms": [
+        "matched",
+        "matches",
+        "matching"
+      ],
+      "cefr": "A1",
+      "freqRank": 850,
+      "confusable_candidates": [
+        "bath",
+        "catch",
+        "march",
+        "mate",
+        "math",
+        "myth"
+      ]
+    },
+    {
+      "id": "adult",
+      "headword": "adult",
+      "level": "ELEM",
+      "isCore": true,
+      "pos_hint": [
+        "adj",
+        "n"
+      ],
+      "forms": [
+        "adults"
+      ],
+      "cefr": "A2",
+      "freqRank": 880,
+      "confusable_candidates": [
+        "adapt",
+        "adjust",
+        "admit",
+        "adopt",
+        "aunt",
+        "dull"
+      ]
+    },
+    {
+      "id": "bill",
+      "headword": "bill",
+      "level": "ELEM",
+      "isCore": true,
+      "pos_hint": [
+        "n",
+        "v"
+      ],
+      "forms": [
+        "billed",
+        "billing",
+        "bills"
+      ],
+      "cefr": "A2",
+      "freqRank": 888,
+      "confusable_candidates": [
+        "ball",
+        "bell",
+        "belt",
+        "bias",
+        "bible",
+        "bid"
+      ]
+    },
+    {
+      "id": "dress",
+      "headword": "dress",
+      "level": "ELEM",
+      "isCore": true,
+      "pos_hint": [
+        "n",
+        "v"
+      ],
+      "forms": [
+        "dressed",
+        "dresses",
+        "dressing"
+      ],
+      "cefr": "A1",
+      "freqRank": 899,
+      "confusable_candidates": [
+        "bless",
+        "chess",
+        "cross",
+        "desk",
+        "dread",
+        "dream"
+      ]
+    },
+    {
+      "id": "guess",
+      "headword": "guess",
+      "level": "ELEM",
+      "isCore": true,
+      "pos_hint": [
+        "n",
+        "v"
+      ],
+      "forms": [
+        "guessed",
+        "guesses",
+        "guessing"
+      ],
+      "cefr": "A1",
+      "freqRank": 901,
+      "confusable_candidates": [
+        "bless",
+        "chess",
+        "dress",
+        "glass",
+        "grass",
+        "gross"
+      ]
+    },
+    {
+      "id": "fun",
+      "headword": "fun",
+      "level": "ELEM",
+      "isCore": true,
+      "pos_hint": [
+        "adj",
+        "n"
+      ],
+      "forms": [],
+      "cefr": "A1",
+      "freqRank": 902,
+      "confusable_candidates": []
+    },
+    {
+      "id": "exercise",
+      "headword": "exercise",
+      "level": "ELEM",
+      "isCore": true,
+      "pos_hint": [
+        "n",
+        "v"
+      ],
+      "forms": [
+        "exercised",
+        "exercises",
+        "exercising"
+      ],
+      "cefr": "A1",
+      "freqRank": 917,
+      "confusable_candidates": [
+        "expertise"
+      ]
+    }
+  ]
+}

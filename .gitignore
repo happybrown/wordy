@@ -1,0 +1,27 @@
+# Android / Gradle
+*.iml
+.gradle/
+/local.properties
+/.idea/
+.DS_Store
+/build/
+/captures
+.externalNativeBuild
+.cxx
+/app/build/
+/app/release/
+*.apk
+*.aab
+*.keystore
+
+# Node
+node_modules/
+tools/node_modules/
+
+# Content pipeline: raw downloads are re-fetchable; keep extracted txt out too
+content/sources/*
+!content/sources/README.md
+
+# On-device AI models (never commit)
+*.litertlm
+*.task

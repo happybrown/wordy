@@ -1,0 +1,486 @@
+{
+  "batch": "d013",
+  "kind": "deep",
+  "levels": [
+    "ELEM",
+    "MID"
+  ],
+  "count": 20,
+  "entries": [
+    {
+      "id": "post",
+      "headword": "post",
+      "level": "ELEM",
+      "isCore": true,
+      "pos_hint": [
+        "n",
+        "v"
+      ],
+      "forms": [
+        "posted",
+        "posting",
+        "postings",
+        "posts"
+      ],
+      "cefr": "A1",
+      "freqRank": 928,
+      "confusable_candidates": [
+        "best",
+        "boat",
+        "boost",
+        "boot",
+        "boss",
+        "bust"
+      ]
+    },
+    {
+      "id": "ring",
+      "headword": "ring",
+      "level": "ELEM",
+      "isCore": true,
+      "pos_hint": [
+        "n",
+        "v"
+      ],
+      "forms": [
+        "rang",
+        "ringed",
+        "ringing",
+        "rings",
+        "rung"
+      ],
+      "cefr": "A1",
+      "freqRank": 945,
+      "confusable_candidates": [
+        "bang",
+        "big",
+        "bin",
+        "bind",
+        "bring",
+        "cling"
+      ]
+    },
+    {
+      "id": "rock",
+      "headword": "rock",
+      "level": "ELEM",
+      "isCore": true,
+      "pos_hint": [
+        "n",
+        "v"
+      ],
+      "forms": [
+        "rocked",
+        "rocking",
+        "rocks"
+      ],
+      "cefr": "A2",
+      "freqRank": 965,
+      "confusable_candidates": [
+        "back",
+        "block",
+        "book",
+        "brick",
+        "clock",
+        "cook"
+      ]
+    },
+    {
+      "id": "dream",
+      "headword": "dream",
+      "level": "ELEM",
+      "isCore": true,
+      "pos_hint": [
+        "n",
+        "v"
+      ],
+      "forms": [
+        "dreamed",
+        "dreaming",
+        "dreams",
+        "dreamt"
+      ],
+      "cefr": "A1",
+      "freqRank": 966,
+      "confusable_candidates": [
+        "area",
+        "beam",
+        "bread",
+        "break",
+        "cream",
+        "dead"
+      ]
+    },
+    {
+      "id": "fix",
+      "headword": "fix",
+      "level": "ELEM",
+      "isCore": true,
+      "pos_hint": [
+        "n",
+        "v"
+      ],
+      "forms": [
+        "fixed",
+        "fixes",
+        "fixing",
+        "fixings"
+      ],
+      "cefr": "A2",
+      "freqRank": 973,
+      "confusable_candidates": []
+    },
+    {
+      "id": "cross",
+      "headword": "cross",
+      "level": "ELEM",
+      "isCore": true,
+      "pos_hint": [
+        "n",
+        "v"
+      ],
+      "forms": [
+        "crossed",
+        "crosses",
+        "crossing",
+        "crossings"
+      ],
+      "cefr": "A2",
+      "freqRank": 975,
+      "confusable_candidates": [
+        "boss",
+        "chess",
+        "class",
+        "close",
+        "cost",
+        "crash"
+      ]
+    },
+    {
+      "id": "welcome",
+      "headword": "welcome",
+      "level": "ELEM",
+      "isCore": true,
+      "pos_hint": [
+        "adj",
+        "interj",
+        "n",
+        "v"
+      ],
+      "forms": [
+        "welcomed",
+        "welcomes",
+        "welcoming"
+      ],
+      "cefr": "A1",
+      "freqRank": 989,
+      "confusable_candidates": [
+        "become"
+      ]
+    },
+    {
+      "id": "judge",
+      "headword": "judge",
+      "level": "ELEM",
+      "isCore": true,
+      "pos_hint": [
+        "n",
+        "v"
+      ],
+      "forms": [
+        "judged",
+        "judges",
+        "judging"
+      ],
+      "cefr": "A1",
+      "freqRank": 995,
+      "confusable_candidates": [
+        "budget",
+        "edge",
+        "huge",
+        "juice",
+        "june",
+        "rude"
+      ]
+    },
+    {
+      "id": "favorite",
+      "headword": "favorite",
+      "level": "ELEM",
+      "isCore": true,
+      "pos_hint": [
+        "adj",
+        "n"
+      ],
+      "forms": [
+        "favorites",
+        "favourite"
+      ],
+      "cefr": "A1",
+      "freqRank": 1000,
+      "confusable_candidates": [
+        "favorable"
+      ]
+    },
+    {
+      "id": "block",
+      "headword": "block",
+      "level": "ELEM",
+      "isCore": true,
+      "pos_hint": [
+        "n",
+        "v"
+      ],
+      "forms": [
+        "blocked",
+        "blocking",
+        "blocks"
+      ],
+      "cefr": "A1",
+      "freqRank": 1020,
+      "confusable_candidates": [
+        "back",
+        "black",
+        "blank",
+        "blink",
+        "blog",
+        "blood"
+      ]
+    },
+    {
+      "id": "warm",
+      "headword": "warm",
+      "level": "ELEM",
+      "isCore": true,
+      "pos_hint": [
+        "adj",
+        "v"
+      ],
+      "forms": [
+        "warmed",
+        "warmer",
+        "warmest",
+        "warming",
+        "warms"
+      ],
+      "cefr": "A1",
+      "freqRank": 1021,
+      "confusable_candidates": [
+        "aim",
+        "alarm",
+        "arm",
+        "army",
+        "art",
+        "award"
+      ]
+    },
+    {
+      "id": "correct",
+      "headword": "correct",
+      "level": "ELEM",
+      "isCore": true,
+      "pos_hint": [
+        "adj",
+        "v"
+      ],
+      "forms": [
+        "corrected",
+        "correcting",
+        "corrects"
+      ],
+      "cefr": "A1",
+      "freqRank": 1032,
+      "confusable_candidates": [
+        "collect",
+        "connect",
+        "correction",
+        "correctly",
+        "correspond",
+        "corrupt"
+      ]
+    },
+    {
+      "id": "telephone",
+      "headword": "telephone",
+      "level": "ELEM",
+      "isCore": true,
+      "pos_hint": [
+        "n",
+        "v"
+      ],
+      "forms": [
+        "telephoned",
+        "telephones",
+        "telephoning"
+      ],
+      "cefr": "A1",
+      "freqRank": 1036,
+      "confusable_candidates": []
+    },
+    {
+      "id": "copy",
+      "headword": "copy",
+      "level": "ELEM",
+      "isCore": true,
+      "pos_hint": [
+        "n",
+        "v"
+      ],
+      "forms": [
+        "copied",
+        "copies",
+        "copying"
+      ],
+      "cefr": "A1",
+      "freqRank": 1037,
+      "confusable_candidates": [
+        "body",
+        "boy",
+        "cap",
+        "cape",
+        "chop",
+        "city"
+      ]
+    },
+    {
+      "id": "stress",
+      "headword": "stress",
+      "level": "ELEM",
+      "isCore": true,
+      "pos_hint": [
+        "n",
+        "v"
+      ],
+      "forms": [
+        "stressed",
+        "stresses"
+      ],
+      "cefr": "B1",
+      "freqRank": 1044,
+      "confusable_candidates": [
+        "dress",
+        "press",
+        "stream",
+        "street"
+      ]
+    },
+    {
+      "id": "ride",
+      "headword": "ride",
+      "level": "ELEM",
+      "isCore": true,
+      "pos_hint": [
+        "n",
+        "v"
+      ],
+      "forms": [
+        "ridden",
+        "rides",
+        "riding",
+        "rode"
+      ],
+      "cefr": "A1",
+      "freqRank": 1050,
+      "confusable_candidates": [
+        "aid",
+        "arise",
+        "aside",
+        "bid",
+        "bike",
+        "bite"
+      ]
+    },
+    {
+      "id": "straight",
+      "headword": "straight",
+      "level": "ELEM",
+      "isCore": true,
+      "pos_hint": [
+        "adj",
+        "adv"
+      ],
+      "forms": [
+        "straighter",
+        "straightest"
+      ],
+      "cefr": "A1",
+      "freqRank": 1072,
+      "confusable_candidates": [
+        "strain"
+      ]
+    },
+    {
+      "id": "fair",
+      "headword": "fair",
+      "level": "ELEM",
+      "isCore": true,
+      "pos_hint": [
+        "adj",
+        "n"
+      ],
+      "forms": [
+        "fairer",
+        "fairest",
+        "fairs"
+      ],
+      "cefr": "A1",
+      "freqRank": 1080,
+      "confusable_candidates": [
+        "aid",
+        "aim",
+        "air",
+        "bar",
+        "car",
+        "chair"
+      ]
+    },
+    {
+      "id": "hang",
+      "headword": "hang",
+      "level": "ELEM",
+      "isCore": true,
+      "pos_hint": [
+        "n",
+        "v"
+      ],
+      "forms": [
+        "hanged",
+        "hanging",
+        "hangings",
+        "hangs",
+        "hung"
+      ],
+      "cefr": "B1",
+      "freqRank": 1085,
+      "confusable_candidates": [
+        "ant",
+        "bag",
+        "ban",
+        "band",
+        "bang",
+        "bank"
+      ]
+    },
+    {
+      "id": "even",
+      "headword": "even",
+      "level": "MID",
+      "isCore": true,
+      "pos_hint": [
+        "adj",
+        "adv"
+      ],
+      "forms": [],
+      "cefr": "A2",
+      "freqRank": 96,
+      "confusable_candidates": [
+        "earn",
+        "eve",
+        "event",
+        "evil",
+        "eye",
+        "fever"
+      ]
+    }
+  ]
+}

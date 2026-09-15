@@ -1,0 +1,450 @@
+{
+  "batch": "d007",
+  "kind": "deep",
+  "levels": [
+    "ELEM"
+  ],
+  "count": 20,
+  "entries": [
+    {
+      "id": "through",
+      "headword": "through",
+      "level": "ELEM",
+      "isCore": true,
+      "pos_hint": [
+        "adv",
+        "prep"
+      ],
+      "forms": [],
+      "cefr": "A1",
+      "freqRank": 108,
+      "confusable_candidates": [
+        "thorough",
+        "though",
+        "throughout"
+      ]
+    },
+    {
+      "id": "still",
+      "headword": "still",
+      "level": "ELEM",
+      "isCore": true,
+      "pos_hint": [
+        "adj",
+        "adv"
+      ],
+      "forms": [
+        "stiller",
+        "stillest"
+      ],
+      "cefr": "A1",
+      "freqRank": 119,
+      "confusable_candidates": [
+        "bill",
+        "chill",
+        "fill",
+        "hill",
+        "kill",
+        "mill"
+      ]
+    },
+    {
+      "id": "lot",
+      "headword": "lot",
+      "level": "ELEM",
+      "isCore": true,
+      "pos_hint": [
+        "adv",
+        "n",
+        "pron"
+      ],
+      "forms": [
+        "lots"
+      ],
+      "cefr": "A1",
+      "freqRank": 123,
+      "confusable_candidates": []
+    },
+    {
+      "id": "leave",
+      "headword": "leave",
+      "level": "ELEM",
+      "isCore": true,
+      "pos_hint": [
+        "n",
+        "v"
+      ],
+      "forms": [
+        "leaved",
+        "leaves",
+        "leaving",
+        "leavings",
+        "left"
+      ],
+      "cefr": "A1",
+      "freqRank": 126,
+      "confusable_candidates": [
+        "behave",
+        "brave",
+        "cave",
+        "cease",
+        "ease",
+        "grave"
+      ]
+    },
+    {
+      "id": "own",
+      "headword": "own",
+      "level": "ELEM",
+      "isCore": true,
+      "pos_hint": [
+        "adj",
+        "pron",
+        "v"
+      ],
+      "forms": [
+        "owned",
+        "owning",
+        "owns"
+      ],
+      "cefr": "A1",
+      "freqRank": 129,
+      "confusable_candidates": []
+    },
+    {
+      "id": "part",
+      "headword": "part",
+      "level": "ELEM",
+      "isCore": true,
+      "pos_hint": [
+        "n",
+        "v"
+      ],
+      "forms": [
+        "parted",
+        "parting",
+        "parts"
+      ],
+      "cefr": "A2",
+      "freqRank": 130,
+      "confusable_candidates": [
+        "act",
+        "ant",
+        "apart",
+        "arm",
+        "art",
+        "bar"
+      ]
+    },
+    {
+      "id": "let",
+      "headword": "let",
+      "level": "ELEM",
+      "isCore": true,
+      "pos_hint": [
+        "v"
+      ],
+      "forms": [
+        "lets",
+        "letting",
+        "lettings"
+      ],
+      "cefr": "A1",
+      "freqRank": 174,
+      "confusable_candidates": []
+    },
+    {
+      "id": "set",
+      "headword": "set",
+      "level": "ELEM",
+      "isCore": true,
+      "pos_hint": [
+        "n",
+        "v"
+      ],
+      "forms": [
+        "sets",
+        "setting",
+        "settings"
+      ],
+      "cefr": "A1",
+      "freqRank": 185,
+      "confusable_candidates": []
+    },
+    {
+      "id": "order",
+      "headword": "order",
+      "level": "ELEM",
+      "isCore": true,
+      "pos_hint": [
+        "n",
+        "v"
+      ],
+      "forms": [
+        "ordered",
+        "ordering",
+        "orders"
+      ],
+      "cefr": "A1",
+      "freqRank": 215,
+      "confusable_candidates": [
+        "border",
+        "corner",
+        "former",
+        "holder",
+        "murder",
+        "offer"
+      ]
+    },
+    {
+      "id": "hold",
+      "headword": "hold",
+      "level": "ELEM",
+      "isCore": true,
+      "pos_hint": [
+        "n",
+        "v"
+      ],
+      "forms": [
+        "held",
+        "holding",
+        "holdings",
+        "holds"
+      ],
+      "cefr": "A1",
+      "freqRank": 222,
+      "confusable_candidates": [
+        "bold",
+        "bond",
+        "child",
+        "cold",
+        "cord",
+        "doll"
+      ]
+    },
+    {
+      "id": "love",
+      "headword": "love",
+      "level": "ELEM",
+      "isCore": true,
+      "pos_hint": [
+        "n",
+        "v"
+      ],
+      "forms": [
+        "loved",
+        "loves",
+        "loving"
+      ],
+      "cefr": "A1",
+      "freqRank": 229,
+      "confusable_candidates": [
+        "alive",
+        "alone",
+        "bone",
+        "bore",
+        "cave",
+        "clone"
+      ]
+    },
+    {
+      "id": "plan",
+      "headword": "plan",
+      "level": "ELEM",
+      "isCore": true,
+      "pos_hint": [
+        "n",
+        "v"
+      ],
+      "forms": [
+        "planned",
+        "planning",
+        "plans"
+      ],
+      "cefr": "A1",
+      "freqRank": 232,
+      "confusable_candidates": [
+        "ban",
+        "bean",
+        "blank",
+        "clap",
+        "clay",
+        "clean"
+      ]
+    },
+    {
+      "id": "result",
+      "headword": "result",
+      "level": "ELEM",
+      "isCore": true,
+      "pos_hint": [
+        "n",
+        "v"
+      ],
+      "forms": [
+        "resulted",
+        "resulting",
+        "results"
+      ],
+      "cefr": "A1",
+      "freqRank": 233,
+      "confusable_candidates": [
+        "insult",
+        "resist",
+        "resort",
+        "resume"
+      ]
+    },
+    {
+      "id": "away",
+      "headword": "away",
+      "level": "ELEM",
+      "isCore": true,
+      "pos_hint": [
+        "adv"
+      ],
+      "forms": [],
+      "cefr": "A1",
+      "freqRank": 234,
+      "confusable_candidates": [
+        "ally",
+        "army",
+        "await",
+        "awake",
+        "award",
+        "aware"
+      ]
+    },
+    {
+      "id": "happen",
+      "headword": "happen",
+      "level": "ELEM",
+      "isCore": true,
+      "pos_hint": [
+        "v"
+      ],
+      "forms": [
+        "happened",
+        "happening",
+        "happenings",
+        "happens"
+      ],
+      "cefr": "A1",
+      "freqRank": 236,
+      "confusable_candidates": [
+        "happy"
+      ]
+    },
+    {
+      "id": "program",
+      "headword": "program",
+      "level": "ELEM",
+      "isCore": true,
+      "pos_hint": [
+        "n",
+        "v"
+      ],
+      "forms": [
+        "programed",
+        "programing",
+        "programme",
+        "programmed",
+        "programmes",
+        "programming",
+        "programs"
+      ],
+      "cefr": "A1",
+      "freqRank": 240,
+      "confusable_candidates": [
+        "progress",
+        "progressive"
+      ]
+    },
+    {
+      "id": "far",
+      "headword": "far",
+      "level": "ELEM",
+      "isCore": true,
+      "pos_hint": [
+        "adj",
+        "adv"
+      ],
+      "forms": [
+        "farther",
+        "farthest"
+      ],
+      "cefr": "A2",
+      "freqRank": 245,
+      "confusable_candidates": []
+    },
+    {
+      "id": "today",
+      "headword": "today",
+      "level": "ELEM",
+      "isCore": true,
+      "pos_hint": [
+        "adv",
+        "n"
+      ],
+      "forms": [],
+      "cefr": "A1",
+      "freqRank": 246,
+      "confusable_candidates": [
+        "body",
+        "monday",
+        "tidy",
+        "total",
+        "tray"
+      ]
+    },
+    {
+      "id": "hope",
+      "headword": "hope",
+      "level": "ELEM",
+      "isCore": true,
+      "pos_hint": [
+        "n",
+        "v"
+      ],
+      "forms": [
+        "hoped",
+        "hopes",
+        "hoping"
+      ],
+      "cefr": "A1",
+      "freqRank": 250,
+      "confusable_candidates": [
+        "bone",
+        "bore",
+        "cape",
+        "chop",
+        "code",
+        "coke"
+      ]
+    },
+    {
+      "id": "cost",
+      "headword": "cost",
+      "level": "ELEM",
+      "isCore": true,
+      "pos_hint": [
+        "n",
+        "v"
+      ],
+      "forms": [
+        "costing",
+        "costs"
+      ],
+      "cefr": "A2",
+      "freqRank": 252,
+      "confusable_candidates": [
+        "best",
+        "boat",
+        "boost",
+        "boot",
+        "boss",
+        "bust"
+      ]
+    }
+  ]
+}

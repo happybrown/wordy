@@ -1,0 +1,1289 @@
+{
+  "batch": "l009",
+  "kind": "light",
+  "levels": [
+    "ELEM"
+  ],
+  "count": 60,
+  "entries": [
+    {
+      "id": "noise",
+      "headword": "noise",
+      "level": "ELEM",
+      "isCore": false,
+      "pos_hint": [
+        "n"
+      ],
+      "forms": [
+        "noises"
+      ],
+      "cefr": "A1",
+      "freqRank": 1440,
+      "confusable_candidates": [
+        "arise",
+        "dose",
+        "horse",
+        "house",
+        "loose",
+        "lose"
+      ]
+    },
+    {
+      "id": "gold",
+      "headword": "gold",
+      "level": "ELEM",
+      "isCore": false,
+      "pos_hint": [
+        "adj",
+        "n"
+      ],
+      "forms": [],
+      "cefr": "A1",
+      "freqRank": 1453,
+      "confusable_candidates": [
+        "bold",
+        "bond",
+        "cold",
+        "cord",
+        "doll",
+        "fold"
+      ]
+    },
+    {
+      "id": "skin",
+      "headword": "skin",
+      "level": "ELEM",
+      "isCore": false,
+      "pos_hint": [
+        "n"
+      ],
+      "forms": [
+        "skins"
+      ],
+      "cefr": "B1",
+      "freqRank": 1461,
+      "confusable_candidates": [
+        "bin",
+        "chin",
+        "coin",
+        "gain",
+        "grin",
+        "join"
+      ]
+    },
+    {
+      "id": "wood",
+      "headword": "wood",
+      "level": "ELEM",
+      "isCore": false,
+      "pos_hint": [
+        "n"
+      ],
+      "forms": [
+        "woods"
+      ],
+      "cefr": "A2",
+      "freqRank": 1467,
+      "confusable_candidates": [
+        "blood",
+        "bold",
+        "bond",
+        "book",
+        "boom",
+        "boot"
+      ]
+    },
+    {
+      "id": "shake",
+      "headword": "shake",
+      "level": "ELEM",
+      "isCore": false,
+      "pos_hint": [
+        "n",
+        "v"
+      ],
+      "forms": [
+        "shaken",
+        "shakes",
+        "shaking",
+        "shook"
+      ],
+      "cefr": "A1",
+      "freqRank": 1474,
+      "confusable_candidates": [
+        "awake",
+        "bake",
+        "brake",
+        "cake",
+        "chase",
+        "hate"
+      ]
+    },
+    {
+      "id": "hall",
+      "headword": "hall",
+      "level": "ELEM",
+      "isCore": false,
+      "pos_hint": [
+        "n"
+      ],
+      "forms": [
+        "halls"
+      ],
+      "cefr": "A1",
+      "freqRank": 1480,
+      "confusable_candidates": [
+        "ally",
+        "ball",
+        "bell",
+        "bill",
+        "bull",
+        "call"
+      ]
+    },
+    {
+      "id": "error",
+      "headword": "error",
+      "level": "ELEM",
+      "isCore": false,
+      "pos_hint": [
+        "n"
+      ],
+      "forms": [
+        "errors"
+      ],
+      "cefr": "A2",
+      "freqRank": 1497,
+      "confusable_candidates": [
+        "arrow",
+        "euro",
+        "horror",
+        "mirror",
+        "prior"
+      ]
+    },
+    {
+      "id": "wake",
+      "headword": "wake",
+      "level": "ELEM",
+      "isCore": false,
+      "pos_hint": [
+        "n",
+        "v"
+      ],
+      "forms": [
+        "waked",
+        "wakes",
+        "waking",
+        "woke",
+        "woken"
+      ],
+      "cefr": "A1",
+      "freqRank": 1508,
+      "confusable_candidates": [
+        "age",
+        "awake",
+        "aware",
+        "bake",
+        "bare",
+        "base"
+      ]
+    },
+    {
+      "id": "bright",
+      "headword": "bright",
+      "level": "ELEM",
+      "isCore": false,
+      "pos_hint": [
+        "adj"
+      ],
+      "forms": [
+        "brighter",
+        "brightest"
+      ],
+      "cefr": "A1",
+      "freqRank": 1510,
+      "confusable_candidates": [
+        "alright",
+        "fight",
+        "flight",
+        "fright",
+        "height",
+        "knight"
+      ]
+    },
+    {
+      "id": "hole",
+      "headword": "hole",
+      "level": "ELEM",
+      "isCore": false,
+      "pos_hint": [
+        "n"
+      ],
+      "forms": [
+        "holes"
+      ],
+      "cefr": "A1",
+      "freqRank": 1515,
+      "confusable_candidates": [
+        "able",
+        "bold",
+        "bone",
+        "bore",
+        "code",
+        "coke"
+      ]
+    },
+    {
+      "id": "chain",
+      "headword": "chain",
+      "level": "ELEM",
+      "isCore": false,
+      "pos_hint": [
+        "n"
+      ],
+      "forms": [
+        "chains"
+      ],
+      "cefr": "A2",
+      "freqRank": 1518,
+      "confusable_candidates": [
+        "again",
+        "brain",
+        "cabin",
+        "chair",
+        "chaos",
+        "charm"
+      ]
+    },
+    {
+      "id": "birth",
+      "headword": "birth",
+      "level": "ELEM",
+      "isCore": false,
+      "pos_hint": [
+        "n"
+      ],
+      "forms": [
+        "births"
+      ],
+      "cefr": "A1",
+      "freqRank": 1526,
+      "confusable_candidates": [
+        "bath",
+        "bird",
+        "bite",
+        "dirty",
+        "earth",
+        "forth"
+      ]
+    },
+    {
+      "id": "forest",
+      "headword": "forest",
+      "level": "ELEM",
+      "isCore": false,
+      "pos_hint": [
+        "n"
+      ],
+      "forms": [
+        "forests"
+      ],
+      "cefr": "A2",
+      "freqRank": 1527,
+      "confusable_candidates": [
+        "arrest",
+        "forget",
+        "format",
+        "fresh",
+        "frost",
+        "honest"
+      ]
+    },
+    {
+      "id": "factory",
+      "headword": "factory",
+      "level": "ELEM",
+      "isCore": false,
+      "pos_hint": [
+        "n"
+      ],
+      "forms": [
+        "factories"
+      ],
+      "cefr": "A1",
+      "freqRank": 1530,
+      "confusable_candidates": [
+        "factor",
+        "victory"
+      ]
+    },
+    {
+      "id": "west",
+      "headword": "west",
+      "level": "ELEM",
+      "isCore": false,
+      "pos_hint": [
+        "adj",
+        "adv",
+        "n"
+      ],
+      "forms": [],
+      "cefr": "A2",
+      "freqRank": 1537,
+      "confusable_candidates": [
+        "beast",
+        "beat",
+        "belt",
+        "best",
+        "bet",
+        "bust"
+      ]
+    },
+    {
+      "id": "bridge",
+      "headword": "bridge",
+      "level": "ELEM",
+      "isCore": false,
+      "pos_hint": [
+        "n"
+      ],
+      "forms": [
+        "bridges"
+      ],
+      "cefr": "A1",
+      "freqRank": 1546,
+      "confusable_candidates": [
+        "bride",
+        "bring",
+        "pride"
+      ]
+    },
+    {
+      "id": "brand",
+      "headword": "brand",
+      "level": "ELEM",
+      "isCore": false,
+      "pos_hint": [
+        "n"
+      ],
+      "forms": [
+        "brands"
+      ],
+      "cefr": "A2",
+      "freqRank": 1549,
+      "confusable_candidates": [
+        "band",
+        "bang",
+        "bank",
+        "bean",
+        "beard",
+        "bend"
+      ]
+    },
+    {
+      "id": "ice",
+      "headword": "ice",
+      "level": "ELEM",
+      "isCore": false,
+      "pos_hint": [
+        "n"
+      ],
+      "forms": [
+        "ices"
+      ],
+      "cefr": "A1",
+      "freqRank": 1554,
+      "confusable_candidates": []
+    },
+    {
+      "id": "grade",
+      "headword": "grade",
+      "level": "ELEM",
+      "isCore": false,
+      "pos_hint": [
+        "n",
+        "v"
+      ],
+      "forms": [
+        "graded",
+        "grades",
+        "grading"
+      ],
+      "cefr": "A1",
+      "freqRank": 1559,
+      "confusable_candidates": [
+        "brake",
+        "brave",
+        "bride",
+        "fade",
+        "frame",
+        "game"
+      ]
+    },
+    {
+      "id": "farmer",
+      "headword": "farmer",
+      "level": "ELEM",
+      "isCore": false,
+      "pos_hint": [
+        "n"
+      ],
+      "forms": [
+        "farmers"
+      ],
+      "cefr": "A1",
+      "freqRank": 1580,
+      "confusable_candidates": [
+        "career",
+        "father",
+        "former",
+        "hammer"
+      ]
+    },
+    {
+      "id": "tea",
+      "headword": "tea",
+      "level": "ELEM",
+      "isCore": false,
+      "pos_hint": [
+        "n"
+      ],
+      "forms": [
+        "teas"
+      ],
+      "cefr": "A1",
+      "freqRank": 1599,
+      "confusable_candidates": []
+    },
+    {
+      "id": "lovely",
+      "headword": "lovely",
+      "level": "ELEM",
+      "isCore": false,
+      "pos_hint": [
+        "adj"
+      ],
+      "forms": [
+        "lovelier",
+        "loveliest"
+      ],
+      "cefr": "A1",
+      "freqRank": 1600,
+      "confusable_candidates": [
+        "closely",
+        "level",
+        "likely",
+        "lonely",
+        "lover",
+        "novel"
+      ]
+    },
+    {
+      "id": "row",
+      "headword": "row",
+      "level": "ELEM",
+      "isCore": false,
+      "pos_hint": [
+        "n",
+        "v"
+      ],
+      "forms": [
+        "rowed",
+        "rowing",
+        "rows"
+      ],
+      "cefr": "A1",
+      "freqRank": 1602,
+      "confusable_candidates": []
+    },
+    {
+      "id": "celebrate",
+      "headword": "celebrate",
+      "level": "ELEM",
+      "isCore": false,
+      "pos_hint": [
+        "v"
+      ],
+      "forms": [
+        "celebrated",
+        "celebrates",
+        "celebrating"
+      ],
+      "cefr": "A1",
+      "freqRank": 1608,
+      "confusable_candidates": [
+        "celebration",
+        "celebrity"
+      ]
+    },
+    {
+      "id": "shoulder",
+      "headword": "shoulder",
+      "level": "ELEM",
+      "isCore": false,
+      "pos_hint": [
+        "n"
+      ],
+      "forms": [
+        "shoulders"
+      ],
+      "cefr": "A1",
+      "freqRank": 1610,
+      "confusable_candidates": []
+    },
+    {
+      "id": "bottle",
+      "headword": "bottle",
+      "level": "ELEM",
+      "isCore": false,
+      "pos_hint": [
+        "n",
+        "v"
+      ],
+      "forms": [
+        "bottled",
+        "bottles",
+        "bottling"
+      ],
+      "cefr": "A1",
+      "freqRank": 1614,
+      "confusable_candidates": [
+        "battle",
+        "bottom",
+        "cattle",
+        "little",
+        "settle"
+      ]
+    },
+    {
+      "id": "engine",
+      "headword": "engine",
+      "level": "ELEM",
+      "isCore": false,
+      "pos_hint": [
+        "n"
+      ],
+      "forms": [
+        "engines"
+      ],
+      "cefr": "B1",
+      "freqRank": 1617,
+      "confusable_candidates": [
+        "engage",
+        "engineer",
+        "entire",
+        "genuine",
+        "online"
+      ]
+    },
+    {
+      "id": "careful",
+      "headword": "careful",
+      "level": "ELEM",
+      "isCore": false,
+      "pos_hint": [
+        "adj"
+      ],
+      "forms": [],
+      "cefr": "A1",
+      "freqRank": 1637,
+      "confusable_candidates": [
+        "carefully"
+      ]
+    },
+    {
+      "id": "fruit",
+      "headword": "fruit",
+      "level": "ELEM",
+      "isCore": false,
+      "pos_hint": [
+        "n"
+      ],
+      "forms": [
+        "fruits"
+      ],
+      "cefr": "A1",
+      "freqRank": 1640,
+      "confusable_candidates": [
+        "fault",
+        "fluid",
+        "front",
+        "frost",
+        "orbit",
+        "quit"
+      ]
+    },
+    {
+      "id": "mail",
+      "headword": "mail",
+      "level": "ELEM",
+      "isCore": false,
+      "pos_hint": [
+        "n",
+        "v"
+      ],
+      "forms": [
+        "mailed",
+        "mailing",
+        "mailings",
+        "mails"
+      ],
+      "cefr": "A1",
+      "freqRank": 1643,
+      "confusable_candidates": [
+        "aid",
+        "aim",
+        "air",
+        "ball",
+        "boil",
+        "call"
+      ]
+    },
+    {
+      "id": "terrible",
+      "headword": "terrible",
+      "level": "ELEM",
+      "isCore": false,
+      "pos_hint": [
+        "adj"
+      ],
+      "forms": [],
+      "cefr": "A1",
+      "freqRank": 1644,
+      "confusable_candidates": [
+        "horrible",
+        "terribly",
+        "terrific",
+        "territory"
+      ]
+    },
+    {
+      "id": "fat",
+      "headword": "fat",
+      "level": "ELEM",
+      "isCore": false,
+      "pos_hint": [
+        "adj",
+        "n"
+      ],
+      "forms": [
+        "fats",
+        "fatter",
+        "fattest"
+      ],
+      "cefr": "A1",
+      "freqRank": 1654,
+      "confusable_candidates": []
+    },
+    {
+      "id": "yard",
+      "headword": "yard",
+      "level": "ELEM",
+      "isCore": false,
+      "pos_hint": [
+        "n"
+      ],
+      "forms": [
+        "yards"
+      ],
+      "cefr": "A1",
+      "freqRank": 1667,
+      "confusable_candidates": [
+        "add",
+        "aid",
+        "arm",
+        "art",
+        "award",
+        "bad"
+      ]
+    },
+    {
+      "id": "hill",
+      "headword": "hill",
+      "level": "ELEM",
+      "isCore": false,
+      "pos_hint": [
+        "n"
+      ],
+      "forms": [
+        "hills"
+      ],
+      "cefr": "A1",
+      "freqRank": 1670,
+      "confusable_candidates": [
+        "ball",
+        "bell",
+        "bill",
+        "bull",
+        "call",
+        "cell"
+      ]
+    },
+    {
+      "id": "ideal",
+      "headword": "ideal",
+      "level": "ELEM",
+      "isCore": false,
+      "pos_hint": [
+        "adj"
+      ],
+      "forms": [],
+      "cefr": "A1",
+      "freqRank": 1674,
+      "confusable_candidates": [
+        "dead",
+        "deal",
+        "dear",
+        "dual",
+        "heal",
+        "idea"
+      ]
+    },
+    {
+      "id": "kiss",
+      "headword": "kiss",
+      "level": "ELEM",
+      "isCore": false,
+      "pos_hint": [
+        "n",
+        "v"
+      ],
+      "forms": [
+        "kissed",
+        "kisses",
+        "kissing"
+      ],
+      "cefr": "A1",
+      "freqRank": 1680,
+      "confusable_candidates": [
+        "bias",
+        "boss",
+        "dish",
+        "disk",
+        "fish",
+        "fist"
+      ]
+    },
+    {
+      "id": "thin",
+      "headword": "thin",
+      "level": "ELEM",
+      "isCore": false,
+      "pos_hint": [
+        "adj"
+      ],
+      "forms": [
+        "thinner",
+        "thinnest"
+      ],
+      "cefr": "A1",
+      "freqRank": 1698,
+      "confusable_candidates": [
+        "bin",
+        "chain",
+        "chin",
+        "chip",
+        "coin",
+        "gain"
+      ]
+    },
+    {
+      "id": "circle",
+      "headword": "circle",
+      "level": "ELEM",
+      "isCore": false,
+      "pos_hint": [
+        "n",
+        "v"
+      ],
+      "forms": [
+        "circled",
+        "circles",
+        "circling"
+      ],
+      "cefr": "A1",
+      "freqRank": 1712,
+      "confusable_candidates": [
+        "cycle",
+        "miracle"
+      ]
+    },
+    {
+      "id": "sick",
+      "headword": "sick",
+      "level": "ELEM",
+      "isCore": false,
+      "pos_hint": [
+        "adj"
+      ],
+      "forms": [
+        "sicker",
+        "sickest"
+      ],
+      "cefr": "A1",
+      "freqRank": 1716,
+      "confusable_candidates": [
+        "back",
+        "brick",
+        "click",
+        "deck",
+        "disk",
+        "duck"
+      ]
+    },
+    {
+      "id": "kick",
+      "headword": "kick",
+      "level": "ELEM",
+      "isCore": false,
+      "pos_hint": [
+        "n",
+        "v"
+      ],
+      "forms": [
+        "kicked",
+        "kicking",
+        "kicks"
+      ],
+      "cefr": "A1",
+      "freqRank": 1730,
+      "confusable_candidates": [
+        "back",
+        "brick",
+        "click",
+        "deck",
+        "disk",
+        "duck"
+      ]
+    },
+    {
+      "id": "mobile",
+      "headword": "mobile",
+      "level": "ELEM",
+      "isCore": false,
+      "pos_hint": [
+        "adj",
+        "n"
+      ],
+      "forms": [
+        "mobiles"
+      ],
+      "cefr": "A1",
+      "freqRank": 1738,
+      "confusable_candidates": [
+        "mobile phone",
+        "module",
+        "motive",
+        "movie",
+        "noble"
+      ]
+    },
+    {
+      "id": "advise",
+      "headword": "advise",
+      "level": "ELEM",
+      "isCore": false,
+      "pos_hint": [
+        "v"
+      ],
+      "forms": [
+        "advised",
+        "advises",
+        "advising"
+      ],
+      "cefr": "A2",
+      "freqRank": 1745,
+      "confusable_candidates": [
+        "admire",
+        "adverse",
+        "advice",
+        "adviser",
+        "arise",
+        "devise"
+      ]
+    },
+    {
+      "id": "east",
+      "headword": "east",
+      "level": "ELEM",
+      "isCore": false,
+      "pos_hint": [
+        "adj",
+        "adv",
+        "n"
+      ],
+      "forms": [],
+      "cefr": "A2",
+      "freqRank": 1749,
+      "confusable_candidates": [
+        "act",
+        "ant",
+        "art",
+        "ash",
+        "ask",
+        "base"
+      ]
+    },
+    {
+      "id": "medicine",
+      "headword": "medicine",
+      "level": "ELEM",
+      "isCore": false,
+      "pos_hint": [
+        "n"
+      ],
+      "forms": [
+        "medicines"
+      ],
+      "cefr": "A1",
+      "freqRank": 1761,
+      "confusable_candidates": [
+        "medical"
+      ]
+    },
+    {
+      "id": "smell",
+      "headword": "smell",
+      "level": "ELEM",
+      "isCore": false,
+      "pos_hint": [
+        "n",
+        "v"
+      ],
+      "forms": [
+        "smelled",
+        "smelling",
+        "smells"
+      ],
+      "cefr": "A1",
+      "freqRank": 1791,
+      "confusable_candidates": [
+        "bell",
+        "cell",
+        "dwell",
+        "hell",
+        "mall",
+        "meal"
+      ]
+    },
+    {
+      "id": "breakfast",
+      "headword": "breakfast",
+      "level": "ELEM",
+      "isCore": false,
+      "pos_hint": [
+        "n"
+      ],
+      "forms": [
+        "breakfasts"
+      ],
+      "cefr": "A1",
+      "freqRank": 1819,
+      "confusable_candidates": []
+    },
+    {
+      "id": "lake",
+      "headword": "lake",
+      "level": "ELEM",
+      "isCore": false,
+      "pos_hint": [
+        "n"
+      ],
+      "forms": [
+        "lakes"
+      ],
+      "cefr": "A2",
+      "freqRank": 1822,
+      "confusable_candidates": [
+        "age",
+        "alike",
+        "awake",
+        "bake",
+        "bare",
+        "base"
+      ]
+    },
+    {
+      "id": "habit",
+      "headword": "habit",
+      "level": "ELEM",
+      "isCore": false,
+      "pos_hint": [
+        "n"
+      ],
+      "forms": [
+        "habits"
+      ],
+      "cefr": "A1",
+      "freqRank": 1828,
+      "confusable_candidates": [
+        "cabin",
+        "debit",
+        "hair",
+        "halt",
+        "haunt",
+        "orbit"
+      ]
+    },
+    {
+      "id": "self",
+      "headword": "self",
+      "level": "ELEM",
+      "isCore": false,
+      "pos_hint": [
+        "n"
+      ],
+      "forms": [
+        "selves"
+      ],
+      "cefr": "A1",
+      "freqRank": 1833,
+      "confusable_candidates": [
+        "beef",
+        "bell",
+        "belt",
+        "cell",
+        "golf",
+        "gulf"
+      ]
+    },
+    {
+      "id": "bone",
+      "headword": "bone",
+      "level": "ELEM",
+      "isCore": false,
+      "pos_hint": [
+        "n"
+      ],
+      "forms": [
+        "bones"
+      ],
+      "cefr": "A1",
+      "freqRank": 1836,
+      "confusable_candidates": [
+        "alone",
+        "bake",
+        "ban",
+        "band",
+        "bang",
+        "bank"
+      ]
+    },
+    {
+      "id": "boss",
+      "headword": "boss",
+      "level": "ELEM",
+      "isCore": false,
+      "pos_hint": [
+        "n"
+      ],
+      "forms": [
+        "bosses"
+      ],
+      "cefr": "A2",
+      "freqRank": 1854,
+      "confusable_candidates": [
+        "base",
+        "basis",
+        "best",
+        "bias",
+        "bless",
+        "boat"
+      ]
+    },
+    {
+      "id": "coat",
+      "headword": "coat",
+      "level": "ELEM",
+      "isCore": false,
+      "pos_hint": [
+        "n"
+      ],
+      "forms": [
+        "coats"
+      ],
+      "cefr": "A1",
+      "freqRank": 1863,
+      "confusable_candidates": [
+        "bat",
+        "beat",
+        "boat",
+        "boot",
+        "cab",
+        "cap"
+      ]
+    },
+    {
+      "id": "pocket",
+      "headword": "pocket",
+      "level": "ELEM",
+      "isCore": false,
+      "pos_hint": [
+        "n"
+      ],
+      "forms": [
+        "pockets"
+      ],
+      "cefr": "A1",
+      "freqRank": 1865,
+      "confusable_candidates": [
+        "bucket",
+        "jacket",
+        "packet",
+        "ticket"
+      ]
+    },
+    {
+      "id": "lucky",
+      "headword": "lucky",
+      "level": "ELEM",
+      "isCore": false,
+      "pos_hint": [
+        "adj"
+      ],
+      "forms": [
+        "luckier",
+        "luckiest"
+      ],
+      "cefr": "A1",
+      "freqRank": 1866,
+      "confusable_candidates": [
+        "duck",
+        "lack",
+        "lock",
+        "luck",
+        "suck"
+      ]
+    },
+    {
+      "id": "borrow",
+      "headword": "borrow",
+      "level": "ELEM",
+      "isCore": false,
+      "pos_hint": [
+        "v"
+      ],
+      "forms": [
+        "borrowed",
+        "borrowing",
+        "borrowings",
+        "borrows"
+      ],
+      "cefr": "A1",
+      "freqRank": 1880,
+      "confusable_candidates": [
+        "arrow",
+        "borrower",
+        "horror",
+        "narrow"
+      ]
+    },
+    {
+      "id": "dish",
+      "headword": "dish",
+      "level": "ELEM",
+      "isCore": false,
+      "pos_hint": [
+        "n"
+      ],
+      "forms": [
+        "dishes"
+      ],
+      "cefr": "A1",
+      "freqRank": 1882,
+      "confusable_candidates": [
+        "ash",
+        "bush",
+        "cash",
+        "dash",
+        "desk",
+        "die"
+      ]
+    },
+    {
+      "id": "reporter",
+      "headword": "reporter",
+      "level": "ELEM",
+      "isCore": false,
+      "pos_hint": [
+        "n"
+      ],
+      "forms": [
+        "reporters"
+      ],
+      "cefr": "A1",
+      "freqRank": 1905,
+      "confusable_candidates": [
+        "report"
+      ]
+    },
+    {
+      "id": "shirt",
+      "headword": "shirt",
+      "level": "ELEM",
+      "isCore": false,
+      "pos_hint": [
+        "n"
+      ],
+      "forms": [
+        "shirts"
+      ],
+      "cefr": "A1",
+      "freqRank": 1907,
+      "confusable_candidates": [
+        "chart",
+        "hint",
+        "hire",
+        "hurt",
+        "share",
+        "sharp"
+      ]
+    },
+    {
+      "id": "breathe",
+      "headword": "breathe",
+      "level": "ELEM",
+      "isCore": false,
+      "pos_hint": [
+        "v"
+      ],
+      "forms": [
+        "breathed",
+        "breathes",
+        "breathing"
+      ],
+      "cefr": "A1",
+      "freqRank": 1914,
+      "confusable_candidates": [
+        "breach",
+        "breath",
+        "create"
+      ]
+    },
+    {
+      "id": "excuse",
+      "headword": "excuse",
+      "level": "ELEM",
+      "isCore": false,
+      "pos_hint": [
+        "n",
+        "v"
+      ],
+      "forms": [
+        "excused",
+        "excuses",
+        "excusing"
+      ],
+      "cefr": "A1",
+      "freqRank": 1915,
+      "confusable_candidates": [
+        "accuse",
+        "excess",
+        "excite",
+        "exclude",
+        "expose"
+      ]
+    }
+  ]
+}

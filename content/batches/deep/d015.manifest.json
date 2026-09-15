@@ -1,0 +1,476 @@
+{
+  "batch": "d015",
+  "kind": "deep",
+  "levels": [
+    "MID"
+  ],
+  "count": 20,
+  "entries": [
+    {
+      "id": "rather",
+      "headword": "rather",
+      "level": "MID",
+      "isCore": true,
+      "pos_hint": [
+        "adv"
+      ],
+      "forms": [],
+      "cefr": "A2",
+      "freqRank": 292,
+      "confusable_candidates": [
+        "bother",
+        "brother",
+        "cater",
+        "father",
+        "gather",
+        "later"
+      ]
+    },
+    {
+      "id": "view",
+      "headword": "view",
+      "level": "MID",
+      "isCore": true,
+      "pos_hint": [
+        "n",
+        "v"
+      ],
+      "forms": [
+        "viewed",
+        "viewing",
+        "views"
+      ],
+      "cefr": "A2",
+      "freqRank": 293,
+      "confusable_candidates": [
+        "brew",
+        "chew",
+        "crew",
+        "die",
+        "diet",
+        "lie"
+      ]
+    },
+    {
+      "id": "concern",
+      "headword": "concern",
+      "level": "MID",
+      "isCore": true,
+      "pos_hint": [
+        "n",
+        "v"
+      ],
+      "forms": [
+        "concerned",
+        "concerning",
+        "concerns"
+      ],
+      "cefr": "A2",
+      "freqRank": 303,
+      "confusable_candidates": [
+        "cancer",
+        "conceal",
+        "conceive",
+        "concentrate",
+        "concentration",
+        "concept"
+      ]
+    },
+    {
+      "id": "lose",
+      "headword": "lose",
+      "level": "MID",
+      "isCore": true,
+      "pos_hint": [
+        "v"
+      ],
+      "forms": [
+        "loses",
+        "losing",
+        "lost"
+      ],
+      "cefr": "A2",
+      "freqRank": 305,
+      "confusable_candidates": [
+        "alone",
+        "base",
+        "bone",
+        "bore",
+        "boss",
+        "case"
+      ]
+    },
+    {
+      "id": "whole",
+      "headword": "whole",
+      "level": "MID",
+      "isCore": true,
+      "pos_hint": [
+        "adj",
+        "n"
+      ],
+      "forms": [
+        "wholes"
+      ],
+      "cefr": "A2",
+      "freqRank": 310,
+      "confusable_candidates": [
+        "hold",
+        "hole",
+        "holy",
+        "home",
+        "hope",
+        "phone"
+      ]
+    },
+    {
+      "id": "rate",
+      "headword": "rate",
+      "level": "MID",
+      "isCore": true,
+      "pos_hint": [
+        "n",
+        "v"
+      ],
+      "forms": [
+        "rated",
+        "rates",
+        "rating",
+        "ratings"
+      ],
+      "cefr": "A2",
+      "freqRank": 312,
+      "confusable_candidates": [
+        "age",
+        "bake",
+        "bare",
+        "base",
+        "bat",
+        "bath"
+      ]
+    },
+    {
+      "id": "sort",
+      "headword": "sort",
+      "level": "MID",
+      "isCore": true,
+      "pos_hint": [
+        "n",
+        "v"
+      ],
+      "forms": [
+        "sorted",
+        "sorting",
+        "sorts"
+      ],
+      "cefr": "B1",
+      "freqRank": 316,
+      "confusable_candidates": [
+        "abort",
+        "art",
+        "boat",
+        "boot",
+        "bore",
+        "cart"
+      ]
+    },
+    {
+      "id": "cause",
+      "headword": "cause",
+      "level": "MID",
+      "isCore": true,
+      "pos_hint": [
+        "n",
+        "v"
+      ],
+      "forms": [
+        "caused",
+        "causes",
+        "causing"
+      ],
+      "cefr": "A2",
+      "freqRank": 319,
+      "confusable_candidates": [
+        "abuse",
+        "accuse",
+        "amuse",
+        "base",
+        "cable",
+        "cafe"
+      ]
+    },
+    {
+      "id": "deal",
+      "headword": "deal",
+      "level": "MID",
+      "isCore": true,
+      "pos_hint": [
+        "n",
+        "v"
+      ],
+      "forms": [
+        "dealing",
+        "deals",
+        "dealt"
+      ],
+      "cefr": "A2",
+      "freqRank": 321,
+      "confusable_candidates": [
+        "beam",
+        "bean",
+        "bear",
+        "beat",
+        "bell",
+        "cell"
+      ]
+    },
+    {
+      "id": "value",
+      "headword": "value",
+      "level": "MID",
+      "isCore": true,
+      "pos_hint": [
+        "n",
+        "v"
+      ],
+      "forms": [
+        "valued",
+        "values",
+        "valuing"
+      ],
+      "cefr": "A2",
+      "freqRank": 342,
+      "confusable_candidates": [
+        "blue",
+        "clue",
+        "false",
+        "glue",
+        "male",
+        "pale"
+      ]
+    },
+    {
+      "id": "record",
+      "headword": "record",
+      "level": "MID",
+      "isCore": true,
+      "pos_hint": [
+        "n",
+        "v"
+      ],
+      "forms": [
+        "recorded",
+        "recording",
+        "recordings",
+        "records"
+      ],
+      "cefr": "A2",
+      "freqRank": 344,
+      "confusable_candidates": [
+        "accord",
+        "reform",
+        "regard",
+        "report",
+        "resort",
+        "reward"
+      ]
+    },
+    {
+      "id": "force",
+      "headword": "force",
+      "level": "MID",
+      "isCore": true,
+      "pos_hint": [
+        "n",
+        "v"
+      ],
+      "forms": [
+        "forced",
+        "forces",
+        "forcing"
+      ],
+      "cefr": "A2",
+      "freqRank": 346,
+      "confusable_candidates": [
+        "bore",
+        "core",
+        "face",
+        "fare",
+        "fence",
+        "fierce"
+      ]
+    },
+    {
+      "id": "figure",
+      "headword": "figure",
+      "level": "MID",
+      "isCore": true,
+      "pos_hint": [
+        "n",
+        "v"
+      ],
+      "forms": [
+        "figured",
+        "figures",
+        "figuring"
+      ],
+      "cefr": "A2",
+      "freqRank": 357,
+      "confusable_candidates": [
+        "failure",
+        "future"
+      ]
+    },
+    {
+      "id": "reach",
+      "headword": "reach",
+      "level": "MID",
+      "isCore": true,
+      "pos_hint": [
+        "n",
+        "v"
+      ],
+      "forms": [
+        "reached",
+        "reaches",
+        "reaching"
+      ],
+      "cefr": "A2",
+      "freqRank": 380,
+      "confusable_candidates": [
+        "beach",
+        "breach",
+        "breath",
+        "coach",
+        "death",
+        "detach"
+      ]
+    },
+    {
+      "id": "further",
+      "headword": "further",
+      "level": "MID",
+      "isCore": true,
+      "pos_hint": [
+        "adj",
+        "adv"
+      ],
+      "forms": [],
+      "cefr": "A2",
+      "freqRank": 400,
+      "confusable_candidates": [
+        "father",
+        "furthermore"
+      ]
+    },
+    {
+      "id": "general",
+      "headword": "general",
+      "level": "MID",
+      "isCore": true,
+      "pos_hint": [
+        "adj",
+        "n"
+      ],
+      "forms": [
+        "generals"
+      ],
+      "cefr": "B1",
+      "freqRank": 404,
+      "confusable_candidates": [
+        "central",
+        "federal",
+        "funeral",
+        "generally",
+        "generate",
+        "generation"
+      ]
+    },
+    {
+      "id": "individual",
+      "headword": "individual",
+      "level": "MID",
+      "isCore": true,
+      "pos_hint": [
+        "adj",
+        "n"
+      ],
+      "forms": [
+        "individuals"
+      ],
+      "cefr": "B1",
+      "freqRank": 409,
+      "confusable_candidates": []
+    },
+    {
+      "id": "sense",
+      "headword": "sense",
+      "level": "MID",
+      "isCore": true,
+      "pos_hint": [
+        "n",
+        "v"
+      ],
+      "forms": [
+        "sensed",
+        "senses",
+        "sensing"
+      ],
+      "cefr": "A2",
+      "freqRank": 412,
+      "confusable_candidates": [
+        "cease",
+        "dense",
+        "ease",
+        "else",
+        "fence",
+        "gene"
+      ]
+    },
+    {
+      "id": "research",
+      "headword": "research",
+      "level": "MID",
+      "isCore": true,
+      "pos_hint": [
+        "n",
+        "v"
+      ],
+      "forms": [
+        "researched",
+        "researches",
+        "researching"
+      ],
+      "cefr": "A2",
+      "freqRank": 423,
+      "confusable_candidates": [
+        "researcher"
+      ]
+    },
+    {
+      "id": "film",
+      "headword": "film",
+      "level": "MID",
+      "isCore": true,
+      "pos_hint": [
+        "n",
+        "v"
+      ],
+      "forms": [
+        "filmed",
+        "filming",
+        "films"
+      ],
+      "cefr": "A2",
+      "freqRank": 433,
+      "confusable_candidates": [
+        "aim",
+        "bill",
+        "calm",
+        "fail",
+        "fall",
+        "farm"
+      ]
+    }
+  ]
+}

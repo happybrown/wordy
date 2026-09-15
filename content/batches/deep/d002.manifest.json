@@ -1,0 +1,487 @@
+{
+  "batch": "d002",
+  "kind": "deep",
+  "levels": [
+    "PRE"
+  ],
+  "count": 20,
+  "entries": [
+    {
+      "id": "work",
+      "headword": "work",
+      "level": "PRE",
+      "isCore": true,
+      "pos_hint": [
+        "n",
+        "v"
+      ],
+      "forms": [
+        "worked",
+        "working",
+        "workings",
+        "works"
+      ],
+      "cefr": "A1",
+      "freqRank": 67,
+      "confusable_candidates": [
+        "bark",
+        "book",
+        "bore",
+        "cook",
+        "cord",
+        "core"
+      ]
+    },
+    {
+      "id": "use",
+      "headword": "use",
+      "level": "PRE",
+      "isCore": true,
+      "pos_hint": [
+        "n",
+        "v"
+      ],
+      "forms": [
+        "used",
+        "uses",
+        "using"
+      ],
+      "cefr": "A1",
+      "freqRank": 68,
+      "confusable_candidates": []
+    },
+    {
+      "id": "look",
+      "headword": "look",
+      "level": "PRE",
+      "isCore": true,
+      "pos_hint": [
+        "n",
+        "v"
+      ],
+      "forms": [
+        "looked",
+        "looking",
+        "looks"
+      ],
+      "cefr": "A1",
+      "freqRank": 75,
+      "confusable_candidates": [
+        "block",
+        "blood",
+        "bloom",
+        "book",
+        "boom",
+        "boot"
+      ]
+    },
+    {
+      "id": "want",
+      "headword": "want",
+      "level": "PRE",
+      "isCore": true,
+      "pos_hint": [
+        "n",
+        "v"
+      ],
+      "forms": [
+        "wanted",
+        "wanting",
+        "wants"
+      ],
+      "cefr": "A1",
+      "freqRank": 76,
+      "confusable_candidates": [
+        "act",
+        "ant",
+        "anti",
+        "art",
+        "aunt",
+        "await"
+      ]
+    },
+    {
+      "id": "give",
+      "headword": "give",
+      "level": "PRE",
+      "isCore": true,
+      "pos_hint": [
+        "v"
+      ],
+      "forms": [
+        "gave",
+        "given",
+        "gives",
+        "giving"
+      ],
+      "cefr": "A1",
+      "freqRank": 77,
+      "confusable_candidates": [
+        "alive",
+        "bike",
+        "bite",
+        "cave",
+        "cite",
+        "die"
+      ]
+    },
+    {
+      "id": "way",
+      "headword": "way",
+      "level": "PRE",
+      "isCore": true,
+      "pos_hint": [
+        "n"
+      ],
+      "forms": [
+        "ways"
+      ],
+      "cefr": "A1",
+      "freqRank": 80,
+      "confusable_candidates": []
+    },
+    {
+      "id": "find",
+      "headword": "find",
+      "level": "PRE",
+      "isCore": true,
+      "pos_hint": [
+        "v"
+      ],
+      "forms": [
+        "finding",
+        "findings",
+        "finds",
+        "found"
+      ],
+      "cefr": "A1",
+      "freqRank": 81,
+      "confusable_candidates": [
+        "aid",
+        "band",
+        "bend",
+        "bid",
+        "bin",
+        "bind"
+      ]
+    },
+    {
+      "id": "over",
+      "headword": "over",
+      "level": "PRE",
+      "isCore": true,
+      "pos_hint": [
+        "adv",
+        "prep"
+      ],
+      "forms": [],
+      "cefr": "A1",
+      "freqRank": 82,
+      "confusable_candidates": [
+        "beer",
+        "cover",
+        "eve",
+        "even",
+        "fever",
+        "liver"
+      ]
+    },
+    {
+      "id": "thing",
+      "headword": "thing",
+      "level": "PRE",
+      "isCore": true,
+      "pos_hint": [
+        "n"
+      ],
+      "forms": [
+        "things"
+      ],
+      "cefr": "A1",
+      "freqRank": 87,
+      "confusable_candidates": [
+        "bring",
+        "chin",
+        "cling",
+        "hang",
+        "hint",
+        "king"
+      ]
+    },
+    {
+      "id": "need",
+      "headword": "need",
+      "level": "PRE",
+      "isCore": true,
+      "pos_hint": [
+        "modal",
+        "n",
+        "v"
+      ],
+      "forms": [
+        "needed",
+        "needing",
+        "needs"
+      ],
+      "cefr": "A1",
+      "freqRank": 90,
+      "confusable_candidates": [
+        "bed",
+        "bee",
+        "beef",
+        "beer",
+        "bend",
+        "bleed"
+      ]
+    },
+    {
+      "id": "right",
+      "headword": "right",
+      "level": "PRE",
+      "isCore": true,
+      "pos_hint": [
+        "adj",
+        "adv",
+        "n"
+      ],
+      "forms": [
+        "righter",
+        "rights"
+      ],
+      "cefr": "A1",
+      "freqRank": 92,
+      "confusable_candidates": [
+        "bright",
+        "fight",
+        "flight",
+        "fright",
+        "height",
+        "high"
+      ]
+    },
+    {
+      "id": "back",
+      "headword": "back",
+      "level": "PRE",
+      "isCore": true,
+      "pos_hint": [
+        "adj",
+        "adv",
+        "n",
+        "v"
+      ],
+      "forms": [
+        "backed",
+        "backing",
+        "backs"
+      ],
+      "cefr": "A1",
+      "freqRank": 94,
+      "confusable_candidates": [
+        "act",
+        "ask",
+        "baby",
+        "bad",
+        "bag",
+        "bake"
+      ]
+    },
+    {
+      "id": "tell",
+      "headword": "tell",
+      "level": "PRE",
+      "isCore": true,
+      "pos_hint": [
+        "v"
+      ],
+      "forms": [
+        "telling",
+        "tells",
+        "told"
+      ],
+      "cefr": "A1",
+      "freqRank": 103,
+      "confusable_candidates": [
+        "ball",
+        "bell",
+        "belt",
+        "bill",
+        "bull",
+        "call"
+      ]
+    },
+    {
+      "id": "call",
+      "headword": "call",
+      "level": "PRE",
+      "isCore": true,
+      "pos_hint": [
+        "n",
+        "v"
+      ],
+      "forms": [
+        "called",
+        "calling",
+        "calls"
+      ],
+      "cefr": "A1",
+      "freqRank": 105,
+      "confusable_candidates": [
+        "ally",
+        "ball",
+        "bell",
+        "bill",
+        "bull",
+        "cab"
+      ]
+    },
+    {
+      "id": "down",
+      "headword": "down",
+      "level": "PRE",
+      "isCore": true,
+      "pos_hint": [
+        "adj",
+        "adv",
+        "prep"
+      ],
+      "forms": [],
+      "cefr": "A1",
+      "freqRank": 109,
+      "confusable_candidates": [
+        "bow",
+        "bowl",
+        "brown",
+        "coin",
+        "con",
+        "corn"
+      ]
+    },
+    {
+      "id": "show",
+      "headword": "show",
+      "level": "PRE",
+      "isCore": true,
+      "pos_hint": [
+        "n",
+        "v"
+      ],
+      "forms": [
+        "showed",
+        "showing",
+        "shown",
+        "shows"
+      ],
+      "cefr": "A1",
+      "freqRank": 110,
+      "confusable_candidates": [
+        "blow",
+        "bow",
+        "chew",
+        "chop",
+        "cow",
+        "flow"
+      ]
+    },
+    {
+      "id": "change",
+      "headword": "change",
+      "level": "PRE",
+      "isCore": true,
+      "pos_hint": [
+        "n",
+        "v"
+      ],
+      "forms": [
+        "changed",
+        "changes",
+        "changing"
+      ],
+      "cefr": "A1",
+      "freqRank": 113,
+      "confusable_candidates": [
+        "chance",
+        "channel",
+        "charge",
+        "chase",
+        "orange",
+        "range"
+      ]
+    },
+    {
+      "id": "place",
+      "headword": "place",
+      "level": "PRE",
+      "isCore": true,
+      "pos_hint": [
+        "n",
+        "v"
+      ],
+      "forms": [
+        "placed",
+        "places",
+        "placing"
+      ],
+      "cefr": "A1",
+      "freqRank": 114,
+      "confusable_candidates": [
+        "black",
+        "blame",
+        "face",
+        "flame",
+        "glance",
+        "glare"
+      ]
+    },
+    {
+      "id": "long",
+      "headword": "long",
+      "level": "PRE",
+      "isCore": true,
+      "pos_hint": [
+        "adj",
+        "adv"
+      ],
+      "forms": [
+        "longer",
+        "longest"
+      ],
+      "cefr": "A1",
+      "freqRank": 115,
+      "confusable_candidates": [
+        "alone",
+        "bang",
+        "blog",
+        "bond",
+        "bone",
+        "cling"
+      ]
+    },
+    {
+      "id": "feel",
+      "headword": "feel",
+      "level": "PRE",
+      "isCore": true,
+      "pos_hint": [
+        "n",
+        "v"
+      ],
+      "forms": [
+        "feeling",
+        "feelings",
+        "feels",
+        "felt"
+      ],
+      "cefr": "A1",
+      "freqRank": 117,
+      "confusable_candidates": [
+        "bee",
+        "beef",
+        "beer",
+        "bell",
+        "cell",
+        "deal"
+      ]
+    }
+  ]
+}

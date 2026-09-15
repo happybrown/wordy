@@ -1,0 +1,476 @@
+{
+  "batch": "d005",
+  "kind": "deep",
+  "levels": [
+    "PRE"
+  ],
+  "count": 20,
+  "entries": [
+    {
+      "id": "bad",
+      "headword": "bad",
+      "level": "PRE",
+      "isCore": true,
+      "pos_hint": [
+        "adj"
+      ],
+      "forms": [
+        "baddest",
+        "worst"
+      ],
+      "cefr": "A1",
+      "freqRank": 268,
+      "confusable_candidates": []
+    },
+    {
+      "id": "low",
+      "headword": "low",
+      "level": "PRE",
+      "isCore": true,
+      "pos_hint": [
+        "adj",
+        "adv"
+      ],
+      "forms": [
+        "lower",
+        "lowest"
+      ],
+      "cefr": "A2",
+      "freqRank": 283,
+      "confusable_candidates": []
+    },
+    {
+      "id": "train",
+      "headword": "train",
+      "level": "PRE",
+      "isCore": true,
+      "pos_hint": [
+        "n",
+        "v"
+      ],
+      "forms": [
+        "trained",
+        "training",
+        "trainings",
+        "trains"
+      ],
+      "cefr": "A1",
+      "freqRank": 289,
+      "confusable_candidates": [
+        "again",
+        "attain",
+        "brain",
+        "chain",
+        "drain",
+        "gain"
+      ]
+    },
+    {
+      "id": "hard",
+      "headword": "hard",
+      "level": "PRE",
+      "isCore": true,
+      "pos_hint": [
+        "adj",
+        "adv"
+      ],
+      "forms": [
+        "harder",
+        "hardest"
+      ],
+      "cefr": "A1",
+      "freqRank": 298,
+      "confusable_candidates": [
+        "add",
+        "aid",
+        "arm",
+        "art",
+        "award",
+        "bad"
+      ]
+    },
+    {
+      "id": "stand",
+      "headword": "stand",
+      "level": "PRE",
+      "isCore": true,
+      "pos_hint": [
+        "n",
+        "v"
+      ],
+      "forms": [
+        "standing",
+        "stands",
+        "stood"
+      ],
+      "cefr": "A1",
+      "freqRank": 309,
+      "confusable_candidates": [
+        "band",
+        "brand",
+        "grand",
+        "hand",
+        "island",
+        "land"
+      ]
+    },
+    {
+      "id": "water",
+      "headword": "water",
+      "level": "PRE",
+      "isCore": true,
+      "pos_hint": [
+        "n",
+        "v"
+      ],
+      "forms": [
+        "watered",
+        "watering",
+        "waters"
+      ],
+      "cefr": "A1",
+      "freqRank": 322,
+      "confusable_candidates": [
+        "alter",
+        "cater",
+        "date",
+        "eager",
+        "enter",
+        "fate"
+      ]
+    },
+    {
+      "id": "walk",
+      "headword": "walk",
+      "level": "PRE",
+      "isCore": true,
+      "pos_hint": [
+        "n",
+        "v"
+      ],
+      "forms": [
+        "walked",
+        "walking",
+        "walks"
+      ],
+      "cefr": "A1",
+      "freqRank": 339,
+      "confusable_candidates": [
+        "ask",
+        "back",
+        "ball",
+        "bank",
+        "bark",
+        "bulk"
+      ]
+    },
+    {
+      "id": "light",
+      "headword": "light",
+      "level": "PRE",
+      "isCore": true,
+      "pos_hint": [
+        "adj",
+        "n",
+        "v"
+      ],
+      "forms": [
+        "lighted",
+        "lightest",
+        "lighting",
+        "lights",
+        "lit"
+      ],
+      "cefr": "A1",
+      "freqRank": 349,
+      "confusable_candidates": [
+        "bright",
+        "fight",
+        "flight",
+        "fright",
+        "height",
+        "high"
+      ]
+    },
+    {
+      "id": "black",
+      "headword": "black",
+      "level": "PRE",
+      "isCore": true,
+      "pos_hint": [
+        "adj",
+        "n"
+      ],
+      "forms": [
+        "blacker",
+        "blackest",
+        "blacks"
+      ],
+      "cefr": "A1",
+      "freqRank": 411,
+      "confusable_candidates": [
+        "back",
+        "bank",
+        "bark",
+        "beach",
+        "blame",
+        "blank"
+      ]
+    },
+    {
+      "id": "short",
+      "headword": "short",
+      "level": "PRE",
+      "isCore": true,
+      "pos_hint": [
+        "adj",
+        "adv",
+        "n"
+      ],
+      "forms": [
+        "shorter",
+        "shortest",
+        "shorts"
+      ],
+      "cefr": "A1",
+      "freqRank": 419,
+      "confusable_candidates": [
+        "abort",
+        "chart",
+        "escort",
+        "ghost",
+        "horn",
+        "host"
+      ]
+    },
+    {
+      "id": "shop",
+      "headword": "shop",
+      "level": "PRE",
+      "isCore": true,
+      "pos_hint": [
+        "n",
+        "v"
+      ],
+      "forms": [
+        "shopped",
+        "shopping",
+        "shops"
+      ],
+      "cefr": "A1",
+      "freqRank": 437,
+      "confusable_candidates": [
+        "chip",
+        "chop",
+        "cop",
+        "crop",
+        "drop",
+        "hip"
+      ]
+    },
+    {
+      "id": "bear",
+      "headword": "bear",
+      "level": "PRE",
+      "isCore": true,
+      "pos_hint": [
+        "n",
+        "v"
+      ],
+      "forms": [
+        "bearing",
+        "bearings",
+        "bears",
+        "born"
+      ],
+      "cefr": "A1",
+      "freqRank": 455,
+      "confusable_candidates": [
+        "bad",
+        "bag",
+        "ban",
+        "bar",
+        "bare",
+        "bark"
+      ]
+    },
+    {
+      "id": "cut",
+      "headword": "cut",
+      "level": "PRE",
+      "isCore": true,
+      "pos_hint": [
+        "n",
+        "v"
+      ],
+      "forms": [
+        "cuts",
+        "cutting",
+        "cuttings"
+      ],
+      "cefr": "A1",
+      "freqRank": 456,
+      "confusable_candidates": []
+    },
+    {
+      "id": "draw",
+      "headword": "draw",
+      "level": "PRE",
+      "isCore": true,
+      "pos_hint": [
+        "n",
+        "v"
+      ],
+      "forms": [
+        "drawing",
+        "drawings",
+        "drawn",
+        "draws",
+        "drew"
+      ],
+      "cefr": "A1",
+      "freqRank": 481,
+      "confusable_candidates": [
+        "brew",
+        "crawl",
+        "crew",
+        "dad",
+        "dam",
+        "dawn"
+      ]
+    },
+    {
+      "id": "white",
+      "headword": "white",
+      "level": "PRE",
+      "isCore": true,
+      "pos_hint": [
+        "adj",
+        "n"
+      ],
+      "forms": [
+        "whiter",
+        "whites",
+        "whitest"
+      ],
+      "cefr": "A1",
+      "freqRank": 482,
+      "confusable_candidates": [
+        "bite",
+        "cite",
+        "hate",
+        "hide",
+        "hire",
+        "kite"
+      ]
+    },
+    {
+      "id": "picture",
+      "headword": "picture",
+      "level": "PRE",
+      "isCore": true,
+      "pos_hint": [
+        "n",
+        "v"
+      ],
+      "forms": [
+        "pictured",
+        "pictures",
+        "picturing"
+      ],
+      "cefr": "A1",
+      "freqRank": 509,
+      "confusable_candidates": [
+        "lecture",
+        "mixture"
+      ]
+    },
+    {
+      "id": "laugh",
+      "headword": "laugh",
+      "level": "PRE",
+      "isCore": true,
+      "pos_hint": [
+        "n",
+        "v"
+      ],
+      "forms": [
+        "laughed",
+        "laughing",
+        "laughs"
+      ],
+      "cefr": "A1",
+      "freqRank": 620,
+      "confusable_candidates": [
+        "cough",
+        "large",
+        "launch",
+        "rough",
+        "tough"
+      ]
+    },
+    {
+      "id": "arm",
+      "headword": "arm",
+      "level": "PRE",
+      "isCore": true,
+      "pos_hint": [
+        "n",
+        "v"
+      ],
+      "forms": [
+        "armed",
+        "arming",
+        "arms"
+      ],
+      "cefr": "A1",
+      "freqRank": 621,
+      "confusable_candidates": []
+    },
+    {
+      "id": "fast",
+      "headword": "fast",
+      "level": "PRE",
+      "isCore": true,
+      "pos_hint": [
+        "adj",
+        "adv"
+      ],
+      "forms": [
+        "faster",
+        "fastest"
+      ],
+      "cefr": "A1",
+      "freqRank": 631,
+      "confusable_candidates": [
+        "act",
+        "ant",
+        "art",
+        "ash",
+        "ask",
+        "base"
+      ]
+    },
+    {
+      "id": "pretty",
+      "headword": "pretty",
+      "level": "PRE",
+      "isCore": true,
+      "pos_hint": [
+        "adj",
+        "adv"
+      ],
+      "forms": [
+        "prettier",
+        "prettiest"
+      ],
+      "cefr": "A1",
+      "freqRank": 637,
+      "confusable_candidates": [
+        "plenty",
+        "poetry",
+        "treaty"
+      ]
+    }
+  ]
+}

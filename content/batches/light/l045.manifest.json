@@ -1,0 +1,1144 @@
+{
+  "batch": "l045",
+  "kind": "light",
+  "levels": [
+    "HIGH"
+  ],
+  "count": 60,
+  "entries": [
+    {
+      "id": "blonde",
+      "headword": "blonde",
+      "level": "HIGH",
+      "isCore": false,
+      "pos_hint": [
+        "adj"
+      ],
+      "forms": [],
+      "cefr": "A2",
+      "freqRank": null,
+      "confusable_candidates": [
+        "alone",
+        "blend",
+        "blind",
+        "blood",
+        "bloody",
+        "clone"
+      ]
+    },
+    {
+      "id": "bloom",
+      "headword": "bloom",
+      "level": "HIGH",
+      "isCore": false,
+      "pos_hint": [
+        "n"
+      ],
+      "forms": [],
+      "cefr": "A2",
+      "freqRank": null,
+      "confusable_candidates": [
+        "block",
+        "blog",
+        "blood",
+        "bloody",
+        "blow",
+        "book"
+      ]
+    },
+    {
+      "id": "blossom",
+      "headword": "blossom",
+      "level": "HIGH",
+      "isCore": false,
+      "pos_hint": [
+        "n"
+      ],
+      "forms": [],
+      "cefr": "B2",
+      "freqRank": null,
+      "confusable_candidates": []
+    },
+    {
+      "id": "boil",
+      "headword": "boil",
+      "level": "HIGH",
+      "isCore": false,
+      "pos_hint": [
+        "v"
+      ],
+      "forms": [],
+      "cefr": "A2",
+      "freqRank": null,
+      "confusable_candidates": [
+        "ball",
+        "bell",
+        "bid",
+        "big",
+        "bill",
+        "bin"
+      ]
+    },
+    {
+      "id": "bounce",
+      "headword": "bounce",
+      "level": "HIGH",
+      "isCore": false,
+      "pos_hint": [
+        "n",
+        "v"
+      ],
+      "forms": [
+        "bounced",
+        "bounces",
+        "bouncing"
+      ],
+      "cefr": "B1",
+      "freqRank": null,
+      "confusable_candidates": [
+        "bound",
+        "bunch",
+        "lounge",
+        "ounce",
+        "source"
+      ]
+    },
+    {
+      "id": "bow",
+      "headword": "bow",
+      "level": "HIGH",
+      "isCore": false,
+      "pos_hint": [
+        "n",
+        "v"
+      ],
+      "forms": [],
+      "cefr": "B1",
+      "freqRank": null,
+      "confusable_candidates": []
+    },
+    {
+      "id": "breeze",
+      "headword": "breeze",
+      "level": "HIGH",
+      "isCore": false,
+      "pos_hint": [
+        "n"
+      ],
+      "forms": [],
+      "cefr": "A2",
+      "freqRank": null,
+      "confusable_candidates": [
+        "breed",
+        "freeze",
+        "sneeze"
+      ]
+    },
+    {
+      "id": "brick",
+      "headword": "brick",
+      "level": "HIGH",
+      "isCore": false,
+      "pos_hint": [
+        "n"
+      ],
+      "forms": [
+        "bricks"
+      ],
+      "cefr": "B1",
+      "freqRank": null,
+      "confusable_candidates": [
+        "back",
+        "black",
+        "blink",
+        "block",
+        "break",
+        "bride"
+      ]
+    },
+    {
+      "id": "bride",
+      "headword": "bride",
+      "level": "HIGH",
+      "isCore": false,
+      "pos_hint": [
+        "n"
+      ],
+      "forms": [],
+      "cefr": "A2",
+      "freqRank": null,
+      "confusable_candidates": [
+        "arise",
+        "aside",
+        "bike",
+        "bite",
+        "brake",
+        "brave"
+      ]
+    },
+    {
+      "id": "bull",
+      "headword": "bull",
+      "level": "HIGH",
+      "isCore": false,
+      "pos_hint": [
+        "n"
+      ],
+      "forms": [
+        "bulls"
+      ],
+      "cefr": "B1",
+      "freqRank": null,
+      "confusable_candidates": [
+        "ball",
+        "bell",
+        "belt",
+        "bill",
+        "boil",
+        "bold"
+      ]
+    },
+    {
+      "id": "bullet",
+      "headword": "bullet",
+      "level": "HIGH",
+      "isCore": false,
+      "pos_hint": [
+        "n"
+      ],
+      "forms": [
+        "bullets"
+      ],
+      "cefr": "B1",
+      "freqRank": null,
+      "confusable_candidates": [
+        "bucket",
+        "budget",
+        "bully"
+      ]
+    },
+    {
+      "id": "bully",
+      "headword": "bully",
+      "level": "HIGH",
+      "isCore": false,
+      "pos_hint": [
+        "v"
+      ],
+      "forms": [
+        "bullied",
+        "bullies",
+        "bullying"
+      ],
+      "cefr": "B2",
+      "freqRank": null,
+      "confusable_candidates": [
+        "ally",
+        "badly",
+        "ball",
+        "bell",
+        "bill",
+        "build"
+      ]
+    },
+    {
+      "id": "bump",
+      "headword": "bump",
+      "level": "HIGH",
+      "isCore": false,
+      "pos_hint": [
+        "v"
+      ],
+      "forms": [],
+      "cefr": "B1",
+      "freqRank": null,
+      "confusable_candidates": [
+        "bomb",
+        "bug",
+        "bulk",
+        "bull",
+        "burn",
+        "bury"
+      ]
+    },
+    {
+      "id": "bundle",
+      "headword": "bundle",
+      "level": "HIGH",
+      "isCore": false,
+      "pos_hint": [
+        "n"
+      ],
+      "forms": [
+        "bundles"
+      ],
+      "cefr": null,
+      "freqRank": null,
+      "confusable_candidates": [
+        "bubble",
+        "handle",
+        "uncle"
+      ]
+    },
+    {
+      "id": "bush",
+      "headword": "bush",
+      "level": "HIGH",
+      "isCore": false,
+      "pos_hint": [
+        "n"
+      ],
+      "forms": [],
+      "cefr": "A2",
+      "freqRank": null,
+      "confusable_candidates": [
+        "abuse",
+        "ash",
+        "base",
+        "bath",
+        "best",
+        "boss"
+      ]
+    },
+    {
+      "id": "butcher",
+      "headword": "butcher",
+      "level": "HIGH",
+      "isCore": false,
+      "pos_hint": [
+        "n",
+        "v"
+      ],
+      "forms": [],
+      "cefr": "B1",
+      "freqRank": null,
+      "confusable_candidates": [
+        "bother",
+        "butter"
+      ]
+    },
+    {
+      "id": "buzz",
+      "headword": "buzz",
+      "level": "HIGH",
+      "isCore": false,
+      "pos_hint": [
+        "n",
+        "v"
+      ],
+      "forms": [],
+      "cefr": "B2",
+      "freqRank": null,
+      "confusable_candidates": [
+        "bug",
+        "bulk",
+        "bull",
+        "bump",
+        "burn",
+        "bury"
+      ]
+    },
+    {
+      "id": "cab",
+      "headword": "cab",
+      "level": "HIGH",
+      "isCore": false,
+      "pos_hint": [
+        "n"
+      ],
+      "forms": [],
+      "cefr": "A2",
+      "freqRank": null,
+      "confusable_candidates": []
+    },
+    {
+      "id": "cabin",
+      "headword": "cabin",
+      "level": "HIGH",
+      "isCore": false,
+      "pos_hint": [
+        "n"
+      ],
+      "forms": [],
+      "cefr": "B1",
+      "freqRank": null,
+      "confusable_candidates": [
+        "basin",
+        "cable",
+        "carbon",
+        "chain",
+        "chin",
+        "coin"
+      ]
+    },
+    {
+      "id": "canvas",
+      "headword": "canvas",
+      "level": "HIGH",
+      "isCore": false,
+      "pos_hint": [],
+      "forms": [],
+      "cefr": null,
+      "freqRank": null,
+      "confusable_candidates": []
+    },
+    {
+      "id": "cape",
+      "headword": "cape",
+      "level": "HIGH",
+      "isCore": false,
+      "pos_hint": [],
+      "forms": [],
+      "cefr": null,
+      "freqRank": null,
+      "confusable_candidates": [
+        "age",
+        "bake",
+        "bare",
+        "base",
+        "cab",
+        "cable"
+      ]
+    },
+    {
+      "id": "carve",
+      "headword": "carve",
+      "level": "HIGH",
+      "isCore": false,
+      "pos_hint": [
+        "v"
+      ],
+      "forms": [],
+      "cefr": "B2",
+      "freqRank": null,
+      "confusable_candidates": [
+        "bare",
+        "cable",
+        "cafe",
+        "cage",
+        "cake",
+        "cape"
+      ]
+    },
+    {
+      "id": "casual",
+      "headword": "casual",
+      "level": "HIGH",
+      "isCore": false,
+      "pos_hint": [
+        "adj"
+      ],
+      "forms": [],
+      "cefr": "B1",
+      "freqRank": null,
+      "confusable_candidates": [
+        "causal",
+        "usual",
+        "visual"
+      ]
+    },
+    {
+      "id": "cattle",
+      "headword": "cattle",
+      "level": "HIGH",
+      "isCore": false,
+      "pos_hint": [
+        "n"
+      ],
+      "forms": [],
+      "cefr": "B1",
+      "freqRank": null,
+      "confusable_candidates": [
+        "battle",
+        "bottle",
+        "cable",
+        "castle",
+        "little",
+        "settle"
+      ]
+    },
+    {
+      "id": "causal",
+      "headword": "causal",
+      "level": "HIGH",
+      "isCore": false,
+      "pos_hint": [],
+      "forms": [],
+      "cefr": null,
+      "freqRank": null,
+      "confusable_candidates": [
+        "casual",
+        "cause"
+      ]
+    },
+    {
+      "id": "cave",
+      "headword": "cave",
+      "level": "HIGH",
+      "isCore": false,
+      "pos_hint": [
+        "n"
+      ],
+      "forms": [],
+      "cefr": "B1",
+      "freqRank": null,
+      "confusable_candidates": [
+        "age",
+        "bake",
+        "bare",
+        "base",
+        "brave",
+        "cab"
+      ]
+    },
+    {
+      "id": "cease",
+      "headword": "cease",
+      "level": "HIGH",
+      "isCore": false,
+      "pos_hint": [
+        "v"
+      ],
+      "forms": [
+        "ceased",
+        "ceases",
+        "ceasing"
+      ],
+      "cefr": "B2",
+      "freqRank": null,
+      "confusable_candidates": [
+        "base",
+        "beast",
+        "cafe",
+        "cage",
+        "cake",
+        "cape"
+      ]
+    },
+    {
+      "id": "ceiling",
+      "headword": "ceiling",
+      "level": "HIGH",
+      "isCore": false,
+      "pos_hint": [
+        "n"
+      ],
+      "forms": [
+        "ceilings"
+      ],
+      "cefr": "B2",
+      "freqRank": null,
+      "confusable_candidates": [
+        "feeling"
+      ]
+    },
+    {
+      "id": "celebrity",
+      "headword": "celebrity",
+      "level": "HIGH",
+      "isCore": false,
+      "pos_hint": [
+        "n"
+      ],
+      "forms": [
+        "celebrities"
+      ],
+      "cefr": "B1",
+      "freqRank": null,
+      "confusable_candidates": [
+        "celebrate",
+        "celebration"
+      ]
+    },
+    {
+      "id": "censor",
+      "headword": "censor",
+      "level": "HIGH",
+      "isCore": false,
+      "pos_hint": [
+        "n"
+      ],
+      "forms": [
+        "censors"
+      ],
+      "cefr": null,
+      "freqRank": null,
+      "confusable_candidates": [
+        "center",
+        "senior",
+        "vendor"
+      ]
+    },
+    {
+      "id": "certificate",
+      "headword": "certificate",
+      "level": "HIGH",
+      "isCore": false,
+      "pos_hint": [
+        "n"
+      ],
+      "forms": [
+        "certificates"
+      ],
+      "cefr": "B2",
+      "freqRank": null,
+      "confusable_candidates": []
+    },
+    {
+      "id": "cheer",
+      "headword": "cheer",
+      "level": "HIGH",
+      "isCore": false,
+      "pos_hint": [
+        "v"
+      ],
+      "forms": [
+        "cheered",
+        "cheering",
+        "cheers"
+      ],
+      "cefr": "A2",
+      "freqRank": null,
+      "confusable_candidates": [
+        "beer",
+        "career",
+        "cater",
+        "chair",
+        "cheap",
+        "check"
+      ]
+    },
+    {
+      "id": "chef",
+      "headword": "chef",
+      "level": "HIGH",
+      "isCore": false,
+      "pos_hint": [
+        "n"
+      ],
+      "forms": [],
+      "cefr": "A2",
+      "freqRank": null,
+      "confusable_candidates": [
+        "beef",
+        "chat",
+        "cheap",
+        "check",
+        "cheek",
+        "cheer"
+      ]
+    },
+    {
+      "id": "chemistry",
+      "headword": "chemistry",
+      "level": "HIGH",
+      "isCore": false,
+      "pos_hint": [
+        "n"
+      ],
+      "forms": [
+        "chemistries"
+      ],
+      "cefr": "B1",
+      "freqRank": null,
+      "confusable_candidates": [
+        "chemical"
+      ]
+    },
+    {
+      "id": "chew",
+      "headword": "chew",
+      "level": "HIGH",
+      "isCore": false,
+      "pos_hint": [
+        "v"
+      ],
+      "forms": [],
+      "cefr": "B2",
+      "freqRank": null,
+      "confusable_candidates": [
+        "brew",
+        "chat",
+        "cheap",
+        "check",
+        "cheek",
+        "cheer"
+      ]
+    },
+    {
+      "id": "chill",
+      "headword": "chill",
+      "level": "HIGH",
+      "isCore": false,
+      "pos_hint": [],
+      "forms": [],
+      "cefr": null,
+      "freqRank": null,
+      "confusable_candidates": [
+        "bill",
+        "call",
+        "cell",
+        "chief",
+        "child",
+        "chin"
+      ]
+    },
+    {
+      "id": "chin",
+      "headword": "chin",
+      "level": "HIGH",
+      "isCore": false,
+      "pos_hint": [
+        "n"
+      ],
+      "forms": [],
+      "cefr": "A2",
+      "freqRank": null,
+      "confusable_candidates": [
+        "bin",
+        "cabin",
+        "chain",
+        "chair",
+        "chat",
+        "chef"
+      ]
+    },
+    {
+      "id": "choir",
+      "headword": "choir",
+      "level": "HIGH",
+      "isCore": false,
+      "pos_hint": [
+        "n"
+      ],
+      "forms": [],
+      "cefr": "B1",
+      "freqRank": null,
+      "confusable_candidates": [
+        "chain",
+        "chair",
+        "cheer",
+        "chin",
+        "chip",
+        "choice"
+      ]
+    },
+    {
+      "id": "chop",
+      "headword": "chop",
+      "level": "HIGH",
+      "isCore": false,
+      "pos_hint": [
+        "v"
+      ],
+      "forms": [],
+      "cefr": "B2",
+      "freqRank": null,
+      "confusable_candidates": [
+        "camp",
+        "cap",
+        "chaos",
+        "chat",
+        "cheap",
+        "chef"
+      ]
+    },
+    {
+      "id": "chorus",
+      "headword": "chorus",
+      "level": "HIGH",
+      "isCore": false,
+      "pos_hint": [],
+      "forms": [],
+      "cefr": null,
+      "freqRank": null,
+      "confusable_candidates": []
+    },
+    {
+      "id": "circulate",
+      "headword": "circulate",
+      "level": "HIGH",
+      "isCore": false,
+      "pos_hint": [],
+      "forms": [
+        "circulated",
+        "circulates",
+        "circulating"
+      ],
+      "cefr": null,
+      "freqRank": null,
+      "confusable_candidates": [
+        "calculate",
+        "circumstance"
+      ]
+    },
+    {
+      "id": "clap",
+      "headword": "clap",
+      "level": "HIGH",
+      "isCore": false,
+      "pos_hint": [
+        "v"
+      ],
+      "forms": [],
+      "cefr": "B2",
+      "freqRank": null,
+      "confusable_candidates": [
+        "cab",
+        "camp",
+        "cap",
+        "cape",
+        "car",
+        "cat"
+      ]
+    },
+    {
+      "id": "clarify",
+      "headword": "clarify",
+      "level": "HIGH",
+      "isCore": false,
+      "pos_hint": [
+        "v"
+      ],
+      "forms": [
+        "clarified",
+        "clarifies",
+        "clarifying"
+      ],
+      "cefr": "B2",
+      "freqRank": null,
+      "confusable_candidates": [
+        "charity",
+        "classify"
+      ]
+    },
+    {
+      "id": "clash",
+      "headword": "clash",
+      "level": "HIGH",
+      "isCore": false,
+      "pos_hint": [],
+      "forms": [
+        "clashed",
+        "clashes",
+        "clashing"
+      ],
+      "cefr": null,
+      "freqRank": null,
+      "confusable_candidates": [
+        "blast",
+        "case",
+        "cash",
+        "cast",
+        "cease",
+        "chase"
+      ]
+    },
+    {
+      "id": "clay",
+      "headword": "clay",
+      "level": "HIGH",
+      "isCore": false,
+      "pos_hint": [
+        "n"
+      ],
+      "forms": [
+        "clays"
+      ],
+      "cefr": null,
+      "freqRank": null,
+      "confusable_candidates": [
+        "ally",
+        "away",
+        "bay",
+        "cab",
+        "cap",
+        "car"
+      ]
+    },
+    {
+      "id": "client",
+      "headword": "client",
+      "level": "HIGH",
+      "isCore": false,
+      "pos_hint": [
+        "n"
+      ],
+      "forms": [
+        "clients"
+      ],
+      "cefr": "B2",
+      "freqRank": null,
+      "confusable_candidates": [
+        "alien",
+        "cling",
+        "orient"
+      ]
+    },
+    {
+      "id": "cliff",
+      "headword": "cliff",
+      "level": "HIGH",
+      "isCore": false,
+      "pos_hint": [
+        "n"
+      ],
+      "forms": [],
+      "cefr": "B1",
+      "freqRank": null,
+      "confusable_candidates": [
+        "chief",
+        "click",
+        "climb",
+        "cling",
+        "clip",
+        "life"
+      ]
+    },
+    {
+      "id": "cling",
+      "headword": "cling",
+      "level": "HIGH",
+      "isCore": false,
+      "pos_hint": [],
+      "forms": [],
+      "cefr": null,
+      "freqRank": null,
+      "confusable_candidates": [
+        "blind",
+        "blink",
+        "bring",
+        "chin",
+        "click",
+        "client"
+      ]
+    },
+    {
+      "id": "clinic",
+      "headword": "clinic",
+      "level": "HIGH",
+      "isCore": false,
+      "pos_hint": [
+        "n"
+      ],
+      "forms": [
+        "clinics"
+      ],
+      "cefr": "B1",
+      "freqRank": null,
+      "confusable_candidates": [
+        "cling",
+        "clinical",
+        "critic"
+      ]
+    },
+    {
+      "id": "clue",
+      "headword": "clue",
+      "level": "HIGH",
+      "isCore": false,
+      "pos_hint": [
+        "n"
+      ],
+      "forms": [
+        "clues"
+      ],
+      "cefr": "A2",
+      "freqRank": null,
+      "confusable_candidates": [
+        "blue",
+        "cafe",
+        "cage",
+        "cake",
+        "cape",
+        "care"
+      ]
+    },
+    {
+      "id": "coincide",
+      "headword": "coincide",
+      "level": "HIGH",
+      "isCore": false,
+      "pos_hint": [
+        "v"
+      ],
+      "forms": [
+        "coincided",
+        "coincides",
+        "coinciding"
+      ],
+      "cefr": "B2",
+      "freqRank": null,
+      "confusable_candidates": []
+    },
+    {
+      "id": "collaborate",
+      "headword": "collaborate",
+      "level": "HIGH",
+      "isCore": false,
+      "pos_hint": [],
+      "forms": [],
+      "cefr": null,
+      "freqRank": null,
+      "confusable_candidates": [
+        "collapse",
+        "collar",
+        "collateral"
+      ]
+    },
+    {
+      "id": "collar",
+      "headword": "collar",
+      "level": "HIGH",
+      "isCore": false,
+      "pos_hint": [
+        "n"
+      ],
+      "forms": [
+        "collars"
+      ],
+      "cefr": "B1",
+      "freqRank": null,
+      "confusable_candidates": [
+        "clear",
+        "collaborate",
+        "collapse",
+        "collateral",
+        "color",
+        "dollar"
+      ]
+    },
+    {
+      "id": "colony",
+      "headword": "colony",
+      "level": "HIGH",
+      "isCore": false,
+      "pos_hint": [
+        "n"
+      ],
+      "forms": [
+        "colonies"
+      ],
+      "cefr": null,
+      "freqRank": null,
+      "confusable_candidates": [
+        "clone",
+        "color",
+        "ecology"
+      ]
+    },
+    {
+      "id": "combat",
+      "headword": "combat",
+      "level": "HIGH",
+      "isCore": false,
+      "pos_hint": [],
+      "forms": [
+        "combated",
+        "combating",
+        "combats"
+      ],
+      "cefr": null,
+      "freqRank": null,
+      "confusable_candidates": [
+        "comma",
+        "commit"
+      ]
+    },
+    {
+      "id": "commerce",
+      "headword": "commerce",
+      "level": "HIGH",
+      "isCore": false,
+      "pos_hint": [
+        "n"
+      ],
+      "forms": [],
+      "cefr": "B2",
+      "freqRank": null,
+      "confusable_candidates": [
+        "commence",
+        "comment",
+        "commercial"
+      ]
+    },
+    {
+      "id": "communist",
+      "headword": "communist",
+      "level": "HIGH",
+      "isCore": false,
+      "pos_hint": [
+        "adj"
+      ],
+      "forms": [],
+      "cefr": null,
+      "freqRank": null,
+      "confusable_candidates": [
+        "communicate",
+        "communication",
+        "community"
+      ]
+    },
+    {
+      "id": "companion",
+      "headword": "companion",
+      "level": "HIGH",
+      "isCore": false,
+      "pos_hint": [
+        "n"
+      ],
+      "forms": [],
+      "cefr": "B1",
+      "freqRank": null,
+      "confusable_candidates": [
+        "company",
+        "comparative",
+        "compare",
+        "comparison",
+        "compatible"
+      ]
+    },
+    {
+      "id": "competent",
+      "headword": "competent",
+      "level": "HIGH",
+      "isCore": false,
+      "pos_hint": [
+        "adj"
+      ],
+      "forms": [],
+      "cefr": "B2",
+      "freqRank": null,
+      "confusable_candidates": [
+        "compel",
+        "compensate",
+        "compensation",
+        "compete",
+        "competition",
+        "competitive"
+      ]
+    },
+    {
+      "id": "complement",
+      "headword": "complement",
+      "level": "HIGH",
+      "isCore": false,
+      "pos_hint": [
+        "n"
+      ],
+      "forms": [
+        "complements"
+      ],
+      "cefr": "B1",
+      "freqRank": null,
+      "confusable_candidates": [
+        "competent",
+        "complain",
+        "complaint",
+        "complete",
+        "completely",
+        "completion"
+      ]
+    }
+  ]
+}

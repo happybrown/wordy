@@ -1,0 +1,79 @@
+[
+  {
+    "id": "get",
+    "headword": "get",
+    "ipa": "/ɡet/",
+    "level": "PRE",
+    "isCore": true,
+    "topic": "abstract_general",
+    "forms": ["gets", "got", "gotten", "getting"],
+    "senses": [
+      {
+        "id": "get-1",
+        "pos": "v",
+        "ko": "받다, 얻다, 사다",
+        "en": "to receive, obtain, or buy something",
+        "nuance": "receive·obtain·buy를 두루 대신하는 가장 구어적인 동사다. 격식 있는 글에서는 receive나 obtain을 쓴다.",
+        "pattern": "get + 명사",
+        "examples": [
+          { "en": "I got a text from Mina this morning.", "ko": "오늘 아침에 미나한테서 문자 받았어.", "focus": "got a text" },
+          { "en": "Can you get some milk on your way home?", "ko": "집에 오는 길에 우유 좀 사올 수 있어?", "focus": "get some milk" }
+        ],
+        "collocations": ["get a job", "get a message", "get a haircut"]
+      },
+      {
+        "id": "get-2",
+        "pos": "v",
+        "ko": "도착하다, 가다",
+        "en": "to arrive at or reach a place",
+        "nuance": "arrive보다 훨씬 자주 쓰는 구어 표현으로, 뒤에 to + 장소가 온다. home, here, there 앞에서는 to를 쓰지 않는다.",
+        "pattern": "get to + 장소 / get home",
+        "examples": [
+          { "en": "What time did you get to the office today?", "ko": "오늘 사무실에 몇 시에 도착했어?", "focus": "get to the office" },
+          { "en": "Call me when you get home, okay?", "ko": "집에 도착하면 전화해, 알았지?", "focus": "get home" }
+        ],
+        "collocations": ["get home late", "get there on time"]
+      },
+      {
+        "id": "get-3",
+        "pos": "v",
+        "ko": "~하게 되다",
+        "en": "to become or start to be in a new state",
+        "nuance": "become의 구어체로, 상태 변화를 나타낸다. 뒤에 형용사나 과거분사가 온다(get tired, get married).",
+        "pattern": "get + 형용사/과거분사",
+        "examples": [
+          { "en": "It's getting cold, so let's go inside.", "ko": "추워지니까 안으로 들어가자.", "focus": "getting cold" },
+          { "en": "Tom and Emma got married last spring.", "ko": "톰과 엠마는 지난봄에 결혼했어.", "focus": "got married" }
+        ],
+        "collocations": ["get tired", "get ready"]
+      },
+      {
+        "id": "get-4",
+        "pos": "v",
+        "ko": "이해하다",
+        "en": "to understand what someone means",
+        "nuance": "understand의 아주 편한 구어 표현이다. 부정문 I don't get it이 특히 자주 쓰인다.",
+        "pattern": "get + it / the joke / what절",
+        "examples": [
+          { "en": "Sorry, I don't get it. Can you explain again?", "ko": "미안, 이해가 안 돼. 다시 설명해 줄래?", "focus": "get it" },
+          { "en": "Now I get what you mean about the plan.", "ko": "이제 그 계획에 대해 네가 무슨 말인지 알겠어.", "focus": "get what you mean" }
+        ],
+        "collocations": ["get the joke"],
+        "phrasals": [
+          { "phrase": "get up", "ko": "일어나다", "example": { "en": "I usually get up at seven on weekdays.", "ko": "평일에는 보통 7시에 일어나.", "focus": "get up" } },
+          { "phrase": "get back to", "ko": "다시 연락하다", "example": { "en": "I'll get back to you by tomorrow afternoon.", "ko": "내일 오후까지 다시 연락드릴게요.", "focus": "get back to you" } },
+          { "phrase": "get along with", "ko": "잘 지내다", "example": { "en": "Do you get along with your new coworkers?", "ko": "새 동료들과 잘 지내?", "focus": "get along with" } },
+          { "phrase": "get over", "ko": "극복하다, 잊다", "example": { "en": "It took Jun months to get over the breakup.", "ko": "준은 이별을 극복하는 데 몇 달이 걸렸어.", "focus": "get over the breakup" } }
+        ]
+      }
+    ],
+    "wordFamily": [
+      { "form": "getaway", "pos": "n", "ko": "짧은 휴가, 도주" }
+    ],
+    "confusables": [
+      { "word": "take", "note": "take는 '내가 손을 뻗어 가져가다', get은 '내 손에 들어오다'에 초점이 있다." },
+      { "word": "become", "note": "become은 격식·글말, get은 일상 대화에서 상태 변화를 말할 때 쓴다." }
+    ],
+    "memoryHook": "get은 '내 쪽으로 들어온다'는 그림 하나로 받다·도착하다·되다·이해하다가 다 설명된다."
+  }
+]

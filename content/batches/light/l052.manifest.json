@@ -1,0 +1,1038 @@
+{
+  "batch": "l052",
+  "kind": "light",
+  "levels": [
+    "ADV"
+  ],
+  "count": 60,
+  "entries": [
+    {
+      "id": "accuracy",
+      "headword": "accuracy",
+      "level": "ADV",
+      "isCore": false,
+      "pos_hint": [
+        "n"
+      ],
+      "forms": [
+        "accuracies"
+      ],
+      "cefr": "B1",
+      "freqRank": null,
+      "confusable_candidates": [
+        "accurate",
+        "accurately"
+      ]
+    },
+    {
+      "id": "accurately",
+      "headword": "accurately",
+      "level": "ADV",
+      "isCore": false,
+      "pos_hint": [
+        "adv"
+      ],
+      "forms": [],
+      "cefr": "B1",
+      "freqRank": null,
+      "confusable_candidates": [
+        "accuracy",
+        "accurate"
+      ]
+    },
+    {
+      "id": "acquaint",
+      "headword": "acquaint",
+      "level": "ADV",
+      "isCore": false,
+      "pos_hint": [],
+      "forms": [],
+      "cefr": null,
+      "freqRank": null,
+      "confusable_candidates": []
+    },
+    {
+      "id": "actively",
+      "headword": "actively",
+      "level": "ADV",
+      "isCore": false,
+      "pos_hint": [
+        "adv"
+      ],
+      "forms": [],
+      "cefr": "B2",
+      "freqRank": null,
+      "confusable_candidates": [
+        "activate",
+        "active",
+        "activist",
+        "activity"
+      ]
+    },
+    {
+      "id": "activist",
+      "headword": "activist",
+      "level": "ADV",
+      "isCore": false,
+      "pos_hint": [],
+      "forms": [
+        "activists"
+      ],
+      "cefr": null,
+      "freqRank": null,
+      "confusable_candidates": [
+        "activate",
+        "active",
+        "actively",
+        "activity"
+      ]
+    },
+    {
+      "id": "administrative",
+      "headword": "administrative",
+      "level": "ADV",
+      "isCore": false,
+      "pos_hint": [
+        "adj"
+      ],
+      "forms": [],
+      "cefr": "B2",
+      "freqRank": null,
+      "confusable_candidates": [
+        "administer",
+        "administration"
+      ]
+    },
+    {
+      "id": "adverse",
+      "headword": "adverse",
+      "level": "ADV",
+      "isCore": false,
+      "pos_hint": [
+        "adj"
+      ],
+      "forms": [],
+      "cefr": "B2",
+      "freqRank": null,
+      "confusable_candidates": [
+        "advertise",
+        "advertisement",
+        "advertize",
+        "advise",
+        "diverse",
+        "reverse"
+      ]
+    },
+    {
+      "id": "aesthetic",
+      "headword": "aesthetic",
+      "level": "ADV",
+      "isCore": false,
+      "pos_hint": [
+        "adj"
+      ],
+      "forms": [
+        "esthetic",
+        "esthetics"
+      ],
+      "cefr": null,
+      "freqRank": null,
+      "confusable_candidates": []
+    },
+    {
+      "id": "affiliate",
+      "headword": "affiliate",
+      "level": "ADV",
+      "isCore": false,
+      "pos_hint": [],
+      "forms": [
+        "affiliated",
+        "affiliates",
+        "affiliating"
+      ],
+      "cefr": null,
+      "freqRank": null,
+      "confusable_candidates": []
+    },
+    {
+      "id": "afterward",
+      "headword": "afterward",
+      "level": "ADV",
+      "isCore": false,
+      "pos_hint": [
+        "adv"
+      ],
+      "forms": [],
+      "cefr": "B1",
+      "freqRank": null,
+      "confusable_candidates": [
+        "afternoon"
+      ]
+    },
+    {
+      "id": "alliance",
+      "headword": "alliance",
+      "level": "ADV",
+      "isCore": false,
+      "pos_hint": [
+        "n"
+      ],
+      "forms": [
+        "alliances"
+      ],
+      "cefr": "B2",
+      "freqRank": null,
+      "confusable_candidates": [
+        "allowance"
+      ]
+    },
+    {
+      "id": "allocate",
+      "headword": "allocate",
+      "level": "ADV",
+      "isCore": false,
+      "pos_hint": [],
+      "forms": [
+        "allocated",
+        "allocates",
+        "allocating"
+      ],
+      "cefr": null,
+      "freqRank": null,
+      "confusable_candidates": [
+        "advocate"
+      ]
+    },
+    {
+      "id": "allowance",
+      "headword": "allowance",
+      "level": "ADV",
+      "isCore": false,
+      "pos_hint": [
+        "n"
+      ],
+      "forms": [
+        "allowances"
+      ],
+      "cefr": "B1",
+      "freqRank": null,
+      "confusable_candidates": [
+        "alliance"
+      ]
+    },
+    {
+      "id": "altitude",
+      "headword": "altitude",
+      "level": "ADV",
+      "isCore": false,
+      "pos_hint": [
+        "n"
+      ],
+      "forms": [
+        "altitudes"
+      ],
+      "cefr": "B2",
+      "freqRank": null,
+      "confusable_candidates": [
+        "attitude"
+      ]
+    },
+    {
+      "id": "aluminum",
+      "headword": "aluminum",
+      "level": "ADV",
+      "isCore": false,
+      "pos_hint": [
+        "n"
+      ],
+      "forms": [
+        "aluminium"
+      ],
+      "cefr": "B2",
+      "freqRank": null,
+      "confusable_candidates": []
+    },
+    {
+      "id": "amongst",
+      "headword": "amongst",
+      "level": "ADV",
+      "isCore": false,
+      "pos_hint": [
+        "prep"
+      ],
+      "forms": [],
+      "cefr": "B2",
+      "freqRank": null,
+      "confusable_candidates": []
+    },
+    {
+      "id": "amplify",
+      "headword": "amplify",
+      "level": "ADV",
+      "isCore": false,
+      "pos_hint": [
+        "v"
+      ],
+      "forms": [],
+      "cefr": "B2",
+      "freqRank": null,
+      "confusable_candidates": [
+        "simplify"
+      ]
+    },
+    {
+      "id": "analogy",
+      "headword": "analogy",
+      "level": "ADV",
+      "isCore": false,
+      "pos_hint": [
+        "n"
+      ],
+      "forms": [
+        "analogies"
+      ],
+      "cefr": "B2",
+      "freqRank": null,
+      "confusable_candidates": [
+        "apology"
+      ]
+    },
+    {
+      "id": "ancestor",
+      "headword": "ancestor",
+      "level": "ADV",
+      "isCore": false,
+      "pos_hint": [
+        "n"
+      ],
+      "forms": [
+        "ancestors"
+      ],
+      "cefr": "A2",
+      "freqRank": null,
+      "confusable_candidates": [
+        "investor"
+      ]
+    },
+    {
+      "id": "annually",
+      "headword": "annually",
+      "level": "ADV",
+      "isCore": false,
+      "pos_hint": [
+        "adv"
+      ],
+      "forms": [],
+      "cefr": "B1",
+      "freqRank": null,
+      "confusable_candidates": [
+        "actually",
+        "annual"
+      ]
+    },
+    {
+      "id": "annuity",
+      "headword": "annuity",
+      "level": "ADV",
+      "isCore": false,
+      "pos_hint": [],
+      "forms": [
+        "annuities"
+      ],
+      "cefr": null,
+      "freqRank": null,
+      "confusable_candidates": []
+    },
+    {
+      "id": "anti",
+      "headword": "anti",
+      "level": "ADV",
+      "isCore": false,
+      "pos_hint": [
+        "adj"
+      ],
+      "forms": [],
+      "cefr": "B1",
+      "freqRank": null,
+      "confusable_candidates": [
+        "act",
+        "ant",
+        "art",
+        "aunt",
+        "pants",
+        "want"
+      ]
+    },
+    {
+      "id": "applause",
+      "headword": "applause",
+      "level": "ADV",
+      "isCore": false,
+      "pos_hint": [
+        "n"
+      ],
+      "forms": [],
+      "cefr": "B1",
+      "freqRank": null,
+      "confusable_candidates": []
+    },
+    {
+      "id": "applicable",
+      "headword": "applicable",
+      "level": "ADV",
+      "isCore": false,
+      "pos_hint": [],
+      "forms": [],
+      "cefr": null,
+      "freqRank": null,
+      "confusable_candidates": [
+        "applicant",
+        "application"
+      ]
+    },
+    {
+      "id": "arbitrage",
+      "headword": "arbitrage",
+      "level": "ADV",
+      "isCore": false,
+      "pos_hint": [],
+      "forms": [
+        "arbitrages"
+      ],
+      "cefr": null,
+      "freqRank": null,
+      "confusable_candidates": []
+    },
+    {
+      "id": "archive",
+      "headword": "archive",
+      "level": "ADV",
+      "isCore": false,
+      "pos_hint": [],
+      "forms": [
+        "archived",
+        "archives",
+        "archiving"
+      ],
+      "cefr": null,
+      "freqRank": null,
+      "confusable_candidates": [
+        "achieve",
+        "active",
+        "architect",
+        "architecture",
+        "arrive"
+      ]
+    },
+    {
+      "id": "articulate",
+      "headword": "articulate",
+      "level": "ADV",
+      "isCore": false,
+      "pos_hint": [
+        "v"
+      ],
+      "forms": [
+        "articulated",
+        "articulates",
+        "articulating"
+      ],
+      "cefr": "B2",
+      "freqRank": null,
+      "confusable_candidates": [
+        "article"
+      ]
+    },
+    {
+      "id": "artistic",
+      "headword": "artistic",
+      "level": "ADV",
+      "isCore": false,
+      "pos_hint": [
+        "adj"
+      ],
+      "forms": [],
+      "cefr": "B1",
+      "freqRank": null,
+      "confusable_candidates": [
+        "artist"
+      ]
+    },
+    {
+      "id": "assault",
+      "headword": "assault",
+      "level": "ADV",
+      "isCore": false,
+      "pos_hint": [
+        "n"
+      ],
+      "forms": [
+        "assaults"
+      ],
+      "cefr": "B2",
+      "freqRank": null,
+      "confusable_candidates": []
+    },
+    {
+      "id": "assembly",
+      "headword": "assembly",
+      "level": "ADV",
+      "isCore": false,
+      "pos_hint": [
+        "n"
+      ],
+      "forms": [
+        "assemblies"
+      ],
+      "cefr": "B2",
+      "freqRank": null,
+      "confusable_candidates": [
+        "assemble"
+      ]
+    },
+    {
+      "id": "assignment",
+      "headword": "assignment",
+      "level": "ADV",
+      "isCore": false,
+      "pos_hint": [
+        "n"
+      ],
+      "forms": [
+        "assignments"
+      ],
+      "cefr": "B1",
+      "freqRank": null,
+      "confusable_candidates": [
+        "assign"
+      ]
+    },
+    {
+      "id": "athletic",
+      "headword": "athletic",
+      "level": "ADV",
+      "isCore": false,
+      "pos_hint": [
+        "adj"
+      ],
+      "forms": [],
+      "cefr": "B1",
+      "freqRank": null,
+      "confusable_candidates": [
+        "athlete"
+      ]
+    },
+    {
+      "id": "atomic",
+      "headword": "atomic",
+      "level": "ADV",
+      "isCore": false,
+      "pos_hint": [
+        "adj"
+      ],
+      "forms": [],
+      "cefr": "B1",
+      "freqRank": null,
+      "confusable_candidates": [
+        "topic",
+        "toxic"
+      ]
+    },
+    {
+      "id": "attorney",
+      "headword": "attorney",
+      "level": "ADV",
+      "isCore": false,
+      "pos_hint": [],
+      "forms": [
+        "attorneys"
+      ],
+      "cefr": null,
+      "freqRank": null,
+      "confusable_candidates": []
+    },
+    {
+      "id": "audio",
+      "headword": "audio",
+      "level": "ADV",
+      "isCore": false,
+      "pos_hint": [
+        "adj"
+      ],
+      "forms": [],
+      "cefr": "A2",
+      "freqRank": null,
+      "confusable_candidates": [
+        "audit",
+        "radio",
+        "studio"
+      ]
+    },
+    {
+      "id": "audit",
+      "headword": "audit",
+      "level": "ADV",
+      "isCore": false,
+      "pos_hint": [
+        "n"
+      ],
+      "forms": [
+        "audits"
+      ],
+      "cefr": "B2",
+      "freqRank": null,
+      "confusable_candidates": [
+        "addict",
+        "admit",
+        "audio",
+        "aunt",
+        "await",
+        "edit"
+      ]
+    },
+    {
+      "id": "auditor",
+      "headword": "auditor",
+      "level": "ADV",
+      "isCore": false,
+      "pos_hint": [],
+      "forms": [
+        "auditors"
+      ],
+      "cefr": null,
+      "freqRank": null,
+      "confusable_candidates": [
+        "editor"
+      ]
+    },
+    {
+      "id": "authentic",
+      "headword": "authentic",
+      "level": "ADV",
+      "isCore": false,
+      "pos_hint": [],
+      "forms": [],
+      "cefr": null,
+      "freqRank": null,
+      "confusable_candidates": []
+    },
+    {
+      "id": "authority",
+      "headword": "authority",
+      "level": "ADV",
+      "isCore": false,
+      "pos_hint": [
+        "n"
+      ],
+      "forms": [
+        "authorities"
+      ],
+      "cefr": "B1",
+      "freqRank": null,
+      "confusable_candidates": [
+        "author",
+        "authorize"
+      ]
+    },
+    {
+      "id": "authorize",
+      "headword": "authorize",
+      "level": "ADV",
+      "isCore": false,
+      "pos_hint": [
+        "v"
+      ],
+      "forms": [
+        "authorise",
+        "authorised",
+        "authorises",
+        "authorising",
+        "authorized",
+        "authorizes",
+        "authorizing"
+      ],
+      "cefr": "B2",
+      "freqRank": null,
+      "confusable_candidates": [
+        "author",
+        "authority"
+      ]
+    },
+    {
+      "id": "availability",
+      "headword": "availability",
+      "level": "ADV",
+      "isCore": false,
+      "pos_hint": [
+        "n"
+      ],
+      "forms": [
+        "availabilities"
+      ],
+      "cefr": "B2",
+      "freqRank": null,
+      "confusable_candidates": [
+        "available"
+      ]
+    },
+    {
+      "id": "axis",
+      "headword": "axis",
+      "level": "ADV",
+      "isCore": false,
+      "pos_hint": [
+        "n"
+      ],
+      "forms": [],
+      "cefr": "B2",
+      "freqRank": null,
+      "confusable_candidates": [
+        "acid",
+        "aid",
+        "aim",
+        "air",
+        "arise",
+        "basis"
+      ]
+    },
+    {
+      "id": "backward",
+      "headword": "backward",
+      "level": "ADV",
+      "isCore": false,
+      "pos_hint": [
+        "adv"
+      ],
+      "forms": [],
+      "cefr": "B2",
+      "freqRank": null,
+      "confusable_candidates": [
+        "awkward"
+      ]
+    },
+    {
+      "id": "banker",
+      "headword": "banker",
+      "level": "ADV",
+      "isCore": false,
+      "pos_hint": [
+        "n"
+      ],
+      "forms": [
+        "bankers"
+      ],
+      "cefr": "B2",
+      "freqRank": null,
+      "confusable_candidates": [
+        "anger",
+        "basket",
+        "blanket",
+        "broker",
+        "cancer",
+        "danger"
+      ]
+    },
+    {
+      "id": "bankrupt",
+      "headword": "bankrupt",
+      "level": "ADV",
+      "isCore": false,
+      "pos_hint": [
+        "v"
+      ],
+      "forms": [
+        "bankrupted",
+        "bankrupting",
+        "bankrupts"
+      ],
+      "cefr": "B2",
+      "freqRank": null,
+      "confusable_candidates": [
+        "bankruptcy"
+      ]
+    },
+    {
+      "id": "bankruptcy",
+      "headword": "bankruptcy",
+      "level": "ADV",
+      "isCore": false,
+      "pos_hint": [
+        "n"
+      ],
+      "forms": [
+        "bankruptcies"
+      ],
+      "cefr": "B2",
+      "freqRank": null,
+      "confusable_candidates": [
+        "bankrupt"
+      ]
+    },
+    {
+      "id": "barrel",
+      "headword": "barrel",
+      "level": "ADV",
+      "isCore": false,
+      "pos_hint": [
+        "n"
+      ],
+      "forms": [
+        "barrels"
+      ],
+      "cefr": "B1",
+      "freqRank": null,
+      "confusable_candidates": [
+        "barely",
+        "barrier",
+        "marvel",
+        "parcel"
+      ]
+    },
+    {
+      "id": "basin",
+      "headword": "basin",
+      "level": "ADV",
+      "isCore": false,
+      "pos_hint": [
+        "n"
+      ],
+      "forms": [
+        "basins"
+      ],
+      "cefr": "B1",
+      "freqRank": null,
+      "confusable_candidates": [
+        "barn",
+        "base",
+        "basic",
+        "basis",
+        "begin",
+        "brain"
+      ]
+    },
+    {
+      "id": "benchmark",
+      "headword": "benchmark",
+      "level": "ADV",
+      "isCore": false,
+      "pos_hint": [],
+      "forms": [
+        "benchmarked",
+        "benchmarking",
+        "benchmarks"
+      ],
+      "cefr": null,
+      "freqRank": null,
+      "confusable_candidates": []
+    },
+    {
+      "id": "beta",
+      "headword": "beta",
+      "level": "ADV",
+      "isCore": false,
+      "pos_hint": [],
+      "forms": [
+        "betas"
+      ],
+      "cefr": null,
+      "freqRank": null,
+      "confusable_candidates": [
+        "bat",
+        "bath",
+        "beam",
+        "bean",
+        "bear",
+        "beat"
+      ]
+    },
+    {
+      "id": "bilingual",
+      "headword": "bilingual",
+      "level": "ADV",
+      "isCore": false,
+      "pos_hint": [
+        "adj"
+      ],
+      "forms": [],
+      "cefr": "B1",
+      "freqRank": null,
+      "confusable_candidates": []
+    },
+    {
+      "id": "bishop",
+      "headword": "bishop",
+      "level": "ADV",
+      "isCore": false,
+      "pos_hint": [
+        "n"
+      ],
+      "forms": [],
+      "cefr": "B1",
+      "freqRank": null,
+      "confusable_candidates": []
+    },
+    {
+      "id": "bizarre",
+      "headword": "bizarre",
+      "level": "ADV",
+      "isCore": false,
+      "pos_hint": [
+        "adj"
+      ],
+      "forms": [],
+      "cefr": "B2",
+      "freqRank": null,
+      "confusable_candidates": []
+    },
+    {
+      "id": "blast",
+      "headword": "blast",
+      "level": "ADV",
+      "isCore": false,
+      "pos_hint": [
+        "n",
+        "v"
+      ],
+      "forms": [
+        "blasted",
+        "blasting",
+        "blasts"
+      ],
+      "cefr": "B2",
+      "freqRank": null,
+      "confusable_candidates": [
+        "base",
+        "beast",
+        "beat",
+        "best",
+        "bias",
+        "black"
+      ]
+    },
+    {
+      "id": "bleed",
+      "headword": "bleed",
+      "level": "ADV",
+      "isCore": false,
+      "pos_hint": [
+        "v"
+      ],
+      "forms": [
+        "bled",
+        "bleedin",
+        "bleeding",
+        "bleeds"
+      ],
+      "cefr": "B1",
+      "freqRank": null,
+      "confusable_candidates": [
+        "beef",
+        "beer",
+        "bend",
+        "blend",
+        "bless",
+        "blind"
+      ]
+    },
+    {
+      "id": "bonus",
+      "headword": "bonus",
+      "level": "ADV",
+      "isCore": false,
+      "pos_hint": [
+        "n"
+      ],
+      "forms": [
+        "bonuses"
+      ],
+      "cefr": "A2",
+      "freqRank": null,
+      "confusable_candidates": [
+        "bond",
+        "bone",
+        "boss",
+        "focus",
+        "minus"
+      ]
+    },
+    {
+      "id": "borrower",
+      "headword": "borrower",
+      "level": "ADV",
+      "isCore": false,
+      "pos_hint": [],
+      "forms": [
+        "borrowers"
+      ],
+      "cefr": null,
+      "freqRank": null,
+      "confusable_candidates": [
+        "borrow"
+      ]
+    },
+    {
+      "id": "bound",
+      "headword": "bound",
+      "level": "ADV",
+      "isCore": false,
+      "pos_hint": [
+        "adj"
+      ],
+      "forms": [],
+      "cefr": "B1",
+      "freqRank": null,
+      "confusable_candidates": [
+        "around",
+        "band",
+        "bend",
+        "bind",
+        "blend",
+        "blind"
+      ]
+    },
+    {
+      "id": "bracket",
+      "headword": "bracket",
+      "level": "ADV",
+      "isCore": false,
+      "pos_hint": [
+        "n"
+      ],
+      "forms": [
+        "brackets"
+      ],
+      "cefr": "B2",
+      "freqRank": null,
+      "confusable_candidates": [
+        "basket",
+        "blanket",
+        "bucket",
+        "cricket",
+        "jacket",
+        "packet"
+      ]
+    },
+    {
+      "id": "breach",
+      "headword": "breach",
+      "level": "ADV",
+      "isCore": false,
+      "pos_hint": [],
+      "forms": [
+        "breached",
+        "breaches",
+        "breaching"
+      ],
+      "cefr": null,
+      "freqRank": null,
+      "confusable_candidates": [
+        "beach",
+        "branch",
+        "bread",
+        "break",
+        "breast",
+        "breath"
+      ]
+    }
+  ]
+}

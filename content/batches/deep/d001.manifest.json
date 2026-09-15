@@ -1,0 +1,429 @@
+{
+  "batch": "d001",
+  "kind": "deep",
+  "levels": [
+    "PRE"
+  ],
+  "count": 20,
+  "entries": [
+    {
+      "id": "have",
+      "headword": "have",
+      "level": "PRE",
+      "isCore": true,
+      "pos_hint": [
+        "v"
+      ],
+      "forms": [
+        "d",
+        "had",
+        "hadn",
+        "hafta",
+        "has",
+        "hasn",
+        "haven",
+        "having",
+        "ve"
+      ],
+      "cefr": "A1",
+      "freqRank": 8,
+      "confusable_candidates": [
+        "age",
+        "bake",
+        "bare",
+        "base",
+        "brave",
+        "cafe"
+      ]
+    },
+    {
+      "id": "do",
+      "headword": "do",
+      "level": "PRE",
+      "isCore": true,
+      "pos_hint": [
+        "v"
+      ],
+      "forms": [
+        "did",
+        "didn",
+        "does",
+        "doesn",
+        "doin",
+        "doing",
+        "don",
+        "done"
+      ],
+      "cefr": "A1",
+      "freqRank": 21,
+      "confusable_candidates": []
+    },
+    {
+      "id": "as",
+      "headword": "as",
+      "level": "PRE",
+      "isCore": true,
+      "pos_hint": [
+        "conj",
+        "prep"
+      ],
+      "forms": [],
+      "cefr": "A1",
+      "freqRank": 22,
+      "confusable_candidates": []
+    },
+    {
+      "id": "by",
+      "headword": "by",
+      "level": "PRE",
+      "isCore": true,
+      "pos_hint": [
+        "prep"
+      ],
+      "forms": [],
+      "cefr": "A1",
+      "freqRank": 27,
+      "confusable_candidates": []
+    },
+    {
+      "id": "say",
+      "headword": "say",
+      "level": "PRE",
+      "isCore": true,
+      "pos_hint": [
+        "n",
+        "v"
+      ],
+      "forms": [
+        "said",
+        "saying",
+        "sayings",
+        "says"
+      ],
+      "cefr": "A1",
+      "freqRank": 30,
+      "confusable_candidates": []
+    },
+    {
+      "id": "go",
+      "headword": "go",
+      "level": "PRE",
+      "isCore": true,
+      "pos_hint": [
+        "n",
+        "v"
+      ],
+      "forms": [
+        "goes",
+        "goin",
+        "going",
+        "gone",
+        "went"
+      ],
+      "cefr": "A1",
+      "freqRank": 31,
+      "confusable_candidates": []
+    },
+    {
+      "id": "about",
+      "headword": "about",
+      "level": "PRE",
+      "isCore": true,
+      "pos_hint": [
+        "adv",
+        "prep"
+      ],
+      "forms": [],
+      "cefr": "A1",
+      "freqRank": 37,
+      "confusable_candidates": [
+        "abort",
+        "adopt",
+        "aloud",
+        "amount",
+        "boat",
+        "boot"
+      ]
+    },
+    {
+      "id": "get",
+      "headword": "get",
+      "level": "PRE",
+      "isCore": true,
+      "pos_hint": [
+        "v"
+      ],
+      "forms": [
+        "gets",
+        "getting",
+        "got",
+        "gotten"
+      ],
+      "cefr": "A1",
+      "freqRank": 43,
+      "confusable_candidates": []
+    },
+    {
+      "id": "like",
+      "headword": "like",
+      "level": "PRE",
+      "isCore": true,
+      "pos_hint": [
+        "conj",
+        "prep",
+        "v"
+      ],
+      "forms": [
+        "liked",
+        "likes",
+        "liking"
+      ],
+      "cefr": "A1",
+      "freqRank": 45,
+      "confusable_candidates": [
+        "alike",
+        "alive",
+        "bake",
+        "bike",
+        "bite",
+        "cake"
+      ]
+    },
+    {
+      "id": "think",
+      "headword": "think",
+      "level": "PRE",
+      "isCore": true,
+      "pos_hint": [
+        "v"
+      ],
+      "forms": [
+        "thinking",
+        "thinks",
+        "thought",
+        "thoughts"
+      ],
+      "cefr": "A1",
+      "freqRank": 47,
+      "confusable_candidates": [
+        "blink",
+        "chin",
+        "drink",
+        "hint",
+        "link",
+        "pink"
+      ]
+    },
+    {
+      "id": "make",
+      "headword": "make",
+      "level": "PRE",
+      "isCore": true,
+      "pos_hint": [
+        "n",
+        "v"
+      ],
+      "forms": [
+        "made",
+        "makes",
+        "making"
+      ],
+      "cefr": "A1",
+      "freqRank": 48,
+      "confusable_candidates": [
+        "age",
+        "amaze",
+        "awake",
+        "bake",
+        "bare",
+        "base"
+      ]
+    },
+    {
+      "id": "time",
+      "headword": "time",
+      "level": "PRE",
+      "isCore": true,
+      "pos_hint": [
+        "n",
+        "v"
+      ],
+      "forms": [
+        "timed",
+        "times",
+        "timing"
+      ],
+      "cefr": "A1",
+      "freqRank": 49,
+      "confusable_candidates": [
+        "aim",
+        "bike",
+        "bite",
+        "cite",
+        "come",
+        "crime"
+      ]
+    },
+    {
+      "id": "see",
+      "headword": "see",
+      "level": "PRE",
+      "isCore": true,
+      "pos_hint": [
+        "v"
+      ],
+      "forms": [
+        "saw",
+        "seeing",
+        "seen",
+        "sees"
+      ],
+      "cefr": "A1",
+      "freqRank": 50,
+      "confusable_candidates": []
+    },
+    {
+      "id": "up",
+      "headword": "up",
+      "level": "PRE",
+      "isCore": true,
+      "pos_hint": [
+        "adv",
+        "prep"
+      ],
+      "forms": [],
+      "cefr": "A1",
+      "freqRank": 52,
+      "confusable_candidates": []
+    },
+    {
+      "id": "out",
+      "headword": "out",
+      "level": "PRE",
+      "isCore": true,
+      "pos_hint": [
+        "adv"
+      ],
+      "forms": [],
+      "cefr": "A1",
+      "freqRank": 55,
+      "confusable_candidates": []
+    },
+    {
+      "id": "good",
+      "headword": "good",
+      "level": "PRE",
+      "isCore": true,
+      "pos_hint": [
+        "adj",
+        "n"
+      ],
+      "forms": [
+        "best",
+        "better"
+      ],
+      "cefr": "A1",
+      "freqRank": 56,
+      "confusable_candidates": [
+        "blood",
+        "bold",
+        "bond",
+        "book",
+        "boom",
+        "boot"
+      ]
+    },
+    {
+      "id": "take",
+      "headword": "take",
+      "level": "PRE",
+      "isCore": true,
+      "pos_hint": [
+        "n",
+        "v"
+      ],
+      "forms": [
+        "taken",
+        "takes",
+        "taking",
+        "took"
+      ],
+      "cefr": "A1",
+      "freqRank": 59,
+      "confusable_candidates": [
+        "age",
+        "awake",
+        "bake",
+        "bare",
+        "base",
+        "bike"
+      ]
+    },
+    {
+      "id": "well",
+      "headword": "well",
+      "level": "PRE",
+      "isCore": true,
+      "pos_hint": [
+        "adj",
+        "adv"
+      ],
+      "forms": [],
+      "cefr": "A1",
+      "freqRank": 61,
+      "confusable_candidates": [
+        "ball",
+        "bell",
+        "belt",
+        "bill",
+        "bull",
+        "call"
+      ]
+    },
+    {
+      "id": "just",
+      "headword": "just",
+      "level": "PRE",
+      "isCore": true,
+      "pos_hint": [
+        "adv"
+      ],
+      "forms": [],
+      "cefr": "A1",
+      "freqRank": 64,
+      "confusable_candidates": [
+        "aunt",
+        "best",
+        "burst",
+        "bus",
+        "bush",
+        "bust"
+      ]
+    },
+    {
+      "id": "come",
+      "headword": "come",
+      "level": "PRE",
+      "isCore": true,
+      "pos_hint": [
+        "v"
+      ],
+      "forms": [
+        "came",
+        "comes",
+        "cometh",
+        "coming"
+      ],
+      "cefr": "A1",
+      "freqRank": 65,
+      "confusable_candidates": [
+        "bomb",
+        "bone",
+        "bore",
+        "cafe",
+        "cage",
+        "cake"
+      ]
+    }
+  ]
+}

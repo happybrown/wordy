@@ -1,0 +1,463 @@
+{
+  "batch": "d018",
+  "kind": "deep",
+  "levels": [
+    "MID"
+  ],
+  "count": 20,
+  "entries": [
+    {
+      "id": "attempt",
+      "headword": "attempt",
+      "level": "MID",
+      "isCore": true,
+      "pos_hint": [
+        "n",
+        "v"
+      ],
+      "forms": [
+        "attempted",
+        "attempting",
+        "attempts"
+      ],
+      "cefr": "A2",
+      "freqRank": 686,
+      "confusable_candidates": []
+    },
+    {
+      "id": "medium",
+      "headword": "medium",
+      "level": "MID",
+      "isCore": true,
+      "pos_hint": [
+        "adj",
+        "n"
+      ],
+      "forms": [
+        "mediums"
+      ],
+      "cefr": "B1",
+      "freqRank": 689,
+      "confusable_candidates": []
+    },
+    {
+      "id": "average",
+      "headword": "average",
+      "level": "MID",
+      "isCore": true,
+      "pos_hint": [
+        "adj",
+        "n"
+      ],
+      "forms": [
+        "averages"
+      ],
+      "cefr": "A2",
+      "freqRank": 690,
+      "confusable_candidates": [
+        "coverage",
+        "leverage"
+      ]
+    },
+    {
+      "id": "final",
+      "headword": "final",
+      "level": "MID",
+      "isCore": true,
+      "pos_hint": [
+        "adj",
+        "n"
+      ],
+      "forms": [
+        "finals"
+      ],
+      "cefr": "A2",
+      "freqRank": 698,
+      "confusable_candidates": [
+        "fatal",
+        "fill",
+        "find",
+        "fine",
+        "fiscal",
+        "rival"
+      ]
+    },
+    {
+      "id": "fit",
+      "headword": "fit",
+      "level": "MID",
+      "isCore": true,
+      "pos_hint": [
+        "adj",
+        "n",
+        "v"
+      ],
+      "forms": [
+        "fits",
+        "fitted",
+        "fitter",
+        "fittest",
+        "fitting",
+        "fittings"
+      ],
+      "cefr": "A2",
+      "freqRank": 700,
+      "confusable_candidates": []
+    },
+    {
+      "id": "function",
+      "headword": "function",
+      "level": "MID",
+      "isCore": true,
+      "pos_hint": [
+        "n",
+        "v"
+      ],
+      "forms": [
+        "functioned",
+        "functioning",
+        "functions"
+      ],
+      "cefr": "A2",
+      "freqRank": 702,
+      "confusable_candidates": [
+        "auction",
+        "fiction",
+        "fraction",
+        "functional",
+        "sanction"
+      ]
+    },
+    {
+      "id": "comment",
+      "headword": "comment",
+      "level": "MID",
+      "isCore": true,
+      "pos_hint": [
+        "n",
+        "v"
+      ],
+      "forms": [
+        "commented",
+        "commenting",
+        "comments"
+      ],
+      "cefr": "B1",
+      "freqRank": 716,
+      "confusable_candidates": [
+        "command",
+        "commence",
+        "commerce",
+        "commercial",
+        "commit",
+        "common"
+      ]
+    },
+    {
+      "id": "direct",
+      "headword": "direct",
+      "level": "MID",
+      "isCore": true,
+      "pos_hint": [
+        "adj",
+        "v"
+      ],
+      "forms": [
+        "directed",
+        "directing",
+        "directs"
+      ],
+      "cefr": "A2",
+      "freqRank": 724,
+      "confusable_candidates": [
+        "detect",
+        "direction",
+        "directly",
+        "director",
+        "erect"
+      ]
+    },
+    {
+      "id": "lack",
+      "headword": "lack",
+      "level": "MID",
+      "isCore": true,
+      "pos_hint": [
+        "n",
+        "v"
+      ],
+      "forms": [
+        "lacked",
+        "lacking",
+        "lacks"
+      ],
+      "cefr": "A2",
+      "freqRank": 729,
+      "confusable_candidates": [
+        "act",
+        "ask",
+        "back",
+        "bank",
+        "bark",
+        "black"
+      ]
+    },
+    {
+      "id": "gain",
+      "headword": "gain",
+      "level": "MID",
+      "isCore": true,
+      "pos_hint": [
+        "n",
+        "v"
+      ],
+      "forms": [
+        "gained",
+        "gaining",
+        "gains"
+      ],
+      "cefr": "B1",
+      "freqRank": 737,
+      "confusable_candidates": [
+        "again",
+        "aid",
+        "aim",
+        "air",
+        "ban",
+        "barn"
+      ]
+    },
+    {
+      "id": "mark",
+      "headword": "mark",
+      "level": "MID",
+      "isCore": true,
+      "pos_hint": [
+        "n",
+        "v"
+      ],
+      "forms": [
+        "marked",
+        "marking",
+        "markings",
+        "marks"
+      ],
+      "cefr": "A2",
+      "freqRank": 743,
+      "confusable_candidates": [
+        "arm",
+        "art",
+        "ask",
+        "back",
+        "bank",
+        "bar"
+      ]
+    },
+    {
+      "id": "stuff",
+      "headword": "stuff",
+      "level": "MID",
+      "isCore": true,
+      "pos_hint": [
+        "n",
+        "v"
+      ],
+      "forms": [
+        "stuffed",
+        "stuffing",
+        "stuffs"
+      ],
+      "cefr": "A2",
+      "freqRank": 752,
+      "confusable_candidates": [
+        "sniff",
+        "staff",
+        "stiff",
+        "study",
+        "surf"
+      ]
+    },
+    {
+      "id": "wide",
+      "headword": "wide",
+      "level": "MID",
+      "isCore": true,
+      "pos_hint": [
+        "adj",
+        "adv"
+      ],
+      "forms": [
+        "wider",
+        "widest"
+      ],
+      "cefr": "A2",
+      "freqRank": 753,
+      "confusable_candidates": [
+        "aid",
+        "aside",
+        "bid",
+        "bike",
+        "bite",
+        "bride"
+      ]
+    },
+    {
+      "id": "challenge",
+      "headword": "challenge",
+      "level": "MID",
+      "isCore": true,
+      "pos_hint": [
+        "n",
+        "v"
+      ],
+      "forms": [
+        "challenged",
+        "challenges",
+        "challenging"
+      ],
+      "cefr": "A2",
+      "freqRank": 766,
+      "confusable_candidates": []
+    },
+    {
+      "id": "link",
+      "headword": "link",
+      "level": "MID",
+      "isCore": true,
+      "pos_hint": [
+        "n",
+        "v"
+      ],
+      "forms": [
+        "linked",
+        "linking",
+        "links"
+      ],
+      "cefr": "B1",
+      "freqRank": 770,
+      "confusable_candidates": [
+        "bank",
+        "bin",
+        "bind",
+        "blank",
+        "blind",
+        "blink"
+      ]
+    },
+    {
+      "id": "strike",
+      "headword": "strike",
+      "level": "MID",
+      "isCore": true,
+      "pos_hint": [
+        "n",
+        "v"
+      ],
+      "forms": [
+        "strikes",
+        "striking",
+        "struck"
+      ],
+      "cefr": "A2",
+      "freqRank": 776,
+      "confusable_candidates": [
+        "stake",
+        "strict",
+        "string",
+        "strip",
+        "stripe",
+        "stroke"
+      ]
+    },
+    {
+      "id": "release",
+      "headword": "release",
+      "level": "MID",
+      "isCore": true,
+      "pos_hint": [
+        "n",
+        "v"
+      ],
+      "forms": [
+        "released",
+        "releases",
+        "releasing"
+      ],
+      "cefr": "A2",
+      "freqRank": 786,
+      "confusable_candidates": [
+        "please",
+        "relate",
+        "reverse"
+      ]
+    },
+    {
+      "id": "fear",
+      "headword": "fear",
+      "level": "MID",
+      "isCore": true,
+      "pos_hint": [
+        "n",
+        "v"
+      ],
+      "forms": [
+        "feared",
+        "fearing",
+        "fears"
+      ],
+      "cefr": "A2",
+      "freqRank": 793,
+      "confusable_candidates": [
+        "bar",
+        "beam",
+        "bean",
+        "bear",
+        "beard",
+        "beat"
+      ]
+    },
+    {
+      "id": "aim",
+      "headword": "aim",
+      "level": "MID",
+      "isCore": true,
+      "pos_hint": [
+        "n",
+        "v"
+      ],
+      "forms": [
+        "aimed",
+        "aiming",
+        "aims"
+      ],
+      "cefr": "B1",
+      "freqRank": 794,
+      "confusable_candidates": []
+    },
+    {
+      "id": "access",
+      "headword": "access",
+      "level": "MID",
+      "isCore": true,
+      "pos_hint": [
+        "n",
+        "v"
+      ],
+      "forms": [
+        "accessed",
+        "accesses",
+        "accessing"
+      ],
+      "cefr": "B1",
+      "freqRank": 802,
+      "confusable_candidates": [
+        "accent",
+        "accept",
+        "accuse",
+        "assess",
+        "chess",
+        "excess"
+      ]
+    }
+  ]
+}

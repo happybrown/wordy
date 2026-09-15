@@ -1,0 +1,1095 @@
+{
+  "batch": "l040",
+  "kind": "light",
+  "levels": [
+    "HIGH"
+  ],
+  "count": 60,
+  "entries": [
+    {
+      "id": "opponent",
+      "headword": "opponent",
+      "level": "HIGH",
+      "isCore": false,
+      "pos_hint": [
+        "n"
+      ],
+      "forms": [
+        "opponents"
+      ],
+      "cefr": "B2",
+      "freqRank": 2395,
+      "confusable_candidates": [
+        "component"
+      ]
+    },
+    {
+      "id": "capability",
+      "headword": "capability",
+      "level": "HIGH",
+      "isCore": false,
+      "pos_hint": [
+        "n"
+      ],
+      "forms": [
+        "capabilities"
+      ],
+      "cefr": "B2",
+      "freqRank": 2397,
+      "confusable_candidates": [
+        "capable"
+      ]
+    },
+    {
+      "id": "correspond",
+      "headword": "correspond",
+      "level": "HIGH",
+      "isCore": false,
+      "pos_hint": [
+        "v"
+      ],
+      "forms": [
+        "corresponded",
+        "corresponding",
+        "corresponds"
+      ],
+      "cefr": "B2",
+      "freqRank": 2399,
+      "confusable_candidates": [
+        "correct",
+        "correction",
+        "correctly"
+      ]
+    },
+    {
+      "id": "stroke",
+      "headword": "stroke",
+      "level": "HIGH",
+      "isCore": false,
+      "pos_hint": [
+        "n",
+        "v"
+      ],
+      "forms": [
+        "stroked",
+        "strokes",
+        "stroking"
+      ],
+      "cefr": "B2",
+      "freqRank": 2400,
+      "confusable_candidates": [
+        "smoke",
+        "stake",
+        "stone",
+        "store",
+        "stove",
+        "strike"
+      ]
+    },
+    {
+      "id": "barrier",
+      "headword": "barrier",
+      "level": "HIGH",
+      "isCore": false,
+      "pos_hint": [
+        "n"
+      ],
+      "forms": [
+        "barriers"
+      ],
+      "cefr": "B2",
+      "freqRank": 2402,
+      "confusable_candidates": [
+        "barrel",
+        "warrior"
+      ]
+    },
+    {
+      "id": "rid",
+      "headword": "rid",
+      "level": "HIGH",
+      "isCore": false,
+      "pos_hint": [
+        "v"
+      ],
+      "forms": [
+        "ridded",
+        "ridding",
+        "rids"
+      ],
+      "cefr": "B1",
+      "freqRank": 2403,
+      "confusable_candidates": []
+    },
+    {
+      "id": "divorce",
+      "headword": "divorce",
+      "level": "HIGH",
+      "isCore": false,
+      "pos_hint": [
+        "n",
+        "v"
+      ],
+      "forms": [
+        "divorced",
+        "divorces",
+        "divorcing"
+      ],
+      "cefr": "B2",
+      "freqRank": 2404,
+      "confusable_candidates": [
+        "diverse"
+      ]
+    },
+    {
+      "id": "counsel",
+      "headword": "counsel",
+      "level": "HIGH",
+      "isCore": false,
+      "pos_hint": [],
+      "forms": [
+        "counseled",
+        "counseling",
+        "counselled",
+        "counselling",
+        "counsels"
+      ],
+      "cefr": null,
+      "freqRank": 2407,
+      "confusable_candidates": [
+        "council",
+        "counter",
+        "course"
+      ]
+    },
+    {
+      "id": "tendency",
+      "headword": "tendency",
+      "level": "HIGH",
+      "isCore": false,
+      "pos_hint": [
+        "n"
+      ],
+      "forms": [
+        "tendencies"
+      ],
+      "cefr": "B1",
+      "freqRank": 2408,
+      "confusable_candidates": [
+        "tender"
+      ]
+    },
+    {
+      "id": "motor",
+      "headword": "motor",
+      "level": "HIGH",
+      "isCore": false,
+      "pos_hint": [
+        "n"
+      ],
+      "forms": [
+        "motors"
+      ],
+      "cefr": "B1",
+      "freqRank": 2410,
+      "confusable_candidates": [
+        "actor",
+        "color",
+        "doctor",
+        "door",
+        "honor",
+        "major"
+      ]
+    },
+    {
+      "id": "survival",
+      "headword": "survival",
+      "level": "HIGH",
+      "isCore": false,
+      "pos_hint": [
+        "n"
+      ],
+      "forms": [
+        "survivals"
+      ],
+      "cefr": "B1",
+      "freqRank": 2411,
+      "confusable_candidates": [
+        "survive"
+      ]
+    },
+    {
+      "id": "permission",
+      "headword": "permission",
+      "level": "HIGH",
+      "isCore": false,
+      "pos_hint": [
+        "n"
+      ],
+      "forms": [
+        "permissions"
+      ],
+      "cefr": "A2",
+      "freqRank": 2414,
+      "confusable_candidates": [
+        "permit"
+      ]
+    },
+    {
+      "id": "greatly",
+      "headword": "greatly",
+      "level": "HIGH",
+      "isCore": false,
+      "pos_hint": [
+        "adv"
+      ],
+      "forms": [],
+      "cefr": "A2",
+      "freqRank": 2418,
+      "confusable_candidates": [
+        "gently",
+        "really",
+        "treaty"
+      ]
+    },
+    {
+      "id": "impressive",
+      "headword": "impressive",
+      "level": "HIGH",
+      "isCore": false,
+      "pos_hint": [
+        "adj"
+      ],
+      "forms": [],
+      "cefr": "B1",
+      "freqRank": 2421,
+      "confusable_candidates": [
+        "impress",
+        "impression"
+      ]
+    },
+    {
+      "id": "evolution",
+      "headword": "evolution",
+      "level": "HIGH",
+      "isCore": false,
+      "pos_hint": [
+        "n"
+      ],
+      "forms": [
+        "evolutions"
+      ],
+      "cefr": "B2",
+      "freqRank": 2422,
+      "confusable_candidates": [
+        "evaluation",
+        "resolution",
+        "revolution",
+        "solution"
+      ]
+    },
+    {
+      "id": "awareness",
+      "headword": "awareness",
+      "level": "HIGH",
+      "isCore": false,
+      "pos_hint": [
+        "n"
+      ],
+      "forms": [],
+      "cefr": "B1",
+      "freqRank": 2423,
+      "confusable_candidates": []
+    },
+    {
+      "id": "wealthy",
+      "headword": "wealthy",
+      "level": "HIGH",
+      "isCore": false,
+      "pos_hint": [
+        "adj"
+      ],
+      "forms": [
+        "wealthier",
+        "wealthiest"
+      ],
+      "cefr": "B2",
+      "freqRank": 2426,
+      "confusable_candidates": [
+        "health",
+        "healthy",
+        "wealth"
+      ]
+    },
+    {
+      "id": "acceptable",
+      "headword": "acceptable",
+      "level": "HIGH",
+      "isCore": false,
+      "pos_hint": [
+        "adj"
+      ],
+      "forms": [],
+      "cefr": "A2",
+      "freqRank": 2428,
+      "confusable_candidates": [
+        "accept",
+        "acceptance"
+      ]
+    },
+    {
+      "id": "measurement",
+      "headword": "measurement",
+      "level": "HIGH",
+      "isCore": false,
+      "pos_hint": [
+        "n"
+      ],
+      "forms": [
+        "measurements"
+      ],
+      "cefr": "B1",
+      "freqRank": 2431,
+      "confusable_candidates": [
+        "measure"
+      ]
+    },
+    {
+      "id": "random",
+      "headword": "random",
+      "level": "HIGH",
+      "isCore": false,
+      "pos_hint": [],
+      "forms": [],
+      "cefr": null,
+      "freqRank": 2432,
+      "confusable_candidates": []
+    },
+    {
+      "id": "successfully",
+      "headword": "successfully",
+      "level": "HIGH",
+      "isCore": false,
+      "pos_hint": [
+        "adv"
+      ],
+      "forms": [],
+      "cefr": "A2",
+      "freqRank": 2433,
+      "confusable_candidates": [
+        "succeed",
+        "success",
+        "successful"
+      ]
+    },
+    {
+      "id": "depress",
+      "headword": "depress",
+      "level": "HIGH",
+      "isCore": false,
+      "pos_hint": [],
+      "forms": [
+        "depressed",
+        "depresses",
+        "depressing"
+      ],
+      "cefr": null,
+      "freqRank": 2434,
+      "confusable_candidates": [
+        "depreciation",
+        "depression",
+        "express",
+        "impress"
+      ]
+    },
+    {
+      "id": "illustration",
+      "headword": "illustration",
+      "level": "HIGH",
+      "isCore": false,
+      "pos_hint": [
+        "n"
+      ],
+      "forms": [
+        "illustrations"
+      ],
+      "cefr": "B2",
+      "freqRank": 2435,
+      "confusable_candidates": [
+        "illusion",
+        "illustrate"
+      ]
+    },
+    {
+      "id": "privilege",
+      "headword": "privilege",
+      "level": "HIGH",
+      "isCore": false,
+      "pos_hint": [
+        "n"
+      ],
+      "forms": [
+        "privileges"
+      ],
+      "cefr": "B2",
+      "freqRank": 2437,
+      "confusable_candidates": []
+    },
+    {
+      "id": "buyer",
+      "headword": "buyer",
+      "level": "HIGH",
+      "isCore": false,
+      "pos_hint": [
+        "n"
+      ],
+      "forms": [
+        "buyers"
+      ],
+      "cefr": "B1",
+      "freqRank": 2438,
+      "confusable_candidates": [
+        "beer",
+        "burger",
+        "butter",
+        "layer",
+        "outer",
+        "ruler"
+      ]
+    },
+    {
+      "id": "mutual",
+      "headword": "mutual",
+      "level": "HIGH",
+      "isCore": false,
+      "pos_hint": [
+        "adj"
+      ],
+      "forms": [],
+      "cefr": "B1",
+      "freqRank": 2439,
+      "confusable_candidates": [
+        "actual",
+        "metal",
+        "usual"
+      ]
+    },
+    {
+      "id": "motivate",
+      "headword": "motivate",
+      "level": "HIGH",
+      "isCore": false,
+      "pos_hint": [
+        "v"
+      ],
+      "forms": [
+        "motivated",
+        "motivates",
+        "motivating"
+      ],
+      "cefr": "B1",
+      "freqRank": 2441,
+      "confusable_candidates": [
+        "activate",
+        "motivation",
+        "motive"
+      ]
+    },
+    {
+      "id": "mortgage",
+      "headword": "mortgage",
+      "level": "HIGH",
+      "isCore": false,
+      "pos_hint": [
+        "n"
+      ],
+      "forms": [
+        "mortgages"
+      ],
+      "cefr": "B2",
+      "freqRank": 2443,
+      "confusable_candidates": []
+    },
+    {
+      "id": "promotion",
+      "headword": "promotion",
+      "level": "HIGH",
+      "isCore": false,
+      "pos_hint": [
+        "n"
+      ],
+      "forms": [
+        "promotions"
+      ],
+      "cefr": "B1",
+      "freqRank": 2444,
+      "confusable_candidates": [
+        "promote",
+        "proportion"
+      ]
+    },
+    {
+      "id": "champion",
+      "headword": "champion",
+      "level": "HIGH",
+      "isCore": false,
+      "pos_hint": [
+        "n"
+      ],
+      "forms": [
+        "champions"
+      ],
+      "cefr": "B1",
+      "freqRank": 2446,
+      "confusable_candidates": [
+        "championship"
+      ]
+    },
+    {
+      "id": "fulfill",
+      "headword": "fulfill",
+      "level": "HIGH",
+      "isCore": false,
+      "pos_hint": [
+        "v"
+      ],
+      "forms": [
+        "fulfil",
+        "fulfiled",
+        "fulfiling",
+        "fulfilled",
+        "fulfilling",
+        "fulfills",
+        "fulfils"
+      ],
+      "cefr": "B2",
+      "freqRank": 2447,
+      "confusable_candidates": []
+    },
+    {
+      "id": "dedicate",
+      "headword": "dedicate",
+      "level": "HIGH",
+      "isCore": false,
+      "pos_hint": [
+        "v"
+      ],
+      "forms": [
+        "dedicated",
+        "dedicates",
+        "dedicating"
+      ],
+      "cefr": "B1",
+      "freqRank": 2449,
+      "confusable_candidates": [
+        "delicate",
+        "educate",
+        "indicate",
+        "mediate"
+      ]
+    },
+    {
+      "id": "roughly",
+      "headword": "roughly",
+      "level": "HIGH",
+      "isCore": false,
+      "pos_hint": [
+        "adv"
+      ],
+      "forms": [],
+      "cefr": "A2",
+      "freqRank": 2450,
+      "confusable_candidates": []
+    },
+    {
+      "id": "province",
+      "headword": "province",
+      "level": "HIGH",
+      "isCore": false,
+      "pos_hint": [
+        "n"
+      ],
+      "forms": [
+        "provinces"
+      ],
+      "cefr": "B2",
+      "freqRank": 2452,
+      "confusable_candidates": [
+        "provide",
+        "provider",
+        "provision"
+      ]
+    },
+    {
+      "id": "evaluation",
+      "headword": "evaluation",
+      "level": "HIGH",
+      "isCore": false,
+      "pos_hint": [
+        "n"
+      ],
+      "forms": [
+        "evaluations"
+      ],
+      "cefr": "B2",
+      "freqRank": 2454,
+      "confusable_candidates": [
+        "evaluate",
+        "evolution",
+        "valuation"
+      ]
+    },
+    {
+      "id": "compromise",
+      "headword": "compromise",
+      "level": "HIGH",
+      "isCore": false,
+      "pos_hint": [
+        "n",
+        "v"
+      ],
+      "forms": [
+        "compromised",
+        "compromises",
+        "compromising"
+      ],
+      "cefr": "B1",
+      "freqRank": 2455,
+      "confusable_candidates": [
+        "comprehensive",
+        "comprise"
+      ]
+    },
+    {
+      "id": "weakness",
+      "headword": "weakness",
+      "level": "HIGH",
+      "isCore": false,
+      "pos_hint": [
+        "n"
+      ],
+      "forms": [
+        "weaknesses"
+      ],
+      "cefr": "B1",
+      "freqRank": 2457,
+      "confusable_candidates": []
+    },
+    {
+      "id": "announcement",
+      "headword": "announcement",
+      "level": "HIGH",
+      "isCore": false,
+      "pos_hint": [
+        "n"
+      ],
+      "forms": [
+        "announcements"
+      ],
+      "cefr": "B1",
+      "freqRank": 2458,
+      "confusable_candidates": [
+        "announce"
+      ]
+    },
+    {
+      "id": "gallery",
+      "headword": "gallery",
+      "level": "HIGH",
+      "isCore": false,
+      "pos_hint": [
+        "n"
+      ],
+      "forms": [
+        "galleries"
+      ],
+      "cefr": "A2",
+      "freqRank": 2465,
+      "confusable_candidates": [
+        "valley"
+      ]
+    },
+    {
+      "id": "genetic",
+      "headword": "genetic",
+      "level": "HIGH",
+      "isCore": false,
+      "pos_hint": [
+        "adj"
+      ],
+      "forms": [],
+      "cefr": "B1",
+      "freqRank": 2466,
+      "confusable_candidates": [
+        "genetically",
+        "genetics"
+      ]
+    },
+    {
+      "id": "literary",
+      "headword": "literary",
+      "level": "HIGH",
+      "isCore": false,
+      "pos_hint": [
+        "adj"
+      ],
+      "forms": [],
+      "cefr": "B1",
+      "freqRank": 2470,
+      "confusable_candidates": [
+        "library",
+        "literal",
+        "literally",
+        "literature"
+      ]
+    },
+    {
+      "id": "embrace",
+      "headword": "embrace",
+      "level": "HIGH",
+      "isCore": false,
+      "pos_hint": [
+        "n"
+      ],
+      "forms": [
+        "embraces"
+      ],
+      "cefr": "B2",
+      "freqRank": 2472,
+      "confusable_candidates": []
+    },
+    {
+      "id": "publisher",
+      "headword": "publisher",
+      "level": "HIGH",
+      "isCore": false,
+      "pos_hint": [
+        "n"
+      ],
+      "forms": [
+        "publishers"
+      ],
+      "cefr": "B1",
+      "freqRank": 2476,
+      "confusable_candidates": [
+        "public",
+        "publication",
+        "publicly",
+        "publish"
+      ]
+    },
+    {
+      "id": "golf",
+      "headword": "golf",
+      "level": "HIGH",
+      "isCore": false,
+      "pos_hint": [
+        "n"
+      ],
+      "forms": [
+        "golfs"
+      ],
+      "cefr": "A2",
+      "freqRank": 2478,
+      "confusable_candidates": [
+        "bold",
+        "cold",
+        "doll",
+        "fold",
+        "folk",
+        "goal"
+      ]
+    },
+    {
+      "id": "compensation",
+      "headword": "compensation",
+      "level": "HIGH",
+      "isCore": false,
+      "pos_hint": [
+        "n"
+      ],
+      "forms": [
+        "compensations"
+      ],
+      "cefr": "B2",
+      "freqRank": 2479,
+      "confusable_candidates": [
+        "compel",
+        "compensate",
+        "compete",
+        "competent",
+        "competition",
+        "competitive"
+      ]
+    },
+    {
+      "id": "classical",
+      "headword": "classical",
+      "level": "HIGH",
+      "isCore": false,
+      "pos_hint": [
+        "adj"
+      ],
+      "forms": [],
+      "cefr": "B1",
+      "freqRank": 2480,
+      "confusable_candidates": [
+        "classic",
+        "classify",
+        "classmate",
+        "classroom"
+      ]
+    },
+    {
+      "id": "versus",
+      "headword": "versus",
+      "level": "HIGH",
+      "isCore": false,
+      "pos_hint": [
+        "prep"
+      ],
+      "forms": [],
+      "cefr": "B2",
+      "freqRank": 2482,
+      "confusable_candidates": [
+        "verse",
+        "virus"
+      ]
+    },
+    {
+      "id": "deficit",
+      "headword": "deficit",
+      "level": "HIGH",
+      "isCore": false,
+      "pos_hint": [
+        "n"
+      ],
+      "forms": [
+        "deficits"
+      ],
+      "cefr": "B2",
+      "freqRank": 2483,
+      "confusable_candidates": [
+        "deficiency",
+        "definite",
+        "depict"
+      ]
+    },
+    {
+      "id": "modify",
+      "headword": "modify",
+      "level": "HIGH",
+      "isCore": false,
+      "pos_hint": [
+        "v"
+      ],
+      "forms": [
+        "modified",
+        "modifies",
+        "modifying"
+      ],
+      "cefr": "B1",
+      "freqRank": 2484,
+      "confusable_candidates": []
+    },
+    {
+      "id": "friendship",
+      "headword": "friendship",
+      "level": "HIGH",
+      "isCore": false,
+      "pos_hint": [
+        "n"
+      ],
+      "forms": [
+        "friendships"
+      ],
+      "cefr": "A2",
+      "freqRank": 2486,
+      "confusable_candidates": [
+        "friend",
+        "friendly"
+      ]
+    },
+    {
+      "id": "literally",
+      "headword": "literally",
+      "level": "HIGH",
+      "isCore": false,
+      "pos_hint": [
+        "adv"
+      ],
+      "forms": [],
+      "cefr": "B2",
+      "freqRank": 2488,
+      "confusable_candidates": [
+        "literal",
+        "literary",
+        "literature"
+      ]
+    },
+    {
+      "id": "equation",
+      "headword": "equation",
+      "level": "HIGH",
+      "isCore": false,
+      "pos_hint": [
+        "n"
+      ],
+      "forms": [
+        "equations"
+      ],
+      "cefr": "B2",
+      "freqRank": 2489,
+      "confusable_candidates": [
+        "education",
+        "equate"
+      ]
+    },
+    {
+      "id": "inflation",
+      "headword": "inflation",
+      "level": "HIGH",
+      "isCore": false,
+      "pos_hint": [
+        "n"
+      ],
+      "forms": [
+        "inflations"
+      ],
+      "cefr": "B2",
+      "freqRank": 2494,
+      "confusable_candidates": [
+        "infection",
+        "inflate"
+      ]
+    },
+    {
+      "id": "historic",
+      "headword": "historic",
+      "level": "HIGH",
+      "isCore": false,
+      "pos_hint": [
+        "adj"
+      ],
+      "forms": [],
+      "cefr": "B1",
+      "freqRank": 2495,
+      "confusable_candidates": [
+        "historian",
+        "historical",
+        "history"
+      ]
+    },
+    {
+      "id": "therapy",
+      "headword": "therapy",
+      "level": "HIGH",
+      "isCore": false,
+      "pos_hint": [
+        "n"
+      ],
+      "forms": [
+        "therapies"
+      ],
+      "cefr": "B2",
+      "freqRank": 2498,
+      "confusable_candidates": []
+    },
+    {
+      "id": "personnel",
+      "headword": "personnel",
+      "level": "HIGH",
+      "isCore": false,
+      "pos_hint": [
+        "n"
+      ],
+      "forms": [],
+      "cefr": "B2",
+      "freqRank": 2501,
+      "confusable_candidates": [
+        "person",
+        "personal",
+        "personality",
+        "personally"
+      ]
+    },
+    {
+      "id": "imagination",
+      "headword": "imagination",
+      "level": "HIGH",
+      "isCore": false,
+      "pos_hint": [
+        "n"
+      ],
+      "forms": [
+        "imaginations"
+      ],
+      "cefr": "A2",
+      "freqRank": 2502,
+      "confusable_candidates": [
+        "imagine"
+      ]
+    },
+    {
+      "id": "throat",
+      "headword": "throat",
+      "level": "HIGH",
+      "isCore": false,
+      "pos_hint": [
+        "n"
+      ],
+      "forms": [
+        "throats"
+      ],
+      "cefr": "B2",
+      "freqRank": 2504,
+      "confusable_candidates": [
+        "thread",
+        "threat",
+        "throw",
+        "treat"
+      ]
+    },
+    {
+      "id": "tackle",
+      "headword": "tackle",
+      "level": "HIGH",
+      "isCore": false,
+      "pos_hint": [
+        "v"
+      ],
+      "forms": [
+        "tackled",
+        "tackles",
+        "tackling"
+      ],
+      "cefr": "B2",
+      "freqRank": 2506,
+      "confusable_candidates": [
+        "table"
+      ]
+    },
+    {
+      "id": "exceed",
+      "headword": "exceed",
+      "level": "HIGH",
+      "isCore": false,
+      "pos_hint": [
+        "v"
+      ],
+      "forms": [
+        "exceeded",
+        "exceeding",
+        "exceeds"
+      ],
+      "cefr": "B2",
+      "freqRank": 2508,
+      "confusable_candidates": [
+        "except",
+        "excess",
+        "excited",
+        "extend"
+      ]
+    }
+  ]
+}

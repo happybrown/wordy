@@ -1,0 +1,1045 @@
+{
+  "batch": "l049",
+  "kind": "light",
+  "levels": [
+    "HIGH"
+  ],
+  "count": 60,
+  "entries": [
+    {
+      "id": "leak",
+      "headword": "leak",
+      "level": "HIGH",
+      "isCore": false,
+      "pos_hint": [
+        "n",
+        "v"
+      ],
+      "forms": [
+        "leaked",
+        "leaking",
+        "leaks"
+      ],
+      "cefr": "B2",
+      "freqRank": null,
+      "confusable_candidates": [
+        "beam",
+        "bean",
+        "bear",
+        "beat",
+        "break",
+        "clean"
+      ]
+    },
+    {
+      "id": "legend",
+      "headword": "legend",
+      "level": "HIGH",
+      "isCore": false,
+      "pos_hint": [
+        "n"
+      ],
+      "forms": [
+        "legends"
+      ],
+      "cefr": "B2",
+      "freqRank": null,
+      "confusable_candidates": [
+        "defend",
+        "depend"
+      ]
+    },
+    {
+      "id": "lid",
+      "headword": "lid",
+      "level": "HIGH",
+      "isCore": false,
+      "pos_hint": [
+        "n"
+      ],
+      "forms": [],
+      "cefr": "B2",
+      "freqRank": null,
+      "confusable_candidates": []
+    },
+    {
+      "id": "likewise",
+      "headword": "likewise",
+      "level": "HIGH",
+      "isCore": false,
+      "pos_hint": [
+        "adj",
+        "adv"
+      ],
+      "forms": [],
+      "cefr": "B2",
+      "freqRank": null,
+      "confusable_candidates": []
+    },
+    {
+      "id": "linguistic",
+      "headword": "linguistic",
+      "level": "HIGH",
+      "isCore": false,
+      "pos_hint": [
+        "adj"
+      ],
+      "forms": [],
+      "cefr": null,
+      "freqRank": null,
+      "confusable_candidates": []
+    },
+    {
+      "id": "lounge",
+      "headword": "lounge",
+      "level": "HIGH",
+      "isCore": false,
+      "pos_hint": [],
+      "forms": [],
+      "cefr": null,
+      "freqRank": null,
+      "confusable_candidates": [
+        "bounce",
+        "ounce",
+        "young"
+      ]
+    },
+    {
+      "id": "magnet",
+      "headword": "magnet",
+      "level": "HIGH",
+      "isCore": false,
+      "pos_hint": [],
+      "forms": [],
+      "cefr": null,
+      "freqRank": null,
+      "confusable_candidates": [
+        "manner",
+        "market"
+      ]
+    },
+    {
+      "id": "marine",
+      "headword": "marine",
+      "level": "HIGH",
+      "isCore": false,
+      "pos_hint": [
+        "adj"
+      ],
+      "forms": [],
+      "cefr": "B1",
+      "freqRank": null,
+      "confusable_candidates": [
+        "arise",
+        "imagine",
+        "machine",
+        "marble",
+        "margin"
+      ]
+    },
+    {
+      "id": "marvel",
+      "headword": "marvel",
+      "level": "HIGH",
+      "isCore": false,
+      "pos_hint": [],
+      "forms": [],
+      "cefr": null,
+      "freqRank": null,
+      "confusable_candidates": [
+        "barrel",
+        "carve",
+        "market",
+        "parcel"
+      ]
+    },
+    {
+      "id": "meantime",
+      "headword": "meantime",
+      "level": "HIGH",
+      "isCore": false,
+      "pos_hint": [],
+      "forms": [],
+      "cefr": null,
+      "freqRank": null,
+      "confusable_candidates": []
+    },
+    {
+      "id": "mechanic",
+      "headword": "mechanic",
+      "level": "HIGH",
+      "isCore": false,
+      "pos_hint": [
+        "n"
+      ],
+      "forms": [
+        "mechanics"
+      ],
+      "cefr": "B1",
+      "freqRank": null,
+      "confusable_candidates": [
+        "mechanical",
+        "mechanism"
+      ]
+    },
+    {
+      "id": "mediate",
+      "headword": "mediate",
+      "level": "HIGH",
+      "isCore": false,
+      "pos_hint": [],
+      "forms": [
+        "mediated",
+        "mediates",
+        "mediating"
+      ],
+      "cefr": null,
+      "freqRank": null,
+      "confusable_candidates": [
+        "dedicate"
+      ]
+    },
+    {
+      "id": "melt",
+      "headword": "melt",
+      "level": "HIGH",
+      "isCore": false,
+      "pos_hint": [
+        "v"
+      ],
+      "forms": [],
+      "cefr": "B1",
+      "freqRank": null,
+      "confusable_candidates": [
+        "beat",
+        "bell",
+        "belt",
+        "best",
+        "bet",
+        "cell"
+      ]
+    },
+    {
+      "id": "merit",
+      "headword": "merit",
+      "level": "HIGH",
+      "isCore": false,
+      "pos_hint": [],
+      "forms": [
+        "merited",
+        "meriting",
+        "merits"
+      ],
+      "cefr": null,
+      "freqRank": null,
+      "confusable_candidates": [
+        "debit",
+        "edit",
+        "emit",
+        "exit",
+        "meat",
+        "meet"
+      ]
+    },
+    {
+      "id": "microphone",
+      "headword": "microphone",
+      "level": "HIGH",
+      "isCore": false,
+      "pos_hint": [
+        "n"
+      ],
+      "forms": [],
+      "cefr": "B2",
+      "freqRank": null,
+      "confusable_candidates": [
+        "microwave"
+      ]
+    },
+    {
+      "id": "microwave",
+      "headword": "microwave",
+      "level": "HIGH",
+      "isCore": false,
+      "pos_hint": [
+        "n"
+      ],
+      "forms": [],
+      "cefr": "B2",
+      "freqRank": null,
+      "confusable_candidates": [
+        "microphone"
+      ]
+    },
+    {
+      "id": "mild",
+      "headword": "mild",
+      "level": "HIGH",
+      "isCore": false,
+      "pos_hint": [
+        "adj"
+      ],
+      "forms": [
+        "milder",
+        "mildest"
+      ],
+      "cefr": "B1",
+      "freqRank": null,
+      "confusable_candidates": [
+        "aid",
+        "bid",
+        "bill",
+        "bind",
+        "bird",
+        "bold"
+      ]
+    },
+    {
+      "id": "mill",
+      "headword": "mill",
+      "level": "HIGH",
+      "isCore": false,
+      "pos_hint": [
+        "n"
+      ],
+      "forms": [
+        "mills"
+      ],
+      "cefr": "B2",
+      "freqRank": null,
+      "confusable_candidates": [
+        "ball",
+        "bell",
+        "bill",
+        "bull",
+        "call",
+        "cell"
+      ]
+    },
+    {
+      "id": "miner",
+      "headword": "miner",
+      "level": "HIGH",
+      "isCore": false,
+      "pos_hint": [],
+      "forms": [],
+      "cefr": null,
+      "freqRank": null,
+      "confusable_candidates": [
+        "dine",
+        "dinner",
+        "fiber",
+        "fine",
+        "finger",
+        "infer"
+      ]
+    },
+    {
+      "id": "mineral",
+      "headword": "mineral",
+      "level": "HIGH",
+      "isCore": false,
+      "pos_hint": [
+        "n"
+      ],
+      "forms": [
+        "minerals"
+      ],
+      "cefr": "B1",
+      "freqRank": null,
+      "confusable_candidates": [
+        "funeral",
+        "general",
+        "liberal",
+        "literal",
+        "minimal"
+      ]
+    },
+    {
+      "id": "minimal",
+      "headword": "minimal",
+      "level": "HIGH",
+      "isCore": false,
+      "pos_hint": [
+        "adj"
+      ],
+      "forms": [],
+      "cefr": null,
+      "freqRank": null,
+      "confusable_candidates": [
+        "animal",
+        "mineral",
+        "minimize",
+        "minimum"
+      ]
+    },
+    {
+      "id": "ministry",
+      "headword": "ministry",
+      "level": "HIGH",
+      "isCore": false,
+      "pos_hint": [],
+      "forms": [
+        "ministries"
+      ],
+      "cefr": null,
+      "freqRank": null,
+      "confusable_candidates": [
+        "minister"
+      ]
+    },
+    {
+      "id": "miracle",
+      "headword": "miracle",
+      "level": "HIGH",
+      "isCore": false,
+      "pos_hint": [
+        "n"
+      ],
+      "forms": [],
+      "cefr": "B1",
+      "freqRank": null,
+      "confusable_candidates": [
+        "circle"
+      ]
+    },
+    {
+      "id": "missile",
+      "headword": "missile",
+      "level": "HIGH",
+      "isCore": false,
+      "pos_hint": [
+        "n"
+      ],
+      "forms": [
+        "missiles"
+      ],
+      "cefr": "B2",
+      "freqRank": null,
+      "confusable_candidates": [
+        "massive",
+        "mission"
+      ]
+    },
+    {
+      "id": "moisture",
+      "headword": "moisture",
+      "level": "HIGH",
+      "isCore": false,
+      "pos_hint": [
+        "n"
+      ],
+      "forms": [],
+      "cefr": "B1",
+      "freqRank": null,
+      "confusable_candidates": [
+        "mixture"
+      ]
+    },
+    {
+      "id": "monster",
+      "headword": "monster",
+      "level": "HIGH",
+      "isCore": false,
+      "pos_hint": [
+        "n"
+      ],
+      "forms": [],
+      "cefr": "B1",
+      "freqRank": null,
+      "confusable_candidates": [
+        "foster",
+        "master",
+        "minister",
+        "monitor",
+        "poster"
+      ]
+    },
+    {
+      "id": "mud",
+      "headword": "mud",
+      "level": "HIGH",
+      "isCore": false,
+      "pos_hint": [
+        "n"
+      ],
+      "forms": [],
+      "cefr": "B1",
+      "freqRank": null,
+      "confusable_candidates": []
+    },
+    {
+      "id": "multiply",
+      "headword": "multiply",
+      "level": "HIGH",
+      "isCore": false,
+      "pos_hint": [
+        "v"
+      ],
+      "forms": [
+        "multiplied",
+        "multiplies",
+        "multiplying"
+      ],
+      "cefr": "B2",
+      "freqRank": null,
+      "confusable_candidates": [
+        "multiple"
+      ]
+    },
+    {
+      "id": "mushroom",
+      "headword": "mushroom",
+      "level": "HIGH",
+      "isCore": false,
+      "pos_hint": [
+        "n"
+      ],
+      "forms": [],
+      "cefr": "A2",
+      "freqRank": null,
+      "confusable_candidates": []
+    },
+    {
+      "id": "myth",
+      "headword": "myth",
+      "level": "HIGH",
+      "isCore": false,
+      "pos_hint": [
+        "n"
+      ],
+      "forms": [
+        "myths"
+      ],
+      "cefr": "B1",
+      "freqRank": null,
+      "confusable_candidates": [
+        "bath",
+        "match",
+        "mate",
+        "math",
+        "month",
+        "mouth"
+      ]
+    },
+    {
+      "id": "nail",
+      "headword": "nail",
+      "level": "HIGH",
+      "isCore": false,
+      "pos_hint": [
+        "n"
+      ],
+      "forms": [],
+      "cefr": "B1",
+      "freqRank": null,
+      "confusable_candidates": [
+        "aid",
+        "aim",
+        "air",
+        "ball",
+        "boil",
+        "call"
+      ]
+    },
+    {
+      "id": "naked",
+      "headword": "naked",
+      "level": "HIGH",
+      "isCore": false,
+      "pos_hint": [
+        "adj"
+      ],
+      "forms": [],
+      "cefr": "B1",
+      "freqRank": null,
+      "confusable_candidates": [
+        "bake",
+        "cake",
+        "lake",
+        "make",
+        "maker",
+        "name"
+      ]
+    },
+    {
+      "id": "narrate",
+      "headword": "narrate",
+      "level": "HIGH",
+      "isCore": false,
+      "pos_hint": [
+        "v"
+      ],
+      "forms": [],
+      "cefr": "B1",
+      "freqRank": null,
+      "confusable_candidates": [
+        "narrative"
+      ]
+    },
+    {
+      "id": "navy",
+      "headword": "navy",
+      "level": "HIGH",
+      "isCore": false,
+      "pos_hint": [
+        "n"
+      ],
+      "forms": [],
+      "cefr": "B2",
+      "freqRank": null,
+      "confusable_candidates": [
+        "baby",
+        "bay",
+        "cave",
+        "day",
+        "easy",
+        "envy"
+      ]
+    },
+    {
+      "id": "neat",
+      "headword": "neat",
+      "level": "HIGH",
+      "isCore": false,
+      "pos_hint": [
+        "adj"
+      ],
+      "forms": [
+        "neater",
+        "neatest"
+      ],
+      "cefr": "B2",
+      "freqRank": null,
+      "confusable_candidates": [
+        "bat",
+        "beam",
+        "bean",
+        "bear",
+        "beast",
+        "beat"
+      ]
+    },
+    {
+      "id": "needle",
+      "headword": "needle",
+      "level": "HIGH",
+      "isCore": false,
+      "pos_hint": [
+        "n"
+      ],
+      "forms": [],
+      "cefr": "B1",
+      "freqRank": null,
+      "confusable_candidates": []
+    },
+    {
+      "id": "nephew",
+      "headword": "nephew",
+      "level": "HIGH",
+      "isCore": false,
+      "pos_hint": [
+        "n"
+      ],
+      "forms": [],
+      "cefr": "B1",
+      "freqRank": null,
+      "confusable_candidates": []
+    },
+    {
+      "id": "nest",
+      "headword": "nest",
+      "level": "HIGH",
+      "isCore": false,
+      "pos_hint": [
+        "n"
+      ],
+      "forms": [
+        "nests"
+      ],
+      "cefr": null,
+      "freqRank": null,
+      "confusable_candidates": [
+        "beast",
+        "beat",
+        "belt",
+        "best",
+        "bet",
+        "bust"
+      ]
+    },
+    {
+      "id": "nightmare",
+      "headword": "nightmare",
+      "level": "HIGH",
+      "isCore": false,
+      "pos_hint": [
+        "n"
+      ],
+      "forms": [],
+      "cefr": "B2",
+      "freqRank": null,
+      "confusable_candidates": []
+    },
+    {
+      "id": "noble",
+      "headword": "noble",
+      "level": "HIGH",
+      "isCore": false,
+      "pos_hint": [
+        "adj"
+      ],
+      "forms": [
+        "nobler",
+        "noblest"
+      ],
+      "cefr": "B2",
+      "freqRank": null,
+      "confusable_candidates": [
+        "able",
+        "bible",
+        "cable",
+        "double",
+        "enable",
+        "hole"
+      ]
+    },
+    {
+      "id": "nod",
+      "headword": "nod",
+      "level": "HIGH",
+      "isCore": false,
+      "pos_hint": [
+        "n",
+        "v"
+      ],
+      "forms": [],
+      "cefr": "B1",
+      "freqRank": null,
+      "confusable_candidates": []
+    },
+    {
+      "id": "nonsense",
+      "headword": "nonsense",
+      "level": "HIGH",
+      "isCore": false,
+      "pos_hint": [
+        "n"
+      ],
+      "forms": [],
+      "cefr": "B1",
+      "freqRank": null,
+      "confusable_candidates": []
+    },
+    {
+      "id": "nut",
+      "headword": "nut",
+      "level": "HIGH",
+      "isCore": false,
+      "pos_hint": [
+        "n"
+      ],
+      "forms": [],
+      "cefr": "B2",
+      "freqRank": null,
+      "confusable_candidates": []
+    },
+    {
+      "id": "oak",
+      "headword": "oak",
+      "level": "HIGH",
+      "isCore": false,
+      "pos_hint": [
+        "n"
+      ],
+      "forms": [],
+      "cefr": "A2",
+      "freqRank": null,
+      "confusable_candidates": []
+    },
+    {
+      "id": "obey",
+      "headword": "obey",
+      "level": "HIGH",
+      "isCore": false,
+      "pos_hint": [
+        "v"
+      ],
+      "forms": [],
+      "cefr": "B2",
+      "freqRank": null,
+      "confusable_candidates": [
+        "bay",
+        "bed",
+        "bee",
+        "beg",
+        "bet",
+        "boy"
+      ]
+    },
+    {
+      "id": "offend",
+      "headword": "offend",
+      "level": "HIGH",
+      "isCore": false,
+      "pos_hint": [
+        "v"
+      ],
+      "forms": [],
+      "cefr": "B2",
+      "freqRank": null,
+      "confusable_candidates": [
+        "defend",
+        "offense",
+        "offer"
+      ]
+    },
+    {
+      "id": "olive",
+      "headword": "olive",
+      "level": "HIGH",
+      "isCore": false,
+      "pos_hint": [
+        "n"
+      ],
+      "forms": [],
+      "cefr": "B2",
+      "freqRank": null,
+      "confusable_candidates": [
+        "alike",
+        "alive",
+        "dive",
+        "drive",
+        "give",
+        "glove"
+      ]
+    },
+    {
+      "id": "optimist",
+      "headword": "optimist",
+      "level": "HIGH",
+      "isCore": false,
+      "pos_hint": [
+        "n"
+      ],
+      "forms": [],
+      "cefr": "B2",
+      "freqRank": null,
+      "confusable_candidates": []
+    },
+    {
+      "id": "oral",
+      "headword": "oral",
+      "level": "HIGH",
+      "isCore": false,
+      "pos_hint": [
+        "adj",
+        "n"
+      ],
+      "forms": [
+        "orals"
+      ],
+      "cefr": "B1",
+      "freqRank": null,
+      "confusable_candidates": [
+        "coal",
+        "crawl",
+        "deal",
+        "drag",
+        "draw",
+        "dual"
+      ]
+    },
+    {
+      "id": "orchestra",
+      "headword": "orchestra",
+      "level": "HIGH",
+      "isCore": false,
+      "pos_hint": [
+        "n"
+      ],
+      "forms": [],
+      "cefr": "B1",
+      "freqRank": null,
+      "confusable_candidates": []
+    },
+    {
+      "id": "organ",
+      "headword": "organ",
+      "level": "HIGH",
+      "isCore": false,
+      "pos_hint": [
+        "n"
+      ],
+      "forms": [
+        "organs"
+      ],
+      "cefr": "B1",
+      "freqRank": null,
+      "confusable_candidates": [
+        "ocean",
+        "oral",
+        "origin",
+        "urban"
+      ]
+    },
+    {
+      "id": "orient",
+      "headword": "orient",
+      "level": "HIGH",
+      "isCore": false,
+      "pos_hint": [],
+      "forms": [
+        "oriented",
+        "orienting",
+        "orients"
+      ],
+      "cefr": null,
+      "freqRank": null,
+      "confusable_candidates": [
+        "client",
+        "friend",
+        "priest",
+        "print",
+        "urgent"
+      ]
+    },
+    {
+      "id": "overhead",
+      "headword": "overhead",
+      "level": "HIGH",
+      "isCore": false,
+      "pos_hint": [
+        "adj"
+      ],
+      "forms": [],
+      "cefr": null,
+      "freqRank": null,
+      "confusable_candidates": [
+        "oversea",
+        "overseas"
+      ]
+    },
+    {
+      "id": "overlap",
+      "headword": "overlap",
+      "level": "HIGH",
+      "isCore": false,
+      "pos_hint": [
+        "n"
+      ],
+      "forms": [
+        "overlaps"
+      ],
+      "cefr": "B2",
+      "freqRank": null,
+      "confusable_candidates": [
+        "overlook"
+      ]
+    },
+    {
+      "id": "overlook",
+      "headword": "overlook",
+      "level": "HIGH",
+      "isCore": false,
+      "pos_hint": [
+        "v"
+      ],
+      "forms": [
+        "overlooked",
+        "overlooking",
+        "overlooks"
+      ],
+      "cefr": "B2",
+      "freqRank": null,
+      "confusable_candidates": [
+        "overlap"
+      ]
+    },
+    {
+      "id": "oversea",
+      "headword": "oversea",
+      "level": "HIGH",
+      "isCore": false,
+      "pos_hint": [],
+      "forms": [
+        "overseas"
+      ],
+      "cefr": null,
+      "freqRank": null,
+      "confusable_candidates": [
+        "overhead"
+      ]
+    },
+    {
+      "id": "packet",
+      "headword": "packet",
+      "level": "HIGH",
+      "isCore": false,
+      "pos_hint": [
+        "n"
+      ],
+      "forms": [
+        "packets"
+      ],
+      "cefr": "B2",
+      "freqRank": null,
+      "confusable_candidates": [
+        "basket",
+        "bracket",
+        "bucket",
+        "jacket",
+        "market",
+        "pocket"
+      ]
+    },
+    {
+      "id": "pad",
+      "headword": "pad",
+      "level": "HIGH",
+      "isCore": false,
+      "pos_hint": [
+        "n"
+      ],
+      "forms": [],
+      "cefr": "B2",
+      "freqRank": null,
+      "confusable_candidates": []
+    },
+    {
+      "id": "palm",
+      "headword": "palm",
+      "level": "HIGH",
+      "isCore": false,
+      "pos_hint": [
+        "n"
+      ],
+      "forms": [],
+      "cefr": "B1",
+      "freqRank": null,
+      "confusable_candidates": [
+        "aim",
+        "arm",
+        "ball",
+        "call",
+        "calm",
+        "dam"
+      ]
+    },
+    {
+      "id": "pan",
+      "headword": "pan",
+      "level": "HIGH",
+      "isCore": false,
+      "pos_hint": [
+        "n"
+      ],
+      "forms": [
+        "pans"
+      ],
+      "cefr": "A2",
+      "freqRank": null,
+      "confusable_candidates": []
+    }
+  ]
+}

@@ -1,0 +1,489 @@
+{
+  "batch": "d016",
+  "kind": "deep",
+  "levels": [
+    "MID"
+  ],
+  "count": 20,
+  "entries": [
+    {
+      "id": "account",
+      "headword": "account",
+      "level": "MID",
+      "isCore": true,
+      "pos_hint": [
+        "n",
+        "v"
+      ],
+      "forms": [
+        "accounted",
+        "accounting",
+        "accounts"
+      ],
+      "cefr": "A2",
+      "freqRank": 436,
+      "confusable_candidates": [
+        "accent",
+        "accountant",
+        "amount"
+      ]
+    },
+    {
+      "id": "major",
+      "headword": "major",
+      "level": "MID",
+      "isCore": true,
+      "pos_hint": [
+        "adj",
+        "n"
+      ],
+      "forms": [
+        "majors"
+      ],
+      "cefr": "A2",
+      "freqRank": 438,
+      "confusable_candidates": [
+        "favor",
+        "labor",
+        "maker",
+        "mayor",
+        "minor",
+        "motor"
+      ]
+    },
+    {
+      "id": "rise",
+      "headword": "rise",
+      "level": "MID",
+      "isCore": true,
+      "pos_hint": [
+        "n",
+        "v"
+      ],
+      "forms": [
+        "risen",
+        "rises",
+        "rising",
+        "rose"
+      ],
+      "cefr": "B1",
+      "freqRank": 462,
+      "confusable_candidates": [
+        "aisle",
+        "arise",
+        "base",
+        "bike",
+        "bite",
+        "bride"
+      ]
+    },
+    {
+      "id": "model",
+      "headword": "model",
+      "level": "MID",
+      "isCore": true,
+      "pos_hint": [
+        "adj",
+        "n",
+        "v"
+      ],
+      "forms": [
+        "modeled",
+        "modeling",
+        "modelled",
+        "modelling",
+        "models"
+      ],
+      "cefr": "A2",
+      "freqRank": 485,
+      "confusable_candidates": [
+        "code",
+        "hotel",
+        "mode",
+        "modern",
+        "modest",
+        "module"
+      ]
+    },
+    {
+      "id": "approach",
+      "headword": "approach",
+      "level": "MID",
+      "isCore": true,
+      "pos_hint": [
+        "n",
+        "v"
+      ],
+      "forms": [
+        "approached",
+        "approaches",
+        "approaching"
+      ],
+      "cefr": "B1",
+      "freqRank": 495,
+      "confusable_candidates": [
+        "appropriate",
+        "approval",
+        "approve",
+        "approximate",
+        "approximately"
+      ]
+    },
+    {
+      "id": "charge",
+      "headword": "charge",
+      "level": "MID",
+      "isCore": true,
+      "pos_hint": [
+        "n",
+        "v"
+      ],
+      "forms": [
+        "charged",
+        "charges",
+        "charging"
+      ],
+      "cefr": "B1",
+      "freqRank": 498,
+      "confusable_candidates": [
+        "carve",
+        "chance",
+        "change",
+        "charm",
+        "chart",
+        "charter"
+      ]
+    },
+    {
+      "id": "claim",
+      "headword": "claim",
+      "level": "MID",
+      "isCore": true,
+      "pos_hint": [
+        "n",
+        "v"
+      ],
+      "forms": [
+        "claimed",
+        "claiming",
+        "claims"
+      ],
+      "cefr": "A2",
+      "freqRank": 501,
+      "confusable_candidates": [
+        "alarm",
+        "calm",
+        "chain",
+        "chair",
+        "charm",
+        "clap"
+      ]
+    },
+    {
+      "id": "regard",
+      "headword": "regard",
+      "level": "MID",
+      "isCore": true,
+      "pos_hint": [
+        "n",
+        "v"
+      ],
+      "forms": [
+        "regarded",
+        "regarding",
+        "regards"
+      ],
+      "cefr": "B1",
+      "freqRank": 511,
+      "confusable_candidates": [
+        "beard",
+        "record",
+        "regardless",
+        "remark",
+        "reward"
+      ]
+    },
+    {
+      "id": "range",
+      "headword": "range",
+      "level": "MID",
+      "isCore": true,
+      "pos_hint": [
+        "n",
+        "v"
+      ],
+      "forms": [
+        "ranged",
+        "ranges",
+        "ranging"
+      ],
+      "cefr": "A2",
+      "freqRank": 516,
+      "confusable_candidates": [
+        "angel",
+        "anger",
+        "angle",
+        "bang",
+        "cage",
+        "change"
+      ]
+    },
+    {
+      "id": "quality",
+      "headword": "quality",
+      "level": "MID",
+      "isCore": true,
+      "pos_hint": [
+        "adj",
+        "n"
+      ],
+      "forms": [
+        "qualities"
+      ],
+      "cefr": "A2",
+      "freqRank": 517,
+      "confusable_candidates": [
+        "equality",
+        "qualification",
+        "qualify",
+        "quantity",
+        "reality"
+      ]
+    },
+    {
+      "id": "project",
+      "headword": "project",
+      "level": "MID",
+      "isCore": true,
+      "pos_hint": [
+        "n",
+        "v"
+      ],
+      "forms": [
+        "projected",
+        "projecting",
+        "projects"
+      ],
+      "cefr": "B2",
+      "freqRank": 518,
+      "confusable_candidates": [
+        "product",
+        "prospect",
+        "protect",
+        "protest",
+        "reject"
+      ]
+    },
+    {
+      "id": "round",
+      "headword": "round",
+      "level": "MID",
+      "isCore": true,
+      "pos_hint": [
+        "adj",
+        "adv",
+        "n",
+        "prep",
+        "v"
+      ],
+      "forms": [
+        "rounded",
+        "rounder",
+        "roundest",
+        "rounding",
+        "rounds"
+      ],
+      "cefr": "A2",
+      "freqRank": 519,
+      "confusable_candidates": [
+        "around",
+        "bond",
+        "bound",
+        "count",
+        "fond",
+        "found"
+      ]
+    },
+    {
+      "id": "fund",
+      "headword": "fund",
+      "level": "MID",
+      "isCore": true,
+      "pos_hint": [
+        "n",
+        "v"
+      ],
+      "forms": [
+        "funded",
+        "funding",
+        "funds"
+      ],
+      "cefr": "B1",
+      "freqRank": 527,
+      "confusable_candidates": [
+        "aunt",
+        "band",
+        "bend",
+        "bind",
+        "bond",
+        "bound"
+      ]
+    },
+    {
+      "id": "rest",
+      "headword": "rest",
+      "level": "MID",
+      "isCore": true,
+      "pos_hint": [
+        "n",
+        "v"
+      ],
+      "forms": [
+        "rested",
+        "resting",
+        "rests"
+      ],
+      "cefr": "B1",
+      "freqRank": 528,
+      "confusable_candidates": [
+        "beast",
+        "beat",
+        "belt",
+        "best",
+        "bet",
+        "bust"
+      ]
+    },
+    {
+      "id": "measure",
+      "headword": "measure",
+      "level": "MID",
+      "isCore": true,
+      "pos_hint": [
+        "n",
+        "v"
+      ],
+      "forms": [
+        "measured",
+        "measures",
+        "measuring"
+      ],
+      "cefr": "B1",
+      "freqRank": 532,
+      "confusable_candidates": [
+        "ensure",
+        "feature",
+        "leisure",
+        "mature",
+        "measurement",
+        "pleasure"
+      ]
+    },
+    {
+      "id": "benefit",
+      "headword": "benefit",
+      "level": "MID",
+      "isCore": true,
+      "pos_hint": [
+        "n",
+        "v"
+      ],
+      "forms": [
+        "benefited",
+        "benefiting",
+        "benefits",
+        "benefitted",
+        "benefitting"
+      ],
+      "cefr": "B1",
+      "freqRank": 543,
+      "confusable_candidates": []
+    },
+    {
+      "id": "trade",
+      "headword": "trade",
+      "level": "MID",
+      "isCore": true,
+      "pos_hint": [
+        "n",
+        "v"
+      ],
+      "forms": [
+        "traded",
+        "trades",
+        "trading"
+      ],
+      "cefr": "A2",
+      "freqRank": 544,
+      "confusable_candidates": [
+        "brake",
+        "brave",
+        "bride",
+        "fade",
+        "frame",
+        "grace"
+      ]
+    },
+    {
+      "id": "risk",
+      "headword": "risk",
+      "level": "MID",
+      "isCore": true,
+      "pos_hint": [
+        "n",
+        "v"
+      ],
+      "forms": [
+        "risked",
+        "risking",
+        "risks"
+      ],
+      "cefr": "B1",
+      "freqRank": 545,
+      "confusable_candidates": [
+        "arise",
+        "ask",
+        "brick",
+        "crisp",
+        "desk",
+        "dish"
+      ]
+    },
+    {
+      "id": "standard",
+      "headword": "standard",
+      "level": "MID",
+      "isCore": true,
+      "pos_hint": [
+        "adj",
+        "n"
+      ],
+      "forms": [
+        "standards"
+      ],
+      "cefr": "B1",
+      "freqRank": 547,
+      "confusable_candidates": []
+    },
+    {
+      "id": "single",
+      "headword": "single",
+      "level": "MID",
+      "isCore": true,
+      "pos_hint": [
+        "adj",
+        "n"
+      ],
+      "forms": [
+        "singles"
+      ],
+      "cefr": "A2",
+      "freqRank": 557,
+      "confusable_candidates": [
+        "angle",
+        "simple",
+        "singer"
+      ]
+    }
+  ]
+}

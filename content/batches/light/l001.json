@@ -1,0 +1,2847 @@
+[
+ {
+  "id": "know",
+  "headword": "know",
+  "ipa": "/noʊ/",
+  "level": "PRE",
+  "isCore": false,
+  "topic": "thinking_opinion",
+  "forms": [
+   "knew",
+   "knowing",
+   "known",
+   "knows"
+  ],
+  "senses": [
+   {
+    "id": "know-1",
+    "pos": "v",
+    "ko": "알다",
+    "en": "to have information about something in your mind",
+    "nuance": "이미 아는 상태를 말한다. '알게 되다'라는 변화는 learn이나 find out을 쓴다.",
+    "pattern": "know + 명사 / know where·what절",
+    "examples": [
+     {
+      "en": "Do you know where Mina put the keys?",
+      "ko": "미나가 열쇠 어디 뒀는지 알아?",
+      "focus": "know where"
+     },
+     {
+      "en": "I knew the answer, but I was too shy to say it.",
+      "ko": "답은 알았는데 너무 부끄러워서 말을 못 했어.",
+      "focus": "knew the answer"
+     }
+    ],
+    "collocations": [
+     "know the answer",
+     "get to know"
+    ]
+   },
+   {
+    "id": "know-2",
+    "pos": "v",
+    "ko": "알고 지내다",
+    "en": "to have met a person and be friends with them",
+    "examples": [
+     {
+      "en": "I've known Tom since we were five years old.",
+      "ko": "톰은 다섯 살 때부터 알고 지낸 친구야.",
+      "focus": "known Tom"
+     }
+    ],
+    "collocations": [
+     "know each other"
+    ]
+   }
+  ],
+  "confusables": [
+   {
+    "word": "learn",
+    "note": "learn은 '배워서 알게 되다'라는 과정, know는 '이미 알고 있다'라는 상태"
+   }
+  ]
+ },
+ {
+  "id": "people",
+  "headword": "people",
+  "ipa": "/ˈpiːpəl/",
+  "level": "PRE",
+  "isCore": false,
+  "topic": "people_family",
+  "forms": [
+   "peopled",
+   "peoples",
+   "peopling"
+  ],
+  "senses": [
+   {
+    "id": "people-1",
+    "pos": "n",
+    "ko": "사람들",
+    "en": "men, women, and children; more than one person",
+    "nuance": "person의 복수형으로 그 자체가 복수다. a people, peoples가 아니라 many people, people are처럼 쓴다.",
+    "pattern": "people + 복수 동사 (people are)",
+    "examples": [
+     {
+      "en": "So many people came to the park on Sunday.",
+      "ko": "일요일에 공원에 사람들이 정말 많이 왔어.",
+      "focus": "many people"
+     },
+     {
+      "en": "Most people in my class like pizza more than rice.",
+      "ko": "우리 반 애들은 대부분 밥보다 피자를 더 좋아해.",
+      "focus": "Most people"
+     }
+    ],
+    "collocations": [
+     "many people",
+     "young people",
+     "most people"
+    ]
+   }
+  ],
+  "confusables": [
+   {
+    "word": "person",
+    "note": "person은 한 사람, people은 여러 사람. persons는 거의 쓰지 않는다"
+   }
+  ]
+ },
+ {
+  "id": "year",
+  "headword": "year",
+  "ipa": "/jɪr/",
+  "level": "PRE",
+  "isCore": false,
+  "topic": "time_quantity",
+  "forms": [
+   "years"
+  ],
+  "senses": [
+   {
+    "id": "year-1",
+    "pos": "n",
+    "ko": "해, 년, 1년",
+    "en": "a time of twelve months, from January to December",
+    "nuance": "this year, last year, every year 앞에는 전치사를 붙이지 않는다. 나이는 숫자 + years old로 말한다.",
+    "pattern": "숫자 + years old",
+    "examples": [
+     {
+      "en": "My little brother is six years old this year.",
+      "ko": "내 남동생은 올해 여섯 살이야.",
+      "focus": "six years old"
+     },
+     {
+      "en": "We go to Busan to see Grandma every year.",
+      "ko": "우리는 매년 할머니 보러 부산에 가.",
+      "focus": "every year"
+     }
+    ],
+    "collocations": [
+     "every year",
+     "last year",
+     "years old"
+    ]
+   }
+  ]
+ },
+ {
+  "id": "new",
+  "headword": "new",
+  "ipa": "/nuː/",
+  "level": "PRE",
+  "isCore": false,
+  "topic": "description_quality",
+  "forms": [
+   "newer",
+   "newest"
+  ],
+  "senses": [
+   {
+    "id": "new-1",
+    "pos": "adj",
+    "ko": "새, 새로운",
+    "en": "made or bought a short time ago; not old",
+    "examples": [
+     {
+      "en": "Mina got new shoes, and she wore them to school today.",
+      "ko": "미나가 새 신발을 사서 오늘 학교에 신고 왔어.",
+      "focus": "new shoes"
+     },
+     {
+      "en": "Is that a new game? I've never seen it before.",
+      "ko": "그거 새로 나온 게임이야? 처음 보는데.",
+      "focus": "a new game"
+     }
+    ],
+    "collocations": [
+     "brand new",
+     "make new friends"
+    ]
+   },
+   {
+    "id": "new-2",
+    "pos": "adj",
+    "ko": "처음인, 새로 온",
+    "en": "having just come to a place or started doing something",
+    "nuance": "'여기 처음이야'는 I'm new here, '이 일은 처음이야'는 I'm new to this처럼 to를 쓴다.",
+    "pattern": "be new to + 명사 / be new here",
+    "examples": [
+     {
+      "en": "Tom is new here, so please show him around.",
+      "ko": "톰은 여기 처음이니까 좀 안내해 줘.",
+      "focus": "is new here"
+     }
+    ],
+    "collocations": [
+     "new to"
+    ]
+   }
+  ],
+  "wordFamily": [
+   {
+    "form": "newly",
+    "pos": "adv",
+    "ko": "새로, 최근에"
+   },
+   {
+    "form": "news",
+    "pos": "n",
+    "ko": "소식, 뉴스"
+   }
+  ]
+ },
+ {
+  "id": "day",
+  "headword": "day",
+  "ipa": "/deɪ/",
+  "level": "PRE",
+  "isCore": false,
+  "topic": "time_quantity",
+  "forms": [
+   "days"
+  ],
+  "senses": [
+   {
+    "id": "day-1",
+    "pos": "n",
+    "ko": "하루, 날, 요일",
+    "en": "a time of 24 hours; one of the seven in a week",
+    "nuance": "요일을 물을 때는 What day, 날짜를 물을 때는 What's the date를 쓴다.",
+    "examples": [
+     {
+      "en": "What day is it today? I think it's Friday.",
+      "ko": "오늘 무슨 요일이야? 금요일인 것 같은데.",
+      "focus": "What day"
+     },
+     {
+      "en": "We stayed at the beach for three days last summer.",
+      "ko": "지난여름에 바닷가에서 사흘 동안 지냈어.",
+      "focus": "three days"
+     }
+    ],
+    "collocations": [
+     "every day",
+     "have a good day"
+    ]
+   },
+   {
+    "id": "day-2",
+    "pos": "n",
+    "ko": "낮",
+    "en": "the time when it is light outside, not night",
+    "examples": [
+     {
+      "en": "Cats sleep all day and play at night.",
+      "ko": "고양이는 낮에는 내내 자고 밤에 놀아.",
+      "focus": "all day"
+     }
+    ],
+    "collocations": [
+     "all day"
+    ]
+   }
+  ],
+  "confusables": [
+   {
+    "word": "date",
+    "note": "date는 몇 월 며칠(날짜), day는 요일이나 하루라는 시간 단위"
+   }
+  ]
+ },
+ {
+  "id": "child",
+  "headword": "child",
+  "ipa": "/tʃaɪld/",
+  "level": "PRE",
+  "isCore": false,
+  "topic": "people_family",
+  "forms": [
+   "children"
+  ],
+  "senses": [
+   {
+    "id": "child-1",
+    "pos": "n",
+    "ko": "아이, 어린이",
+    "en": "a young person who is not yet grown up",
+    "nuance": "복수는 childs가 아니라 children이다. 친구·가족과 말할 때는 kid를 더 자주 쓴다.",
+    "examples": [
+     {
+      "en": "Every child in the class got a small gift.",
+      "ko": "반 아이들 모두 작은 선물을 하나씩 받았어.",
+      "focus": "Every child"
+     },
+     {
+      "en": "The children are playing outside, so it's very noisy.",
+      "ko": "아이들이 밖에서 놀고 있어서 너무 시끄러워.",
+      "focus": "The children"
+     }
+    ],
+    "collocations": [
+     "a young child",
+     "as a child"
+    ]
+   },
+   {
+    "id": "child-2",
+    "pos": "n",
+    "ko": "자녀, 자식",
+    "en": "a son or daughter of any age",
+    "examples": [
+     {
+      "en": "Emma has two children, a boy and a girl.",
+      "ko": "엠마는 아들 하나 딸 하나, 아이가 둘 있어.",
+      "focus": "two children"
+     }
+    ],
+    "collocations": [
+     "have children"
+    ]
+   }
+  ],
+  "confusables": [
+   {
+    "word": "kid",
+    "note": "kid는 child의 구어체. 일상 대화에서는 kid, 글이나 격식 있는 말에서는 child"
+   }
+  ]
+ },
+ {
+  "id": "man",
+  "headword": "man",
+  "ipa": "/mæn/",
+  "level": "PRE",
+  "isCore": false,
+  "topic": "people_family",
+  "forms": [
+   "manned",
+   "manning",
+   "mans",
+   "men"
+  ],
+  "senses": [
+   {
+    "id": "man-1",
+    "pos": "n",
+    "ko": "남자, 성인 남성",
+    "en": "an adult male person",
+    "nuance": "복수는 mans가 아니라 men이다. 어린 남자아이는 boy, 젊은 남자는 young man이라고 한다.",
+    "examples": [
+     {
+      "en": "A tall man in a blue coat asked me the way.",
+      "ko": "파란 코트를 입은 키 큰 남자가 나한테 길을 물었어.",
+      "focus": "A tall man"
+     },
+     {
+      "en": "Two men are fixing the road in front of our house.",
+      "ko": "우리 집 앞에서 남자 두 명이 길을 고치고 있어.",
+      "focus": "Two men"
+     }
+    ],
+    "collocations": [
+     "an old man",
+     "a young man",
+     "men and women"
+    ]
+   }
+  ],
+  "confusables": [
+   {
+    "word": "boy",
+    "note": "boy는 남자아이, man은 다 큰 남자. 어른 남성을 boy라고 부르면 실례가 될 수 있다"
+   }
+  ]
+ },
+ {
+  "id": "problem",
+  "headword": "problem",
+  "ipa": "/ˈprɑːbləm/",
+  "level": "PRE",
+  "isCore": false,
+  "topic": "thinking_opinion",
+  "forms": [
+   "problems"
+  ],
+  "senses": [
+   {
+    "id": "problem-1",
+    "pos": "n",
+    "ko": "문제, 어려움",
+    "en": "something that is difficult and needs to be fixed",
+    "nuance": "부탁을 받고 '괜찮아, 문제 없어'라고 답할 때 No problem을 쓴다.",
+    "pattern": "have a problem with + 명사",
+    "examples": [
+     {
+      "en": "We have a problem: the bus doesn't come on Sundays.",
+      "ko": "문제가 있어. 일요일엔 버스가 안 다녀.",
+      "focus": "have a problem"
+     },
+     {
+      "en": "No problem, I can help you carry those bags.",
+      "ko": "괜찮아, 그 가방들 옮기는 거 내가 도와줄게.",
+      "focus": "No problem"
+     }
+    ],
+    "collocations": [
+     "have a problem",
+     "no problem"
+    ]
+   },
+   {
+    "id": "problem-2",
+    "pos": "n",
+    "ko": "연습 문제, 수학 문제",
+    "en": "a question that you must answer, especially in math",
+    "examples": [
+     {
+      "en": "I couldn't solve the last math problem on the test.",
+      "ko": "시험에서 마지막 수학 문제를 못 풀었어.",
+      "focus": "math problem"
+     }
+    ],
+    "collocations": [
+     "solve a problem"
+    ]
+   }
+  ],
+  "confusables": [
+   {
+    "word": "question",
+    "note": "question은 답을 묻는 질문·시험 문제, problem은 풀어야 할 어려움이나 수학 문제"
+   }
+  ]
+ },
+ {
+  "id": "write",
+  "headword": "write",
+  "ipa": "/raɪt/",
+  "level": "PRE",
+  "isCore": false,
+  "topic": "communication",
+  "forms": [
+   "writes",
+   "writing",
+   "writings",
+   "written",
+   "wrote"
+  ],
+  "senses": [
+   {
+    "id": "write-1",
+    "pos": "v",
+    "ko": "쓰다, 적다",
+    "en": "to make letters or words on paper with a pen or pencil",
+    "nuance": "'~에게 편지를 쓰다'는 write to + 사람이다. 발음이 같은 right(옳은)와 헷갈리지 않게 w에 주의한다.",
+    "pattern": "write + 명사 / write to + 사람",
+    "examples": [
+     {
+      "en": "Please write your name at the top of the paper.",
+      "ko": "종이 맨 위에 이름을 써 주세요.",
+      "focus": "write your name"
+     },
+     {
+      "en": "Jun wrote a letter to his grandma in Busan.",
+      "ko": "준은 부산에 계신 할머니께 편지를 썼어.",
+      "focus": "wrote a letter"
+     }
+    ],
+    "collocations": [
+     "write a letter",
+     "write down"
+    ]
+   },
+   {
+    "id": "write-2",
+    "pos": "v",
+    "ko": "글을 짓다, 창작하다",
+    "en": "to create a story, song, or book",
+    "examples": [
+     {
+      "en": "My sister is writing a story about a talking dog.",
+      "ko": "누나는 말하는 개가 나오는 이야기를 쓰고 있어.",
+      "focus": "writing a story"
+     }
+    ],
+    "collocations": [
+     "write a story"
+    ]
+   }
+  ],
+  "wordFamily": [
+   {
+    "form": "writer",
+    "pos": "n",
+    "ko": "작가, 글쓴이"
+   },
+   {
+    "form": "writing",
+    "pos": "n",
+    "ko": "글, 글쓰기"
+   }
+  ],
+  "confusables": [
+   {
+    "word": "right",
+    "note": "right는 '옳은, 오른쪽', write는 '쓰다'. 발음은 같지만 write의 w는 소리 나지 않는다"
+   }
+  ]
+ },
+ {
+  "id": "great",
+  "headword": "great",
+  "ipa": "/ɡreɪt/",
+  "level": "PRE",
+  "isCore": false,
+  "topic": "description_quality",
+  "forms": [
+   "greater",
+   "greatest",
+   "greats"
+  ],
+  "senses": [
+   {
+    "id": "great-1",
+    "pos": "adj",
+    "ko": "아주 좋은, 멋진",
+    "en": "very good; making you feel happy",
+    "nuance": "good보다 강한 '아주 좋다'이다. 대답으로 Great!만 써도 '좋아!, 잘됐다!'가 된다.",
+    "examples": [
+     {
+      "en": "We had a great time at Tom's birthday party.",
+      "ko": "톰 생일 파티에서 정말 재밌게 놀았어.",
+      "focus": "a great time"
+     },
+     {
+      "en": "You can come at six? Great, see you then!",
+      "ko": "여섯 시에 올 수 있어? 좋아, 그때 보자!",
+      "focus": "Great"
+     }
+    ],
+    "collocations": [
+     "have a great time",
+     "a great idea",
+     "sounds great"
+    ]
+   }
+  ],
+  "confusables": [
+   {
+    "word": "good",
+    "note": "good은 '좋다', great는 '아주 좋다'. 칭찬이나 반응은 great가 더 신나는 느낌"
+   }
+  ]
+ },
+ {
+  "id": "number",
+  "headword": "number",
+  "ipa": "/ˈnʌmbər/",
+  "level": "PRE",
+  "isCore": false,
+  "topic": "time_quantity",
+  "forms": [
+   "numbered",
+   "numbering",
+   "numberings",
+   "numbers"
+  ],
+  "senses": [
+   {
+    "id": "number-1",
+    "pos": "n",
+    "ko": "수, 숫자",
+    "en": "a word or sign like 1, 2, 3 that shows how many",
+    "examples": [
+     {
+      "en": "Pick a number from one to ten, and I'll guess it.",
+      "ko": "1부터 10까지 숫자 하나 골라 봐, 내가 맞혀 볼게.",
+      "focus": "Pick a number"
+     },
+     {
+      "en": "Which number comes after nine? Ten, of course!",
+      "ko": "9 다음에 오는 숫자가 뭐야? 물론 10이지!",
+      "focus": "Which number"
+     }
+    ],
+    "collocations": [
+     "a lucky number",
+     "count the numbers"
+    ]
+   },
+   {
+    "id": "number-2",
+    "pos": "n",
+    "ko": "번호",
+    "en": "the digits you use to call someone or find a room or seat",
+    "nuance": "전화·방·버스 번호는 phone/room/bus number처럼 앞에 종류를 붙여 말한다.",
+    "examples": [
+     {
+      "en": "Can I have your phone number so I can call you?",
+      "ko": "너한테 전화하려고 하는데 전화번호 알려 줄래?",
+      "focus": "phone number"
+     }
+    ],
+    "collocations": [
+     "phone number"
+    ]
+   }
+  ]
+ },
+ {
+  "id": "become",
+  "headword": "become",
+  "ipa": "/bɪˈkʌm/",
+  "level": "PRE",
+  "isCore": false,
+  "topic": "description_quality",
+  "forms": [
+   "became",
+   "becomes",
+   "becoming"
+  ],
+  "senses": [
+   {
+    "id": "become-1",
+    "pos": "v",
+    "ko": "~이 되다, ~해지다",
+    "en": "to start to be something; to change into",
+    "nuance": "뒤에 명사나 형용사가 바로 온다(become a teacher, become cold). 일상 회화에서는 get이 더 자주 쓰인다.",
+    "pattern": "become + 명사 / 형용사",
+    "examples": [
+     {
+      "en": "Mina wants to become a doctor when she grows up.",
+      "ko": "미나는 커서 의사가 되고 싶어 해.",
+      "focus": "become a doctor"
+     },
+     {
+      "en": "The sky became dark, and then it started to rain.",
+      "ko": "하늘이 어두워지더니 비가 오기 시작했어.",
+      "focus": "became dark"
+     }
+    ],
+    "collocations": [
+     "become friends",
+     "become a doctor",
+     "become famous"
+    ]
+   }
+  ],
+  "confusables": [
+   {
+    "word": "get",
+    "note": "get + 형용사(get tired)는 구어체, become은 조금 더 격식 있고 명사와도 잘 쓴다"
+   }
+  ]
+ },
+ {
+  "id": "old",
+  "headword": "old",
+  "ipa": "/oʊld/",
+  "level": "PRE",
+  "isCore": false,
+  "topic": "description_quality",
+  "forms": [
+   "older",
+   "oldest",
+   "olds"
+  ],
+  "senses": [
+   {
+    "id": "old-1",
+    "pos": "adj",
+    "ko": "나이 든, 늙은",
+    "en": "having lived for a long time; not young",
+    "nuance": "나이는 숫자 + years old, 묻는 말은 How old로 쓴다. 사람에게 직접 old라고 하면 무례할 수 있어 older를 쓰기도 한다.",
+    "pattern": "How old ~? / 숫자 + years old",
+    "examples": [
+     {
+      "en": "My grandpa is old, but he still rides his bike every day.",
+      "ko": "우리 할아버지는 나이가 많으신데 아직도 매일 자전거를 타셔.",
+      "focus": "is old"
+     },
+     {
+      "en": "How old are you? I'm seven years old.",
+      "ko": "너 몇 살이야? 나는 일곱 살이야.",
+      "focus": "How old"
+     }
+    ],
+    "collocations": [
+     "years old",
+     "an old man"
+    ]
+   },
+   {
+    "id": "old-2",
+    "pos": "adj",
+    "ko": "오래된, 낡은",
+    "en": "made or bought a long time ago; not new",
+    "examples": [
+     {
+      "en": "These old shoes are too small for me now.",
+      "ko": "이 낡은 신발은 이제 나한테 너무 작아.",
+      "focus": "old shoes"
+     }
+    ],
+    "collocations": [
+     "an old friend"
+    ]
+   }
+  ]
+ },
+ {
+  "id": "school",
+  "headword": "school",
+  "ipa": "/skuːl/",
+  "level": "PRE",
+  "isCore": false,
+  "topic": "school_learning",
+  "forms": [
+   "schooled",
+   "schooling",
+   "schoolings",
+   "schools"
+  ],
+  "senses": [
+   {
+    "id": "school-1",
+    "pos": "n",
+    "ko": "학교",
+    "en": "a place where children go to learn",
+    "nuance": "'학교에 가다'는 go to school처럼 관사 없이 쓴다. 학교 건물 자체를 가리킬 때만 the school을 쓴다.",
+    "examples": [
+     {
+      "en": "I walk to school with Jun every morning.",
+      "ko": "나는 매일 아침 준이랑 걸어서 학교에 가.",
+      "focus": "walk to school"
+     },
+     {
+      "en": "What time does your school finish on Fridays?",
+      "ko": "너희 학교는 금요일에 몇 시에 끝나?",
+      "focus": "school finish"
+     }
+    ],
+    "collocations": [
+     "go to school",
+     "after school",
+     "at school"
+    ]
+   }
+  ]
+ },
+ {
+  "id": "different",
+  "headword": "different",
+  "ipa": "/ˈdɪfrənt/",
+  "level": "PRE",
+  "isCore": false,
+  "topic": "description_quality",
+  "forms": [],
+  "senses": [
+   {
+    "id": "different-1",
+    "pos": "adj",
+    "ko": "다른, 서로 다른",
+    "en": "not the same as another person or thing",
+    "nuance": "'~와 다르다'는 different from이 기본이다. than은 미국 구어에서 들리지만 from이 안전하다.",
+    "pattern": "be different from + 명사",
+    "examples": [
+     {
+      "en": "My twin sister and I like very different foods.",
+      "ko": "내 쌍둥이 언니랑 나는 좋아하는 음식이 아주 달라.",
+      "focus": "different foods"
+     },
+     {
+      "en": "This bag is different from mine. It has a zipper.",
+      "ko": "이 가방은 내 거랑 달라. 지퍼가 있잖아.",
+      "focus": "different from"
+     }
+    ],
+    "collocations": [
+     "different from",
+     "a different color",
+     "totally different"
+    ]
+   }
+  ],
+  "wordFamily": [
+   {
+    "form": "difference",
+    "pos": "n",
+    "ko": "차이"
+   },
+   {
+    "form": "differently",
+    "pos": "adv",
+    "ko": "다르게"
+   }
+  ]
+ },
+ {
+  "id": "world",
+  "headword": "world",
+  "ipa": "/wɜːrld/",
+  "level": "PRE",
+  "isCore": false,
+  "topic": "travel_transport",
+  "forms": [
+   "worlds"
+  ],
+  "senses": [
+   {
+    "id": "world-1",
+    "pos": "n",
+    "ko": "세계, 세상",
+    "en": "the earth and all the people and places on it",
+    "nuance": "거의 항상 the world처럼 the를 붙인다. '세상에서 가장 ~한'은 the ~est in the world로 말한다.",
+    "examples": [
+     {
+      "en": "Emma wants to travel around the world one day.",
+      "ko": "엠마는 언젠가 세계 여행을 하고 싶어 해.",
+      "focus": "around the world"
+     },
+     {
+      "en": "Where is the tallest building in the world?",
+      "ko": "세계에서 가장 높은 건물은 어디에 있어?",
+      "focus": "in the world"
+     }
+    ],
+    "collocations": [
+     "around the world",
+     "in the world",
+     "a world map"
+    ]
+   }
+  ],
+  "confusables": [
+   {
+    "word": "earth",
+    "note": "Earth는 행성으로서의 지구, world는 사람이 사는 세상이라는 느낌"
+   }
+  ]
+ },
+ {
+  "id": "week",
+  "headword": "week",
+  "ipa": "/wiːk/",
+  "level": "PRE",
+  "isCore": false,
+  "topic": "time_quantity",
+  "forms": [
+   "weeks"
+  ],
+  "senses": [
+   {
+    "id": "week-1",
+    "pos": "n",
+    "ko": "주, 일주일",
+    "en": "seven days, usually from Monday to Sunday",
+    "nuance": "next/last/this week 앞에는 전치사를 붙이지 않는다. '일주일에 두 번'은 twice a week다.",
+    "examples": [
+     {
+      "en": "We have a swimming class twice a week.",
+      "ko": "우리는 일주일에 두 번 수영 수업이 있어.",
+      "focus": "twice a week"
+     },
+     {
+      "en": "Next week is my birthday, so I'm really excited.",
+      "ko": "다음 주가 내 생일이라 정말 설레.",
+      "focus": "Next week"
+     }
+    ],
+    "collocations": [
+     "next week",
+     "last week",
+     "twice a week"
+    ]
+   }
+  ],
+  "wordFamily": [
+   {
+    "form": "weekend",
+    "pos": "n",
+    "ko": "주말"
+   },
+   {
+    "form": "weekly",
+    "pos": "adj",
+    "ko": "매주의"
+   }
+  ],
+  "confusables": [
+   {
+    "word": "weak",
+    "note": "weak(약한)와 발음이 같다. '일주일'은 ee, '약한'은 ea로 쓴다"
+   }
+  ]
+ },
+ {
+  "id": "house",
+  "headword": "house",
+  "ipa": "/haʊs/",
+  "level": "PRE",
+  "isCore": false,
+  "topic": "home_daily",
+  "forms": [
+   "housed",
+   "houses",
+   "housing",
+   "housings"
+  ],
+  "senses": [
+   {
+    "id": "house-1",
+    "pos": "n",
+    "ko": "집, 주택",
+    "en": "a building where a family lives",
+    "nuance": "house는 건물, home은 '내가 사는 곳'이라는 느낌이다. '집에 가다'는 go home이고 go to house라고 하지 않는다.",
+    "examples": [
+     {
+      "en": "Come to my house after school, and we can play.",
+      "ko": "학교 끝나고 우리 집에 와, 같이 놀자.",
+      "focus": "my house"
+     },
+     {
+      "en": "Tom's house has a red door and a big garden.",
+      "ko": "톰네 집은 문이 빨갛고 마당이 넓어.",
+      "focus": "Tom's house"
+     }
+    ],
+    "collocations": [
+     "a big house",
+     "clean the house",
+     "at my house"
+    ]
+   }
+  ],
+  "confusables": [
+   {
+    "word": "home",
+    "note": "home은 가족이 사는 따뜻한 느낌의 '집', house는 건물 자체"
+   }
+  ]
+ },
+ {
+  "id": "woman",
+  "headword": "woman",
+  "ipa": "/ˈwʌmən/",
+  "level": "PRE",
+  "isCore": false,
+  "topic": "people_family",
+  "forms": [
+   "women"
+  ],
+  "senses": [
+   {
+    "id": "woman-1",
+    "pos": "n",
+    "ko": "여자, 성인 여성",
+    "en": "an adult female person",
+    "nuance": "복수 women은 철자와 달리 '위민'으로 발음한다. 여자아이는 girl, 다 큰 여자는 woman이다.",
+    "examples": [
+     {
+      "en": "A kind woman helped me find my mom at the store.",
+      "ko": "친절한 아주머니가 가게에서 엄마 찾는 걸 도와줬어.",
+      "focus": "A kind woman"
+     },
+     {
+      "en": "Three women were talking and laughing on the bench.",
+      "ko": "여자 세 명이 벤치에서 얘기하며 웃고 있었어.",
+      "focus": "Three women"
+     }
+    ],
+    "collocations": [
+     "a young woman",
+     "an old woman",
+     "men and women"
+    ]
+   }
+  ],
+  "confusables": [
+   {
+    "word": "girl",
+    "note": "girl은 여자아이·소녀, woman은 다 큰 여성. 어른에게 girl은 실례가 될 수 있다"
+   }
+  ]
+ },
+ {
+  "id": "family",
+  "headword": "family",
+  "ipa": "/ˈfæməli/",
+  "level": "PRE",
+  "isCore": false,
+  "topic": "people_family",
+  "forms": [
+   "families"
+  ],
+  "senses": [
+   {
+    "id": "family-1",
+    "pos": "n",
+    "ko": "가족",
+    "en": "a group of people who are related, like parents and children",
+    "nuance": "'우리 가족'은 our family보다 my family가 자연스럽다. 가족 전체를 하나로 보아 단수 동사를 쓰는 것이 미국식이다.",
+    "examples": [
+     {
+      "en": "My family eats dinner together at seven every night.",
+      "ko": "우리 가족은 매일 밤 일곱 시에 함께 저녁을 먹어.",
+      "focus": "My family"
+     },
+     {
+      "en": "How many people are there in your family?",
+      "ko": "너희 가족은 몇 명이야?",
+      "focus": "in your family"
+     }
+    ],
+    "collocations": [
+     "a big family",
+     "a family photo",
+     "family dinner"
+    ]
+   }
+  ]
+ },
+ {
+  "id": "again",
+  "headword": "again",
+  "ipa": "/əˈɡen/",
+  "level": "PRE",
+  "isCore": false,
+  "topic": "time_quantity",
+  "forms": [],
+  "senses": [
+   {
+    "id": "again-1",
+    "pos": "adv",
+    "ko": "다시, 또",
+    "en": "one more time; once more",
+    "nuance": "보통 문장 끝에 온다. 되묻는 Say that again?은 '뭐라고? 다시 말해 줘'라는 뜻으로 자주 쓴다.",
+    "examples": [
+     {
+      "en": "Can you say that again? I didn't hear you.",
+      "ko": "다시 한번 말해 줄래? 못 들었어.",
+      "focus": "say that again"
+     },
+     {
+      "en": "It's raining again, so we can't go to the park.",
+      "ko": "또 비가 와서 공원에 못 가겠다.",
+      "focus": "raining again"
+     }
+    ],
+    "collocations": [
+     "once again",
+     "try again",
+     "see you again"
+    ]
+   }
+  ]
+ },
+ {
+  "id": "small",
+  "headword": "small",
+  "ipa": "/smɔːl/",
+  "level": "PRE",
+  "isCore": false,
+  "topic": "description_quality",
+  "forms": [
+   "smaller",
+   "smallest"
+  ],
+  "senses": [
+   {
+    "id": "small-1",
+    "pos": "adj",
+    "ko": "작은",
+    "en": "little in size; not big",
+    "nuance": "little은 '작고 귀여운' 느낌이 섞이고, small은 크기 자체를 말한다. 옷·음료 사이즈도 small(S)이다.",
+    "examples": [
+     {
+      "en": "The puppy is still small, but it eats a lot.",
+      "ko": "그 강아지는 아직 작은데 많이 먹어.",
+      "focus": "still small"
+     },
+     {
+      "en": "Do you have this shirt in a smaller size?",
+      "ko": "이 셔츠 더 작은 사이즈 있나요?",
+      "focus": "a smaller size"
+     }
+    ],
+    "collocations": [
+     "a small town",
+     "a small size",
+     "too small"
+    ]
+   }
+  ],
+  "confusables": [
+   {
+    "word": "little",
+    "note": "little은 감정(귀여움·안타까움)이 섞이고, small은 크기를 객관적으로 말한다"
+   }
+  ]
+ },
+ {
+  "id": "begin",
+  "headword": "begin",
+  "ipa": "/bɪˈɡɪn/",
+  "level": "PRE",
+  "isCore": false,
+  "topic": "time_quantity",
+  "forms": [
+   "began",
+   "beginning",
+   "beginnings",
+   "begins",
+   "begun"
+  ],
+  "senses": [
+   {
+    "id": "begin-1",
+    "pos": "v",
+    "ko": "시작하다, 시작되다",
+    "en": "to start doing something, or to start happening",
+    "nuance": "start와 거의 같은 뜻이지만 begin이 조금 더 격식 있다. 차 시동을 걸거나 기계를 켤 때는 start만 쓴다.",
+    "pattern": "begin to + 동사 / begin + -ing",
+    "examples": [
+     {
+      "en": "The movie begins at three, so let's hurry.",
+      "ko": "영화가 세 시에 시작하니까 서두르자.",
+      "focus": "begins at three"
+     },
+     {
+      "en": "It began to snow while we were walking home.",
+      "ko": "집에 걸어가는데 눈이 오기 시작했어.",
+      "focus": "began to snow"
+     }
+    ],
+    "collocations": [
+     "begin to rain",
+     "begin with",
+     "at the beginning"
+    ]
+   }
+  ],
+  "wordFamily": [
+   {
+    "form": "beginning",
+    "pos": "n",
+    "ko": "시작, 처음"
+   },
+   {
+    "form": "beginner",
+    "pos": "n",
+    "ko": "초보자"
+   }
+  ],
+  "confusables": [
+   {
+    "word": "start",
+    "note": "일상 대화에서는 start가 더 흔하다. 대부분 바꿔 써도 되지만 begin이 조금 더 글말 느낌"
+   }
+  ]
+ },
+ {
+  "id": "important",
+  "headword": "important",
+  "ipa": "/ɪmˈpɔːrtənt/",
+  "level": "PRE",
+  "isCore": false,
+  "topic": "thinking_opinion",
+  "forms": [],
+  "senses": [
+   {
+    "id": "important-1",
+    "pos": "adj",
+    "ko": "중요한",
+    "en": "mattering a lot; something you must not forget or miss",
+    "nuance": "'~하는 게 중요해'는 It's important to ~로 말한다. important for + 사람으로 누구에게 중요한지 덧붙인다.",
+    "pattern": "It is important to + 동사 / for + 사람",
+    "examples": [
+     {
+      "en": "It's important to wash your hands before you eat.",
+      "ko": "밥 먹기 전에 손을 씻는 게 중요해.",
+      "focus": "important to wash"
+     },
+     {
+      "en": "Tomorrow is an important day. Mina has her first game.",
+      "ko": "내일은 중요한 날이야. 미나의 첫 경기가 있어.",
+      "focus": "an important day"
+     }
+    ],
+    "collocations": [
+     "very important",
+     "an important day",
+     "important to"
+    ]
+   }
+  ],
+  "wordFamily": [
+   {
+    "form": "importance",
+    "pos": "n",
+    "ko": "중요성"
+   },
+   {
+    "form": "importantly",
+    "pos": "adv",
+    "ko": "중요하게"
+   }
+  ]
+ },
+ {
+  "id": "money",
+  "headword": "money",
+  "ipa": "/ˈmʌni/",
+  "level": "PRE",
+  "isCore": false,
+  "topic": "money_shopping",
+  "forms": [
+   "moneys"
+  ],
+  "senses": [
+   {
+    "id": "money-1",
+    "pos": "n",
+    "ko": "돈",
+    "en": "the coins and paper you use to buy things",
+    "nuance": "셀 수 없는 명사라서 a money, two moneys처럼 세지 않는다. 얼마인지 물을 때는 How much money로 묻는다.",
+    "examples": [
+     {
+      "en": "I don't have enough money for this toy.",
+      "ko": "이 장난감 살 돈이 모자라.",
+      "focus": "enough money"
+     },
+     {
+      "en": "Jun is saving his money to buy a new bike.",
+      "ko": "준은 새 자전거를 사려고 돈을 모으고 있어.",
+      "focus": "saving his money"
+     }
+    ],
+    "collocations": [
+     "save money",
+     "spend money",
+     "make money"
+    ]
+   }
+  ]
+ },
+ {
+  "id": "read",
+  "headword": "read",
+  "ipa": "/riːd/",
+  "level": "PRE",
+  "isCore": false,
+  "topic": "school_learning",
+  "forms": [
+   "reading",
+   "readings",
+   "reads"
+  ],
+  "senses": [
+   {
+    "id": "read-1",
+    "pos": "v",
+    "ko": "읽다",
+    "en": "to look at words and understand what they mean",
+    "nuance": "과거형 read는 철자는 같지만 '레드'로 발음한다. '~에게 읽어 주다'는 read + 사람 + 이야기 순서로 말한다.",
+    "pattern": "read + 명사 / read + 사람 + 명사",
+    "examples": [
+     {
+      "en": "Dad reads me a story every night before bed.",
+      "ko": "아빠는 매일 밤 자기 전에 나한테 이야기를 읽어 주셔.",
+      "focus": "reads me a story"
+     },
+     {
+      "en": "Can you read this word? The letters are very small.",
+      "ko": "이 단어 읽을 수 있어? 글자가 너무 작아.",
+      "focus": "read this word"
+     }
+    ],
+    "collocations": [
+     "read a book",
+     "read aloud",
+     "read a story"
+    ]
+   }
+  ],
+  "wordFamily": [
+   {
+    "form": "reader",
+    "pos": "n",
+    "ko": "독자, 읽는 사람"
+   },
+   {
+    "form": "reading",
+    "pos": "n",
+    "ko": "독서, 읽기"
+   }
+  ]
+ },
+ {
+  "id": "friend",
+  "headword": "friend",
+  "ipa": "/frend/",
+  "level": "PRE",
+  "isCore": false,
+  "topic": "people_family",
+  "forms": [
+   "friends"
+  ],
+  "senses": [
+   {
+    "id": "friend-1",
+    "pos": "n",
+    "ko": "친구",
+    "en": "a person you like and know well, and who likes you",
+    "nuance": "'친구를 사귀다'는 make friends이고 get friends라고 하지 않는다. 단짝은 best friend다.",
+    "examples": [
+     {
+      "en": "Mina is my best friend. We sit together in class.",
+      "ko": "미나는 내 단짝 친구야. 우리는 교실에서 같이 앉아.",
+      "focus": "my best friend"
+     },
+     {
+      "en": "I made a new friend at swimming class today.",
+      "ko": "오늘 수영 수업에서 새 친구를 사귀었어.",
+      "focus": "made a new friend"
+     }
+    ],
+    "collocations": [
+     "make friends",
+     "best friend",
+     "a good friend"
+    ]
+   }
+  ],
+  "wordFamily": [
+   {
+    "form": "friendly",
+    "pos": "adj",
+    "ko": "친절한, 상냥한"
+   },
+   {
+    "form": "friendship",
+    "pos": "n",
+    "ko": "우정"
+   }
+  ]
+ },
+ {
+  "id": "month",
+  "headword": "month",
+  "ipa": "/mʌnθ/",
+  "level": "PRE",
+  "isCore": false,
+  "topic": "time_quantity",
+  "forms": [
+   "months"
+  ],
+  "senses": [
+   {
+    "id": "month-1",
+    "pos": "n",
+    "ko": "달, 월, 한 달",
+    "en": "one of the twelve parts of a year, like May or June",
+    "nuance": "'몇 월'은 What/Which month로 묻고, 월 이름 앞에는 in을 쓴다(in May). 끝소리 th 발음에 주의한다.",
+    "examples": [
+     {
+      "en": "Which month is your birthday in? Mine is in May.",
+      "ko": "네 생일은 몇 월이야? 내 생일은 5월이야.",
+      "focus": "Which month"
+     },
+     {
+      "en": "We moved to Seoul two months ago, and I love it.",
+      "ko": "우리는 두 달 전에 서울로 이사 왔는데, 정말 좋아.",
+      "focus": "two months ago"
+     }
+    ],
+    "collocations": [
+     "next month",
+     "last month",
+     "once a month"
+    ]
+   }
+  ],
+  "confusables": [
+   {
+    "word": "mouth",
+    "note": "mouth(입)와 철자가 비슷하다. '달'은 mon-th, '입'은 mou-th"
+   }
+  ]
+ },
+ {
+  "id": "large",
+  "headword": "large",
+  "ipa": "/lɑːrdʒ/",
+  "level": "PRE",
+  "isCore": false,
+  "topic": "description_quality",
+  "forms": [
+   "larger",
+   "largest"
+  ],
+  "senses": [
+   {
+    "id": "large-1",
+    "pos": "adj",
+    "ko": "큰, 넓은",
+    "en": "big in size or amount",
+    "nuance": "big과 뜻이 같지만 조금 더 격식 있다. 음료·옷 사이즈는 big이 아니라 large(L)로 말한다.",
+    "examples": [
+     {
+      "en": "A large dog lives next door, but it's very gentle.",
+      "ko": "옆집에 큰 개가 사는데 아주 순해.",
+      "focus": "A large dog"
+     },
+     {
+      "en": "Can I get a large juice, please? I'm so thirsty.",
+      "ko": "주스 큰 걸로 하나 주세요. 너무 목말라요.",
+      "focus": "a large juice"
+     }
+    ],
+    "collocations": [
+     "a large size",
+     "a large family",
+     "large and small"
+    ]
+   }
+  ],
+  "confusables": [
+   {
+    "word": "big",
+    "note": "big은 일상적인 '큰', large는 조금 격식 있고 사이즈 표기(S/M/L)에 쓴다"
+   }
+  ]
+ },
+ {
+  "id": "word",
+  "headword": "word",
+  "ipa": "/wɜːrd/",
+  "level": "PRE",
+  "isCore": false,
+  "topic": "communication",
+  "forms": [
+   "worded",
+   "wording",
+   "wordings",
+   "words"
+  ],
+  "senses": [
+   {
+    "id": "word-1",
+    "pos": "n",
+    "ko": "단어, 낱말",
+    "en": "a group of letters that has a meaning, like cat or run",
+    "nuance": "'말 한마디'도 word다. Don't say a word는 '한마디도 하지 마'라는 뜻이다.",
+    "examples": [
+     {
+      "en": "How do you spell the word 'friend'? It's tricky.",
+      "ko": "'friend'라는 단어 철자가 어떻게 돼? 헷갈려.",
+      "focus": "the word"
+     },
+     {
+      "en": "I learned five new words in English class today.",
+      "ko": "오늘 영어 수업에서 새 단어 다섯 개를 배웠어.",
+      "focus": "new words"
+     }
+    ],
+    "collocations": [
+     "a new word",
+     "spell a word",
+     "say a word"
+    ]
+   }
+  ],
+  "confusables": [
+   {
+    "word": "world",
+    "note": "world(세계)와 철자가 비슷하다. word에는 l이 없다"
+   }
+  ]
+ },
+ {
+  "id": "build",
+  "headword": "build",
+  "ipa": "/bɪld/",
+  "level": "PRE",
+  "isCore": false,
+  "topic": "movement_action",
+  "forms": [
+   "building",
+   "buildings",
+   "builds",
+   "built"
+  ],
+  "senses": [
+   {
+    "id": "build-1",
+    "pos": "v",
+    "ko": "짓다, 세우다, 만들다",
+    "en": "to make something by putting parts together",
+    "nuance": "집·다리·탑처럼 재료를 쌓아 올려 만드는 것에 쓴다. 요리나 작은 물건은 make를 쓴다.",
+    "examples": [
+     {
+      "en": "Let's build a sandcastle before the water comes in.",
+      "ko": "물이 들어오기 전에 모래성을 만들자.",
+      "focus": "build a sandcastle"
+     },
+     {
+      "en": "My grandpa built this house all by himself.",
+      "ko": "우리 할아버지가 이 집을 혼자서 다 지으셨어.",
+      "focus": "built this house"
+     }
+    ],
+    "collocations": [
+     "build a house",
+     "build a snowman",
+     "build a tower"
+    ]
+   }
+  ],
+  "wordFamily": [
+   {
+    "form": "building",
+    "pos": "n",
+    "ko": "건물"
+   },
+   {
+    "form": "builder",
+    "pos": "n",
+    "ko": "건축가, 짓는 사람"
+   }
+  ],
+  "confusables": [
+   {
+    "word": "make",
+    "note": "make는 무엇이든 '만들다', build는 큰 것을 쌓아 올려 '짓다'라는 느낌"
+   }
+  ]
+ },
+ {
+  "id": "young",
+  "headword": "young",
+  "ipa": "/jʌŋ/",
+  "level": "PRE",
+  "isCore": false,
+  "topic": "description_quality",
+  "forms": [
+   "younger",
+   "youngest"
+  ],
+  "senses": [
+   {
+    "id": "young-1",
+    "pos": "adj",
+    "ko": "어린, 젊은",
+    "en": "not old; having lived only a short time",
+    "nuance": "'동생'은 younger brother/sister, '막내'는 the youngest다. 아기·어린이는 물론 젊은 어른에게도 쓴다.",
+    "examples": [
+     {
+      "en": "My younger sister is only three, so she can't read yet.",
+      "ko": "내 여동생은 세 살밖에 안 돼서 아직 글을 못 읽어.",
+      "focus": "younger sister"
+     },
+     {
+      "en": "When Grandma was young, she lived in a small village.",
+      "ko": "할머니는 어렸을 때 작은 마을에 사셨어.",
+      "focus": "was young"
+     }
+    ],
+    "collocations": [
+     "younger sister",
+     "young children",
+     "when I was young"
+    ]
+   }
+  ]
+ },
+ {
+  "id": "car",
+  "headword": "car",
+  "ipa": "/kɑːr/",
+  "level": "PRE",
+  "isCore": false,
+  "topic": "travel_transport",
+  "forms": [
+   "cars"
+  ],
+  "senses": [
+   {
+    "id": "car-1",
+    "pos": "n",
+    "ko": "자동차, 차",
+    "en": "a road vehicle with four wheels that a person drives",
+    "nuance": "'차로 가다'는 by car(관사 없음), 차 안에 있을 때는 in the car다. 버스·기차는 on을 쓴다.",
+    "examples": [
+     {
+      "en": "Get in the car, or we'll be late for school.",
+      "ko": "차에 타, 안 그러면 학교에 늦어.",
+      "focus": "Get in the car"
+     },
+     {
+      "en": "We're going to Busan by car this weekend.",
+      "ko": "이번 주말에 차로 부산에 가.",
+      "focus": "by car"
+     }
+    ],
+    "collocations": [
+     "by car",
+     "get in the car",
+     "drive a car"
+    ]
+   }
+  ]
+ },
+ {
+  "id": "mother",
+  "headword": "mother",
+  "ipa": "/ˈmʌðər/",
+  "level": "PRE",
+  "isCore": false,
+  "topic": "people_family",
+  "forms": [
+   "mothered",
+   "mothering",
+   "mothers"
+  ],
+  "senses": [
+   {
+    "id": "mother-1",
+    "pos": "n",
+    "ko": "어머니, 엄마",
+    "en": "a woman who has a child",
+    "nuance": "격식 있게 말하거나 남의 어머니를 말할 때 mother, 내 엄마를 부를 때는 Mom을 쓴다.",
+    "examples": [
+     {
+      "en": "My mother makes the best pancakes on Sunday mornings.",
+      "ko": "우리 엄마는 일요일 아침마다 최고의 팬케이크를 만들어 주셔.",
+      "focus": "My mother"
+     },
+     {
+      "en": "Is that Emma's mother waiting by the school gate?",
+      "ko": "학교 정문에서 기다리는 저분이 엠마 어머니야?",
+      "focus": "Emma's mother"
+     }
+    ],
+    "collocations": [
+     "Mother's Day",
+     "my mother",
+     "a young mother"
+    ]
+   }
+  ],
+  "confusables": [
+   {
+    "word": "mom",
+    "note": "mom은 '엄마'(구어, 부르는 말), mother는 '어머니'(격식, 설명하는 말)"
+   }
+  ]
+ },
+ {
+  "id": "sit",
+  "headword": "sit",
+  "ipa": "/sɪt/",
+  "level": "PRE",
+  "isCore": false,
+  "topic": "movement_action",
+  "forms": [
+   "sat",
+   "sits",
+   "sitting"
+  ],
+  "senses": [
+   {
+    "id": "sit-1",
+    "pos": "v",
+    "ko": "앉다, 앉아 있다",
+    "en": "to rest with your bottom on a chair or the floor",
+    "nuance": "'앉아'라고 말할 때는 보통 Sit down이라고 한다. 의자나 바닥 위에 앉을 때는 on을 쓴다(sit on a chair).",
+    "pattern": "sit on / next to + 명사",
+    "examples": [
+     {
+      "en": "Come and sit next to me. There's room here.",
+      "ko": "이리 와서 내 옆에 앉아. 여기 자리 있어.",
+      "focus": "sit next to me"
+     },
+     {
+      "en": "We sat on the grass and ate our sandwiches.",
+      "ko": "우리는 잔디에 앉아서 샌드위치를 먹었어.",
+      "focus": "sat on the grass"
+     }
+    ],
+    "collocations": [
+     "sit down",
+     "sit on a chair",
+     "sit next to"
+    ]
+   }
+  ],
+  "confusables": [
+   {
+    "word": "seat",
+    "note": "seat는 명사 '자리, 좌석', sit은 동사 '앉다'. Have a seat은 '앉으세요'"
+   }
+  ]
+ },
+ {
+  "id": "eye",
+  "headword": "eye",
+  "ipa": "/aɪ/",
+  "level": "PRE",
+  "isCore": false,
+  "topic": "body_health",
+  "forms": [
+   "eyed",
+   "eyeing",
+   "eyes"
+  ],
+  "senses": [
+   {
+    "id": "eye-1",
+    "pos": "n",
+    "ko": "눈",
+    "en": "one of the two parts of your face that you see with",
+    "nuance": "눈은 두 개라서 보통 eyes로 쓴다. '눈이 갈색이다'는 have brown eyes로 말한다.",
+    "examples": [
+     {
+      "en": "Close your eyes and count to ten. Then find us!",
+      "ko": "눈 감고 열까지 세. 그다음에 우리를 찾아!",
+      "focus": "Close your eyes"
+     },
+     {
+      "en": "Mina has brown eyes, just like her father.",
+      "ko": "미나는 아빠처럼 눈이 갈색이야.",
+      "focus": "brown eyes"
+     }
+    ],
+    "collocations": [
+     "close your eyes",
+     "brown eyes",
+     "open your eyes"
+    ]
+   }
+  ]
+ },
+ {
+  "id": "full",
+  "headword": "full",
+  "ipa": "/fʊl/",
+  "level": "PRE",
+  "isCore": false,
+  "topic": "description_quality",
+  "forms": [
+   "fuller",
+   "fullest"
+  ],
+  "senses": [
+   {
+    "id": "full-1",
+    "pos": "adj",
+    "ko": "가득 찬",
+    "en": "holding as much as it can; with no more space",
+    "nuance": "'~로 가득하다'는 full of를 쓴다. 반대말 empty(빈)와 짝으로 익힌다.",
+    "pattern": "be full of + 명사",
+    "examples": [
+     {
+      "en": "The bus was so full that we had to stand.",
+      "ko": "버스가 너무 꽉 차서 우리는 서 있어야 했어.",
+      "focus": "so full"
+     },
+     {
+      "en": "My bag is full of books, so it's really heavy.",
+      "ko": "가방에 책이 가득해서 정말 무거워.",
+      "focus": "full of books"
+     }
+    ],
+    "collocations": [
+     "full of",
+     "a full bus"
+    ]
+   },
+   {
+    "id": "full-2",
+    "pos": "adj",
+    "ko": "배부른",
+    "en": "having eaten so much that you want no more",
+    "examples": [
+     {
+      "en": "No more pizza for me, thanks. I'm full.",
+      "ko": "피자는 이제 그만 먹을래, 고마워. 배불러.",
+      "focus": "I'm full"
+     }
+    ],
+    "collocations": [
+     "I'm full"
+    ]
+   }
+  ],
+  "confusables": [
+   {
+    "word": "fill",
+    "note": "fill은 동사 '채우다', full은 형용사 '가득 찬'. fill the cup → the cup is full"
+   }
+  ]
+ },
+ {
+  "id": "paper",
+  "headword": "paper",
+  "ipa": "/ˈpeɪpər/",
+  "level": "PRE",
+  "isCore": false,
+  "topic": "school_learning",
+  "forms": [
+   "papered",
+   "papering",
+   "papers"
+  ],
+  "senses": [
+   {
+    "id": "paper-1",
+    "pos": "n",
+    "ko": "종이",
+    "en": "thin flat material that you write or draw on",
+    "nuance": "종이는 셀 수 없어 a paper가 아니라 a piece/sheet of paper로 센다. a paper는 신문이나 보고서를 뜻한다.",
+    "examples": [
+     {
+      "en": "Can I have a piece of paper to draw on?",
+      "ko": "그림 그릴 종이 한 장 줄 수 있어?",
+      "focus": "a piece of paper"
+     },
+     {
+      "en": "Fold the paper in half to make a little boat.",
+      "ko": "종이를 반으로 접어서 작은 배를 만들어 봐.",
+      "focus": "Fold the paper"
+     }
+    ],
+    "collocations": [
+     "a piece of paper",
+     "a paper cup"
+    ]
+   },
+   {
+    "id": "paper-2",
+    "pos": "n",
+    "ko": "신문",
+    "en": "the printed news you can buy every morning",
+    "examples": [
+     {
+      "en": "Dad reads the paper with his coffee every morning.",
+      "ko": "아빠는 매일 아침 커피 마시면서 신문을 읽으셔.",
+      "focus": "reads the paper"
+     }
+    ],
+    "collocations": [
+     "read the paper"
+    ]
+   }
+  ]
+ },
+ {
+  "id": "father",
+  "headword": "father",
+  "ipa": "/ˈfɑːðər/",
+  "level": "PRE",
+  "isCore": false,
+  "topic": "people_family",
+  "forms": [
+   "fathered",
+   "fathering",
+   "fathers"
+  ],
+  "senses": [
+   {
+    "id": "father-1",
+    "pos": "n",
+    "ko": "아버지, 아빠",
+    "en": "a man who has a child",
+    "nuance": "격식 있게 말하거나 남의 아버지를 말할 때 father, 내 아빠를 부를 때는 Dad를 쓴다.",
+    "examples": [
+     {
+      "en": "My father drives me to school when it rains.",
+      "ko": "비 오는 날엔 아빠가 나를 학교까지 차로 데려다 주셔.",
+      "focus": "My father"
+     },
+     {
+      "en": "Tom's father is a teacher at our school.",
+      "ko": "톰의 아버지는 우리 학교 선생님이셔.",
+      "focus": "Tom's father"
+     }
+    ],
+    "collocations": [
+     "Father's Day",
+     "my father",
+     "father and son"
+    ]
+   }
+  ],
+  "confusables": [
+   {
+    "word": "dad",
+    "note": "dad는 '아빠'(구어, 부르는 말), father는 '아버지'(격식, 설명하는 말)"
+   }
+  ]
+ },
+ {
+  "id": "table",
+  "headword": "table",
+  "ipa": "/ˈteɪbəl/",
+  "level": "PRE",
+  "isCore": false,
+  "topic": "home_daily",
+  "forms": [
+   "tabled",
+   "tables"
+  ],
+  "senses": [
+   {
+    "id": "table-1",
+    "pos": "n",
+    "ko": "식탁, 탁자, 테이블",
+    "en": "a piece of furniture with a flat top and legs",
+    "nuance": "공부하는 책상은 desk, 밥 먹는 식탁은 table이다. '식탁을 차리다'는 set the table이다.",
+    "examples": [
+     {
+      "en": "Put your plate on the table, and let's eat.",
+      "ko": "접시를 식탁에 놓고 밥 먹자.",
+      "focus": "on the table"
+     },
+     {
+      "en": "Can you help me set the table for dinner?",
+      "ko": "저녁 식탁 차리는 거 좀 도와줄래?",
+      "focus": "set the table"
+     }
+    ],
+    "collocations": [
+     "set the table",
+     "on the table",
+     "at the table"
+    ]
+   }
+  ],
+  "confusables": [
+   {
+    "word": "desk",
+    "note": "desk는 공부·일하는 책상, table은 식탁이나 여러 사람이 둘러앉는 탁자"
+   }
+  ]
+ },
+ {
+  "id": "strong",
+  "headword": "strong",
+  "ipa": "/strɔːŋ/",
+  "level": "PRE",
+  "isCore": false,
+  "topic": "body_health",
+  "forms": [
+   "stronger",
+   "strongest"
+  ],
+  "senses": [
+   {
+    "id": "strong-1",
+    "pos": "adj",
+    "ko": "힘센, 튼튼한",
+    "en": "having a lot of power in your body; not easy to break",
+    "nuance": "몸의 힘과 물건의 튼튼함 둘 다에 쓴다. 반대말은 weak다.",
+    "examples": [
+     {
+      "en": "Jun is strong enough to carry two heavy bags.",
+      "ko": "준은 무거운 가방 두 개를 들 만큼 힘이 세.",
+      "focus": "strong enough"
+     },
+     {
+      "en": "Eat your vegetables so you grow big and strong.",
+      "ko": "채소 먹어야 크고 튼튼하게 자란다.",
+      "focus": "big and strong"
+     }
+    ],
+    "collocations": [
+     "big and strong",
+     "strong arms"
+    ]
+   },
+   {
+    "id": "strong-2",
+    "pos": "adj",
+    "ko": "센, 강한, 진한",
+    "en": "having a lot of taste, smell, or force",
+    "nuance": "바람·커피·냄새가 '세다, 진하다'에도 쓴다.",
+    "examples": [
+     {
+      "en": "The wind is very strong today. Hold your hat!",
+      "ko": "오늘 바람이 아주 세. 모자 잘 잡아!",
+      "focus": "very strong"
+     }
+    ],
+    "collocations": [
+     "a strong wind"
+    ]
+   }
+  ],
+  "wordFamily": [
+   {
+    "form": "strength",
+    "pos": "n",
+    "ko": "힘"
+   },
+   {
+    "form": "strongly",
+    "pos": "adv",
+    "ko": "강하게"
+   }
+  ]
+ },
+ {
+  "id": "girl",
+  "headword": "girl",
+  "ipa": "/ɡɜːrl/",
+  "level": "PRE",
+  "isCore": false,
+  "topic": "people_family",
+  "forms": [
+   "girls"
+  ],
+  "senses": [
+   {
+    "id": "girl-1",
+    "pos": "n",
+    "ko": "여자아이, 소녀",
+    "en": "a female child or young person",
+    "nuance": "아이나 10대 소녀에게 쓴다. 다 큰 여성을 girl이라고 부르면 실례가 될 수 있어 woman을 쓴다.",
+    "examples": [
+     {
+      "en": "The girl with the red bag is my cousin Mina.",
+      "ko": "빨간 가방 든 여자애가 내 사촌 미나야.",
+      "focus": "The girl"
+     },
+     {
+      "en": "The girls won the race, and the boys clapped for them.",
+      "ko": "여자애들이 달리기에서 이겼고, 남자애들이 박수를 쳐 줬어.",
+      "focus": "The girls"
+     }
+    ],
+    "collocations": [
+     "a little girl",
+     "boys and girls",
+     "a baby girl"
+    ]
+   }
+  ]
+ },
+ {
+  "id": "eat",
+  "headword": "eat",
+  "ipa": "/iːt/",
+  "level": "PRE",
+  "isCore": false,
+  "topic": "food_cooking",
+  "forms": [
+   "ate",
+   "eaten",
+   "eating",
+   "eats"
+  ],
+  "senses": [
+   {
+    "id": "eat-1",
+    "pos": "v",
+    "ko": "먹다",
+    "en": "to put food in your mouth and swallow it",
+    "nuance": "'아침/점심을 먹다'는 eat보다 have breakfast/lunch를 더 자주 쓴다. 약을 먹는 것은 take medicine이다.",
+    "examples": [
+     {
+      "en": "What do you want to eat for lunch today?",
+      "ko": "오늘 점심에 뭐 먹고 싶어?",
+      "focus": "eat for lunch"
+     },
+     {
+      "en": "Tom ate all the cookies before I got home.",
+      "ko": "내가 집에 오기 전에 톰이 쿠키를 다 먹어 버렸어.",
+      "focus": "ate all the cookies"
+     }
+    ],
+    "collocations": [
+     "eat lunch",
+     "eat out",
+     "something to eat"
+    ]
+   }
+  ]
+ },
+ {
+  "id": "door",
+  "headword": "door",
+  "ipa": "/dɔːr/",
+  "level": "PRE",
+  "isCore": false,
+  "topic": "home_daily",
+  "forms": [
+   "doors"
+  ],
+  "senses": [
+   {
+    "id": "door-1",
+    "pos": "n",
+    "ko": "문",
+    "en": "the part of a room or car that you open to go in",
+    "nuance": "'문 앞에'는 at the door, '옆집'은 next door라고 한다. 문을 '잠그다'는 lock the door다.",
+    "examples": [
+     {
+      "en": "Please close the door. It's really cold outside.",
+      "ko": "문 좀 닫아 줘. 밖이 정말 추워.",
+      "focus": "close the door"
+     },
+     {
+      "en": "Someone is knocking at the door. Can you see who it is?",
+      "ko": "누가 문을 두드리는데, 누군지 좀 봐 줄래?",
+      "focus": "at the door"
+     }
+    ],
+    "collocations": [
+     "open the door",
+     "close the door",
+     "next door"
+    ]
+   }
+  ]
+ },
+ {
+  "id": "teacher",
+  "headword": "teacher",
+  "ipa": "/ˈtiːtʃər/",
+  "level": "PRE",
+  "isCore": false,
+  "topic": "school_learning",
+  "forms": [
+   "teachers"
+  ],
+  "senses": [
+   {
+    "id": "teacher-1",
+    "pos": "n",
+    "ko": "선생님, 교사",
+    "en": "a person whose job is to help students learn",
+    "nuance": "선생님을 부를 때 Teacher!라고 하지 않고 Mr./Ms. + 성으로 부른다. teacher는 직업을 가리키는 말이다.",
+    "examples": [
+     {
+      "en": "Our teacher gave us stickers for finishing our homework.",
+      "ko": "숙제를 다 해서 선생님이 우리에게 스티커를 주셨어.",
+      "focus": "Our teacher"
+     },
+     {
+      "en": "Emma's mom is a music teacher at our school.",
+      "ko": "엠마 엄마는 우리 학교 음악 선생님이셔.",
+      "focus": "music teacher"
+     }
+    ],
+    "collocations": [
+     "a music teacher",
+     "my teacher",
+     "ask the teacher"
+    ]
+   }
+  ],
+  "wordFamily": [
+   {
+    "form": "teach",
+    "pos": "v",
+    "ko": "가르치다"
+   }
+  ]
+ },
+ {
+  "id": "boy",
+  "headword": "boy",
+  "ipa": "/bɔɪ/",
+  "level": "PRE",
+  "isCore": false,
+  "topic": "people_family",
+  "forms": [
+   "boys"
+  ],
+  "senses": [
+   {
+    "id": "boy-1",
+    "pos": "n",
+    "ko": "남자아이, 소년",
+    "en": "a male child or young person",
+    "nuance": "아이나 10대에게 쓴다. 다 큰 남성에게는 man이나 guy를 쓴다.",
+    "examples": [
+     {
+      "en": "The boy next to Jun is his little brother.",
+      "ko": "준 옆에 있는 남자애는 준의 남동생이야.",
+      "focus": "The boy"
+     },
+     {
+      "en": "Two boys were playing soccer in the yard after school.",
+      "ko": "학교 끝나고 남자애 둘이 마당에서 축구를 하고 있었어.",
+      "focus": "Two boys"
+     }
+    ],
+    "collocations": [
+     "a little boy",
+     "boys and girls",
+     "a baby boy"
+    ]
+   }
+  ]
+ },
+ {
+  "id": "happy",
+  "headword": "happy",
+  "ipa": "/ˈhæpi/",
+  "level": "PRE",
+  "isCore": false,
+  "topic": "emotions_personality",
+  "forms": [
+   "happier",
+   "happiest"
+  ],
+  "senses": [
+   {
+    "id": "happy-1",
+    "pos": "adj",
+    "ko": "행복한, 기쁜",
+    "en": "feeling good and pleased; not sad",
+    "nuance": "'~가 마음에 든다'는 be happy with다. 인사말은 Happy birthday, Happy New Year처럼 happy를 앞에 둔다.",
+    "pattern": "be happy with / about + 명사",
+    "examples": [
+     {
+      "en": "Mina was so happy when she got a puppy.",
+      "ko": "미나는 강아지를 받고 정말 기뻐했어.",
+      "focus": "so happy"
+     },
+     {
+      "en": "Happy birthday, Tom! I hope you like your present.",
+      "ko": "생일 축하해, 톰! 선물 마음에 들면 좋겠다.",
+      "focus": "Happy birthday"
+     }
+    ],
+    "collocations": [
+     "happy birthday",
+     "be happy with",
+     "a happy face"
+    ]
+   }
+  ],
+  "wordFamily": [
+   {
+    "form": "happiness",
+    "pos": "n",
+    "ko": "행복"
+   },
+   {
+    "form": "happily",
+    "pos": "adv",
+    "ko": "행복하게"
+   }
+  ],
+  "confusables": [
+   {
+    "word": "glad",
+    "note": "glad는 어떤 소식에 '다행이다, 기쁘다'라고 반응할 때, happy는 기분 상태 전체"
+   }
+  ]
+ },
+ {
+  "id": "foot",
+  "headword": "foot",
+  "ipa": "/fʊt/",
+  "level": "PRE",
+  "isCore": false,
+  "topic": "body_health",
+  "forms": [
+   "feet",
+   "footed",
+   "footing",
+   "foots"
+  ],
+  "senses": [
+   {
+    "id": "foot-1",
+    "pos": "n",
+    "ko": "발",
+    "en": "the part of your body at the end of your leg",
+    "nuance": "복수는 foots가 아니라 feet다. '걸어서 가다'는 on foot(관사 없음)이다.",
+    "examples": [
+     {
+      "en": "My feet hurt after walking all day at the zoo.",
+      "ko": "동물원에서 하루 종일 걸었더니 발이 아파.",
+      "focus": "My feet"
+     },
+     {
+      "en": "Jun kicked the ball with his left foot and scored.",
+      "ko": "준이 왼발로 공을 차서 골을 넣었어.",
+      "focus": "left foot"
+     }
+    ],
+    "collocations": [
+     "on foot",
+     "left foot",
+     "bare feet"
+    ]
+   }
+  ],
+  "confusables": [
+   {
+    "word": "leg",
+    "note": "leg는 다리 전체, foot은 발목 아래 발 부분"
+   }
+  ]
+ },
+ {
+  "id": "poor",
+  "headword": "poor",
+  "ipa": "/pʊr/",
+  "level": "PRE",
+  "isCore": false,
+  "topic": "money_shopping",
+  "forms": [
+   "poorer",
+   "poorest"
+  ],
+  "senses": [
+   {
+    "id": "poor-1",
+    "pos": "adj",
+    "ko": "가난한",
+    "en": "having very little money",
+    "examples": [
+     {
+      "en": "The family was poor, but they were always happy together.",
+      "ko": "그 가족은 가난했지만 늘 함께 행복했어.",
+      "focus": "was poor"
+     }
+    ],
+    "collocations": [
+     "poor people",
+     "the poor"
+    ]
+   },
+   {
+    "id": "poor-2",
+    "pos": "adj",
+    "ko": "가엾은, 불쌍한",
+    "en": "used to show you feel sorry for someone",
+    "nuance": "명사 앞에서 Poor you!, Poor thing!처럼 쓰면 '아이고 불쌍해'라는 뜻이다. 가난과는 상관없다.",
+    "pattern": "Poor + 사람 / thing",
+    "examples": [
+     {
+      "en": "Poor Tom! He lost his new bike at the park.",
+      "ko": "톰 불쌍해! 공원에서 새 자전거를 잃어버렸대.",
+      "focus": "Poor Tom"
+     }
+    ],
+    "collocations": [
+     "poor thing"
+    ]
+   }
+  ],
+  "confusables": [
+   {
+    "word": "pour",
+    "note": "pour(붓다)와 발음이 거의 같다. '가난한'은 oo, '붓다'는 ou"
+   }
+  ]
+ },
+ {
+  "id": "bed",
+  "headword": "bed",
+  "ipa": "/bed/",
+  "level": "PRE",
+  "isCore": false,
+  "topic": "home_daily",
+  "forms": [
+   "bedded",
+   "bedding",
+   "beddings",
+   "beds"
+  ],
+  "senses": [
+   {
+    "id": "bed-1",
+    "pos": "n",
+    "ko": "침대",
+    "en": "a piece of furniture that you sleep on",
+    "nuance": "'자러 가다'는 go to bed(관사 없음), '침대를 정리하다'는 make the bed다. 침대에 누워 있을 때는 in bed.",
+    "examples": [
+     {
+      "en": "It's already nine o'clock. Time for bed, kids!",
+      "ko": "벌써 아홉 시야. 얘들아, 잘 시간이야!",
+      "focus": "Time for bed"
+     },
+     {
+      "en": "I made my bed before I went to school.",
+      "ko": "학교 가기 전에 침대를 정리했어.",
+      "focus": "made my bed"
+     }
+    ],
+    "collocations": [
+     "go to bed",
+     "make the bed",
+     "in bed"
+    ]
+   }
+  ]
+ },
+ {
+  "id": "window",
+  "headword": "window",
+  "ipa": "/ˈwɪndoʊ/",
+  "level": "PRE",
+  "isCore": false,
+  "topic": "home_daily",
+  "forms": [
+   "windowed",
+   "windowing",
+   "windows"
+  ],
+  "senses": [
+   {
+    "id": "window-1",
+    "pos": "n",
+    "ko": "창문",
+    "en": "an opening in a wall with glass that lets light in",
+    "nuance": "'창밖을 보다'는 look out (of) the window다. 가게 진열창도 shop window라고 한다.",
+    "examples": [
+     {
+      "en": "Can you open the window? It's hot in here.",
+      "ko": "창문 좀 열어 줄래? 여기 더워.",
+      "focus": "open the window"
+     },
+     {
+      "en": "Emma looked out the window and saw snow falling.",
+      "ko": "엠마가 창밖을 보니 눈이 내리고 있었어.",
+      "focus": "out the window"
+     }
+    ],
+    "collocations": [
+     "open the window",
+     "look out the window",
+     "a window seat"
+    ]
+   }
+  ]
+ },
+ {
+  "id": "tree",
+  "headword": "tree",
+  "ipa": "/triː/",
+  "level": "PRE",
+  "isCore": false,
+  "topic": "nature_animals",
+  "forms": [
+   "trees"
+  ],
+  "senses": [
+   {
+    "id": "tree-1",
+    "pos": "n",
+    "ko": "나무",
+    "en": "a tall plant with a trunk, branches, and leaves",
+    "nuance": "살아 있는 나무는 tree, 재료로 쓰는 목재는 wood다. 크리스마스트리도 Christmas tree.",
+    "examples": [
+     {
+      "en": "The cat climbed up the tree and wouldn't come down.",
+      "ko": "고양이가 나무 위로 올라가서 안 내려오려고 했어.",
+      "focus": "up the tree"
+     },
+     {
+      "en": "Let's sit under that big tree. It's cooler there.",
+      "ko": "저 큰 나무 아래 앉자. 거기가 더 시원해.",
+      "focus": "under that big tree"
+     }
+    ],
+    "collocations": [
+     "climb a tree",
+     "under a tree",
+     "plant a tree"
+    ]
+   }
+  ],
+  "confusables": [
+   {
+    "word": "wood",
+    "note": "wood는 나무를 잘라 만든 목재, tree는 땅에 서 있는 살아 있는 나무"
+   }
+  ]
+ },
+ {
+  "id": "doctor",
+  "headword": "doctor",
+  "ipa": "/ˈdɑːktər/",
+  "level": "PRE",
+  "isCore": false,
+  "topic": "body_health",
+  "forms": [
+   "doctored",
+   "doctoring",
+   "doctors",
+   "dr",
+   "dr."
+  ],
+  "senses": [
+   {
+    "id": "doctor-1",
+    "pos": "n",
+    "ko": "의사",
+    "en": "a person whose job is to help sick people get better",
+    "nuance": "한국어 '병원에 가다'는 go to the doctor 또는 see a doctor가 자연스럽다. hospital은 큰 병원이나 입원할 때 쓴다.",
+    "examples": [
+     {
+      "en": "You have a fever. Let's go see the doctor.",
+      "ko": "열이 있네. 병원에 가 보자.",
+      "focus": "see the doctor"
+     },
+     {
+      "en": "The doctor said I should rest and drink lots of water.",
+      "ko": "의사 선생님이 쉬면서 물을 많이 마시라고 하셨어.",
+      "focus": "The doctor said"
+     }
+    ],
+    "collocations": [
+     "see a doctor",
+     "go to the doctor",
+     "the doctor's office"
+    ]
+   }
+  ]
+ },
+ {
+  "id": "bus",
+  "headword": "bus",
+  "ipa": "/bʌs/",
+  "level": "PRE",
+  "isCore": false,
+  "topic": "travel_transport",
+  "forms": [
+   "bused",
+   "buses",
+   "busing"
+  ],
+  "senses": [
+   {
+    "id": "bus-1",
+    "pos": "n",
+    "ko": "버스",
+    "en": "a large road vehicle that carries many people",
+    "nuance": "'버스를 타다'는 take the bus 또는 get on the bus, 방법을 말할 때는 by bus(관사 없음)다.",
+    "examples": [
+     {
+      "en": "I take the bus to school when it's raining.",
+      "ko": "비 오는 날엔 버스 타고 학교에 가.",
+      "focus": "take the bus"
+     },
+     {
+      "en": "Hurry up! The bus is coming, and it won't wait.",
+      "ko": "서둘러! 버스가 오는데, 기다려 주지 않아.",
+      "focus": "The bus is coming"
+     }
+    ],
+    "collocations": [
+     "take the bus",
+     "by bus",
+     "get on the bus"
+    ]
+   }
+  ]
+ },
+ {
+  "id": "brother",
+  "headword": "brother",
+  "ipa": "/ˈbrʌðər/",
+  "level": "PRE",
+  "isCore": false,
+  "topic": "people_family",
+  "forms": [
+   "brothers"
+  ],
+  "senses": [
+   {
+    "id": "brother-1",
+    "pos": "n",
+    "ko": "형, 오빠, 남동생",
+    "en": "a boy or man who has the same parents as you",
+    "nuance": "형·오빠·남동생을 모두 brother라고 한다. 구별하려면 older/big brother, younger/little brother로 말한다.",
+    "examples": [
+     {
+      "en": "My big brother helps me with my math homework.",
+      "ko": "우리 형이 수학 숙제를 도와줘.",
+      "focus": "My big brother"
+     },
+     {
+      "en": "Do you have any brothers or sisters? I have one sister.",
+      "ko": "형제나 자매 있어? 나는 여동생 한 명 있어.",
+      "focus": "brothers or sisters"
+     }
+    ],
+    "collocations": [
+     "big brother",
+     "little brother",
+     "brothers and sisters"
+    ]
+   }
+  ],
+  "confusables": [
+   {
+    "word": "bother",
+    "note": "bother(귀찮게 하다)와 철자가 비슷하다. brother에는 r이 두 개"
+   }
+  ]
+ },
+ {
+  "id": "box",
+  "headword": "box",
+  "ipa": "/bɑːks/",
+  "level": "PRE",
+  "isCore": false,
+  "topic": "home_daily",
+  "forms": [
+   "boxed",
+   "boxes",
+   "boxing"
+  ],
+  "senses": [
+   {
+    "id": "box-1",
+    "pos": "n",
+    "ko": "상자, 박스",
+    "en": "a square container that you keep or carry things in",
+    "nuance": "복수는 boxs가 아니라 boxes다. 도시락은 lunch box, 상자 하나 가득은 a box of ~로 말한다.",
+    "examples": [
+     {
+      "en": "Put your toys back in the box when you finish.",
+      "ko": "다 놀면 장난감을 상자에 다시 넣어 둬.",
+      "focus": "in the box"
+     },
+     {
+      "en": "A big box came in the mail. I wonder what's inside!",
+      "ko": "택배로 큰 상자가 왔어. 안에 뭐가 들었을까!",
+      "focus": "A big box"
+     }
+    ],
+    "collocations": [
+     "a box of",
+     "lunch box",
+     "open the box"
+    ]
+   }
+  ]
+ },
+ {
+  "id": "baby",
+  "headword": "baby",
+  "ipa": "/ˈbeɪbi/",
+  "level": "PRE",
+  "isCore": false,
+  "topic": "people_family",
+  "forms": [
+   "babied",
+   "babies",
+   "babying"
+  ],
+  "senses": [
+   {
+    "id": "baby-1",
+    "pos": "n",
+    "ko": "아기",
+    "en": "a very young child who cannot walk or talk yet",
+    "nuance": "'아기를 낳다'는 have a baby다. 아기 동물도 baby + 동물(baby bird)로 말한다.",
+    "examples": [
+     {
+      "en": "Shh, the baby is sleeping. Please talk quietly.",
+      "ko": "쉿, 아기가 자고 있어. 조용히 말해 줘.",
+      "focus": "the baby is sleeping"
+     },
+     {
+      "en": "Emma's mom just had a baby, so Emma is a big sister now.",
+      "ko": "엠마 엄마가 아기를 낳아서 엠마는 이제 언니가 됐어.",
+      "focus": "had a baby"
+     }
+    ],
+    "collocations": [
+     "have a baby",
+     "a baby girl",
+     "a crying baby"
+    ]
+   }
+  ]
+ },
+ {
+  "id": "sing",
+  "headword": "sing",
+  "ipa": "/sɪŋ/",
+  "level": "PRE",
+  "isCore": false,
+  "topic": "culture_arts",
+  "forms": [
+   "sang",
+   "singing",
+   "sings",
+   "sung"
+  ],
+  "senses": [
+   {
+    "id": "sing-1",
+    "pos": "v",
+    "ko": "노래하다, 노래 부르다",
+    "en": "to make music with your voice",
+    "nuance": "sing a song처럼 노래를 목적어로 쓰거나, sing만으로도 '노래하다'가 된다. 과거형은 sang, 과거분사는 sung.",
+    "examples": [
+     {
+      "en": "Mina can sing really well, so she's in the school choir.",
+      "ko": "미나는 노래를 정말 잘해서 학교 합창단에 있어.",
+      "focus": "can sing"
+     },
+     {
+      "en": "We sang 'Happy Birthday' and then cut the cake.",
+      "ko": "우리는 생일 축하 노래를 부르고 케이크를 잘랐어.",
+      "focus": "sang 'Happy Birthday'"
+     }
+    ],
+    "collocations": [
+     "sing a song",
+     "sing along",
+     "sing loudly"
+    ]
+   }
+  ],
+  "wordFamily": [
+   {
+    "form": "singer",
+    "pos": "n",
+    "ko": "가수"
+   },
+   {
+    "form": "song",
+    "pos": "n",
+    "ko": "노래"
+   }
+  ]
+ },
+ {
+  "id": "hot",
+  "headword": "hot",
+  "ipa": "/hɑːt/",
+  "level": "PRE",
+  "isCore": false,
+  "topic": "description_quality",
+  "forms": [
+   "hots",
+   "hotter",
+   "hottest"
+  ],
+  "senses": [
+   {
+    "id": "hot-1",
+    "pos": "adj",
+    "ko": "더운, 뜨거운",
+    "en": "having a high temperature; not cold",
+    "nuance": "'덥다'와 '뜨겁다' 모두 hot이다. 몸에 열이 있을 때는 hot이 아니라 have a fever라고 한다.",
+    "examples": [
+     {
+      "en": "It's really hot today. Let's get some ice cream.",
+      "ko": "오늘 진짜 덥다. 아이스크림 먹자.",
+      "focus": "really hot"
+     },
+     {
+      "en": "Careful, the soup is very hot. Blow on it first.",
+      "ko": "조심해, 국이 아주 뜨거워. 먼저 후 불어.",
+      "focus": "very hot"
+     }
+    ],
+    "collocations": [
+     "hot weather",
+     "hot water"
+    ]
+   },
+   {
+    "id": "hot-2",
+    "pos": "adj",
+    "ko": "매운",
+    "en": "having a strong, burning taste, like chili",
+    "nuance": "'맵다'는 hot 또는 spicy다. 뜨겁다는 뜻과 헷갈릴 때는 spicy를 쓰면 분명하다.",
+    "examples": [
+     {
+      "en": "This kimchi is too hot for me. Can I have water?",
+      "ko": "이 김치는 나한테 너무 매워. 물 좀 줄래?",
+      "focus": "too hot"
+     }
+    ],
+    "collocations": [
+     "hot and spicy"
+    ]
+   }
+  ],
+  "confusables": [
+   {
+    "word": "warm",
+    "note": "warm은 기분 좋게 따뜻한 정도, hot은 뜨겁거나 더운 강한 정도"
+   }
+  ]
+ },
+ {
+  "id": "dog",
+  "headword": "dog",
+  "ipa": "/dɔːɡ/",
+  "level": "PRE",
+  "isCore": false,
+  "topic": "nature_animals",
+  "forms": [
+   "dogged",
+   "dogging",
+   "dogs"
+  ],
+  "senses": [
+   {
+    "id": "dog-1",
+    "pos": "n",
+    "ko": "개, 강아지",
+    "en": "an animal with four legs that people keep as a pet",
+    "nuance": "어린 개는 puppy, 개 일반은 dog다. '개를 산책시키다'는 walk the dog이다.",
+    "examples": [
+     {
+      "en": "I walk my dog in the park every morning.",
+      "ko": "나는 매일 아침 공원에서 개를 산책시켜.",
+      "focus": "walk my dog"
+     },
+     {
+      "en": "Tom's dog barks every time the doorbell rings.",
+      "ko": "톰네 개는 초인종이 울릴 때마다 짖어.",
+      "focus": "Tom's dog"
+     }
+    ],
+    "collocations": [
+     "walk the dog",
+     "a pet dog",
+     "feed the dog"
+    ]
+   }
+  ],
+  "confusables": [
+   {
+    "word": "puppy",
+    "note": "puppy는 어린 강아지, dog은 나이와 상관없는 개 전체"
+   }
+  ]
+ }
+]

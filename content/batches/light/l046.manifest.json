@@ -1,0 +1,1098 @@
+{
+  "batch": "l046",
+  "kind": "light",
+  "levels": [
+    "HIGH"
+  ],
+  "count": 60,
+  "entries": [
+    {
+      "id": "conceal",
+      "headword": "conceal",
+      "level": "HIGH",
+      "isCore": false,
+      "pos_hint": [
+        "v"
+      ],
+      "forms": [
+        "concealed",
+        "concealing",
+        "conceals"
+      ],
+      "cefr": "B2",
+      "freqRank": null,
+      "confusable_candidates": [
+        "cancel",
+        "conceive",
+        "concentrate",
+        "concentration",
+        "concept",
+        "concern"
+      ]
+    },
+    {
+      "id": "confess",
+      "headword": "confess",
+      "level": "HIGH",
+      "isCore": false,
+      "pos_hint": [
+        "v"
+      ],
+      "forms": [],
+      "cefr": "B2",
+      "freqRank": null,
+      "confusable_candidates": [
+        "confer",
+        "conference",
+        "confuse",
+        "congress",
+        "contest"
+      ]
+    },
+    {
+      "id": "confine",
+      "headword": "confine",
+      "level": "HIGH",
+      "isCore": false,
+      "pos_hint": [
+        "v"
+      ],
+      "forms": [
+        "confined",
+        "confines",
+        "confining"
+      ],
+      "cefr": "B2",
+      "freqRank": null,
+      "confusable_candidates": [
+        "combine",
+        "confidence",
+        "confident",
+        "confirm",
+        "confuse",
+        "continue"
+      ]
+    },
+    {
+      "id": "conform",
+      "headword": "conform",
+      "level": "HIGH",
+      "isCore": false,
+      "pos_hint": [],
+      "forms": [
+        "conformed",
+        "conforming",
+        "conforms"
+      ],
+      "cefr": null,
+      "freqRank": null,
+      "confusable_candidates": [
+        "comfort",
+        "confer",
+        "confirm",
+        "inform"
+      ]
+    },
+    {
+      "id": "confront",
+      "headword": "confront",
+      "level": "HIGH",
+      "isCore": false,
+      "pos_hint": [
+        "v"
+      ],
+      "forms": [
+        "confronted",
+        "confronting",
+        "confronts"
+      ],
+      "cefr": "B2",
+      "freqRank": null,
+      "confusable_candidates": []
+    },
+    {
+      "id": "congress",
+      "headword": "congress",
+      "level": "HIGH",
+      "isCore": false,
+      "pos_hint": [],
+      "forms": [],
+      "cefr": null,
+      "freqRank": null,
+      "confusable_candidates": [
+        "confess",
+        "congratulate"
+      ]
+    },
+    {
+      "id": "conscience",
+      "headword": "conscience",
+      "level": "HIGH",
+      "isCore": false,
+      "pos_hint": [
+        "n"
+      ],
+      "forms": [],
+      "cefr": "B2",
+      "freqRank": null,
+      "confusable_candidates": [
+        "conscious"
+      ]
+    },
+    {
+      "id": "conscious",
+      "headword": "conscious",
+      "level": "HIGH",
+      "isCore": false,
+      "pos_hint": [
+        "adj"
+      ],
+      "forms": [],
+      "cefr": "B1",
+      "freqRank": null,
+      "confusable_candidates": [
+        "conscience"
+      ]
+    },
+    {
+      "id": "controversy",
+      "headword": "controversy",
+      "level": "HIGH",
+      "isCore": false,
+      "pos_hint": [
+        "n"
+      ],
+      "forms": [
+        "controversies"
+      ],
+      "cefr": "B2",
+      "freqRank": null,
+      "confusable_candidates": [
+        "contract",
+        "contractor",
+        "contradict",
+        "contrary",
+        "contrast",
+        "contribute"
+      ]
+    },
+    {
+      "id": "convict",
+      "headword": "convict",
+      "level": "HIGH",
+      "isCore": false,
+      "pos_hint": [],
+      "forms": [
+        "convicted",
+        "convicting",
+        "convicts"
+      ],
+      "cefr": null,
+      "freqRank": null,
+      "confusable_candidates": [
+        "conduct",
+        "conflict",
+        "connect",
+        "consist",
+        "contact",
+        "convert"
+      ]
+    },
+    {
+      "id": "cooperate",
+      "headword": "cooperate",
+      "level": "HIGH",
+      "isCore": false,
+      "pos_hint": [
+        "v"
+      ],
+      "forms": [],
+      "cefr": "B2",
+      "freqRank": null,
+      "confusable_candidates": [
+        "cooperation",
+        "corporate"
+      ]
+    },
+    {
+      "id": "cord",
+      "headword": "cord",
+      "level": "HIGH",
+      "isCore": false,
+      "pos_hint": [
+        "n"
+      ],
+      "forms": [
+        "cords"
+      ],
+      "cefr": null,
+      "freqRank": null,
+      "confusable_candidates": [
+        "bird",
+        "board",
+        "bold",
+        "bond",
+        "bore",
+        "car"
+      ]
+    },
+    {
+      "id": "corrupt",
+      "headword": "corrupt",
+      "level": "HIGH",
+      "isCore": false,
+      "pos_hint": [
+        "adj"
+      ],
+      "forms": [
+        "corrupter"
+      ],
+      "cefr": "B2",
+      "freqRank": null,
+      "confusable_candidates": [
+        "correct"
+      ]
+    },
+    {
+      "id": "costume",
+      "headword": "costume",
+      "level": "HIGH",
+      "isCore": false,
+      "pos_hint": [
+        "n"
+      ],
+      "forms": [],
+      "cefr": "B2",
+      "freqRank": null,
+      "confusable_candidates": [
+        "consume"
+      ]
+    },
+    {
+      "id": "cottage",
+      "headword": "cottage",
+      "level": "HIGH",
+      "isCore": false,
+      "pos_hint": [
+        "n"
+      ],
+      "forms": [],
+      "cefr": "B2",
+      "freqRank": null,
+      "confusable_candidates": [
+        "courage",
+        "hostage"
+      ]
+    },
+    {
+      "id": "courage",
+      "headword": "courage",
+      "level": "HIGH",
+      "isCore": false,
+      "pos_hint": [
+        "n"
+      ],
+      "forms": [],
+      "cefr": "B1",
+      "freqRank": null,
+      "confusable_candidates": [
+        "cottage",
+        "course",
+        "coverage",
+        "outrage"
+      ]
+    },
+    {
+      "id": "cowboy",
+      "headword": "cowboy",
+      "level": "HIGH",
+      "isCore": false,
+      "pos_hint": [],
+      "forms": [],
+      "cefr": null,
+      "freqRank": null,
+      "confusable_candidates": []
+    },
+    {
+      "id": "crawl",
+      "headword": "crawl",
+      "level": "HIGH",
+      "isCore": false,
+      "pos_hint": [
+        "v"
+      ],
+      "forms": [],
+      "cefr": "B2",
+      "freqRank": null,
+      "confusable_candidates": [
+        "call",
+        "coal",
+        "crack",
+        "craft",
+        "crash",
+        "crazy"
+      ]
+    },
+    {
+      "id": "credible",
+      "headword": "credible",
+      "level": "HIGH",
+      "isCore": false,
+      "pos_hint": [],
+      "forms": [],
+      "cefr": null,
+      "freqRank": null,
+      "confusable_candidates": [
+        "credit",
+        "credit card",
+        "creditor"
+      ]
+    },
+    {
+      "id": "cricket",
+      "headword": "cricket",
+      "level": "HIGH",
+      "isCore": false,
+      "pos_hint": [
+        "n"
+      ],
+      "forms": [],
+      "cefr": "A2",
+      "freqRank": null,
+      "confusable_candidates": [
+        "bracket",
+        "chicken",
+        "ticket"
+      ]
+    },
+    {
+      "id": "crisp",
+      "headword": "crisp",
+      "level": "HIGH",
+      "isCore": false,
+      "pos_hint": [
+        "n"
+      ],
+      "forms": [],
+      "cefr": "A2",
+      "freqRank": null,
+      "confusable_candidates": [
+        "arise",
+        "chip",
+        "clip",
+        "crash",
+        "creep",
+        "crime"
+      ]
+    },
+    {
+      "id": "cruel",
+      "headword": "cruel",
+      "level": "HIGH",
+      "isCore": false,
+      "pos_hint": [
+        "adj"
+      ],
+      "forms": [],
+      "cefr": "B1",
+      "freqRank": null,
+      "confusable_candidates": [
+        "clue",
+        "crawl",
+        "creek",
+        "creep",
+        "crew",
+        "crush"
+      ]
+    },
+    {
+      "id": "cruise",
+      "headword": "cruise",
+      "level": "HIGH",
+      "isCore": false,
+      "pos_hint": [
+        "n",
+        "v"
+      ],
+      "forms": [
+        "cruised",
+        "cruises",
+        "cruising"
+      ],
+      "cefr": "A2",
+      "freqRank": null,
+      "confusable_candidates": [
+        "arise",
+        "cause",
+        "course",
+        "crime",
+        "crisp",
+        "crush"
+      ]
+    },
+    {
+      "id": "crush",
+      "headword": "crush",
+      "level": "HIGH",
+      "isCore": false,
+      "pos_hint": [
+        "n"
+      ],
+      "forms": [
+        "crushes"
+      ],
+      "cefr": "B1",
+      "freqRank": null,
+      "confusable_candidates": [
+        "brush",
+        "bush",
+        "cash",
+        "cause",
+        "clash",
+        "couch"
+      ]
+    },
+    {
+      "id": "crystal",
+      "headword": "crystal",
+      "level": "HIGH",
+      "isCore": false,
+      "pos_hint": [
+        "n"
+      ],
+      "forms": [
+        "crystals"
+      ],
+      "cefr": null,
+      "freqRank": null,
+      "confusable_candidates": []
+    },
+    {
+      "id": "cultivate",
+      "headword": "cultivate",
+      "level": "HIGH",
+      "isCore": false,
+      "pos_hint": [
+        "v"
+      ],
+      "forms": [],
+      "cefr": "B1",
+      "freqRank": null,
+      "confusable_candidates": [
+        "ultimate"
+      ]
+    },
+    {
+      "id": "cupboard",
+      "headword": "cupboard",
+      "level": "HIGH",
+      "isCore": false,
+      "pos_hint": [
+        "n"
+      ],
+      "forms": [],
+      "cefr": "A2",
+      "freqRank": null,
+      "confusable_candidates": []
+    },
+    {
+      "id": "curl",
+      "headword": "curl",
+      "level": "HIGH",
+      "isCore": false,
+      "pos_hint": [
+        "n"
+      ],
+      "forms": [],
+      "cefr": "B2",
+      "freqRank": null,
+      "confusable_candidates": [
+        "bull",
+        "burn",
+        "bury",
+        "call",
+        "car",
+        "card"
+      ]
+    },
+    {
+      "id": "curry",
+      "headword": "curry",
+      "level": "HIGH",
+      "isCore": false,
+      "pos_hint": [
+        "n"
+      ],
+      "forms": [],
+      "cefr": "A2",
+      "freqRank": null,
+      "confusable_candidates": [
+        "berry",
+        "bury",
+        "carry",
+        "cure",
+        "curl",
+        "curse"
+      ]
+    },
+    {
+      "id": "dairy",
+      "headword": "dairy",
+      "level": "HIGH",
+      "isCore": false,
+      "pos_hint": [],
+      "forms": [],
+      "cefr": null,
+      "freqRank": null,
+      "confusable_candidates": [
+        "carry",
+        "daddy",
+        "daily",
+        "dare",
+        "dark",
+        "diary"
+      ]
+    },
+    {
+      "id": "dam",
+      "headword": "dam",
+      "level": "HIGH",
+      "isCore": false,
+      "pos_hint": [
+        "n"
+      ],
+      "forms": [],
+      "cefr": "A2",
+      "freqRank": null,
+      "confusable_candidates": []
+    },
+    {
+      "id": "damp",
+      "headword": "damp",
+      "level": "HIGH",
+      "isCore": false,
+      "pos_hint": [
+        "adj"
+      ],
+      "forms": [
+        "dampest"
+      ],
+      "cefr": "B1",
+      "freqRank": null,
+      "confusable_candidates": [
+        "bump",
+        "camp",
+        "cap",
+        "dad",
+        "dam",
+        "damn"
+      ]
+    },
+    {
+      "id": "darling",
+      "headword": "darling",
+      "level": "HIGH",
+      "isCore": false,
+      "pos_hint": [
+        "adj",
+        "n"
+      ],
+      "forms": [],
+      "cefr": "B2",
+      "freqRank": null,
+      "confusable_candidates": [
+        "dancing"
+      ]
+    },
+    {
+      "id": "dash",
+      "headword": "dash",
+      "level": "HIGH",
+      "isCore": false,
+      "pos_hint": [
+        "n",
+        "v"
+      ],
+      "forms": [
+        "dashed",
+        "dashes",
+        "dashing"
+      ],
+      "cefr": "B2",
+      "freqRank": null,
+      "confusable_candidates": [
+        "ash",
+        "ask",
+        "base",
+        "bath",
+        "bush",
+        "case"
+      ]
+    },
+    {
+      "id": "dawn",
+      "headword": "dawn",
+      "level": "HIGH",
+      "isCore": false,
+      "pos_hint": [
+        "n"
+      ],
+      "forms": [],
+      "cefr": "B2",
+      "freqRank": null,
+      "confusable_candidates": [
+        "ban",
+        "barn",
+        "dad",
+        "dam",
+        "damn",
+        "damp"
+      ]
+    },
+    {
+      "id": "decay",
+      "headword": "decay",
+      "level": "HIGH",
+      "isCore": false,
+      "pos_hint": [
+        "v"
+      ],
+      "forms": [
+        "decayed",
+        "decaying",
+        "decays"
+      ],
+      "cefr": "B2",
+      "freqRank": null,
+      "confusable_candidates": [
+        "dead",
+        "deal",
+        "dear",
+        "decade",
+        "deck",
+        "delay"
+      ]
+    },
+    {
+      "id": "deck",
+      "headword": "deck",
+      "level": "HIGH",
+      "isCore": false,
+      "pos_hint": [
+        "n"
+      ],
+      "forms": [],
+      "cefr": "B2",
+      "freqRank": null,
+      "confusable_candidates": [
+        "back",
+        "check",
+        "dark",
+        "dead",
+        "deal",
+        "dear"
+      ]
+    },
+    {
+      "id": "decorate",
+      "headword": "decorate",
+      "level": "HIGH",
+      "isCore": false,
+      "pos_hint": [
+        "v"
+      ],
+      "forms": [],
+      "cefr": "B2",
+      "freqRank": null,
+      "confusable_candidates": []
+    },
+    {
+      "id": "defendant",
+      "headword": "defendant",
+      "level": "HIGH",
+      "isCore": false,
+      "pos_hint": [],
+      "forms": [
+        "defendants"
+      ],
+      "cefr": null,
+      "freqRank": null,
+      "confusable_candidates": [
+        "defend",
+        "defense",
+        "dependent"
+      ]
+    },
+    {
+      "id": "definite",
+      "headword": "definite",
+      "level": "HIGH",
+      "isCore": false,
+      "pos_hint": [
+        "adj"
+      ],
+      "forms": [],
+      "cefr": "B1",
+      "freqRank": null,
+      "confusable_candidates": [
+        "deficit",
+        "define",
+        "definitely",
+        "definition"
+      ]
+    },
+    {
+      "id": "delete",
+      "headword": "delete",
+      "level": "HIGH",
+      "isCore": false,
+      "pos_hint": [
+        "v"
+      ],
+      "forms": [
+        "deleted",
+        "deletes",
+        "deleting"
+      ],
+      "cefr": "B1",
+      "freqRank": null,
+      "confusable_candidates": [
+        "debate",
+        "devote",
+        "relate"
+      ]
+    },
+    {
+      "id": "delicate",
+      "headword": "delicate",
+      "level": "HIGH",
+      "isCore": false,
+      "pos_hint": [
+        "adj"
+      ],
+      "forms": [],
+      "cefr": "B1",
+      "freqRank": null,
+      "confusable_candidates": [
+        "dedicate",
+        "delegate",
+        "delicious"
+      ]
+    },
+    {
+      "id": "democrat",
+      "headword": "democrat",
+      "level": "HIGH",
+      "isCore": false,
+      "pos_hint": [],
+      "forms": [],
+      "cefr": null,
+      "freqRank": null,
+      "confusable_candidates": [
+        "democracy",
+        "democratic"
+      ]
+    },
+    {
+      "id": "demon",
+      "headword": "demon",
+      "level": "HIGH",
+      "isCore": false,
+      "pos_hint": [],
+      "forms": [],
+      "cefr": null,
+      "freqRank": null,
+      "confusable_candidates": [
+        "damn",
+        "demand"
+      ]
+    },
+    {
+      "id": "dense",
+      "headword": "dense",
+      "level": "HIGH",
+      "isCore": false,
+      "pos_hint": [
+        "adj"
+      ],
+      "forms": [
+        "denser",
+        "densest"
+      ],
+      "cefr": "B2",
+      "freqRank": null,
+      "confusable_candidates": [
+        "cease",
+        "dance",
+        "deny",
+        "desk",
+        "devise",
+        "dine"
+      ]
+    },
+    {
+      "id": "dependence",
+      "headword": "dependence",
+      "level": "HIGH",
+      "isCore": false,
+      "pos_hint": [
+        "n"
+      ],
+      "forms": [
+        "dependences"
+      ],
+      "cefr": null,
+      "freqRank": null,
+      "confusable_candidates": [
+        "depend",
+        "dependent"
+      ]
+    },
+    {
+      "id": "descend",
+      "headword": "descend",
+      "level": "HIGH",
+      "isCore": false,
+      "pos_hint": [
+        "v"
+      ],
+      "forms": [],
+      "cefr": "B2",
+      "freqRank": null,
+      "confusable_candidates": [
+        "decent",
+        "defend",
+        "depend"
+      ]
+    },
+    {
+      "id": "despair",
+      "headword": "despair",
+      "level": "HIGH",
+      "isCore": false,
+      "pos_hint": [
+        "n"
+      ],
+      "forms": [],
+      "cefr": "B1",
+      "freqRank": null,
+      "confusable_candidates": [
+        "repair"
+      ]
+    },
+    {
+      "id": "destiny",
+      "headword": "destiny",
+      "level": "HIGH",
+      "isCore": false,
+      "pos_hint": [
+        "n"
+      ],
+      "forms": [],
+      "cefr": "B2",
+      "freqRank": null,
+      "confusable_candidates": [
+        "destination",
+        "destroy",
+        "testify"
+      ]
+    },
+    {
+      "id": "detach",
+      "headword": "detach",
+      "level": "HIGH",
+      "isCore": false,
+      "pos_hint": [
+        "v"
+      ],
+      "forms": [],
+      "cefr": "B2",
+      "freqRank": null,
+      "confusable_candidates": [
+        "attach",
+        "beach",
+        "death",
+        "detail",
+        "detect",
+        "reach"
+      ]
+    },
+    {
+      "id": "devil",
+      "headword": "devil",
+      "level": "HIGH",
+      "isCore": false,
+      "pos_hint": [
+        "n"
+      ],
+      "forms": [],
+      "cefr": "B2",
+      "freqRank": null,
+      "confusable_candidates": [
+        "civil",
+        "deal",
+        "debit",
+        "detail",
+        "device",
+        "devise"
+      ]
+    },
+    {
+      "id": "devise",
+      "headword": "devise",
+      "level": "HIGH",
+      "isCore": false,
+      "pos_hint": [],
+      "forms": [
+        "devised",
+        "devises",
+        "devising"
+      ],
+      "cefr": null,
+      "freqRank": null,
+      "confusable_candidates": [
+        "advise",
+        "decide",
+        "define",
+        "dense",
+        "derive",
+        "desire"
+      ]
+    },
+    {
+      "id": "diminish",
+      "headword": "diminish",
+      "level": "HIGH",
+      "isCore": false,
+      "pos_hint": [],
+      "forms": [
+        "diminished",
+        "diminishes",
+        "diminishing"
+      ],
+      "cefr": null,
+      "freqRank": null,
+      "confusable_candidates": []
+    },
+    {
+      "id": "dip",
+      "headword": "dip",
+      "level": "HIGH",
+      "isCore": false,
+      "pos_hint": [
+        "v"
+      ],
+      "forms": [
+        "dipped",
+        "dipping",
+        "dips"
+      ],
+      "cefr": "B2",
+      "freqRank": null,
+      "confusable_candidates": []
+    },
+    {
+      "id": "diplomat",
+      "headword": "diplomat",
+      "level": "HIGH",
+      "isCore": false,
+      "pos_hint": [
+        "n"
+      ],
+      "forms": [
+        "diplomats"
+      ],
+      "cefr": "B2",
+      "freqRank": null,
+      "confusable_candidates": []
+    },
+    {
+      "id": "disabled",
+      "headword": "disabled",
+      "level": "HIGH",
+      "isCore": false,
+      "pos_hint": [
+        "adj"
+      ],
+      "forms": [],
+      "cefr": "B1",
+      "freqRank": null,
+      "confusable_candidates": [
+        "disability"
+      ]
+    },
+    {
+      "id": "disclose",
+      "headword": "disclose",
+      "level": "HIGH",
+      "isCore": false,
+      "pos_hint": [],
+      "forms": [
+        "disclosed",
+        "discloses",
+        "disclosing"
+      ],
+      "cefr": null,
+      "freqRank": null,
+      "confusable_candidates": [
+        "disclosure",
+        "dispose"
+      ]
+    },
+    {
+      "id": "disgust",
+      "headword": "disgust",
+      "level": "HIGH",
+      "isCore": false,
+      "pos_hint": [],
+      "forms": [],
+      "cefr": null,
+      "freqRank": null,
+      "confusable_candidates": [
+        "discuss",
+        "disrupt"
+      ]
+    },
+    {
+      "id": "dispose",
+      "headword": "dispose",
+      "level": "HIGH",
+      "isCore": false,
+      "pos_hint": [],
+      "forms": [
+        "disposed",
+        "disposes",
+        "disposing"
+      ],
+      "cefr": null,
+      "freqRank": null,
+      "confusable_candidates": [
+        "disclose",
+        "disease",
+        "disposal",
+        "dispute",
+        "impose"
+      ]
+    },
+    {
+      "id": "distract",
+      "headword": "distract",
+      "level": "HIGH",
+      "isCore": false,
+      "pos_hint": [
+        "v"
+      ],
+      "forms": [],
+      "cefr": "B2",
+      "freqRank": null,
+      "confusable_candidates": [
+        "abstract",
+        "distant",
+        "distinct",
+        "distribute",
+        "distribution",
+        "district"
+      ]
+    }
+  ]
+}

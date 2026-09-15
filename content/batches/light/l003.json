@@ -1,0 +1,2394 @@
+[
+ {
+  "id": "wet",
+  "headword": "wet",
+  "ipa": "/wet/",
+  "level": "PRE",
+  "isCore": false,
+  "topic": "description_quality",
+  "forms": [
+   "wetter",
+   "wettest"
+  ],
+  "senses": [
+   {
+    "id": "wet-1",
+    "pos": "adj",
+    "ko": "젖은",
+    "en": "covered in water or another liquid; not dry",
+    "nuance": "'비 맞아서 젖었어'처럼 젖는 과정은 get wet, 젖어 있는 상태는 be wet으로 말한다. 흠뻑 젖었을 때는 soaking wet.",
+    "pattern": "get wet / be wet",
+    "examples": [
+     {
+      "en": "Take an umbrella, or you'll get wet on the way home.",
+      "ko": "우산 가져가, 안 그러면 집에 가는 길에 젖어.",
+      "focus": "get wet"
+     },
+     {
+      "en": "My hair is still wet, so give me five more minutes.",
+      "ko": "머리가 아직 젖어서 5분만 더 줘.",
+      "focus": "still wet"
+     }
+    ],
+    "collocations": [
+     "get wet",
+     "wet hair",
+     "wet paint"
+    ]
+   }
+  ]
+ },
+ {
+  "id": "cloud",
+  "headword": "cloud",
+  "ipa": "/klaʊd/",
+  "level": "PRE",
+  "isCore": false,
+  "topic": "nature_animals",
+  "forms": [
+   "clouds"
+  ],
+  "senses": [
+   {
+    "id": "cloud-1",
+    "pos": "n",
+    "ko": "구름",
+    "en": "a white or gray shape in the sky, made of tiny drops of water",
+    "nuance": "구름이 많다는 There are a lot of clouds, 날씨가 흐리다는 It's cloudy로 구분한다. 먹구름은 dark clouds.",
+    "examples": [
+     {
+      "en": "Look at those dark clouds. I think it's going to rain.",
+      "ko": "저 먹구름 좀 봐. 비 올 것 같아.",
+      "focus": "dark clouds"
+     },
+     {
+      "en": "There wasn't a single cloud in the sky this morning.",
+      "ko": "오늘 아침엔 하늘에 구름 한 점 없었어.",
+      "focus": "a single cloud"
+     }
+    ],
+    "collocations": [
+     "dark clouds"
+    ]
+   },
+   {
+    "id": "cloud-2",
+    "pos": "n",
+    "ko": "클라우드, 온라인 저장 공간",
+    "en": "a service that keeps your files on the internet, not on your device",
+    "nuance": "항상 the cloud처럼 the를 붙인다. 저장은 save to the cloud, 올리기는 upload to the cloud.",
+    "pattern": "save + 명사 + to the cloud",
+    "examples": [
+     {
+      "en": "I save all my photos to the cloud, so I never lose them.",
+      "ko": "사진은 다 클라우드에 저장해서 잃어버릴 일이 없어.",
+      "focus": "to the cloud"
+     }
+    ],
+    "collocations": [
+     "save to the cloud"
+    ]
+   }
+  ],
+  "wordFamily": [
+   {
+    "form": "cloudy",
+    "pos": "adj",
+    "ko": "흐린, 구름 낀"
+   }
+  ],
+  "confusables": [
+   {
+    "word": "crowd",
+    "note": "l과 r 발음 차이로 헷갈린다. cloud /klaʊd/는 구름, crowd /kraʊd/는 사람들이 모인 무리"
+   }
+  ]
+ },
+ {
+  "id": "nose",
+  "headword": "nose",
+  "ipa": "/noʊz/",
+  "level": "PRE",
+  "isCore": false,
+  "topic": "body_health",
+  "forms": [
+   "noses"
+  ],
+  "senses": [
+   {
+    "id": "nose-1",
+    "pos": "n",
+    "ko": "코",
+    "en": "the part of your face you breathe and smell with",
+    "nuance": "코를 풀다는 blow your nose, 코가 흐르다는 my nose is running이나 have a runny nose. 코피는 nosebleed다.",
+    "examples": [
+     {
+      "en": "Blow your nose, and then wash your hands, please.",
+      "ko": "코 풀고 나서 손 씻으렴.",
+      "focus": "Blow your nose"
+     },
+     {
+      "en": "I have a cold, so my nose is running all day.",
+      "ko": "감기 걸려서 하루 종일 코가 흘러.",
+      "focus": "my nose is running"
+     }
+    ],
+    "collocations": [
+     "blow your nose",
+     "a runny nose"
+    ]
+   }
+  ]
+ },
+ {
+  "id": "mom",
+  "headword": "mom",
+  "ipa": "/mɑːm/",
+  "level": "PRE",
+  "isCore": false,
+  "topic": "people_family",
+  "forms": [
+   "moms"
+  ],
+  "senses": [
+   {
+    "id": "mom-1",
+    "pos": "n",
+    "ko": "엄마",
+    "en": "an informal word for your mother, used mainly in American English",
+    "nuance": "자기 엄마를 부르거나 가리킬 때는 my 없이 대문자 Mom으로 쓴다. 영국에서는 mum, 격식체는 mother.",
+    "examples": [
+     {
+      "en": "Mom, can you pick me up after school today?",
+      "ko": "엄마, 오늘 학교 끝나고 데리러 와 줄 수 있어?",
+      "focus": "Mom"
+     },
+     {
+      "en": "My mom calls me every Sunday night to say hi.",
+      "ko": "우리 엄마는 일요일 밤마다 안부 전화를 하셔.",
+      "focus": "My mom"
+     }
+    ],
+    "collocations": [
+     "my mom",
+     "mom and dad"
+    ]
+   }
+  ]
+ },
+ {
+  "id": "cake",
+  "headword": "cake",
+  "ipa": "/keɪk/",
+  "level": "PRE",
+  "isCore": false,
+  "topic": "food_cooking",
+  "forms": [
+   "cakes"
+  ],
+  "senses": [
+   {
+    "id": "cake-1",
+    "pos": "n",
+    "ko": "케이크",
+    "en": "a sweet food made from flour, eggs, sugar, and butter, baked in an oven",
+    "nuance": "통째 하나는 a cake, 한 조각은 a piece of cake다. a piece of cake는 '아주 쉬운 일'이라는 표현으로도 자주 쓴다.",
+    "examples": [
+     {
+      "en": "We baked a chocolate cake for Emma's birthday last night.",
+      "ko": "어젯밤에 엠마 생일이라 초콜릿 케이크를 구웠어.",
+      "focus": "baked a chocolate cake"
+     },
+     {
+      "en": "Would you like another piece of cake with your coffee?",
+      "ko": "커피랑 케이크 한 조각 더 드실래요?",
+      "focus": "piece of cake"
+     }
+    ],
+    "collocations": [
+     "bake a cake",
+     "a piece of cake",
+     "birthday cake"
+    ]
+   }
+  ]
+ },
+ {
+  "id": "pink",
+  "headword": "pink",
+  "ipa": "/pɪŋk/",
+  "level": "PRE",
+  "isCore": false,
+  "topic": "description_quality",
+  "forms": [
+   "pinker",
+   "pinkest",
+   "pinks"
+  ],
+  "senses": [
+   {
+    "id": "pink-1",
+    "pos": "adj",
+    "ko": "분홍색의, 핑크색의",
+    "en": "having a pale red color, like many flowers",
+    "nuance": "색 이름은 명사로도 쓴다. I like pink처럼 관사 없이 쓰고, 핑크색 옷을 입었다는 in pink로 말한다.",
+    "examples": [
+     {
+      "en": "Mina painted her bedroom walls light pink last weekend.",
+      "ko": "미나가 지난 주말에 방 벽을 연한 핑크색으로 칠했어.",
+      "focus": "light pink"
+     },
+     {
+      "en": "The cherry trees along the river are all pink now.",
+      "ko": "강가 벚나무가 지금 다 분홍빛이야.",
+      "focus": "all pink"
+     }
+    ],
+    "collocations": [
+     "light pink",
+     "bright pink",
+     "in pink"
+    ]
+   }
+  ]
+ },
+ {
+  "id": "loud",
+  "headword": "loud",
+  "ipa": "/laʊd/",
+  "level": "PRE",
+  "isCore": false,
+  "topic": "description_quality",
+  "forms": [
+   "louder",
+   "loudest"
+  ],
+  "senses": [
+   {
+    "id": "loud-1",
+    "pos": "adj",
+    "ko": "소리가 큰, 시끄러운",
+    "en": "making a lot of noise; easy to hear",
+    "nuance": "형용사가 기본이지만 구어에서는 speak louder, say it out loud처럼 부사로도 쓴다. 격식체 부사는 loudly.",
+    "pattern": "too loud / speak louder",
+    "examples": [
+     {
+      "en": "Can you turn the music down? It's too loud.",
+      "ko": "음악 소리 좀 줄여 줄래? 너무 커.",
+      "focus": "too loud"
+     },
+     {
+      "en": "Please speak a little louder. I can't hear you.",
+      "ko": "조금만 더 크게 말해 주세요. 잘 안 들려요.",
+      "focus": "speak a little louder"
+     }
+    ],
+    "collocations": [
+     "loud music",
+     "a loud noise",
+     "out loud"
+    ]
+   }
+  ],
+  "wordFamily": [
+   {
+    "form": "loudly",
+    "pos": "adv",
+    "ko": "큰 소리로"
+   }
+  ],
+  "confusables": [
+   {
+    "word": "aloud",
+    "note": "aloud는 read aloud처럼 '소리 내어'라는 부사, loud는 '소리가 큰' 형용사. 구어에서는 out loud를 더 쓴다"
+   }
+  ]
+ },
+ {
+  "id": "dirty",
+  "headword": "dirty",
+  "ipa": "/ˈdɜːrti/",
+  "level": "PRE",
+  "isCore": false,
+  "topic": "description_quality",
+  "forms": [
+   "dirtier",
+   "dirtiest"
+  ],
+  "senses": [
+   {
+    "id": "dirty-1",
+    "pos": "adj",
+    "ko": "더러운, 지저분한",
+    "en": "not clean; covered with mud, dust, or food",
+    "nuance": "'더러워지다'는 get dirty, '더럽히다'는 make something dirty. 설거지거리는 dirty dishes라고 한다.",
+    "pattern": "get dirty",
+    "examples": [
+     {
+      "en": "Don't sit on the floor in your white pants. It's dirty.",
+      "ko": "흰 바지 입고 바닥에 앉지 마. 더러워.",
+      "focus": "It's dirty"
+     },
+     {
+      "en": "The dirty dishes are still in the sink from last night.",
+      "ko": "어젯밤 설거지거리가 아직 싱크대에 그대로 있어.",
+      "focus": "dirty dishes"
+     }
+    ],
+    "collocations": [
+     "get dirty",
+     "dirty dishes",
+     "dirty clothes"
+    ]
+   }
+  ],
+  "wordFamily": [
+   {
+    "form": "dirt",
+    "pos": "n",
+    "ko": "흙, 먼지"
+   }
+  ]
+ },
+ {
+  "id": "bread",
+  "headword": "bread",
+  "ipa": "/bred/",
+  "level": "PRE",
+  "isCore": false,
+  "topic": "food_cooking",
+  "forms": [
+   "breads"
+  ],
+  "senses": [
+   {
+    "id": "bread-1",
+    "pos": "n",
+    "ko": "빵",
+    "en": "a basic food made from flour and water and baked in an oven",
+    "nuance": "셀 수 없는 명사라 a bread라고 하지 않는다. 한 덩이는 a loaf of bread, 한 장은 a slice of bread.",
+    "examples": [
+     {
+      "en": "Can you pick up a loaf of bread on your way home?",
+      "ko": "집에 오는 길에 빵 한 덩이 사 올 수 있어?",
+      "focus": "a loaf of bread"
+     },
+     {
+      "en": "I had two slices of bread with butter this morning.",
+      "ko": "오늘 아침엔 빵 두 장에 버터 발라 먹었어.",
+      "focus": "slices of bread"
+     }
+    ],
+    "collocations": [
+     "a loaf of bread",
+     "a slice of bread",
+     "bread and butter"
+    ]
+   }
+  ]
+ },
+ {
+  "id": "pen",
+  "headword": "pen",
+  "ipa": "/pen/",
+  "level": "PRE",
+  "isCore": false,
+  "topic": "school_learning",
+  "forms": [
+   "pens"
+  ],
+  "senses": [
+   {
+    "id": "pen-1",
+    "pos": "n",
+    "ko": "펜, 볼펜",
+    "en": "a thin tool with ink inside that you write with",
+    "nuance": "'펜으로 쓰다'는 write in pen 또는 write with a pen. 볼펜은 ballpoint pen이지만 보통 그냥 pen이라고 한다.",
+    "examples": [
+     {
+      "en": "Do you have a pen? I need to sign this.",
+      "ko": "펜 있어? 여기 서명해야 해서.",
+      "focus": "have a pen"
+     },
+     {
+      "en": "Please fill out the form in pen, not pencil.",
+      "ko": "이 서류는 연필 말고 펜으로 작성해 주세요.",
+      "focus": "in pen"
+     }
+    ],
+    "collocations": [
+     "a ballpoint pen",
+     "pen and paper",
+     "in pen"
+    ]
+   }
+  ]
+ },
+ {
+  "id": "chicken",
+  "headword": "chicken",
+  "ipa": "/ˈtʃɪkɪn/",
+  "level": "PRE",
+  "isCore": false,
+  "topic": "food_cooking",
+  "forms": [
+   "chickens"
+  ],
+  "senses": [
+   {
+    "id": "chicken-1",
+    "pos": "n",
+    "ko": "닭고기, 치킨",
+    "en": "the meat of a common farm bird, eaten as food",
+    "nuance": "고기는 셀 수 없어 some chicken, a piece of chicken. 한국어 '치킨'은 튀긴 것만 뜻하지만 영어 chicken은 모든 닭고기 요리다.",
+    "examples": [
+     {
+      "en": "Let's order some fried chicken and watch the game tonight.",
+      "ko": "오늘 밤에 치킨 시켜서 경기 보자.",
+      "focus": "fried chicken"
+     },
+     {
+      "en": "My grandmother's chicken soup always makes me feel better.",
+      "ko": "할머니가 끓여 주신 닭고기 수프를 먹으면 항상 기운이 나.",
+      "focus": "chicken soup"
+     }
+    ],
+    "collocations": [
+     "fried chicken",
+     "chicken soup",
+     "roast chicken"
+    ]
+   },
+   {
+    "id": "chicken-2",
+    "pos": "n",
+    "ko": "닭",
+    "en": "a farm bird kept for its eggs and meat",
+    "examples": [
+     {
+      "en": "Tom's uncle keeps about twenty chickens on his farm.",
+      "ko": "톰 삼촌은 농장에서 닭을 스무 마리쯤 키워.",
+      "focus": "twenty chickens"
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "id": "march",
+  "headword": "march",
+  "ipa": "/mɑːrtʃ/",
+  "level": "PRE",
+  "isCore": false,
+  "topic": "time_quantity",
+  "forms": [
+   "marched",
+   "marches",
+   "marching",
+   "marchings",
+   "marchs"
+  ],
+  "senses": [
+   {
+    "id": "march-1",
+    "pos": "n",
+    "ko": "3월",
+    "en": "the third month of the year, between February and April",
+    "nuance": "달 이름은 항상 대문자 March로 쓰고, '3월에'는 in March. 소문자 march는 '행진하다'라는 동사다.",
+    "pattern": "in March / early March",
+    "examples": [
+     {
+      "en": "Spring starts in March, but it's still cold in Seoul.",
+      "ko": "3월에 봄이 시작되지만 서울은 아직 추워.",
+      "focus": "in March"
+     },
+     {
+      "en": "The new school year in Korea begins in early March.",
+      "ko": "한국은 새 학년이 3월 초에 시작해.",
+      "focus": "early March"
+     }
+    ],
+    "collocations": [
+     "in March",
+     "early March"
+    ]
+   },
+   {
+    "id": "march-2",
+    "pos": "v",
+    "ko": "행진하다",
+    "en": "to walk with firm, regular steps, often in a group",
+    "examples": [
+     {
+      "en": "The band marched down the street, playing loud music.",
+      "ko": "악단이 큰 음악을 연주하면서 거리를 행진했어.",
+      "focus": "marched down the street"
+     }
+    ],
+    "collocations": [
+     "march in a parade"
+    ]
+   }
+  ]
+ },
+ {
+  "id": "orange",
+  "headword": "orange",
+  "ipa": "/ˈɔːrɪndʒ/",
+  "level": "PRE",
+  "isCore": false,
+  "topic": "food_cooking",
+  "forms": [
+   "oranges"
+  ],
+  "senses": [
+   {
+    "id": "orange-1",
+    "pos": "n",
+    "ko": "오렌지",
+    "en": "a round, sweet fruit with a thick skin that you peel",
+    "nuance": "오렌지 주스는 orange juice. 귤은 orange가 아니라 tangerine이나 mandarin이라고 한다.",
+    "examples": [
+     {
+      "en": "I usually have a glass of orange juice with breakfast.",
+      "ko": "나는 보통 아침에 오렌지 주스 한 잔을 마셔.",
+      "focus": "orange juice"
+     },
+     {
+      "en": "These oranges are so sweet. Do you want one?",
+      "ko": "이 오렌지 진짜 달아. 하나 먹을래?",
+      "focus": "These oranges"
+     }
+    ],
+    "collocations": [
+     "orange juice",
+     "peel an orange"
+    ]
+   },
+   {
+    "id": "orange-2",
+    "pos": "adj",
+    "ko": "주황색의, 오렌지색의",
+    "en": "having the color between red and yellow",
+    "examples": [
+     {
+      "en": "Jun wore a bright orange jacket, so he was easy to find.",
+      "ko": "준이 밝은 주황색 재킷을 입어서 찾기 쉬웠어.",
+      "focus": "bright orange"
+     }
+    ],
+    "collocations": [
+     "bright orange"
+    ]
+   }
+  ]
+ },
+ {
+  "id": "pig",
+  "headword": "pig",
+  "ipa": "/pɪɡ/",
+  "level": "PRE",
+  "isCore": false,
+  "topic": "nature_animals",
+  "forms": [
+   "pigs"
+  ],
+  "senses": [
+   {
+    "id": "pig-1",
+    "pos": "n",
+    "ko": "돼지",
+    "en": "a fat farm animal with short legs and a curly tail, kept for meat",
+    "nuance": "동물은 pig, 고기는 pork로 단어가 다르다. 아기 돼지는 piglet.",
+    "examples": [
+     {
+      "en": "The pigs on the farm were rolling in the mud.",
+      "ko": "농장 돼지들이 진흙에서 뒹굴고 있었어.",
+      "focus": "The pigs"
+     },
+     {
+      "en": "In Korea, dreaming about a pig is a sign of good luck.",
+      "ko": "한국에서는 돼지꿈을 꾸면 좋은 일이 생긴다고 해.",
+      "focus": "a pig"
+     }
+    ],
+    "collocations": [
+     "raise pigs",
+     "a baby pig"
+    ]
+   }
+  ],
+  "confusables": [
+   {
+    "word": "pork",
+    "note": "pig는 살아 있는 동물, 고기는 pork. '돼지고기'를 pig meat라고 하지 않는다"
+   }
+  ]
+ },
+ {
+  "id": "cow",
+  "headword": "cow",
+  "ipa": "/kaʊ/",
+  "level": "PRE",
+  "isCore": false,
+  "topic": "nature_animals",
+  "forms": [
+   "cows"
+  ],
+  "senses": [
+   {
+    "id": "cow-1",
+    "pos": "n",
+    "ko": "소, 암소",
+    "en": "a large farm animal that gives milk",
+    "nuance": "고기는 beef, 새끼는 calf로 단어가 다르다. 소 전체를 가리킬 때도 보통 cows라고 한다.",
+    "examples": [
+     {
+      "en": "We saw a lot of cows eating grass by the road.",
+      "ko": "길가에서 소들이 풀 뜯는 걸 많이 봤어.",
+      "focus": "cows"
+     },
+     {
+      "en": "Emma learned how to milk a cow on her uncle's farm.",
+      "ko": "엠마는 삼촌 농장에서 소젖 짜는 법을 배웠어.",
+      "focus": "milk a cow"
+     }
+    ],
+    "collocations": [
+     "milk a cow",
+     "a herd of cows"
+    ]
+   }
+  ],
+  "confusables": [
+   {
+    "word": "beef",
+    "note": "cow는 동물, beef는 소고기. '소고기'를 cow meat라고 하지 않는다"
+   }
+  ]
+ },
+ {
+  "id": "cheese",
+  "headword": "cheese",
+  "ipa": "/tʃiːz/",
+  "level": "PRE",
+  "isCore": false,
+  "topic": "food_cooking",
+  "forms": [
+   "cheeses"
+  ],
+  "senses": [
+   {
+    "id": "cheese-1",
+    "pos": "n",
+    "ko": "치즈",
+    "en": "a solid food made from milk, often yellow or white",
+    "nuance": "보통 셀 수 없어 some cheese, a slice of cheese라고 한다. 종류를 여럿 말할 때만 cheeses.",
+    "examples": [
+     {
+      "en": "Do you want extra cheese on your pizza?",
+      "ko": "피자에 치즈 추가할래?",
+      "focus": "extra cheese"
+     },
+     {
+      "en": "Okay everyone, look here and say cheese! One, two, three!",
+      "ko": "자 다들 여기 보고 '치즈'! 하나, 둘, 셋!",
+      "focus": "say cheese"
+     }
+    ],
+    "collocations": [
+     "extra cheese",
+     "a slice of cheese",
+     "cream cheese"
+    ]
+   }
+  ],
+  "memoryHook": "사진 찍을 때 Say cheese!라고 하는 이유는 cheese를 말하면 입꼬리가 올라가 웃는 얼굴이 되기 때문이다."
+ },
+ {
+  "id": "moon",
+  "headword": "moon",
+  "ipa": "/muːn/",
+  "level": "PRE",
+  "isCore": false,
+  "topic": "nature_animals",
+  "forms": [
+   "moons"
+  ],
+  "senses": [
+   {
+    "id": "moon-1",
+    "pos": "n",
+    "ko": "달",
+    "en": "the round object that shines in the sky at night",
+    "nuance": "지구의 달은 하나라 항상 the moon으로 쓴다. 보름달은 a full moon, 반달은 a half moon.",
+    "examples": [
+     {
+      "en": "Look, the moon is so big and bright tonight!",
+      "ko": "봐, 오늘 밤 달이 정말 크고 밝아!",
+      "focus": "the moon"
+     },
+     {
+      "en": "We make a wish under the full moon on Chuseok.",
+      "ko": "추석에는 보름달 보면서 소원을 빌어.",
+      "focus": "the full moon"
+     }
+    ],
+    "collocations": [
+     "a full moon",
+     "the moon and the stars"
+    ]
+   }
+  ],
+  "memoryHook": "month(달, 월)는 moon에서 나온 말. 달이 한 번 차고 기우는 시간이 한 달이다."
+ },
+ {
+  "id": "grandmother",
+  "headword": "grandmother",
+  "ipa": "/ˈɡrænˌmʌðər/",
+  "level": "PRE",
+  "isCore": false,
+  "topic": "people_family",
+  "forms": [
+   "grandmothers"
+  ],
+  "senses": [
+   {
+    "id": "grandmother-1",
+    "pos": "n",
+    "ko": "할머니, 외할머니",
+    "en": "the mother of your father or mother",
+    "nuance": "친할머니·외할머니를 구분하지 않고 모두 grandmother다. 실제 대화에서는 grandma처럼 짧게 부른다.",
+    "examples": [
+     {
+      "en": "My grandmother lives in Busan, so we visit her every summer.",
+      "ko": "우리 할머니는 부산에 사셔서 여름마다 찾아가.",
+      "focus": "My grandmother"
+     },
+     {
+      "en": "Both of my grandmothers are over eighty and still very healthy.",
+      "ko": "우리 할머니 두 분 다 여든이 넘으셨는데 아직 아주 건강하셔.",
+      "focus": "my grandmothers"
+     }
+    ],
+    "collocations": [
+     "my grandmother",
+     "visit my grandmother"
+    ]
+   }
+  ],
+  "confusables": [
+   {
+    "word": "grandma",
+    "note": "grandma는 grandmother를 친근하게 줄인 말. 부를 때는 Grandma, 격식 있는 글이나 소개에서는 grandmother"
+   }
+  ]
+ },
+ {
+  "id": "uncle",
+  "headword": "uncle",
+  "ipa": "/ˈʌŋkəl/",
+  "level": "PRE",
+  "isCore": false,
+  "topic": "people_family",
+  "forms": [
+   "uncles"
+  ],
+  "senses": [
+   {
+    "id": "uncle-1",
+    "pos": "n",
+    "ko": "삼촌, 외삼촌, 고모부",
+    "en": "the brother of your mother or father, or your aunt's husband",
+    "nuance": "삼촌·외삼촌·고모부·이모부를 모두 uncle 하나로 부른다. 이름과 함께 쓸 때는 Uncle Tom처럼 대문자로.",
+    "examples": [
+     {
+      "en": "My uncle taught me how to ride a bike when I was six.",
+      "ko": "삼촌이 여섯 살 때 자전거 타는 법을 가르쳐 주셨어.",
+      "focus": "My uncle"
+     },
+     {
+      "en": "Uncle Tom is coming for dinner, so let's cook something nice.",
+      "ko": "톰 삼촌이 저녁 먹으러 오시니까 맛있는 거 만들자.",
+      "focus": "Uncle Tom"
+     }
+    ],
+    "collocations": [
+     "my uncle",
+     "aunt and uncle"
+    ]
+   }
+  ]
+ },
+ {
+  "id": "rice",
+  "headword": "rice",
+  "ipa": "/raɪs/",
+  "level": "PRE",
+  "isCore": false,
+  "topic": "food_cooking",
+  "forms": [
+   "rices"
+  ],
+  "senses": [
+   {
+    "id": "rice-1",
+    "pos": "n",
+    "ko": "밥, 쌀",
+    "en": "small white grains that are cooked and eaten, especially in Asia",
+    "nuance": "쌀도 밥도 모두 rice이고 셀 수 없다. 밥 한 공기는 a bowl of rice, 밥을 짓다는 cook rice.",
+    "examples": [
+     {
+      "en": "Excuse me, could I have some more rice, please?",
+      "ko": "저기, 밥 좀 더 주시겠어요?",
+      "focus": "more rice"
+     },
+     {
+      "en": "I cook a big pot of rice every Sunday for the week.",
+      "ko": "일요일마다 일주일 먹을 밥을 한 솥 크게 지어.",
+      "focus": "cook a big pot of rice"
+     }
+    ],
+    "collocations": [
+     "a bowl of rice",
+     "cook rice",
+     "fried rice"
+    ]
+   }
+  ]
+ },
+ {
+  "id": "aunt",
+  "headword": "aunt",
+  "ipa": "/ænt/",
+  "level": "PRE",
+  "isCore": false,
+  "topic": "people_family",
+  "forms": [
+   "aunts"
+  ],
+  "senses": [
+   {
+    "id": "aunt-1",
+    "pos": "n",
+    "ko": "이모, 고모, 숙모",
+    "en": "the sister of your mother or father, or your uncle's wife",
+    "nuance": "이모·고모·숙모·외숙모를 모두 aunt 하나로 부른다. 미국식 발음은 ant(개미)와 똑같다.",
+    "examples": [
+     {
+      "en": "My aunt lives in New York, so I visited her last year.",
+      "ko": "이모가 뉴욕에 살아서 작년에 놀러 갔어.",
+      "focus": "My aunt"
+     },
+     {
+      "en": "Aunt Mina always brings a cake when she comes over.",
+      "ko": "미나 고모는 오실 때마다 케이크를 사 오셔.",
+      "focus": "Aunt Mina"
+     }
+    ],
+    "collocations": [
+     "my aunt",
+     "aunt and uncle"
+    ]
+   }
+  ],
+  "confusables": [
+   {
+    "word": "ant",
+    "note": "미국식 발음이 /ænt/로 같다. aunt는 이모·고모, ant는 개미. 문맥으로 구분한다"
+   }
+  ]
+ },
+ {
+  "id": "apple",
+  "headword": "apple",
+  "ipa": "/ˈæpəl/",
+  "level": "PRE",
+  "isCore": false,
+  "topic": "food_cooking",
+  "forms": [
+   "apples"
+  ],
+  "senses": [
+   {
+    "id": "apple-1",
+    "pos": "n",
+    "ko": "사과",
+    "en": "a round fruit with red or green skin and white inside",
+    "examples": [
+     {
+      "en": "I packed an apple and a sandwich for lunch today.",
+      "ko": "오늘 점심으로 사과 하나랑 샌드위치를 챙겼어.",
+      "focus": "an apple"
+     },
+     {
+      "en": "These apples are from my grandfather's farm near Busan.",
+      "ko": "이 사과는 부산 근처 할아버지 농장에서 온 거야.",
+      "focus": "These apples"
+     }
+    ],
+    "collocations": [
+     "apple juice",
+     "apple pie",
+     "an apple a day"
+    ]
+   }
+  ],
+  "memoryHook": "속담 An apple a day keeps the doctor away(하루 한 개 사과면 의사가 필요 없다)로 기억하자."
+ },
+ {
+  "id": "april",
+  "headword": "april",
+  "ipa": "/ˈeɪprəl/",
+  "level": "PRE",
+  "isCore": false,
+  "topic": "time_quantity",
+  "forms": [
+   "aprils"
+  ],
+  "senses": [
+   {
+    "id": "april-1",
+    "pos": "n",
+    "ko": "4월",
+    "en": "the fourth month of the year, between March and May",
+    "nuance": "'4월에'는 in April, '4월 5일에'는 on April 5th. this/next/last April 앞에는 전치사를 쓰지 않는다.",
+    "pattern": "in April / on April + 날짜",
+    "examples": [
+     {
+      "en": "The cherry blossoms in Seoul usually come out in early April.",
+      "ko": "서울 벚꽃은 보통 4월 초에 피어.",
+      "focus": "in early April"
+     },
+     {
+      "en": "Don't believe anything Jun says on April first!",
+      "ko": "4월 1일에 준이 하는 말은 하나도 믿지 마!",
+      "focus": "on April first"
+     }
+    ],
+    "collocations": [
+     "in April",
+     "early April",
+     "April Fools' Day"
+    ]
+   }
+  ]
+ },
+ {
+  "id": "august",
+  "headword": "august",
+  "ipa": "/ˈɔːɡəst/",
+  "level": "PRE",
+  "isCore": false,
+  "topic": "time_quantity",
+  "forms": [
+   "augusts"
+  ],
+  "senses": [
+   {
+    "id": "august-1",
+    "pos": "n",
+    "ko": "8월",
+    "en": "the eighth month of the year, between July and September",
+    "nuance": "강세는 첫음절에 있어 AU-gust로 읽는다. 줄여서 Aug.로 쓴다.",
+    "examples": [
+     {
+      "en": "It's really hot in Seoul in August, so we go to the beach.",
+      "ko": "서울은 8월에 정말 더워서 우리는 바다에 가.",
+      "focus": "in August"
+     },
+     {
+      "en": "My summer vacation starts on the first of August.",
+      "ko": "내 여름휴가는 8월 1일부터 시작해.",
+      "focus": "the first of August"
+     }
+    ],
+    "collocations": [
+     "in August",
+     "late August"
+    ]
+   }
+  ]
+ },
+ {
+  "id": "banana",
+  "headword": "banana",
+  "ipa": "/bəˈnænə/",
+  "level": "PRE",
+  "isCore": false,
+  "topic": "food_cooking",
+  "forms": [
+   "bananas"
+  ],
+  "senses": [
+   {
+    "id": "banana-1",
+    "pos": "n",
+    "ko": "바나나",
+    "en": "a long, curved yellow fruit with soft sweet inside",
+    "nuance": "한 송이는 a bunch of bananas, 껍질은 banana peel. 껍질을 벗기다는 peel a banana.",
+    "examples": [
+     {
+      "en": "I eat a banana before I go running in the morning.",
+      "ko": "아침에 달리기 전에 바나나 하나를 먹어.",
+      "focus": "a banana"
+     },
+     {
+      "en": "Can you grab a bunch of bananas at the store?",
+      "ko": "마트에서 바나나 한 송이 사다 줄래?",
+      "focus": "a bunch of bananas"
+     }
+    ],
+    "collocations": [
+     "a bunch of bananas",
+     "peel a banana"
+    ]
+   }
+  ]
+ },
+ {
+  "id": "candy",
+  "headword": "candy",
+  "ipa": "/ˈkændi/",
+  "level": "PRE",
+  "isCore": false,
+  "topic": "food_cooking",
+  "forms": [],
+  "senses": [
+   {
+    "id": "candy-1",
+    "pos": "n",
+    "ko": "사탕, 캔디",
+    "en": "a small sweet food made from sugar or chocolate",
+    "nuance": "미국식 표현으로, 보통 셀 수 없어 some candy, a piece of candy라고 한다. 영국에서는 sweets.",
+    "examples": [
+     {
+      "en": "Don't eat too much candy right before dinner, okay?",
+      "ko": "저녁 바로 전에 사탕 너무 많이 먹지 마, 알았지?",
+      "focus": "too much candy"
+     },
+     {
+      "en": "The kids got a big bag of candy on Halloween.",
+      "ko": "아이들이 핼러윈에 사탕을 한 봉지 가득 받았어.",
+      "focus": "bag of candy"
+     }
+    ],
+    "collocations": [
+     "a piece of candy",
+     "cotton candy",
+     "a candy bar"
+    ]
+   }
+  ]
+ },
+ {
+  "id": "cute",
+  "headword": "cute",
+  "ipa": "/kjuːt/",
+  "level": "PRE",
+  "isCore": false,
+  "topic": "description_quality",
+  "forms": [],
+  "senses": [
+   {
+    "id": "cute-1",
+    "pos": "adj",
+    "ko": "귀여운",
+    "en": "pretty and easy to love, like a baby or a small animal",
+    "nuance": "아기·동물·작은 물건에 쓰는 것이 기본. 미국 구어에서는 어른이 매력적일 때도 He's cute라고 한다.",
+    "examples": [
+     {
+      "en": "Your puppy is so cute! What's his name?",
+      "ko": "네 강아지 진짜 귀엽다! 이름이 뭐야?",
+      "focus": "so cute"
+     },
+     {
+      "en": "Mina bought a cute little bag with a cat on it.",
+      "ko": "미나가 고양이 그림이 있는 작고 귀여운 가방을 샀어.",
+      "focus": "cute little bag"
+     }
+    ],
+    "collocations": [
+     "so cute",
+     "cute little"
+    ]
+   }
+  ]
+ },
+ {
+  "id": "december",
+  "headword": "december",
+  "ipa": "/dɪˈsembər/",
+  "level": "PRE",
+  "isCore": false,
+  "topic": "time_quantity",
+  "forms": [
+   "decembers"
+  ],
+  "senses": [
+   {
+    "id": "december-1",
+    "pos": "n",
+    "ko": "12월",
+    "en": "the last month of the year, after November",
+    "nuance": "'12월에'는 in December, 12월 25일은 on December 25th. 줄여서 Dec.로 쓴다.",
+    "examples": [
+     {
+      "en": "It usually snows a lot in Seoul in December.",
+      "ko": "서울은 12월에 보통 눈이 많이 와.",
+      "focus": "in December"
+     },
+     {
+      "en": "Emma's birthday is in late December, so it's always cold.",
+      "ko": "엠마 생일은 12월 말이라서 항상 추워.",
+      "focus": "late December"
+     }
+    ],
+    "collocations": [
+     "in December",
+     "late December"
+    ]
+   }
+  ],
+  "memoryHook": "decem은 라틴어로 10. 옛 로마 달력은 3월에 시작해서 12월이 열 번째 달이었다."
+ },
+ {
+  "id": "doll",
+  "headword": "doll",
+  "ipa": "/dɑːl/",
+  "level": "PRE",
+  "isCore": false,
+  "topic": "sports_leisure",
+  "forms": [
+   "dolls"
+  ],
+  "senses": [
+   {
+    "id": "doll-1",
+    "pos": "n",
+    "ko": "인형",
+    "en": "a toy that looks like a small person or baby",
+    "nuance": "사람 모양 인형이 doll이다. 곰처럼 동물 모양 봉제 인형은 stuffed animal이나 teddy bear라고 한다.",
+    "examples": [
+     {
+      "en": "My daughter sleeps with her favorite doll every night.",
+      "ko": "우리 딸은 밤마다 제일 좋아하는 인형을 안고 자.",
+      "focus": "favorite doll"
+     },
+     {
+      "en": "I used to play with dolls for hours when I was little.",
+      "ko": "어릴 땐 인형 갖고 몇 시간씩 놀았어.",
+      "focus": "play with dolls"
+     }
+    ],
+    "collocations": [
+     "play with dolls",
+     "a paper doll"
+    ]
+   }
+  ]
+ },
+ {
+  "id": "duck",
+  "headword": "duck",
+  "ipa": "/dʌk/",
+  "level": "PRE",
+  "isCore": false,
+  "topic": "nature_animals",
+  "forms": [
+   "ducks"
+  ],
+  "senses": [
+   {
+    "id": "duck-1",
+    "pos": "n",
+    "ko": "오리",
+    "en": "a bird with a flat beak that swims on ponds and rivers",
+    "nuance": "오리고기도 그대로 duck이라고 한다(roast duck). 동사 duck은 '몸을 확 숙이다'라는 뜻.",
+    "examples": [
+     {
+      "en": "We fed the ducks at the pond this afternoon.",
+      "ko": "오늘 오후에 연못에서 오리한테 먹이 줬어.",
+      "focus": "fed the ducks"
+     },
+     {
+      "en": "A mother duck was crossing the road with her babies.",
+      "ko": "어미 오리가 새끼들을 데리고 길을 건너고 있었어.",
+      "focus": "A mother duck"
+     }
+    ],
+    "collocations": [
+     "feed the ducks",
+     "roast duck"
+    ]
+   }
+  ]
+ },
+ {
+  "id": "elephant",
+  "headword": "elephant",
+  "ipa": "/ˈelɪfənt/",
+  "level": "PRE",
+  "isCore": false,
+  "topic": "nature_animals",
+  "forms": [
+   "elephants"
+  ],
+  "senses": [
+   {
+    "id": "elephant-1",
+    "pos": "n",
+    "ko": "코끼리",
+    "en": "a very large gray animal with big ears and a long nose",
+    "nuance": "코끼리의 긴 코는 nose가 아니라 trunk라고 한다. 아기 코끼리는 a baby elephant.",
+    "examples": [
+     {
+      "en": "The baby elephant at the zoo was playing in the water.",
+      "ko": "동물원 아기 코끼리가 물에서 놀고 있었어.",
+      "focus": "baby elephant"
+     },
+     {
+      "en": "Elephants can live for sixty or seventy years.",
+      "ko": "코끼리는 60년에서 70년까지 살 수 있어.",
+      "focus": "Elephants"
+     }
+    ],
+    "collocations": [
+     "a baby elephant",
+     "a herd of elephants"
+    ]
+   }
+  ]
+ },
+ {
+  "id": "february",
+  "headword": "february",
+  "ipa": "/ˈfebruˌeri/",
+  "level": "PRE",
+  "isCore": false,
+  "topic": "time_quantity",
+  "forms": [
+   "februaries",
+   "februarys"
+  ],
+  "senses": [
+   {
+    "id": "february-1",
+    "pos": "n",
+    "ko": "2월",
+    "en": "the second month of the year, and the shortest one",
+    "nuance": "철자는 Feb-ru-ary로 r이 두 번 들어간다. 발음은 /ˈfebruˌeri/와 /ˈfebjuˌeri/ 둘 다 쓴다.",
+    "examples": [
+     {
+      "en": "Korean New Year is usually in late January or February.",
+      "ko": "설날은 보통 1월 말이나 2월에 있어.",
+      "focus": "February"
+     },
+     {
+      "en": "February is short, so the month goes by really fast.",
+      "ko": "2월은 짧아서 한 달이 정말 빨리 지나가.",
+      "focus": "February is short"
+     }
+    ],
+    "collocations": [
+     "in February",
+     "early February"
+    ]
+   }
+  ]
+ },
+ {
+  "id": "friday",
+  "headword": "friday",
+  "ipa": "/ˈfraɪdeɪ/",
+  "level": "PRE",
+  "isCore": false,
+  "topic": "time_quantity",
+  "forms": [
+   "fridays"
+  ],
+  "senses": [
+   {
+    "id": "friday-1",
+    "pos": "n",
+    "ko": "금요일",
+    "en": "the day of the week after Thursday and before Saturday",
+    "nuance": "요일 앞에는 on을 쓴다. on Fridays처럼 복수형은 '매주 금요일'이라는 뜻이고, 요일은 항상 대문자.",
+    "pattern": "on Friday / every Friday",
+    "examples": [
+     {
+      "en": "Let's get dinner together on Friday after work.",
+      "ko": "금요일에 퇴근하고 같이 저녁 먹자.",
+      "focus": "on Friday"
+     },
+     {
+      "en": "I have a yoga class every Friday night at seven.",
+      "ko": "매주 금요일 밤 7시에 요가 수업이 있어.",
+      "focus": "every Friday night"
+     }
+    ],
+    "collocations": [
+     "on Friday",
+     "Friday night",
+     "next Friday"
+    ]
+   }
+  ]
+ },
+ {
+  "id": "frog",
+  "headword": "frog",
+  "ipa": "/frɔːɡ/",
+  "level": "PRE",
+  "isCore": false,
+  "topic": "nature_animals",
+  "forms": [
+   "frogs"
+  ],
+  "senses": [
+   {
+    "id": "frog-1",
+    "pos": "n",
+    "ko": "개구리",
+    "en": "a small green animal that jumps and lives near water",
+    "nuance": "개구리 울음소리는 croak. 목이 잠겼을 때 I have a frog in my throat라는 표현을 쓴다.",
+    "examples": [
+     {
+      "en": "We could hear frogs by the pond all night long.",
+      "ko": "밤새 연못 쪽에서 개구리 소리가 들렸어.",
+      "focus": "hear frogs"
+     },
+     {
+      "en": "A little green frog jumped into the water when I got close.",
+      "ko": "내가 가까이 가니까 작은 청개구리가 물속으로 뛰어들었어.",
+      "focus": "green frog"
+     }
+    ],
+    "collocations": [
+     "catch frogs",
+     "a tree frog"
+    ]
+   }
+  ]
+ },
+ {
+  "id": "grandfather",
+  "headword": "grandfather",
+  "ipa": "/ˈɡrænˌfɑːðər/",
+  "level": "PRE",
+  "isCore": false,
+  "topic": "people_family",
+  "forms": [],
+  "senses": [
+   {
+    "id": "grandfather-1",
+    "pos": "n",
+    "ko": "할아버지, 외할아버지",
+    "en": "the father of your mother or father",
+    "nuance": "친할아버지·외할아버지 모두 grandfather다. 대화에서는 grandpa라고 부르는 것이 자연스럽다.",
+    "examples": [
+     {
+      "en": "My grandfather still walks to the park every morning at six.",
+      "ko": "우리 할아버지는 아직도 매일 아침 6시에 공원까지 걸어가셔.",
+      "focus": "My grandfather"
+     },
+     {
+      "en": "This old watch was a gift from my grandfather.",
+      "ko": "이 오래된 시계는 할아버지가 주신 선물이야.",
+      "focus": "my grandfather"
+     }
+    ],
+    "collocations": [
+     "my grandfather",
+     "visit my grandfather"
+    ]
+   }
+  ],
+  "confusables": [
+   {
+    "word": "grandpa",
+    "note": "grandpa는 grandfather의 친근한 줄임말. 부를 때나 가족끼리는 Grandpa, 소개나 글에서는 grandfather"
+   }
+  ]
+ },
+ {
+  "id": "hungry",
+  "headword": "hungry",
+  "ipa": "/ˈhʌŋɡri/",
+  "level": "PRE",
+  "isCore": false,
+  "topic": "body_health",
+  "forms": [
+   "hungrier",
+   "hungriest"
+  ],
+  "senses": [
+   {
+    "id": "hungry-1",
+    "pos": "adj",
+    "ko": "배고픈",
+    "en": "wanting or needing to eat",
+    "nuance": "'배고파'는 I'm hungry처럼 be동사와 쓴다. 정말 많이 배고플 때는 starving.",
+    "pattern": "be / get hungry",
+    "examples": [
+     {
+      "en": "I'm so hungry. Let's grab something to eat.",
+      "ko": "너무 배고파. 뭐 좀 먹으러 가자.",
+      "focus": "so hungry"
+     },
+     {
+      "en": "The kids get hungry around four, so I keep snacks ready.",
+      "ko": "아이들이 4시쯤 배고파해서 간식을 항상 준비해 둬.",
+      "focus": "get hungry"
+     }
+    ],
+    "collocations": [
+     "be hungry",
+     "get hungry",
+     "hungry for"
+    ]
+   }
+  ],
+  "wordFamily": [
+   {
+    "form": "hunger",
+    "pos": "n",
+    "ko": "배고픔, 굶주림"
+   }
+  ],
+  "confusables": [
+   {
+    "word": "angry",
+    "note": "발음이 비슷해 자주 헷갈린다. hungry /ˈhʌŋɡri/는 배고픈, angry /ˈæŋɡri/는 화난"
+   }
+  ]
+ },
+ {
+  "id": "january",
+  "headword": "january",
+  "ipa": "/ˈdʒænjuˌeri/",
+  "level": "PRE",
+  "isCore": false,
+  "topic": "time_quantity",
+  "forms": [
+   "januaries",
+   "januarys"
+  ],
+  "senses": [
+   {
+    "id": "january-1",
+    "pos": "n",
+    "ko": "1월",
+    "en": "the first month of the year",
+    "nuance": "'1월에'는 in January, 1월 1일은 on January 1st. 줄여서 Jan.으로 쓴다.",
+    "examples": [
+     {
+      "en": "The gym is always full in January, and empty by March.",
+      "ko": "헬스장은 1월엔 항상 꽉 차고 3월이면 텅 비어.",
+      "focus": "in January"
+     },
+     {
+      "en": "We're going skiing in early January if there's enough snow.",
+      "ko": "눈이 충분히 오면 1월 초에 스키 타러 갈 거야.",
+      "focus": "early January"
+     }
+    ],
+    "collocations": [
+     "in January",
+     "January 1st"
+    ]
+   }
+  ]
+ },
+ {
+  "id": "juice",
+  "headword": "juice",
+  "ipa": "/dʒuːs/",
+  "level": "PRE",
+  "isCore": false,
+  "topic": "food_cooking",
+  "forms": [],
+  "senses": [
+   {
+    "id": "juice-1",
+    "pos": "n",
+    "ko": "주스, 과일즙",
+    "en": "the liquid from fruit or vegetables, often drunk cold",
+    "nuance": "보통 셀 수 없어 some juice, a glass of juice. 카페에서 주문할 때는 an orange juice처럼 셀 수 있게도 쓴다.",
+    "examples": [
+     {
+      "en": "Would you like some orange juice or just water?",
+      "ko": "오렌지 주스 드릴까요, 아니면 물이면 돼요?",
+      "focus": "orange juice"
+     },
+     {
+      "en": "Jun makes fresh juice with apples and carrots every morning.",
+      "ko": "준은 매일 아침 사과와 당근으로 생과일주스를 만들어.",
+      "focus": "fresh juice"
+     }
+    ],
+    "collocations": [
+     "orange juice",
+     "a glass of juice",
+     "fresh juice"
+    ]
+   }
+  ],
+  "wordFamily": [
+   {
+    "form": "juicy",
+    "pos": "adj",
+    "ko": "즙이 많은"
+   }
+  ]
+ },
+ {
+  "id": "july",
+  "headword": "july",
+  "ipa": "/dʒʊˈlaɪ/",
+  "level": "PRE",
+  "isCore": false,
+  "topic": "time_quantity",
+  "forms": [
+   "julys"
+  ],
+  "senses": [
+   {
+    "id": "july-1",
+    "pos": "n",
+    "ko": "7월",
+    "en": "the seventh month of the year, between June and August",
+    "nuance": "강세가 뒤에 있어 ju-LY로 읽는다. 6월 June과 철자·발음이 비슷해 자주 헷갈리니 주의.",
+    "examples": [
+     {
+      "en": "The rainy season in Korea usually ends in the middle of July.",
+      "ko": "한국 장마는 보통 7월 중순에 끝나.",
+      "focus": "the middle of July"
+     },
+     {
+      "en": "Our family always goes camping for a week in July.",
+      "ko": "우리 가족은 7월에 항상 일주일 동안 캠핑을 가.",
+      "focus": "in July"
+     }
+    ],
+    "collocations": [
+     "in July",
+     "mid-July"
+    ]
+   }
+  ],
+  "confusables": [
+   {
+    "word": "june",
+    "note": "June /dʒuːn/은 6월, July /dʒʊˈlaɪ/는 7월. 강세 위치가 다르다(JUNE, ju-LY)"
+   }
+  ]
+ },
+ {
+  "id": "june",
+  "headword": "june",
+  "ipa": "/dʒuːn/",
+  "level": "PRE",
+  "isCore": false,
+  "topic": "time_quantity",
+  "forms": [
+   "junes"
+  ],
+  "senses": [
+   {
+    "id": "june-1",
+    "pos": "n",
+    "ko": "6월",
+    "en": "the sixth month of the year, between May and July",
+    "nuance": "줄이지 않고 June으로 다 쓴다. '6월에'는 in June, 6월 초·중순·말은 early/mid/late June.",
+    "examples": [
+     {
+      "en": "It gets really hot in Seoul from the middle of June.",
+      "ko": "서울은 6월 중순부터 정말 더워져.",
+      "focus": "the middle of June"
+     },
+     {
+      "en": "Mina and Tom are getting married in June next year.",
+      "ko": "미나랑 톰은 내년 6월에 결혼해.",
+      "focus": "in June"
+     }
+    ],
+    "collocations": [
+     "in June",
+     "early June"
+    ]
+   }
+  ],
+  "confusables": [
+   {
+    "word": "july",
+    "note": "July /dʒʊˈlaɪ/는 7월, June /dʒuːn/은 6월. 한 글자 차이라 듣고 말할 때 특히 주의"
+   }
+  ]
+ },
+ {
+  "id": "lion",
+  "headword": "lion",
+  "ipa": "/ˈlaɪən/",
+  "level": "PRE",
+  "isCore": false,
+  "topic": "nature_animals",
+  "forms": [
+   "lions"
+  ],
+  "senses": [
+   {
+    "id": "lion-1",
+    "pos": "n",
+    "ko": "사자",
+    "en": "a large wild cat with yellow fur that lives in Africa",
+    "nuance": "암사자는 lioness, 새끼는 cub, 울음소리는 roar라고 한다.",
+    "examples": [
+     {
+      "en": "The lions at the zoo were sleeping in the shade all day.",
+      "ko": "동물원 사자들이 하루 종일 그늘에서 자고 있었어.",
+      "focus": "The lions"
+     },
+     {
+      "en": "My son roared like a lion and made everyone laugh.",
+      "ko": "우리 아들이 사자처럼 으르렁거려서 다들 웃었어.",
+      "focus": "like a lion"
+     }
+    ],
+    "collocations": [
+     "a lion roars",
+     "a lion cub"
+    ]
+   }
+  ]
+ },
+ {
+  "id": "monday",
+  "headword": "monday",
+  "ipa": "/ˈmʌndeɪ/",
+  "level": "PRE",
+  "isCore": false,
+  "topic": "time_quantity",
+  "forms": [
+   "mondays"
+  ],
+  "senses": [
+   {
+    "id": "monday-1",
+    "pos": "n",
+    "ko": "월요일",
+    "en": "the first day of the work week, after Sunday",
+    "nuance": "on Monday는 이번·특정 월요일, on Mondays는 매주 월요일. 월요병은 the Monday blues.",
+    "pattern": "on Monday / on Mondays",
+    "examples": [
+     {
+      "en": "Can we move the meeting to Monday morning?",
+      "ko": "회의를 월요일 아침으로 옮길 수 있을까요?",
+      "focus": "Monday morning"
+     },
+     {
+      "en": "I always feel tired on Mondays after a busy weekend.",
+      "ko": "바쁜 주말 보내고 나면 월요일마다 항상 피곤해.",
+      "focus": "on Mondays"
+     }
+    ],
+    "collocations": [
+     "on Monday",
+     "Monday morning",
+     "the Monday blues"
+    ]
+   }
+  ]
+ },
+ {
+  "id": "monkey",
+  "headword": "monkey",
+  "ipa": "/ˈmʌŋki/",
+  "level": "PRE",
+  "isCore": false,
+  "topic": "nature_animals",
+  "forms": [
+   "monkeys"
+  ],
+  "senses": [
+   {
+    "id": "monkey-1",
+    "pos": "n",
+    "ko": "원숭이",
+    "en": "a small animal with a long tail that climbs trees",
+    "nuance": "장난꾸러기 아이를 you little monkey라고 부르기도 한다. monkey business는 '장난, 수상한 짓'.",
+    "examples": [
+     {
+      "en": "The monkeys at the zoo took a banana right out of my hand.",
+      "ko": "동물원 원숭이들이 내 손에서 바나나를 바로 뺏어 갔어.",
+      "focus": "The monkeys"
+     },
+     {
+      "en": "Stop climbing on the table, you little monkey!",
+      "ko": "식탁 위에 올라가지 마, 이 장난꾸러기!",
+      "focus": "little monkey"
+     }
+    ],
+    "collocations": [
+     "a baby monkey",
+     "monkey business"
+    ]
+   }
+  ]
+ },
+ {
+  "id": "november",
+  "headword": "november",
+  "ipa": "/noʊˈvembər/",
+  "level": "PRE",
+  "isCore": false,
+  "topic": "time_quantity",
+  "forms": [
+   "novembers"
+  ],
+  "senses": [
+   {
+    "id": "november-1",
+    "pos": "n",
+    "ko": "11월",
+    "en": "the eleventh month of the year, between October and December",
+    "nuance": "줄여서 Nov.로 쓴다. 미국에서는 11월 넷째 목요일이 추수감사절(Thanksgiving)이다.",
+    "examples": [
+     {
+      "en": "The leaves in the park turn red and yellow in November.",
+      "ko": "11월이면 공원 나뭇잎이 빨갛고 노랗게 물들어.",
+      "focus": "in November"
+     },
+     {
+      "en": "We need to get the winter coats out by early November.",
+      "ko": "11월 초까지는 겨울 코트를 꺼내 놔야 해.",
+      "focus": "early November"
+     }
+    ],
+    "collocations": [
+     "in November",
+     "late November"
+    ]
+   }
+  ],
+  "memoryHook": "novem은 라틴어로 9. 옛 로마 달력은 3월부터 시작해 11월이 아홉 번째 달이었다."
+ },
+ {
+  "id": "october",
+  "headword": "october",
+  "ipa": "/ɑːkˈtoʊbər/",
+  "level": "PRE",
+  "isCore": false,
+  "topic": "time_quantity",
+  "forms": [
+   "octobers"
+  ],
+  "senses": [
+   {
+    "id": "october-1",
+    "pos": "n",
+    "ko": "10월",
+    "en": "the tenth month of the year, between September and November",
+    "nuance": "줄여서 Oct.로 쓴다. 10월 31일 핼러윈처럼 날짜 앞에는 on October 31st로 on을 붙인다.",
+    "examples": [
+     {
+      "en": "The weather in October is perfect for hiking.",
+      "ko": "10월 날씨는 등산하기에 딱이야.",
+      "focus": "in October"
+     },
+     {
+      "en": "Our company trip is on the second weekend of October.",
+      "ko": "우리 회사 워크숍은 10월 둘째 주 주말이야.",
+      "focus": "the second weekend of October"
+     }
+    ],
+    "collocations": [
+     "in October",
+     "mid-October"
+    ]
+   }
+  ],
+  "memoryHook": "octo는 8(octopus 문어 다리 8개). 옛 로마 달력에서는 여덟 번째 달이었다."
+ },
+ {
+  "id": "pencil",
+  "headword": "pencil",
+  "ipa": "/ˈpensəl/",
+  "level": "PRE",
+  "isCore": false,
+  "topic": "school_learning",
+  "forms": [],
+  "senses": [
+   {
+    "id": "pencil-1",
+    "pos": "n",
+    "ko": "연필",
+    "en": "a thin wooden stick with a gray center, used for writing and drawing",
+    "nuance": "'연필로 쓰다'는 write in pencil 또는 with a pencil. 연필을 깎다는 sharpen a pencil, 지우개는 eraser.",
+    "examples": [
+     {
+      "en": "Write your answers in pencil so you can fix mistakes.",
+      "ko": "틀리면 고칠 수 있게 답은 연필로 써.",
+      "focus": "in pencil"
+     },
+     {
+      "en": "Can I borrow a pencil? Mine just broke.",
+      "ko": "연필 하나 빌려줄래? 내 거 방금 부러졌어.",
+      "focus": "borrow a pencil"
+     }
+    ],
+    "collocations": [
+     "in pencil",
+     "sharpen a pencil",
+     "pencil case"
+    ]
+   }
+  ]
+ },
+ {
+  "id": "pizza",
+  "headword": "pizza",
+  "ipa": "/ˈpiːtsə/",
+  "level": "PRE",
+  "isCore": false,
+  "topic": "food_cooking",
+  "forms": [
+   "pizzas"
+  ],
+  "senses": [
+   {
+    "id": "pizza-1",
+    "pos": "n",
+    "ko": "피자",
+    "en": "a flat round bread baked with tomato sauce, cheese, and other toppings",
+    "nuance": "한 판은 a pizza, 한 조각은 a slice of pizza. '피자 시키자'는 order a pizza.",
+    "examples": [
+     {
+      "en": "Let's just order a pizza tonight. I'm too tired to cook.",
+      "ko": "오늘은 그냥 피자 시키자. 너무 피곤해서 요리 못 하겠어.",
+      "focus": "order a pizza"
+     },
+     {
+      "en": "I only had two slices of pizza, but I'm already full.",
+      "ko": "피자 두 조각밖에 안 먹었는데 벌써 배불러.",
+      "focus": "slices of pizza"
+     }
+    ],
+    "collocations": [
+     "order a pizza",
+     "a slice of pizza",
+     "pizza delivery"
+    ]
+   }
+  ]
+ },
+ {
+  "id": "purple",
+  "headword": "purple",
+  "ipa": "/ˈpɜːrpəl/",
+  "level": "PRE",
+  "isCore": false,
+  "topic": "description_quality",
+  "forms": [],
+  "senses": [
+   {
+    "id": "purple-1",
+    "pos": "adj",
+    "ko": "보라색의, 자주색의",
+    "en": "having the color made by mixing red and blue",
+    "nuance": "보라 계열을 넓게 purple로 부르고, violet은 더 밝은 보라. 명사로 쓰면 She loves purple처럼 관사가 없다.",
+    "examples": [
+     {
+      "en": "Emma dyed her hair purple, and it looks great.",
+      "ko": "엠마가 머리를 보라색으로 염색했는데 정말 잘 어울려.",
+      "focus": "dyed her hair purple"
+     },
+     {
+      "en": "The grapes turn dark purple when they're ready to pick.",
+      "ko": "포도는 딸 때가 되면 진한 보라색으로 변해.",
+      "focus": "dark purple"
+     }
+    ],
+    "collocations": [
+     "dark purple",
+     "light purple"
+    ]
+   }
+  ]
+ },
+ {
+  "id": "queen",
+  "headword": "queen",
+  "ipa": "/kwiːn/",
+  "level": "PRE",
+  "isCore": false,
+  "topic": "society_politics",
+  "forms": [],
+  "senses": [
+   {
+    "id": "queen-1",
+    "pos": "n",
+    "ko": "여왕, 왕비",
+    "en": "a woman who rules a country, or the wife of a king",
+    "nuance": "특정 여왕을 가리킬 때는 the Queen처럼 대문자로 쓴다. 카드·체스의 퀸도 queen이다.",
+    "examples": [
+     {
+      "en": "In the story, the queen lives in a castle by the sea.",
+      "ko": "이야기에서 여왕은 바닷가 성에 살아.",
+      "focus": "the queen"
+     },
+     {
+      "en": "We saw the palace where the king and queen used to live.",
+      "ko": "옛날에 왕과 왕비가 살던 궁전을 봤어.",
+      "focus": "king and queen"
+     }
+    ],
+    "collocations": [
+     "king and queen",
+     "queen bee"
+    ]
+   }
+  ]
+ },
+ {
+  "id": "rabbit",
+  "headword": "rabbit",
+  "ipa": "/ˈræbɪt/",
+  "level": "PRE",
+  "isCore": false,
+  "topic": "nature_animals",
+  "forms": [
+   "rabbits"
+  ],
+  "senses": [
+   {
+    "id": "rabbit-1",
+    "pos": "n",
+    "ko": "토끼",
+    "en": "a small animal with long ears and soft fur that hops",
+    "nuance": "어린이 말이나 애칭으로는 bunny라고 한다. 토끼가 뛰는 동작은 jump보다 hop을 쓴다.",
+    "examples": [
+     {
+      "en": "Jun keeps a white rabbit as a pet in his apartment.",
+      "ko": "준은 아파트에서 흰 토끼를 애완동물로 키워.",
+      "focus": "a white rabbit"
+     },
+     {
+      "en": "The rabbits ate all the lettuce in my garden again.",
+      "ko": "토끼들이 또 우리 텃밭 상추를 다 먹어 버렸어.",
+      "focus": "The rabbits"
+     }
+    ],
+    "collocations": [
+     "a pet rabbit",
+     "rabbit ears"
+    ]
+   }
+  ]
+ },
+ {
+  "id": "salad",
+  "headword": "salad",
+  "ipa": "/ˈsæləd/",
+  "level": "PRE",
+  "isCore": false,
+  "topic": "food_cooking",
+  "forms": [],
+  "senses": [
+   {
+    "id": "salad-1",
+    "pos": "n",
+    "ko": "샐러드",
+    "en": "a cold dish of raw vegetables, often with a dressing",
+    "nuance": "한 접시·한 종류는 a salad로 셀 수 있고, '샐러드 좀'은 some salad. 소스는 salad dressing이라고 한다.",
+    "examples": [
+     {
+      "en": "I'll have the chicken salad and a glass of water, please.",
+      "ko": "치킨 샐러드랑 물 한 잔 주세요.",
+      "focus": "the chicken salad"
+     },
+     {
+      "en": "Can you make a salad while I cook the pasta?",
+      "ko": "내가 파스타 만들 동안 샐러드 좀 만들어 줄래?",
+      "focus": "make a salad"
+     }
+    ],
+    "collocations": [
+     "make a salad",
+     "salad dressing",
+     "a green salad"
+    ]
+   }
+  ]
+ },
+ {
+  "id": "saturday",
+  "headword": "saturday",
+  "ipa": "/ˈsætərdeɪ/",
+  "level": "PRE",
+  "isCore": false,
+  "topic": "time_quantity",
+  "forms": [
+   "saturdays"
+  ],
+  "senses": [
+   {
+    "id": "saturday-1",
+    "pos": "n",
+    "ko": "토요일",
+    "en": "the day of the week after Friday and before Sunday",
+    "nuance": "'토요일에'는 on Saturday, '토요일마다'는 on Saturdays 또는 every Saturday. 토요일 아침은 Saturday morning.",
+    "examples": [
+     {
+      "en": "Are you free on Saturday? Let's go see a movie.",
+      "ko": "토요일에 시간 있어? 영화 보러 가자.",
+      "focus": "on Saturday"
+     },
+     {
+      "en": "I sleep in on Saturday mornings and make a big breakfast.",
+      "ko": "토요일 아침엔 늦잠 자고 아침을 거하게 차려 먹어.",
+      "focus": "Saturday mornings"
+     }
+    ],
+    "collocations": [
+     "on Saturday",
+     "Saturday morning",
+     "next Saturday"
+    ]
+   }
+  ]
+ },
+ {
+  "id": "september",
+  "headword": "september",
+  "ipa": "/sepˈtembər/",
+  "level": "PRE",
+  "isCore": false,
+  "topic": "time_quantity",
+  "forms": [
+   "septembers"
+  ],
+  "senses": [
+   {
+    "id": "september-1",
+    "pos": "n",
+    "ko": "9월",
+    "en": "the ninth month of the year, between August and October",
+    "nuance": "줄여서 Sept. 또는 Sep.으로 쓴다. 미국 학교는 9월에 새 학년이 시작한다(back to school).",
+    "examples": [
+     {
+      "en": "In America, school starts in September, not in March.",
+      "ko": "미국은 새 학년이 3월이 아니라 9월에 시작해.",
+      "focus": "in September"
+     },
+     {
+      "en": "It's still pretty hot in early September in Korea.",
+      "ko": "한국은 9월 초에도 아직 꽤 더워.",
+      "focus": "early September"
+     }
+    ],
+    "collocations": [
+     "in September",
+     "late September"
+    ]
+   }
+  ],
+  "memoryHook": "septem은 라틴어로 7. 옛 로마 달력이 3월에 시작해서 9월이 일곱 번째 달이었다."
+ },
+ {
+  "id": "snake",
+  "headword": "snake",
+  "ipa": "/sneɪk/",
+  "level": "PRE",
+  "isCore": false,
+  "topic": "nature_animals",
+  "forms": [
+   "snakes"
+  ],
+  "senses": [
+   {
+    "id": "snake-1",
+    "pos": "n",
+    "ko": "뱀",
+    "en": "a long thin animal with no legs that moves along the ground",
+    "nuance": "snack(간식)과 헷갈리지 않게 주의. snake는 /sneɪk/, snack은 /snæk/으로 모음이 다르다.",
+    "examples": [
+     {
+      "en": "Watch out! I think I just saw a snake in the grass.",
+      "ko": "조심해! 방금 풀숲에서 뱀 본 것 같아.",
+      "focus": "a snake"
+     },
+     {
+      "en": "Most snakes in Korea are not dangerous to people.",
+      "ko": "한국 뱀은 대부분 사람에게 위험하지 않아.",
+      "focus": "Most snakes"
+     }
+    ],
+    "collocations": [
+     "a snake bite",
+     "a poisonous snake"
+    ]
+   }
+  ]
+ },
+ {
+  "id": "soup",
+  "headword": "soup",
+  "ipa": "/suːp/",
+  "level": "PRE",
+  "isCore": false,
+  "topic": "food_cooking",
+  "forms": [],
+  "senses": [
+   {
+    "id": "soup-1",
+    "pos": "n",
+    "ko": "수프, 국",
+    "en": "a hot liquid food made by cooking vegetables or meat in water",
+    "nuance": "국·찌개도 soup으로 옮길 수 있다. 셀 수 없고, '국을 먹다'는 drink가 아니라 eat이나 have soup.",
+    "pattern": "have / eat soup",
+    "examples": [
+     {
+      "en": "A bowl of hot soup is perfect on a cold day like this.",
+      "ko": "이렇게 추운 날엔 뜨끈한 국 한 그릇이 딱이야.",
+      "focus": "bowl of hot soup"
+     },
+     {
+      "en": "My mom made chicken soup for me when I had a cold.",
+      "ko": "감기 걸렸을 때 엄마가 닭고기 수프를 끓여 주셨어.",
+      "focus": "chicken soup"
+     }
+    ],
+    "collocations": [
+     "a bowl of soup",
+     "have soup",
+     "chicken soup"
+    ]
+   }
+  ],
+  "confusables": [
+   {
+    "word": "soap",
+    "note": "발음이 다르다. soup /suːp/은 수프, soap /soʊp/은 비누"
+   }
+  ]
+ },
+ {
+  "id": "sunday",
+  "headword": "sunday",
+  "ipa": "/ˈsʌndeɪ/",
+  "level": "PRE",
+  "isCore": false,
+  "topic": "time_quantity",
+  "forms": [
+   "sundays"
+  ],
+  "senses": [
+   {
+    "id": "sunday-1",
+    "pos": "n",
+    "ko": "일요일",
+    "en": "the day of the week after Saturday and before Monday",
+    "nuance": "on Sunday는 이번·특정 일요일, on Sundays나 every Sunday는 매주 일요일. 미국 달력은 일요일이 주의 첫날이다.",
+    "examples": [
+     {
+      "en": "We usually have a big family lunch on Sunday.",
+      "ko": "우리는 보통 일요일에 온 가족이 모여 점심을 먹어.",
+      "focus": "on Sunday"
+     },
+     {
+      "en": "I always feel a little sad on Sunday nights, don't you?",
+      "ko": "일요일 밤엔 항상 좀 우울해지지 않아?",
+      "focus": "Sunday nights"
+     }
+    ],
+    "collocations": [
+     "on Sunday",
+     "Sunday morning",
+     "Sunday lunch"
+    ]
+   }
+  ]
+ },
+ {
+  "id": "thursday",
+  "headword": "thursday",
+  "ipa": "/ˈθɜːrzdeɪ/",
+  "level": "PRE",
+  "isCore": false,
+  "topic": "time_quantity",
+  "forms": [
+   "thursdays"
+  ],
+  "senses": [
+   {
+    "id": "thursday-1",
+    "pos": "n",
+    "ko": "목요일",
+    "en": "the day of the week after Wednesday and before Friday",
+    "nuance": "첫소리 th는 /θ/로, Tuesday와 헷갈리기 쉬우니 분명하게 낸다. 줄여서 Thu. 또는 Thurs.",
+    "examples": [
+     {
+      "en": "The report is due on Thursday, so let's finish it by Wednesday.",
+      "ko": "보고서가 목요일까지라서 수요일까지는 끝내자.",
+      "focus": "on Thursday"
+     },
+     {
+      "en": "Emma has her piano lesson every Thursday afternoon.",
+      "ko": "엠마는 매주 목요일 오후에 피아노 레슨이 있어.",
+      "focus": "every Thursday"
+     }
+    ],
+    "collocations": [
+     "on Thursday",
+     "Thursday night",
+     "next Thursday"
+    ]
+   }
+  ],
+  "confusables": [
+   {
+    "word": "tuesday",
+    "note": "Tuesday /ˈtuːzdeɪ/는 화요일, Thursday /ˈθɜːrzdeɪ/는 목요일. 첫소리 t와 th로 구분한다"
+   }
+  ]
+ },
+ {
+  "id": "tiger",
+  "headword": "tiger",
+  "ipa": "/ˈtaɪɡər/",
+  "level": "PRE",
+  "isCore": false,
+  "topic": "nature_animals",
+  "forms": [
+   "tigers"
+  ],
+  "senses": [
+   {
+    "id": "tiger-1",
+    "pos": "n",
+    "ko": "호랑이",
+    "en": "a large wild cat with orange fur and black stripes",
+    "nuance": "새끼 호랑이는 tiger cub, 줄무늬는 stripes라고 한다.",
+    "examples": [
+     {
+      "en": "Tigers used to live in the mountains of Korea long ago.",
+      "ko": "옛날에는 한국 산에도 호랑이가 살았어.",
+      "focus": "Tigers"
+     },
+     {
+      "en": "My son wanted to see the tiger first at the zoo.",
+      "ko": "우리 아들은 동물원에서 호랑이를 제일 먼저 보고 싶어 했어.",
+      "focus": "the tiger"
+     }
+    ],
+    "collocations": [
+     "a tiger cub",
+     "a tiger's stripes"
+    ]
+   }
+  ]
+ },
+ {
+  "id": "tired",
+  "headword": "tired",
+  "ipa": "/ˈtaɪərd/",
+  "level": "PRE",
+  "isCore": false,
+  "topic": "body_health",
+  "forms": [],
+  "senses": [
+   {
+    "id": "tired-1",
+    "pos": "adj",
+    "ko": "피곤한, 지친",
+    "en": "feeling that you need rest or sleep",
+    "nuance": "'피곤해'는 I'm tired. 사람이 tired이고, 사람을 피곤하게 하는 일은 tiring(a tiring day)이다.",
+    "pattern": "be / get / look tired",
+    "examples": [
+     {
+      "en": "I'm so tired today. I only slept four hours.",
+      "ko": "오늘 너무 피곤해. 네 시간밖에 못 잤어.",
+      "focus": "so tired"
+     },
+     {
+      "en": "You look tired. Why don't you go to bed early?",
+      "ko": "피곤해 보인다. 일찍 자는 게 어때?",
+      "focus": "look tired"
+     }
+    ],
+    "collocations": [
+     "get tired",
+     "look tired"
+    ]
+   },
+   {
+    "id": "tired-2",
+    "pos": "adj",
+    "ko": "지겨운, 싫증 난",
+    "en": "bored with something because it has happened too many times",
+    "pattern": "be tired of + 명사 / -ing",
+    "examples": [
+     {
+      "en": "I'm tired of eating the same lunch every single day.",
+      "ko": "매일 똑같은 점심 먹는 거 지겨워.",
+      "focus": "tired of eating"
+     }
+    ],
+    "collocations": [
+     "tired of"
+    ]
+   }
+  ],
+  "wordFamily": [
+   {
+    "form": "tiring",
+    "pos": "adj",
+    "ko": "피곤하게 하는"
+   }
+  ]
+ },
+ {
+  "id": "tuesday",
+  "headword": "tuesday",
+  "ipa": "/ˈtuːzdeɪ/",
+  "level": "PRE",
+  "isCore": false,
+  "topic": "time_quantity",
+  "forms": [
+   "tuesdays"
+  ],
+  "senses": [
+   {
+    "id": "tuesday-1",
+    "pos": "n",
+    "ko": "화요일",
+    "en": "the day of the week after Monday and before Wednesday",
+    "nuance": "Thursday와 자주 헷갈리는데 Tuesday는 /tuːz/, Thursday는 /θɜːrz/로 시작한다. 줄여서 Tue. 또는 Tues.",
+    "examples": [
+     {
+      "en": "The dentist could only see me on Tuesday at ten.",
+      "ko": "치과는 화요일 10시에만 예약이 가능하대.",
+      "focus": "on Tuesday"
+     },
+     {
+      "en": "Our team goes out for lunch together every Tuesday.",
+      "ko": "우리 팀은 매주 화요일에 같이 점심을 먹으러 나가.",
+      "focus": "every Tuesday"
+     }
+    ],
+    "collocations": [
+     "on Tuesday",
+     "Tuesday morning",
+     "next Tuesday"
+    ]
+   }
+  ],
+  "confusables": [
+   {
+    "word": "thursday",
+    "note": "Thursday /ˈθɜːrzdeɪ/는 목요일, Tuesday /ˈtuːzdeɪ/는 화요일. 첫소리 th와 t로 구분한다"
+   }
+  ]
+ }
+]

@@ -1,0 +1,477 @@
+{
+  "batch": "d004",
+  "kind": "deep",
+  "levels": [
+    "PRE"
+  ],
+  "count": 20,
+  "entries": [
+    {
+      "id": "book",
+      "headword": "book",
+      "level": "PRE",
+      "isCore": true,
+      "pos_hint": [
+        "n",
+        "v"
+      ],
+      "forms": [
+        "booked",
+        "booking",
+        "bookings",
+        "books"
+      ],
+      "cefr": "A1",
+      "freqRank": 171,
+      "confusable_candidates": [
+        "back",
+        "bank",
+        "bark",
+        "block",
+        "blog",
+        "blood"
+      ]
+    },
+    {
+      "id": "kind",
+      "headword": "kind",
+      "level": "PRE",
+      "isCore": true,
+      "pos_hint": [
+        "adj",
+        "n"
+      ],
+      "forms": [
+        "kinder",
+        "kindest",
+        "kinds"
+      ],
+      "cefr": "A1",
+      "freqRank": 176,
+      "confusable_candidates": [
+        "aid",
+        "band",
+        "bend",
+        "bid",
+        "bin",
+        "bind"
+      ]
+    },
+    {
+      "id": "keep",
+      "headword": "keep",
+      "level": "PRE",
+      "isCore": true,
+      "pos_hint": [
+        "v"
+      ],
+      "forms": [
+        "keeping",
+        "keeps",
+        "kept"
+      ],
+      "cefr": "A1",
+      "freqRank": 177,
+      "confusable_candidates": [
+        "bee",
+        "beef",
+        "beer",
+        "creep",
+        "deem",
+        "deep"
+      ]
+    },
+    {
+      "id": "question",
+      "headword": "question",
+      "level": "PRE",
+      "isCore": true,
+      "pos_hint": [
+        "n",
+        "v"
+      ],
+      "forms": [
+        "questioned",
+        "questioning",
+        "questionings",
+        "questions"
+      ],
+      "cefr": "A1",
+      "freqRank": 181,
+      "confusable_candidates": [
+        "questionnaire"
+      ]
+    },
+    {
+      "id": "big",
+      "headword": "big",
+      "level": "PRE",
+      "isCore": true,
+      "pos_hint": [
+        "adj"
+      ],
+      "forms": [
+        "bigger",
+        "biggest"
+      ],
+      "cefr": "A1",
+      "freqRank": 184,
+      "confusable_candidates": []
+    },
+    {
+      "id": "study",
+      "headword": "study",
+      "level": "PRE",
+      "isCore": true,
+      "pos_hint": [
+        "n",
+        "v"
+      ],
+      "forms": [
+        "studied",
+        "studies",
+        "studying"
+      ],
+      "cefr": "A1",
+      "freqRank": 187,
+      "confusable_candidates": [
+        "stay",
+        "steady",
+        "story",
+        "studio",
+        "stuff",
+        "tidy"
+      ]
+    },
+    {
+      "id": "run",
+      "headword": "run",
+      "level": "PRE",
+      "isCore": true,
+      "pos_hint": [
+        "n",
+        "v"
+      ],
+      "forms": [
+        "ran",
+        "running",
+        "runs"
+      ],
+      "cefr": "A1",
+      "freqRank": 192,
+      "confusable_candidates": []
+    },
+    {
+      "id": "turn",
+      "headword": "turn",
+      "level": "PRE",
+      "isCore": true,
+      "pos_hint": [
+        "n",
+        "v"
+      ],
+      "forms": [
+        "turned",
+        "turning",
+        "turns"
+      ],
+      "cefr": "A1",
+      "freqRank": 194,
+      "confusable_candidates": [
+        "barn",
+        "burn",
+        "bury",
+        "corn",
+        "cure",
+        "curl"
+      ]
+    },
+    {
+      "id": "bring",
+      "headword": "bring",
+      "level": "PRE",
+      "isCore": true,
+      "pos_hint": [
+        "v"
+      ],
+      "forms": [
+        "bringing",
+        "brings",
+        "brought"
+      ],
+      "cefr": "A1",
+      "freqRank": 196,
+      "confusable_candidates": [
+        "bang",
+        "bind",
+        "blind",
+        "blink",
+        "boring",
+        "brain"
+      ]
+    },
+    {
+      "id": "early",
+      "headword": "early",
+      "level": "PRE",
+      "isCore": true,
+      "pos_hint": [
+        "adj",
+        "adv"
+      ],
+      "forms": [
+        "earlier",
+        "earliest"
+      ],
+      "cefr": "A1",
+      "freqRank": 197,
+      "confusable_candidates": [
+        "ally",
+        "army",
+        "badly",
+        "barely",
+        "carry",
+        "daily"
+      ]
+    },
+    {
+      "id": "hand",
+      "headword": "hand",
+      "level": "PRE",
+      "isCore": true,
+      "pos_hint": [
+        "n",
+        "v"
+      ],
+      "forms": [
+        "handed",
+        "handing",
+        "hands"
+      ],
+      "cefr": "A1",
+      "freqRank": 198,
+      "confusable_candidates": [
+        "add",
+        "aid",
+        "ant",
+        "bad",
+        "ban",
+        "band"
+      ]
+    },
+    {
+      "id": "move",
+      "headword": "move",
+      "level": "PRE",
+      "isCore": true,
+      "pos_hint": [
+        "n",
+        "v"
+      ],
+      "forms": [
+        "moved",
+        "moves",
+        "moving"
+      ],
+      "cefr": "A1",
+      "freqRank": 200,
+      "confusable_candidates": [
+        "bone",
+        "bore",
+        "cave",
+        "code",
+        "coke",
+        "come"
+      ]
+    },
+    {
+      "id": "name",
+      "headword": "name",
+      "level": "PRE",
+      "isCore": true,
+      "pos_hint": [
+        "n",
+        "v"
+      ],
+      "forms": [
+        "named",
+        "names",
+        "naming"
+      ],
+      "cefr": "A1",
+      "freqRank": 206,
+      "confusable_candidates": [
+        "age",
+        "bake",
+        "bare",
+        "base",
+        "blame",
+        "cafe"
+      ]
+    },
+    {
+      "id": "business",
+      "headword": "business",
+      "level": "PRE",
+      "isCore": true,
+      "pos_hint": [
+        "n"
+      ],
+      "forms": [
+        "businesses"
+      ],
+      "cefr": "A1",
+      "freqRank": 211,
+      "confusable_candidates": [
+        "businessman"
+      ]
+    },
+    {
+      "id": "open",
+      "headword": "open",
+      "level": "PRE",
+      "isCore": true,
+      "pos_hint": [
+        "adj",
+        "v"
+      ],
+      "forms": [
+        "opened",
+        "opening",
+        "openings",
+        "opens"
+      ],
+      "cefr": "A1",
+      "freqRank": 214,
+      "confusable_candidates": [
+        "cope",
+        "dozen",
+        "even",
+        "hope",
+        "keen",
+        "obey"
+      ]
+    },
+    {
+      "id": "pay",
+      "headword": "pay",
+      "level": "PRE",
+      "isCore": true,
+      "pos_hint": [
+        "n",
+        "v"
+      ],
+      "forms": [
+        "paid",
+        "paying",
+        "pays"
+      ],
+      "cefr": "A1",
+      "freqRank": 220,
+      "confusable_candidates": []
+    },
+    {
+      "id": "close",
+      "headword": "close",
+      "level": "PRE",
+      "isCore": true,
+      "pos_hint": [
+        "adj",
+        "v"
+      ],
+      "forms": [
+        "closed",
+        "closer",
+        "closes",
+        "closest",
+        "closing"
+      ],
+      "cefr": "A1",
+      "freqRank": 239,
+      "confusable_candidates": [
+        "alone",
+        "case",
+        "cause",
+        "cease",
+        "chase",
+        "choose"
+      ]
+    },
+    {
+      "id": "face",
+      "headword": "face",
+      "level": "PRE",
+      "isCore": true,
+      "pos_hint": [
+        "n",
+        "v"
+      ],
+      "forms": [
+        "faced",
+        "faces",
+        "facing"
+      ],
+      "cefr": "A1",
+      "freqRank": 249,
+      "confusable_candidates": [
+        "act",
+        "age",
+        "back",
+        "bake",
+        "bare",
+        "base"
+      ]
+    },
+    {
+      "id": "room",
+      "headword": "room",
+      "level": "PRE",
+      "isCore": true,
+      "pos_hint": [
+        "n",
+        "v"
+      ],
+      "forms": [
+        "roomed",
+        "rooming",
+        "rooms"
+      ],
+      "cefr": "A1",
+      "freqRank": 254,
+      "confusable_candidates": [
+        "atom",
+        "bloom",
+        "book",
+        "boom",
+        "boot",
+        "cook"
+      ]
+    },
+    {
+      "id": "head",
+      "headword": "head",
+      "level": "PRE",
+      "isCore": true,
+      "pos_hint": [
+        "n",
+        "v"
+      ],
+      "forms": [
+        "headed",
+        "heading",
+        "headings",
+        "heads"
+      ],
+      "cefr": "A1",
+      "freqRank": 259,
+      "confusable_candidates": [
+        "ahead",
+        "bad",
+        "beam",
+        "bean",
+        "bear",
+        "beard"
+      ]
+    }
+  ]
+}

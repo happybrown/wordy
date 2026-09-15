@@ -1,0 +1,473 @@
+{
+  "batch": "d014",
+  "kind": "deep",
+  "levels": [
+    "MID"
+  ],
+  "count": 20,
+  "entries": [
+    {
+      "id": "interest",
+      "headword": "interest",
+      "level": "MID",
+      "isCore": true,
+      "pos_hint": [
+        "n",
+        "v"
+      ],
+      "forms": [
+        "interested",
+        "interesting",
+        "interests"
+      ],
+      "cefr": "A2",
+      "freqRank": 142,
+      "confusable_candidates": [
+        "inherent",
+        "interact",
+        "interaction",
+        "interfere",
+        "interior",
+        "intermediate"
+      ]
+    },
+    {
+      "id": "report",
+      "headword": "report",
+      "level": "MID",
+      "isCore": true,
+      "pos_hint": [
+        "n",
+        "v"
+      ],
+      "forms": [
+        "reported",
+        "reporting",
+        "reports"
+      ],
+      "cefr": "A2",
+      "freqRank": 166,
+      "confusable_candidates": [
+        "export",
+        "import",
+        "record",
+        "reform",
+        "repeat",
+        "reporter"
+      ]
+    },
+    {
+      "id": "seem",
+      "headword": "seem",
+      "level": "MID",
+      "isCore": true,
+      "pos_hint": [
+        "v"
+      ],
+      "forms": [
+        "seemed",
+        "seeming",
+        "seems"
+      ],
+      "cefr": "A2",
+      "freqRank": 173,
+      "confusable_candidates": [
+        "beam",
+        "bee",
+        "beef",
+        "beer",
+        "deem",
+        "deep"
+      ]
+    },
+    {
+      "id": "follow",
+      "headword": "follow",
+      "level": "MID",
+      "isCore": true,
+      "pos_hint": [
+        "v"
+      ],
+      "forms": [
+        "followed",
+        "following",
+        "followings",
+        "follows"
+      ],
+      "cefr": "A2",
+      "freqRank": 188,
+      "confusable_candidates": [
+        "allow",
+        "fellow",
+        "yellow"
+      ]
+    },
+    {
+      "id": "state",
+      "headword": "state",
+      "level": "MID",
+      "isCore": true,
+      "pos_hint": [
+        "adj",
+        "n",
+        "v"
+      ],
+      "forms": [
+        "stated",
+        "states",
+        "stating"
+      ],
+      "cefr": "A2",
+      "freqRank": 199,
+      "confusable_candidates": [
+        "date",
+        "estate",
+        "fate",
+        "gate",
+        "hate",
+        "late"
+      ]
+    },
+    {
+      "id": "issue",
+      "headword": "issue",
+      "level": "MID",
+      "isCore": true,
+      "pos_hint": [
+        "n",
+        "v"
+      ],
+      "forms": [
+        "issued",
+        "issues",
+        "issuing"
+      ],
+      "cefr": "A2",
+      "freqRank": 218,
+      "confusable_candidates": [
+        "assume",
+        "assure",
+        "insure",
+        "issuer",
+        "tissue"
+      ]
+    },
+    {
+      "id": "market",
+      "headword": "market",
+      "level": "MID",
+      "isCore": true,
+      "pos_hint": [
+        "n",
+        "v"
+      ],
+      "forms": [
+        "marketed",
+        "marketing",
+        "markets"
+      ],
+      "cefr": "A2",
+      "freqRank": 219,
+      "confusable_candidates": [
+        "basket",
+        "carpet",
+        "jacket",
+        "magnet",
+        "maker",
+        "marketer"
+      ]
+    },
+    {
+      "id": "service",
+      "headword": "service",
+      "level": "MID",
+      "isCore": true,
+      "pos_hint": [
+        "n",
+        "v"
+      ],
+      "forms": [
+        "serviced",
+        "services",
+        "servicing"
+      ],
+      "cefr": "B1",
+      "freqRank": 223,
+      "confusable_candidates": [
+        "device",
+        "survive"
+      ]
+    },
+    {
+      "id": "though",
+      "headword": "though",
+      "level": "MID",
+      "isCore": true,
+      "pos_hint": [
+        "adv",
+        "conj"
+      ],
+      "forms": [],
+      "cefr": "A2",
+      "freqRank": 227,
+      "confusable_candidates": [
+        "cough",
+        "rough",
+        "through",
+        "touch",
+        "tough"
+      ]
+    },
+    {
+      "id": "increase",
+      "headword": "increase",
+      "level": "MID",
+      "isCore": true,
+      "pos_hint": [
+        "n",
+        "v"
+      ],
+      "forms": [
+        "increased",
+        "increases",
+        "increasing"
+      ],
+      "cefr": "A2",
+      "freqRank": 230,
+      "confusable_candidates": [
+        "decrease",
+        "increasingly",
+        "incredible",
+        "incredibly"
+      ]
+    },
+    {
+      "id": "offer",
+      "headword": "offer",
+      "level": "MID",
+      "isCore": true,
+      "pos_hint": [
+        "n",
+        "v"
+      ],
+      "forms": [
+        "offered",
+        "offering",
+        "offerings",
+        "offers"
+      ],
+      "cefr": "A2",
+      "freqRank": 237,
+      "confusable_candidates": [
+        "coffee",
+        "confer",
+        "defer",
+        "differ",
+        "infer",
+        "offend"
+      ]
+    },
+    {
+      "id": "lead",
+      "headword": "lead",
+      "level": "MID",
+      "isCore": true,
+      "pos_hint": [
+        "adj",
+        "n",
+        "v"
+      ],
+      "forms": [
+        "leading",
+        "leads",
+        "led"
+      ],
+      "cefr": "A2",
+      "freqRank": 241,
+      "confusable_candidates": [
+        "ahead",
+        "bad",
+        "beam",
+        "bean",
+        "bear",
+        "beard"
+      ]
+    },
+    {
+      "id": "level",
+      "headword": "level",
+      "level": "MID",
+      "isCore": true,
+      "pos_hint": [
+        "adj",
+        "n",
+        "v"
+      ],
+      "forms": [
+        "leveled",
+        "leveling",
+        "levelled",
+        "levelling",
+        "levels"
+      ],
+      "cefr": "A2",
+      "freqRank": 262,
+      "confusable_candidates": [
+        "clever",
+        "devil",
+        "even",
+        "evil",
+        "feel",
+        "fever"
+      ]
+    },
+    {
+      "id": "experience",
+      "headword": "experience",
+      "level": "MID",
+      "isCore": true,
+      "pos_hint": [
+        "n",
+        "v"
+      ],
+      "forms": [
+        "experienced",
+        "experiences",
+        "experiencing"
+      ],
+      "cefr": "A2",
+      "freqRank": 264,
+      "confusable_candidates": [
+        "experiment",
+        "experimental",
+        "expert",
+        "expertise"
+      ]
+    },
+    {
+      "id": "support",
+      "headword": "support",
+      "level": "MID",
+      "isCore": true,
+      "pos_hint": [
+        "n",
+        "v"
+      ],
+      "forms": [
+        "supported",
+        "supporting",
+        "supports"
+      ],
+      "cefr": "A2",
+      "freqRank": 272,
+      "confusable_candidates": [
+        "supper",
+        "supporter",
+        "suppose",
+        "supposedly"
+      ]
+    },
+    {
+      "id": "quite",
+      "headword": "quite",
+      "level": "MID",
+      "isCore": true,
+      "pos_hint": [
+        "adv"
+      ],
+      "forms": [],
+      "cefr": "A2",
+      "freqRank": 277,
+      "confusable_candidates": [
+        "bite",
+        "cite",
+        "cute",
+        "equate",
+        "equity",
+        "guide"
+      ]
+    },
+    {
+      "id": "term",
+      "headword": "term",
+      "level": "MID",
+      "isCore": true,
+      "pos_hint": [
+        "n"
+      ],
+      "forms": [
+        "terms"
+      ],
+      "cefr": "B1",
+      "freqRank": 280,
+      "confusable_candidates": [
+        "arm",
+        "beam",
+        "deem",
+        "era",
+        "farm",
+        "firm"
+      ]
+    },
+    {
+      "id": "process",
+      "headword": "process",
+      "level": "MID",
+      "isCore": true,
+      "pos_hint": [
+        "n",
+        "v"
+      ],
+      "forms": [
+        "processed",
+        "processes",
+        "processing"
+      ],
+      "cefr": "B1",
+      "freqRank": 286,
+      "confusable_candidates": [
+        "procedure",
+        "proceed",
+        "progress",
+        "protest"
+      ]
+    },
+    {
+      "id": "public",
+      "headword": "public",
+      "level": "MID",
+      "isCore": true,
+      "pos_hint": [
+        "adj",
+        "n"
+      ],
+      "forms": [
+        "publics"
+      ],
+      "cefr": "A2",
+      "freqRank": 287,
+      "confusable_candidates": [
+        "publication",
+        "publicly",
+        "publish",
+        "publisher"
+      ]
+    },
+    {
+      "id": "actually",
+      "headword": "actually",
+      "level": "MID",
+      "isCore": true,
+      "pos_hint": [
+        "adv"
+      ],
+      "forms": [],
+      "cefr": "A2",
+      "freqRank": 291,
+      "confusable_candidates": [
+        "actual",
+        "annually"
+      ]
+    }
+  ]
+}

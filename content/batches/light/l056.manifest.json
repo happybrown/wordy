@@ -1,0 +1,1065 @@
+{
+  "batch": "l056",
+  "kind": "light",
+  "levels": [
+    "ADV"
+  ],
+  "count": 60,
+  "entries": [
+    {
+      "id": "heir",
+      "headword": "heir",
+      "level": "ADV",
+      "isCore": false,
+      "pos_hint": [],
+      "forms": [
+        "heirs"
+      ],
+      "cefr": null,
+      "freqRank": null,
+      "confusable_candidates": [
+        "air",
+        "bear",
+        "beer",
+        "chair",
+        "cheer",
+        "choir"
+      ]
+    },
+    {
+      "id": "heritage",
+      "headword": "heritage",
+      "level": "ADV",
+      "isCore": false,
+      "pos_hint": [
+        "n"
+      ],
+      "forms": [],
+      "cefr": "B2",
+      "freqRank": null,
+      "confusable_candidates": [
+        "hesitate"
+      ]
+    },
+    {
+      "id": "horn",
+      "headword": "horn",
+      "level": "ADV",
+      "isCore": false,
+      "pos_hint": [
+        "n"
+      ],
+      "forms": [],
+      "cefr": "B1",
+      "freqRank": null,
+      "confusable_candidates": [
+        "barn",
+        "bore",
+        "burn",
+        "coin",
+        "con",
+        "cord"
+      ]
+    },
+    {
+      "id": "hostage",
+      "headword": "hostage",
+      "level": "ADV",
+      "isCore": false,
+      "pos_hint": [],
+      "forms": [],
+      "cefr": null,
+      "freqRank": null,
+      "confusable_candidates": [
+        "cottage",
+        "hostile",
+        "shortage"
+      ]
+    },
+    {
+      "id": "hostile",
+      "headword": "hostile",
+      "level": "ADV",
+      "isCore": false,
+      "pos_hint": [],
+      "forms": [],
+      "cefr": null,
+      "freqRank": null,
+      "confusable_candidates": [
+        "hostage"
+      ]
+    },
+    {
+      "id": "ideology",
+      "headword": "ideology",
+      "level": "ADV",
+      "isCore": false,
+      "pos_hint": [
+        "n"
+      ],
+      "forms": [
+        "ideologies"
+      ],
+      "cefr": "B2",
+      "freqRank": null,
+      "confusable_candidates": [
+        "geology"
+      ]
+    },
+    {
+      "id": "illusion",
+      "headword": "illusion",
+      "level": "ADV",
+      "isCore": false,
+      "pos_hint": [
+        "n"
+      ],
+      "forms": [
+        "illusions"
+      ],
+      "cefr": null,
+      "freqRank": null,
+      "confusable_candidates": [
+        "illustrate",
+        "illustration"
+      ]
+    },
+    {
+      "id": "immense",
+      "headword": "immense",
+      "level": "ADV",
+      "isCore": false,
+      "pos_hint": [],
+      "forms": [],
+      "cefr": null,
+      "freqRank": null,
+      "confusable_candidates": [
+        "immune",
+        "intense"
+      ]
+    },
+    {
+      "id": "immigrate",
+      "headword": "immigrate",
+      "level": "ADV",
+      "isCore": false,
+      "pos_hint": [
+        "v"
+      ],
+      "forms": [],
+      "cefr": "B1",
+      "freqRank": null,
+      "confusable_candidates": [
+        "immigrant",
+        "immigration"
+      ]
+    },
+    {
+      "id": "importantly",
+      "headword": "importantly",
+      "level": "ADV",
+      "isCore": false,
+      "pos_hint": [
+        "adv"
+      ],
+      "forms": [],
+      "cefr": "A2",
+      "freqRank": null,
+      "confusable_candidates": [
+        "import",
+        "importance",
+        "important"
+      ]
+    },
+    {
+      "id": "incline",
+      "headword": "incline",
+      "level": "ADV",
+      "isCore": false,
+      "pos_hint": [
+        "n"
+      ],
+      "forms": [
+        "inclines"
+      ],
+      "cefr": null,
+      "freqRank": null,
+      "confusable_candidates": [
+        "decline",
+        "include",
+        "online"
+      ]
+    },
+    {
+      "id": "incredibly",
+      "headword": "incredibly",
+      "level": "ADV",
+      "isCore": false,
+      "pos_hint": [
+        "adv"
+      ],
+      "forms": [],
+      "cefr": "B1",
+      "freqRank": null,
+      "confusable_candidates": [
+        "increase",
+        "increasingly",
+        "incredible"
+      ]
+    },
+    {
+      "id": "incur",
+      "headword": "incur",
+      "level": "ADV",
+      "isCore": false,
+      "pos_hint": [
+        "v"
+      ],
+      "forms": [
+        "incurred",
+        "incurring",
+        "incurs"
+      ],
+      "cefr": "B2",
+      "freqRank": null,
+      "confusable_candidates": [
+        "inch",
+        "infer",
+        "injure",
+        "injury",
+        "inner",
+        "input"
+      ]
+    },
+    {
+      "id": "indirect",
+      "headword": "indirect",
+      "level": "ADV",
+      "isCore": false,
+      "pos_hint": [
+        "adj"
+      ],
+      "forms": [],
+      "cefr": "B1",
+      "freqRank": null,
+      "confusable_candidates": []
+    },
+    {
+      "id": "induce",
+      "headword": "induce",
+      "level": "ADV",
+      "isCore": false,
+      "pos_hint": [],
+      "forms": [
+        "induced",
+        "induces",
+        "inducing"
+      ],
+      "cefr": null,
+      "freqRank": null,
+      "confusable_candidates": [
+        "endure",
+        "injure",
+        "insure",
+        "reduce"
+      ]
+    },
+    {
+      "id": "inevitable",
+      "headword": "inevitable",
+      "level": "ADV",
+      "isCore": false,
+      "pos_hint": [
+        "adj"
+      ],
+      "forms": [],
+      "cefr": "B1",
+      "freqRank": null,
+      "confusable_candidates": []
+    },
+    {
+      "id": "infect",
+      "headword": "infect",
+      "level": "ADV",
+      "isCore": false,
+      "pos_hint": [
+        "v"
+      ],
+      "forms": [
+        "infected",
+        "infecting",
+        "infects"
+      ],
+      "cefr": "B2",
+      "freqRank": null,
+      "confusable_candidates": [
+        "affect",
+        "effect",
+        "infant",
+        "infection",
+        "infer",
+        "inject"
+      ]
+    },
+    {
+      "id": "infer",
+      "headword": "infer",
+      "level": "ADV",
+      "isCore": false,
+      "pos_hint": [
+        "v"
+      ],
+      "forms": [],
+      "cefr": "B2",
+      "freqRank": null,
+      "confusable_candidates": [
+        "anger",
+        "confer",
+        "defer",
+        "differ",
+        "dinner",
+        "enter"
+      ]
+    },
+    {
+      "id": "inflate",
+      "headword": "inflate",
+      "level": "ADV",
+      "isCore": false,
+      "pos_hint": [
+        "v"
+      ],
+      "forms": [
+        "inflated",
+        "inflates",
+        "inflating"
+      ],
+      "cefr": "B2",
+      "freqRank": null,
+      "confusable_candidates": [
+        "inflation",
+        "isolate"
+      ]
+    },
+    {
+      "id": "inflow",
+      "headword": "inflow",
+      "level": "ADV",
+      "isCore": false,
+      "pos_hint": [],
+      "forms": [
+        "inflows"
+      ],
+      "cefr": null,
+      "freqRank": null,
+      "confusable_candidates": []
+    },
+    {
+      "id": "infrastructure",
+      "headword": "infrastructure",
+      "level": "ADV",
+      "isCore": false,
+      "pos_hint": [],
+      "forms": [
+        "infrastructures"
+      ],
+      "cefr": null,
+      "freqRank": null,
+      "confusable_candidates": []
+    },
+    {
+      "id": "inherent",
+      "headword": "inherent",
+      "level": "ADV",
+      "isCore": false,
+      "pos_hint": [],
+      "forms": [],
+      "cefr": null,
+      "freqRank": null,
+      "confusable_candidates": [
+        "interest"
+      ]
+    },
+    {
+      "id": "inhibit",
+      "headword": "inhibit",
+      "level": "ADV",
+      "isCore": false,
+      "pos_hint": [],
+      "forms": [
+        "inhibited",
+        "inhibiting",
+        "inhibits"
+      ],
+      "cefr": null,
+      "freqRank": null,
+      "confusable_candidates": [
+        "exhibit",
+        "inhabit"
+      ]
+    },
+    {
+      "id": "innovative",
+      "headword": "innovative",
+      "level": "ADV",
+      "isCore": false,
+      "pos_hint": [
+        "adj"
+      ],
+      "forms": [],
+      "cefr": "B2",
+      "freqRank": null,
+      "confusable_candidates": [
+        "innovate",
+        "innovation"
+      ]
+    },
+    {
+      "id": "inquire",
+      "headword": "inquire",
+      "level": "ADV",
+      "isCore": false,
+      "pos_hint": [
+        "v"
+      ],
+      "forms": [
+        "enquire"
+      ],
+      "cefr": "B2",
+      "freqRank": null,
+      "confusable_candidates": [
+        "acquire",
+        "injure",
+        "inquiry",
+        "inspire",
+        "insure",
+        "require"
+      ]
+    },
+    {
+      "id": "insider",
+      "headword": "insider",
+      "level": "ADV",
+      "isCore": false,
+      "pos_hint": [],
+      "forms": [
+        "insiders"
+      ],
+      "cefr": null,
+      "freqRank": null,
+      "confusable_candidates": [
+        "consider",
+        "inside",
+        "insurer"
+      ]
+    },
+    {
+      "id": "insurer",
+      "headword": "insurer",
+      "level": "ADV",
+      "isCore": false,
+      "pos_hint": [],
+      "forms": [
+        "insurers"
+      ],
+      "cefr": null,
+      "freqRank": null,
+      "confusable_candidates": [
+        "ensure",
+        "injure",
+        "insider",
+        "insurance",
+        "insure",
+        "issuer"
+      ]
+    },
+    {
+      "id": "intensive",
+      "headword": "intensive",
+      "level": "ADV",
+      "isCore": false,
+      "pos_hint": [
+        "adj"
+      ],
+      "forms": [],
+      "cefr": "B1",
+      "freqRank": null,
+      "confusable_candidates": [
+        "extensive",
+        "incentive",
+        "intend",
+        "intense",
+        "intent",
+        "intention"
+      ]
+    },
+    {
+      "id": "intervene",
+      "headword": "intervene",
+      "level": "ADV",
+      "isCore": false,
+      "pos_hint": [],
+      "forms": [
+        "intervened",
+        "intervenes",
+        "intervening"
+      ],
+      "cefr": null,
+      "freqRank": null,
+      "confusable_candidates": [
+        "interact",
+        "interaction",
+        "interest",
+        "interested",
+        "interesting",
+        "interfere"
+      ]
+    },
+    {
+      "id": "intrigue",
+      "headword": "intrigue",
+      "level": "ADV",
+      "isCore": false,
+      "pos_hint": [],
+      "forms": [
+        "intrigued",
+        "intrigues",
+        "intriguing"
+      ],
+      "cefr": null,
+      "freqRank": null,
+      "confusable_candidates": []
+    },
+    {
+      "id": "invasion",
+      "headword": "invasion",
+      "level": "ADV",
+      "isCore": false,
+      "pos_hint": [
+        "n"
+      ],
+      "forms": [
+        "invasions"
+      ],
+      "cefr": "B1",
+      "freqRank": null,
+      "confusable_candidates": []
+    },
+    {
+      "id": "inventory",
+      "headword": "inventory",
+      "level": "ADV",
+      "isCore": false,
+      "pos_hint": [],
+      "forms": [
+        "inventories"
+      ],
+      "cefr": null,
+      "freqRank": null,
+      "confusable_candidates": [
+        "invent",
+        "investor"
+      ]
+    },
+    {
+      "id": "invoice",
+      "headword": "invoice",
+      "level": "ADV",
+      "isCore": false,
+      "pos_hint": [],
+      "forms": [
+        "invoiced",
+        "invoices",
+        "invoicing"
+      ],
+      "cefr": null,
+      "freqRank": null,
+      "confusable_candidates": [
+        "invite",
+        "involve"
+      ]
+    },
+    {
+      "id": "issuer",
+      "headword": "issuer",
+      "level": "ADV",
+      "isCore": false,
+      "pos_hint": [],
+      "forms": [
+        "issuers"
+      ],
+      "cefr": null,
+      "freqRank": null,
+      "confusable_candidates": [
+        "insurer",
+        "issue",
+        "tissue"
+      ]
+    },
+    {
+      "id": "jazz",
+      "headword": "jazz",
+      "level": "ADV",
+      "isCore": false,
+      "pos_hint": [
+        "n"
+      ],
+      "forms": [
+        "jazzes"
+      ],
+      "cefr": "B1",
+      "freqRank": null,
+      "confusable_candidates": [
+        "buzz",
+        "gaze",
+        "jail",
+        "jar",
+        "jaw",
+        "lazy"
+      ]
+    },
+    {
+      "id": "judicial",
+      "headword": "judicial",
+      "level": "ADV",
+      "isCore": false,
+      "pos_hint": [],
+      "forms": [],
+      "cefr": null,
+      "freqRank": null,
+      "confusable_candidates": []
+    },
+    {
+      "id": "kilometer",
+      "headword": "kilometer",
+      "level": "ADV",
+      "isCore": false,
+      "pos_hint": [
+        "n"
+      ],
+      "forms": [
+        "kilometers",
+        "kilometre",
+        "kilometres"
+      ],
+      "cefr": "A2",
+      "freqRank": null,
+      "confusable_candidates": []
+    },
+    {
+      "id": "knot",
+      "headword": "knot",
+      "level": "ADV",
+      "isCore": false,
+      "pos_hint": [
+        "n"
+      ],
+      "forms": [],
+      "cefr": "B2",
+      "freqRank": null,
+      "confusable_candidates": [
+        "ant",
+        "boot",
+        "dot",
+        "foot",
+        "hot",
+        "kit"
+      ]
+    },
+    {
+      "id": "lab",
+      "headword": "lab",
+      "level": "ADV",
+      "isCore": false,
+      "pos_hint": [
+        "n"
+      ],
+      "forms": [
+        "labs"
+      ],
+      "cefr": "B1",
+      "freqRank": null,
+      "confusable_candidates": []
+    },
+    {
+      "id": "lawsuit",
+      "headword": "lawsuit",
+      "level": "ADV",
+      "isCore": false,
+      "pos_hint": [
+        "n"
+      ],
+      "forms": [
+        "lawsuits"
+      ],
+      "cefr": "B2",
+      "freqRank": null,
+      "confusable_candidates": []
+    },
+    {
+      "id": "lease",
+      "headword": "lease",
+      "level": "ADV",
+      "isCore": false,
+      "pos_hint": [
+        "n"
+      ],
+      "forms": [
+        "leases"
+      ],
+      "cefr": "B2",
+      "freqRank": null,
+      "confusable_candidates": [
+        "base",
+        "beast",
+        "case",
+        "cease",
+        "chase",
+        "dense"
+      ]
+    },
+    {
+      "id": "ledger",
+      "headword": "ledger",
+      "level": "ADV",
+      "isCore": false,
+      "pos_hint": [],
+      "forms": [
+        "ledgered",
+        "ledgering",
+        "ledgers"
+      ],
+      "cefr": null,
+      "freqRank": null,
+      "confusable_candidates": [
+        "eager",
+        "ladder",
+        "leader",
+        "lender",
+        "letter",
+        "merger"
+      ]
+    },
+    {
+      "id": "legislate",
+      "headword": "legislate",
+      "level": "ADV",
+      "isCore": false,
+      "pos_hint": [
+        "v"
+      ],
+      "forms": [],
+      "cefr": "B2",
+      "freqRank": null,
+      "confusable_candidates": [
+        "legislation"
+      ]
+    },
+    {
+      "id": "legitimate",
+      "headword": "legitimate",
+      "level": "ADV",
+      "isCore": false,
+      "pos_hint": [
+        "adj"
+      ],
+      "forms": [],
+      "cefr": "B2",
+      "freqRank": null,
+      "confusable_candidates": []
+    },
+    {
+      "id": "lender",
+      "headword": "lender",
+      "level": "ADV",
+      "isCore": false,
+      "pos_hint": [],
+      "forms": [
+        "lenders"
+      ],
+      "cefr": null,
+      "freqRank": null,
+      "confusable_candidates": [
+        "center",
+        "enter",
+        "gender",
+        "ladder",
+        "leader",
+        "ledger"
+      ]
+    },
+    {
+      "id": "lessee",
+      "headword": "lessee",
+      "level": "ADV",
+      "isCore": false,
+      "pos_hint": [],
+      "forms": [
+        "lessees"
+      ],
+      "cefr": null,
+      "freqRank": null,
+      "confusable_candidates": [
+        "lease",
+        "lesson",
+        "vessel"
+      ]
+    },
+    {
+      "id": "leverage",
+      "headword": "leverage",
+      "level": "ADV",
+      "isCore": false,
+      "pos_hint": [],
+      "forms": [
+        "leveraged",
+        "leverages",
+        "leveraging"
+      ],
+      "cefr": null,
+      "freqRank": null,
+      "confusable_candidates": [
+        "average",
+        "coverage"
+      ]
+    },
+    {
+      "id": "lifestyle",
+      "headword": "lifestyle",
+      "level": "ADV",
+      "isCore": false,
+      "pos_hint": [
+        "n"
+      ],
+      "forms": [
+        "lifestyles"
+      ],
+      "cefr": "A2",
+      "freqRank": null,
+      "confusable_candidates": []
+    },
+    {
+      "id": "liquidity",
+      "headword": "liquidity",
+      "level": "ADV",
+      "isCore": false,
+      "pos_hint": [],
+      "forms": [
+        "liquidities"
+      ],
+      "cefr": null,
+      "freqRank": null,
+      "confusable_candidates": [
+        "liquid"
+      ]
+    },
+    {
+      "id": "liter",
+      "headword": "liter",
+      "level": "ADV",
+      "isCore": false,
+      "pos_hint": [
+        "n"
+      ],
+      "forms": [
+        "liters",
+        "litre",
+        "litres"
+      ],
+      "cefr": "A2",
+      "freqRank": null,
+      "confusable_candidates": [
+        "alter",
+        "bite",
+        "bitter",
+        "cater",
+        "cite",
+        "enter"
+      ]
+    },
+    {
+      "id": "literal",
+      "headword": "literal",
+      "level": "ADV",
+      "isCore": false,
+      "pos_hint": [
+        "adj"
+      ],
+      "forms": [],
+      "cefr": "B2",
+      "freqRank": null,
+      "confusable_candidates": [
+        "liberal",
+        "literally",
+        "literary",
+        "literature",
+        "mineral"
+      ]
+    },
+    {
+      "id": "liver",
+      "headword": "liver",
+      "level": "ADV",
+      "isCore": false,
+      "pos_hint": [
+        "n"
+      ],
+      "forms": [
+        "livers"
+      ],
+      "cefr": "B1",
+      "freqRank": null,
+      "confusable_candidates": [
+        "alive",
+        "clever",
+        "cover",
+        "dive",
+        "driver",
+        "fever"
+      ]
+    },
+    {
+      "id": "lobby",
+      "headword": "lobby",
+      "level": "ADV",
+      "isCore": false,
+      "pos_hint": [
+        "n"
+      ],
+      "forms": [
+        "lobbies"
+      ],
+      "cefr": "B2",
+      "freqRank": null,
+      "confusable_candidates": [
+        "hobby",
+        "obey"
+      ]
+    },
+    {
+      "id": "logical",
+      "headword": "logical",
+      "level": "ADV",
+      "isCore": false,
+      "pos_hint": [
+        "adj"
+      ],
+      "forms": [],
+      "cefr": "A2",
+      "freqRank": null,
+      "confusable_candidates": []
+    },
+    {
+      "id": "lone",
+      "headword": "lone",
+      "level": "ADV",
+      "isCore": false,
+      "pos_hint": [],
+      "forms": [],
+      "cefr": null,
+      "freqRank": null,
+      "confusable_candidates": [
+        "alone",
+        "bond",
+        "bone",
+        "bore",
+        "clone",
+        "close"
+      ]
+    },
+    {
+      "id": "loyalty",
+      "headword": "loyalty",
+      "level": "ADV",
+      "isCore": false,
+      "pos_hint": [
+        "n"
+      ],
+      "forms": [
+        "loyalties"
+      ],
+      "cefr": "B1",
+      "freqRank": null,
+      "confusable_candidates": []
+    },
+    {
+      "id": "lump",
+      "headword": "lump",
+      "level": "ADV",
+      "isCore": false,
+      "pos_hint": [
+        "n"
+      ],
+      "forms": [
+        "lumps"
+      ],
+      "cefr": null,
+      "freqRank": null,
+      "confusable_candidates": [
+        "bump",
+        "camp",
+        "cup",
+        "damp",
+        "dump",
+        "jump"
+      ]
+    },
+    {
+      "id": "lung",
+      "headword": "lung",
+      "level": "ADV",
+      "isCore": false,
+      "pos_hint": [
+        "n"
+      ],
+      "forms": [
+        "lungs"
+      ],
+      "cefr": "B1",
+      "freqRank": null,
+      "confusable_candidates": [
+        "aunt",
+        "bang",
+        "bug",
+        "cling",
+        "fun",
+        "fund"
+      ]
+    },
+    {
+      "id": "magnificent",
+      "headword": "magnificent",
+      "level": "ADV",
+      "isCore": false,
+      "pos_hint": [
+        "adj"
+      ],
+      "forms": [],
+      "cefr": "B1",
+      "freqRank": null,
+      "confusable_candidates": []
+    },
+    {
+      "id": "mall",
+      "headword": "mall",
+      "level": "ADV",
+      "isCore": false,
+      "pos_hint": [
+        "n"
+      ],
+      "forms": [
+        "malls"
+      ],
+      "cefr": "A2",
+      "freqRank": null,
+      "confusable_candidates": [
+        "ally",
+        "ball",
+        "bell",
+        "bill",
+        "bull",
+        "call"
+      ]
+    }
+  ]
+}

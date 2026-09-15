@@ -1,0 +1,1215 @@
+{
+  "batch": "l001",
+  "kind": "light",
+  "levels": [
+    "PRE"
+  ],
+  "count": 60,
+  "entries": [
+    {
+      "id": "know",
+      "headword": "know",
+      "level": "PRE",
+      "isCore": false,
+      "pos_hint": [
+        "v"
+      ],
+      "forms": [
+        "knew",
+        "knowing",
+        "known",
+        "knows"
+      ],
+      "cefr": "A1",
+      "freqRank": 41,
+      "confusable_candidates": [
+        "blow",
+        "bow",
+        "cow",
+        "flow",
+        "glow",
+        "grow"
+      ]
+    },
+    {
+      "id": "people",
+      "headword": "people",
+      "level": "PRE",
+      "isCore": false,
+      "pos_hint": [
+        "n"
+      ],
+      "forms": [
+        "peoples"
+      ],
+      "cefr": "A1",
+      "freqRank": 57,
+      "confusable_candidates": [
+        "purple",
+        "temple"
+      ]
+    },
+    {
+      "id": "year",
+      "headword": "year",
+      "level": "PRE",
+      "isCore": false,
+      "pos_hint": [
+        "n"
+      ],
+      "forms": [
+        "years"
+      ],
+      "cefr": "A1",
+      "freqRank": 58,
+      "confusable_candidates": [
+        "bar",
+        "beam",
+        "bean",
+        "bear",
+        "beard",
+        "beat"
+      ]
+    },
+    {
+      "id": "new",
+      "headword": "new",
+      "level": "PRE",
+      "isCore": false,
+      "pos_hint": [
+        "adj"
+      ],
+      "forms": [
+        "newer",
+        "newest"
+      ],
+      "cefr": "A1",
+      "freqRank": 79,
+      "confusable_candidates": []
+    },
+    {
+      "id": "day",
+      "headword": "day",
+      "level": "PRE",
+      "isCore": false,
+      "pos_hint": [
+        "n"
+      ],
+      "forms": [
+        "days"
+      ],
+      "cefr": "A1",
+      "freqRank": 85,
+      "confusable_candidates": []
+    },
+    {
+      "id": "child",
+      "headword": "child",
+      "level": "PRE",
+      "isCore": false,
+      "pos_hint": [
+        "n"
+      ],
+      "forms": [
+        "children"
+      ],
+      "cefr": "A1",
+      "freqRank": 102,
+      "confusable_candidates": [
+        "build",
+        "chief",
+        "chill",
+        "chin",
+        "chip",
+        "cold"
+      ]
+    },
+    {
+      "id": "man",
+      "headword": "man",
+      "level": "PRE",
+      "isCore": false,
+      "pos_hint": [
+        "n"
+      ],
+      "forms": [
+        "men"
+      ],
+      "cefr": "A1",
+      "freqRank": 112,
+      "confusable_candidates": []
+    },
+    {
+      "id": "problem",
+      "headword": "problem",
+      "level": "PRE",
+      "isCore": false,
+      "pos_hint": [
+        "n"
+      ],
+      "forms": [
+        "problems"
+      ],
+      "cefr": "A1",
+      "freqRank": 120,
+      "confusable_candidates": []
+    },
+    {
+      "id": "write",
+      "headword": "write",
+      "level": "PRE",
+      "isCore": false,
+      "pos_hint": [
+        "v"
+      ],
+      "forms": [
+        "writes",
+        "writing",
+        "writings",
+        "written",
+        "wrote"
+      ],
+      "cefr": "A1",
+      "freqRank": 121,
+      "confusable_candidates": [
+        "arise",
+        "bite",
+        "bride",
+        "brute",
+        "cite",
+        "crime"
+      ]
+    },
+    {
+      "id": "great",
+      "headword": "great",
+      "level": "PRE",
+      "isCore": false,
+      "pos_hint": [
+        "adj"
+      ],
+      "forms": [
+        "greater",
+        "greatest"
+      ],
+      "cefr": "A1",
+      "freqRank": 124,
+      "confusable_candidates": [
+        "area",
+        "beat",
+        "bread",
+        "break",
+        "breast",
+        "breath"
+      ]
+    },
+    {
+      "id": "number",
+      "headword": "number",
+      "level": "PRE",
+      "isCore": false,
+      "pos_hint": [
+        "n"
+      ],
+      "forms": [
+        "numbers"
+      ],
+      "cefr": "A1",
+      "freqRank": 127,
+      "confusable_candidates": [
+        "member",
+        "rubber",
+        "summer",
+        "timber"
+      ]
+    },
+    {
+      "id": "become",
+      "headword": "become",
+      "level": "PRE",
+      "isCore": false,
+      "pos_hint": [
+        "v"
+      ],
+      "forms": [
+        "became",
+        "becomes",
+        "becoming"
+      ],
+      "cefr": "A1",
+      "freqRank": 141,
+      "confusable_candidates": [
+        "income",
+        "welcome"
+      ]
+    },
+    {
+      "id": "old",
+      "headword": "old",
+      "level": "PRE",
+      "isCore": false,
+      "pos_hint": [
+        "adj"
+      ],
+      "forms": [
+        "older",
+        "oldest"
+      ],
+      "cefr": "A1",
+      "freqRank": 144,
+      "confusable_candidates": []
+    },
+    {
+      "id": "school",
+      "headword": "school",
+      "level": "PRE",
+      "isCore": false,
+      "pos_hint": [
+        "n"
+      ],
+      "forms": [
+        "schools"
+      ],
+      "cefr": "A1",
+      "freqRank": 146,
+      "confusable_candidates": [
+        "shoot"
+      ]
+    },
+    {
+      "id": "different",
+      "headword": "different",
+      "level": "PRE",
+      "isCore": false,
+      "pos_hint": [
+        "adj"
+      ],
+      "forms": [],
+      "cefr": "A1",
+      "freqRank": 149,
+      "confusable_candidates": [
+        "differ",
+        "difference",
+        "differently"
+      ]
+    },
+    {
+      "id": "world",
+      "headword": "world",
+      "level": "PRE",
+      "isCore": false,
+      "pos_hint": [
+        "n"
+      ],
+      "forms": [
+        "worlds"
+      ],
+      "cefr": "A1",
+      "freqRank": 156,
+      "confusable_candidates": [
+        "bold",
+        "cold",
+        "cord",
+        "fold",
+        "gold",
+        "hold"
+      ]
+    },
+    {
+      "id": "week",
+      "headword": "week",
+      "level": "PRE",
+      "isCore": false,
+      "pos_hint": [
+        "n"
+      ],
+      "forms": [
+        "weeks"
+      ],
+      "cefr": "A1",
+      "freqRank": 157,
+      "confusable_candidates": [
+        "bee",
+        "beef",
+        "beer",
+        "cheek",
+        "creek",
+        "deck"
+      ]
+    },
+    {
+      "id": "house",
+      "headword": "house",
+      "level": "PRE",
+      "isCore": false,
+      "pos_hint": [
+        "n"
+      ],
+      "forms": [
+        "houses"
+      ],
+      "cefr": "A1",
+      "freqRank": 165,
+      "confusable_candidates": [
+        "abuse",
+        "amuse",
+        "cause",
+        "choose",
+        "course",
+        "dose"
+      ]
+    },
+    {
+      "id": "woman",
+      "headword": "woman",
+      "level": "PRE",
+      "isCore": false,
+      "pos_hint": [
+        "n"
+      ],
+      "forms": [
+        "women"
+      ],
+      "cefr": "A1",
+      "freqRank": 169,
+      "confusable_candidates": [
+        "domain",
+        "human",
+        "loan"
+      ]
+    },
+    {
+      "id": "family",
+      "headword": "family",
+      "level": "PRE",
+      "isCore": false,
+      "pos_hint": [
+        "n"
+      ],
+      "forms": [
+        "families"
+      ],
+      "cefr": "A1",
+      "freqRank": 172,
+      "confusable_candidates": [
+        "daily",
+        "easily",
+        "fairly",
+        "fairy",
+        "familiar"
+      ]
+    },
+    {
+      "id": "again",
+      "headword": "again",
+      "level": "PRE",
+      "isCore": false,
+      "pos_hint": [
+        "adv"
+      ],
+      "forms": [],
+      "cefr": "A1",
+      "freqRank": 175,
+      "confusable_candidates": [
+        "attain",
+        "await",
+        "brain",
+        "chain",
+        "drain",
+        "gain"
+      ]
+    },
+    {
+      "id": "small",
+      "headword": "small",
+      "level": "PRE",
+      "isCore": false,
+      "pos_hint": [
+        "adj"
+      ],
+      "forms": [
+        "smaller",
+        "smallest"
+      ],
+      "cefr": "A1",
+      "freqRank": 186,
+      "confusable_candidates": [
+        "ball",
+        "call",
+        "email",
+        "fall",
+        "hall",
+        "mail"
+      ]
+    },
+    {
+      "id": "begin",
+      "headword": "begin",
+      "level": "PRE",
+      "isCore": false,
+      "pos_hint": [
+        "v"
+      ],
+      "forms": [
+        "began",
+        "beginning",
+        "beginnings",
+        "begins",
+        "begun"
+      ],
+      "cefr": "A1",
+      "freqRank": 189,
+      "confusable_candidates": [
+        "basin",
+        "bean",
+        "brain",
+        "region",
+        "vein"
+      ]
+    },
+    {
+      "id": "important",
+      "headword": "important",
+      "level": "PRE",
+      "isCore": false,
+      "pos_hint": [
+        "adj"
+      ],
+      "forms": [],
+      "cefr": "A1",
+      "freqRank": 190,
+      "confusable_candidates": [
+        "import",
+        "importance",
+        "importantly"
+      ]
+    },
+    {
+      "id": "money",
+      "headword": "money",
+      "level": "PRE",
+      "isCore": false,
+      "pos_hint": [
+        "n"
+      ],
+      "forms": [
+        "moneys"
+      ],
+      "cefr": "A1",
+      "freqRank": 201,
+      "confusable_candidates": [
+        "bone",
+        "convey",
+        "honey",
+        "lone",
+        "lonely",
+        "miner"
+      ]
+    },
+    {
+      "id": "read",
+      "headword": "read",
+      "level": "PRE",
+      "isCore": false,
+      "pos_hint": [
+        "v"
+      ],
+      "forms": [
+        "reading",
+        "readings",
+        "reads"
+      ],
+      "cefr": "A1",
+      "freqRank": 207,
+      "confusable_candidates": [
+        "ahead",
+        "area",
+        "bad",
+        "beam",
+        "bean",
+        "bear"
+      ]
+    },
+    {
+      "id": "friend",
+      "headword": "friend",
+      "level": "PRE",
+      "isCore": false,
+      "pos_hint": [
+        "n"
+      ],
+      "forms": [
+        "friends"
+      ],
+      "cefr": "A1",
+      "freqRank": 208,
+      "confusable_candidates": [
+        "field",
+        "friendly",
+        "friendship",
+        "orient",
+        "trend"
+      ]
+    },
+    {
+      "id": "month",
+      "headword": "month",
+      "level": "PRE",
+      "isCore": false,
+      "pos_hint": [
+        "n"
+      ],
+      "forms": [
+        "months"
+      ],
+      "cefr": "A1",
+      "freqRank": 209,
+      "confusable_candidates": [
+        "forth",
+        "math",
+        "money",
+        "mount",
+        "mouth",
+        "myth"
+      ]
+    },
+    {
+      "id": "large",
+      "headword": "large",
+      "level": "PRE",
+      "isCore": false,
+      "pos_hint": [
+        "adj"
+      ],
+      "forms": [
+        "larger",
+        "largest"
+      ],
+      "cefr": "A1",
+      "freqRank": 210,
+      "confusable_candidates": [
+        "argue",
+        "bare",
+        "cage",
+        "care",
+        "carve",
+        "charge"
+      ]
+    },
+    {
+      "id": "word",
+      "headword": "word",
+      "level": "PRE",
+      "isCore": false,
+      "pos_hint": [
+        "n"
+      ],
+      "forms": [
+        "words"
+      ],
+      "cefr": "A1",
+      "freqRank": 217,
+      "confusable_candidates": [
+        "award",
+        "bird",
+        "board",
+        "bold",
+        "bond",
+        "bore"
+      ]
+    },
+    {
+      "id": "build",
+      "headword": "build",
+      "level": "PRE",
+      "isCore": false,
+      "pos_hint": [
+        "v"
+      ],
+      "forms": [
+        "building",
+        "buildings",
+        "builds",
+        "built"
+      ],
+      "cefr": "A1",
+      "freqRank": 221,
+      "confusable_candidates": [
+        "bill",
+        "bind",
+        "bird",
+        "blind",
+        "boil",
+        "bold"
+      ]
+    },
+    {
+      "id": "young",
+      "headword": "young",
+      "level": "PRE",
+      "isCore": false,
+      "pos_hint": [
+        "adj"
+      ],
+      "forms": [
+        "younger",
+        "youngest"
+      ],
+      "cefr": "A1",
+      "freqRank": 238,
+      "confusable_candidates": [
+        "bound",
+        "count",
+        "found",
+        "long",
+        "lounge",
+        "lung"
+      ]
+    },
+    {
+      "id": "car",
+      "headword": "car",
+      "level": "PRE",
+      "isCore": false,
+      "pos_hint": [
+        "n"
+      ],
+      "forms": [
+        "cars"
+      ],
+      "cefr": "A1",
+      "freqRank": 260,
+      "confusable_candidates": []
+    },
+    {
+      "id": "mother",
+      "headword": "mother",
+      "level": "PRE",
+      "isCore": false,
+      "pos_hint": [
+        "n"
+      ],
+      "forms": [
+        "mothers"
+      ],
+      "cefr": "A1",
+      "freqRank": 338,
+      "confusable_candidates": [
+        "bother",
+        "brother",
+        "father",
+        "gather",
+        "matter",
+        "meter"
+      ]
+    },
+    {
+      "id": "sit",
+      "headword": "sit",
+      "level": "PRE",
+      "isCore": false,
+      "pos_hint": [
+        "v"
+      ],
+      "forms": [
+        "sat",
+        "sits",
+        "sitting"
+      ],
+      "cefr": "A1",
+      "freqRank": 356,
+      "confusable_candidates": []
+    },
+    {
+      "id": "eye",
+      "headword": "eye",
+      "level": "PRE",
+      "isCore": false,
+      "pos_hint": [
+        "n"
+      ],
+      "forms": [
+        "eyes"
+      ],
+      "cefr": "A1",
+      "freqRank": 391,
+      "confusable_candidates": []
+    },
+    {
+      "id": "full",
+      "headword": "full",
+      "level": "PRE",
+      "isCore": false,
+      "pos_hint": [
+        "adj"
+      ],
+      "forms": [
+        "fuller",
+        "fullest"
+      ],
+      "cefr": "A1",
+      "freqRank": 410,
+      "confusable_candidates": [
+        "ball",
+        "bell",
+        "bill",
+        "bulk",
+        "bull",
+        "bully"
+      ]
+    },
+    {
+      "id": "paper",
+      "headword": "paper",
+      "level": "PRE",
+      "isCore": false,
+      "pos_hint": [
+        "n"
+      ],
+      "forms": [
+        "papers"
+      ],
+      "cefr": "A1",
+      "freqRank": 425,
+      "confusable_candidates": [
+        "cape",
+        "cater",
+        "eager",
+        "later",
+        "layer",
+        "maker"
+      ]
+    },
+    {
+      "id": "father",
+      "headword": "father",
+      "level": "PRE",
+      "isCore": false,
+      "pos_hint": [
+        "n"
+      ],
+      "forms": [
+        "fathers"
+      ],
+      "cefr": "A1",
+      "freqRank": 448,
+      "confusable_candidates": [
+        "bother",
+        "cater",
+        "farmer",
+        "further",
+        "gather",
+        "later"
+      ]
+    },
+    {
+      "id": "table",
+      "headword": "table",
+      "level": "PRE",
+      "isCore": false,
+      "pos_hint": [
+        "n"
+      ],
+      "forms": [
+        "tables"
+      ],
+      "cefr": "A1",
+      "freqRank": 450,
+      "confusable_candidates": [
+        "able",
+        "bible",
+        "cable",
+        "enable",
+        "gamble",
+        "male"
+      ]
+    },
+    {
+      "id": "strong",
+      "headword": "strong",
+      "level": "PRE",
+      "isCore": false,
+      "pos_hint": [
+        "adj"
+      ],
+      "forms": [
+        "stronger",
+        "strongest"
+      ],
+      "cefr": "A1",
+      "freqRank": 461,
+      "confusable_candidates": [
+        "spring",
+        "stone",
+        "strange",
+        "string",
+        "stroke",
+        "strongly"
+      ]
+    },
+    {
+      "id": "girl",
+      "headword": "girl",
+      "level": "PRE",
+      "isCore": false,
+      "pos_hint": [
+        "n"
+      ],
+      "forms": [
+        "girls"
+      ],
+      "cefr": "A1",
+      "freqRank": 463,
+      "confusable_candidates": [
+        "air",
+        "bill",
+        "bird",
+        "curl",
+        "fill",
+        "fire"
+      ]
+    },
+    {
+      "id": "eat",
+      "headword": "eat",
+      "level": "PRE",
+      "isCore": false,
+      "pos_hint": [
+        "v"
+      ],
+      "forms": [
+        "ate",
+        "eaten",
+        "eating",
+        "eats"
+      ],
+      "cefr": "A1",
+      "freqRank": 476,
+      "confusable_candidates": []
+    },
+    {
+      "id": "door",
+      "headword": "door",
+      "level": "PRE",
+      "isCore": false,
+      "pos_hint": [
+        "n"
+      ],
+      "forms": [
+        "doors"
+      ],
+      "cefr": "A1",
+      "freqRank": 490,
+      "confusable_candidates": [
+        "book",
+        "boom",
+        "boot",
+        "color",
+        "cook",
+        "cool"
+      ]
+    },
+    {
+      "id": "teacher",
+      "headword": "teacher",
+      "level": "PRE",
+      "isCore": false,
+      "pos_hint": [
+        "n"
+      ],
+      "forms": [
+        "teachers"
+      ],
+      "cefr": "A1",
+      "freqRank": 496,
+      "confusable_candidates": [
+        "leather",
+        "weather"
+      ]
+    },
+    {
+      "id": "boy",
+      "headword": "boy",
+      "level": "PRE",
+      "isCore": false,
+      "pos_hint": [
+        "n"
+      ],
+      "forms": [
+        "boys"
+      ],
+      "cefr": "A1",
+      "freqRank": 510,
+      "confusable_candidates": []
+    },
+    {
+      "id": "happy",
+      "headword": "happy",
+      "level": "PRE",
+      "isCore": false,
+      "pos_hint": [
+        "adj"
+      ],
+      "forms": [
+        "happier",
+        "happiest"
+      ],
+      "cefr": "A1",
+      "freqRank": 513,
+      "confusable_candidates": [
+        "apply",
+        "happen",
+        "puppy"
+      ]
+    },
+    {
+      "id": "foot",
+      "headword": "foot",
+      "level": "PRE",
+      "isCore": false,
+      "pos_hint": [
+        "n"
+      ],
+      "forms": [
+        "feet"
+      ],
+      "cefr": "B1",
+      "freqRank": 576,
+      "confusable_candidates": [
+        "boat",
+        "book",
+        "boom",
+        "boost",
+        "boot",
+        "coat"
+      ]
+    },
+    {
+      "id": "poor",
+      "headword": "poor",
+      "level": "PRE",
+      "isCore": false,
+      "pos_hint": [
+        "adj"
+      ],
+      "forms": [
+        "poorer",
+        "poorest"
+      ],
+      "cefr": "A1",
+      "freqRank": 618,
+      "confusable_candidates": [
+        "book",
+        "boom",
+        "boot",
+        "color",
+        "cook",
+        "cool"
+      ]
+    },
+    {
+      "id": "bed",
+      "headword": "bed",
+      "level": "PRE",
+      "isCore": false,
+      "pos_hint": [
+        "n"
+      ],
+      "forms": [
+        "beds"
+      ],
+      "cefr": "A1",
+      "freqRank": 694,
+      "confusable_candidates": []
+    },
+    {
+      "id": "window",
+      "headword": "window",
+      "level": "PRE",
+      "isCore": false,
+      "pos_hint": [
+        "n"
+      ],
+      "forms": [
+        "windows"
+      ],
+      "cefr": "A1",
+      "freqRank": 734,
+      "confusable_candidates": [
+        "widow",
+        "wisdom"
+      ]
+    },
+    {
+      "id": "tree",
+      "headword": "tree",
+      "level": "PRE",
+      "isCore": false,
+      "pos_hint": [
+        "n"
+      ],
+      "forms": [
+        "trees"
+      ],
+      "cefr": "A1",
+      "freqRank": 738,
+      "confusable_candidates": [
+        "agree",
+        "area",
+        "bee",
+        "breed",
+        "brew",
+        "creek"
+      ]
+    },
+    {
+      "id": "doctor",
+      "headword": "doctor",
+      "level": "PRE",
+      "isCore": false,
+      "pos_hint": [
+        "n"
+      ],
+      "forms": [
+        "doctors"
+      ],
+      "cefr": "A1",
+      "freqRank": 763,
+      "confusable_candidates": [
+        "actor",
+        "debtor",
+        "factor",
+        "motor",
+        "sector"
+      ]
+    },
+    {
+      "id": "bus",
+      "headword": "bus",
+      "level": "PRE",
+      "isCore": false,
+      "pos_hint": [
+        "n"
+      ],
+      "forms": [
+        "buses"
+      ],
+      "cefr": "A1",
+      "freqRank": 810,
+      "confusable_candidates": []
+    },
+    {
+      "id": "brother",
+      "headword": "brother",
+      "level": "PRE",
+      "isCore": false,
+      "pos_hint": [
+        "n"
+      ],
+      "forms": [
+        "brothers"
+      ],
+      "cefr": "A1",
+      "freqRank": 821,
+      "confusable_candidates": [
+        "bother",
+        "broker",
+        "mother",
+        "rather"
+      ]
+    },
+    {
+      "id": "box",
+      "headword": "box",
+      "level": "PRE",
+      "isCore": false,
+      "pos_hint": [
+        "n"
+      ],
+      "forms": [
+        "boxes"
+      ],
+      "cefr": "A1",
+      "freqRank": 861,
+      "confusable_candidates": []
+    },
+    {
+      "id": "baby",
+      "headword": "baby",
+      "level": "PRE",
+      "isCore": false,
+      "pos_hint": [
+        "n"
+      ],
+      "forms": [
+        "babies"
+      ],
+      "cefr": "A1",
+      "freqRank": 871,
+      "confusable_candidates": [
+        "back",
+        "bad",
+        "badly",
+        "bag",
+        "bake",
+        "ball"
+      ]
+    },
+    {
+      "id": "sing",
+      "headword": "sing",
+      "level": "PRE",
+      "isCore": false,
+      "pos_hint": [
+        "v"
+      ],
+      "forms": [
+        "sang",
+        "singing",
+        "sings",
+        "sung"
+      ],
+      "cefr": "A1",
+      "freqRank": 873,
+      "confusable_candidates": [
+        "bang",
+        "big",
+        "bin",
+        "bind",
+        "bring",
+        "cling"
+      ]
+    },
+    {
+      "id": "hot",
+      "headword": "hot",
+      "level": "PRE",
+      "isCore": false,
+      "pos_hint": [
+        "adj"
+      ],
+      "forms": [
+        "hotter",
+        "hottest"
+      ],
+      "cefr": "A1",
+      "freqRank": 885,
+      "confusable_candidates": []
+    },
+    {
+      "id": "dog",
+      "headword": "dog",
+      "level": "PRE",
+      "isCore": false,
+      "pos_hint": [
+        "n"
+      ],
+      "forms": [
+        "dogs"
+      ],
+      "cefr": "A1",
+      "freqRank": 895,
+      "confusable_candidates": []
+    }
+  ]
+}

@@ -1,0 +1,450 @@
+{
+  "batch": "d019",
+  "kind": "deep",
+  "levels": [
+    "MID"
+  ],
+  "count": 20,
+  "entries": [
+    {
+      "id": "treat",
+      "headword": "treat",
+      "level": "MID",
+      "isCore": true,
+      "pos_hint": [
+        "n",
+        "v"
+      ],
+      "forms": [
+        "treated",
+        "treating",
+        "treats"
+      ],
+      "cefr": "B1",
+      "freqRank": 804,
+      "confusable_candidates": [
+        "area",
+        "beat",
+        "bread",
+        "break",
+        "breast",
+        "breath"
+      ]
+    },
+    {
+      "id": "supply",
+      "headword": "supply",
+      "level": "MID",
+      "isCore": true,
+      "pos_hint": [
+        "n",
+        "v"
+      ],
+      "forms": [
+        "supplied",
+        "supplies",
+        "supplying"
+      ],
+      "cefr": "B1",
+      "freqRank": 814,
+      "confusable_candidates": [
+        "apply",
+        "puppy",
+        "simply",
+        "supper",
+        "supplement",
+        "supplier"
+      ]
+    },
+    {
+      "id": "express",
+      "headword": "express",
+      "level": "MID",
+      "isCore": true,
+      "pos_hint": [
+        "n",
+        "v"
+      ],
+      "forms": [
+        "expressed",
+        "expresses",
+        "expressing"
+      ],
+      "cefr": "A2",
+      "freqRank": 818,
+      "confusable_candidates": [
+        "depress",
+        "excess",
+        "expression",
+        "impress"
+      ]
+    },
+    {
+      "id": "promise",
+      "headword": "promise",
+      "level": "MID",
+      "isCore": true,
+      "pos_hint": [
+        "n",
+        "v"
+      ],
+      "forms": [
+        "promised",
+        "promises",
+        "promising"
+      ],
+      "cefr": "A2",
+      "freqRank": 829,
+      "confusable_candidates": [
+        "praise",
+        "precise",
+        "premise",
+        "profile",
+        "prominent",
+        "promote"
+      ]
+    },
+    {
+      "id": "potential",
+      "headword": "potential",
+      "level": "MID",
+      "isCore": true,
+      "pos_hint": [
+        "adj",
+        "n"
+      ],
+      "forms": [
+        "potentials"
+      ],
+      "cefr": "B1",
+      "freqRank": 830,
+      "confusable_candidates": [
+        "potentially"
+      ]
+    },
+    {
+      "id": "trouble",
+      "headword": "trouble",
+      "level": "MID",
+      "isCore": true,
+      "pos_hint": [
+        "n",
+        "v"
+      ],
+      "forms": [
+        "troubled",
+        "troubles",
+        "troubling"
+      ],
+      "cefr": "A2",
+      "freqRank": 832,
+      "confusable_candidates": [
+        "double"
+      ]
+    },
+    {
+      "id": "advance",
+      "headword": "advance",
+      "level": "MID",
+      "isCore": true,
+      "pos_hint": [
+        "n",
+        "v"
+      ],
+      "forms": [
+        "advanced",
+        "advances",
+        "advancing"
+      ],
+      "cefr": "B1",
+      "freqRank": 844,
+      "confusable_candidates": [
+        "advantage",
+        "advice"
+      ]
+    },
+    {
+      "id": "doubt",
+      "headword": "doubt",
+      "level": "MID",
+      "isCore": true,
+      "pos_hint": [
+        "n",
+        "v"
+      ],
+      "forms": [
+        "doubted",
+        "doubting",
+        "doubts"
+      ],
+      "cefr": "A2",
+      "freqRank": 874,
+      "confusable_candidates": [
+        "count",
+        "court",
+        "debt",
+        "double",
+        "dust",
+        "mount"
+      ]
+    },
+    {
+      "id": "search",
+      "headword": "search",
+      "level": "MID",
+      "isCore": true,
+      "pos_hint": [
+        "n",
+        "v"
+      ],
+      "forms": [
+        "searched",
+        "searches",
+        "searching"
+      ],
+      "cefr": "A2",
+      "freqRank": 889,
+      "confusable_candidates": [
+        "beach",
+        "earth",
+        "march",
+        "reach",
+        "scarce",
+        "teach"
+      ]
+    },
+    {
+      "id": "separate",
+      "headword": "separate",
+      "level": "MID",
+      "isCore": true,
+      "pos_hint": [
+        "adj",
+        "v"
+      ],
+      "forms": [
+        "separated",
+        "separates",
+        "separating"
+      ],
+      "cefr": "A2",
+      "freqRank": 890,
+      "confusable_candidates": [
+        "separation"
+      ]
+    },
+    {
+      "id": "anyway",
+      "headword": "anyway",
+      "level": "MID",
+      "isCore": true,
+      "pos_hint": [
+        "adv"
+      ],
+      "forms": [],
+      "cefr": "A2",
+      "freqRank": 893,
+      "confusable_candidates": []
+    },
+    {
+      "id": "balance",
+      "headword": "balance",
+      "level": "MID",
+      "isCore": true,
+      "pos_hint": [
+        "n",
+        "v"
+      ],
+      "forms": [
+        "balanced",
+        "balances",
+        "balancing"
+      ],
+      "cefr": "B1",
+      "freqRank": 907,
+      "confusable_candidates": [
+        "glance",
+        "palace"
+      ]
+    },
+    {
+      "id": "damage",
+      "headword": "damage",
+      "level": "MID",
+      "isCore": true,
+      "pos_hint": [
+        "n",
+        "v"
+      ],
+      "forms": [
+        "damaged",
+        "damages",
+        "damaging"
+      ],
+      "cefr": "B1",
+      "freqRank": 908,
+      "confusable_candidates": [
+        "amaze",
+        "garage",
+        "image",
+        "manage"
+      ]
+    },
+    {
+      "id": "male",
+      "headword": "male",
+      "level": "MID",
+      "isCore": true,
+      "pos_hint": [
+        "adj",
+        "n"
+      ],
+      "forms": [
+        "males"
+      ],
+      "cefr": "A2",
+      "freqRank": 914,
+      "confusable_candidates": [
+        "able",
+        "age",
+        "amaze",
+        "bake",
+        "ball",
+        "bare"
+      ]
+    },
+    {
+      "id": "professional",
+      "headword": "professional",
+      "level": "MID",
+      "isCore": true,
+      "pos_hint": [
+        "adj",
+        "n"
+      ],
+      "forms": [
+        "professionals"
+      ],
+      "cefr": "A2",
+      "freqRank": 936,
+      "confusable_candidates": [
+        "profession",
+        "professor"
+      ]
+    },
+    {
+      "id": "object",
+      "headword": "object",
+      "level": "MID",
+      "isCore": true,
+      "pos_hint": [
+        "n",
+        "v"
+      ],
+      "forms": [
+        "objected",
+        "objecting",
+        "objects"
+      ],
+      "cefr": "B1",
+      "freqRank": 942,
+      "confusable_candidates": [
+        "inject",
+        "objection",
+        "objective",
+        "reject",
+        "subject"
+      ]
+    },
+    {
+      "id": "daily",
+      "headword": "daily",
+      "level": "MID",
+      "isCore": true,
+      "pos_hint": [
+        "adj",
+        "adv"
+      ],
+      "forms": [],
+      "cefr": "A2",
+      "freqRank": 955,
+      "confusable_candidates": [
+        "ally",
+        "badly",
+        "daddy",
+        "dairy",
+        "early",
+        "easily"
+      ]
+    },
+    {
+      "id": "screen",
+      "headword": "screen",
+      "level": "MID",
+      "isCore": true,
+      "pos_hint": [
+        "n",
+        "v"
+      ],
+      "forms": [
+        "screened",
+        "screening",
+        "screenings",
+        "screens"
+      ],
+      "cefr": "A2",
+      "freqRank": 957,
+      "confusable_candidates": [
+        "creek",
+        "creep",
+        "green",
+        "scream",
+        "screw",
+        "street"
+      ]
+    },
+    {
+      "id": "track",
+      "headword": "track",
+      "level": "MID",
+      "isCore": true,
+      "pos_hint": [
+        "n",
+        "v"
+      ],
+      "forms": [
+        "tracked",
+        "tracking",
+        "tracks"
+      ],
+      "cefr": "A2",
+      "freqRank": 958,
+      "confusable_candidates": [
+        "attack",
+        "back",
+        "black",
+        "brick",
+        "crack",
+        "grace"
+      ]
+    },
+    {
+      "id": "female",
+      "headword": "female",
+      "level": "MID",
+      "isCore": true,
+      "pos_hint": [
+        "adj",
+        "n"
+      ],
+      "forms": [
+        "females"
+      ],
+      "cefr": "A2",
+      "freqRank": 961,
+      "confusable_candidates": [
+        "temple"
+      ]
+    }
+  ]
+}

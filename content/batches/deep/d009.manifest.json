@@ -1,0 +1,491 @@
+{
+  "batch": "d009",
+  "kind": "deep",
+  "levels": [
+    "ELEM"
+  ],
+  "count": 20,
+  "entries": [
+    {
+      "id": "real",
+      "headword": "real",
+      "level": "ELEM",
+      "isCore": true,
+      "pos_hint": [
+        "adj",
+        "adv"
+      ],
+      "forms": [
+        "realer"
+      ],
+      "cefr": "A1",
+      "freqRank": 354,
+      "confusable_candidates": [
+        "area",
+        "beam",
+        "bean",
+        "bear",
+        "beat",
+        "bell"
+      ]
+    },
+    {
+      "id": "answer",
+      "headword": "answer",
+      "level": "ELEM",
+      "isCore": true,
+      "pos_hint": [
+        "n",
+        "v"
+      ],
+      "forms": [
+        "answered",
+        "answering",
+        "answers"
+      ],
+      "cefr": "A1",
+      "freqRank": 355,
+      "confusable_candidates": [
+        "anger"
+      ]
+    },
+    {
+      "id": "half",
+      "headword": "half",
+      "level": "ELEM",
+      "isCore": true,
+      "pos_hint": [
+        "adv",
+        "det",
+        "n",
+        "pron"
+      ],
+      "forms": [
+        "halves"
+      ],
+      "cefr": "A1",
+      "freqRank": 365,
+      "confusable_candidates": [
+        "ball",
+        "call",
+        "calm",
+        "fall",
+        "golf",
+        "gulf"
+      ]
+    },
+    {
+      "id": "break",
+      "headword": "break",
+      "level": "ELEM",
+      "isCore": true,
+      "pos_hint": [
+        "n",
+        "v"
+      ],
+      "forms": [
+        "breaking",
+        "breaks",
+        "broke",
+        "broken"
+      ],
+      "cefr": "A1",
+      "freqRank": 368,
+      "confusable_candidates": [
+        "area",
+        "beam",
+        "bean",
+        "bear",
+        "beat",
+        "brake"
+      ]
+    },
+    {
+      "id": "clear",
+      "headword": "clear",
+      "level": "ELEM",
+      "isCore": true,
+      "pos_hint": [
+        "adj",
+        "v"
+      ],
+      "forms": [
+        "cleared",
+        "clearer",
+        "clearest",
+        "clearing",
+        "clears"
+      ],
+      "cefr": "A2",
+      "freqRank": 369,
+      "confusable_candidates": [
+        "bear",
+        "cheap",
+        "cheer",
+        "clap",
+        "clay",
+        "clean"
+      ]
+    },
+    {
+      "id": "future",
+      "headword": "future",
+      "level": "ELEM",
+      "isCore": true,
+      "pos_hint": [
+        "adj",
+        "n"
+      ],
+      "forms": [
+        "futures"
+      ],
+      "cefr": "A1",
+      "freqRank": 370,
+      "confusable_candidates": [
+        "culture",
+        "feature",
+        "figure",
+        "mature",
+        "nature"
+      ]
+    },
+    {
+      "id": "top",
+      "headword": "top",
+      "level": "ELEM",
+      "isCore": true,
+      "pos_hint": [
+        "adj",
+        "n"
+      ],
+      "forms": [
+        "tops"
+      ],
+      "cefr": "A1",
+      "freqRank": 375,
+      "confusable_candidates": []
+    },
+    {
+      "id": "win",
+      "headword": "win",
+      "level": "ELEM",
+      "isCore": true,
+      "pos_hint": [
+        "n",
+        "v"
+      ],
+      "forms": [
+        "winning",
+        "winnings",
+        "wins"
+      ],
+      "cefr": "A1",
+      "freqRank": 377,
+      "confusable_candidates": []
+    },
+    {
+      "id": "color",
+      "headword": "color",
+      "level": "ELEM",
+      "isCore": true,
+      "pos_hint": [
+        "n",
+        "v"
+      ],
+      "forms": [
+        "colored",
+        "coloring",
+        "colorings",
+        "colors",
+        "colour",
+        "coloured",
+        "colouring",
+        "colours"
+      ],
+      "cefr": "A1",
+      "freqRank": 378,
+      "confusable_candidates": [
+        "cold",
+        "collar",
+        "colony",
+        "cook",
+        "cool",
+        "cover"
+      ]
+    },
+    {
+      "id": "note",
+      "headword": "note",
+      "level": "ELEM",
+      "isCore": true,
+      "pos_hint": [
+        "n",
+        "v"
+      ],
+      "forms": [
+        "noted",
+        "notes",
+        "noting"
+      ],
+      "cefr": "A1",
+      "freqRank": 384,
+      "confusable_candidates": [
+        "bite",
+        "bone",
+        "bore",
+        "cite",
+        "code",
+        "coke"
+      ]
+    },
+    {
+      "id": "drive",
+      "headword": "drive",
+      "level": "ELEM",
+      "isCore": true,
+      "pos_hint": [
+        "n",
+        "v"
+      ],
+      "forms": [
+        "driven",
+        "drives",
+        "driving",
+        "drove"
+      ],
+      "cefr": "A1",
+      "freqRank": 387,
+      "confusable_candidates": [
+        "alive",
+        "arise",
+        "arrive",
+        "brave",
+        "bride",
+        "crime"
+      ]
+    },
+    {
+      "id": "type",
+      "headword": "type",
+      "level": "ELEM",
+      "isCore": true,
+      "pos_hint": [
+        "n",
+        "v"
+      ],
+      "forms": [
+        "typed",
+        "types",
+        "typing"
+      ],
+      "cefr": "A1",
+      "freqRank": 389,
+      "confusable_candidates": [
+        "bye",
+        "cape",
+        "cope",
+        "eye",
+        "hope",
+        "pipe"
+      ]
+    },
+    {
+      "id": "sound",
+      "headword": "sound",
+      "level": "ELEM",
+      "isCore": true,
+      "pos_hint": [
+        "adj",
+        "n",
+        "v"
+      ],
+      "forms": [
+        "sounded",
+        "sounding",
+        "sounds"
+      ],
+      "cefr": "A2",
+      "freqRank": 390,
+      "confusable_candidates": [
+        "around",
+        "bond",
+        "bound",
+        "count",
+        "fond",
+        "found"
+      ]
+    },
+    {
+      "id": "free",
+      "headword": "free",
+      "level": "ELEM",
+      "isCore": true,
+      "pos_hint": [
+        "adj",
+        "adv",
+        "v"
+      ],
+      "forms": [
+        "freed",
+        "freeing",
+        "freer",
+        "frees",
+        "freest"
+      ],
+      "cefr": "A1",
+      "freqRank": 395,
+      "confusable_candidates": [
+        "agree",
+        "area",
+        "bee",
+        "breed",
+        "brew",
+        "creek"
+      ]
+    },
+    {
+      "id": "wait",
+      "headword": "wait",
+      "level": "ELEM",
+      "isCore": true,
+      "pos_hint": [
+        "n",
+        "v"
+      ],
+      "forms": [
+        "waited",
+        "waiting",
+        "waits"
+      ],
+      "cefr": "A1",
+      "freqRank": 403,
+      "confusable_candidates": [
+        "act",
+        "aid",
+        "aim",
+        "air",
+        "ant",
+        "art"
+      ]
+    },
+    {
+      "id": "easy",
+      "headword": "easy",
+      "level": "ELEM",
+      "isCore": true,
+      "pos_hint": [
+        "adj"
+      ],
+      "forms": [
+        "easier",
+        "easiest"
+      ],
+      "cefr": "A1",
+      "freqRank": 408,
+      "confusable_candidates": [
+        "ash",
+        "ask",
+        "baby",
+        "base",
+        "bay",
+        "beast"
+      ]
+    },
+    {
+      "id": "rule",
+      "headword": "rule",
+      "level": "ELEM",
+      "isCore": true,
+      "pos_hint": [
+        "n",
+        "v"
+      ],
+      "forms": [
+        "ruled",
+        "rules",
+        "ruling",
+        "rulings"
+      ],
+      "cefr": "A1",
+      "freqRank": 415,
+      "confusable_candidates": [
+        "able",
+        "brute",
+        "bulk",
+        "bull",
+        "cure",
+        "cute"
+      ]
+    },
+    {
+      "id": "pass",
+      "headword": "pass",
+      "level": "ELEM",
+      "isCore": true,
+      "pos_hint": [
+        "n",
+        "v"
+      ],
+      "forms": [
+        "passed",
+        "passes",
+        "passing"
+      ],
+      "cefr": "A2",
+      "freqRank": 416,
+      "confusable_candidates": [
+        "ash",
+        "ask",
+        "base",
+        "basis",
+        "boss",
+        "case"
+      ]
+    },
+    {
+      "id": "cover",
+      "headword": "cover",
+      "level": "ELEM",
+      "isCore": true,
+      "pos_hint": [
+        "n",
+        "v"
+      ],
+      "forms": [
+        "covered",
+        "covering",
+        "coverings",
+        "covers"
+      ],
+      "cefr": "A1",
+      "freqRank": 424,
+      "confusable_candidates": [
+        "cater",
+        "cave",
+        "cheer",
+        "clever",
+        "code",
+        "coke"
+      ]
+    },
+    {
+      "id": "human",
+      "headword": "human",
+      "level": "ELEM",
+      "isCore": true,
+      "pos_hint": [
+        "adj",
+        "n"
+      ],
+      "forms": [
+        "humans"
+      ],
+      "cefr": "A2",
+      "freqRank": 428,
+      "confusable_candidates": [
+        "humor",
+        "woman"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,328 @@
+{
+  "formatVersion": 1,
+  "database": {
+    "version": 1,
+    "identityHash": "7735d828e496c6c3b1e180bf04a040ba",
+    "entities": [
+      {
+        "tableName": "word",
+        "createSql": "CREATE TABLE IF NOT EXISTS `${TABLE_NAME}` (`id` TEXT NOT NULL, `headword` TEXT NOT NULL, `ipa` TEXT, `level` TEXT NOT NULL, `cefr` TEXT, `freqRank` INTEGER, `isCore` INTEGER NOT NULL, `topic` TEXT NOT NULL, `unitId` TEXT NOT NULL, `unitOrd` INTEGER NOT NULL, `formsJson` TEXT NOT NULL, `familyJson` TEXT NOT NULL, `confusablesJson` TEXT NOT NULL, `memoryHook` TEXT, `searchText` TEXT NOT NULL, PRIMARY KEY(`id`))",
+        "fields": [
+          {
+            "fieldPath": "id",
+            "columnName": "id",
+            "affinity": "TEXT",
+            "notNull": true
+          },
+          {
+            "fieldPath": "headword",
+            "columnName": "headword",
+            "affinity": "TEXT",
+            "notNull": true
+          },
+          {
+            "fieldPath": "ipa",
+            "columnName": "ipa",
+            "affinity": "TEXT"
+          },
+          {
+            "fieldPath": "level",
+            "columnName": "level",
+            "affinity": "TEXT",
+            "notNull": true
+          },
+          {
+            "fieldPath": "cefr",
+            "columnName": "cefr",
+            "affinity": "TEXT"
+          },
+          {
+            "fieldPath": "freqRank",
+            "columnName": "freqRank",
+            "affinity": "INTEGER"
+          },
+          {
+            "fieldPath": "isCore",
+            "columnName": "isCore",
+            "affinity": "INTEGER",
+            "notNull": true
+          },
+          {
+            "fieldPath": "topic",
+            "columnName": "topic",
+            "affinity": "TEXT",
+            "notNull": true
+          },
+          {
+            "fieldPath": "unitId",
+            "columnName": "unitId",
+            "affinity": "TEXT",
+            "notNull": true
+          },
+          {
+            "fieldPath": "unitOrd",
+            "columnName": "unitOrd",
+            "affinity": "INTEGER",
+            "notNull": true
+          },
+          {
+            "fieldPath": "formsJson",
+            "columnName": "formsJson",
+            "affinity": "TEXT",
+            "notNull": true
+          },
+          {
+            "fieldPath": "familyJson",
+            "columnName": "familyJson",
+            "affinity": "TEXT",
+            "notNull": true
+          },
+          {
+            "fieldPath": "confusablesJson",
+            "columnName": "confusablesJson",
+            "affinity": "TEXT",
+            "notNull": true
+          },
+          {
+            "fieldPath": "memoryHook",
+            "columnName": "memoryHook",
+            "affinity": "TEXT"
+          },
+          {
+            "fieldPath": "searchText",
+            "columnName": "searchText",
+            "affinity": "TEXT",
+            "notNull": true
+          }
+        ],
+        "primaryKey": {
+          "autoGenerate": false,
+          "columnNames": [
+            "id"
+          ]
+        },
+        "indices": [
+          {
+            "name": "index_word_level",
+            "unique": false,
+            "columnNames": [
+              "level"
+            ],
+            "orders": [],
+            "createSql": "CREATE INDEX IF NOT EXISTS `index_word_level` ON `${TABLE_NAME}` (`level`)"
+          },
+          {
+            "name": "index_word_headword",
+            "unique": false,
+            "columnNames": [
+              "headword"
+            ],
+            "orders": [],
+            "createSql": "CREATE INDEX IF NOT EXISTS `index_word_headword` ON `${TABLE_NAME}` (`headword`)"
+          },
+          {
+            "name": "index_word_isCore",
+            "unique": false,
+            "columnNames": [
+              "isCore"
+            ],
+            "orders": [],
+            "createSql": "CREATE INDEX IF NOT EXISTS `index_word_isCore` ON `${TABLE_NAME}` (`isCore`)"
+          },
+          {
+            "name": "index_word_unitId",
+            "unique": false,
+            "columnNames": [
+              "unitId"
+            ],
+            "orders": [],
+            "createSql": "CREATE INDEX IF NOT EXISTS `index_word_unitId` ON `${TABLE_NAME}` (`unitId`)"
+          },
+          {
+            "name": "index_word_topic",
+            "unique": false,
+            "columnNames": [
+              "topic"
+            ],
+            "orders": [],
+            "createSql": "CREATE INDEX IF NOT EXISTS `index_word_topic` ON `${TABLE_NAME}` (`topic`)"
+          }
+        ]
+      },
+      {
+        "tableName": "sense",
+        "createSql": "CREATE TABLE IF NOT EXISTS `${TABLE_NAME}` (`id` TEXT NOT NULL, `wordId` TEXT NOT NULL, `ord` INTEGER NOT NULL, `pos` TEXT NOT NULL, `ko` TEXT NOT NULL, `en` TEXT NOT NULL, `nuance` TEXT, `pattern` TEXT, `examplesJson` TEXT NOT NULL, `collocationsJson` TEXT NOT NULL, `phrasalsJson` TEXT NOT NULL, PRIMARY KEY(`id`))",
+        "fields": [
+          {
+            "fieldPath": "id",
+            "columnName": "id",
+            "affinity": "TEXT",
+            "notNull": true
+          },
+          {
+            "fieldPath": "wordId",
+            "columnName": "wordId",
+            "affinity": "TEXT",
+            "notNull": true
+          },
+          {
+            "fieldPath": "ord",
+            "columnName": "ord",
+            "affinity": "INTEGER",
+            "notNull": true
+          },
+          {
+            "fieldPath": "pos",
+            "columnName": "pos",
+            "affinity": "TEXT",
+            "notNull": true
+          },
+          {
+            "fieldPath": "ko",
+            "columnName": "ko",
+            "affinity": "TEXT",
+            "notNull": true
+          },
+          {
+            "fieldPath": "en",
+            "columnName": "en",
+            "affinity": "TEXT",
+            "notNull": true
+          },
+          {
+            "fieldPath": "nuance",
+            "columnName": "nuance",
+            "affinity": "TEXT"
+          },
+          {
+            "fieldPath": "pattern",
+            "columnName": "pattern",
+            "affinity": "TEXT"
+          },
+          {
+            "fieldPath": "examplesJson",
+            "columnName": "examplesJson",
+            "affinity": "TEXT",
+            "notNull": true
+          },
+          {
+            "fieldPath": "collocationsJson",
+            "columnName": "collocationsJson",
+            "affinity": "TEXT",
+            "notNull": true
+          },
+          {
+            "fieldPath": "phrasalsJson",
+            "columnName": "phrasalsJson",
+            "affinity": "TEXT",
+            "notNull": true
+          }
+        ],
+        "primaryKey": {
+          "autoGenerate": false,
+          "columnNames": [
+            "id"
+          ]
+        },
+        "indices": [
+          {
+            "name": "index_sense_wordId",
+            "unique": false,
+            "columnNames": [
+              "wordId"
+            ],
+            "orders": [],
+            "createSql": "CREATE INDEX IF NOT EXISTS `index_sense_wordId` ON `${TABLE_NAME}` (`wordId`)"
+          }
+        ]
+      },
+      {
+        "tableName": "unit",
+        "createSql": "CREATE TABLE IF NOT EXISTS `${TABLE_NAME}` (`id` TEXT NOT NULL, `level` TEXT NOT NULL, `ord` INTEGER NOT NULL, `title` TEXT NOT NULL, `topic` TEXT NOT NULL, `wordCount` INTEGER NOT NULL, PRIMARY KEY(`id`))",
+        "fields": [
+          {
+            "fieldPath": "id",
+            "columnName": "id",
+            "affinity": "TEXT",
+            "notNull": true
+          },
+          {
+            "fieldPath": "level",
+            "columnName": "level",
+            "affinity": "TEXT",
+            "notNull": true
+          },
+          {
+            "fieldPath": "ord",
+            "columnName": "ord",
+            "affinity": "INTEGER",
+            "notNull": true
+          },
+          {
+            "fieldPath": "title",
+            "columnName": "title",
+            "affinity": "TEXT",
+            "notNull": true
+          },
+          {
+            "fieldPath": "topic",
+            "columnName": "topic",
+            "affinity": "TEXT",
+            "notNull": true
+          },
+          {
+            "fieldPath": "wordCount",
+            "columnName": "wordCount",
+            "affinity": "INTEGER",
+            "notNull": true
+          }
+        ],
+        "primaryKey": {
+          "autoGenerate": false,
+          "columnNames": [
+            "id"
+          ]
+        },
+        "indices": [
+          {
+            "name": "index_unit_level",
+            "unique": false,
+            "columnNames": [
+              "level"
+            ],
+            "orders": [],
+            "createSql": "CREATE INDEX IF NOT EXISTS `index_unit_level` ON `${TABLE_NAME}` (`level`)"
+          }
+        ]
+      },
+      {
+        "tableName": "content_meta",
+        "createSql": "CREATE TABLE IF NOT EXISTS `${TABLE_NAME}` (`key` TEXT NOT NULL, `value` TEXT NOT NULL, PRIMARY KEY(`key`))",
+        "fields": [
+          {
+            "fieldPath": "key",
+            "columnName": "key",
+            "affinity": "TEXT",
+            "notNull": true
+          },
+          {
+            "fieldPath": "value",
+            "columnName": "value",
+            "affinity": "TEXT",
+            "notNull": true
+          }
+        ],
+        "primaryKey": {
+          "autoGenerate": false,
+          "columnNames": [
+            "key"
+          ]
+        }
+      }
+    ],
+    "setupQueries": [
+      "CREATE TABLE IF NOT EXISTS room_master_table (id INTEGER PRIMARY KEY,identity_hash TEXT)",
+      "INSERT OR REPLACE INTO room_master_table (id,identity_hash) VALUES(42, '7735d828e496c6c3b1e180bf04a040ba')"
+    ]
+  }
+}

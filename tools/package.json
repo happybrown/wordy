@@ -1,0 +1,22 @@
+{
+  "name": "wordy-tools",
+  "private": true,
+  "type": "module",
+  "description": "Content pipeline for the Wordy vocabulary app (Node 26, no build step)",
+  "engines": {
+    "node": ">=22"
+  },
+  "scripts": {
+    "fetch": "node fetch-sources.mjs",
+    "wordlist": "node build-wordlist.mjs",
+    "batches": "node make-batches.mjs",
+    "validate": "node validate.mjs --all",
+    "merge": "node merge.mjs",
+    "db": "node build-db.mjs",
+    "stats": "node stats.mjs",
+    "test": "node --test"
+  },
+  "dependencies": {
+    "@exodus/schemasafe": "1.3.0"
+  }
+}

@@ -1,0 +1,1068 @@
+{
+  "batch": "l048",
+  "kind": "light",
+  "levels": [
+    "HIGH"
+  ],
+  "count": 60,
+  "entries": [
+    {
+      "id": "gorgeous",
+      "headword": "gorgeous",
+      "level": "HIGH",
+      "isCore": false,
+      "pos_hint": [
+        "adj"
+      ],
+      "forms": [],
+      "cefr": "B1",
+      "freqRank": null,
+      "confusable_candidates": []
+    },
+    {
+      "id": "grace",
+      "headword": "grace",
+      "level": "HIGH",
+      "isCore": false,
+      "pos_hint": [
+        "n"
+      ],
+      "forms": [],
+      "cefr": "A2",
+      "freqRank": null,
+      "confusable_candidates": [
+        "brake",
+        "brave",
+        "crack",
+        "face",
+        "frame",
+        "game"
+      ]
+    },
+    {
+      "id": "gradual",
+      "headword": "gradual",
+      "level": "HIGH",
+      "isCore": false,
+      "pos_hint": [
+        "adj"
+      ],
+      "forms": [],
+      "cefr": "B2",
+      "freqRank": null,
+      "confusable_candidates": [
+        "gradually",
+        "graduate"
+      ]
+    },
+    {
+      "id": "graphic",
+      "headword": "graphic",
+      "level": "HIGH",
+      "isCore": false,
+      "pos_hint": [
+        "adj"
+      ],
+      "forms": [],
+      "cefr": "B1",
+      "freqRank": null,
+      "confusable_candidates": []
+    },
+    {
+      "id": "grave",
+      "headword": "grave",
+      "level": "HIGH",
+      "isCore": false,
+      "pos_hint": [
+        "n"
+      ],
+      "forms": [
+        "graves"
+      ],
+      "cefr": "B1",
+      "freqRank": null,
+      "confusable_candidates": [
+        "brake",
+        "brave",
+        "cave",
+        "drive",
+        "frame",
+        "game"
+      ]
+    },
+    {
+      "id": "greed",
+      "headword": "greed",
+      "level": "HIGH",
+      "isCore": false,
+      "pos_hint": [],
+      "forms": [],
+      "cefr": null,
+      "freqRank": null,
+      "confusable_candidates": [
+        "agree",
+        "bleed",
+        "bread",
+        "breed",
+        "creek",
+        "creep"
+      ]
+    },
+    {
+      "id": "grief",
+      "headword": "grief",
+      "level": "HIGH",
+      "isCore": false,
+      "pos_hint": [
+        "n"
+      ],
+      "forms": [],
+      "cefr": "B2",
+      "freqRank": null,
+      "confusable_candidates": [
+        "brief",
+        "chief",
+        "greed",
+        "green",
+        "greet",
+        "grey"
+      ]
+    },
+    {
+      "id": "grip",
+      "headword": "grip",
+      "level": "HIGH",
+      "isCore": false,
+      "pos_hint": [
+        "n",
+        "v"
+      ],
+      "forms": [
+        "gripped",
+        "gripping",
+        "grips"
+      ],
+      "cefr": "B2",
+      "freqRank": null,
+      "confusable_candidates": [
+        "chip",
+        "clip",
+        "crisp",
+        "crop",
+        "dip",
+        "drop"
+      ]
+    },
+    {
+      "id": "grocery",
+      "headword": "grocery",
+      "level": "HIGH",
+      "isCore": false,
+      "pos_hint": [],
+      "forms": [
+        "groceries"
+      ],
+      "cefr": null,
+      "freqRank": null,
+      "confusable_candidates": []
+    },
+    {
+      "id": "gymnasium",
+      "headword": "gymnasium",
+      "level": "HIGH",
+      "isCore": false,
+      "pos_hint": [],
+      "forms": [],
+      "cefr": null,
+      "freqRank": null,
+      "confusable_candidates": []
+    },
+    {
+      "id": "hammer",
+      "headword": "hammer",
+      "level": "HIGH",
+      "isCore": false,
+      "pos_hint": [
+        "n",
+        "v"
+      ],
+      "forms": [],
+      "cefr": "B1",
+      "freqRank": null,
+      "confusable_candidates": [
+        "chamber",
+        "farmer",
+        "summer"
+      ]
+    },
+    {
+      "id": "handicap",
+      "headword": "handicap",
+      "level": "HIGH",
+      "isCore": false,
+      "pos_hint": [
+        "n"
+      ],
+      "forms": [],
+      "cefr": "B2",
+      "freqRank": null,
+      "confusable_candidates": []
+    },
+    {
+      "id": "harsh",
+      "headword": "harsh",
+      "level": "HIGH",
+      "isCore": false,
+      "pos_hint": [],
+      "forms": [
+        "harsher",
+        "harshest"
+      ],
+      "cefr": null,
+      "freqRank": null,
+      "confusable_candidates": [
+        "cash",
+        "dash",
+        "earth",
+        "hard",
+        "harm",
+        "horse"
+      ]
+    },
+    {
+      "id": "haste",
+      "headword": "haste",
+      "level": "HIGH",
+      "isCore": false,
+      "pos_hint": [
+        "n"
+      ],
+      "forms": [],
+      "cefr": "B2",
+      "freqRank": null,
+      "confusable_candidates": [
+        "base",
+        "case",
+        "cast",
+        "castle",
+        "chase",
+        "date"
+      ]
+    },
+    {
+      "id": "hazard",
+      "headword": "hazard",
+      "level": "HIGH",
+      "isCore": false,
+      "pos_hint": [
+        "n"
+      ],
+      "forms": [
+        "hazards"
+      ],
+      "cefr": "B1",
+      "freqRank": null,
+      "confusable_candidates": [
+        "award"
+      ]
+    },
+    {
+      "id": "heal",
+      "headword": "heal",
+      "level": "HIGH",
+      "isCore": false,
+      "pos_hint": [
+        "v"
+      ],
+      "forms": [],
+      "cefr": "B1",
+      "freqRank": null,
+      "confusable_candidates": [
+        "ahead",
+        "beam",
+        "bean",
+        "bear",
+        "beat",
+        "bell"
+      ]
+    },
+    {
+      "id": "heel",
+      "headword": "heel",
+      "level": "HIGH",
+      "isCore": false,
+      "pos_hint": [
+        "n"
+      ],
+      "forms": [],
+      "cefr": "B1",
+      "freqRank": null,
+      "confusable_candidates": [
+        "bee",
+        "beef",
+        "beer",
+        "bell",
+        "cell",
+        "cheek"
+      ]
+    },
+    {
+      "id": "highway",
+      "headword": "highway",
+      "level": "HIGH",
+      "isCore": false,
+      "pos_hint": [
+        "n"
+      ],
+      "forms": [
+        "highways"
+      ],
+      "cefr": "A2",
+      "freqRank": null,
+      "confusable_candidates": [
+        "highly"
+      ]
+    },
+    {
+      "id": "hip",
+      "headword": "hip",
+      "level": "HIGH",
+      "isCore": false,
+      "pos_hint": [
+        "n"
+      ],
+      "forms": [
+        "hips"
+      ],
+      "cefr": "B1",
+      "freqRank": null,
+      "confusable_candidates": []
+    },
+    {
+      "id": "holy",
+      "headword": "holy",
+      "level": "HIGH",
+      "isCore": false,
+      "pos_hint": [
+        "adj"
+      ],
+      "forms": [],
+      "cefr": "B1",
+      "freqRank": null,
+      "confusable_candidates": [
+        "ally",
+        "body",
+        "bold",
+        "boy",
+        "cold",
+        "copy"
+      ]
+    },
+    {
+      "id": "horror",
+      "headword": "horror",
+      "level": "HIGH",
+      "isCore": false,
+      "pos_hint": [
+        "n"
+      ],
+      "forms": [
+        "horrors"
+      ],
+      "cefr": "A2",
+      "freqRank": null,
+      "confusable_candidates": [
+        "borrow",
+        "error",
+        "harbor",
+        "honor",
+        "mirror"
+      ]
+    },
+    {
+      "id": "hug",
+      "headword": "hug",
+      "level": "HIGH",
+      "isCore": false,
+      "pos_hint": [
+        "n",
+        "v"
+      ],
+      "forms": [],
+      "cefr": "A2",
+      "freqRank": null,
+      "confusable_candidates": []
+    },
+    {
+      "id": "hut",
+      "headword": "hut",
+      "level": "HIGH",
+      "isCore": false,
+      "pos_hint": [
+        "n"
+      ],
+      "forms": [],
+      "cefr": "B1",
+      "freqRank": null,
+      "confusable_candidates": []
+    },
+    {
+      "id": "identical",
+      "headword": "identical",
+      "level": "HIGH",
+      "isCore": false,
+      "pos_hint": [
+        "adj"
+      ],
+      "forms": [],
+      "cefr": "B2",
+      "freqRank": null,
+      "confusable_candidates": [
+        "identify",
+        "identity"
+      ]
+    },
+    {
+      "id": "imitate",
+      "headword": "imitate",
+      "level": "HIGH",
+      "isCore": false,
+      "pos_hint": [
+        "v"
+      ],
+      "forms": [],
+      "cefr": "B1",
+      "freqRank": null,
+      "confusable_candidates": [
+        "initiate",
+        "irritate"
+      ]
+    },
+    {
+      "id": "immune",
+      "headword": "immune",
+      "level": "HIGH",
+      "isCore": false,
+      "pos_hint": [
+        "adj"
+      ],
+      "forms": [],
+      "cefr": null,
+      "freqRank": null,
+      "confusable_candidates": [
+        "immense"
+      ]
+    },
+    {
+      "id": "imperial",
+      "headword": "imperial",
+      "level": "HIGH",
+      "isCore": false,
+      "pos_hint": [],
+      "forms": [],
+      "cefr": null,
+      "freqRank": null,
+      "confusable_candidates": []
+    },
+    {
+      "id": "incredible",
+      "headword": "incredible",
+      "level": "HIGH",
+      "isCore": false,
+      "pos_hint": [
+        "adj"
+      ],
+      "forms": [],
+      "cefr": "B1",
+      "freqRank": null,
+      "confusable_candidates": [
+        "increase",
+        "increasingly",
+        "incredibly"
+      ]
+    },
+    {
+      "id": "informal",
+      "headword": "informal",
+      "level": "HIGH",
+      "isCore": false,
+      "pos_hint": [
+        "adj"
+      ],
+      "forms": [],
+      "cefr": "B2",
+      "freqRank": null,
+      "confusable_candidates": [
+        "inform",
+        "information"
+      ]
+    },
+    {
+      "id": "inhabit",
+      "headword": "inhabit",
+      "level": "HIGH",
+      "isCore": false,
+      "pos_hint": [
+        "v"
+      ],
+      "forms": [],
+      "cefr": "B2",
+      "freqRank": null,
+      "confusable_candidates": [
+        "inhibit"
+      ]
+    },
+    {
+      "id": "initiate",
+      "headword": "initiate",
+      "level": "HIGH",
+      "isCore": false,
+      "pos_hint": [],
+      "forms": [
+        "initiated",
+        "initiates",
+        "initiating"
+      ],
+      "cefr": null,
+      "freqRank": null,
+      "confusable_candidates": [
+        "imitate",
+        "initial",
+        "initially",
+        "initiative",
+        "intimate"
+      ]
+    },
+    {
+      "id": "inject",
+      "headword": "inject",
+      "level": "HIGH",
+      "isCore": false,
+      "pos_hint": [
+        "v"
+      ],
+      "forms": [
+        "injected",
+        "injecting",
+        "injects"
+      ],
+      "cefr": "B1",
+      "freqRank": null,
+      "confusable_candidates": [
+        "infect",
+        "insect",
+        "insert",
+        "inspect",
+        "intent",
+        "invent"
+      ]
+    },
+    {
+      "id": "inn",
+      "headword": "inn",
+      "level": "HIGH",
+      "isCore": false,
+      "pos_hint": [],
+      "forms": [],
+      "cefr": null,
+      "freqRank": null,
+      "confusable_candidates": []
+    },
+    {
+      "id": "innovate",
+      "headword": "innovate",
+      "level": "HIGH",
+      "isCore": false,
+      "pos_hint": [],
+      "forms": [],
+      "cefr": null,
+      "freqRank": null,
+      "confusable_candidates": [
+        "innovation",
+        "innovative"
+      ]
+    },
+    {
+      "id": "insect",
+      "headword": "insect",
+      "level": "HIGH",
+      "isCore": false,
+      "pos_hint": [
+        "n"
+      ],
+      "forms": [
+        "insects"
+      ],
+      "cefr": "A2",
+      "freqRank": null,
+      "confusable_candidates": [
+        "infect",
+        "inject",
+        "insert",
+        "insist",
+        "inspect",
+        "insult"
+      ]
+    },
+    {
+      "id": "insert",
+      "headword": "insert",
+      "level": "HIGH",
+      "isCore": false,
+      "pos_hint": [],
+      "forms": [
+        "inserted",
+        "inserting",
+        "inserts"
+      ],
+      "cefr": null,
+      "freqRank": null,
+      "confusable_candidates": [
+        "assert",
+        "desert",
+        "infect",
+        "infer",
+        "inject",
+        "inner"
+      ]
+    },
+    {
+      "id": "inspect",
+      "headword": "inspect",
+      "level": "HIGH",
+      "isCore": false,
+      "pos_hint": [
+        "v"
+      ],
+      "forms": [
+        "inspected",
+        "inspecting",
+        "inspects"
+      ],
+      "cefr": "B2",
+      "freqRank": null,
+      "confusable_candidates": [
+        "aspect",
+        "infect",
+        "inject",
+        "insect",
+        "insert",
+        "respect"
+      ]
+    },
+    {
+      "id": "instinct",
+      "headword": "instinct",
+      "level": "HIGH",
+      "isCore": false,
+      "pos_hint": [
+        "n"
+      ],
+      "forms": [
+        "instincts"
+      ],
+      "cefr": "B2",
+      "freqRank": null,
+      "confusable_candidates": [
+        "distinct",
+        "instance",
+        "instant",
+        "institute",
+        "institution",
+        "institutional"
+      ]
+    },
+    {
+      "id": "instruct",
+      "headword": "instruct",
+      "level": "HIGH",
+      "isCore": false,
+      "pos_hint": [
+        "v"
+      ],
+      "forms": [
+        "instructed",
+        "instructing",
+        "instructs"
+      ],
+      "cefr": "B2",
+      "freqRank": null,
+      "confusable_candidates": [
+        "construct",
+        "instinct",
+        "instruction",
+        "instrument"
+      ]
+    },
+    {
+      "id": "insult",
+      "headword": "insult",
+      "level": "HIGH",
+      "isCore": false,
+      "pos_hint": [
+        "n",
+        "v"
+      ],
+      "forms": [],
+      "cefr": "B2",
+      "freqRank": null,
+      "confusable_candidates": [
+        "consult",
+        "input",
+        "insect",
+        "insert",
+        "insist",
+        "insure"
+      ]
+    },
+    {
+      "id": "intelligent",
+      "headword": "intelligent",
+      "level": "HIGH",
+      "isCore": false,
+      "pos_hint": [
+        "adj"
+      ],
+      "forms": [],
+      "cefr": "A2",
+      "freqRank": null,
+      "confusable_candidates": [
+        "intellectual",
+        "intelligence"
+      ]
+    },
+    {
+      "id": "intent",
+      "headword": "intent",
+      "level": "HIGH",
+      "isCore": false,
+      "pos_hint": [
+        "adj"
+      ],
+      "forms": [],
+      "cefr": "B2",
+      "freqRank": null,
+      "confusable_candidates": [
+        "content",
+        "extent",
+        "infant",
+        "infect",
+        "inject",
+        "insect"
+      ]
+    },
+    {
+      "id": "interfere",
+      "headword": "interfere",
+      "level": "HIGH",
+      "isCore": false,
+      "pos_hint": [
+        "v"
+      ],
+      "forms": [
+        "interfered",
+        "interferes",
+        "interfering"
+      ],
+      "cefr": "B2",
+      "freqRank": null,
+      "confusable_candidates": [
+        "interact",
+        "interaction",
+        "interest",
+        "interested",
+        "interesting",
+        "interior"
+      ]
+    },
+    {
+      "id": "interrupt",
+      "headword": "interrupt",
+      "level": "HIGH",
+      "isCore": false,
+      "pos_hint": [
+        "v"
+      ],
+      "forms": [
+        "interrupted",
+        "interrupting",
+        "interrupts"
+      ],
+      "cefr": "B1",
+      "freqRank": null,
+      "confusable_candidates": [
+        "interact",
+        "interaction",
+        "interest",
+        "interested",
+        "interesting",
+        "interfere"
+      ]
+    },
+    {
+      "id": "intimate",
+      "headword": "intimate",
+      "level": "HIGH",
+      "isCore": false,
+      "pos_hint": [
+        "adj"
+      ],
+      "forms": [],
+      "cefr": "B2",
+      "freqRank": null,
+      "confusable_candidates": [
+        "estimate",
+        "indicate",
+        "initiate",
+        "ultimate"
+      ]
+    },
+    {
+      "id": "invade",
+      "headword": "invade",
+      "level": "HIGH",
+      "isCore": false,
+      "pos_hint": [
+        "v"
+      ],
+      "forms": [
+        "invaded",
+        "invades",
+        "invading"
+      ],
+      "cefr": "A2",
+      "freqRank": null,
+      "confusable_candidates": [
+        "inside",
+        "invite"
+      ]
+    },
+    {
+      "id": "irony",
+      "headword": "irony",
+      "level": "HIGH",
+      "isCore": false,
+      "pos_hint": [],
+      "forms": [],
+      "cefr": null,
+      "freqRank": null,
+      "confusable_candidates": [
+        "front",
+        "iron",
+        "wrong"
+      ]
+    },
+    {
+      "id": "irritate",
+      "headword": "irritate",
+      "level": "HIGH",
+      "isCore": false,
+      "pos_hint": [
+        "v"
+      ],
+      "forms": [],
+      "cefr": "B1",
+      "freqRank": null,
+      "confusable_candidates": [
+        "imitate"
+      ]
+    },
+    {
+      "id": "jar",
+      "headword": "jar",
+      "level": "HIGH",
+      "isCore": false,
+      "pos_hint": [
+        "n"
+      ],
+      "forms": [],
+      "cefr": "B1",
+      "freqRank": null,
+      "confusable_candidates": []
+    },
+    {
+      "id": "jaw",
+      "headword": "jaw",
+      "level": "HIGH",
+      "isCore": false,
+      "pos_hint": [
+        "n"
+      ],
+      "forms": [],
+      "cefr": "B2",
+      "freqRank": null,
+      "confusable_candidates": []
+    },
+    {
+      "id": "jog",
+      "headword": "jog",
+      "level": "HIGH",
+      "isCore": false,
+      "pos_hint": [
+        "n",
+        "v"
+      ],
+      "forms": [],
+      "cefr": "B1",
+      "freqRank": null,
+      "confusable_candidates": []
+    },
+    {
+      "id": "kit",
+      "headword": "kit",
+      "level": "HIGH",
+      "isCore": false,
+      "pos_hint": [
+        "n"
+      ],
+      "forms": [],
+      "cefr": "A2",
+      "freqRank": null,
+      "confusable_candidates": []
+    },
+    {
+      "id": "knight",
+      "headword": "knight",
+      "level": "HIGH",
+      "isCore": false,
+      "pos_hint": [],
+      "forms": [],
+      "cefr": null,
+      "freqRank": null,
+      "confusable_candidates": [
+        "bright",
+        "fight",
+        "flight",
+        "fright",
+        "height",
+        "insight"
+      ]
+    },
+    {
+      "id": "ladder",
+      "headword": "ladder",
+      "level": "HIGH",
+      "isCore": false,
+      "pos_hint": [
+        "n"
+      ],
+      "forms": [],
+      "cefr": "B1",
+      "freqRank": null,
+      "confusable_candidates": [
+        "later",
+        "latter",
+        "lawyer",
+        "layer",
+        "leader",
+        "ledger"
+      ]
+    },
+    {
+      "id": "lamb",
+      "headword": "lamb",
+      "level": "HIGH",
+      "isCore": false,
+      "pos_hint": [
+        "n"
+      ],
+      "forms": [],
+      "cefr": "B1",
+      "freqRank": null,
+      "confusable_candidates": [
+        "blame",
+        "bomb",
+        "cab",
+        "camp",
+        "climb",
+        "dam"
+      ]
+    },
+    {
+      "id": "lamp",
+      "headword": "lamp",
+      "level": "HIGH",
+      "isCore": false,
+      "pos_hint": [
+        "n"
+      ],
+      "forms": [],
+      "cefr": "A2",
+      "freqRank": null,
+      "confusable_candidates": [
+        "blame",
+        "bump",
+        "camp",
+        "cap",
+        "clap",
+        "dam"
+      ]
+    },
+    {
+      "id": "lane",
+      "headword": "lane",
+      "level": "HIGH",
+      "isCore": false,
+      "pos_hint": [
+        "n"
+      ],
+      "forms": [],
+      "cefr": "A2",
+      "freqRank": null,
+      "confusable_candidates": [
+        "age",
+        "alone",
+        "ant",
+        "bake",
+        "ban",
+        "band"
+      ]
+    },
+    {
+      "id": "lap",
+      "headword": "lap",
+      "level": "HIGH",
+      "isCore": false,
+      "pos_hint": [
+        "n"
+      ],
+      "forms": [],
+      "cefr": "B2",
+      "freqRank": null,
+      "confusable_candidates": []
+    },
+    {
+      "id": "laundry",
+      "headword": "laundry",
+      "level": "HIGH",
+      "isCore": false,
+      "pos_hint": [
+        "n"
+      ],
+      "forms": [],
+      "cefr": "B2",
+      "freqRank": null,
+      "confusable_candidates": []
+    },
+    {
+      "id": "lawn",
+      "headword": "lawn",
+      "level": "HIGH",
+      "isCore": false,
+      "pos_hint": [
+        "n"
+      ],
+      "forms": [],
+      "cefr": "B2",
+      "freqRank": null,
+      "confusable_candidates": [
+        "ban",
+        "barn",
+        "damn",
+        "dawn",
+        "down",
+        "earn"
+      ]
+    }
+  ]
+}

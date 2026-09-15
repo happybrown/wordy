@@ -1,0 +1,1051 @@
+{
+  "batch": "l012",
+  "kind": "light",
+  "levels": [
+    "ELEM"
+  ],
+  "count": 60,
+  "entries": [
+    {
+      "id": "better",
+      "headword": "better",
+      "level": "ELEM",
+      "isCore": false,
+      "pos_hint": [
+        "adj",
+        "adv"
+      ],
+      "forms": [],
+      "cefr": "A1",
+      "freqRank": null,
+      "confusable_candidates": [
+        "battery",
+        "bitter",
+        "bother",
+        "butter",
+        "center",
+        "enter"
+      ]
+    },
+    {
+      "id": "bicycle",
+      "headword": "bicycle",
+      "level": "ELEM",
+      "isCore": false,
+      "pos_hint": [
+        "n"
+      ],
+      "forms": [],
+      "cefr": "A1",
+      "freqRank": null,
+      "confusable_candidates": [
+        "recycle"
+      ]
+    },
+    {
+      "id": "birthday",
+      "headword": "birthday",
+      "level": "ELEM",
+      "isCore": false,
+      "pos_hint": [
+        "n"
+      ],
+      "forms": [],
+      "cefr": "A1",
+      "freqRank": null,
+      "confusable_candidates": []
+    },
+    {
+      "id": "biscuit",
+      "headword": "biscuit",
+      "level": "ELEM",
+      "isCore": false,
+      "pos_hint": [
+        "n"
+      ],
+      "forms": [],
+      "cefr": "A1",
+      "freqRank": null,
+      "confusable_candidates": []
+    },
+    {
+      "id": "blank",
+      "headword": "blank",
+      "level": "ELEM",
+      "isCore": false,
+      "pos_hint": [
+        "adj"
+      ],
+      "forms": [
+        "blanker"
+      ],
+      "cefr": "A1",
+      "freqRank": null,
+      "confusable_candidates": [
+        "back",
+        "band",
+        "bang",
+        "bank",
+        "bark",
+        "bean"
+      ]
+    },
+    {
+      "id": "bookstore",
+      "headword": "bookstore",
+      "level": "ELEM",
+      "isCore": false,
+      "pos_hint": [
+        "n"
+      ],
+      "forms": [],
+      "cefr": "A1",
+      "freqRank": null,
+      "confusable_candidates": []
+    },
+    {
+      "id": "boring",
+      "headword": "boring",
+      "level": "ELEM",
+      "isCore": false,
+      "pos_hint": [
+        "adj"
+      ],
+      "forms": [],
+      "cefr": "A1",
+      "freqRank": null,
+      "confusable_candidates": [
+        "bring",
+        "morning",
+        "spring",
+        "string"
+      ]
+    },
+    {
+      "id": "boyfriend",
+      "headword": "boyfriend",
+      "level": "ELEM",
+      "isCore": false,
+      "pos_hint": [
+        "n"
+      ],
+      "forms": [],
+      "cefr": "A1",
+      "freqRank": null,
+      "confusable_candidates": []
+    },
+    {
+      "id": "brake",
+      "headword": "brake",
+      "level": "ELEM",
+      "isCore": false,
+      "pos_hint": [
+        "n",
+        "v"
+      ],
+      "forms": [],
+      "cefr": "A2",
+      "freqRank": null,
+      "confusable_candidates": [
+        "awake",
+        "bake",
+        "bare",
+        "base",
+        "bike",
+        "blame"
+      ]
+    },
+    {
+      "id": "brave",
+      "headword": "brave",
+      "level": "ELEM",
+      "isCore": false,
+      "pos_hint": [
+        "adj"
+      ],
+      "forms": [
+        "braver",
+        "bravest"
+      ],
+      "cefr": "A2",
+      "freqRank": null,
+      "confusable_candidates": [
+        "bake",
+        "bare",
+        "base",
+        "behave",
+        "blame",
+        "brain"
+      ]
+    },
+    {
+      "id": "broken",
+      "headword": "broken",
+      "level": "ELEM",
+      "isCore": false,
+      "pos_hint": [
+        "adj"
+      ],
+      "forms": [],
+      "cefr": "A1",
+      "freqRank": null,
+      "confusable_candidates": [
+        "brake",
+        "broker",
+        "brown"
+      ]
+    },
+    {
+      "id": "bubble",
+      "headword": "bubble",
+      "level": "ELEM",
+      "isCore": false,
+      "pos_hint": [
+        "n"
+      ],
+      "forms": [
+        "bubbles"
+      ],
+      "cefr": "B1",
+      "freqRank": null,
+      "confusable_candidates": [
+        "bible",
+        "bundle",
+        "subtle"
+      ]
+    },
+    {
+      "id": "bucket",
+      "headword": "bucket",
+      "level": "ELEM",
+      "isCore": false,
+      "pos_hint": [
+        "n"
+      ],
+      "forms": [
+        "buckets"
+      ],
+      "cefr": "A1",
+      "freqRank": null,
+      "confusable_candidates": [
+        "basket",
+        "bracket",
+        "budget",
+        "bullet",
+        "jacket",
+        "packet"
+      ]
+    },
+    {
+      "id": "bug",
+      "headword": "bug",
+      "level": "ELEM",
+      "isCore": false,
+      "pos_hint": [
+        "n"
+      ],
+      "forms": [
+        "bugs"
+      ],
+      "cefr": "A2",
+      "freqRank": null,
+      "confusable_candidates": []
+    },
+    {
+      "id": "building",
+      "headword": "building",
+      "level": "ELEM",
+      "isCore": false,
+      "pos_hint": [
+        "n"
+      ],
+      "forms": [],
+      "cefr": "A1",
+      "freqRank": null,
+      "confusable_candidates": []
+    },
+    {
+      "id": "burger",
+      "headword": "burger",
+      "level": "ELEM",
+      "isCore": false,
+      "pos_hint": [
+        "n"
+      ],
+      "forms": [],
+      "cefr": "A1",
+      "freqRank": null,
+      "confusable_candidates": [
+        "border",
+        "budget",
+        "burden",
+        "butter",
+        "buyer",
+        "hunger"
+      ]
+    },
+    {
+      "id": "butter",
+      "headword": "butter",
+      "level": "ELEM",
+      "isCore": false,
+      "pos_hint": [
+        "n"
+      ],
+      "forms": [],
+      "cefr": "A1",
+      "freqRank": null,
+      "confusable_candidates": [
+        "battery",
+        "better",
+        "bitter",
+        "bother",
+        "burger",
+        "butcher"
+      ]
+    },
+    {
+      "id": "butterfly",
+      "headword": "butterfly",
+      "level": "ELEM",
+      "isCore": false,
+      "pos_hint": [
+        "n"
+      ],
+      "forms": [],
+      "cefr": "A1",
+      "freqRank": null,
+      "confusable_candidates": [
+        "butter"
+      ]
+    },
+    {
+      "id": "bye",
+      "headword": "bye",
+      "level": "ELEM",
+      "isCore": false,
+      "pos_hint": [
+        "n"
+      ],
+      "forms": [],
+      "cefr": "A1",
+      "freqRank": null,
+      "confusable_candidates": []
+    },
+    {
+      "id": "cafe",
+      "headword": "cafe",
+      "level": "ELEM",
+      "isCore": false,
+      "pos_hint": [
+        "n"
+      ],
+      "forms": [
+        "café"
+      ],
+      "cefr": "A1",
+      "freqRank": null,
+      "confusable_candidates": [
+        "age",
+        "bake",
+        "bare",
+        "base",
+        "cab",
+        "cable"
+      ]
+    },
+    {
+      "id": "cage",
+      "headword": "cage",
+      "level": "ELEM",
+      "isCore": false,
+      "pos_hint": [
+        "n"
+      ],
+      "forms": [],
+      "cefr": "B1",
+      "freqRank": null,
+      "confusable_candidates": [
+        "age",
+        "ago",
+        "bag",
+        "bake",
+        "bare",
+        "base"
+      ]
+    },
+    {
+      "id": "calendar",
+      "headword": "calendar",
+      "level": "ELEM",
+      "isCore": false,
+      "pos_hint": [
+        "n"
+      ],
+      "forms": [
+        "calendars"
+      ],
+      "cefr": "A2",
+      "freqRank": null,
+      "confusable_candidates": []
+    },
+    {
+      "id": "captain",
+      "headword": "captain",
+      "level": "ELEM",
+      "isCore": false,
+      "pos_hint": [
+        "n"
+      ],
+      "forms": [
+        "captains"
+      ],
+      "cefr": "A2",
+      "freqRank": null,
+      "confusable_candidates": [
+        "attain",
+        "caption",
+        "certain",
+        "contain",
+        "curtain"
+      ]
+    },
+    {
+      "id": "carrot",
+      "headword": "carrot",
+      "level": "ELEM",
+      "isCore": false,
+      "pos_hint": [
+        "n"
+      ],
+      "forms": [],
+      "cefr": "A2",
+      "freqRank": null,
+      "confusable_candidates": [
+        "arrow",
+        "carbon",
+        "carpet",
+        "carry",
+        "narrow"
+      ]
+    },
+    {
+      "id": "cart",
+      "headword": "cart",
+      "level": "ELEM",
+      "isCore": false,
+      "pos_hint": [],
+      "forms": [],
+      "cefr": null,
+      "freqRank": null,
+      "confusable_candidates": [
+        "act",
+        "ant",
+        "apart",
+        "arm",
+        "art",
+        "bar"
+      ]
+    },
+    {
+      "id": "cartoon",
+      "headword": "cartoon",
+      "level": "ELEM",
+      "isCore": false,
+      "pos_hint": [
+        "n"
+      ],
+      "forms": [],
+      "cefr": "A1",
+      "freqRank": null,
+      "confusable_candidates": [
+        "caption",
+        "carbon",
+        "caution"
+      ]
+    },
+    {
+      "id": "cd",
+      "headword": "cd",
+      "level": "ELEM",
+      "isCore": false,
+      "pos_hint": [
+        "n"
+      ],
+      "forms": [],
+      "cefr": "A1",
+      "freqRank": null,
+      "confusable_candidates": []
+    },
+    {
+      "id": "cd-player",
+      "headword": "cd player",
+      "level": "ELEM",
+      "isCore": false,
+      "pos_hint": [
+        "n"
+      ],
+      "forms": [],
+      "cefr": "A1",
+      "freqRank": null,
+      "confusable_candidates": []
+    },
+    {
+      "id": "cinema",
+      "headword": "cinema",
+      "level": "ELEM",
+      "isCore": false,
+      "pos_hint": [
+        "n"
+      ],
+      "forms": [
+        "cinemas"
+      ],
+      "cefr": "A1",
+      "freqRank": null,
+      "confusable_candidates": []
+    },
+    {
+      "id": "classmate",
+      "headword": "classmate",
+      "level": "ELEM",
+      "isCore": false,
+      "pos_hint": [
+        "n"
+      ],
+      "forms": [],
+      "cefr": "A1",
+      "freqRank": null,
+      "confusable_candidates": [
+        "classic",
+        "classical",
+        "classify",
+        "classroom"
+      ]
+    },
+    {
+      "id": "classroom",
+      "headword": "classroom",
+      "level": "ELEM",
+      "isCore": false,
+      "pos_hint": [
+        "n"
+      ],
+      "forms": [
+        "classrooms"
+      ],
+      "cefr": "A1",
+      "freqRank": null,
+      "confusable_candidates": [
+        "classic",
+        "classical",
+        "classify",
+        "classmate"
+      ]
+    },
+    {
+      "id": "clerk",
+      "headword": "clerk",
+      "level": "ELEM",
+      "isCore": false,
+      "pos_hint": [
+        "n"
+      ],
+      "forms": [],
+      "cefr": "A2",
+      "freqRank": null,
+      "confusable_candidates": [
+        "alert",
+        "check",
+        "cheek",
+        "clean",
+        "clear",
+        "click"
+      ]
+    },
+    {
+      "id": "clever",
+      "headword": "clever",
+      "level": "ELEM",
+      "isCore": false,
+      "pos_hint": [
+        "adj"
+      ],
+      "forms": [
+        "cleverer",
+        "cleverest"
+      ],
+      "cefr": "A1",
+      "freqRank": null,
+      "confusable_candidates": [
+        "cheer",
+        "clear",
+        "cover",
+        "fever",
+        "level",
+        "liver"
+      ]
+    },
+    {
+      "id": "clip",
+      "headword": "clip",
+      "level": "ELEM",
+      "isCore": false,
+      "pos_hint": [
+        "n"
+      ],
+      "forms": [
+        "clips"
+      ],
+      "cefr": "B1",
+      "freqRank": null,
+      "confusable_candidates": [
+        "camp",
+        "cap",
+        "chin",
+        "chip",
+        "chop",
+        "claim"
+      ]
+    },
+    {
+      "id": "closed",
+      "headword": "closed",
+      "level": "ELEM",
+      "isCore": false,
+      "pos_hint": [
+        "adj"
+      ],
+      "forms": [],
+      "cefr": "A1",
+      "freqRank": null,
+      "confusable_candidates": [
+        "clone",
+        "close",
+        "closely",
+        "cloud"
+      ]
+    },
+    {
+      "id": "cloth",
+      "headword": "cloth",
+      "level": "ELEM",
+      "isCore": false,
+      "pos_hint": [
+        "n"
+      ],
+      "forms": [],
+      "cefr": "A1",
+      "freqRank": null,
+      "confusable_candidates": [
+        "clash",
+        "clock",
+        "clone",
+        "close",
+        "cloud",
+        "plot"
+      ]
+    },
+    {
+      "id": "cloudy",
+      "headword": "cloudy",
+      "level": "ELEM",
+      "isCore": false,
+      "pos_hint": [
+        "adj"
+      ],
+      "forms": [],
+      "cefr": "A1",
+      "freqRank": null,
+      "confusable_candidates": [
+        "aloud",
+        "bloody",
+        "cloud"
+      ]
+    },
+    {
+      "id": "coke",
+      "headword": "coke",
+      "level": "ELEM",
+      "isCore": false,
+      "pos_hint": [
+        "n"
+      ],
+      "forms": [],
+      "cefr": "A1",
+      "freqRank": null,
+      "confusable_candidates": [
+        "bake",
+        "bike",
+        "bone",
+        "bore",
+        "cafe",
+        "cage"
+      ]
+    },
+    {
+      "id": "congratulate",
+      "headword": "congratulate",
+      "level": "ELEM",
+      "isCore": false,
+      "pos_hint": [
+        "v"
+      ],
+      "forms": [],
+      "cefr": "B1",
+      "freqRank": null,
+      "confusable_candidates": [
+        "congress"
+      ]
+    },
+    {
+      "id": "cookie",
+      "headword": "cookie",
+      "level": "ELEM",
+      "isCore": false,
+      "pos_hint": [
+        "n"
+      ],
+      "forms": [
+        "cooky"
+      ],
+      "cefr": "A1",
+      "freqRank": null,
+      "confusable_candidates": []
+    },
+    {
+      "id": "cop",
+      "headword": "cop",
+      "level": "ELEM",
+      "isCore": false,
+      "pos_hint": [
+        "n"
+      ],
+      "forms": [],
+      "cefr": "A1",
+      "freqRank": null,
+      "confusable_candidates": []
+    },
+    {
+      "id": "corn",
+      "headword": "corn",
+      "level": "ELEM",
+      "isCore": false,
+      "pos_hint": [
+        "n"
+      ],
+      "forms": [
+        "corns"
+      ],
+      "cefr": "A1",
+      "freqRank": null,
+      "confusable_candidates": [
+        "barn",
+        "bore",
+        "burn",
+        "car",
+        "card",
+        "care"
+      ]
+    },
+    {
+      "id": "cotton",
+      "headword": "cotton",
+      "level": "ELEM",
+      "isCore": false,
+      "pos_hint": [
+        "n"
+      ],
+      "forms": [
+        "cottons"
+      ],
+      "cefr": "B1",
+      "freqRank": null,
+      "confusable_candidates": [
+        "bottom",
+        "button",
+        "common",
+        "coupon",
+        "motion",
+        "notion"
+      ]
+    },
+    {
+      "id": "couch",
+      "headword": "couch",
+      "level": "ELEM",
+      "isCore": false,
+      "pos_hint": [
+        "n"
+      ],
+      "forms": [],
+      "cefr": "A1",
+      "freqRank": null,
+      "confusable_candidates": [
+        "catch",
+        "church",
+        "coach",
+        "cough",
+        "count",
+        "court"
+      ]
+    },
+    {
+      "id": "countryside",
+      "headword": "countryside",
+      "level": "ELEM",
+      "isCore": false,
+      "pos_hint": [
+        "n"
+      ],
+      "forms": [],
+      "cefr": "A2",
+      "freqRank": null,
+      "confusable_candidates": [
+        "counter",
+        "counterpart",
+        "country",
+        "county"
+      ]
+    },
+    {
+      "id": "credit-card",
+      "headword": "credit card",
+      "level": "ELEM",
+      "isCore": false,
+      "pos_hint": [
+        "n"
+      ],
+      "forms": [],
+      "cefr": "A1",
+      "freqRank": null,
+      "confusable_candidates": [
+        "credible",
+        "credit",
+        "creditor"
+      ]
+    },
+    {
+      "id": "crown",
+      "headword": "crown",
+      "level": "ELEM",
+      "isCore": false,
+      "pos_hint": [
+        "n"
+      ],
+      "forms": [],
+      "cefr": "A2",
+      "freqRank": null,
+      "confusable_candidates": [
+        "brown",
+        "coin",
+        "corn",
+        "crawl",
+        "crew",
+        "crop"
+      ]
+    },
+    {
+      "id": "daddy",
+      "headword": "daddy",
+      "level": "ELEM",
+      "isCore": false,
+      "pos_hint": [
+        "n"
+      ],
+      "forms": [],
+      "cefr": "A1",
+      "freqRank": null,
+      "confusable_candidates": [
+        "badly",
+        "candy",
+        "daily",
+        "dairy",
+        "lady"
+      ]
+    },
+    {
+      "id": "dancing",
+      "headword": "dancing",
+      "level": "ELEM",
+      "isCore": false,
+      "pos_hint": [
+        "n"
+      ],
+      "forms": [],
+      "cefr": "A1",
+      "freqRank": null,
+      "confusable_candidates": [
+        "darling"
+      ]
+    },
+    {
+      "id": "delicious",
+      "headword": "delicious",
+      "level": "ELEM",
+      "isCore": false,
+      "pos_hint": [
+        "adj"
+      ],
+      "forms": [],
+      "cefr": "A1",
+      "freqRank": null,
+      "confusable_candidates": [
+        "delicate",
+        "religious"
+      ]
+    },
+    {
+      "id": "dentist",
+      "headword": "dentist",
+      "level": "ELEM",
+      "isCore": false,
+      "pos_hint": [
+        "n"
+      ],
+      "forms": [],
+      "cefr": "A2",
+      "freqRank": null,
+      "confusable_candidates": []
+    },
+    {
+      "id": "dialogue",
+      "headword": "dialogue",
+      "level": "ELEM",
+      "isCore": false,
+      "pos_hint": [],
+      "forms": [
+        "dialog"
+      ],
+      "cefr": null,
+      "freqRank": null,
+      "confusable_candidates": []
+    },
+    {
+      "id": "diary",
+      "headword": "diary",
+      "level": "ELEM",
+      "isCore": false,
+      "pos_hint": [
+        "n"
+      ],
+      "forms": [
+        "diaries"
+      ],
+      "cefr": "A2",
+      "freqRank": null,
+      "confusable_candidates": [
+        "dairy",
+        "dare",
+        "dark",
+        "dear",
+        "dirty",
+        "vary"
+      ]
+    },
+    {
+      "id": "dictionary",
+      "headword": "dictionary",
+      "level": "ELEM",
+      "isCore": false,
+      "pos_hint": [
+        "n"
+      ],
+      "forms": [
+        "dictionaries"
+      ],
+      "cefr": "A1",
+      "freqRank": null,
+      "confusable_candidates": []
+    },
+    {
+      "id": "dining-room",
+      "headword": "dining room",
+      "level": "ELEM",
+      "isCore": false,
+      "pos_hint": [
+        "n"
+      ],
+      "forms": [],
+      "cefr": "A1",
+      "freqRank": null,
+      "confusable_candidates": [
+        "living room"
+      ]
+    },
+    {
+      "id": "dolphin",
+      "headword": "dolphin",
+      "level": "ELEM",
+      "isCore": false,
+      "pos_hint": [
+        "n"
+      ],
+      "forms": [],
+      "cefr": "B1",
+      "freqRank": null,
+      "confusable_candidates": []
+    },
+    {
+      "id": "drum",
+      "headword": "drum",
+      "level": "ELEM",
+      "isCore": false,
+      "pos_hint": [
+        "n"
+      ],
+      "forms": [],
+      "cefr": "A1",
+      "freqRank": null,
+      "confusable_candidates": [
+        "arm",
+        "dam",
+        "deem",
+        "drag",
+        "drama",
+        "draw"
+      ]
+    },
+    {
+      "id": "dvd",
+      "headword": "dvd",
+      "level": "ELEM",
+      "isCore": false,
+      "pos_hint": [
+        "n"
+      ],
+      "forms": [],
+      "cefr": "A1",
+      "freqRank": null,
+      "confusable_candidates": []
+    },
+    {
+      "id": "each-other",
+      "headword": "each other",
+      "level": "ELEM",
+      "isCore": false,
+      "pos_hint": [
+        "pron"
+      ],
+      "forms": [],
+      "cefr": "A1",
+      "freqRank": null,
+      "confusable_candidates": []
+    },
+    {
+      "id": "elementary",
+      "headword": "elementary",
+      "level": "ELEM",
+      "isCore": false,
+      "pos_hint": [
+        "adj"
+      ],
+      "forms": [],
+      "cefr": "A1",
+      "freqRank": null,
+      "confusable_candidates": [
+        "element"
+      ]
+    }
+  ]
+}

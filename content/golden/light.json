@@ -1,0 +1,29 @@
+[
+  {
+    "id": "breakfast",
+    "headword": "breakfast",
+    "ipa": "/ˈbrekfəst/",
+    "level": "ELEM",
+    "isCore": false,
+    "topic": "food_cooking",
+    "forms": ["breakfasts"],
+    "senses": [
+      {
+        "id": "breakfast-1",
+        "pos": "n",
+        "ko": "아침 식사",
+        "en": "the first meal of the day, eaten in the morning",
+        "nuance": "have breakfast처럼 관사 없이 쓰는 것이 기본이다. '아침을 먹다'에 eat보다 have를 더 자주 쓴다.",
+        "pattern": "have / skip breakfast",
+        "examples": [
+          { "en": "I usually have breakfast at seven before work.", "ko": "나는 보통 출근 전 7시에 아침을 먹어.", "focus": "have breakfast" },
+          { "en": "Don't skip breakfast, or you'll be hungry by ten.", "ko": "아침 거르지 마, 안 그러면 10시쯤 배고플 거야.", "focus": "skip breakfast" }
+        ],
+        "collocations": ["have breakfast", "skip breakfast", "a big breakfast"]
+      }
+    ],
+    "wordFamily": [
+      { "form": "brunch", "pos": "n", "ko": "아침 겸 점심" }
+    ]
+  }
+]

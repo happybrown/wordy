@@ -1,0 +1,1138 @@
+{
+  "batch": "l039",
+  "kind": "light",
+  "levels": [
+    "HIGH"
+  ],
+  "count": 60,
+  "entries": [
+    {
+      "id": "mate",
+      "headword": "mate",
+      "level": "HIGH",
+      "isCore": false,
+      "pos_hint": [
+        "n"
+      ],
+      "forms": [
+        "mates"
+      ],
+      "cefr": "B2",
+      "freqRank": 2288,
+      "confusable_candidates": [
+        "age",
+        "amaze",
+        "bake",
+        "bare",
+        "base",
+        "bat"
+      ]
+    },
+    {
+      "id": "occasionally",
+      "headword": "occasionally",
+      "level": "HIGH",
+      "isCore": false,
+      "pos_hint": [
+        "adv"
+      ],
+      "forms": [],
+      "cefr": "B1",
+      "freqRank": 2289,
+      "confusable_candidates": [
+        "occasion"
+      ]
+    },
+    {
+      "id": "shareholder",
+      "headword": "shareholder",
+      "level": "HIGH",
+      "isCore": false,
+      "pos_hint": [],
+      "forms": [
+        "shareholders"
+      ],
+      "cefr": null,
+      "freqRank": 2290,
+      "confusable_candidates": [
+        "stakeholder"
+      ]
+    },
+    {
+      "id": "discovery",
+      "headword": "discovery",
+      "level": "HIGH",
+      "isCore": false,
+      "pos_hint": [
+        "n"
+      ],
+      "forms": [
+        "discoveries"
+      ],
+      "cefr": "B1",
+      "freqRank": 2292,
+      "confusable_candidates": [
+        "discount",
+        "discourse",
+        "discover"
+      ]
+    },
+    {
+      "id": "resistance",
+      "headword": "resistance",
+      "level": "HIGH",
+      "isCore": false,
+      "pos_hint": [
+        "n"
+      ],
+      "forms": [
+        "resistances"
+      ],
+      "cefr": "B2",
+      "freqRank": 2293,
+      "confusable_candidates": [
+        "assistance",
+        "resist"
+      ]
+    },
+    {
+      "id": "frequency",
+      "headword": "frequency",
+      "level": "HIGH",
+      "isCore": false,
+      "pos_hint": [
+        "n"
+      ],
+      "forms": [
+        "frequencies"
+      ],
+      "cefr": "B1",
+      "freqRank": 2295,
+      "confusable_candidates": [
+        "frequent",
+        "frequently"
+      ]
+    },
+    {
+      "id": "attribute",
+      "headword": "attribute",
+      "level": "HIGH",
+      "isCore": false,
+      "pos_hint": [
+        "n",
+        "v"
+      ],
+      "forms": [
+        "attributed",
+        "attributes",
+        "attributing"
+      ],
+      "cefr": "B2",
+      "freqRank": 2300,
+      "confusable_candidates": []
+    },
+    {
+      "id": "apologize",
+      "headword": "apologize",
+      "level": "HIGH",
+      "isCore": false,
+      "pos_hint": [
+        "v"
+      ],
+      "forms": [
+        "apologise",
+        "apologised",
+        "apologises",
+        "apologising",
+        "apologized",
+        "apologizes",
+        "apologizing"
+      ],
+      "cefr": "A2",
+      "freqRank": 2301,
+      "confusable_candidates": [
+        "apology"
+      ]
+    },
+    {
+      "id": "approval",
+      "headword": "approval",
+      "level": "HIGH",
+      "isCore": false,
+      "pos_hint": [
+        "n"
+      ],
+      "forms": [
+        "approvals"
+      ],
+      "cefr": "B1",
+      "freqRank": 2302,
+      "confusable_candidates": [
+        "approach",
+        "appropriate",
+        "approve",
+        "approximate",
+        "approximately"
+      ]
+    },
+    {
+      "id": "entitle",
+      "headword": "entitle",
+      "level": "HIGH",
+      "isCore": false,
+      "pos_hint": [
+        "v"
+      ],
+      "forms": [
+        "entitled",
+        "entitles",
+        "entitling"
+      ],
+      "cefr": "B2",
+      "freqRank": 2304,
+      "confusable_candidates": [
+        "entire"
+      ]
+    },
+    {
+      "id": "involvement",
+      "headword": "involvement",
+      "level": "HIGH",
+      "isCore": false,
+      "pos_hint": [
+        "n"
+      ],
+      "forms": [
+        "involvements"
+      ],
+      "cefr": "B2",
+      "freqRank": 2306,
+      "confusable_candidates": [
+        "involve"
+      ]
+    },
+    {
+      "id": "exposure",
+      "headword": "exposure",
+      "level": "HIGH",
+      "isCore": false,
+      "pos_hint": [],
+      "forms": [
+        "exposures"
+      ],
+      "cefr": null,
+      "freqRank": 2307,
+      "confusable_candidates": [
+        "expose"
+      ]
+    },
+    {
+      "id": "conventional",
+      "headword": "conventional",
+      "level": "HIGH",
+      "isCore": false,
+      "pos_hint": [
+        "adj"
+      ],
+      "forms": [],
+      "cefr": "B2",
+      "freqRank": 2308,
+      "confusable_candidates": [
+        "convenient",
+        "convention",
+        "conversation",
+        "conversion",
+        "convert",
+        "convertible"
+      ]
+    },
+    {
+      "id": "digital",
+      "headword": "digital",
+      "level": "HIGH",
+      "isCore": false,
+      "pos_hint": [
+        "adj"
+      ],
+      "forms": [],
+      "cefr": "B1",
+      "freqRank": 2309,
+      "confusable_candidates": []
+    },
+    {
+      "id": "edit",
+      "headword": "edit",
+      "level": "HIGH",
+      "isCore": false,
+      "pos_hint": [
+        "n",
+        "v"
+      ],
+      "forms": [
+        "edited",
+        "editing",
+        "edits"
+      ],
+      "cefr": "B2",
+      "freqRank": 2311,
+      "confusable_candidates": [
+        "admit",
+        "audit",
+        "bit",
+        "debit",
+        "die",
+        "diet"
+      ]
+    },
+    {
+      "id": "formation",
+      "headword": "formation",
+      "level": "HIGH",
+      "isCore": false,
+      "pos_hint": [
+        "n"
+      ],
+      "forms": [
+        "formations"
+      ],
+      "cefr": "B2",
+      "freqRank": 2312,
+      "confusable_candidates": [
+        "formal",
+        "formally",
+        "format"
+      ]
+    },
+    {
+      "id": "deposit",
+      "headword": "deposit",
+      "level": "HIGH",
+      "isCore": false,
+      "pos_hint": [
+        "n",
+        "v"
+      ],
+      "forms": [
+        "deposited",
+        "depositing",
+        "deposits"
+      ],
+      "cefr": "B1",
+      "freqRank": 2313,
+      "confusable_candidates": []
+    },
+    {
+      "id": "overseas",
+      "headword": "overseas",
+      "level": "HIGH",
+      "isCore": false,
+      "pos_hint": [
+        "adj",
+        "adv"
+      ],
+      "forms": [],
+      "cefr": "A2",
+      "freqRank": 2315,
+      "confusable_candidates": [
+        "overhead"
+      ]
+    },
+    {
+      "id": "advocate",
+      "headword": "advocate",
+      "level": "HIGH",
+      "isCore": false,
+      "pos_hint": [],
+      "forms": [
+        "advocated",
+        "advocates",
+        "advocating"
+      ],
+      "cefr": null,
+      "freqRank": 2316,
+      "confusable_candidates": [
+        "allocate"
+      ]
+    },
+    {
+      "id": "establishment",
+      "headword": "establishment",
+      "level": "HIGH",
+      "isCore": false,
+      "pos_hint": [
+        "n"
+      ],
+      "forms": [
+        "establishments"
+      ],
+      "cefr": "B1",
+      "freqRank": 2317,
+      "confusable_candidates": [
+        "establish"
+      ]
+    },
+    {
+      "id": "recovery",
+      "headword": "recovery",
+      "level": "HIGH",
+      "isCore": false,
+      "pos_hint": [
+        "n"
+      ],
+      "forms": [
+        "recoveries"
+      ],
+      "cefr": "B1",
+      "freqRank": 2321,
+      "confusable_candidates": [
+        "recover"
+      ]
+    },
+    {
+      "id": "seal",
+      "headword": "seal",
+      "level": "HIGH",
+      "isCore": false,
+      "pos_hint": [
+        "n"
+      ],
+      "forms": [
+        "seals"
+      ],
+      "cefr": "B2",
+      "freqRank": 2322,
+      "confusable_candidates": [
+        "beam",
+        "bean",
+        "bear",
+        "beat",
+        "bell",
+        "cell"
+      ]
+    },
+    {
+      "id": "characterize",
+      "headword": "characterize",
+      "level": "HIGH",
+      "isCore": false,
+      "pos_hint": [
+        "v"
+      ],
+      "forms": [
+        "characterise",
+        "characterised",
+        "characterises",
+        "characterising",
+        "characterized",
+        "characterizes",
+        "characterizing"
+      ],
+      "cefr": "B1",
+      "freqRank": 2325,
+      "confusable_candidates": [
+        "character",
+        "characteristic"
+      ]
+    },
+    {
+      "id": "specify",
+      "headword": "specify",
+      "level": "HIGH",
+      "isCore": false,
+      "pos_hint": [
+        "v"
+      ],
+      "forms": [
+        "specified",
+        "specifies",
+        "specifying"
+      ],
+      "cefr": "B2",
+      "freqRank": 2326,
+      "confusable_candidates": [
+        "special",
+        "specialist",
+        "specialize",
+        "species",
+        "specific",
+        "specifically"
+      ]
+    },
+    {
+      "id": "spin",
+      "headword": "spin",
+      "level": "HIGH",
+      "isCore": false,
+      "pos_hint": [
+        "v"
+      ],
+      "forms": [
+        "spinning",
+        "spins",
+        "spun"
+      ],
+      "cefr": "B2",
+      "freqRank": 2328,
+      "confusable_candidates": [
+        "bin",
+        "chin",
+        "coin",
+        "gain",
+        "grin",
+        "join"
+      ]
+    },
+    {
+      "id": "operator",
+      "headword": "operator",
+      "level": "HIGH",
+      "isCore": false,
+      "pos_hint": [
+        "n"
+      ],
+      "forms": [
+        "operators"
+      ],
+      "cefr": "B2",
+      "freqRank": 2329,
+      "confusable_candidates": [
+        "operate",
+        "operation",
+        "operational"
+      ]
+    },
+    {
+      "id": "infant",
+      "headword": "infant",
+      "level": "HIGH",
+      "isCore": false,
+      "pos_hint": [
+        "n"
+      ],
+      "forms": [
+        "infants"
+      ],
+      "cefr": "B2",
+      "freqRank": 2330,
+      "confusable_candidates": [
+        "infect",
+        "instant",
+        "intent",
+        "invent"
+      ]
+    },
+    {
+      "id": "anticipate",
+      "headword": "anticipate",
+      "level": "HIGH",
+      "isCore": false,
+      "pos_hint": [
+        "v"
+      ],
+      "forms": [
+        "anticipated",
+        "anticipates",
+        "anticipating"
+      ],
+      "cefr": "B2",
+      "freqRank": 2335,
+      "confusable_candidates": [
+        "participate"
+      ]
+    },
+    {
+      "id": "dependent",
+      "headword": "dependent",
+      "level": "HIGH",
+      "isCore": false,
+      "pos_hint": [
+        "adj"
+      ],
+      "forms": [],
+      "cefr": "B1",
+      "freqRank": 2336,
+      "confusable_candidates": [
+        "defendant",
+        "depend",
+        "dependence"
+      ]
+    },
+    {
+      "id": "specialize",
+      "headword": "specialize",
+      "level": "HIGH",
+      "isCore": false,
+      "pos_hint": [
+        "v"
+      ],
+      "forms": [
+        "specialise",
+        "specialised",
+        "specialises",
+        "specialising",
+        "specialized",
+        "specializes",
+        "specializing"
+      ],
+      "cefr": "B1",
+      "freqRank": 2337,
+      "confusable_candidates": [
+        "special",
+        "specialist",
+        "species",
+        "specific",
+        "specifically",
+        "specify"
+      ]
+    },
+    {
+      "id": "virus",
+      "headword": "virus",
+      "level": "HIGH",
+      "isCore": false,
+      "pos_hint": [
+        "n"
+      ],
+      "forms": [
+        "viruses"
+      ],
+      "cefr": "B1",
+      "freqRank": 2341,
+      "confusable_candidates": [
+        "minus",
+        "versus",
+        "virtue"
+      ]
+    },
+    {
+      "id": "precisely",
+      "headword": "precisely",
+      "level": "HIGH",
+      "isCore": false,
+      "pos_hint": [
+        "adv"
+      ],
+      "forms": [],
+      "cefr": "B2",
+      "freqRank": 2342,
+      "confusable_candidates": [
+        "precious",
+        "precise"
+      ]
+    },
+    {
+      "id": "rival",
+      "headword": "rival",
+      "level": "HIGH",
+      "isCore": false,
+      "pos_hint": [
+        "n"
+      ],
+      "forms": [
+        "rivals"
+      ],
+      "cefr": "B2",
+      "freqRank": 2343,
+      "confusable_candidates": [
+        "civil",
+        "final",
+        "real",
+        "reveal",
+        "river",
+        "royal"
+      ]
+    },
+    {
+      "id": "offense",
+      "headword": "offense",
+      "level": "HIGH",
+      "isCore": false,
+      "pos_hint": [
+        "n"
+      ],
+      "forms": [
+        "offence",
+        "offences",
+        "offenses"
+      ],
+      "cefr": "B2",
+      "freqRank": 2344,
+      "confusable_candidates": [
+        "defense",
+        "offend"
+      ]
+    },
+    {
+      "id": "detect",
+      "headword": "detect",
+      "level": "HIGH",
+      "isCore": false,
+      "pos_hint": [
+        "v"
+      ],
+      "forms": [
+        "detected",
+        "detecting",
+        "detects"
+      ],
+      "cefr": "B2",
+      "freqRank": 2345,
+      "confusable_candidates": [
+        "decent",
+        "defeat",
+        "depict",
+        "desert",
+        "detach",
+        "direct"
+      ]
+    },
+    {
+      "id": "teenager",
+      "headword": "teenager",
+      "level": "HIGH",
+      "isCore": false,
+      "pos_hint": [
+        "n"
+      ],
+      "forms": [
+        "teenagers"
+      ],
+      "cefr": "A2",
+      "freqRank": 2346,
+      "confusable_candidates": [
+        "teenage"
+      ]
+    },
+    {
+      "id": "moderate",
+      "headword": "moderate",
+      "level": "HIGH",
+      "isCore": false,
+      "pos_hint": [
+        "adj"
+      ],
+      "forms": [],
+      "cefr": "B1",
+      "freqRank": 2348,
+      "confusable_candidates": [
+        "modern",
+        "operate"
+      ]
+    },
+    {
+      "id": "significance",
+      "headword": "significance",
+      "level": "HIGH",
+      "isCore": false,
+      "pos_hint": [
+        "n"
+      ],
+      "forms": [
+        "significances"
+      ],
+      "cefr": "B1",
+      "freqRank": 2351,
+      "confusable_candidates": [
+        "significant",
+        "significantly"
+      ]
+    },
+    {
+      "id": "illegal",
+      "headword": "illegal",
+      "level": "HIGH",
+      "isCore": false,
+      "pos_hint": [
+        "adj"
+      ],
+      "forms": [],
+      "cefr": "A2",
+      "freqRank": 2353,
+      "confusable_candidates": []
+    },
+    {
+      "id": "universal",
+      "headword": "universal",
+      "level": "HIGH",
+      "isCore": false,
+      "pos_hint": [
+        "adj"
+      ],
+      "forms": [],
+      "cefr": "B2",
+      "freqRank": 2355,
+      "confusable_candidates": [
+        "universe",
+        "university"
+      ]
+    },
+    {
+      "id": "constitute",
+      "headword": "constitute",
+      "level": "HIGH",
+      "isCore": false,
+      "pos_hint": [
+        "v"
+      ],
+      "forms": [
+        "constituted",
+        "constitutes",
+        "constituting"
+      ],
+      "cefr": "B1",
+      "freqRank": 2357,
+      "confusable_candidates": [
+        "constant",
+        "constantly",
+        "constitution",
+        "constitutional",
+        "constrain",
+        "constraint"
+      ]
+    },
+    {
+      "id": "adequate",
+      "headword": "adequate",
+      "level": "HIGH",
+      "isCore": false,
+      "pos_hint": [
+        "adj"
+      ],
+      "forms": [],
+      "cefr": "B2",
+      "freqRank": 2358,
+      "confusable_candidates": []
+    },
+    {
+      "id": "consultant",
+      "headword": "consultant",
+      "level": "HIGH",
+      "isCore": false,
+      "pos_hint": [
+        "n"
+      ],
+      "forms": [
+        "consultants"
+      ],
+      "cefr": "B2",
+      "freqRank": 2359,
+      "confusable_candidates": [
+        "consult",
+        "consultancy",
+        "consume",
+        "consumer",
+        "consumption"
+      ]
+    },
+    {
+      "id": "historian",
+      "headword": "historian",
+      "level": "HIGH",
+      "isCore": false,
+      "pos_hint": [
+        "n"
+      ],
+      "forms": [
+        "historians"
+      ],
+      "cefr": "B1",
+      "freqRank": 2360,
+      "confusable_candidates": [
+        "historic",
+        "historical",
+        "history"
+      ]
+    },
+    {
+      "id": "stupid",
+      "headword": "stupid",
+      "level": "HIGH",
+      "isCore": false,
+      "pos_hint": [
+        "adj"
+      ],
+      "forms": [
+        "stupider",
+        "stupidest"
+      ],
+      "cefr": "B1",
+      "freqRank": 2363,
+      "confusable_candidates": [
+        "studio"
+      ]
+    },
+    {
+      "id": "keen",
+      "headword": "keen",
+      "level": "HIGH",
+      "isCore": false,
+      "pos_hint": [
+        "adj"
+      ],
+      "forms": [
+        "keener",
+        "keenest"
+      ],
+      "cefr": "B2",
+      "freqRank": 2364,
+      "confusable_candidates": [
+        "bean",
+        "bee",
+        "beef",
+        "beer",
+        "deem",
+        "deep"
+      ]
+    },
+    {
+      "id": "ethnic",
+      "headword": "ethnic",
+      "level": "HIGH",
+      "isCore": false,
+      "pos_hint": [
+        "adj"
+      ],
+      "forms": [],
+      "cefr": "B2",
+      "freqRank": 2365,
+      "confusable_candidates": []
+    },
+    {
+      "id": "clinical",
+      "headword": "clinical",
+      "level": "HIGH",
+      "isCore": false,
+      "pos_hint": [],
+      "forms": [],
+      "cefr": null,
+      "freqRank": 2367,
+      "confusable_candidates": [
+        "clinic",
+        "critical",
+        "cynical"
+      ]
+    },
+    {
+      "id": "eastern",
+      "headword": "eastern",
+      "level": "HIGH",
+      "isCore": false,
+      "pos_hint": [
+        "adj"
+      ],
+      "forms": [],
+      "cefr": "B1",
+      "freqRank": 2368,
+      "confusable_candidates": [
+        "fasten",
+        "master",
+        "pattern",
+        "western"
+      ]
+    },
+    {
+      "id": "segment",
+      "headword": "segment",
+      "level": "HIGH",
+      "isCore": false,
+      "pos_hint": [
+        "n"
+      ],
+      "forms": [
+        "segments"
+      ],
+      "cefr": "B2",
+      "freqRank": 2370,
+      "confusable_candidates": []
+    },
+    {
+      "id": "prompt",
+      "headword": "prompt",
+      "level": "HIGH",
+      "isCore": false,
+      "pos_hint": [
+        "adj",
+        "n",
+        "v"
+      ],
+      "forms": [
+        "prompted",
+        "prompting",
+        "promptings",
+        "prompts"
+      ],
+      "cefr": "B2",
+      "freqRank": 2375,
+      "confusable_candidates": [
+        "profit",
+        "promote"
+      ]
+    },
+    {
+      "id": "venture",
+      "headword": "venture",
+      "level": "HIGH",
+      "isCore": false,
+      "pos_hint": [
+        "n"
+      ],
+      "forms": [
+        "ventures"
+      ],
+      "cefr": "B2",
+      "freqRank": 2379,
+      "confusable_candidates": [
+        "century",
+        "endure",
+        "ensure",
+        "entire",
+        "feature",
+        "gesture"
+      ]
+    },
+    {
+      "id": "compound",
+      "headword": "compound",
+      "level": "HIGH",
+      "isCore": false,
+      "pos_hint": [
+        "n"
+      ],
+      "forms": [
+        "compounds"
+      ],
+      "cefr": "B1",
+      "freqRank": 2380,
+      "confusable_candidates": [
+        "component",
+        "compose",
+        "composer",
+        "composition"
+      ]
+    },
+    {
+      "id": "preference",
+      "headword": "preference",
+      "level": "HIGH",
+      "isCore": false,
+      "pos_hint": [
+        "n"
+      ],
+      "forms": [
+        "preferences"
+      ],
+      "cefr": "B1",
+      "freqRank": 2383,
+      "confusable_candidates": [
+        "prefer",
+        "reference"
+      ]
+    },
+    {
+      "id": "comprehensive",
+      "headword": "comprehensive",
+      "level": "HIGH",
+      "isCore": false,
+      "pos_hint": [
+        "adj"
+      ],
+      "forms": [],
+      "cefr": "B2",
+      "freqRank": 2384,
+      "confusable_candidates": [
+        "comprise",
+        "compromise"
+      ]
+    },
+    {
+      "id": "incentive",
+      "headword": "incentive",
+      "level": "HIGH",
+      "isCore": false,
+      "pos_hint": [
+        "n"
+      ],
+      "forms": [
+        "incentives"
+      ],
+      "cefr": "B2",
+      "freqRank": 2385,
+      "confusable_candidates": [
+        "intensive"
+      ]
+    },
+    {
+      "id": "league",
+      "headword": "league",
+      "level": "HIGH",
+      "isCore": false,
+      "pos_hint": [
+        "n"
+      ],
+      "forms": [
+        "leagues"
+      ],
+      "cefr": "B1",
+      "freqRank": 2386,
+      "confusable_candidates": [
+        "lease",
+        "leave",
+        "vague"
+      ]
+    },
+    {
+      "id": "dialog",
+      "headword": "dialog",
+      "level": "HIGH",
+      "isCore": false,
+      "pos_hint": [
+        "n"
+      ],
+      "forms": [
+        "dialogs"
+      ],
+      "cefr": "B1",
+      "freqRank": 2387,
+      "confusable_candidates": []
+    },
+    {
+      "id": "dismiss",
+      "headword": "dismiss",
+      "level": "HIGH",
+      "isCore": false,
+      "pos_hint": [
+        "v"
+      ],
+      "forms": [
+        "dismissed",
+        "dismisses",
+        "dismissing"
+      ],
+      "cefr": "B2",
+      "freqRank": 2392,
+      "confusable_candidates": [
+        "discuss"
+      ]
+    },
+    {
+      "id": "margin",
+      "headword": "margin",
+      "level": "HIGH",
+      "isCore": false,
+      "pos_hint": [
+        "n"
+      ],
+      "forms": [
+        "margins"
+      ],
+      "cefr": "B2",
+      "freqRank": 2393,
+      "confusable_candidates": [
+        "bargain",
+        "magic",
+        "marine",
+        "virgin"
+      ]
+    }
+  ]
+}

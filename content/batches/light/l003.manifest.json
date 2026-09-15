@@ -1,0 +1,1143 @@
+{
+  "batch": "l003",
+  "kind": "light",
+  "levels": [
+    "PRE"
+  ],
+  "count": 60,
+  "entries": [
+    {
+      "id": "wet",
+      "headword": "wet",
+      "level": "PRE",
+      "isCore": false,
+      "pos_hint": [
+        "adj"
+      ],
+      "forms": [
+        "wetter",
+        "wettest"
+      ],
+      "cefr": "A2",
+      "freqRank": 2084,
+      "confusable_candidates": []
+    },
+    {
+      "id": "cloud",
+      "headword": "cloud",
+      "level": "PRE",
+      "isCore": false,
+      "pos_hint": [
+        "n"
+      ],
+      "forms": [
+        "clouds"
+      ],
+      "cefr": "A1",
+      "freqRank": 2090,
+      "confusable_candidates": [
+        "aloud",
+        "blood",
+        "clock",
+        "clone",
+        "close",
+        "closed"
+      ]
+    },
+    {
+      "id": "nose",
+      "headword": "nose",
+      "level": "PRE",
+      "isCore": false,
+      "pos_hint": [
+        "n"
+      ],
+      "forms": [
+        "noses"
+      ],
+      "cefr": "A1",
+      "freqRank": 2114,
+      "confusable_candidates": [
+        "base",
+        "bone",
+        "bore",
+        "boss",
+        "case",
+        "close"
+      ]
+    },
+    {
+      "id": "mom",
+      "headword": "mom",
+      "level": "PRE",
+      "isCore": false,
+      "pos_hint": [
+        "n"
+      ],
+      "forms": [
+        "moms"
+      ],
+      "cefr": "A1",
+      "freqRank": 2131,
+      "confusable_candidates": []
+    },
+    {
+      "id": "cake",
+      "headword": "cake",
+      "level": "PRE",
+      "isCore": false,
+      "pos_hint": [
+        "n"
+      ],
+      "forms": [
+        "cakes"
+      ],
+      "cefr": "A1",
+      "freqRank": 2173,
+      "confusable_candidates": [
+        "age",
+        "awake",
+        "bake",
+        "bare",
+        "base",
+        "bike"
+      ]
+    },
+    {
+      "id": "pink",
+      "headword": "pink",
+      "level": "PRE",
+      "isCore": false,
+      "pos_hint": [
+        "adj",
+        "n"
+      ],
+      "forms": [
+        "pinker",
+        "pinkest",
+        "pinks"
+      ],
+      "cefr": "A1",
+      "freqRank": 2238,
+      "confusable_candidates": [
+        "bank",
+        "bin",
+        "bind",
+        "blink",
+        "dine",
+        "disk"
+      ]
+    },
+    {
+      "id": "loud",
+      "headword": "loud",
+      "level": "PRE",
+      "isCore": false,
+      "pos_hint": [
+        "adj",
+        "adv"
+      ],
+      "forms": [
+        "louder",
+        "loudest"
+      ],
+      "cefr": "B1",
+      "freqRank": 2249,
+      "confusable_candidates": [
+        "aloud",
+        "blood",
+        "bold",
+        "bond",
+        "bound",
+        "cloud"
+      ]
+    },
+    {
+      "id": "dirty",
+      "headword": "dirty",
+      "level": "PRE",
+      "isCore": false,
+      "pos_hint": [
+        "adj"
+      ],
+      "forms": [
+        "dirtier",
+        "dirtiest"
+      ],
+      "cefr": "A1",
+      "freqRank": 2255,
+      "confusable_candidates": [
+        "birth",
+        "city",
+        "dairy",
+        "diary",
+        "diet",
+        "duty"
+      ]
+    },
+    {
+      "id": "bread",
+      "headword": "bread",
+      "level": "PRE",
+      "isCore": false,
+      "pos_hint": [
+        "n"
+      ],
+      "forms": [
+        "breads"
+      ],
+      "cefr": "A1",
+      "freqRank": 2262,
+      "confusable_candidates": [
+        "abroad",
+        "ahead",
+        "area",
+        "beam",
+        "bean",
+        "bear"
+      ]
+    },
+    {
+      "id": "pen",
+      "headword": "pen",
+      "level": "PRE",
+      "isCore": false,
+      "pos_hint": [
+        "n"
+      ],
+      "forms": [
+        "pens"
+      ],
+      "cefr": "A1",
+      "freqRank": 2320,
+      "confusable_candidates": []
+    },
+    {
+      "id": "chicken",
+      "headword": "chicken",
+      "level": "PRE",
+      "isCore": false,
+      "pos_hint": [
+        "n"
+      ],
+      "forms": [
+        "chickens"
+      ],
+      "cefr": "A1",
+      "freqRank": 2339,
+      "confusable_candidates": [
+        "cricket"
+      ]
+    },
+    {
+      "id": "march",
+      "headword": "march",
+      "level": "PRE",
+      "isCore": false,
+      "pos_hint": [
+        "n",
+        "v"
+      ],
+      "forms": [
+        "marched",
+        "marches",
+        "marching",
+        "marchings"
+      ],
+      "cefr": "A1",
+      "freqRank": 2453,
+      "confusable_candidates": [
+        "catch",
+        "earth",
+        "harsh",
+        "mark",
+        "marry",
+        "match"
+      ]
+    },
+    {
+      "id": "orange",
+      "headword": "orange",
+      "level": "PRE",
+      "isCore": false,
+      "pos_hint": [
+        "adj",
+        "n"
+      ],
+      "forms": [
+        "oranges"
+      ],
+      "cefr": "A1",
+      "freqRank": 2499,
+      "confusable_candidates": [
+        "arrange",
+        "change",
+        "range",
+        "strange"
+      ]
+    },
+    {
+      "id": "pig",
+      "headword": "pig",
+      "level": "PRE",
+      "isCore": false,
+      "pos_hint": [
+        "n"
+      ],
+      "forms": [
+        "pigs"
+      ],
+      "cefr": "A1",
+      "freqRank": 2519,
+      "confusable_candidates": []
+    },
+    {
+      "id": "cow",
+      "headword": "cow",
+      "level": "PRE",
+      "isCore": false,
+      "pos_hint": [
+        "n"
+      ],
+      "forms": [
+        "cows"
+      ],
+      "cefr": "A1",
+      "freqRank": 2551,
+      "confusable_candidates": []
+    },
+    {
+      "id": "cheese",
+      "headword": "cheese",
+      "level": "PRE",
+      "isCore": false,
+      "pos_hint": [
+        "n"
+      ],
+      "forms": [
+        "cheeses"
+      ],
+      "cefr": "A1",
+      "freqRank": 2585,
+      "confusable_candidates": [
+        "cease",
+        "chase",
+        "cheek",
+        "cheer",
+        "chess",
+        "chest"
+      ]
+    },
+    {
+      "id": "moon",
+      "headword": "moon",
+      "level": "PRE",
+      "isCore": false,
+      "pos_hint": [
+        "n"
+      ],
+      "forms": [
+        "moons"
+      ],
+      "cefr": "A1",
+      "freqRank": 2599,
+      "confusable_candidates": [
+        "book",
+        "boom",
+        "boot",
+        "coin",
+        "con",
+        "cook"
+      ]
+    },
+    {
+      "id": "grandmother",
+      "headword": "grandmother",
+      "level": "PRE",
+      "isCore": false,
+      "pos_hint": [
+        "n"
+      ],
+      "forms": [
+        "grandmothers"
+      ],
+      "cefr": "A1",
+      "freqRank": 2604,
+      "confusable_candidates": [
+        "grandfather",
+        "grandma",
+        "grandpa",
+        "grandparent"
+      ]
+    },
+    {
+      "id": "uncle",
+      "headword": "uncle",
+      "level": "PRE",
+      "isCore": false,
+      "pos_hint": [
+        "n"
+      ],
+      "forms": [
+        "uncles"
+      ],
+      "cefr": "A1",
+      "freqRank": 2694,
+      "confusable_candidates": [
+        "angle",
+        "bundle",
+        "cycle",
+        "muscle",
+        "once",
+        "ounce"
+      ]
+    },
+    {
+      "id": "rice",
+      "headword": "rice",
+      "level": "PRE",
+      "isCore": false,
+      "pos_hint": [
+        "n"
+      ],
+      "forms": [
+        "rices"
+      ],
+      "cefr": "A1",
+      "freqRank": 2695,
+      "confusable_candidates": [
+        "arise",
+        "bike",
+        "bite",
+        "brick",
+        "bride",
+        "cite"
+      ]
+    },
+    {
+      "id": "aunt",
+      "headword": "aunt",
+      "level": "PRE",
+      "isCore": false,
+      "pos_hint": [
+        "n"
+      ],
+      "forms": [
+        "aunts"
+      ],
+      "cefr": "A1",
+      "freqRank": 2781,
+      "confusable_candidates": [
+        "act",
+        "adult",
+        "agent",
+        "ant",
+        "anti",
+        "art"
+      ]
+    },
+    {
+      "id": "apple",
+      "headword": "apple",
+      "level": "PRE",
+      "isCore": false,
+      "pos_hint": [
+        "n"
+      ],
+      "forms": [
+        "apples"
+      ],
+      "cefr": "A1",
+      "freqRank": null,
+      "confusable_candidates": [
+        "able",
+        "aisle",
+        "angle",
+        "apply",
+        "pale",
+        "pile"
+      ]
+    },
+    {
+      "id": "april",
+      "headword": "april",
+      "level": "PRE",
+      "isCore": false,
+      "pos_hint": [
+        "n"
+      ],
+      "forms": [
+        "aprils"
+      ],
+      "cefr": "A1",
+      "freqRank": null,
+      "confusable_candidates": [
+        "apron",
+        "spoil"
+      ]
+    },
+    {
+      "id": "august",
+      "headword": "august",
+      "level": "PRE",
+      "isCore": false,
+      "pos_hint": [
+        "n"
+      ],
+      "forms": [
+        "augusts"
+      ],
+      "cefr": "A1",
+      "freqRank": null,
+      "confusable_candidates": [
+        "adjust"
+      ]
+    },
+    {
+      "id": "banana",
+      "headword": "banana",
+      "level": "PRE",
+      "isCore": false,
+      "pos_hint": [
+        "n"
+      ],
+      "forms": [],
+      "cefr": "A1",
+      "freqRank": null,
+      "confusable_candidates": []
+    },
+    {
+      "id": "candy",
+      "headword": "candy",
+      "level": "PRE",
+      "isCore": false,
+      "pos_hint": [
+        "n"
+      ],
+      "forms": [],
+      "cefr": "A1",
+      "freqRank": null,
+      "confusable_candidates": [
+        "band",
+        "card",
+        "carry",
+        "daddy",
+        "fancy",
+        "hand"
+      ]
+    },
+    {
+      "id": "cute",
+      "headword": "cute",
+      "level": "PRE",
+      "isCore": false,
+      "pos_hint": [
+        "adj"
+      ],
+      "forms": [],
+      "cefr": "A1",
+      "freqRank": null,
+      "confusable_candidates": [
+        "acute",
+        "bite",
+        "brute",
+        "cafe",
+        "cage",
+        "cake"
+      ]
+    },
+    {
+      "id": "december",
+      "headword": "december",
+      "level": "PRE",
+      "isCore": false,
+      "pos_hint": [
+        "n"
+      ],
+      "forms": [
+        "decembers"
+      ],
+      "cefr": "A1",
+      "freqRank": null,
+      "confusable_candidates": [
+        "remember"
+      ]
+    },
+    {
+      "id": "doll",
+      "headword": "doll",
+      "level": "PRE",
+      "isCore": false,
+      "pos_hint": [
+        "n"
+      ],
+      "forms": [],
+      "cefr": "A1",
+      "freqRank": null,
+      "confusable_candidates": [
+        "ball",
+        "bell",
+        "bill",
+        "boil",
+        "bold",
+        "bowl"
+      ]
+    },
+    {
+      "id": "duck",
+      "headword": "duck",
+      "level": "PRE",
+      "isCore": false,
+      "pos_hint": [
+        "n"
+      ],
+      "forms": [],
+      "cefr": "A2",
+      "freqRank": null,
+      "confusable_candidates": [
+        "back",
+        "bulk",
+        "dark",
+        "deck",
+        "desk",
+        "disk"
+      ]
+    },
+    {
+      "id": "elephant",
+      "headword": "elephant",
+      "level": "PRE",
+      "isCore": false,
+      "pos_hint": [
+        "n"
+      ],
+      "forms": [],
+      "cefr": "A2",
+      "freqRank": null,
+      "confusable_candidates": [
+        "elegant"
+      ]
+    },
+    {
+      "id": "february",
+      "headword": "february",
+      "level": "PRE",
+      "isCore": false,
+      "pos_hint": [
+        "n"
+      ],
+      "forms": [
+        "februaries"
+      ],
+      "cefr": "A1",
+      "freqRank": null,
+      "confusable_candidates": []
+    },
+    {
+      "id": "friday",
+      "headword": "friday",
+      "level": "PRE",
+      "isCore": false,
+      "pos_hint": [
+        "n"
+      ],
+      "forms": [
+        "fridays"
+      ],
+      "cefr": "A1",
+      "freqRank": null,
+      "confusable_candidates": []
+    },
+    {
+      "id": "frog",
+      "headword": "frog",
+      "level": "PRE",
+      "isCore": false,
+      "pos_hint": [
+        "n"
+      ],
+      "forms": [],
+      "cefr": "A1",
+      "freqRank": null,
+      "confusable_candidates": [
+        "blog",
+        "crop",
+        "dog",
+        "drag",
+        "drop",
+        "drug"
+      ]
+    },
+    {
+      "id": "grandfather",
+      "headword": "grandfather",
+      "level": "PRE",
+      "isCore": false,
+      "pos_hint": [
+        "n"
+      ],
+      "forms": [],
+      "cefr": "A1",
+      "freqRank": null,
+      "confusable_candidates": [
+        "grandma",
+        "grandmother",
+        "grandpa",
+        "grandparent"
+      ]
+    },
+    {
+      "id": "hungry",
+      "headword": "hungry",
+      "level": "PRE",
+      "isCore": false,
+      "pos_hint": [
+        "adj"
+      ],
+      "forms": [
+        "hungrier",
+        "hungriest"
+      ],
+      "cefr": "A1",
+      "freqRank": null,
+      "confusable_candidates": [
+        "angry",
+        "hunger",
+        "hurry"
+      ]
+    },
+    {
+      "id": "january",
+      "headword": "january",
+      "level": "PRE",
+      "isCore": false,
+      "pos_hint": [
+        "n"
+      ],
+      "forms": [
+        "januaries"
+      ],
+      "cefr": "A1",
+      "freqRank": null,
+      "confusable_candidates": []
+    },
+    {
+      "id": "juice",
+      "headword": "juice",
+      "level": "PRE",
+      "isCore": false,
+      "pos_hint": [
+        "n"
+      ],
+      "forms": [],
+      "cefr": "A1",
+      "freqRank": null,
+      "confusable_candidates": [
+        "guide",
+        "judge",
+        "june",
+        "nice",
+        "ounce",
+        "price"
+      ]
+    },
+    {
+      "id": "july",
+      "headword": "july",
+      "level": "PRE",
+      "isCore": false,
+      "pos_hint": [
+        "n"
+      ],
+      "forms": [],
+      "cefr": "A1",
+      "freqRank": null,
+      "confusable_candidates": [
+        "ally",
+        "bulk",
+        "bull",
+        "bully",
+        "bury",
+        "busy"
+      ]
+    },
+    {
+      "id": "june",
+      "headword": "june",
+      "level": "PRE",
+      "isCore": false,
+      "pos_hint": [
+        "n"
+      ],
+      "forms": [
+        "junes"
+      ],
+      "cefr": "A1",
+      "freqRank": null,
+      "confusable_candidates": [
+        "aunt",
+        "bone",
+        "cure",
+        "cute",
+        "dine",
+        "due"
+      ]
+    },
+    {
+      "id": "lion",
+      "headword": "lion",
+      "level": "PRE",
+      "isCore": false,
+      "pos_hint": [
+        "n"
+      ],
+      "forms": [],
+      "cefr": "A1",
+      "freqRank": null,
+      "confusable_candidates": [
+        "alien",
+        "bin",
+        "con",
+        "inn",
+        "iron",
+        "lawn"
+      ]
+    },
+    {
+      "id": "monday",
+      "headword": "monday",
+      "level": "PRE",
+      "isCore": false,
+      "pos_hint": [
+        "n"
+      ],
+      "forms": [
+        "mondays"
+      ],
+      "cefr": "A1",
+      "freqRank": null,
+      "confusable_candidates": [
+        "money",
+        "monkey",
+        "sunday",
+        "today"
+      ]
+    },
+    {
+      "id": "monkey",
+      "headword": "monkey",
+      "level": "PRE",
+      "isCore": false,
+      "pos_hint": [
+        "n"
+      ],
+      "forms": [
+        "monkeys"
+      ],
+      "cefr": "A1",
+      "freqRank": null,
+      "confusable_candidates": [
+        "convey",
+        "honey",
+        "monday",
+        "money"
+      ]
+    },
+    {
+      "id": "november",
+      "headword": "november",
+      "level": "PRE",
+      "isCore": false,
+      "pos_hint": [
+        "n"
+      ],
+      "forms": [
+        "novembers"
+      ],
+      "cefr": "A1",
+      "freqRank": null,
+      "confusable_candidates": []
+    },
+    {
+      "id": "october",
+      "headword": "october",
+      "level": "PRE",
+      "isCore": false,
+      "pos_hint": [
+        "n"
+      ],
+      "forms": [
+        "octobers"
+      ],
+      "cefr": "A1",
+      "freqRank": null,
+      "confusable_candidates": []
+    },
+    {
+      "id": "pencil",
+      "headword": "pencil",
+      "level": "PRE",
+      "isCore": false,
+      "pos_hint": [
+        "n"
+      ],
+      "forms": [],
+      "cefr": "A1",
+      "freqRank": null,
+      "confusable_candidates": []
+    },
+    {
+      "id": "pizza",
+      "headword": "pizza",
+      "level": "PRE",
+      "isCore": false,
+      "pos_hint": [
+        "n"
+      ],
+      "forms": [
+        "pizzas"
+      ],
+      "cefr": "A1",
+      "freqRank": null,
+      "confusable_candidates": []
+    },
+    {
+      "id": "purple",
+      "headword": "purple",
+      "level": "PRE",
+      "isCore": false,
+      "pos_hint": [
+        "adj",
+        "n"
+      ],
+      "forms": [],
+      "cefr": "A1",
+      "freqRank": null,
+      "confusable_candidates": [
+        "people",
+        "purpose",
+        "pursue",
+        "puzzle"
+      ]
+    },
+    {
+      "id": "queen",
+      "headword": "queen",
+      "level": "PRE",
+      "isCore": false,
+      "pos_hint": [
+        "n"
+      ],
+      "forms": [],
+      "cefr": "A2",
+      "freqRank": null,
+      "confusable_candidates": [
+        "green",
+        "keen",
+        "query",
+        "quiet",
+        "teen"
+      ]
+    },
+    {
+      "id": "rabbit",
+      "headword": "rabbit",
+      "level": "PRE",
+      "isCore": false,
+      "pos_hint": [
+        "n"
+      ],
+      "forms": [],
+      "cefr": "A1",
+      "freqRank": null,
+      "confusable_candidates": [
+        "habit"
+      ]
+    },
+    {
+      "id": "salad",
+      "headword": "salad",
+      "level": "PRE",
+      "isCore": false,
+      "pos_hint": [
+        "n"
+      ],
+      "forms": [],
+      "cefr": "A1",
+      "freqRank": null,
+      "confusable_candidates": [
+        "glad",
+        "salary",
+        "sale",
+        "salon",
+        "salt",
+        "sand"
+      ]
+    },
+    {
+      "id": "saturday",
+      "headword": "saturday",
+      "level": "PRE",
+      "isCore": false,
+      "pos_hint": [
+        "n"
+      ],
+      "forms": [
+        "saturdays"
+      ],
+      "cefr": "A1",
+      "freqRank": null,
+      "confusable_candidates": []
+    },
+    {
+      "id": "september",
+      "headword": "september",
+      "level": "PRE",
+      "isCore": false,
+      "pos_hint": [
+        "n"
+      ],
+      "forms": [
+        "septembers"
+      ],
+      "cefr": "A1",
+      "freqRank": null,
+      "confusable_candidates": []
+    },
+    {
+      "id": "snake",
+      "headword": "snake",
+      "level": "PRE",
+      "isCore": false,
+      "pos_hint": [
+        "n"
+      ],
+      "forms": [
+        "snakes"
+      ],
+      "cefr": "A1",
+      "freqRank": null,
+      "confusable_candidates": [
+        "awake",
+        "bake",
+        "brake",
+        "cake",
+        "lake",
+        "make"
+      ]
+    },
+    {
+      "id": "soup",
+      "headword": "soup",
+      "level": "PRE",
+      "isCore": false,
+      "pos_hint": [
+        "n"
+      ],
+      "forms": [],
+      "cefr": "A1",
+      "freqRank": null,
+      "confusable_candidates": [
+        "cop",
+        "cup",
+        "group",
+        "hour",
+        "loud",
+        "noun"
+      ]
+    },
+    {
+      "id": "sunday",
+      "headword": "sunday",
+      "level": "PRE",
+      "isCore": false,
+      "pos_hint": [
+        "n"
+      ],
+      "forms": [
+        "sundays"
+      ],
+      "cefr": "A1",
+      "freqRank": null,
+      "confusable_candidates": [
+        "monday",
+        "subway",
+        "sunny"
+      ]
+    },
+    {
+      "id": "thursday",
+      "headword": "thursday",
+      "level": "PRE",
+      "isCore": false,
+      "pos_hint": [
+        "n"
+      ],
+      "forms": [
+        "thursdays"
+      ],
+      "cefr": "A1",
+      "freqRank": null,
+      "confusable_candidates": [
+        "tuesday"
+      ]
+    },
+    {
+      "id": "tiger",
+      "headword": "tiger",
+      "level": "PRE",
+      "isCore": false,
+      "pos_hint": [
+        "n"
+      ],
+      "forms": [],
+      "cefr": "A1",
+      "freqRank": null,
+      "confusable_candidates": [
+        "anger",
+        "eager",
+        "fiber",
+        "finger",
+        "liter",
+        "liver"
+      ]
+    },
+    {
+      "id": "tired",
+      "headword": "tired",
+      "level": "PRE",
+      "isCore": false,
+      "pos_hint": [
+        "adj"
+      ],
+      "forms": [],
+      "cefr": "A1",
+      "freqRank": null,
+      "confusable_candidates": [
+        "bird",
+        "fire",
+        "hire",
+        "thread",
+        "tide",
+        "tiger"
+      ]
+    },
+    {
+      "id": "tuesday",
+      "headword": "tuesday",
+      "level": "PRE",
+      "isCore": false,
+      "pos_hint": [
+        "n"
+      ],
+      "forms": [
+        "tuesdays"
+      ],
+      "cefr": "A1",
+      "freqRank": null,
+      "confusable_candidates": [
+        "thursday"
+      ]
+    }
+  ]
+}

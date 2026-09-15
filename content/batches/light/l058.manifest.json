@@ -1,0 +1,1060 @@
+{
+  "batch": "l058",
+  "kind": "light",
+  "levels": [
+    "ADV"
+  ],
+  "count": 60,
+  "entries": [
+    {
+      "id": "payable",
+      "headword": "payable",
+      "level": "ADV",
+      "isCore": false,
+      "pos_hint": [],
+      "forms": [
+        "payables"
+      ],
+      "cefr": null,
+      "freqRank": null,
+      "confusable_candidates": [
+        "capable",
+        "taxable"
+      ]
+    },
+    {
+      "id": "payoff",
+      "headword": "payoff",
+      "level": "ADV",
+      "isCore": false,
+      "pos_hint": [],
+      "forms": [
+        "payoffs"
+      ],
+      "cefr": null,
+      "freqRank": null,
+      "confusable_candidates": []
+    },
+    {
+      "id": "payroll",
+      "headword": "payroll",
+      "level": "ADV",
+      "isCore": false,
+      "pos_hint": [],
+      "forms": [
+        "payrolls"
+      ],
+      "cefr": null,
+      "freqRank": null,
+      "confusable_candidates": [
+        "patrol"
+      ]
+    },
+    {
+      "id": "peasant",
+      "headword": "peasant",
+      "level": "ADV",
+      "isCore": false,
+      "pos_hint": [
+        "n"
+      ],
+      "forms": [
+        "peasants"
+      ],
+      "cefr": null,
+      "freqRank": null,
+      "confusable_candidates": [
+        "pleasant"
+      ]
+    },
+    {
+      "id": "persist",
+      "headword": "persist",
+      "level": "ADV",
+      "isCore": false,
+      "pos_hint": [
+        "v"
+      ],
+      "forms": [
+        "persisted",
+        "persisting",
+        "persists"
+      ],
+      "cefr": "B2",
+      "freqRank": null,
+      "confusable_candidates": [
+        "permit",
+        "resist"
+      ]
+    },
+    {
+      "id": "philosopher",
+      "headword": "philosopher",
+      "level": "ADV",
+      "isCore": false,
+      "pos_hint": [
+        "n"
+      ],
+      "forms": [
+        "philosophers"
+      ],
+      "cefr": "B1",
+      "freqRank": null,
+      "confusable_candidates": [
+        "philosophy"
+      ]
+    },
+    {
+      "id": "physically",
+      "headword": "physically",
+      "level": "ADV",
+      "isCore": false,
+      "pos_hint": [
+        "adv"
+      ],
+      "forms": [],
+      "cefr": "A2",
+      "freqRank": null,
+      "confusable_candidates": [
+        "physical",
+        "physics"
+      ]
+    },
+    {
+      "id": "pinch",
+      "headword": "pinch",
+      "level": "ADV",
+      "isCore": false,
+      "pos_hint": [],
+      "forms": [],
+      "cefr": null,
+      "freqRank": null,
+      "confusable_candidates": [
+        "bunch",
+        "inch",
+        "lunch",
+        "patch",
+        "pick",
+        "piece"
+      ]
+    },
+    {
+      "id": "plaintiff",
+      "headword": "plaintiff",
+      "level": "ADV",
+      "isCore": false,
+      "pos_hint": [],
+      "forms": [
+        "plaintiffs"
+      ],
+      "cefr": null,
+      "freqRank": null,
+      "confusable_candidates": []
+    },
+    {
+      "id": "pledge",
+      "headword": "pledge",
+      "level": "ADV",
+      "isCore": false,
+      "pos_hint": [],
+      "forms": [
+        "pledged",
+        "pledges",
+        "pledging"
+      ],
+      "cefr": null,
+      "freqRank": null,
+      "confusable_candidates": [
+        "ledger",
+        "please"
+      ]
+    },
+    {
+      "id": "plug",
+      "headword": "plug",
+      "level": "ADV",
+      "isCore": false,
+      "pos_hint": [
+        "n",
+        "v"
+      ],
+      "forms": [
+        "plugged",
+        "plugging",
+        "plugs"
+      ],
+      "cefr": "B1",
+      "freqRank": null,
+      "confusable_candidates": [
+        "blog",
+        "blue",
+        "bug",
+        "club",
+        "clue",
+        "drug"
+      ]
+    },
+    {
+      "id": "plural",
+      "headword": "plural",
+      "level": "ADV",
+      "isCore": false,
+      "pos_hint": [
+        "adj",
+        "n"
+      ],
+      "forms": [
+        "plurals"
+      ],
+      "cefr": "A2",
+      "freqRank": null,
+      "confusable_candidates": [
+        "rural"
+      ]
+    },
+    {
+      "id": "polish",
+      "headword": "polish",
+      "level": "ADV",
+      "isCore": false,
+      "pos_hint": [
+        "n"
+      ],
+      "forms": [],
+      "cefr": "B2",
+      "freqRank": null,
+      "confusable_candidates": [
+        "police",
+        "policy",
+        "polite",
+        "publish",
+        "punish"
+      ]
+    },
+    {
+      "id": "pope",
+      "headword": "pope",
+      "level": "ADV",
+      "isCore": false,
+      "pos_hint": [],
+      "forms": [],
+      "cefr": null,
+      "freqRank": null,
+      "confusable_candidates": [
+        "bone",
+        "bore",
+        "cape",
+        "code",
+        "coke",
+        "come"
+      ]
+    },
+    {
+      "id": "positively",
+      "headword": "positively",
+      "level": "ADV",
+      "isCore": false,
+      "pos_hint": [
+        "adv"
+      ],
+      "forms": [],
+      "cefr": "B1",
+      "freqRank": null,
+      "confusable_candidates": [
+        "position",
+        "positive"
+      ]
+    },
+    {
+      "id": "preach",
+      "headword": "preach",
+      "level": "ADV",
+      "isCore": false,
+      "pos_hint": [],
+      "forms": [],
+      "cefr": null,
+      "freqRank": null,
+      "confusable_candidates": [
+        "beach",
+        "breach",
+        "breath",
+        "peace",
+        "reach",
+        "react"
+      ]
+    },
+    {
+      "id": "precede",
+      "headword": "precede",
+      "level": "ADV",
+      "isCore": false,
+      "pos_hint": [
+        "v"
+      ],
+      "forms": [
+        "preceded",
+        "precedes",
+        "preceding"
+      ],
+      "cefr": "B2",
+      "freqRank": null,
+      "confusable_candidates": [
+        "precise"
+      ]
+    },
+    {
+      "id": "predator",
+      "headword": "predator",
+      "level": "ADV",
+      "isCore": false,
+      "pos_hint": [
+        "n"
+      ],
+      "forms": [
+        "predators"
+      ],
+      "cefr": null,
+      "freqRank": null,
+      "confusable_candidates": [
+        "creditor"
+      ]
+    },
+    {
+      "id": "predecessor",
+      "headword": "predecessor",
+      "level": "ADV",
+      "isCore": false,
+      "pos_hint": [],
+      "forms": [
+        "predecessors"
+      ],
+      "cefr": null,
+      "freqRank": null,
+      "confusable_candidates": []
+    },
+    {
+      "id": "prediction",
+      "headword": "prediction",
+      "level": "ADV",
+      "isCore": false,
+      "pos_hint": [
+        "n"
+      ],
+      "forms": [
+        "predictions"
+      ],
+      "cefr": "A2",
+      "freqRank": null,
+      "confusable_candidates": [
+        "predict",
+        "production",
+        "reduction"
+      ]
+    },
+    {
+      "id": "prejudice",
+      "headword": "prejudice",
+      "level": "ADV",
+      "isCore": false,
+      "pos_hint": [
+        "n"
+      ],
+      "forms": [
+        "prejudices"
+      ],
+      "cefr": "B1",
+      "freqRank": null,
+      "confusable_candidates": []
+    },
+    {
+      "id": "premier",
+      "headword": "premier",
+      "level": "ADV",
+      "isCore": false,
+      "pos_hint": [],
+      "forms": [
+        "premiered",
+        "premiering",
+        "premiers"
+      ],
+      "cefr": null,
+      "freqRank": null,
+      "confusable_candidates": [
+        "prefer",
+        "premise",
+        "premium"
+      ]
+    },
+    {
+      "id": "premium",
+      "headword": "premium",
+      "level": "ADV",
+      "isCore": false,
+      "pos_hint": [],
+      "forms": [
+        "premiums"
+      ],
+      "cefr": null,
+      "freqRank": null,
+      "confusable_candidates": [
+        "premier",
+        "premise"
+      ]
+    },
+    {
+      "id": "presidency",
+      "headword": "presidency",
+      "level": "ADV",
+      "isCore": false,
+      "pos_hint": [
+        "n"
+      ],
+      "forms": [
+        "presidencies"
+      ],
+      "cefr": "B2",
+      "freqRank": null,
+      "confusable_candidates": [
+        "president",
+        "presidential"
+      ]
+    },
+    {
+      "id": "presume",
+      "headword": "presume",
+      "level": "ADV",
+      "isCore": false,
+      "pos_hint": [],
+      "forms": [
+        "presumed",
+        "presumes",
+        "presuming"
+      ],
+      "cefr": null,
+      "freqRank": null,
+      "confusable_candidates": [
+        "pressure",
+        "presumably",
+        "resume"
+      ]
+    },
+    {
+      "id": "prevail",
+      "headword": "prevail",
+      "level": "ADV",
+      "isCore": false,
+      "pos_hint": [
+        "v"
+      ],
+      "forms": [
+        "prevailed",
+        "prevailing",
+        "prevails"
+      ],
+      "cefr": "B2",
+      "freqRank": null,
+      "confusable_candidates": [
+        "retail"
+      ]
+    },
+    {
+      "id": "privatization",
+      "headword": "privatization",
+      "level": "ADV",
+      "isCore": false,
+      "pos_hint": [],
+      "forms": [
+        "privatisation",
+        "privatisations",
+        "privatizations"
+      ],
+      "cefr": null,
+      "freqRank": null,
+      "confusable_candidates": [
+        "privacy",
+        "private"
+      ]
+    },
+    {
+      "id": "productive",
+      "headword": "productive",
+      "level": "ADV",
+      "isCore": false,
+      "pos_hint": [
+        "adj"
+      ],
+      "forms": [],
+      "cefr": "B1",
+      "freqRank": null,
+      "confusable_candidates": [
+        "produce",
+        "producer",
+        "product",
+        "production"
+      ]
+    },
+    {
+      "id": "profitability",
+      "headword": "profitability",
+      "level": "ADV",
+      "isCore": false,
+      "pos_hint": [],
+      "forms": [],
+      "cefr": null,
+      "freqRank": null,
+      "confusable_candidates": [
+        "profile",
+        "profit",
+        "profitable"
+      ]
+    },
+    {
+      "id": "profitable",
+      "headword": "profitable",
+      "level": "ADV",
+      "isCore": false,
+      "pos_hint": [
+        "adj"
+      ],
+      "forms": [],
+      "cefr": "B2",
+      "freqRank": null,
+      "confusable_candidates": [
+        "profile",
+        "profit",
+        "profitability"
+      ]
+    },
+    {
+      "id": "profound",
+      "headword": "profound",
+      "level": "ADV",
+      "isCore": false,
+      "pos_hint": [
+        "adj"
+      ],
+      "forms": [
+        "profounder",
+        "profoundest"
+      ],
+      "cefr": null,
+      "freqRank": null,
+      "confusable_candidates": []
+    },
+    {
+      "id": "progressive",
+      "headword": "progressive",
+      "level": "ADV",
+      "isCore": false,
+      "pos_hint": [
+        "adj"
+      ],
+      "forms": [],
+      "cefr": "A2",
+      "freqRank": null,
+      "confusable_candidates": [
+        "program",
+        "progress"
+      ]
+    },
+    {
+      "id": "prohibit",
+      "headword": "prohibit",
+      "level": "ADV",
+      "isCore": false,
+      "pos_hint": [
+        "v"
+      ],
+      "forms": [
+        "prohibited",
+        "prohibiting",
+        "prohibits"
+      ],
+      "cefr": "B2",
+      "freqRank": null,
+      "confusable_candidates": []
+    },
+    {
+      "id": "prominent",
+      "headword": "prominent",
+      "level": "ADV",
+      "isCore": false,
+      "pos_hint": [
+        "adj"
+      ],
+      "forms": [],
+      "cefr": "B1",
+      "freqRank": null,
+      "confusable_candidates": [
+        "promise"
+      ]
+    },
+    {
+      "id": "prosper",
+      "headword": "prosper",
+      "level": "ADV",
+      "isCore": false,
+      "pos_hint": [
+        "v"
+      ],
+      "forms": [
+        "prospered",
+        "prospering",
+        "prospers"
+      ],
+      "cefr": "B2",
+      "freqRank": null,
+      "confusable_candidates": [
+        "poster",
+        "proper",
+        "prospect"
+      ]
+    },
+    {
+      "id": "provider",
+      "headword": "provider",
+      "level": "ADV",
+      "isCore": false,
+      "pos_hint": [],
+      "forms": [
+        "providers"
+      ],
+      "cefr": null,
+      "freqRank": null,
+      "confusable_candidates": [
+        "provide",
+        "province",
+        "provision"
+      ]
+    },
+    {
+      "id": "provoke",
+      "headword": "provoke",
+      "level": "ADV",
+      "isCore": false,
+      "pos_hint": [],
+      "forms": [
+        "provoked",
+        "provokes",
+        "provoking"
+      ],
+      "cefr": null,
+      "freqRank": null,
+      "confusable_candidates": [
+        "promote",
+        "propose",
+        "provide"
+      ]
+    },
+    {
+      "id": "psychologist",
+      "headword": "psychologist",
+      "level": "ADV",
+      "isCore": false,
+      "pos_hint": [
+        "n"
+      ],
+      "forms": [
+        "psychologists"
+      ],
+      "cefr": "A2",
+      "freqRank": null,
+      "confusable_candidates": [
+        "psychological",
+        "psychology"
+      ]
+    },
+    {
+      "id": "publicly",
+      "headword": "publicly",
+      "level": "ADV",
+      "isCore": false,
+      "pos_hint": [
+        "adv"
+      ],
+      "forms": [],
+      "cefr": "B1",
+      "freqRank": null,
+      "confusable_candidates": [
+        "public",
+        "publication",
+        "publish",
+        "publisher"
+      ]
+    },
+    {
+      "id": "punishment",
+      "headword": "punishment",
+      "level": "ADV",
+      "isCore": false,
+      "pos_hint": [
+        "n"
+      ],
+      "forms": [
+        "punishments"
+      ],
+      "cefr": "B1",
+      "freqRank": null,
+      "confusable_candidates": [
+        "punish"
+      ]
+    },
+    {
+      "id": "purchaser",
+      "headword": "purchaser",
+      "level": "ADV",
+      "isCore": false,
+      "pos_hint": [],
+      "forms": [
+        "purchasers"
+      ],
+      "cefr": null,
+      "freqRank": null,
+      "confusable_candidates": [
+        "purchase"
+      ]
+    },
+    {
+      "id": "quarterly",
+      "headword": "quarterly",
+      "level": "ADV",
+      "isCore": false,
+      "pos_hint": [],
+      "forms": [],
+      "cefr": null,
+      "freqRank": null,
+      "confusable_candidates": [
+        "quarter"
+      ]
+    },
+    {
+      "id": "query",
+      "headword": "query",
+      "level": "ADV",
+      "isCore": false,
+      "pos_hint": [
+        "n"
+      ],
+      "forms": [
+        "queries"
+      ],
+      "cefr": "B2",
+      "freqRank": null,
+      "confusable_candidates": [
+        "bury",
+        "curry",
+        "hurry",
+        "jury",
+        "queen"
+      ]
+    },
+    {
+      "id": "questionnaire",
+      "headword": "questionnaire",
+      "level": "ADV",
+      "isCore": false,
+      "pos_hint": [
+        "n"
+      ],
+      "forms": [
+        "questionnaires"
+      ],
+      "cefr": "B1",
+      "freqRank": null,
+      "confusable_candidates": [
+        "question"
+      ]
+    },
+    {
+      "id": "quiz",
+      "headword": "quiz",
+      "level": "ADV",
+      "isCore": false,
+      "pos_hint": [
+        "n"
+      ],
+      "forms": [],
+      "cefr": "A2",
+      "freqRank": null,
+      "confusable_candidates": [
+        "buzz",
+        "quick",
+        "quiet",
+        "quit",
+        "quite",
+        "ruin"
+      ]
+    },
+    {
+      "id": "radiation",
+      "headword": "radiation",
+      "level": "ADV",
+      "isCore": false,
+      "pos_hint": [
+        "n"
+      ],
+      "forms": [
+        "radiations"
+      ],
+      "cefr": "B1",
+      "freqRank": null,
+      "confusable_candidates": [
+        "tradition",
+        "variation"
+      ]
+    },
+    {
+      "id": "rage",
+      "headword": "rage",
+      "level": "ADV",
+      "isCore": false,
+      "pos_hint": [
+        "n"
+      ],
+      "forms": [
+        "rages"
+      ],
+      "cefr": "B1",
+      "freqRank": null,
+      "confusable_candidates": [
+        "age",
+        "ago",
+        "bag",
+        "bake",
+        "bare",
+        "base"
+      ]
+    },
+    {
+      "id": "railway",
+      "headword": "railway",
+      "level": "ADV",
+      "isCore": false,
+      "pos_hint": [
+        "n"
+      ],
+      "forms": [
+        "railways"
+      ],
+      "cefr": "B1",
+      "freqRank": null,
+      "confusable_candidates": []
+    },
+    {
+      "id": "rainfall",
+      "headword": "rainfall",
+      "level": "ADV",
+      "isCore": false,
+      "pos_hint": [
+        "n"
+      ],
+      "forms": [
+        "rainfalls"
+      ],
+      "cefr": "B1",
+      "freqRank": null,
+      "confusable_candidates": []
+    },
+    {
+      "id": "rally",
+      "headword": "rally",
+      "level": "ADV",
+      "isCore": false,
+      "pos_hint": [
+        "n"
+      ],
+      "forms": [
+        "rallies"
+      ],
+      "cefr": "B2",
+      "freqRank": null,
+      "confusable_candidates": [
+        "ally",
+        "badly",
+        "ball",
+        "bully",
+        "call",
+        "daily"
+      ]
+    },
+    {
+      "id": "rational",
+      "headword": "rational",
+      "level": "ADV",
+      "isCore": false,
+      "pos_hint": [
+        "adj"
+      ],
+      "forms": [],
+      "cefr": "B1",
+      "freqRank": null,
+      "confusable_candidates": [
+        "national",
+        "regional"
+      ]
+    },
+    {
+      "id": "ray",
+      "headword": "ray",
+      "level": "ADV",
+      "isCore": false,
+      "pos_hint": [
+        "n"
+      ],
+      "forms": [
+        "rays"
+      ],
+      "cefr": "A2",
+      "freqRank": null,
+      "confusable_candidates": []
+    },
+    {
+      "id": "realistic",
+      "headword": "realistic",
+      "level": "ADV",
+      "isCore": false,
+      "pos_hint": [
+        "adj"
+      ],
+      "forms": [],
+      "cefr": "B1",
+      "freqRank": null,
+      "confusable_candidates": [
+        "reality",
+        "realize"
+      ]
+    },
+    {
+      "id": "rebel",
+      "headword": "rebel",
+      "level": "ADV",
+      "isCore": false,
+      "pos_hint": [
+        "n",
+        "v"
+      ],
+      "forms": [
+        "rebelled",
+        "rebelling",
+        "rebels"
+      ],
+      "cefr": "B2",
+      "freqRank": null,
+      "confusable_candidates": [
+        "feel",
+        "heel",
+        "label",
+        "level",
+        "peel",
+        "real"
+      ]
+    },
+    {
+      "id": "receivable",
+      "headword": "receivable",
+      "level": "ADV",
+      "isCore": false,
+      "pos_hint": [],
+      "forms": [
+        "receivables"
+      ],
+      "cefr": null,
+      "freqRank": null,
+      "confusable_candidates": [
+        "receipt",
+        "receive"
+      ]
+    },
+    {
+      "id": "recession",
+      "headword": "recession",
+      "level": "ADV",
+      "isCore": false,
+      "pos_hint": [
+        "n"
+      ],
+      "forms": [
+        "recessions"
+      ],
+      "cefr": "B2",
+      "freqRank": null,
+      "confusable_candidates": [
+        "reception"
+      ]
+    },
+    {
+      "id": "referendum",
+      "headword": "referendum",
+      "level": "ADV",
+      "isCore": false,
+      "pos_hint": [],
+      "forms": [
+        "referenda",
+        "referendums"
+      ],
+      "cefr": null,
+      "freqRank": null,
+      "confusable_candidates": [
+        "reference"
+      ]
+    },
+    {
+      "id": "refine",
+      "headword": "refine",
+      "level": "ADV",
+      "isCore": false,
+      "pos_hint": [],
+      "forms": [
+        "refined",
+        "refines",
+        "refining"
+      ],
+      "cefr": null,
+      "freqRank": null,
+      "confusable_candidates": [
+        "define",
+        "recipe",
+        "refuse",
+        "remind",
+        "reside",
+        "retire"
+      ]
+    },
+    {
+      "id": "regulator",
+      "headword": "regulator",
+      "level": "ADV",
+      "isCore": false,
+      "pos_hint": [],
+      "forms": [
+        "regulators"
+      ],
+      "cefr": null,
+      "freqRank": null,
+      "confusable_candidates": [
+        "regular",
+        "regularly",
+        "regulate",
+        "regulation",
+        "regulatory"
+      ]
+    },
+    {
+      "id": "regulatory",
+      "headword": "regulatory",
+      "level": "ADV",
+      "isCore": false,
+      "pos_hint": [],
+      "forms": [],
+      "cefr": null,
+      "freqRank": null,
+      "confusable_candidates": [
+        "regular",
+        "regularly",
+        "regulate",
+        "regulation",
+        "regulator"
+      ]
+    }
+  ]
+}

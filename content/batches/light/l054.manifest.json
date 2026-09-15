@@ -1,0 +1,1078 @@
+{
+  "batch": "l054",
+  "kind": "light",
+  "levels": [
+    "ADV"
+  ],
+  "count": 60,
+  "entries": [
+    {
+      "id": "costly",
+      "headword": "costly",
+      "level": "ADV",
+      "isCore": false,
+      "pos_hint": [
+        "adj"
+      ],
+      "forms": [
+        "costlier",
+        "costliest"
+      ],
+      "cefr": "B2",
+      "freqRank": null,
+      "confusable_candidates": [
+        "castle",
+        "closely",
+        "mostly"
+      ]
+    },
+    {
+      "id": "counterpart",
+      "headword": "counterpart",
+      "level": "ADV",
+      "isCore": false,
+      "pos_hint": [],
+      "forms": [
+        "counterparts"
+      ],
+      "cefr": null,
+      "freqRank": null,
+      "confusable_candidates": [
+        "counter",
+        "country",
+        "countryside",
+        "county"
+      ]
+    },
+    {
+      "id": "coupon",
+      "headword": "coupon",
+      "level": "ADV",
+      "isCore": false,
+      "pos_hint": [],
+      "forms": [
+        "coupons"
+      ],
+      "cefr": null,
+      "freqRank": null,
+      "confusable_candidates": [
+        "common",
+        "cotton",
+        "couple",
+        "cousin"
+      ]
+    },
+    {
+      "id": "creditor",
+      "headword": "creditor",
+      "level": "ADV",
+      "isCore": false,
+      "pos_hint": [],
+      "forms": [
+        "creditors"
+      ],
+      "cefr": null,
+      "freqRank": null,
+      "confusable_candidates": [
+        "credible",
+        "credit",
+        "credit card",
+        "predator"
+      ]
+    },
+    {
+      "id": "creek",
+      "headword": "creek",
+      "level": "ADV",
+      "isCore": false,
+      "pos_hint": [
+        "n"
+      ],
+      "forms": [],
+      "cefr": "B2",
+      "freqRank": null,
+      "confusable_candidates": [
+        "break",
+        "breed",
+        "career",
+        "check",
+        "cheek",
+        "cheer"
+      ]
+    },
+    {
+      "id": "creep",
+      "headword": "creep",
+      "level": "ADV",
+      "isCore": false,
+      "pos_hint": [],
+      "forms": [],
+      "cefr": null,
+      "freqRank": null,
+      "confusable_candidates": [
+        "breed",
+        "career",
+        "cheap",
+        "cheek",
+        "cheer",
+        "cream"
+      ]
+    },
+    {
+      "id": "curriculum",
+      "headword": "curriculum",
+      "level": "ADV",
+      "isCore": false,
+      "pos_hint": [
+        "n"
+      ],
+      "forms": [
+        "curricula",
+        "curriculums"
+      ],
+      "cefr": "B1",
+      "freqRank": null,
+      "confusable_candidates": []
+    },
+    {
+      "id": "curse",
+      "headword": "curse",
+      "level": "ADV",
+      "isCore": false,
+      "pos_hint": [
+        "n"
+      ],
+      "forms": [],
+      "cefr": "A2",
+      "freqRank": null,
+      "confusable_candidates": [
+        "burst",
+        "care",
+        "carve",
+        "case",
+        "cause",
+        "cease"
+      ]
+    },
+    {
+      "id": "custody",
+      "headword": "custody",
+      "level": "ADV",
+      "isCore": false,
+      "pos_hint": [],
+      "forms": [],
+      "cefr": null,
+      "freqRank": null,
+      "confusable_candidates": [
+        "custom",
+        "customer"
+      ]
+    },
+    {
+      "id": "cynical",
+      "headword": "cynical",
+      "level": "ADV",
+      "isCore": false,
+      "pos_hint": [],
+      "forms": [],
+      "cefr": null,
+      "freqRank": null,
+      "confusable_candidates": [
+        "clinical",
+        "typical"
+      ]
+    },
+    {
+      "id": "deadline",
+      "headword": "deadline",
+      "level": "ADV",
+      "isCore": false,
+      "pos_hint": [
+        "n"
+      ],
+      "forms": [
+        "deadlines"
+      ],
+      "cefr": "B1",
+      "freqRank": null,
+      "confusable_candidates": [
+        "decline"
+      ]
+    },
+    {
+      "id": "debit",
+      "headword": "debit",
+      "level": "ADV",
+      "isCore": false,
+      "pos_hint": [
+        "n",
+        "v"
+      ],
+      "forms": [
+        "debited",
+        "debiting",
+        "debits"
+      ],
+      "cefr": "B2",
+      "freqRank": null,
+      "confusable_candidates": [
+        "debate",
+        "debt",
+        "depict",
+        "devil",
+        "edit",
+        "emit"
+      ]
+    },
+    {
+      "id": "debtor",
+      "headword": "debtor",
+      "level": "ADV",
+      "isCore": false,
+      "pos_hint": [],
+      "forms": [
+        "debtors"
+      ],
+      "cefr": null,
+      "freqRank": null,
+      "confusable_candidates": [
+        "doctor",
+        "sector"
+      ]
+    },
+    {
+      "id": "decent",
+      "headword": "decent",
+      "level": "ADV",
+      "isCore": false,
+      "pos_hint": [
+        "adj"
+      ],
+      "forms": [],
+      "cefr": "B2",
+      "freqRank": null,
+      "confusable_candidates": [
+        "accent",
+        "defeat",
+        "defend",
+        "depend",
+        "descend",
+        "desert"
+      ]
+    },
+    {
+      "id": "deem",
+      "headword": "deem",
+      "level": "ADV",
+      "isCore": false,
+      "pos_hint": [
+        "v"
+      ],
+      "forms": [
+        "deemed",
+        "deeming",
+        "deems"
+      ],
+      "cefr": "B2",
+      "freqRank": null,
+      "confusable_candidates": [
+        "beam",
+        "bee",
+        "beef",
+        "beer",
+        "dam",
+        "dead"
+      ]
+    },
+    {
+      "id": "default",
+      "headword": "default",
+      "level": "ADV",
+      "isCore": false,
+      "pos_hint": [],
+      "forms": [
+        "defaulted",
+        "defaulting",
+        "defaults"
+      ],
+      "cefr": null,
+      "freqRank": null,
+      "confusable_candidates": []
+    },
+    {
+      "id": "defer",
+      "headword": "defer",
+      "level": "ADV",
+      "isCore": false,
+      "pos_hint": [],
+      "forms": [
+        "deferred",
+        "deferring",
+        "defers"
+      ],
+      "cefr": null,
+      "freqRank": null,
+      "confusable_candidates": [
+        "beer",
+        "dealer",
+        "dear",
+        "deem",
+        "deep",
+        "defeat"
+      ]
+    },
+    {
+      "id": "deficiency",
+      "headword": "deficiency",
+      "level": "ADV",
+      "isCore": false,
+      "pos_hint": [
+        "n"
+      ],
+      "forms": [
+        "deficiencies"
+      ],
+      "cefr": "B1",
+      "freqRank": null,
+      "confusable_candidates": [
+        "deficit",
+        "efficiency"
+      ]
+    },
+    {
+      "id": "degrade",
+      "headword": "degrade",
+      "level": "ADV",
+      "isCore": false,
+      "pos_hint": [],
+      "forms": [
+        "degraded",
+        "degrades",
+        "degrading"
+      ],
+      "cefr": null,
+      "freqRank": null,
+      "confusable_candidates": [
+        "decade",
+        "degree"
+      ]
+    },
+    {
+      "id": "delegate",
+      "headword": "delegate",
+      "level": "ADV",
+      "isCore": false,
+      "pos_hint": [
+        "n"
+      ],
+      "forms": [
+        "delegates"
+      ],
+      "cefr": "B2",
+      "freqRank": null,
+      "confusable_candidates": [
+        "delicate"
+      ]
+    },
+    {
+      "id": "deliberate",
+      "headword": "deliberate",
+      "level": "ADV",
+      "isCore": false,
+      "pos_hint": [
+        "adj"
+      ],
+      "forms": [],
+      "cefr": "B2",
+      "freqRank": null,
+      "confusable_candidates": []
+    },
+    {
+      "id": "depict",
+      "headword": "depict",
+      "level": "ADV",
+      "isCore": false,
+      "pos_hint": [],
+      "forms": [
+        "depicted",
+        "depicting",
+        "depicts"
+      ],
+      "cefr": null,
+      "freqRank": null,
+      "confusable_candidates": [
+        "debit",
+        "deficit",
+        "detect",
+        "device"
+      ]
+    },
+    {
+      "id": "depreciation",
+      "headword": "depreciation",
+      "level": "ADV",
+      "isCore": false,
+      "pos_hint": [],
+      "forms": [
+        "depreciations"
+      ],
+      "cefr": null,
+      "freqRank": null,
+      "confusable_candidates": [
+        "depress",
+        "depression"
+      ]
+    },
+    {
+      "id": "deprive",
+      "headword": "deprive",
+      "level": "ADV",
+      "isCore": false,
+      "pos_hint": [
+        "v"
+      ],
+      "forms": [
+        "deprived",
+        "deprives",
+        "depriving"
+      ],
+      "cefr": "B1",
+      "freqRank": null,
+      "confusable_candidates": [
+        "derive"
+      ]
+    },
+    {
+      "id": "deputy",
+      "headword": "deputy",
+      "level": "ADV",
+      "isCore": false,
+      "pos_hint": [
+        "n"
+      ],
+      "forms": [
+        "deputies"
+      ],
+      "cefr": "B2",
+      "freqRank": null,
+      "confusable_candidates": [
+        "beauty",
+        "depth"
+      ]
+    },
+    {
+      "id": "designate",
+      "headword": "designate",
+      "level": "ADV",
+      "isCore": false,
+      "pos_hint": [],
+      "forms": [
+        "designated",
+        "designates",
+        "designating"
+      ],
+      "cefr": null,
+      "freqRank": null,
+      "confusable_candidates": [
+        "design",
+        "designer"
+      ]
+    },
+    {
+      "id": "diabetes",
+      "headword": "diabetes",
+      "level": "ADV",
+      "isCore": false,
+      "pos_hint": [],
+      "forms": [],
+      "cefr": null,
+      "freqRank": null,
+      "confusable_candidates": [
+        "diameter"
+      ]
+    },
+    {
+      "id": "diagram",
+      "headword": "diagram",
+      "level": "ADV",
+      "isCore": false,
+      "pos_hint": [
+        "n"
+      ],
+      "forms": [
+        "diagrams"
+      ],
+      "cefr": "B1",
+      "freqRank": null,
+      "confusable_candidates": []
+    },
+    {
+      "id": "diameter",
+      "headword": "diameter",
+      "level": "ADV",
+      "isCore": false,
+      "pos_hint": [
+        "n"
+      ],
+      "forms": [
+        "diameters"
+      ],
+      "cefr": "B1",
+      "freqRank": null,
+      "confusable_candidates": [
+        "diabetes"
+      ]
+    },
+    {
+      "id": "dictate",
+      "headword": "dictate",
+      "level": "ADV",
+      "isCore": false,
+      "pos_hint": [],
+      "forms": [
+        "dictated",
+        "dictates",
+        "dictating"
+      ],
+      "cefr": null,
+      "freqRank": null,
+      "confusable_candidates": []
+    },
+    {
+      "id": "dignity",
+      "headword": "dignity",
+      "level": "ADV",
+      "isCore": false,
+      "pos_hint": [
+        "n"
+      ],
+      "forms": [],
+      "cefr": "B2",
+      "freqRank": null,
+      "confusable_candidates": []
+    },
+    {
+      "id": "dine",
+      "headword": "dine",
+      "level": "ADV",
+      "isCore": false,
+      "pos_hint": [],
+      "forms": [],
+      "cefr": null,
+      "freqRank": null,
+      "confusable_candidates": [
+        "bike",
+        "bin",
+        "bind",
+        "bite",
+        "bone",
+        "cite"
+      ]
+    },
+    {
+      "id": "dioxide",
+      "headword": "dioxide",
+      "level": "ADV",
+      "isCore": false,
+      "pos_hint": [
+        "n"
+      ],
+      "forms": [
+        "dioxides"
+      ],
+      "cefr": "B1",
+      "freqRank": null,
+      "confusable_candidates": [
+        "divide"
+      ]
+    },
+    {
+      "id": "disability",
+      "headword": "disability",
+      "level": "ADV",
+      "isCore": false,
+      "pos_hint": [
+        "n"
+      ],
+      "forms": [
+        "disabilities"
+      ],
+      "cefr": "B1",
+      "freqRank": null,
+      "confusable_candidates": [
+        "disabled",
+        "liability"
+      ]
+    },
+    {
+      "id": "discharge",
+      "headword": "discharge",
+      "level": "ADV",
+      "isCore": false,
+      "pos_hint": [
+        "n"
+      ],
+      "forms": [
+        "discharges"
+      ],
+      "cefr": "B2",
+      "freqRank": null,
+      "confusable_candidates": []
+    },
+    {
+      "id": "disclosure",
+      "headword": "disclosure",
+      "level": "ADV",
+      "isCore": false,
+      "pos_hint": [],
+      "forms": [
+        "disclosures"
+      ],
+      "cefr": null,
+      "freqRank": null,
+      "confusable_candidates": [
+        "disclose"
+      ]
+    },
+    {
+      "id": "discourse",
+      "headword": "discourse",
+      "level": "ADV",
+      "isCore": false,
+      "pos_hint": [
+        "n"
+      ],
+      "forms": [
+        "discourses"
+      ],
+      "cefr": null,
+      "freqRank": null,
+      "confusable_candidates": [
+        "discount",
+        "discover",
+        "discovery"
+      ]
+    },
+    {
+      "id": "discriminate",
+      "headword": "discriminate",
+      "level": "ADV",
+      "isCore": false,
+      "pos_hint": [
+        "v"
+      ],
+      "forms": [
+        "discriminated",
+        "discriminates",
+        "discriminating"
+      ],
+      "cefr": "B2",
+      "freqRank": null,
+      "confusable_candidates": [
+        "discrimination"
+      ]
+    },
+    {
+      "id": "discrimination",
+      "headword": "discrimination",
+      "level": "ADV",
+      "isCore": false,
+      "pos_hint": [
+        "n"
+      ],
+      "forms": [
+        "discriminations"
+      ],
+      "cefr": "B1",
+      "freqRank": null,
+      "confusable_candidates": [
+        "discriminate"
+      ]
+    },
+    {
+      "id": "displace",
+      "headword": "displace",
+      "level": "ADV",
+      "isCore": false,
+      "pos_hint": [
+        "v"
+      ],
+      "forms": [
+        "displaced",
+        "displaces",
+        "displacing"
+      ],
+      "cefr": "B2",
+      "freqRank": null,
+      "confusable_candidates": [
+        "display"
+      ]
+    },
+    {
+      "id": "disposal",
+      "headword": "disposal",
+      "level": "ADV",
+      "isCore": false,
+      "pos_hint": [
+        "n"
+      ],
+      "forms": [
+        "disposals"
+      ],
+      "cefr": "B2",
+      "freqRank": null,
+      "confusable_candidates": [
+        "dispose"
+      ]
+    },
+    {
+      "id": "disrupt",
+      "headword": "disrupt",
+      "level": "ADV",
+      "isCore": false,
+      "pos_hint": [
+        "v"
+      ],
+      "forms": [
+        "disrupted",
+        "disrupting",
+        "disrupts"
+      ],
+      "cefr": "B2",
+      "freqRank": null,
+      "confusable_candidates": [
+        "disgust"
+      ]
+    },
+    {
+      "id": "dissolve",
+      "headword": "dissolve",
+      "level": "ADV",
+      "isCore": false,
+      "pos_hint": [
+        "v"
+      ],
+      "forms": [
+        "dissolved",
+        "dissolves",
+        "dissolving"
+      ],
+      "cefr": "B1",
+      "freqRank": null,
+      "confusable_candidates": []
+    },
+    {
+      "id": "distort",
+      "headword": "distort",
+      "level": "ADV",
+      "isCore": false,
+      "pos_hint": [],
+      "forms": [
+        "distorted",
+        "distorting",
+        "distorts"
+      ],
+      "cefr": null,
+      "freqRank": null,
+      "confusable_candidates": [
+        "distant",
+        "disturb",
+        "history"
+      ]
+    },
+    {
+      "id": "distribution",
+      "headword": "distribution",
+      "level": "ADV",
+      "isCore": false,
+      "pos_hint": [
+        "n"
+      ],
+      "forms": [
+        "distributions"
+      ],
+      "cefr": "B1",
+      "freqRank": null,
+      "confusable_candidates": [
+        "distract",
+        "distribute",
+        "district"
+      ]
+    },
+    {
+      "id": "disturbance",
+      "headword": "disturbance",
+      "level": "ADV",
+      "isCore": false,
+      "pos_hint": [
+        "n"
+      ],
+      "forms": [
+        "disturbances"
+      ],
+      "cefr": "B1",
+      "freqRank": null,
+      "confusable_candidates": [
+        "disturb"
+      ]
+    },
+    {
+      "id": "diversification",
+      "headword": "diversification",
+      "level": "ADV",
+      "isCore": false,
+      "pos_hint": [],
+      "forms": [
+        "diversifications"
+      ],
+      "cefr": null,
+      "freqRank": null,
+      "confusable_candidates": [
+        "diverse",
+        "diversify",
+        "diversity"
+      ]
+    },
+    {
+      "id": "diversify",
+      "headword": "diversify",
+      "level": "ADV",
+      "isCore": false,
+      "pos_hint": [],
+      "forms": [
+        "diversified",
+        "diversifies",
+        "diversifying"
+      ],
+      "cefr": null,
+      "freqRank": null,
+      "confusable_candidates": [
+        "diverse",
+        "diversification",
+        "diversity"
+      ]
+    },
+    {
+      "id": "dividend",
+      "headword": "dividend",
+      "level": "ADV",
+      "isCore": false,
+      "pos_hint": [],
+      "forms": [
+        "dividends"
+      ],
+      "cefr": null,
+      "freqRank": null,
+      "confusable_candidates": [
+        "divide"
+      ]
+    },
+    {
+      "id": "divine",
+      "headword": "divine",
+      "level": "ADV",
+      "isCore": false,
+      "pos_hint": [
+        "adj"
+      ],
+      "forms": [],
+      "cefr": "B1",
+      "freqRank": null,
+      "confusable_candidates": [
+        "define",
+        "device",
+        "devise",
+        "divide",
+        "living"
+      ]
+    },
+    {
+      "id": "dominant",
+      "headword": "dominant",
+      "level": "ADV",
+      "isCore": false,
+      "pos_hint": [
+        "adj"
+      ],
+      "forms": [],
+      "cefr": null,
+      "freqRank": null,
+      "confusable_candidates": [
+        "dominate"
+      ]
+    },
+    {
+      "id": "dose",
+      "headword": "dose",
+      "level": "ADV",
+      "isCore": false,
+      "pos_hint": [
+        "n"
+      ],
+      "forms": [
+        "doses"
+      ],
+      "cefr": "B2",
+      "freqRank": null,
+      "confusable_candidates": [
+        "base",
+        "bone",
+        "bore",
+        "boss",
+        "case",
+        "close"
+      ]
+    },
+    {
+      "id": "download",
+      "headword": "download",
+      "level": "ADV",
+      "isCore": false,
+      "pos_hint": [
+        "n",
+        "v"
+      ],
+      "forms": [
+        "downloaded",
+        "downloading",
+        "downloads"
+      ],
+      "cefr": "A2",
+      "freqRank": null,
+      "confusable_candidates": []
+    },
+    {
+      "id": "downturn",
+      "headword": "downturn",
+      "level": "ADV",
+      "isCore": false,
+      "pos_hint": [],
+      "forms": [
+        "downturns"
+      ],
+      "cefr": null,
+      "freqRank": null,
+      "confusable_candidates": []
+    },
+    {
+      "id": "drain",
+      "headword": "drain",
+      "level": "ADV",
+      "isCore": false,
+      "pos_hint": [
+        "n",
+        "v"
+      ],
+      "forms": [
+        "drained",
+        "draining",
+        "drains"
+      ],
+      "cefr": "B2",
+      "freqRank": null,
+      "confusable_candidates": [
+        "again",
+        "brain",
+        "chain",
+        "damn",
+        "dawn",
+        "domain"
+      ]
+    },
+    {
+      "id": "dread",
+      "headword": "dread",
+      "level": "ADV",
+      "isCore": false,
+      "pos_hint": [
+        "v"
+      ],
+      "forms": [],
+      "cefr": "B2",
+      "freqRank": null,
+      "confusable_candidates": [
+        "ahead",
+        "area",
+        "bread",
+        "break",
+        "breed",
+        "broad"
+      ]
+    },
+    {
+      "id": "dual",
+      "headword": "dual",
+      "level": "ADV",
+      "isCore": false,
+      "pos_hint": [],
+      "forms": [
+        "duals"
+      ],
+      "cefr": null,
+      "freqRank": null,
+      "confusable_candidates": [
+        "bull",
+        "coal",
+        "curl",
+        "dad",
+        "dam",
+        "day"
+      ]
+    },
+    {
+      "id": "e-book",
+      "headword": "e-book",
+      "level": "ADV",
+      "isCore": false,
+      "pos_hint": [],
+      "forms": [
+        "e book",
+        "e books",
+        "e-books",
+        "ebook",
+        "ebooks"
+      ],
+      "cefr": null,
+      "freqRank": null,
+      "confusable_candidates": []
+    },
+    {
+      "id": "ecological",
+      "headword": "ecological",
+      "level": "ADV",
+      "isCore": false,
+      "pos_hint": [
+        "adj"
+      ],
+      "forms": [],
+      "cefr": "B1",
+      "freqRank": null,
+      "confusable_candidates": [
+        "biological",
+        "ecology"
+      ]
+    },
+    {
+      "id": "ecology",
+      "headword": "ecology",
+      "level": "ADV",
+      "isCore": false,
+      "pos_hint": [
+        "n"
+      ],
+      "forms": [
+        "ecologies"
+      ],
+      "cefr": "B1",
+      "freqRank": null,
+      "confusable_candidates": [
+        "apology",
+        "biology",
+        "colony",
+        "ecological",
+        "economy",
+        "geology"
+      ]
+    }
+  ]
+}

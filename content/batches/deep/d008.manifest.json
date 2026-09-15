@@ -1,0 +1,504 @@
+{
+  "batch": "d008",
+  "kind": "deep",
+  "levels": [
+    "ELEM"
+  ],
+  "count": 20,
+  "entries": [
+    {
+      "id": "form",
+      "headword": "form",
+      "level": "ELEM",
+      "isCore": true,
+      "pos_hint": [
+        "n",
+        "v"
+      ],
+      "forms": [
+        "formed",
+        "forming",
+        "forms"
+      ],
+      "cefr": "A1",
+      "freqRank": 257,
+      "confusable_candidates": [
+        "arm",
+        "boom",
+        "bore",
+        "cord",
+        "core",
+        "corn"
+      ]
+    },
+    {
+      "id": "line",
+      "headword": "line",
+      "level": "ELEM",
+      "isCore": true,
+      "pos_hint": [
+        "n",
+        "v"
+      ],
+      "forms": [
+        "lined",
+        "lines",
+        "lining"
+      ],
+      "cefr": "A1",
+      "freqRank": 274,
+      "confusable_candidates": [
+        "alike",
+        "alive",
+        "alone",
+        "bike",
+        "bin",
+        "bind"
+      ]
+    },
+    {
+      "id": "present",
+      "headword": "present",
+      "level": "ELEM",
+      "isCore": true,
+      "pos_hint": [
+        "adj",
+        "n",
+        "v"
+      ],
+      "forms": [
+        "presented",
+        "presenting",
+        "presents"
+      ],
+      "cefr": "A1",
+      "freqRank": 275,
+      "confusable_candidates": [
+        "presence",
+        "presentation",
+        "preserve",
+        "pretend",
+        "prevent",
+        "recent"
+      ]
+    },
+    {
+      "id": "side",
+      "headword": "side",
+      "level": "ELEM",
+      "isCore": true,
+      "pos_hint": [
+        "n"
+      ],
+      "forms": [
+        "sides"
+      ],
+      "cefr": "A1",
+      "freqRank": 276,
+      "confusable_candidates": [
+        "aid",
+        "aside",
+        "bid",
+        "bike",
+        "bite",
+        "bride"
+      ]
+    },
+    {
+      "id": "sure",
+      "headword": "sure",
+      "level": "ELEM",
+      "isCore": true,
+      "pos_hint": [
+        "adj",
+        "adv"
+      ],
+      "forms": [
+        "surer",
+        "surest"
+      ],
+      "cefr": "A1",
+      "freqRank": 279,
+      "confusable_candidates": [
+        "bare",
+        "bore",
+        "burn",
+        "bury",
+        "care",
+        "core"
+      ]
+    },
+    {
+      "id": "price",
+      "headword": "price",
+      "level": "ELEM",
+      "isCore": true,
+      "pos_hint": [
+        "n",
+        "v"
+      ],
+      "forms": [
+        "priced",
+        "prices",
+        "pricing",
+        "pricings"
+      ],
+      "cefr": "A1",
+      "freqRank": 296,
+      "confusable_candidates": [
+        "arise",
+        "brick",
+        "bride",
+        "crime",
+        "drive",
+        "grace"
+      ]
+    },
+    {
+      "id": "control",
+      "headword": "control",
+      "level": "ELEM",
+      "isCore": true,
+      "pos_hint": [
+        "n",
+        "v"
+      ],
+      "forms": [
+        "controlled",
+        "controlling",
+        "controls"
+      ],
+      "cefr": "A2",
+      "freqRank": 301,
+      "confusable_candidates": [
+        "central",
+        "contract",
+        "contractor",
+        "contradict",
+        "contrary",
+        "contrast"
+      ]
+    },
+    {
+      "id": "care",
+      "headword": "care",
+      "level": "ELEM",
+      "isCore": true,
+      "pos_hint": [
+        "n",
+        "v"
+      ],
+      "forms": [
+        "cared",
+        "cares",
+        "caring"
+      ],
+      "cefr": "A1",
+      "freqRank": 313,
+      "confusable_candidates": [
+        "age",
+        "area",
+        "arm",
+        "art",
+        "aware",
+        "bake"
+      ]
+    },
+    {
+      "id": "fall",
+      "headword": "fall",
+      "level": "ELEM",
+      "isCore": true,
+      "pos_hint": [
+        "n",
+        "v"
+      ],
+      "forms": [
+        "fallen",
+        "falling",
+        "falls",
+        "fell"
+      ],
+      "cefr": "A2",
+      "freqRank": 320,
+      "confusable_candidates": [
+        "ally",
+        "ball",
+        "bell",
+        "bill",
+        "bull",
+        "call"
+      ]
+    },
+    {
+      "id": "watch",
+      "headword": "watch",
+      "level": "ELEM",
+      "isCore": true,
+      "pos_hint": [
+        "n",
+        "v"
+      ],
+      "forms": [
+        "watched",
+        "watches",
+        "watching"
+      ],
+      "cefr": "A1",
+      "freqRank": 326,
+      "confusable_candidates": [
+        "bath",
+        "catch",
+        "march",
+        "match",
+        "math",
+        "patch"
+      ]
+    },
+    {
+      "id": "base",
+      "headword": "base",
+      "level": "ELEM",
+      "isCore": true,
+      "pos_hint": [
+        "n",
+        "v"
+      ],
+      "forms": [
+        "based",
+        "baser",
+        "bases",
+        "basest",
+        "basing"
+      ],
+      "cefr": "A2",
+      "freqRank": 327,
+      "confusable_candidates": [
+        "abuse",
+        "age",
+        "ash",
+        "ask",
+        "baby",
+        "back"
+      ]
+    },
+    {
+      "id": "past",
+      "headword": "past",
+      "level": "ELEM",
+      "isCore": true,
+      "pos_hint": [
+        "adj",
+        "adv",
+        "prep"
+      ],
+      "forms": [],
+      "cefr": "A1",
+      "freqRank": 330,
+      "confusable_candidates": [
+        "act",
+        "ant",
+        "apart",
+        "art",
+        "ash",
+        "ask"
+      ]
+    },
+    {
+      "id": "test",
+      "headword": "test",
+      "level": "ELEM",
+      "isCore": true,
+      "pos_hint": [
+        "n",
+        "v"
+      ],
+      "forms": [
+        "tested",
+        "testing",
+        "tests"
+      ],
+      "cefr": "A1",
+      "freqRank": 332,
+      "confusable_candidates": [
+        "beast",
+        "beat",
+        "belt",
+        "best",
+        "bet",
+        "bust"
+      ]
+    },
+    {
+      "id": "visit",
+      "headword": "visit",
+      "level": "ELEM",
+      "isCore": true,
+      "pos_hint": [
+        "n",
+        "v"
+      ],
+      "forms": [
+        "visited",
+        "visiting",
+        "visits"
+      ],
+      "cefr": "A1",
+      "freqRank": 333,
+      "confusable_candidates": [
+        "fist",
+        "limit",
+        "list",
+        "vast",
+        "vision",
+        "vivid"
+      ]
+    },
+    {
+      "id": "return",
+      "headword": "return",
+      "level": "ELEM",
+      "isCore": true,
+      "pos_hint": [
+        "n",
+        "v"
+      ],
+      "forms": [
+        "returned",
+        "returning",
+        "returns"
+      ],
+      "cefr": "A2",
+      "freqRank": 337,
+      "confusable_candidates": [
+        "retain",
+        "retire"
+      ]
+    },
+    {
+      "id": "matter",
+      "headword": "matter",
+      "level": "ELEM",
+      "isCore": true,
+      "pos_hint": [
+        "n",
+        "v"
+      ],
+      "forms": [
+        "mattered",
+        "mattering",
+        "matters"
+      ],
+      "cefr": "A1",
+      "freqRank": 340,
+      "confusable_candidates": [
+        "alter",
+        "battery",
+        "better",
+        "bitter",
+        "butter",
+        "cater"
+      ]
+    },
+    {
+      "id": "mind",
+      "headword": "mind",
+      "level": "ELEM",
+      "isCore": true,
+      "pos_hint": [
+        "n",
+        "v"
+      ],
+      "forms": [
+        "minded",
+        "minding",
+        "minds"
+      ],
+      "cefr": "A1",
+      "freqRank": 341,
+      "confusable_candidates": [
+        "aid",
+        "band",
+        "bend",
+        "bid",
+        "bin",
+        "bind"
+      ]
+    },
+    {
+      "id": "stay",
+      "headword": "stay",
+      "level": "ELEM",
+      "isCore": true,
+      "pos_hint": [
+        "n",
+        "v"
+      ],
+      "forms": [
+        "stayed",
+        "staying",
+        "stays"
+      ],
+      "cefr": "A1",
+      "freqRank": 345,
+      "confusable_candidates": [
+        "away",
+        "bay",
+        "clay",
+        "day",
+        "essay",
+        "gay"
+      ]
+    },
+    {
+      "id": "stop",
+      "headword": "stop",
+      "level": "ELEM",
+      "isCore": true,
+      "pos_hint": [
+        "n",
+        "v"
+      ],
+      "forms": [
+        "stopped",
+        "stopping",
+        "stops"
+      ],
+      "cefr": "A1",
+      "freqRank": 347,
+      "confusable_candidates": [
+        "atom",
+        "chop",
+        "cop",
+        "crop",
+        "drop",
+        "pop"
+      ]
+    },
+    {
+      "id": "share",
+      "headword": "share",
+      "level": "ELEM",
+      "isCore": true,
+      "pos_hint": [
+        "n",
+        "v"
+      ],
+      "forms": [
+        "shared",
+        "shares",
+        "sharing"
+      ],
+      "cefr": "A1",
+      "freqRank": 353,
+      "confusable_candidates": [
+        "aware",
+        "bare",
+        "care",
+        "charge",
+        "charm",
+        "chart"
+      ]
+    }
+  ]
+}

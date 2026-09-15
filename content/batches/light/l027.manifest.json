@@ -1,0 +1,1226 @@
+{
+  "batch": "l027",
+  "kind": "light",
+  "levels": [
+    "MID"
+  ],
+  "count": 60,
+  "entries": [
+    {
+      "id": "proud",
+      "headword": "proud",
+      "level": "MID",
+      "isCore": false,
+      "pos_hint": [
+        "adj"
+      ],
+      "forms": [
+        "prouder",
+        "proudest"
+      ],
+      "cefr": "B1",
+      "freqRank": 1890,
+      "confusable_candidates": [
+        "aloud",
+        "around",
+        "broad",
+        "cloud",
+        "crowd",
+        "fraud"
+      ]
+    },
+    {
+      "id": "emergency",
+      "headword": "emergency",
+      "level": "MID",
+      "isCore": false,
+      "pos_hint": [
+        "n"
+      ],
+      "forms": [
+        "emergencies"
+      ],
+      "cefr": "A2",
+      "freqRank": 1891,
+      "confusable_candidates": [
+        "emerge"
+      ]
+    },
+    {
+      "id": "slide",
+      "headword": "slide",
+      "level": "MID",
+      "isCore": false,
+      "pos_hint": [
+        "n",
+        "v"
+      ],
+      "forms": [
+        "slid",
+        "slides",
+        "sliding"
+      ],
+      "cefr": "A2",
+      "freqRank": 1897,
+      "confusable_candidates": [
+        "alike",
+        "alive",
+        "aside",
+        "bride",
+        "guide",
+        "hide"
+      ]
+    },
+    {
+      "id": "breast",
+      "headword": "breast",
+      "level": "MID",
+      "isCore": false,
+      "pos_hint": [
+        "n"
+      ],
+      "forms": [
+        "breasts"
+      ],
+      "cefr": "B1",
+      "freqRank": 1900,
+      "confusable_candidates": [
+        "beast",
+        "blast",
+        "breach",
+        "bread",
+        "break",
+        "breath"
+      ]
+    },
+    {
+      "id": "climate",
+      "headword": "climate",
+      "level": "MID",
+      "isCore": false,
+      "pos_hint": [
+        "n"
+      ],
+      "forms": [
+        "climates"
+      ],
+      "cefr": "B1",
+      "freqRank": 1906,
+      "confusable_candidates": [
+        "ultimate"
+      ]
+    },
+    {
+      "id": "encounter",
+      "headword": "encounter",
+      "level": "MID",
+      "isCore": false,
+      "pos_hint": [
+        "n",
+        "v"
+      ],
+      "forms": [
+        "encountered",
+        "encountering",
+        "encounters"
+      ],
+      "cefr": "B1",
+      "freqRank": 1912,
+      "confusable_candidates": [
+        "encourage"
+      ]
+    },
+    {
+      "id": "confuse",
+      "headword": "confuse",
+      "level": "MID",
+      "isCore": false,
+      "pos_hint": [
+        "v"
+      ],
+      "forms": [
+        "confused",
+        "confuses",
+        "confusing"
+      ],
+      "cefr": "A2",
+      "freqRank": 1919,
+      "confusable_candidates": [
+        "confess",
+        "confine",
+        "confusion",
+        "consume"
+      ]
+    },
+    {
+      "id": "install",
+      "headword": "install",
+      "level": "MID",
+      "isCore": false,
+      "pos_hint": [
+        "v"
+      ],
+      "forms": [
+        "instal",
+        "installed",
+        "installing",
+        "installs"
+      ],
+      "cefr": "B1",
+      "freqRank": 1924,
+      "confusable_candidates": [
+        "instance",
+        "instant"
+      ]
+    },
+    {
+      "id": "calculate",
+      "headword": "calculate",
+      "level": "MID",
+      "isCore": false,
+      "pos_hint": [
+        "v"
+      ],
+      "forms": [
+        "calculated",
+        "calculates",
+        "calculating"
+      ],
+      "cefr": "B1",
+      "freqRank": 1925,
+      "confusable_candidates": [
+        "calculation",
+        "calculator",
+        "circulate"
+      ]
+    },
+    {
+      "id": "upper",
+      "headword": "upper",
+      "level": "MID",
+      "isCore": false,
+      "pos_hint": [
+        "adj"
+      ],
+      "forms": [],
+      "cefr": "B1",
+      "freqRank": 1928,
+      "confusable_candidates": [
+        "appear",
+        "paper",
+        "peer",
+        "pepper",
+        "super",
+        "supper"
+      ]
+    },
+    {
+      "id": "occupy",
+      "headword": "occupy",
+      "level": "MID",
+      "isCore": false,
+      "pos_hint": [
+        "v"
+      ],
+      "forms": [
+        "occupied",
+        "occupies",
+        "occupying"
+      ],
+      "cefr": "B1",
+      "freqRank": 1930,
+      "confusable_candidates": [
+        "occupation",
+        "occur"
+      ]
+    },
+    {
+      "id": "outline",
+      "headword": "outline",
+      "level": "MID",
+      "isCore": false,
+      "pos_hint": [
+        "n",
+        "v"
+      ],
+      "forms": [
+        "outlined",
+        "outlines",
+        "outlining"
+      ],
+      "cefr": "B1",
+      "freqRank": 1931,
+      "confusable_candidates": [
+        "online",
+        "outside",
+        "routine"
+      ]
+    },
+    {
+      "id": "sufficient",
+      "headword": "sufficient",
+      "level": "MID",
+      "isCore": false,
+      "pos_hint": [
+        "adj"
+      ],
+      "forms": [],
+      "cefr": "B1",
+      "freqRank": 1932,
+      "confusable_candidates": [
+        "efficient"
+      ]
+    },
+    {
+      "id": "update",
+      "headword": "update",
+      "level": "MID",
+      "isCore": false,
+      "pos_hint": [
+        "n",
+        "v"
+      ],
+      "forms": [
+        "updated",
+        "updates",
+        "updating"
+      ],
+      "cefr": "B1",
+      "freqRank": 1933,
+      "confusable_candidates": [
+        "plate"
+      ]
+    },
+    {
+      "id": "preserve",
+      "headword": "preserve",
+      "level": "MID",
+      "isCore": false,
+      "pos_hint": [
+        "v"
+      ],
+      "forms": [
+        "preserved",
+        "preserves",
+        "preserving"
+      ],
+      "cefr": "B1",
+      "freqRank": 1935,
+      "confusable_candidates": [
+        "deserve",
+        "presence",
+        "present",
+        "presentation",
+        "reserve"
+      ]
+    },
+    {
+      "id": "sudden",
+      "headword": "sudden",
+      "level": "MID",
+      "isCore": false,
+      "pos_hint": [
+        "adj"
+      ],
+      "forms": [],
+      "cefr": "A2",
+      "freqRank": 1940,
+      "confusable_candidates": [
+        "burden",
+        "suddenly"
+      ]
+    },
+    {
+      "id": "aside",
+      "headword": "aside",
+      "level": "MID",
+      "isCore": false,
+      "pos_hint": [
+        "adv"
+      ],
+      "forms": [],
+      "cefr": "B1",
+      "freqRank": 1944,
+      "confusable_candidates": [
+        "acid",
+        "alike",
+        "alive",
+        "arise",
+        "aspire",
+        "bride"
+      ]
+    },
+    {
+      "id": "comfort",
+      "headword": "comfort",
+      "level": "MID",
+      "isCore": false,
+      "pos_hint": [
+        "n"
+      ],
+      "forms": [
+        "comforts"
+      ],
+      "cefr": "B1",
+      "freqRank": 1945,
+      "confusable_candidates": [
+        "comfortable",
+        "conform"
+      ]
+    },
+    {
+      "id": "severe",
+      "headword": "severe",
+      "level": "MID",
+      "isCore": false,
+      "pos_hint": [
+        "adj"
+      ],
+      "forms": [
+        "severer",
+        "severest"
+      ],
+      "cefr": "B1",
+      "freqRank": 1947,
+      "confusable_candidates": [
+        "fever",
+        "reverse",
+        "secure",
+        "server",
+        "sphere"
+      ]
+    },
+    {
+      "id": "gene",
+      "headword": "gene",
+      "level": "MID",
+      "isCore": false,
+      "pos_hint": [
+        "n"
+      ],
+      "forms": [
+        "genes"
+      ],
+      "cefr": "B1",
+      "freqRank": 1948,
+      "confusable_candidates": [
+        "agent",
+        "bee",
+        "bend",
+        "bone",
+        "cent",
+        "dense"
+      ]
+    },
+    {
+      "id": "bet",
+      "headword": "bet",
+      "level": "MID",
+      "isCore": false,
+      "pos_hint": [
+        "v"
+      ],
+      "forms": [
+        "bets",
+        "betted",
+        "betting"
+      ],
+      "cefr": "B1",
+      "freqRank": 1958,
+      "confusable_candidates": []
+    },
+    {
+      "id": "plain",
+      "headword": "plain",
+      "level": "MID",
+      "isCore": false,
+      "pos_hint": [
+        "adj"
+      ],
+      "forms": [
+        "plainer",
+        "plainest"
+      ],
+      "cefr": "B1",
+      "freqRank": 1961,
+      "confusable_candidates": [
+        "again",
+        "brain",
+        "chain",
+        "claim",
+        "drain",
+        "gain"
+      ]
+    },
+    {
+      "id": "abandon",
+      "headword": "abandon",
+      "level": "MID",
+      "isCore": false,
+      "pos_hint": [
+        "v"
+      ],
+      "forms": [
+        "abandoned",
+        "abandoning",
+        "abandons"
+      ],
+      "cefr": "B1",
+      "freqRank": 1965,
+      "confusable_candidates": []
+    },
+    {
+      "id": "efficient",
+      "headword": "efficient",
+      "level": "MID",
+      "isCore": false,
+      "pos_hint": [
+        "adj"
+      ],
+      "forms": [],
+      "cefr": "B1",
+      "freqRank": 1969,
+      "confusable_candidates": [
+        "efficiency",
+        "sufficient"
+      ]
+    },
+    {
+      "id": "delight",
+      "headword": "delight",
+      "level": "MID",
+      "isCore": false,
+      "pos_hint": [
+        "n",
+        "v"
+      ],
+      "forms": [
+        "delighted",
+        "delighting",
+        "delights"
+      ],
+      "cefr": "B1",
+      "freqRank": 1971,
+      "confusable_candidates": [
+        "flight",
+        "height",
+        "slight",
+        "weight"
+      ]
+    },
+    {
+      "id": "lean",
+      "headword": "lean",
+      "level": "MID",
+      "isCore": false,
+      "pos_hint": [
+        "adj",
+        "v"
+      ],
+      "forms": [
+        "leaned",
+        "leaner",
+        "leanest",
+        "leaning",
+        "leanings",
+        "leans",
+        "leant"
+      ],
+      "cefr": "B1",
+      "freqRank": 1974,
+      "confusable_candidates": [
+        "ban",
+        "beam",
+        "bean",
+        "bear",
+        "beat",
+        "clean"
+      ]
+    },
+    {
+      "id": "grateful",
+      "headword": "grateful",
+      "level": "MID",
+      "isCore": false,
+      "pos_hint": [
+        "adj"
+      ],
+      "forms": [],
+      "cefr": "A2",
+      "freqRank": 1977,
+      "confusable_candidates": []
+    },
+    {
+      "id": "distribute",
+      "headword": "distribute",
+      "level": "MID",
+      "isCore": false,
+      "pos_hint": [
+        "v"
+      ],
+      "forms": [
+        "distributed",
+        "distributes",
+        "distributing"
+      ],
+      "cefr": "B1",
+      "freqRank": 1980,
+      "confusable_candidates": [
+        "distract",
+        "distribution",
+        "district"
+      ]
+    },
+    {
+      "id": "derive",
+      "headword": "derive",
+      "level": "MID",
+      "isCore": false,
+      "pos_hint": [
+        "v"
+      ],
+      "forms": [
+        "derived",
+        "derives",
+        "deriving"
+      ],
+      "cefr": "B1",
+      "freqRank": 1982,
+      "confusable_candidates": [
+        "arrive",
+        "decide",
+        "define",
+        "deliver",
+        "deprive",
+        "desire"
+      ]
+    },
+    {
+      "id": "crop",
+      "headword": "crop",
+      "level": "MID",
+      "isCore": false,
+      "pos_hint": [
+        "n"
+      ],
+      "forms": [
+        "crops"
+      ],
+      "cefr": "B1",
+      "freqRank": 1986,
+      "confusable_candidates": [
+        "camp",
+        "cap",
+        "chip",
+        "chop",
+        "clap",
+        "clip"
+      ]
+    },
+    {
+      "id": "origin",
+      "headword": "origin",
+      "level": "MID",
+      "isCore": false,
+      "pos_hint": [
+        "n"
+      ],
+      "forms": [
+        "origins"
+      ],
+      "cefr": "B1",
+      "freqRank": 1988,
+      "confusable_candidates": [
+        "organ",
+        "original",
+        "originally"
+      ]
+    },
+    {
+      "id": "landscape",
+      "headword": "landscape",
+      "level": "MID",
+      "isCore": false,
+      "pos_hint": [
+        "n"
+      ],
+      "forms": [
+        "landscapes"
+      ],
+      "cefr": "A2",
+      "freqRank": 1992,
+      "confusable_candidates": []
+    },
+    {
+      "id": "educate",
+      "headword": "educate",
+      "level": "MID",
+      "isCore": false,
+      "pos_hint": [
+        "v"
+      ],
+      "forms": [
+        "educated",
+        "educates",
+        "educating"
+      ],
+      "cefr": "B1",
+      "freqRank": 1993,
+      "confusable_candidates": [
+        "dedicate",
+        "education",
+        "educational",
+        "equate"
+      ]
+    },
+    {
+      "id": "fault",
+      "headword": "fault",
+      "level": "MID",
+      "isCore": false,
+      "pos_hint": [
+        "n"
+      ],
+      "forms": [
+        "faults"
+      ],
+      "cefr": "A2",
+      "freqRank": 1995,
+      "confusable_candidates": [
+        "adult",
+        "aunt",
+        "fact",
+        "fail",
+        "faint",
+        "fall"
+      ]
+    },
+    {
+      "id": "minor",
+      "headword": "minor",
+      "level": "MID",
+      "isCore": false,
+      "pos_hint": [
+        "adj"
+      ],
+      "forms": [],
+      "cefr": "B1",
+      "freqRank": 1997,
+      "confusable_candidates": [
+        "honor",
+        "major",
+        "mayor",
+        "mind",
+        "miner",
+        "minus"
+      ]
+    },
+    {
+      "id": "storm",
+      "headword": "storm",
+      "level": "MID",
+      "isCore": false,
+      "pos_hint": [
+        "n"
+      ],
+      "forms": [
+        "storms"
+      ],
+      "cefr": "A2",
+      "freqRank": 1999,
+      "confusable_candidates": [
+        "atom",
+        "form",
+        "norm",
+        "score",
+        "shore",
+        "short"
+      ]
+    },
+    {
+      "id": "negotiate",
+      "headword": "negotiate",
+      "level": "MID",
+      "isCore": false,
+      "pos_hint": [
+        "v"
+      ],
+      "forms": [
+        "negotiated",
+        "negotiates",
+        "negotiating"
+      ],
+      "cefr": "B1",
+      "freqRank": 2002,
+      "confusable_candidates": [
+        "negotiation"
+      ]
+    },
+    {
+      "id": "wing",
+      "headword": "wing",
+      "level": "MID",
+      "isCore": false,
+      "pos_hint": [
+        "n"
+      ],
+      "forms": [
+        "wings"
+      ],
+      "cefr": "B1",
+      "freqRank": 2009,
+      "confusable_candidates": [
+        "bang",
+        "big",
+        "bin",
+        "bind",
+        "bring",
+        "cling"
+      ]
+    },
+    {
+      "id": "proof",
+      "headword": "proof",
+      "level": "MID",
+      "isCore": false,
+      "pos_hint": [
+        "n"
+      ],
+      "forms": [
+        "proofs"
+      ],
+      "cefr": "B1",
+      "freqRank": 2021,
+      "confusable_candidates": [
+        "pool",
+        "poor",
+        "prior",
+        "proud",
+        "prove",
+        "roof"
+      ]
+    },
+    {
+      "id": "soil",
+      "headword": "soil",
+      "level": "MID",
+      "isCore": false,
+      "pos_hint": [
+        "n",
+        "v"
+      ],
+      "forms": [
+        "soiled",
+        "soiling",
+        "soils"
+      ],
+      "cefr": "B1",
+      "freqRank": 2022,
+      "confusable_candidates": [
+        "boil",
+        "bowl",
+        "coal",
+        "coin",
+        "cool",
+        "doll"
+      ]
+    },
+    {
+      "id": "layer",
+      "headword": "layer",
+      "level": "MID",
+      "isCore": false,
+      "pos_hint": [
+        "n"
+      ],
+      "forms": [
+        "layers"
+      ],
+      "cefr": "B1",
+      "freqRank": 2024,
+      "confusable_candidates": [
+        "buyer",
+        "cater",
+        "eager",
+        "label",
+        "labor",
+        "ladder"
+      ]
+    },
+    {
+      "id": "upset",
+      "headword": "upset",
+      "level": "MID",
+      "isCore": false,
+      "pos_hint": [
+        "adj",
+        "v"
+      ],
+      "forms": [
+        "upsets",
+        "upsetting"
+      ],
+      "cefr": "A2",
+      "freqRank": 2025,
+      "confusable_candidates": [
+        "asset",
+        "poet",
+        "upper",
+        "user"
+      ]
+    },
+    {
+      "id": "agenda",
+      "headword": "agenda",
+      "level": "MID",
+      "isCore": false,
+      "pos_hint": [
+        "n"
+      ],
+      "forms": [
+        "agendas"
+      ],
+      "cefr": "B1",
+      "freqRank": 2030,
+      "confusable_candidates": [
+        "agency",
+        "agent"
+      ]
+    },
+    {
+      "id": "emphasis",
+      "headword": "emphasis",
+      "level": "MID",
+      "isCore": false,
+      "pos_hint": [
+        "n"
+      ],
+      "forms": [
+        "emphases"
+      ],
+      "cefr": "B1",
+      "freqRank": 2031,
+      "confusable_candidates": [
+        "emphasize"
+      ]
+    },
+    {
+      "id": "silver",
+      "headword": "silver",
+      "level": "MID",
+      "isCore": false,
+      "pos_hint": [
+        "adj",
+        "n"
+      ],
+      "forms": [
+        "silvers"
+      ],
+      "cefr": "A2",
+      "freqRank": 2033,
+      "confusable_candidates": [
+        "filter",
+        "liver",
+        "river",
+        "seller",
+        "server",
+        "singer"
+      ]
+    },
+    {
+      "id": "wire",
+      "headword": "wire",
+      "level": "MID",
+      "isCore": false,
+      "pos_hint": [
+        "n",
+        "v"
+      ],
+      "forms": [
+        "wired",
+        "wires",
+        "wiring",
+        "wirings"
+      ],
+      "cefr": "B1",
+      "freqRank": 2038,
+      "confusable_candidates": [
+        "air",
+        "aware",
+        "bare",
+        "bike",
+        "bird",
+        "bite"
+      ]
+    },
+    {
+      "id": "zone",
+      "headword": "zone",
+      "level": "MID",
+      "isCore": false,
+      "pos_hint": [
+        "n"
+      ],
+      "forms": [
+        "zones"
+      ],
+      "cefr": "A2",
+      "freqRank": 2045,
+      "confusable_candidates": [
+        "alone",
+        "bond",
+        "bone",
+        "bore",
+        "clone",
+        "code"
+      ]
+    },
+    {
+      "id": "trace",
+      "headword": "trace",
+      "level": "MID",
+      "isCore": false,
+      "pos_hint": [
+        "n",
+        "v"
+      ],
+      "forms": [
+        "traced",
+        "traces",
+        "tracing",
+        "tracings"
+      ],
+      "cefr": "B1",
+      "freqRank": 2047,
+      "confusable_candidates": [
+        "brake",
+        "brave",
+        "crack",
+        "face",
+        "frame",
+        "grace"
+      ]
+    },
+    {
+      "id": "solid",
+      "headword": "solid",
+      "level": "MID",
+      "isCore": false,
+      "pos_hint": [
+        "adj"
+      ],
+      "forms": [],
+      "cefr": "B1",
+      "freqRank": 2050,
+      "confusable_candidates": [
+        "bold",
+        "cold",
+        "fold",
+        "gold",
+        "hold",
+        "salad"
+      ]
+    },
+    {
+      "id": "owe",
+      "headword": "owe",
+      "level": "MID",
+      "isCore": false,
+      "pos_hint": [
+        "v"
+      ],
+      "forms": [
+        "owed",
+        "owes",
+        "owing"
+      ],
+      "cefr": "B1",
+      "freqRank": 2053,
+      "confusable_candidates": []
+    },
+    {
+      "id": "uniform",
+      "headword": "uniform",
+      "level": "MID",
+      "isCore": false,
+      "pos_hint": [
+        "adj",
+        "n"
+      ],
+      "forms": [
+        "uniforms"
+      ],
+      "cefr": "A2",
+      "freqRank": 2055,
+      "confusable_candidates": [
+        "inform"
+      ]
+    },
+    {
+      "id": "port",
+      "headword": "port",
+      "level": "MID",
+      "isCore": false,
+      "pos_hint": [
+        "n"
+      ],
+      "forms": [
+        "ports"
+      ],
+      "cefr": "B1",
+      "freqRank": 2056,
+      "confusable_candidates": [
+        "abort",
+        "apart",
+        "art",
+        "boat",
+        "boot",
+        "bore"
+      ]
+    },
+    {
+      "id": "beer",
+      "headword": "beer",
+      "level": "MID",
+      "isCore": false,
+      "pos_hint": [
+        "n"
+      ],
+      "forms": [
+        "beers"
+      ],
+      "cefr": "A2",
+      "freqRank": 2062,
+      "confusable_candidates": [
+        "bar",
+        "beam",
+        "bean",
+        "bear",
+        "beard",
+        "beat"
+      ]
+    },
+    {
+      "id": "mood",
+      "headword": "mood",
+      "level": "MID",
+      "isCore": false,
+      "pos_hint": [
+        "n"
+      ],
+      "forms": [
+        "moods"
+      ],
+      "cefr": "A2",
+      "freqRank": 2066,
+      "confusable_candidates": [
+        "blood",
+        "bold",
+        "bond",
+        "book",
+        "boom",
+        "boot"
+      ]
+    },
+    {
+      "id": "episode",
+      "headword": "episode",
+      "level": "MID",
+      "isCore": false,
+      "pos_hint": [
+        "n"
+      ],
+      "forms": [
+        "episodes"
+      ],
+      "cefr": "A2",
+      "freqRank": 2067,
+      "confusable_candidates": []
+    },
+    {
+      "id": "symptom",
+      "headword": "symptom",
+      "level": "MID",
+      "isCore": false,
+      "pos_hint": [
+        "n"
+      ],
+      "forms": [
+        "symptoms"
+      ],
+      "cefr": "B1",
+      "freqRank": 2071,
+      "confusable_candidates": []
+    },
+    {
+      "id": "era",
+      "headword": "era",
+      "level": "MID",
+      "isCore": false,
+      "pos_hint": [
+        "n"
+      ],
+      "forms": [
+        "eras"
+      ],
+      "cefr": "B1",
+      "freqRank": 2073,
+      "confusable_candidates": []
+    },
+    {
+      "id": "nervous",
+      "headword": "nervous",
+      "level": "MID",
+      "isCore": false,
+      "pos_hint": [
+        "adj"
+      ],
+      "forms": [],
+      "cefr": "A2",
+      "freqRank": 2078,
+      "confusable_candidates": [
+        "serious"
+      ]
+    },
+    {
+      "id": "eliminate",
+      "headword": "eliminate",
+      "level": "MID",
+      "isCore": false,
+      "pos_hint": [
+        "v"
+      ],
+      "forms": [
+        "eliminated",
+        "eliminates",
+        "eliminating"
+      ],
+      "cefr": "B1",
+      "freqRank": 2082,
+      "confusable_candidates": []
+    },
+    {
+      "id": "string",
+      "headword": "string",
+      "level": "MID",
+      "isCore": false,
+      "pos_hint": [
+        "n"
+      ],
+      "forms": [
+        "strings",
+        "strung"
+      ],
+      "cefr": "A2",
+      "freqRank": 2089,
+      "confusable_candidates": [
+        "boring",
+        "bring",
+        "shrink",
+        "spring",
+        "stain",
+        "strain"
+      ]
+    }
+  ]
+}
