@@ -493,8 +493,8 @@
       "focus": "lost his job"
      },
      {
-      "en": "Mina lost her grandmother last spring.",
-      "ko": "미나는 작년 봄에 할머니를 잃었어.",
+      "en": "Mina lost her grandmother last spring after a long illness.",
+      "ko": "미나는 작년 봄에 오랜 병환 끝에 할머니를 잃었어.",
       "focus": "lost her grandmother"
      }
     ],
@@ -1278,8 +1278,8 @@
       "focus": "value your honest advice"
      },
      {
-      "en": "Good managers value their team's time.",
-      "ko": "좋은 관리자는 팀의 시간을 소중히 여긴다.",
+      "en": "Good managers value their team's time and say thank you.",
+      "ko": "좋은 관리자는 팀의 시간을 소중히 여기고 고맙다고 말한다.",
       "focus": "value their team's time"
      }
     ]
@@ -1329,6 +1329,1293 @@
    {
     "word": "worth",
     "note": "worth는 be worth 10,000 won처럼 형용사로, value는 명사나 동사로 쓴다."
+   }
+  ]
+ },
+ {
+  "id": "record",
+  "headword": "record",
+  "ipa": "/ˈrekərd/",
+  "level": "MID",
+  "isCore": true,
+  "topic": "communication",
+  "forms": [
+   "recorded",
+   "recording",
+   "records"
+  ],
+  "senses": [
+   {
+    "id": "record-1",
+    "pos": "v",
+    "ko": "녹음하다, 녹화하다",
+    "en": "to keep sound or pictures on a device so you can play them",
+    "nuance": "명사 record는 '레커드'로 앞을 강하게 읽고 동사는 '리코드'로 뒤를 강하게 읽는다. 영상을 남기는 건 record이고 사진 한 장은 take a photo다.",
+    "pattern": "record + 명사",
+    "examples": [
+     {
+      "en": "Can I record this meeting for the people absent?",
+      "ko": "결석한 사람들 위해 이 회의 녹음해도 될까요?",
+      "focus": "record this meeting"
+     },
+     {
+      "en": "She recorded her own song in a small studio.",
+      "ko": "걔가 작은 스튜디오에서 자기 노래를 녹음했어.",
+      "focus": "recorded her own song"
+     }
+    ],
+    "collocations": [
+     "record a video",
+     "record a song"
+    ]
+   },
+   {
+    "id": "record-2",
+    "pos": "n",
+    "ko": "기록, 최고 기록",
+    "en": "the best result that anyone has ever achieved",
+    "nuance": "기록을 깨는 건 break a record, 세우는 건 set a record다. beat the record도 되지만 '기록을 만들다'를 make a record로 쓰면 '음반을 내다'로 들린다.",
+    "pattern": "break/set a record",
+    "examples": [
+     {
+      "en": "He broke the school record in the hundred meters.",
+      "ko": "그 애가 100미터에서 학교 기록을 깼어.",
+      "focus": "broke the school record"
+     },
+     {
+      "en": "This summer set a new record for hot days.",
+      "ko": "올여름이 더운 날 수에서 새 기록을 세웠어.",
+      "focus": "set a new record"
+     }
+    ],
+    "collocations": [
+     "break a record"
+    ]
+   },
+   {
+    "id": "record-3",
+    "pos": "n",
+    "ko": "기록, 서류",
+    "en": "written information that is kept so you can check it later",
+    "nuance": "병원·학교에 남는 공식 자료를 말하고 보통 복수 records다. 개인 일기는 diary이고 회의록은 minutes라서 record와 구별해야 한다.",
+    "pattern": "keep a record of + 명사",
+    "examples": [
+     {
+      "en": "The clinic keeps a record of every visit.",
+      "ko": "그 병원은 방문 기록을 전부 보관해.",
+      "focus": "a record of every visit"
+     },
+     {
+      "en": "I keep records of what I spend each week.",
+      "ko": "나는 매주 쓴 돈을 기록해 둬.",
+      "focus": "keep records of what I spend"
+     }
+    ],
+    "collocations": [
+     "medical records"
+    ]
+   },
+   {
+    "id": "record-4",
+    "pos": "v",
+    "ko": "적어 두다",
+    "en": "to write information down so that it is kept safely",
+    "nuance": "수치나 사실을 공식적으로 적어 남기는 뜻이다. 수업 필기는 take notes이고 record는 온도·점수처럼 데이터를 남길 때 쓴다.",
+    "pattern": "record + 정보",
+    "examples": [
+     {
+      "en": "Please record the temperature twice a day.",
+      "ko": "하루에 두 번 온도를 기록해 주세요.",
+      "focus": "record the temperature"
+     },
+     {
+      "en": "The nurse recorded my weight and blood pressure.",
+      "ko": "간호사가 내 몸무게랑 혈압을 기록했어.",
+      "focus": "recorded my weight"
+     }
+    ]
+   },
+   {
+    "id": "record-5",
+    "pos": "n",
+    "ko": "음반, 레코드판",
+    "en": "a flat black disc that music is stored on",
+    "nuance": "요즘은 LP판을 뜻해서 vinyl과 거의 같이 쓴다. CD나 음원 파일을 record라고 하면 어색하니 album이나 track을 쓴다.",
+    "pattern": "play/put on a record",
+    "examples": [
+     {
+      "en": "My dad still plays old records on Sunday mornings.",
+      "ko": "우리 아빠는 일요일 아침마다 오래된 LP를 틀어.",
+      "focus": "plays old records"
+     },
+     {
+      "en": "I found a rare record at the flea market.",
+      "ko": "벼룩시장에서 희귀한 음반을 찾았어.",
+      "focus": "a rare record"
+     }
+    ]
+   }
+  ],
+  "wordFamily": [
+   {
+    "form": "recording",
+    "pos": "n",
+    "ko": "녹음물, 녹음"
+   },
+   {
+    "form": "recorder",
+    "pos": "n",
+    "ko": "녹음기"
+   }
+  ],
+  "confusables": [
+   {
+    "word": "note",
+    "note": "note는 내가 보려고 적는 메모, record는 남에게 보여줄 수 있게 남기는 공식 기록이다."
+   },
+   {
+    "word": "album",
+    "note": "album은 곡을 모은 앨범 전체, record는 그걸 담은 LP판이나 음반을 말한다."
+   },
+   {
+    "word": "report",
+    "note": "report는 내용을 정리해 알리는 보고서, record는 사실을 남겨 두는 자료다."
+   }
+  ],
+  "memoryHook": "명사는 '레커드'로 앞에 힘, 동사는 '리코드'로 뒤에 힘을 준다."
+ },
+ {
+  "id": "force",
+  "headword": "force",
+  "ipa": "/fɔːrs/",
+  "level": "MID",
+  "isCore": true,
+  "topic": "movement_action",
+  "forms": [
+   "forced",
+   "forces",
+   "forcing"
+  ],
+  "senses": [
+   {
+    "id": "force-1",
+    "pos": "v",
+    "ko": "억지로 시키다",
+    "en": "to make someone do something they do not want to do",
+    "nuance": "force 사람 to 동사 형태로 쓰고 to를 빼면 틀린다. make보다 훨씬 강해서 '싫다는데 시켰다'는 뜻이라 가볍게 쓰면 무례하게 들린다.",
+    "pattern": "force + 목적어 + to 동사",
+    "examples": [
+     {
+      "en": "Nobody can force you to sing at the party.",
+      "ko": "아무도 너한테 파티에서 노래하라고 강요할 수 없어.",
+      "focus": "force you to sing"
+     },
+     {
+      "en": "The rain forced us to cancel the picnic.",
+      "ko": "비 때문에 소풍을 취소해야 했어.",
+      "focus": "forced us to cancel"
+     },
+     {
+      "en": "Don't force yourself to finish the whole plate.",
+      "ko": "억지로 다 먹으려고 하지 마.",
+      "focus": "force yourself to finish"
+     }
+    ],
+    "collocations": [
+     "force someone to do",
+     "be forced to leave"
+    ]
+   },
+   {
+    "id": "force-2",
+    "pos": "n",
+    "ko": "힘, 물리력",
+    "en": "physical power that pushes or pulls something",
+    "nuance": "물리적으로 밀거나 당기는 힘이라 셀 수 없다. 사람의 체력은 strength, 기계를 움직이는 동력은 power라서 force와 섞어 쓰면 어색하다.",
+    "pattern": "with force / the force of + 명사",
+    "examples": [
+     {
+      "en": "He pushed the door open with too much force.",
+      "ko": "그 사람이 문을 너무 세게 밀어 열었어.",
+      "focus": "with too much force"
+     },
+     {
+      "en": "The force of the wind bent the umbrella.",
+      "ko": "바람의 힘에 우산이 휘었어.",
+      "focus": "The force of the wind"
+     }
+    ],
+    "collocations": [
+     "the force of the wind"
+    ]
+   },
+   {
+    "id": "force-3",
+    "pos": "n",
+    "ko": "부대, 조직",
+    "en": "a group trained to work together, such as police or army",
+    "nuance": "the police force, the air force처럼 조직 이름에 붙는다. 이때는 '힘'이 아니라 집단을 뜻하니 the를 붙여 쓰는 게 기본이다.",
+    "pattern": "the police/air force",
+    "examples": [
+     {
+      "en": "Her brother joined the air force last year.",
+      "ko": "걔 오빠가 작년에 공군에 들어갔어.",
+      "focus": "the air force"
+     },
+     {
+      "en": "The police force added more officers downtown.",
+      "ko": "경찰이 시내에 인원을 더 배치했어.",
+      "focus": "The police force"
+     }
+    ]
+   },
+   {
+    "id": "force-4",
+    "pos": "v",
+    "ko": "억지로 열다, 밀어넣다",
+    "en": "to open or push something using strength because it is stuck",
+    "nuance": "잠긴 문이나 꽉 낀 것을 힘으로 열 때 쓴다. 가방에 물건을 억지로 넣는 것도 force를 쓰며 push는 단순히 미는 동작이다.",
+    "pattern": "force + 명사 + open/into",
+    "examples": [
+     {
+      "en": "Don't force the drawer open or it'll break.",
+      "ko": "서랍 억지로 열지 마, 부서져.",
+      "focus": "force the drawer open"
+     },
+     {
+      "en": "She forced the last book into her full bag.",
+      "ko": "걔가 꽉 찬 가방에 마지막 책을 억지로 넣었어.",
+      "focus": "forced the last book into her full bag"
+     }
+    ]
+   }
+  ],
+  "wordFamily": [
+   {
+    "form": "forceful",
+    "pos": "adj",
+    "ko": "강력한, 단호한"
+   },
+   {
+    "form": "reinforce",
+    "pos": "v",
+    "ko": "강화하다"
+   }
+  ],
+  "confusables": [
+   {
+    "word": "make",
+    "note": "make는 목적어 뒤에 동사원형, force는 to부정사를 쓴다. force는 훨씬 강한 강요다."
+   },
+   {
+    "word": "power",
+    "note": "power는 지위나 능력에서 오는 힘, force는 밀고 당기는 물리적 힘이다."
+   },
+   {
+    "word": "strength",
+    "note": "strength는 사람이 가진 근력, force는 가해지는 힘의 양을 말한다."
+   }
+  ]
+ },
+ {
+  "id": "figure",
+  "headword": "figure",
+  "ipa": "/ˈfɪɡjər/",
+  "level": "MID",
+  "isCore": true,
+  "topic": "thinking_opinion",
+  "forms": [
+   "figured",
+   "figures",
+   "figuring"
+  ],
+  "senses": [
+   {
+    "id": "figure-1",
+    "pos": "v",
+    "ko": "알아내다, 이해하다",
+    "en": "to find the answer to something after thinking about it",
+    "nuance": "figure out 형태로 쓰는 게 거의 전부다. out 없이 figure the password라고 하면 안 되고 '알아냈다'는 I figured it out이라고 해야 한다.",
+    "pattern": "figure out + 명사/의문사절",
+    "examples": [
+     {
+      "en": "I can't figure out why the app keeps crashing.",
+      "ko": "앱이 왜 계속 꺼지는지 도저히 모르겠어.",
+      "focus": "figure out why the app keeps crashing"
+     },
+     {
+      "en": "We'll figure out the schedule together tomorrow.",
+      "ko": "일정은 내일 같이 정리하자.",
+      "focus": "figure out the schedule"
+     }
+    ],
+    "collocations": [
+     "figure out a problem",
+     "figure out how to"
+    ],
+    "phrasals": [
+     {
+      "phrase": "figure out",
+      "ko": "알아내다, 해결하다",
+      "example": {
+       "en": "Let me figure out the bus route before we leave.",
+       "ko": "출발하기 전에 버스 노선 좀 알아볼게.",
+       "focus": "figure out the bus route"
+      }
+     }
+    ]
+   },
+   {
+    "id": "figure-2",
+    "pos": "n",
+    "ko": "수치, 숫자",
+    "en": "a number that shows an amount in a report",
+    "nuance": "통계나 매출처럼 보고서에 나오는 숫자를 말한다. 전화번호 같은 개별 숫자는 number이고 figures는 '집계된 수치'라는 느낌이다.",
+    "pattern": "sales/latest figures",
+    "examples": [
+     {
+      "en": "The sales figures for March look much better.",
+      "ko": "3월 매출 수치가 훨씬 좋아 보여요.",
+      "focus": "sales figures for March"
+     },
+     {
+      "en": "Can you check that figure again before sending?",
+      "ko": "보내기 전에 그 수치 다시 확인해 줄래?",
+      "focus": "check that figure"
+     }
+    ],
+    "collocations": [
+     "sales figures"
+    ]
+   },
+   {
+    "id": "figure-3",
+    "pos": "v",
+    "ko": "~라고 생각하다",
+    "en": "to believe something is probably true",
+    "nuance": "I figured는 '그럴 거라고 생각했지'라는 미국 구어다. think보다 추측 느낌이 강해서 확신이 없을 때 쓰고 격식 있는 글에는 안 쓴다.",
+    "pattern": "figure (that) + 절",
+    "examples": [
+     {
+      "en": "I figured you'd be late, so I ordered already.",
+      "ko": "네가 늦을 것 같아서 벌써 주문했어.",
+      "focus": "figured you'd be late"
+     },
+     {
+      "en": "We figured the store would be closed on Monday.",
+      "ko": "우리는 그 가게가 월요일에 문 닫을 거라고 생각했어.",
+      "focus": "figured the store would be closed"
+     }
+    ]
+   },
+   {
+    "id": "figure-4",
+    "pos": "n",
+    "ko": "체형, 몸매",
+    "en": "the shape of a person's body, seen from outside",
+    "nuance": "몸매를 완곡하게 말할 때 쓰고 body보다 점잖다. 얼굴을 포함한 외모는 looks라서 figure는 몸의 선만 가리킨다.",
+    "pattern": "keep/have a good figure",
+    "examples": [
+     {
+      "en": "She keeps her figure by swimming every morning.",
+      "ko": "걔는 아침마다 수영하면서 몸매를 유지해.",
+      "focus": "keeps her figure"
+     },
+     {
+      "en": "This coat looks great on a tall figure.",
+      "ko": "이 코트는 키 큰 체형에 잘 어울려.",
+      "focus": "a tall figure"
+     }
+    ]
+   },
+   {
+    "id": "figure-5",
+    "pos": "n",
+    "ko": "인물, 유명인",
+    "en": "an important person who is well known to many people",
+    "nuance": "a public figure는 '공인'이라는 굳은 표현이다. 그냥 '사람'을 figure라고 하면 어색하고 중요하거나 알려진 인물에만 쓴다.",
+    "pattern": "a public/key figure",
+    "examples": [
+     {
+      "en": "He became a public figure after that documentary.",
+      "ko": "그 다큐멘터리 이후로 그 사람은 공인이 됐어.",
+      "focus": "a public figure"
+     },
+     {
+      "en": "She was a key figure in the design team.",
+      "ko": "걔는 디자인팀의 핵심 인물이었어.",
+      "focus": "a key figure"
+     }
+    ]
+   }
+  ],
+  "confusables": [
+   {
+    "word": "number",
+    "note": "number는 세는 숫자 일반, figure는 보고서에 실린 통계 수치를 말한다."
+   },
+   {
+    "word": "future",
+    "note": "철자가 비슷하지만 figure는 '피겨'로, future는 '퓨쳐'로 발음이 완전히 다르다."
+   },
+   {
+    "word": "find out",
+    "note": "find out은 물어서 알게 되는 것, figure out은 스스로 머리 써서 알아내는 것이다."
+   }
+  ]
+ },
+ {
+  "id": "reach",
+  "headword": "reach",
+  "ipa": "/riːtʃ/",
+  "level": "MID",
+  "isCore": true,
+  "topic": "movement_action",
+  "forms": [
+   "reached",
+   "reaches",
+   "reaching"
+  ],
+  "senses": [
+   {
+    "id": "reach-1",
+    "pos": "v",
+    "ko": "도착하다, ~에 이르다",
+    "en": "to arrive at a place after travelling there",
+    "nuance": "arrive at과 달리 전치사를 쓰지 않아서 reach to Seoul은 틀리고 reach Seoul이 맞다. 목적지를 바로 목적어로 받는다.",
+    "pattern": "reach + 장소",
+    "examples": [
+     {
+      "en": "We reached the hotel just before midnight.",
+      "ko": "우리 자정 바로 전에 호텔에 도착했어.",
+      "focus": "reached the hotel"
+     },
+     {
+      "en": "The bus reaches Busan around six in the evening.",
+      "ko": "그 버스는 저녁 6시쯤 부산에 도착해.",
+      "focus": "reaches Busan"
+     }
+    ],
+    "collocations": [
+     "reach your destination",
+     "reach an agreement"
+    ]
+   },
+   {
+    "id": "reach-2",
+    "pos": "v",
+    "ko": "손을 뻗다, 닿다",
+    "en": "to stretch out your arm to touch or take something",
+    "nuance": "손이 닿는 동작이다. 물건을 잡으려 뻗을 때는 reach for, 닿을 수 있는지는 can reach로 말한다. touch는 이미 닿은 상태다.",
+    "pattern": "reach for + 명사",
+    "examples": [
+     {
+      "en": "Can you reach the box on the top shelf?",
+      "ko": "맨 위 선반에 있는 상자 손 닿아?",
+      "focus": "reach the box"
+     },
+     {
+      "en": "He reached for his phone without looking up.",
+      "ko": "그 사람이 고개도 안 들고 폰을 집으려 손을 뻗었어.",
+      "focus": "reached for his phone"
+     }
+    ],
+    "collocations": [
+     "reach for the door"
+    ]
+   },
+   {
+    "id": "reach-3",
+    "pos": "v",
+    "ko": "연락이 닿다",
+    "en": "to succeed in speaking to someone by phone or message",
+    "nuance": "전화가 연결된다는 뜻이라 contact보다 구어적이다. I can't reach her는 '연락이 안 된다'는 뜻이고 reach out to는 먼저 연락을 시도하는 것이다.",
+    "pattern": "reach + 사람 + at + 번호",
+    "examples": [
+     {
+      "en": "You can reach me at this number all day.",
+      "ko": "하루 종일 이 번호로 연락하면 돼.",
+      "focus": "reach me at this number"
+     },
+     {
+      "en": "I couldn't reach Mina, so I left a message.",
+      "ko": "미나한테 연락이 안 돼서 메시지 남겼어.",
+      "focus": "reach Mina"
+     }
+    ],
+    "phrasals": [
+     {
+      "phrase": "reach out",
+      "ko": "먼저 연락하다",
+      "example": {
+       "en": "I'll reach out to the landlord about the heater.",
+       "ko": "난방기 문제는 내가 집주인한테 연락해 볼게.",
+       "focus": "reach out to the landlord"
+      }
+     }
+    ]
+   },
+   {
+    "id": "reach-4",
+    "pos": "v",
+    "ko": "다다르다, 달성하다",
+    "en": "to get to a certain level, number, or decision",
+    "nuance": "숫자나 합의처럼 눈에 안 보이는 지점에 이를 때도 쓴다. reach a decision, reach an agreement처럼 묶어서 외우면 회의 영어가 편해진다.",
+    "pattern": "reach a decision/agreement",
+    "examples": [
+     {
+      "en": "The temperature reached thirty degrees this afternoon.",
+      "ko": "오늘 오후에 기온이 30도까지 올랐어.",
+      "focus": "reached thirty degrees"
+     },
+     {
+      "en": "The two teams finally reached an agreement.",
+      "ko": "두 팀이 드디어 합의에 이르렀어.",
+      "focus": "reached an agreement"
+     }
+    ]
+   },
+   {
+    "id": "reach-5",
+    "pos": "n",
+    "ko": "닿는 범위",
+    "en": "the distance that an arm can cover to touch something",
+    "nuance": "within reach는 '손 닿는 곳에', out of reach는 '손이 안 닿는 곳에'라는 굳은 표현이다. 아이 안전 얘기에서 자주 나온다.",
+    "pattern": "within/out of reach",
+    "examples": [
+     {
+      "en": "Keep the medicine out of reach of children.",
+      "ko": "약은 아이 손이 닿지 않는 곳에 두세요.",
+      "focus": "out of reach of children"
+     },
+     {
+      "en": "I like my water bottle within easy reach.",
+      "ko": "나는 물병이 바로 손 닿는 곳에 있는 게 좋아.",
+      "focus": "within easy reach"
+     }
+    ]
+   }
+  ],
+  "confusables": [
+   {
+    "word": "arrive",
+    "note": "arrive는 arrive at/in처럼 전치사가 필요하지만 reach는 바로 목적어를 받는다."
+   },
+   {
+    "word": "contact",
+    "note": "contact는 격식 있는 '연락하다', reach는 실제로 연결이 됐다는 쪽에 초점이 있다."
+   },
+   {
+    "word": "beach",
+    "note": "reach는 '리치', beach는 '비치'로 첫 소리만 다르니 발음할 때 r을 살려야 한다."
+   }
+  ]
+ },
+ {
+  "id": "further",
+  "headword": "further",
+  "ipa": "/ˈfɜːrðər/",
+  "level": "MID",
+  "isCore": true,
+  "topic": "time_quantity",
+  "forms": [],
+  "senses": [
+   {
+    "id": "further-1",
+    "pos": "adj",
+    "ko": "추가의, 더 이상의",
+    "en": "more of something, added to what you already have",
+    "nuance": "명사 앞에 붙어 '더 많은'을 뜻하고 이때 farther로 바꿀 수 없다. 안내문에서 for further information은 '자세한 문의는'이라는 굳은 표현이다.",
+    "pattern": "further + 명사",
+    "examples": [
+     {
+      "en": "Call this number for further information about the class.",
+      "ko": "수업에 대한 자세한 문의는 이 번호로 전화하세요.",
+      "focus": "further information"
+     },
+     {
+      "en": "We need further details before we can decide.",
+      "ko": "결정하려면 추가 정보가 더 필요해요.",
+      "focus": "further details"
+     }
+    ],
+    "collocations": [
+     "further information",
+     "further details"
+    ]
+   },
+   {
+    "id": "further-2",
+    "pos": "adv",
+    "ko": "더 멀리",
+    "en": "to a greater distance away",
+    "nuance": "거리에는 farther와 further를 둘 다 쓰지만 실제 회화에서는 further가 훨씬 흔하다. far의 비교급이라 more far라고 쓰면 틀린다.",
+    "pattern": "further + 방향/장소",
+    "examples": [
+     {
+      "en": "The station is a bit further down this street.",
+      "ko": "역은 이 길로 조금 더 내려가면 있어.",
+      "focus": "further down this street"
+     },
+     {
+      "en": "Don't walk any further, my feet hurt.",
+      "ko": "더 이상 걷지 마, 발 아파.",
+      "focus": "any further"
+     }
+    ]
+   },
+   {
+    "id": "further-3",
+    "pos": "adv",
+    "ko": "더, 더 깊이",
+    "en": "to a greater degree, or for a longer time",
+    "nuance": "정도가 더 나아가는 것이라 거리와 무관할 때는 farther를 쓰지 않는다. discuss further, look into it further처럼 동사 뒤에 붙인다.",
+    "pattern": "동사 + further",
+    "examples": [
+     {
+      "en": "Let's discuss this further after the weekend.",
+      "ko": "이건 주말 지나고 더 얘기해 보자.",
+      "focus": "discuss this further"
+     },
+     {
+      "en": "I don't want to delay the trip any further.",
+      "ko": "여행을 더는 미루고 싶지 않아.",
+      "focus": "any further"
+     }
+    ],
+    "collocations": [
+     "discuss further"
+    ]
+   }
+  ],
+  "confusables": [
+   {
+    "word": "farther",
+    "note": "farther는 실제 거리에만 쓰고, 정도나 '추가의'라는 뜻으로는 further만 쓴다."
+   },
+   {
+    "word": "furthermore",
+    "note": "furthermore는 '게다가'라는 글말 접속어라서 문장 맨 앞에 쓰는 완전히 다른 말이다."
+   },
+   {
+    "word": "father",
+    "note": "further는 '퍼더r'처럼 r 소리가 들어가고 father는 '파더r'로 첫 모음이 다르다."
+   }
+  ]
+ },
+ {
+  "id": "general",
+  "headword": "general",
+  "ipa": "/ˈdʒenrəl/",
+  "level": "MID",
+  "isCore": true,
+  "topic": "abstract_general",
+  "forms": [],
+  "senses": [
+   {
+    "id": "general-1",
+    "pos": "adj",
+    "ko": "전반적인, 대체적인",
+    "en": "true for most people or most cases, not for one only",
+    "nuance": "세부가 아니라 큰 흐름을 말한다. in general은 '대체로'라는 뜻이고 generally와 바꿔 쓸 수 있지만 in the general은 틀린 형태다.",
+    "pattern": "in general / a general + 명사",
+    "examples": [
+     {
+      "en": "In general, the food here is pretty good.",
+      "ko": "대체로 여기 음식은 꽤 괜찮아.",
+      "focus": "In general"
+     },
+     {
+      "en": "Give me the general idea before the details.",
+      "ko": "세부 사항 전에 큰 그림부터 알려 줘.",
+      "focus": "the general idea"
+     }
+    ],
+    "collocations": [
+     "in general",
+     "a general idea"
+    ]
+   },
+   {
+    "id": "general-2",
+    "pos": "adj",
+    "ko": "일반의, 공통의",
+    "en": "for everyone, not only for one special group",
+    "nuance": "특정 집단이 아닌 모두를 대상으로 한다는 뜻이다. the general public은 '일반 대중', general hospital은 여러 과가 있는 종합병원이다.",
+    "pattern": "the general public",
+    "examples": [
+     {
+      "en": "The museum opens to the general public next week.",
+      "ko": "그 박물관은 다음 주에 일반 대중에게 개방돼.",
+      "focus": "the general public"
+     },
+     {
+      "en": "She works at a general hospital near Seoul Station.",
+      "ko": "걔는 서울역 근처 종합병원에서 일해.",
+      "focus": "a general hospital"
+     }
+    ],
+    "collocations": [
+     "the general public"
+    ]
+   },
+   {
+    "id": "general-3",
+    "pos": "adj",
+    "ko": "막연한, 두루뭉실한",
+    "en": "not exact, so it does not include the small points",
+    "nuance": "구체적이지 않다는 약간 부정적인 뜻으로도 쓴다. Your answer is too general은 '너무 두루뭉실하다'는 지적이라 칭찬이 아니다.",
+    "pattern": "too general",
+    "examples": [
+     {
+      "en": "Your answer is too general, give me an example.",
+      "ko": "답이 너무 막연해, 예를 하나 들어 줘.",
+      "focus": "too general"
+     },
+     {
+      "en": "I only have a general sense of the plan.",
+      "ko": "나는 그 계획을 대충만 알고 있어.",
+      "focus": "a general sense of the plan"
+     }
+    ],
+    "collocations": [
+     "too general"
+    ]
+   },
+   {
+    "id": "general-4",
+    "pos": "n",
+    "ko": "장군",
+    "en": "an officer of the highest level in an army",
+    "nuance": "군대 계급을 뜻하고 이름 앞에서는 General Kim처럼 대문자로 쓴다. 회사 임원을 general이라고 부르지는 않는다.",
+    "pattern": "a general in the army",
+    "examples": [
+     {
+      "en": "The general spoke to the soldiers for ten minutes.",
+      "ko": "장군이 병사들에게 10분 동안 연설했어.",
+      "focus": "The general spoke"
+     },
+     {
+      "en": "Two generals attended the ceremony this morning.",
+      "ko": "오늘 아침 행사에 장군 두 명이 참석했어.",
+      "focus": "Two generals attended"
+     }
+    ]
+   }
+  ],
+  "wordFamily": [
+   {
+    "form": "generally",
+    "pos": "adv",
+    "ko": "대체로, 보통"
+   },
+   {
+    "form": "generalize",
+    "pos": "v",
+    "ko": "일반화하다"
+   }
+  ],
+  "confusables": [
+   {
+    "word": "generally",
+    "note": "generally는 부사라 문장 앞이나 동사 앞에 쓰고, 명사 앞에는 general을 쓴다."
+   },
+   {
+    "word": "common",
+    "note": "common은 자주 있다는 빈도, general은 범위가 넓어 대부분에 해당한다는 뜻이다."
+   },
+   {
+    "word": "generation",
+    "note": "generation은 '세대'라는 명사로 general과 뜻이 전혀 다르니 철자만 보고 짐작하면 안 된다."
+   }
+  ]
+ },
+ {
+  "id": "individual",
+  "headword": "individual",
+  "ipa": "/ˌɪndɪˈvɪdʒuəl/",
+  "level": "MID",
+  "isCore": true,
+  "topic": "people_family",
+  "forms": [
+   "individuals"
+  ],
+  "senses": [
+   {
+    "id": "individual-1",
+    "pos": "adj",
+    "ko": "개별의, 하나하나의",
+    "en": "considered separately, one by one, not as a group",
+    "nuance": "여럿 가운데 하나씩 따로 본다는 뜻이다. 포장 하나하나를 뜻하는 individually wrapped처럼 '낱개'라는 실용 표현으로 자주 쓴다.",
+    "pattern": "individual + 단수 명사",
+    "examples": [
+     {
+      "en": "Each individual room has its own air conditioner.",
+      "ko": "각 방마다 에어컨이 따로 있어요.",
+      "focus": "Each individual room"
+     },
+     {
+      "en": "The cookies come in individual packs for lunchboxes.",
+      "ko": "그 쿠키는 도시락용으로 낱개 포장되어 나와.",
+      "focus": "individual packs"
+     }
+    ],
+    "collocations": [
+     "individual needs",
+     "an individual room"
+    ]
+   },
+   {
+    "id": "individual-2",
+    "pos": "n",
+    "ko": "개인",
+    "en": "one person, thought about apart from the group",
+    "nuance": "집단과 대비되는 '개인'이라 다소 딱딱하다. 친구 얘기에 individual을 쓰면 어색하고 person을 쓰는 게 자연스럽다.",
+    "pattern": "the rights of the individual",
+    "examples": [
+     {
+      "en": "The law protects the rights of every individual.",
+      "ko": "그 법은 모든 개인의 권리를 보호합니다.",
+      "focus": "every individual"
+     },
+     {
+      "en": "A few individuals complained about the new rule.",
+      "ko": "몇몇 사람이 새 규칙에 대해 불만을 냈어요.",
+      "focus": "A few individuals"
+     }
+    ],
+    "collocations": [
+     "a private individual"
+    ]
+   },
+   {
+    "id": "individual-3",
+    "pos": "adj",
+    "ko": "개인의, 각자의",
+    "en": "belonging to one person rather than shared by a group",
+    "nuance": "팀이 아니라 한 사람 몫이라는 뜻이다. 스포츠에서 individual scores는 개인 점수, team score는 팀 점수로 명확히 갈린다.",
+    "pattern": "individual + 소유물/성과",
+    "examples": [
+     {
+      "en": "Our coach checks individual scores after every match.",
+      "ko": "우리 코치는 경기마다 개인 점수를 확인해.",
+      "focus": "individual scores"
+     },
+     {
+      "en": "Students pay individual fees for the field trip.",
+      "ko": "학생들은 체험학습 비용을 각자 냅니다.",
+      "focus": "individual fees"
+     }
+    ]
+   }
+  ],
+  "wordFamily": [
+   {
+    "form": "individually",
+    "pos": "adv",
+    "ko": "개별적으로, 낱개로"
+   },
+   {
+    "form": "individuality",
+    "pos": "n",
+    "ko": "개성"
+   }
+  ],
+  "confusables": [
+   {
+    "word": "person",
+    "note": "회화에서는 person이 자연스럽고 individual은 법·통계처럼 딱딱한 맥락에서 쓴다."
+   },
+   {
+    "word": "personal",
+    "note": "personal은 '사적인'이라 감정·사생활에 쓰고, individual은 '하나씩 따로'라는 뜻이다."
+   },
+   {
+    "word": "private",
+    "note": "private는 남이 못 보게 감춘 것, individual은 여럿 중 하나로 구분된 것이다."
+   }
+  ]
+ },
+ {
+  "id": "sense",
+  "headword": "sense",
+  "ipa": "/sens/",
+  "level": "MID",
+  "isCore": true,
+  "topic": "thinking_opinion",
+  "forms": [
+   "sensed",
+   "senses",
+   "sensing"
+  ],
+  "senses": [
+   {
+    "id": "sense-1",
+    "pos": "n",
+    "ko": "의미, 이치",
+    "en": "a meaning that is clear and easy to understand",
+    "nuance": "make sense가 압도적으로 많이 쓰이는 형태다. '이해가 된다'를 I understand로만 말하지 말고 That makes sense로 받으면 훨씬 자연스럽다.",
+    "pattern": "make sense (to + 사람)",
+    "examples": [
+     {
+      "en": "Your plan makes sense to me now, thanks.",
+      "ko": "이제 네 계획이 이해가 돼, 고마워.",
+      "focus": "makes sense to me"
+     },
+     {
+      "en": "This sentence doesn't make any sense at all.",
+      "ko": "이 문장은 전혀 말이 안 돼.",
+      "focus": "make any sense"
+     }
+    ],
+    "collocations": [
+     "make sense",
+     "in a sense"
+    ]
+   },
+   {
+    "id": "sense-2",
+    "pos": "n",
+    "ko": "감각",
+    "en": "the power to see, hear, smell, taste, or touch",
+    "nuance": "오감 하나하나를 가리키고 the five senses처럼 복수로 자주 쓴다. 감기로 후각을 잃었다는 말은 lost my sense of smell이다.",
+    "pattern": "the sense of + 감각",
+    "examples": [
+     {
+      "en": "I lost my sense of smell for a week.",
+      "ko": "나 일주일 동안 후각을 잃었어.",
+      "focus": "sense of smell"
+     },
+     {
+      "en": "Cats have a much better sense of hearing.",
+      "ko": "고양이는 청각이 훨씬 좋아.",
+      "focus": "sense of hearing"
+     }
+    ]
+   },
+   {
+    "id": "sense-3",
+    "pos": "n",
+    "ko": "분별력, 센스",
+    "en": "the ability to make good choices in daily life",
+    "nuance": "common sense는 '상식'이라는 뜻이고 한국어 '센스 있다'와는 다르다. 옷을 잘 고른다는 말은 have good taste라고 해야 한다.",
+    "pattern": "common sense / a sense of humor",
+    "examples": [
+     {
+      "en": "She has a great sense of humor at work.",
+      "ko": "걔는 회사에서 유머 감각이 정말 좋아.",
+      "focus": "sense of humor"
+     },
+     {
+      "en": "Locking the door is just common sense.",
+      "ko": "문 잠그는 건 그냥 상식이야.",
+      "focus": "common sense"
+     }
+    ],
+    "collocations": [
+     "a sense of humor"
+    ]
+   },
+   {
+    "id": "sense-4",
+    "pos": "v",
+    "ko": "느끼다, 감지하다",
+    "en": "to notice something without being told about it",
+    "nuance": "말로 듣지 않고 분위기로 알아차릴 때 쓴다. feel보다 '눈치챘다'에 가까워서 I sensed she was upset이 자연스럽다.",
+    "pattern": "sense (that) + 절",
+    "examples": [
+     {
+      "en": "I sensed something was wrong the moment I walked in.",
+      "ko": "들어간 순간 뭔가 잘못됐다는 걸 느꼈어.",
+      "focus": "sensed something was wrong"
+     },
+     {
+      "en": "Dogs can sense when their owner is sad.",
+      "ko": "개는 주인이 슬플 때를 알아차려.",
+      "focus": "sense when their owner is sad"
+     }
+    ]
+   },
+   {
+    "id": "sense-5",
+    "pos": "n",
+    "ko": "느낌, 기분",
+    "en": "a feeling about something, without clear proof",
+    "nuance": "a sense of + 명사 형태로 막연한 느낌을 말한다. a sense of relief처럼 감정 이름을 붙이며 feeling보다 조금 더 차분한 표현이다.",
+    "pattern": "a sense of + 명사",
+    "examples": [
+     {
+      "en": "I had a strange sense of relief after quitting.",
+      "ko": "그만두고 나서 묘하게 홀가분한 느낌이 들었어.",
+      "focus": "sense of relief"
+     },
+     {
+      "en": "There's a real sense of community in this building.",
+      "ko": "이 건물엔 진짜 이웃 같은 분위기가 있어.",
+      "focus": "sense of community"
+     }
+    ]
+   }
+  ],
+  "wordFamily": [
+   {
+    "form": "sensible",
+    "pos": "adj",
+    "ko": "분별 있는, 합리적인"
+   },
+   {
+    "form": "sensitive",
+    "pos": "adj",
+    "ko": "예민한, 민감한"
+   },
+   {
+    "form": "nonsense",
+    "pos": "n",
+    "ko": "말도 안 되는 소리"
+   }
+  ],
+  "confusables": [
+   {
+    "word": "sensible",
+    "note": "sensible은 '판단이 합리적인', sensitive는 '예민한'이라 뜻이 정반대에 가깝다."
+   },
+   {
+    "word": "feel",
+    "note": "feel은 몸이나 마음으로 직접 느끼는 것, sense는 티 없이 눈치채는 것이다."
+   },
+   {
+    "word": "taste",
+    "note": "옷·음악을 고르는 감각은 taste이고, sense를 쓰면 상식이나 분별력으로 들린다."
+   }
+  ]
+ },
+ {
+  "id": "research",
+  "headword": "research",
+  "ipa": "/rɪˈsɜːrtʃ/",
+  "level": "MID",
+  "isCore": true,
+  "topic": "academic",
+  "forms": [
+   "researched",
+   "researches",
+   "researching"
+  ],
+  "senses": [
+   {
+    "id": "research-1",
+    "pos": "n",
+    "ko": "연구, 조사",
+    "en": "careful study done to learn new facts about a subject",
+    "nuance": "셀 수 없는 명사라 a research나 researches로 쓰면 틀린다. 개수를 말하려면 a research project나 two studies라고 해야 한다.",
+    "pattern": "do research on + 주제",
+    "examples": [
+     {
+      "en": "She's doing research on sleep and memory.",
+      "ko": "걔는 수면과 기억에 대해 연구하고 있어.",
+      "focus": "doing research on sleep"
+     },
+     {
+      "en": "Recent research shows walking helps your mood.",
+      "ko": "최근 연구에 따르면 걷기가 기분에 도움이 돼.",
+      "focus": "Recent research shows"
+     }
+    ],
+    "collocations": [
+     "do research",
+     "research shows"
+    ]
+   },
+   {
+    "id": "research-2",
+    "pos": "n",
+    "ko": "사전 조사, 알아보기",
+    "en": "the checking you do before buying or deciding something",
+    "nuance": "학술 연구가 아니라 인터넷으로 미리 알아보는 것도 research다. I did some research는 '좀 알아봤어'라는 아주 흔한 회화 표현이다.",
+    "pattern": "do some research before + -ing",
+    "examples": [
+     {
+      "en": "I did some research before booking the hotel.",
+      "ko": "호텔 예약하기 전에 좀 알아봤어.",
+      "focus": "did some research"
+     },
+     {
+      "en": "Do your research before you sign the contract.",
+      "ko": "계약서에 서명하기 전에 꼭 알아봐.",
+      "focus": "Do your research"
+     }
+    ],
+    "collocations": [
+     "a bit of research"
+    ]
+   },
+   {
+    "id": "research-3",
+    "pos": "v",
+    "ko": "조사하다, 연구하다",
+    "en": "to study a subject carefully to find out more about it",
+    "nuance": "동사로 쓸 때는 전치사 없이 바로 목적어를 받아서 research about the topic은 틀린다. 명사로 쓸 때만 research on이라고 한다.",
+    "pattern": "research + 명사",
+    "examples": [
+     {
+      "en": "We researched three schools before choosing this one.",
+      "ko": "이 학교 고르기 전에 세 곳을 알아봤어.",
+      "focus": "researched three schools"
+     },
+     {
+      "en": "He's researching how city noise affects sleep.",
+      "ko": "그 사람은 도시 소음이 수면에 미치는 영향을 연구해.",
+      "focus": "researching how city noise affects sleep"
+     }
+    ],
+    "collocations": [
+     "research a topic"
+    ]
+   }
+  ],
+  "wordFamily": [
+   {
+    "form": "researcher",
+    "pos": "n",
+    "ko": "연구자"
+   }
+  ],
+  "confusables": [
+   {
+    "word": "study",
+    "note": "study는 하나의 연구 논문이라 셀 수 있지만 research는 셀 수 없는 활동 전체다."
+   },
+   {
+    "word": "search",
+    "note": "search는 없는 것을 찾는 행위, research는 자료를 모아 알아내는 조사다."
+   },
+   {
+    "word": "survey",
+    "note": "survey는 설문으로 의견을 모으는 방법 하나, research는 그걸 포함한 넓은 조사다."
+   }
+  ],
+  "memoryHook": "re(다시) + search(찾다) = 될 때까지 다시 찾아보는 일."
+ },
+ {
+  "id": "film",
+  "headword": "film",
+  "ipa": "/fɪlm/",
+  "level": "MID",
+  "isCore": true,
+  "topic": "culture_arts",
+  "forms": [
+   "filmed",
+   "filming",
+   "films"
+  ],
+  "senses": [
+   {
+    "id": "film-1",
+    "pos": "n",
+    "ko": "영화",
+    "en": "a story shown in pictures at a cinema or on a screen",
+    "nuance": "영국식에서 흔하고 미국에서는 movie를 쓴다. film은 예술 작품이라는 느낌이 살짝 강해서 영화제나 평론에서는 미국에서도 film을 쓴다.",
+    "pattern": "watch/see a film",
+    "examples": [
+     {
+      "en": "We watched a French film with English subtitles.",
+      "ko": "우리 영어 자막으로 프랑스 영화 봤어.",
+      "focus": "a French film"
+     },
+     {
+      "en": "Her new film comes out in London next month.",
+      "ko": "걔 새 영화가 다음 달에 런던에서 개봉해.",
+      "focus": "Her new film"
+     }
+    ],
+    "collocations": [
+     "watch a film",
+     "a horror film"
+    ]
+   },
+   {
+    "id": "film-2",
+    "pos": "v",
+    "ko": "촬영하다, 찍다",
+    "en": "to use a camera to make moving pictures of something",
+    "nuance": "영상으로 담는 동작이라 사진은 take a photo다. 드라마 촬영 중이라는 말은 They're filming이고 shoot도 같은 뜻으로 쓴다.",
+    "pattern": "film + 명사 + in + 장소",
+    "examples": [
+     {
+      "en": "They filmed most of the show in Busan.",
+      "ko": "그 프로그램 대부분을 부산에서 촬영했어.",
+      "focus": "filmed most of the show"
+     },
+     {
+      "en": "Please don't film the dancers during the performance.",
+      "ko": "공연 중에 댄서들 촬영하지 말아 주세요.",
+      "focus": "film the dancers"
+     }
+    ],
+    "collocations": [
+     "film a scene"
+    ]
+   },
+   {
+    "id": "film-3",
+    "pos": "n",
+    "ko": "필름",
+    "en": "the thin strip that old cameras used to keep pictures on",
+    "nuance": "디지털 이전 카메라에 넣던 그 필름이고 셀 수 없이 쓰는 경우가 많다. a roll of film처럼 단위를 붙여 세는 게 자연스럽다.",
+    "pattern": "a roll of film",
+    "examples": [
+     {
+      "en": "I still shoot with film on weekend trips.",
+      "ko": "나는 주말 여행 때 아직 필름 카메라로 찍어.",
+      "focus": "shoot with film"
+     },
+     {
+      "en": "He bought two rolls of film for the trip.",
+      "ko": "그 사람이 여행용으로 필름 두 롤 샀어.",
+      "focus": "two rolls of film"
+     }
+    ]
+   },
+   {
+    "id": "film-4",
+    "pos": "n",
+    "ko": "얇은 막, 랩",
+    "en": "a very thin layer that covers a surface",
+    "nuance": "액정에 붙이는 보호 필름이나 음식 덮는 랩을 말한다. 한국어 '랩'을 wrap이라고만 알면 plastic film이라는 표현을 놓치게 된다.",
+    "pattern": "a film of + 명사",
+    "examples": [
+     {
+      "en": "Put a film of plastic over the bowl.",
+      "ko": "그릇 위에 비닐 랩을 씌워.",
+      "focus": "a film of plastic"
+     },
+     {
+      "en": "There was a thin film of dust on the shelf.",
+      "ko": "선반에 먼지가 얇게 앉아 있었어.",
+      "focus": "a thin film of dust"
+     }
+    ]
+   }
+  ],
+  "wordFamily": [
+   {
+    "form": "filmmaker",
+    "pos": "n",
+    "ko": "영화 제작자"
+   }
+  ],
+  "confusables": [
+   {
+    "word": "movie",
+    "note": "movie는 미국식 일상어, film은 영국식이며 예술 작품이라는 느낌이 조금 더 강하다."
+   },
+   {
+    "word": "cinema",
+    "note": "cinema는 영화를 보는 극장 건물, film은 상영되는 작품 자체를 말한다."
+   },
+   {
+    "word": "shoot",
+    "note": "shoot과 film은 촬영 뜻이 같지만 shoot은 사진 촬영에도 쓸 수 있다."
    }
   ]
  }
