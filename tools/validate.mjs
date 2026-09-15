@@ -61,8 +61,11 @@ export function validateEntries(entries, { manifest = null, globalScope = false 
     if (e.isCore !== row.isCore) err(id, 'master.isCore', `isCore 불일치: ${e.isCore} ≠ ${row.isCore}`);
     if (!topicKeys.has(e.topic)) err(id, 'topic', `알 수 없는 topic: ${e.topic}`);
     const forms = [e.headword, ...(e.forms || [])];
-    const missingForms = cleanForms(row.headword, row.forms, row.pos_hint).filter((f) => !(e.forms || []).includes(f));
-    if (missingForms.length) warn(id, 'forms.master', `manifest forms 누락: ${missingForms.join(', ')}`);
+    // 항목이 다루는 품사에 해당하는 형태만 요구한다.
+    // 예: nurse 를 명사로만 썼으면 nursed/nursing 이 없어도 정상이다.
+    const entryPos = [...new Set(e.senses?.map((s) => s.pos) ?? [])];
+    const missingForms = cleanForms(row.headword, row.forms, entryPos).filter((f) => !(e.forms || []).includes(f));
+    if (missingForms.length) warn(id, 'forms.master', `이 항목이 다루는 품사의 변화형 누락: ${missingForms.join(', ')}`);
     if ((e.forms || []).includes(e.headword)) warn(id, 'forms.self', 'forms에 headword 자체가 포함됨');
     if (!Array.isArray(e.senses)) continue;
 

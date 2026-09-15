@@ -623,9 +623,7 @@
   "level": "ELEM",
   "isCore": false,
   "topic": "nature_animals",
-  "forms": [
-   "weathers"
-  ],
+  "forms": [],
   "senses": [
    {
     "id": "weather-1",
@@ -944,8 +942,6 @@
   "isCore": false,
   "topic": "travel_transport",
   "forms": [
-   "toured",
-   "touring",
    "tours"
   ],
   "senses": [
@@ -1135,9 +1131,7 @@
   "isCore": false,
   "topic": "communication",
   "forms": [
-   "sentenced",
-   "sentences",
-   "sentencing"
+   "sentences"
   ],
   "senses": [
    {
@@ -1227,10 +1221,8 @@
   "isCore": false,
   "topic": "movement_action",
   "forms": [
-   "speeded",
-   "speeding",
-   "speeds",
-   "sped"
+   "sped",
+   "speeds"
   ],
   "senses": [
    {
@@ -1403,9 +1395,7 @@
   "isCore": false,
   "topic": "travel_transport",
   "forms": [
-   "spots",
-   "spotted",
-   "spotting"
+   "spots"
   ],
   "senses": [
    {
@@ -1704,11 +1694,8 @@
   "isCore": false,
   "topic": "description_quality",
   "forms": [
-   "cooled",
    "cooler",
-   "coolest",
-   "cooling",
-   "cools"
+   "coolest"
   ],
   "senses": [
    {
@@ -1903,7 +1890,6 @@
   "isCore": false,
   "topic": "sports_leisure",
   "forms": [
-   "camped",
    "camping",
    "camps"
   ],
@@ -1942,8 +1928,6 @@
   "isCore": false,
   "topic": "communication",
   "forms": [
-   "emailed",
-   "emailing",
    "emails"
   ],
   "senses": [
@@ -2586,9 +2570,7 @@
   "isCore": false,
   "topic": "environment_science",
   "forms": [
-   "smoked",
-   "smokes",
-   "smoking"
+   "smokes"
   ],
   "senses": [
    {

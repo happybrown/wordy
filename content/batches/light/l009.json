@@ -862,9 +862,7 @@
   "isCore": false,
   "topic": "school_learning",
   "forms": [
-   "graded",
-   "grades",
-   "grading"
+   "grades"
   ],
   "senses": [
    {
@@ -1060,8 +1058,6 @@
   "isCore": false,
   "topic": "description_quality",
   "forms": [
-   "rowed",
-   "rowing",
    "rows"
   ],
   "senses": [
@@ -1200,9 +1196,7 @@
   "isCore": false,
   "topic": "food_cooking",
   "forms": [
-   "bottled",
-   "bottles",
-   "bottling"
+   "bottles"
   ],
   "senses": [
    {
@@ -1494,7 +1488,6 @@
   "isCore": false,
   "topic": "body_health",
   "forms": [
-   "fats",
    "fatter",
    "fattest"
   ],
@@ -1755,9 +1748,7 @@
   "isCore": false,
   "topic": "description_quality",
   "forms": [
-   "circled",
-   "circles",
-   "circling"
+   "circles"
   ],
   "senses": [
    {
@@ -1888,9 +1879,7 @@
   "level": "ELEM",
   "isCore": false,
   "topic": "communication",
-  "forms": [
-   "mobiles"
-  ],
+  "forms": [],
   "senses": [
    {
     "id": "mobile-1",

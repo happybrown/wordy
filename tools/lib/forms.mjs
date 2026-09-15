@@ -6,6 +6,19 @@ export function lev(a, b) {
   for (let i = 1; i <= a.length; i++) { const cur = [i]; for (let j = 1; j <= b.length; j++) cur[j] = Math.min(prev[j] + 1, cur[j - 1] + 1, prev[j - 1] + (a[i - 1] === b[j - 1] ? 0 : 1)); prev = cur; }
   return prev[b.length];
 }
+/**
+ * 학습자에게 보여주면 안 되는 형태.
+ * - 불가산명사의 가짜 복수 (moneys, advices, homeworks)
+ * - 등급이 없는 형용사의 비교급 (deader, falser, uniquer)
+ * works/waters/salts 처럼 특수 맥락에서 실재하는 형태는 제외하지 않는다.
+ */
+const NOT_A_FORM = new Set([
+  'moneys', 'monies', 'advices', 'homeworks', 'informations', 'newses', 'furnitures',
+  'equipments', 'knowledges', 'healths', 'lucks', 'pollutions', 'traffics', 'musics',
+  'breads', 'rices', 'weathers', 'funs',
+  'deader', 'deadest', 'falser', 'falsest', 'truer', 'truest', 'uniquer', 'uniquest',
+  'perfecter', 'perfectest', 'mainer', 'mainest', 'onlier', 'onliest', 'wholer', 'wholest',
+]);
 const SLANG = new Set(['gotta', 'gettin', 'gonna', 'wanna', 'dunno', 'kinda', 'sorta', 'lemme', 'gimme', "ain't", 'em', 'ya', 'yeah', 'cuz', 'til']);
 const badS = (h) => /(s|x|z|ch|sh)$/.test(h) || /[^aeiou]y$/.test(h); // marchs, storys are not words
 const isPlural = (h, f) => (IRREGULAR_PLURAL[h] ? IRREGULAR_PLURAL[h] === f : (f === h + 's' && !badS(h)) || f === h + 'es' || (h.endsWith('y') && f === h.slice(0, -1) + 'ies') || (h.endsWith('f') && f === h.slice(0, -1) + 'ves') || (h.endsWith('fe') && f === h.slice(0, -2) + 'ves'));
@@ -28,7 +41,7 @@ export function cleanForms(headword, forms, pos, usedIn = '') {
     if (f === headword + 's' && badS(headword)) return false;
     if (f === headword + 'es' && !/(s|x|z|ch|sh|o)$/.test(headword)) return false;
     if (/[.]/.test(f) && !/[.]/.test(headword)) return false; // "dr." for doctor
-    if (SLANG.has(f)) return false;
+    if (SLANG.has(f) || NOT_A_FORM.has(f)) return false;
     if (used(f)) return true;
     const suffix = f.startsWith(headword) ? f.slice(headword.length) : null;
     const variant = lev(f, headword) <= 2 && Math.abs(f.length - headword.length) <= 1 && suffix === null && !headword.startsWith(f);
