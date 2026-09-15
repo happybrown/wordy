@@ -1,0 +1,2616 @@
+[
+ {
+  "id": "drink",
+  "headword": "drink",
+  "ipa": "/drɪŋk/",
+  "level": "PRE",
+  "isCore": true,
+  "topic": "food_cooking",
+  "forms": [
+   "drank",
+   "drinking",
+   "drinks",
+   "drunk"
+  ],
+  "senses": [
+   {
+    "id": "drink-1",
+    "pos": "v",
+    "ko": "마시다",
+    "en": "to take liquid into your mouth and swallow it",
+    "nuance": "액체를 삼키는 모든 경우에 쓴다. 한국어 '약을 먹다'는 eat이 아니라 take medicine이라고 해야 자연스럽다.",
+    "pattern": "drink + 음료",
+    "examples": [
+     {
+      "en": "You should drink more water when it's this hot.",
+      "ko": "이렇게 더울 땐 물 좀 더 마셔.",
+      "focus": "drink more water"
+     },
+     {
+      "en": "I drank three cups of coffee before lunch today.",
+      "ko": "오늘 점심 전에 커피를 세 잔이나 마셨어.",
+      "focus": "drank three cups of coffee"
+     },
+     {
+      "en": "Don't drink that, it's been out all night.",
+      "ko": "그거 마시지 마, 밤새 밖에 나와 있었어.",
+      "focus": "drink that"
+     }
+    ],
+    "collocations": [
+     "drink water",
+     "drink coffee"
+    ],
+    "phrasals": [
+     {
+      "phrase": "drink up",
+      "ko": "남기지 말고 다 마시다",
+      "example": {
+       "en": "Drink up, everyone, the bus leaves in five minutes.",
+       "ko": "다들 얼른 마셔, 버스 5분 뒤에 출발해.",
+       "focus": "Drink up"
+      }
+     }
+    ]
+   },
+   {
+    "id": "drink-2",
+    "pos": "n",
+    "ko": "음료, 마실 것",
+    "en": "a liquid you take into your body",
+    "nuance": "'뭐 마실래?'라고 권할 때 쓰는 말이다. beverage는 메뉴판·안내문에 쓰는 딱딱한 말이라 대화에서는 안 쓴다.",
+    "pattern": "a cold / hot drink",
+    "examples": [
+     {
+      "en": "Can I get you a drink while you wait?",
+      "ko": "기다리시는 동안 마실 거 하나 갖다드릴까요?",
+      "focus": "a drink"
+     },
+     {
+      "en": "Bring some cold drinks for the picnic tomorrow.",
+      "ko": "내일 소풍에 시원한 음료 좀 가져와.",
+      "focus": "cold drinks"
+     }
+    ],
+    "collocations": [
+     "a cold drink",
+     "food and drink"
+    ]
+   },
+   {
+    "id": "drink-3",
+    "pos": "v",
+    "ko": "술을 마시다",
+    "en": "to take alcohol, often as a habit",
+    "nuance": "목적어 없이 drink만 쓰면 술을 뜻한다. I don't drink는 '나는 술을 안 한다'라는 뜻이다.",
+    "examples": [
+     {
+      "en": "I don't drink, so just get me juice.",
+      "ko": "나 술 안 마셔, 그냥 주스로 줘.",
+      "focus": "don't drink"
+     },
+     {
+      "en": "Jun doesn't drink much when he has work tomorrow.",
+      "ko": "준은 다음 날 일 있으면 술을 별로 안 마셔.",
+      "focus": "drink much"
+     }
+    ]
+   },
+   {
+    "id": "drink-4",
+    "pos": "n",
+    "ko": "술, 술자리",
+    "en": "alcohol, or an occasion for having it",
+    "nuance": "복수 drinks는 '한잔하기'라는 약속을 뜻한다. go for drinks가 회식·모임을 권하는 가장 흔한 표현이다.",
+    "pattern": "go for drinks",
+    "examples": [
+     {
+      "en": "Do you want to go for drinks after work?",
+      "ko": "퇴근하고 한잔하러 갈래?",
+      "focus": "go for drinks"
+     },
+     {
+      "en": "We had a few drinks and talked until midnight.",
+      "ko": "우리 몇 잔 하면서 자정까지 얘기했어.",
+      "focus": "a few drinks"
+     }
+    ]
+   }
+  ],
+  "wordFamily": [
+   {
+    "form": "drinker",
+    "pos": "n",
+    "ko": "술 마시는 사람"
+   },
+   {
+    "form": "drinkable",
+    "pos": "adj",
+    "ko": "마셔도 되는"
+   }
+  ],
+  "confusables": [
+   {
+    "word": "eat",
+    "note": "액체는 drink, 고체는 eat이다. 국물은 마셔도 soup은 eat soup이라고 한다."
+   },
+   {
+    "word": "bring",
+    "note": "발음이 비슷하지만 bring은 '가져오다'로 뜻이 전혀 다르다."
+   },
+   {
+    "word": "dine",
+    "note": "dine은 식당에서 정식으로 식사한다는 격식체, drink는 마시는 동작만 가리킨다."
+   }
+  ],
+  "memoryHook": "drank는 과거, drunk는 과거분사이자 '취한'이라는 형용사로도 쓰인다."
+ },
+ {
+  "id": "park",
+  "headword": "park",
+  "ipa": "/pɑːrk/",
+  "level": "PRE",
+  "isCore": true,
+  "topic": "travel_transport",
+  "forms": [
+   "parked",
+   "parking",
+   "parks"
+  ],
+  "senses": [
+   {
+    "id": "park-1",
+    "pos": "n",
+    "ko": "공원",
+    "en": "a public open space with grass and trees",
+    "nuance": "도시 안의 열린 녹지를 뜻한다. 놀이기구가 있는 곳은 amusement park라고 따로 말해야 통한다.",
+    "pattern": "in / at the park",
+    "examples": [
+     {
+      "en": "Let's meet at the park near your apartment.",
+      "ko": "너희 아파트 근처 공원에서 만나자.",
+      "focus": "at the park"
+     },
+     {
+      "en": "We walked around the park for about an hour.",
+      "ko": "우리 한 시간쯤 공원을 돌아다녔어.",
+      "focus": "around the park"
+     },
+     {
+      "en": "Seoul has some really nice parks by the river.",
+      "ko": "서울엔 강가에 진짜 좋은 공원들이 있어.",
+      "focus": "nice parks"
+     }
+    ],
+    "collocations": [
+     "go to the park",
+     "a national park"
+    ]
+   },
+   {
+    "id": "park-2",
+    "pos": "v",
+    "ko": "주차하다",
+    "en": "to leave a car in a place for a while",
+    "nuance": "차를 세워 두는 동작과 상태를 함께 뜻한다. '주차장'은 parking이 아니라 parking lot이라고 해야 한다.",
+    "pattern": "park + 차 + 장소",
+    "examples": [
+     {
+      "en": "Where did you park the car this morning?",
+      "ko": "오늘 아침에 차 어디에 댔어?",
+      "focus": "park the car"
+     },
+     {
+      "en": "You can't park here between eight and six.",
+      "ko": "여기는 8시부터 6시까지 주차하면 안 돼.",
+      "focus": "park here"
+     },
+     {
+      "en": "I parked right behind the blue truck.",
+      "ko": "나 파란 트럭 바로 뒤에 주차했어.",
+      "focus": "parked right behind"
+     }
+    ],
+    "collocations": [
+     "park the car",
+     "a parking lot",
+     "parking space"
+    ]
+   },
+   {
+    "id": "park-3",
+    "pos": "n",
+    "ko": "경기장, 구장",
+    "en": "a large field where a sports game is played",
+    "nuance": "주로 야구장을 가리키는 미국식 표현이다. 축구·큰 경기장은 stadium이 훨씬 자연스럽다.",
+    "examples": [
+     {
+      "en": "The game starts at seven at the ball park.",
+      "ko": "경기는 야구장에서 7시에 시작해.",
+      "focus": "at the ball park"
+     },
+     {
+      "en": "We got cheap seats at the park last Friday.",
+      "ko": "지난 금요일에 야구장 싼 자리 구했어.",
+      "focus": "seats at the park"
+     }
+    ]
+   }
+  ],
+  "wordFamily": [
+   {
+    "form": "parking",
+    "pos": "n",
+    "ko": "주차"
+   }
+  ],
+  "confusables": [
+   {
+    "word": "garden",
+    "note": "park는 누구나 가는 공공 공원, garden은 집이나 건물에 딸린 정원이다."
+   },
+   {
+    "word": "stop",
+    "note": "park는 차를 두고 떠나는 것, stop은 잠깐 멈추는 것이다."
+   },
+   {
+    "word": "bank",
+    "note": "철자가 비슷해 헷갈리지만 bank는 은행이나 강둑을 뜻한다."
+   }
+  ]
+ },
+ {
+  "id": "catch",
+  "headword": "catch",
+  "ipa": "/kætʃ/",
+  "level": "PRE",
+  "isCore": true,
+  "topic": "movement_action",
+  "forms": [
+   "catches",
+   "catching",
+   "caught"
+  ],
+  "senses": [
+   {
+    "id": "catch-1",
+    "pos": "v",
+    "ko": "잡다, 받다",
+    "en": "to take hold of something moving through the air",
+    "nuance": "날아오는 것을 손으로 받는 동작이다. 가만히 있는 물건을 집는 건 take나 grab을 쓴다.",
+    "pattern": "catch + 움직이는 것",
+    "examples": [
+     {
+      "en": "Catch the ball, I'm throwing it to you.",
+      "ko": "공 받아, 너한테 던진다.",
+      "focus": "Catch the ball"
+     },
+     {
+      "en": "She caught the keys before they hit the floor.",
+      "ko": "걔가 열쇠 바닥에 떨어지기 전에 잡았어.",
+      "focus": "caught the keys"
+     }
+    ],
+    "collocations": [
+     "catch a ball",
+     "catch a fish"
+    ],
+    "phrasals": [
+     {
+      "phrase": "catch up",
+      "ko": "따라잡다, 밀린 얘기를 하다",
+      "example": {
+       "en": "Let's catch up over coffee sometime next week.",
+       "ko": "다음 주에 커피 마시면서 밀린 얘기 하자.",
+       "focus": "catch up over coffee"
+      }
+     },
+     {
+      "phrase": "catch up with",
+      "ko": "뒤처진 것을 따라잡다",
+      "example": {
+       "en": "Go ahead, I'll catch up with you soon.",
+       "ko": "먼저 가, 금방 따라갈게.",
+       "focus": "catch up with you"
+      }
+     },
+     {
+      "phrase": "catch on",
+      "ko": "이해하다, 유행하다",
+      "example": {
+       "en": "Don't worry, you'll catch on after a few tries.",
+       "ko": "걱정 마, 몇 번 해 보면 감 잡을 거야.",
+       "focus": "catch on"
+      }
+     }
+    ]
+   },
+   {
+    "id": "catch-2",
+    "pos": "v",
+    "ko": "(차를) 타다",
+    "en": "to get on a bus or train before it leaves",
+    "nuance": "시간에 맞춰 올라탄다는 뜻이라 급한 느낌이 있다. 단순히 교통수단을 이용하는 건 take the bus라고 한다.",
+    "pattern": "catch + 버스/기차/비행기",
+    "examples": [
+     {
+      "en": "I have to catch the seven o'clock train tomorrow.",
+      "ko": "나 내일 7시 기차 타야 돼.",
+      "focus": "catch the seven o'clock train"
+     },
+     {
+      "en": "We ran and just caught the last bus home.",
+      "ko": "우리 뛰어가서 겨우 막차 탔어.",
+      "focus": "caught the last bus"
+     }
+    ],
+    "collocations": [
+     "catch the bus",
+     "catch a flight"
+    ]
+   },
+   {
+    "id": "catch-3",
+    "pos": "v",
+    "ko": "(병에) 걸리다",
+    "en": "to get an illness from another person",
+    "nuance": "남한테 옮는 병에만 쓴다. 두통이나 배탈처럼 옮지 않는 것은 have a headache라고 한다.",
+    "pattern": "catch a cold / the flu",
+    "examples": [
+     {
+      "en": "Put a jacket on or you'll catch a cold.",
+      "ko": "겉옷 입어, 안 그러면 감기 걸려.",
+      "focus": "catch a cold"
+     },
+     {
+      "en": "I caught something from Jun at the office.",
+      "ko": "사무실에서 준한테 뭔가 옮았어.",
+      "focus": "caught something from Jun"
+     }
+    ]
+   },
+   {
+    "id": "catch-4",
+    "pos": "v",
+    "ko": "(하는 걸) 딱 보다",
+    "en": "to see someone doing something they hide",
+    "nuance": "몰래 하던 일을 들킬 때 쓴다. catch + 사람 + -ing 형태로 쓰는 것이 원어민 어감이다.",
+    "pattern": "catch + 사람 + -ing",
+    "examples": [
+     {
+      "en": "My mom caught me eating cake before dinner.",
+      "ko": "엄마한테 저녁 전에 케이크 먹다가 딱 걸렸어.",
+      "focus": "caught me eating cake"
+     },
+     {
+      "en": "I caught him looking at my screen again.",
+      "ko": "걔가 또 내 화면 보는 거 딱 봤어.",
+      "focus": "caught him looking"
+     }
+    ]
+   },
+   {
+    "id": "catch-5",
+    "pos": "v",
+    "ko": "알아듣다",
+    "en": "to hear and understand what was said",
+    "nuance": "소리를 놓쳤을 때 되묻는 말이다. I didn't catch that이 Pardon?보다 훨씬 자연스러운 회화체다.",
+    "examples": [
+     {
+      "en": "Sorry, I didn't catch your name just now.",
+      "ko": "죄송한데 방금 성함을 못 들었어요.",
+      "focus": "catch your name"
+     },
+     {
+      "en": "Did you catch what the driver said?",
+      "ko": "기사님이 뭐라고 했는지 들었어?",
+      "focus": "catch what the driver said"
+     }
+    ]
+   }
+  ],
+  "wordFamily": [
+   {
+    "form": "catchy",
+    "pos": "adj",
+    "ko": "귀에 쏙 들어오는"
+   }
+  ],
+  "confusables": [
+   {
+    "word": "take",
+    "note": "catch the bus는 시간 맞춰 겨우 타는 느낌, take the bus는 그냥 버스로 간다는 뜻이다."
+   },
+   {
+    "word": "hold",
+    "note": "catch는 움직이는 걸 잡는 순간, hold는 잡은 채로 계속 들고 있는 상태다."
+   },
+   {
+    "word": "cash",
+    "note": "발음이 비슷하지만 cash는 현금이라는 명사다."
+   }
+  ]
+ },
+ {
+  "id": "pull",
+  "headword": "pull",
+  "ipa": "/pʊl/",
+  "level": "PRE",
+  "isCore": true,
+  "topic": "movement_action",
+  "forms": [
+   "pulled",
+   "pulling",
+   "pulls"
+  ],
+  "senses": [
+   {
+    "id": "pull-1",
+    "pos": "v",
+    "ko": "당기다, 끌다",
+    "en": "to move something toward you using your hand",
+    "nuance": "내 쪽으로 힘을 주는 동작이다. 문에 붙은 안내판 PULL은 '당기시오', PUSH는 '미시오'다.",
+    "pattern": "pull + 사물",
+    "examples": [
+     {
+      "en": "Pull the door, it doesn't open the other way.",
+      "ko": "문 당겨, 반대로는 안 열려.",
+      "focus": "Pull the door"
+     },
+     {
+      "en": "He pulled the chair closer so we could talk.",
+      "ko": "걔가 얘기하려고 의자를 가까이 당겼어.",
+      "focus": "pulled the chair closer"
+     },
+     {
+      "en": "Stop pulling my sleeve, I'm already walking over there.",
+      "ko": "소매 그만 잡아당겨, 이미 그쪽으로 가고 있어.",
+      "focus": "pulling my sleeve"
+     }
+    ],
+    "collocations": [
+     "pull the door",
+     "pull a muscle"
+    ],
+    "phrasals": [
+     {
+      "phrase": "pull over",
+      "ko": "차를 길가에 세우다",
+      "example": {
+       "en": "Can you pull over here? I feel sick.",
+       "ko": "여기 좀 세워 줄래? 나 속이 안 좋아.",
+       "focus": "pull over here"
+      }
+     },
+     {
+      "phrase": "pull out",
+      "ko": "꺼내다, 빠져나가다",
+      "example": {
+       "en": "Let me pull out my phone and check the time.",
+       "ko": "폰 꺼내서 시간 좀 볼게.",
+       "focus": "pull out my phone"
+      }
+     },
+     {
+      "phrase": "pull up",
+      "ko": "차를 대다, 화면에 띄우다",
+      "example": {
+       "en": "I'll pull up the map so we don't get lost.",
+       "ko": "길 안 잃게 내가 지도 띄울게.",
+       "focus": "pull up the map"
+      }
+     },
+     {
+      "phrase": "pull off",
+      "ko": "해내다",
+      "example": {
+       "en": "I can't believe you can pull off that plan.",
+       "ko": "네가 그 계획을 해낼 수 있다니 믿기지 않아.",
+       "focus": "pull off that plan"
+      }
+     }
+    ]
+   },
+   {
+    "id": "pull-2",
+    "pos": "v",
+    "ko": "뽑다, 빼내다",
+    "en": "to remove something by taking hold and using force",
+    "nuance": "박혀 있던 것을 힘줘서 빼는 것이다. 이를 뽑는 것도 pull a tooth라고 하지 remove를 잘 안 쓴다.",
+    "pattern": "pull + 사물 + out of",
+    "examples": [
+     {
+      "en": "The dentist pulled my tooth in five minutes.",
+      "ko": "치과에서 5분 만에 이를 뽑았어.",
+      "focus": "pulled my tooth"
+     },
+     {
+      "en": "Can you pull the plug out of the wall?",
+      "ko": "벽에서 플러그 좀 빼 줄래?",
+      "focus": "pull the plug out"
+     }
+    ],
+    "collocations": [
+     "pull a tooth",
+     "pull the plug"
+    ]
+   },
+   {
+    "id": "pull-3",
+    "pos": "v",
+    "ko": "(근육을) 삐다",
+    "en": "to hurt a muscle by stretching it too much",
+    "nuance": "운동하다 근육을 다쳤을 때 쓰는 일상 표현이다. 병원에서 쓰는 말은 strain a muscle이다.",
+    "examples": [
+     {
+      "en": "I pulled a muscle in my back last night.",
+      "ko": "어젯밤에 등 근육을 삐었어.",
+      "focus": "pulled a muscle"
+     },
+     {
+      "en": "Warm up first, or you'll pull something again.",
+      "ko": "먼저 몸 풀어, 안 그러면 또 삐어.",
+      "focus": "pull something"
+     }
+    ]
+   }
+  ],
+  "confusables": [
+   {
+    "word": "push",
+    "note": "pull은 내 쪽으로 당기기, push는 저쪽으로 밀기다. 문 안내판에서 매일 본다."
+   },
+   {
+    "word": "draw",
+    "note": "draw도 '끌다'지만 커튼이나 관심을 끄는 추상적 쓰임이 많고, 힘쓰는 동작은 pull이다."
+   },
+   {
+    "word": "drag",
+    "note": "drag는 바닥에 닿은 채 무겁게 끄는 것, pull은 방향만 내 쪽이면 된다."
+   }
+  ]
+ },
+ {
+  "id": "red",
+  "headword": "red",
+  "ipa": "/red/",
+  "level": "PRE",
+  "isCore": true,
+  "topic": "description_quality",
+  "forms": [
+   "redder",
+   "reddest",
+   "reds"
+  ],
+  "senses": [
+   {
+    "id": "red-1",
+    "pos": "adj",
+    "ko": "빨간",
+    "en": "having the color of blood or a tomato",
+    "nuance": "색을 말할 때 the red one처럼 명사 없이도 쓴다. '빨간색'이라는 명사는 the color red라고 한다.",
+    "pattern": "red + 명사",
+    "examples": [
+     {
+      "en": "I'm wearing the red jacket, so you'll see me.",
+      "ko": "나 빨간 재킷 입고 있으니까 보일 거야.",
+      "focus": "the red jacket"
+     },
+     {
+      "en": "Do you want the red one or the blue one?",
+      "ko": "빨간 거 줄까, 파란 거 줄까?",
+      "focus": "the red one"
+     },
+     {
+      "en": "Stop the car, the light just turned red.",
+      "ko": "차 세워, 방금 신호 빨간불로 바뀌었어.",
+      "focus": "turned red"
+     }
+    ],
+    "collocations": [
+     "a red light",
+     "bright red"
+    ]
+   },
+   {
+    "id": "red-2",
+    "pos": "adj",
+    "ko": "(얼굴이) 빨개진",
+    "en": "with a face that has turned a warm color",
+    "nuance": "부끄럽거나 화날 때 얼굴색을 말한다. blush라는 동사보다 go red나 turn red가 회화에서 훨씬 흔하다.",
+    "pattern": "go / turn red",
+    "examples": [
+     {
+      "en": "My face goes red every time he says that.",
+      "ko": "걔가 그 말 할 때마다 얼굴이 빨개져.",
+      "focus": "goes red"
+     },
+     {
+      "en": "Your cheeks are red, are you feeling okay?",
+      "ko": "볼이 빨간데, 괜찮아?",
+      "focus": "cheeks are red"
+     }
+    ],
+    "collocations": [
+     "turn red",
+     "go red"
+    ]
+   },
+   {
+    "id": "red-3",
+    "pos": "adj",
+    "ko": "(머리가) 붉은",
+    "en": "with hair of an orange-brown color",
+    "nuance": "머리카락 색에는 orange를 쓰지 않고 red라고 한다. 와인도 red wine이라 하지 purple wine이라고 하지 않는다.",
+    "examples": [
+     {
+      "en": "Emma has red hair, so she's easy to find.",
+      "ko": "엠마는 머리가 붉어서 찾기 쉬워.",
+      "focus": "red hair"
+     },
+     {
+      "en": "Would you like red or white wine tonight?",
+      "ko": "오늘 저녁엔 레드 와인 드실래요, 화이트 드실래요?",
+      "focus": "red or white wine"
+     }
+    ]
+   },
+   {
+    "id": "red-4",
+    "pos": "n",
+    "ko": "빨강, 빨간색",
+    "en": "the color of blood, as a name",
+    "nuance": "색 이름 자체를 말할 때는 관사 없이 red만 쓴다. 옷 얘기에서 in red는 '빨간 옷을 입고'라는 뜻이다.",
+    "pattern": "in red",
+    "examples": [
+     {
+      "en": "Red really suits you, you should wear it more.",
+      "ko": "빨강이 너한테 진짜 잘 어울려, 자주 입어.",
+      "focus": "Red really suits you"
+     },
+     {
+      "en": "The woman in red is my aunt.",
+      "ko": "빨간 옷 입은 분이 우리 이모야.",
+      "focus": "in red"
+     }
+    ]
+   }
+  ],
+  "confusables": [
+   {
+    "word": "pink",
+    "note": "pink는 빨강에 흰색이 섞인 연한 색으로, 한국어 '분홍'에 해당한다."
+   },
+   {
+    "word": "read",
+    "note": "read의 과거형은 철자는 같고 발음이 red와 같아서 듣기에서 자주 헷갈린다."
+   }
+  ]
+ },
+ {
+  "id": "sleep",
+  "headword": "sleep",
+  "ipa": "/sliːp/",
+  "level": "PRE",
+  "isCore": true,
+  "topic": "home_daily",
+  "forms": [
+   "sleeping",
+   "sleeps",
+   "slept"
+  ],
+  "senses": [
+   {
+    "id": "sleep-1",
+    "pos": "v",
+    "ko": "자다",
+    "en": "to rest with your eyes closed and mind off",
+    "nuance": "자고 있는 상태를 뜻한다. '자러 가다'는 sleep이 아니라 go to bed라고 해야 자연스럽다.",
+    "pattern": "sleep + 시간/장소",
+    "examples": [
+     {
+      "en": "I slept about four hours and I'm exhausted.",
+      "ko": "네 시간쯤 자서 완전 피곤해.",
+      "focus": "slept about four hours"
+     },
+     {
+      "en": "Be quiet, the baby is sleeping upstairs.",
+      "ko": "조용히 해, 아기가 위층에서 자고 있어.",
+      "focus": "is sleeping upstairs"
+     },
+     {
+      "en": "Did you sleep well in the new apartment?",
+      "ko": "새 집에서 잘 잤어?",
+      "focus": "sleep well"
+     }
+    ],
+    "collocations": [
+     "sleep well",
+     "sleep late",
+     "go to sleep"
+    ],
+    "phrasals": [
+     {
+      "phrase": "sleep in",
+      "ko": "늦잠 자다",
+      "example": {
+       "en": "I want to sleep in on Saturday for once.",
+       "ko": "토요일엔 한 번쯤 늦잠 자고 싶어.",
+       "focus": "sleep in on Saturday"
+      }
+     },
+     {
+      "phrase": "sleep over",
+      "ko": "남의 집에서 자고 오다",
+      "example": {
+       "en": "Can Mina sleep over at our place tonight?",
+       "ko": "오늘 밤 미나가 우리 집에서 자고 가도 돼?",
+       "focus": "sleep over at our place"
+      }
+     },
+     {
+      "phrase": "sleep on it",
+      "ko": "하룻밤 자며 생각해 보다",
+      "example": {
+       "en": "Let me sleep on it and call you tomorrow.",
+       "ko": "하룻밤 생각해 보고 내일 전화할게.",
+       "focus": "sleep on it"
+      }
+     }
+    ]
+   },
+   {
+    "id": "sleep-2",
+    "pos": "n",
+    "ko": "잠, 수면",
+    "en": "the rest you take with your eyes closed",
+    "nuance": "셀 수 없는 명사라 a sleep이라고 하지 않는다. 짧게 자는 것은 a nap이라고 따로 말한다.",
+    "pattern": "get some sleep",
+    "examples": [
+     {
+      "en": "You need to get more sleep before the exam.",
+      "ko": "시험 전에 잠 좀 더 자야 돼.",
+      "focus": "get more sleep"
+     },
+     {
+      "en": "I got no sleep at all last night.",
+      "ko": "어젯밤에 한숨도 못 잤어.",
+      "focus": "got no sleep"
+     }
+    ]
+   },
+   {
+    "id": "sleep-3",
+    "pos": "v",
+    "ko": "(몇 명이) 잘 수 있다",
+    "en": "to have enough beds for a number of people",
+    "nuance": "숙소가 몇 명을 재울 수 있는지 말할 때 쓴다. 여행 예약할 때 자주 듣는 표현이다.",
+    "pattern": "sleep + 숫자",
+    "examples": [
+     {
+      "en": "This room sleeps four if we add a mattress.",
+      "ko": "매트리스 하나 더 깔면 이 방에 네 명 잘 수 있어.",
+      "focus": "sleeps four"
+     },
+     {
+      "en": "Does the cabin sleep six people or just four?",
+      "ko": "그 오두막 여섯 명 잘 수 있어, 아니면 네 명이야?",
+      "focus": "sleep six people"
+     }
+    ]
+   }
+  ],
+  "wordFamily": [
+   {
+    "form": "sleepy",
+    "pos": "adj",
+    "ko": "졸린"
+   },
+   {
+    "form": "asleep",
+    "pos": "adj",
+    "ko": "잠든"
+   }
+  ],
+  "confusables": [
+   {
+    "word": "asleep",
+    "note": "sleep은 동사, asleep은 상태를 말하는 형용사다. fall asleep은 '잠들다'라는 순간을 뜻한다."
+   },
+   {
+    "word": "rest",
+    "note": "rest는 깨어서 쉬는 것도 포함하지만, sleep은 실제로 자는 것만 가리킨다."
+   },
+   {
+    "word": "keep",
+    "note": "모음이 같아 발음이 헷갈리지만 keep은 '계속 가지다'라는 뜻이다."
+   }
+  ]
+ },
+ {
+  "id": "fish",
+  "headword": "fish",
+  "ipa": "/fɪʃ/",
+  "level": "PRE",
+  "isCore": true,
+  "topic": "food_cooking",
+  "forms": [
+   "fished",
+   "fishes",
+   "fishing"
+  ],
+  "senses": [
+   {
+    "id": "fish-1",
+    "pos": "n",
+    "ko": "물고기",
+    "en": "an animal that lives in water and swims",
+    "nuance": "복수형도 보통 fish 그대로다. fishes는 여러 종류를 구분해 말할 때만 쓰는 특별한 형태다.",
+    "pattern": "a / some fish",
+    "examples": [
+     {
+      "en": "Look, there are so many fish in this pond.",
+      "ko": "봐, 이 연못에 물고기가 엄청 많아.",
+      "focus": "many fish"
+     },
+     {
+      "en": "My brother keeps two fish in his room.",
+      "ko": "우리 오빠는 방에 물고기 두 마리를 키워.",
+      "focus": "two fish"
+     }
+    ],
+    "collocations": [
+     "catch a fish",
+     "a tropical fish"
+    ]
+   },
+   {
+    "id": "fish-2",
+    "pos": "n",
+    "ko": "생선, 생선 요리",
+    "en": "the meat of a water animal, used as food",
+    "nuance": "먹는 생선도 같은 단어를 쓰며 셀 수 없는 명사로 취급한다. 새우·조개까지 합치면 seafood라고 해야 한다.",
+    "pattern": "eat / cook fish",
+    "examples": [
+     {
+      "en": "I had grilled fish and rice for lunch.",
+      "ko": "점심으로 생선구이랑 밥 먹었어.",
+      "focus": "grilled fish"
+     },
+     {
+      "en": "Do you eat fish, or only chicken?",
+      "ko": "너 생선 먹어, 아니면 닭고기만 먹어?",
+      "focus": "eat fish"
+     }
+    ],
+    "collocations": [
+     "fresh fish",
+     "fish and chips"
+    ]
+   },
+   {
+    "id": "fish-3",
+    "pos": "v",
+    "ko": "낚시하다",
+    "en": "to try to take animals out of water for sport",
+    "nuance": "취미로 하는 낚시는 go fishing이 압도적으로 흔하다. fish를 그냥 동사로 쓰면 좀 딱딱하게 들린다.",
+    "pattern": "go fishing",
+    "examples": [
+     {
+      "en": "We're going fishing at the lake this weekend.",
+      "ko": "우리 이번 주말에 호수로 낚시 가.",
+      "focus": "going fishing"
+     },
+     {
+      "en": "My dad fishes almost every Sunday morning.",
+      "ko": "우리 아빠는 거의 매주 일요일 아침에 낚시하셔.",
+      "focus": "fishes almost every Sunday"
+     }
+    ],
+    "phrasals": [
+     {
+      "phrase": "fish out",
+      "ko": "뒤져서 꺼내다",
+      "example": {
+       "en": "Let me fish out my card from this bag.",
+       "ko": "이 가방에서 카드 좀 꺼낼게.",
+       "focus": "fish out my card"
+      }
+     }
+    ]
+   }
+  ],
+  "wordFamily": [
+   {
+    "form": "fishing",
+    "pos": "n",
+    "ko": "낚시"
+   },
+   {
+    "form": "fisherman",
+    "pos": "n",
+    "ko": "어부"
+   }
+  ],
+  "confusables": [
+   {
+    "word": "dish",
+    "note": "fish는 물고기, dish는 접시나 요리 한 가지다. 모음 하나 차이라 발음에 주의한다."
+   },
+   {
+    "word": "meat",
+    "note": "영어에서 fish는 meat에 넣지 않는다. 고기 안 먹는다고 할 때 생선은 따로 말해야 한다."
+   }
+  ],
+  "memoryHook": "one fish, two fish처럼 복수도 그대로라 숫자만 앞에 붙이면 된다."
+ },
+ {
+  "id": "clean",
+  "headword": "clean",
+  "ipa": "/kliːn/",
+  "level": "PRE",
+  "isCore": true,
+  "topic": "home_daily",
+  "forms": [
+   "cleaned",
+   "cleaning",
+   "cleanings",
+   "cleans"
+  ],
+  "senses": [
+   {
+    "id": "clean-1",
+    "pos": "adj",
+    "ko": "깨끗한",
+    "en": "free from dirt, marks, or dust",
+    "nuance": "먼지·때가 없는 상태를 말한다. 물건이 제자리에 잘 놓인 '정돈된' 상태는 tidy나 neat라고 해야 정확하다.",
+    "pattern": "keep + 장소 + clean",
+    "examples": [
+     {
+      "en": "Is this cup clean? I just want water.",
+      "ko": "이 컵 깨끗해? 나 그냥 물 마시려고.",
+      "focus": "this cup clean"
+     },
+     {
+      "en": "Your kitchen is always so clean, how?",
+      "ko": "너희 주방은 항상 왜 이렇게 깨끗해?",
+      "focus": "so clean"
+     },
+     {
+      "en": "I need a clean shirt for tomorrow morning.",
+      "ko": "내일 아침에 입을 깨끗한 셔츠가 필요해.",
+      "focus": "a clean shirt"
+     }
+    ],
+    "collocations": [
+     "keep it clean",
+     "clean clothes"
+    ]
+   },
+   {
+    "id": "clean-2",
+    "pos": "v",
+    "ko": "청소하다, 닦다",
+    "en": "to remove dirt from a place or thing",
+    "nuance": "집 전체를 치우는 것도, 창문 하나를 닦는 것도 clean이다. 물로 씻는 것만 강조하려면 wash를 쓴다.",
+    "pattern": "clean + 장소/사물",
+    "examples": [
+     {
+      "en": "I cleaned the bathroom before my parents came.",
+      "ko": "부모님 오시기 전에 화장실 청소했어.",
+      "focus": "cleaned the bathroom"
+     },
+     {
+      "en": "Can you clean the table while I cook?",
+      "ko": "나 요리하는 동안 식탁 좀 닦아 줄래?",
+      "focus": "clean the table"
+     },
+     {
+      "en": "We're cleaning the whole house this Saturday.",
+      "ko": "이번 주 토요일에 집 전체를 청소할 거야.",
+      "focus": "cleaning the whole house"
+     }
+    ],
+    "collocations": [
+     "clean the house",
+     "clean up the mess"
+    ],
+    "phrasals": [
+     {
+      "phrase": "clean up",
+      "ko": "치우다, 정리하다",
+      "example": {
+       "en": "Help me clean up before the guests arrive.",
+       "ko": "손님 오기 전에 치우는 것 좀 도와줘.",
+       "focus": "clean up before the guests"
+      }
+     },
+     {
+      "phrase": "clean out",
+      "ko": "안을 싹 비우고 치우다",
+      "example": {
+       "en": "I should clean out my closet this weekend.",
+       "ko": "이번 주말에 옷장 싹 비워서 정리해야겠어.",
+       "focus": "clean out my closet"
+      }
+     }
+    ]
+   },
+   {
+    "id": "clean-3",
+    "pos": "adj",
+    "ko": "(기록이) 깨끗한",
+    "en": "with no mistakes, marks, or bad records",
+    "nuance": "벌점·사고 기록이 없다는 뜻으로도 쓴다. a clean record는 회사·운전 면허 얘기에서 자주 나온다.",
+    "examples": [
+     {
+      "en": "He has a clean driving record after ten years.",
+      "ko": "걔는 10년 동안 운전 기록이 깨끗해.",
+      "focus": "a clean driving record"
+     },
+     {
+      "en": "Let's start again with a clean sheet.",
+      "ko": "깨끗한 종이에 다시 시작하자.",
+      "focus": "a clean sheet"
+     }
+    ]
+   }
+  ],
+  "wordFamily": [
+   {
+    "form": "cleaner",
+    "pos": "n",
+    "ko": "청소기, 청소하는 사람"
+   },
+   {
+    "form": "cleaning",
+    "pos": "n",
+    "ko": "청소"
+   }
+  ],
+  "confusables": [
+   {
+    "word": "wash",
+    "note": "wash는 물과 비누로 씻는 것, clean은 방법과 상관없이 더러움을 없애는 것이다."
+   },
+   {
+    "word": "tidy",
+    "note": "tidy는 어질러진 걸 제자리에 두는 것, clean은 때를 없애는 것이다."
+   },
+   {
+    "word": "clear",
+    "note": "철자가 비슷하지만 clear는 '치워서 비우다, 맑은'이라는 뜻이다."
+   }
+  ]
+ },
+ {
+  "id": "star",
+  "headword": "star",
+  "ipa": "/stɑːr/",
+  "level": "PRE",
+  "isCore": true,
+  "topic": "culture_arts",
+  "forms": [
+   "starred",
+   "starring",
+   "stars"
+  ],
+  "senses": [
+   {
+    "id": "star-1",
+    "pos": "n",
+    "ko": "별",
+    "en": "a bright point of light in the night sky",
+    "nuance": "밤하늘의 별을 뜻한다. 해는 별이지만 영어로는 the sun이라고 부르고 star라고 부르지 않는다.",
+    "pattern": "see / look at the stars",
+    "examples": [
+     {
+      "en": "You can see so many stars outside the city.",
+      "ko": "도시 밖에 나가면 별이 진짜 많이 보여.",
+      "focus": "so many stars"
+     },
+     {
+      "en": "We lay on the grass and looked at the stars.",
+      "ko": "우리 잔디에 누워서 별을 봤어.",
+      "focus": "looked at the stars"
+     }
+    ],
+    "collocations": [
+     "a bright star",
+     "under the stars"
+    ]
+   },
+   {
+    "id": "star-2",
+    "pos": "n",
+    "ko": "스타, 인기인",
+    "en": "a very famous singer, actor, or player",
+    "nuance": "유명해서 사람들이 좋아하는 사람을 뜻한다. 단순히 잘 알려진 것은 famous, 그 사람 자체는 celebrity라고도 한다.",
+    "pattern": "a movie / pop star",
+    "examples": [
+     {
+      "en": "She became a star after that one drama.",
+      "ko": "걔는 그 드라마 하나로 스타가 됐어.",
+      "focus": "became a star"
+     },
+     {
+      "en": "My sister wants to meet her favorite K-pop star.",
+      "ko": "우리 언니는 제일 좋아하는 케이팝 스타를 만나고 싶어 해.",
+      "focus": "favorite K-pop star"
+     }
+    ],
+    "collocations": [
+     "a movie star",
+     "a rising star"
+    ]
+   },
+   {
+    "id": "star-3",
+    "pos": "n",
+    "ko": "별점, 별 모양",
+    "en": "a shape or mark used to show quality",
+    "nuance": "평점이나 등급을 말할 때 쓴다. 호텔 등급도 a five-star hotel처럼 숫자에 붙여 말한다.",
+    "pattern": "숫자 + star(s)",
+    "examples": [
+     {
+      "en": "This place has four stars, so it should be fine.",
+      "ko": "여기 별 네 개니까 괜찮을 거야.",
+      "focus": "four stars"
+     },
+     {
+      "en": "Draw a star next to the words you don't know.",
+      "ko": "모르는 단어 옆에 별표 하나 그려.",
+      "focus": "a star next to the words"
+     }
+    ]
+   },
+   {
+    "id": "star-4",
+    "pos": "v",
+    "ko": "주연을 맡다",
+    "en": "to act in the main role of a film or show",
+    "nuance": "영화·드라마의 주연이라는 뜻이다. starring은 포스터나 소개에서 '누구 주연'이라고 할 때 쓴다.",
+    "pattern": "star in + 작품",
+    "examples": [
+     {
+      "en": "He stars in that new drama everyone's watching.",
+      "ko": "걔가 요즘 다들 보는 그 새 드라마 주연이야.",
+      "focus": "stars in that new drama"
+     },
+     {
+      "en": "The movie starring Emma comes out next month.",
+      "ko": "엠마 주연 영화가 다음 달에 나와.",
+      "focus": "starring Emma"
+     }
+    ]
+   }
+  ],
+  "confusables": [
+   {
+    "word": "famous",
+    "note": "star는 유명한 사람 자체를 가리키는 명사, famous는 '유명한'이라는 형용사다."
+   },
+   {
+    "word": "bar",
+    "note": "모음이 비슷해 헷갈리지만 bar는 술집이나 막대를 뜻한다."
+   }
+  ]
+ },
+ {
+  "id": "throw",
+  "headword": "throw",
+  "ipa": "/θroʊ/",
+  "level": "PRE",
+  "isCore": true,
+  "topic": "movement_action",
+  "forms": [
+   "threw",
+   "throwing",
+   "thrown",
+   "throws"
+  ],
+  "senses": [
+   {
+    "id": "throw-1",
+    "pos": "v",
+    "ko": "던지다",
+    "en": "to send something through the air with your arm",
+    "nuance": "손으로 힘껏 날려 보내는 동작이다. 야구에서 투수가 던지는 것은 pitch라고 더 정확히 말한다.",
+    "pattern": "throw + 사물 + to/at",
+    "examples": [
+     {
+      "en": "Throw me the towel, my hands are wet.",
+      "ko": "수건 좀 던져 줘, 손이 젖었어.",
+      "focus": "Throw me the towel"
+     },
+     {
+      "en": "He threw the ball too hard and it hurt.",
+      "ko": "걔가 공을 너무 세게 던져서 아팠어.",
+      "focus": "threw the ball"
+     },
+     {
+      "en": "Don't throw your bag on the floor like that.",
+      "ko": "가방 그렇게 바닥에 던지지 마.",
+      "focus": "throw your bag"
+     }
+    ],
+    "collocations": [
+     "throw a ball",
+     "throw it away"
+    ],
+    "phrasals": [
+     {
+      "phrase": "throw away",
+      "ko": "버리다",
+      "example": {
+       "en": "Please don't throw away that box, I need it.",
+       "ko": "그 상자 버리지 마, 나 필요해.",
+       "focus": "throw away that box"
+      }
+     },
+     {
+      "phrase": "throw out",
+      "ko": "내다 버리다, 쫓아내다",
+      "example": {
+       "en": "We should throw out the milk, it smells bad.",
+       "ko": "우유 버리자, 냄새 이상해.",
+       "focus": "throw out the milk"
+      }
+     },
+     {
+      "phrase": "throw up",
+      "ko": "토하다",
+      "example": {
+       "en": "I feel like I might throw up in the car.",
+       "ko": "차에서 토할 것 같아.",
+       "focus": "throw up in the car"
+      }
+     }
+    ]
+   },
+   {
+    "id": "throw-2",
+    "pos": "v",
+    "ko": "(파티를) 열다",
+    "en": "to hold a party for other people",
+    "nuance": "파티를 준비해서 연다는 회화체다. 격식 있는 행사나 회의는 hold a meeting이라고 한다.",
+    "pattern": "throw a party",
+    "examples": [
+     {
+      "en": "We're throwing a party for Jun on Friday.",
+      "ko": "금요일에 준 위해서 파티 열 거야.",
+      "focus": "throwing a party"
+     },
+     {
+      "en": "Let's throw a small dinner for her birthday.",
+      "ko": "걔 생일에 작게 저녁 파티 열자.",
+      "focus": "throw a small dinner"
+     }
+    ],
+    "collocations": [
+     "throw a party"
+    ]
+   },
+   {
+    "id": "throw-3",
+    "pos": "n",
+    "ko": "던지기, 던진 것",
+    "en": "an act of sending something through the air",
+    "nuance": "한 번 던진 동작을 세는 명사다. 운동 중계나 게임 얘기에서 주로 들린다.",
+    "examples": [
+     {
+      "en": "That was a great throw from the outfield.",
+      "ko": "외야에서 온 진짜 좋은 송구였어.",
+      "focus": "a great throw"
+     },
+     {
+      "en": "You get three throws for a thousand won.",
+      "ko": "천 원에 세 번 던질 수 있어.",
+      "focus": "three throws"
+     }
+    ],
+    "collocations": [
+     "a good throw"
+    ]
+   }
+  ],
+  "confusables": [
+   {
+    "word": "drop",
+    "note": "throw는 힘을 줘서 날리는 것, drop은 그냥 손에서 놓아 떨어뜨리는 것이다."
+   },
+   {
+    "word": "grow",
+    "note": "철자가 비슷하지만 grow는 '자라다'이고 발음도 th 소리가 없다."
+   },
+   {
+    "word": "show",
+    "note": "-ow로 끝나 헷갈리지만 show는 '보여주다'라는 뜻이다."
+   }
+  ]
+ },
+ {
+  "id": "blue",
+  "headword": "blue",
+  "ipa": "/bluː/",
+  "level": "PRE",
+  "isCore": true,
+  "topic": "description_quality",
+  "forms": [
+   "bluer",
+   "blues",
+   "bluest"
+  ],
+  "senses": [
+   {
+    "id": "blue-1",
+    "pos": "adj",
+    "ko": "파란, 푸른",
+    "en": "having the color of a clear sky or the sea",
+    "nuance": "하늘색부터 남색까지 다 blue라고 한다. 한국어 '파랗다'가 초록을 포함할 때가 있지만 영어에서는 절대 겹치지 않는다.",
+    "pattern": "blue + 명사",
+    "examples": [
+     {
+      "en": "The sky is so blue today, let's go out.",
+      "ko": "오늘 하늘 진짜 파랗다, 나가자.",
+      "focus": "so blue today"
+     },
+     {
+      "en": "I'll wear my blue shirt to the interview.",
+      "ko": "면접에 파란 셔츠 입고 갈래.",
+      "focus": "my blue shirt"
+     },
+     {
+      "en": "Her eyes are a lighter blue than mine.",
+      "ko": "걔 눈은 내 눈보다 더 연한 파란색이야.",
+      "focus": "a lighter blue"
+     }
+    ],
+    "collocations": [
+     "dark blue",
+     "light blue"
+    ]
+   },
+   {
+    "id": "blue-2",
+    "pos": "n",
+    "ko": "파랑, 파란색",
+    "en": "the color of a clear sky, as a name",
+    "nuance": "색 이름으로 쓸 때는 관사 없이 쓴다. in blue는 '파란 옷을 입고'라는 뜻이라 색깔 자체와 다르다.",
+    "pattern": "in blue",
+    "examples": [
+     {
+      "en": "Blue is my favorite color for a kitchen.",
+      "ko": "주방 색으로는 파랑이 제일 좋아.",
+      "focus": "Blue is my favorite color"
+     },
+     {
+      "en": "The guy in blue over there is my cousin.",
+      "ko": "저기 파란 옷 입은 사람이 내 사촌이야.",
+      "focus": "in blue"
+     }
+    ],
+    "collocations": [
+     "a shade of blue"
+    ]
+   },
+   {
+    "id": "blue-3",
+    "pos": "adj",
+    "ko": "우울한, 기분이 처진",
+    "en": "feeling a little sad for a while",
+    "nuance": "가볍게 처진 기분을 말하는 구어체다. 진짜 심각한 우울은 depressed라고 해야 하고 blue는 가볍게 들린다.",
+    "pattern": "feel blue",
+    "examples": [
+     {
+      "en": "I've been feeling blue since the weather changed.",
+      "ko": "날씨 바뀌고 나서 계속 기분이 처져 있어.",
+      "focus": "feeling blue"
+     },
+     {
+      "en": "Are you blue about the test results?",
+      "ko": "시험 결과 때문에 기분 안 좋아?",
+      "focus": "you blue about the test"
+     }
+    ],
+    "collocations": [
+     "feel blue"
+    ]
+   }
+  ],
+  "confusables": [
+   {
+    "word": "green",
+    "note": "한국어로는 둘 다 '푸르다'고 할 수 있지만, 영어에서 풀·나무는 무조건 green이다."
+   },
+   {
+    "word": "sad",
+    "note": "sad는 어떤 슬픔에나 쓰고, blue는 가볍게 처진 기분에만 쓰는 구어체다."
+   }
+  ]
+ },
+ {
+  "id": "cold",
+  "headword": "cold",
+  "ipa": "/koʊld/",
+  "level": "PRE",
+  "isCore": true,
+  "topic": "nature_animals",
+  "forms": [
+   "colder",
+   "coldest",
+   "colds"
+  ],
+  "senses": [
+   {
+    "id": "cold-1",
+    "pos": "adj",
+    "ko": "추운, 차가운",
+    "en": "having a low temperature",
+    "nuance": "날씨와 물건 온도에 모두 쓴다. 기분 좋게 시원한 것은 cool이고, cold는 참기 힘들 만큼 차갑다는 뜻이다.",
+    "pattern": "It's cold / cold + 명사",
+    "examples": [
+     {
+      "en": "It's really cold outside, take a scarf.",
+      "ko": "밖에 진짜 추워, 목도리 챙겨.",
+      "focus": "really cold outside"
+     },
+     {
+      "en": "My coffee went cold while I was talking.",
+      "ko": "얘기하는 사이에 커피가 식었어.",
+      "focus": "went cold"
+     },
+     {
+      "en": "Today is colder than yesterday, isn't it?",
+      "ko": "오늘이 어제보다 더 춥지 않아?",
+      "focus": "colder than yesterday"
+     }
+    ],
+    "collocations": [
+     "cold water",
+     "get cold"
+    ]
+   },
+   {
+    "id": "cold-2",
+    "pos": "adj",
+    "ko": "춥다고 느끼는",
+    "en": "feeling uncomfortable because of low temperature",
+    "nuance": "사람이 춥게 느낄 때는 I'm cold라고 한다. I have cold라고 하면 감기라는 뜻이 되어 완전히 달라진다.",
+    "pattern": "I'm / you're cold",
+    "examples": [
+     {
+      "en": "Are you cold? I can close the window.",
+      "ko": "추워? 창문 닫아 줄까?",
+      "focus": "you cold"
+     },
+     {
+      "en": "My hands get cold really fast in winter.",
+      "ko": "겨울엔 손이 진짜 빨리 시려워.",
+      "focus": "hands get cold"
+     }
+    ]
+   },
+   {
+    "id": "cold-3",
+    "pos": "n",
+    "ko": "감기",
+    "en": "a common illness that makes you sneeze",
+    "nuance": "감기는 반드시 a cold처럼 관사를 붙인다. 독감은 훨씬 심한 병이라 the flu라고 따로 부른다.",
+    "pattern": "have / catch a cold",
+    "examples": [
+     {
+      "en": "I have a cold, so I'll skip dinner tonight.",
+      "ko": "나 감기 걸려서 오늘 저녁은 빠질게.",
+      "focus": "have a cold"
+     },
+     {
+      "en": "Colds go around the office every November.",
+      "ko": "11월마다 사무실에 감기가 돌아.",
+      "focus": "Colds go around"
+     }
+    ],
+    "collocations": [
+     "catch a cold",
+     "a bad cold"
+    ]
+   },
+   {
+    "id": "cold-4",
+    "pos": "adj",
+    "ko": "쌀쌀맞은, 냉담한",
+    "en": "not friendly or kind toward other people",
+    "nuance": "사람 태도가 차갑다는 뜻이다. 조용하기만 한 사람은 quiet이지 cold가 아니니 함부로 쓰면 실례가 된다.",
+    "examples": [
+     {
+      "en": "He was pretty cold to me at the meeting.",
+      "ko": "걔 회의에서 나한테 꽤 쌀쌀맞았어.",
+      "focus": "cold to me"
+     },
+     {
+      "en": "Don't be cold to her, she's just shy.",
+      "ko": "걔한테 차갑게 굴지 마, 그냥 수줍은 거야.",
+      "focus": "be cold to her"
+     }
+    ]
+   }
+  ],
+  "wordFamily": [
+   {
+    "form": "coldly",
+    "pos": "adv",
+    "ko": "차갑게"
+   }
+  ],
+  "confusables": [
+   {
+    "word": "cool",
+    "note": "cool은 기분 좋은 시원함, cold는 참기 힘든 차가움이다. 여름 바람은 cool이다."
+   },
+   {
+    "word": "fever",
+    "note": "fever는 열이 나는 증상 하나, a cold는 기침·콧물까지 포함하는 병 이름이다."
+   },
+   {
+    "word": "bold",
+    "note": "철자가 한 글자 차이지만 bold는 '대담한'이라는 뜻이다."
+   }
+  ]
+ },
+ {
+  "id": "push",
+  "headword": "push",
+  "ipa": "/pʊʃ/",
+  "level": "PRE",
+  "isCore": true,
+  "topic": "movement_action",
+  "forms": [
+   "pushed",
+   "pushes",
+   "pushing"
+  ],
+  "senses": [
+   {
+    "id": "push-1",
+    "pos": "v",
+    "ko": "밀다",
+    "en": "to move something away from you with force",
+    "nuance": "내 몸에서 멀어지게 힘을 주는 동작이다. 문에 붙은 PUSH는 '미시오'이며 당길 때는 pull이라고 쓴다.",
+    "pattern": "push + 사물",
+    "examples": [
+     {
+      "en": "Push the door, it says push right there.",
+      "ko": "문 밀어, 저기 미시오라고 써 있잖아.",
+      "focus": "Push the door"
+     },
+     {
+      "en": "Someone pushed me on the subway this morning.",
+      "ko": "오늘 아침 지하철에서 누가 나를 밀었어.",
+      "focus": "pushed me on the subway"
+     },
+     {
+      "en": "Can you help me push this table over?",
+      "ko": "이 탁자 저쪽으로 미는 것 좀 도와줄래?",
+      "focus": "push this table"
+     }
+    ],
+    "collocations": [
+     "push the door",
+     "push hard"
+    ],
+    "phrasals": [
+     {
+      "phrase": "push back",
+      "ko": "일정을 미루다",
+      "example": {
+       "en": "Let's push back the meeting to Thursday afternoon.",
+       "ko": "회의 목요일 오후로 미루자.",
+       "focus": "push back the meeting"
+      }
+     },
+     {
+      "phrase": "push through",
+      "ko": "밀고 나아가다, 밀어붙여 통과시키다",
+      "example": {
+       "en": "We'll push through this week and rest later.",
+       "ko": "이번 주만 버티고 나중에 쉬자.",
+       "focus": "push through this week"
+      }
+     }
+    ]
+   },
+   {
+    "id": "push-2",
+    "pos": "v",
+    "ko": "(버튼을) 누르다",
+    "en": "to press a button so a machine works",
+    "nuance": "버튼에는 push와 press를 둘 다 쓴다. 다만 화면을 터치하는 것은 tap이라고 해야 자연스럽다.",
+    "pattern": "push + 버튼",
+    "examples": [
+     {
+      "en": "Push the green button and wait ten seconds.",
+      "ko": "초록 버튼 누르고 10초 기다려.",
+      "focus": "Push the green button"
+     },
+     {
+      "en": "Which floor? I already pushed five for you.",
+      "ko": "몇 층이야? 너 대신 5층 이미 눌렀어.",
+      "focus": "pushed five"
+     }
+    ],
+    "collocations": [
+     "push a button"
+    ]
+   },
+   {
+    "id": "push-3",
+    "pos": "v",
+    "ko": "재촉하다, 밀어붙이다",
+    "en": "to try hard to make someone do something",
+    "nuance": "사람을 부담스럽게 재촉한다는 부정적 느낌이 있다. 부드럽게 권할 때는 encourage를 쓰는 게 안전하다.",
+    "pattern": "push + 사람 + to 동사",
+    "examples": [
+     {
+      "en": "Don't push me, I'll decide by tomorrow.",
+      "ko": "재촉하지 마, 내일까지 결정할게.",
+      "focus": "push me"
+     },
+     {
+      "en": "My boss keeps pushing us to finish early.",
+      "ko": "상사가 계속 우리한테 일찍 끝내라고 몰아붙여.",
+      "focus": "pushing us to finish"
+     }
+    ]
+   },
+   {
+    "id": "push-4",
+    "pos": "n",
+    "ko": "밀기, 한 번 밂",
+    "en": "an act of moving something away with force",
+    "nuance": "한 번 미는 동작을 세는 말이다. give it a push는 '살짝 밀어 봐'라는 뜻의 일상 표현이다.",
+    "pattern": "give it a push",
+    "examples": [
+     {
+      "en": "Give the gate a push, it sticks sometimes.",
+      "ko": "문 한 번 밀어 봐, 가끔 뻑뻑해.",
+      "focus": "a push"
+     },
+     {
+      "en": "One more push and the car will move.",
+      "ko": "한 번만 더 밀면 차가 움직일 거야.",
+      "focus": "One more push"
+     }
+    ],
+    "collocations": [
+     "give it a push"
+    ]
+   }
+  ],
+  "confusables": [
+   {
+    "word": "pull",
+    "note": "push는 나에게서 멀어지게, pull은 나에게 가까워지게 힘을 준다."
+   },
+   {
+    "word": "press",
+    "note": "버튼은 둘 다 되지만, 무거운 물건을 옮기는 건 push만 쓴다."
+   },
+   {
+    "word": "brush",
+    "note": "발음이 비슷하지만 brush는 솔질하다, 빗질하다라는 뜻이다."
+   }
+  ]
+ },
+ {
+  "id": "fly",
+  "headword": "fly",
+  "ipa": "/flaɪ/",
+  "level": "PRE",
+  "isCore": true,
+  "topic": "travel_transport",
+  "forms": [
+   "flew",
+   "flies",
+   "flown",
+   "flying"
+  ],
+  "senses": [
+   {
+    "id": "fly-1",
+    "pos": "v",
+    "ko": "비행기로 가다",
+    "en": "to travel somewhere by plane",
+    "nuance": "비행기로 이동한다는 뜻으로 승객도 쓴다. take a plane보다 fly가 훨씬 자연스럽고 짧다.",
+    "pattern": "fly to + 장소",
+    "examples": [
+     {
+      "en": "We're flying to London on Tuesday morning.",
+      "ko": "우리 화요일 아침에 런던으로 가.",
+      "focus": "flying to London"
+     },
+     {
+      "en": "I flew back from Busan instead of taking the train.",
+      "ko": "기차 대신 부산에서 비행기 타고 왔어.",
+      "focus": "flew back from Busan"
+     }
+    ],
+    "collocations": [
+     "fly to Seoul",
+     "fly home"
+    ]
+   },
+   {
+    "id": "fly-2",
+    "pos": "v",
+    "ko": "날다",
+    "en": "to move through the air using wings",
+    "nuance": "새·곤충이 스스로 공중을 이동하는 것이다. 연이나 드론처럼 사람이 조종하는 것도 fly a kite라고 쓴다.",
+    "pattern": "fly + 방향/장소",
+    "examples": [
+     {
+      "en": "Look at those birds flying over the river.",
+      "ko": "저기 강 위로 나는 새들 좀 봐.",
+      "focus": "flying over the river"
+     },
+     {
+      "en": "A bee flew into the room through the window.",
+      "ko": "벌 한 마리가 창문으로 방에 들어왔어.",
+      "focus": "flew into the room"
+     }
+    ],
+    "collocations": [
+     "fly a kite"
+    ]
+   },
+   {
+    "id": "fly-3",
+    "pos": "v",
+    "ko": "조종하다",
+    "en": "to control a plane while it moves in air",
+    "nuance": "조종사가 기체를 모는 것이다. 자동차는 drive, 배는 sail이라고 하고 fly는 하늘 것에만 쓴다.",
+    "pattern": "fly + 비행기",
+    "examples": [
+     {
+      "en": "My uncle flies planes for a living.",
+      "ko": "우리 삼촌은 비행기 조종하는 게 직업이야.",
+      "focus": "flies planes"
+     },
+     {
+      "en": "Would you ever learn to fly a helicopter?",
+      "ko": "너 헬리콥터 조종 배워 볼 생각 있어?",
+      "focus": "fly a helicopter"
+     }
+    ]
+   },
+   {
+    "id": "fly-4",
+    "pos": "v",
+    "ko": "(시간이) 빨리 가다",
+    "en": "to pass very quickly, said of time",
+    "nuance": "시간이 순식간에 지났다고 할 때 쓴다. Time flies는 통째로 외워 두면 바로 쓸 수 있는 표현이다.",
+    "pattern": "time flies",
+    "examples": [
+     {
+      "en": "Time really flies when we hang out like this.",
+      "ko": "이렇게 놀면 시간 진짜 빨리 간다.",
+      "focus": "Time really flies"
+     },
+     {
+      "en": "The whole year just flew by, didn't it?",
+      "ko": "한 해가 그냥 훅 지나갔지?",
+      "focus": "flew by"
+     }
+    ]
+   },
+   {
+    "id": "fly-5",
+    "pos": "n",
+    "ko": "파리",
+    "en": "a small insect with two wings, often in homes",
+    "nuance": "여름에 집에 들어오는 그 벌레다. 복수형은 flies로 동사 3인칭 형태와 철자가 같아 문맥으로 구분해야 한다.",
+    "examples": [
+     {
+      "en": "There's a fly in my soup, can you look?",
+      "ko": "국에 파리가 있어, 좀 봐 줄래?",
+      "focus": "a fly in my soup"
+     },
+     {
+      "en": "Close the door or the flies come in.",
+      "ko": "문 닫아, 안 그러면 파리 들어와.",
+      "focus": "the flies come in"
+     }
+    ]
+   }
+  ],
+  "wordFamily": [
+   {
+    "form": "flight",
+    "pos": "n",
+    "ko": "비행, 항공편"
+   },
+   {
+    "form": "flying",
+    "pos": "n",
+    "ko": "비행"
+   }
+  ],
+  "confusables": [
+   {
+    "word": "flight",
+    "note": "fly는 동사, flight는 '항공편'이라는 명사다. 예약은 book a flight이라고 한다."
+   },
+   {
+    "word": "drive",
+    "note": "하늘은 fly, 땅에서 차는 drive다. 비행기를 drive한다고 하면 안 된다."
+   }
+  ]
+ },
+ {
+  "id": "green",
+  "headword": "green",
+  "ipa": "/ɡriːn/",
+  "level": "PRE",
+  "isCore": true,
+  "topic": "description_quality",
+  "forms": [
+   "greener",
+   "greenest",
+   "greens"
+  ],
+  "senses": [
+   {
+    "id": "green-1",
+    "pos": "adj",
+    "ko": "초록색의",
+    "en": "having the color of grass or leaves",
+    "nuance": "풀·나뭇잎 색이다. 한국어로 신호등을 '파란불'이라고 해도 영어로는 반드시 a green light라고 해야 한다.",
+    "pattern": "green + 명사",
+    "examples": [
+     {
+      "en": "Wait for the green light before you cross.",
+      "ko": "건너기 전에 초록불 기다려.",
+      "focus": "the green light"
+     },
+     {
+      "en": "The hills look greener after all that rain.",
+      "ko": "비 온 뒤라 언덕이 더 푸르러 보여.",
+      "focus": "look greener"
+     },
+     {
+      "en": "I bought a green bag for the trip.",
+      "ko": "여행 가려고 초록색 가방 샀어.",
+      "focus": "a green bag"
+     }
+    ],
+    "collocations": [
+     "a green light",
+     "dark green"
+    ]
+   },
+   {
+    "id": "green-2",
+    "pos": "adj",
+    "ko": "친환경적인",
+    "en": "not harming the air, water, or nature",
+    "nuance": "환경에 해를 덜 끼친다는 뜻이다. 회사 홍보나 뉴스에서 green energy처럼 자주 쓰인다.",
+    "pattern": "green + 에너지/정책",
+    "examples": [
+     {
+      "en": "Our company is trying to go green this year.",
+      "ko": "우리 회사 올해 친환경으로 바꾸려고 해.",
+      "focus": "go green"
+     },
+     {
+      "en": "Green energy costs more at first but saves later.",
+      "ko": "친환경 에너지는 처음엔 비싸도 나중엔 아껴져.",
+      "focus": "Green energy"
+     }
+    ],
+    "collocations": [
+     "go green"
+    ]
+   },
+   {
+    "id": "green-3",
+    "pos": "n",
+    "ko": "초록, 초록색",
+    "en": "the color of grass, as a name",
+    "nuance": "색 이름으로 쓸 때는 관사를 붙이지 않는다. in green은 '초록 옷을 입고'라는 뜻이다.",
+    "pattern": "in green",
+    "examples": [
+     {
+      "en": "Green looks good on you, you should try it.",
+      "ko": "초록이 너한테 잘 어울려, 한번 입어 봐.",
+      "focus": "Green looks good on you"
+     },
+     {
+      "en": "Write your name in green so it stands out.",
+      "ko": "눈에 띄게 이름은 초록색으로 써.",
+      "focus": "in green"
+     }
+    ]
+   },
+   {
+    "id": "green-4",
+    "pos": "adj",
+    "ko": "덜 익은, 초보인",
+    "en": "not yet ready, or without much experience",
+    "nuance": "과일이 덜 익었을 때와 사람이 미숙할 때 둘 다 쓴다. 사람에게 쓰면 살짝 낮춰 보는 느낌이라 조심해야 한다.",
+    "examples": [
+     {
+      "en": "These bananas are still green, wait two days.",
+      "ko": "이 바나나 아직 덜 익었어, 이틀만 기다려.",
+      "focus": "still green"
+     },
+     {
+      "en": "I was pretty green when I started this job.",
+      "ko": "이 일 시작했을 땐 나도 완전 초보였어.",
+      "focus": "pretty green"
+     }
+    ]
+   }
+  ],
+  "confusables": [
+   {
+    "word": "blue",
+    "note": "한국어로 신호등을 '파란불'이라 하지만 영어로는 green light라고 해야 통한다."
+   },
+   {
+    "word": "fresh",
+    "note": "fresh는 갓 나온 신선함, green은 아직 익지 않아 먹기 이르다는 뜻이다."
+   }
+  ]
+ },
+ {
+  "id": "dance",
+  "headword": "dance",
+  "ipa": "/dæns/",
+  "level": "PRE",
+  "isCore": true,
+  "topic": "sports_leisure",
+  "forms": [
+   "danced",
+   "dances",
+   "dancing"
+  ],
+  "senses": [
+   {
+    "id": "dance-1",
+    "pos": "v",
+    "ko": "춤추다",
+    "en": "to move your body to music",
+    "nuance": "음악에 맞춰 몸을 움직이는 것이다. '춤을 추다'를 do a dance라고 직역하지 말고 그냥 dance라고 하면 된다.",
+    "pattern": "dance with / to",
+    "examples": [
+     {
+      "en": "We danced until the club closed at three.",
+      "ko": "우리 클럽 문 닫는 세 시까지 춤췄어.",
+      "focus": "danced until the club closed"
+     },
+     {
+      "en": "Do you want to dance with me?",
+      "ko": "나랑 같이 춤출래?",
+      "focus": "dance with me"
+     },
+     {
+      "en": "She's dancing to that song again in her room.",
+      "ko": "걔 방에서 또 그 노래에 맞춰 춤추고 있어.",
+      "focus": "dancing to that song"
+     }
+    ],
+    "collocations": [
+     "dance to music",
+     "go dancing"
+    ]
+   },
+   {
+    "id": "dance-2",
+    "pos": "n",
+    "ko": "춤",
+    "en": "a set of body movements made to music",
+    "nuance": "한 곡에 맞춘 춤 한 가지를 센다. 장르나 활동 전체를 말할 때는 dancing이라고 해야 자연스럽다.",
+    "pattern": "a slow / traditional dance",
+    "examples": [
+     {
+      "en": "She taught me a simple dance in ten minutes.",
+      "ko": "걔가 10분 만에 쉬운 춤 하나 가르쳐 줬어.",
+      "focus": "a simple dance"
+     },
+     {
+      "en": "That last dance was way too fast for me.",
+      "ko": "마지막 춤은 나한테 너무 빨랐어.",
+      "focus": "That last dance"
+     }
+    ],
+    "collocations": [
+     "a traditional dance"
+    ]
+   },
+   {
+    "id": "dance-3",
+    "pos": "n",
+    "ko": "댄스파티, 무도회",
+    "en": "a party where people move to music together",
+    "nuance": "학교나 마을에서 여는 춤 행사다. 요즘 젊은 사람들 모임은 party라고 하지 dance라고는 잘 안 한다.",
+    "pattern": "go to a dance",
+    "examples": [
+     {
+      "en": "Are you going to the school dance next Friday?",
+      "ko": "다음 주 금요일 학교 댄스파티 갈 거야?",
+      "focus": "the school dance"
+     },
+     {
+      "en": "They met at a dance about twenty years ago.",
+      "ko": "두 분은 20년쯤 전에 댄스파티에서 만나셨대.",
+      "focus": "at a dance"
+     }
+    ]
+   }
+  ],
+  "wordFamily": [
+   {
+    "form": "dancer",
+    "pos": "n",
+    "ko": "춤추는 사람, 무용수"
+   },
+   {
+    "form": "dancing",
+    "pos": "n",
+    "ko": "춤추기"
+   }
+  ],
+  "confusables": [
+   {
+    "word": "chance",
+    "note": "철자와 발음이 비슷하지만 chance는 '기회, 가능성'이라는 뜻이다."
+   },
+   {
+    "word": "move",
+    "note": "move는 아무 움직임이나 되지만, dance는 음악에 맞춰 추는 것만 뜻한다."
+   }
+  ]
+ },
+ {
+  "id": "smile",
+  "headword": "smile",
+  "ipa": "/smaɪl/",
+  "level": "PRE",
+  "isCore": true,
+  "topic": "emotions_personality",
+  "senses": [
+   {
+    "id": "smile-1",
+    "pos": "v",
+    "ko": "미소 짓다",
+    "en": "to turn your mouth up to look happy",
+    "nuance": "소리 없이 입꼬리만 올리는 것이다. 소리 내서 웃는 것은 laugh라서 한국어 '웃다'를 그대로 옮기면 틀린다.",
+    "pattern": "smile at + 사람",
+    "examples": [
+     {
+      "en": "She smiled at me and walked right past.",
+      "ko": "걔가 나한테 웃어 주고 그냥 지나갔어.",
+      "focus": "smiled at me"
+     },
+     {
+      "en": "Smile a little, I am taking the picture now.",
+      "ko": "좀 웃어, 지금 사진 찍는다.",
+      "focus": "Smile a little"
+     },
+     {
+      "en": "Why are you smiling? Did something good happen?",
+      "ko": "왜 웃어? 좋은 일 있었어?",
+      "focus": "are you smiling"
+     }
+    ],
+    "collocations": [
+     "smile at someone",
+     "keep smiling"
+    ]
+   },
+   {
+    "id": "smile-2",
+    "pos": "n",
+    "ko": "미소",
+    "en": "a happy look made with your mouth",
+    "nuance": "표정 하나를 가리키는 셀 수 있는 명사다. '그 사람 미소가 예뻐'는 She has a nice smile이라고 한다.",
+    "pattern": "a big / nice smile",
+    "examples": [
+     {
+      "en": "Tom has a really warm smile, doesn't he?",
+      "ko": "톰은 미소가 진짜 따뜻하지 않아?",
+      "focus": "a really warm smile"
+     },
+     {
+      "en": "She answered with a small smile and left.",
+      "ko": "걔는 살짝 웃고 나갔어.",
+      "focus": "a small smile"
+     }
+    ],
+    "collocations": [
+     "a big smile",
+     "with a smile"
+    ]
+   },
+   {
+    "id": "smile-3",
+    "pos": "v",
+    "ko": "웃으며 반기다",
+    "en": "to show you are pleased by looking friendly",
+    "nuance": "친절함이나 환영을 표현하는 뜻으로 확장해 쓴다. 서비스업 영어에서 자주 듣는 쓰임이다.",
+    "examples": [
+     {
+      "en": "The staff smile and greet you at the door.",
+      "ko": "직원들이 문에서 웃으면서 맞아 줘.",
+      "focus": "smile and greet you"
+     },
+     {
+      "en": "Just smile and say hello, that's enough.",
+      "ko": "그냥 웃으면서 인사하면 돼.",
+      "focus": "smile and say hello"
+     }
+    ]
+   }
+  ],
+  "confusables": [
+   {
+    "word": "laugh",
+    "note": "smile은 소리 없는 미소, laugh는 소리 내어 웃는 것이다. 한국어는 둘 다 '웃다'다."
+   },
+   {
+    "word": "mile",
+    "note": "철자가 한 글자 차이지만 mile은 거리 단위인 마일이다."
+   }
+  ],
+  "forms": [
+   "smiled",
+   "smiles",
+   "smiling"
+  ]
+ },
+ {
+  "id": "wind",
+  "headword": "wind",
+  "ipa": "/wɪnd/",
+  "level": "PRE",
+  "isCore": true,
+  "topic": "nature_animals",
+  "forms": [
+   "winded",
+   "winding",
+   "winds",
+   "wound"
+  ],
+  "senses": [
+   {
+    "id": "wind-1",
+    "pos": "n",
+    "ko": "바람",
+    "en": "air that moves outside, sometimes strongly",
+    "nuance": "보통 the wind처럼 쓴다. 가볍게 부는 산들바람은 a breeze라고 해야 느낌이 정확하다.",
+    "pattern": "the wind + blow",
+    "examples": [
+     {
+      "en": "The wind is strong today, hold your hat.",
+      "ko": "오늘 바람 세, 모자 잡아.",
+      "focus": "The wind is strong"
+     },
+     {
+      "en": "Cold winds come down from the mountain at night.",
+      "ko": "밤에 산에서 찬바람이 내려와.",
+      "focus": "Cold winds"
+     },
+     {
+      "en": "I can't hear you with all this wind.",
+      "ko": "바람 때문에 네 말이 안 들려.",
+      "focus": "all this wind"
+     }
+    ],
+    "collocations": [
+     "strong wind",
+     "the wind blows"
+    ]
+   },
+   {
+    "id": "wind-2",
+    "pos": "n",
+    "ko": "풍력, 바람의 힘",
+    "en": "moving air used to make power",
+    "nuance": "에너지 얘기에서는 관사 없이 wind power처럼 쓴다. 뉴스나 발표에서 자주 나오는 조합이다.",
+    "pattern": "wind power / energy",
+    "examples": [
+     {
+      "en": "This town gets most of its power from wind.",
+      "ko": "이 동네는 전기를 대부분 풍력으로 얻어.",
+      "focus": "power from wind"
+     },
+     {
+      "en": "Wind energy is getting cheaper every year.",
+      "ko": "풍력 에너지는 해마다 싸지고 있어.",
+      "focus": "Wind energy"
+     }
+    ],
+    "collocations": [
+     "wind power"
+    ]
+   },
+   {
+    "id": "wind-3",
+    "pos": "v",
+    "ko": "(길이) 구불구불하다",
+    "en": "to follow a path with many turns",
+    "nuance": "이 뜻일 때는 발음이 /waɪnd/로 바뀐다. 길·강이 굽이치는 모습을 묘사할 때 쓴다.",
+    "pattern": "wind through / around",
+    "examples": [
+     {
+      "en": "The road winds up the hill for two kilometers.",
+      "ko": "그 길은 2킬로미터 동안 언덕을 굽이굽이 올라가.",
+      "focus": "winds up the hill"
+     },
+     {
+      "en": "A small river winds through the village.",
+      "ko": "작은 강이 마을을 굽이굽이 지나가.",
+      "focus": "winds through the village"
+     }
+    ]
+   },
+   {
+    "id": "wind-4",
+    "pos": "v",
+    "ko": "감다",
+    "en": "to turn something around and around",
+    "nuance": "줄이나 태엽을 돌려 감는 동작이다. 발음이 /waɪnd/이고 과거형은 wound라서 '상처'와 철자가 같다.",
+    "pattern": "wind + 줄/시계",
+    "examples": [
+     {
+      "en": "Wind the cable around your hand like this.",
+      "ko": "선을 이렇게 손에 감아.",
+      "focus": "Wind the cable"
+     },
+     {
+      "en": "You have to wind that old clock every morning.",
+      "ko": "그 오래된 시계는 아침마다 감아 줘야 돼.",
+      "focus": "wind that old clock"
+     }
+    ],
+    "phrasals": [
+     {
+      "phrase": "wind up",
+      "ko": "결국 ~하게 되다",
+      "example": {
+       "en": "We might wind up staying at home all weekend.",
+       "ko": "우리 결국 주말 내내 집에 있을지도 몰라.",
+       "focus": "wind up staying"
+      }
+     },
+     {
+      "phrase": "wind down",
+      "ko": "긴장을 풀다, 마무리하다",
+      "example": {
+       "en": "I need an hour to wind down after work.",
+       "ko": "퇴근하고 긴장 푸는 데 한 시간은 필요해.",
+       "focus": "wind down after work"
+      }
+     }
+    ]
+   }
+  ],
+  "wordFamily": [
+   {
+    "form": "windy",
+    "pos": "adj",
+    "ko": "바람이 센"
+   }
+  ],
+  "confusables": [
+   {
+    "word": "air",
+    "note": "air는 움직이지 않는 공기까지 포함하고, wind는 움직이는 공기만 뜻한다."
+   },
+   {
+    "word": "breeze",
+    "note": "breeze는 기분 좋은 산들바람, wind는 세기와 상관없이 부는 바람 전부다."
+   },
+   {
+    "word": "bend",
+    "note": "bend는 한 번 구부리는 것, wind는 여러 번 굽이치며 이어지는 것이다."
+   }
+  ],
+  "memoryHook": "명사 '바람'은 /wɪnd/, 동사 '감다·굽이치다'는 /waɪnd/로 발음이 갈린다."
+ },
+ {
+  "id": "mean",
+  "headword": "mean",
+  "ipa": "/miːn/",
+  "level": "ELEM",
+  "isCore": true,
+  "topic": "communication",
+  "forms": [
+   "meaner",
+   "meanest",
+   "meaning",
+   "meanings",
+   "means",
+   "meant"
+  ],
+  "senses": [
+   {
+    "id": "mean-1",
+    "pos": "v",
+    "ko": "뜻하다, 의미하다",
+    "en": "to have a certain sense or idea",
+    "nuance": "단어나 표시의 뜻을 물을 때 쓴다. What does it mean?이 맞고 What is the meaning?은 딱딱하게 들린다.",
+    "pattern": "What does + 명사 + mean?",
+    "examples": [
+     {
+      "en": "What does this sign mean? I can't read it.",
+      "ko": "이 표지판 무슨 뜻이야? 못 읽겠어.",
+      "focus": "this sign mean"
+     },
+     {
+      "en": "That word means something different in Korean.",
+      "ko": "그 단어는 한국어에서는 뜻이 좀 달라.",
+      "focus": "means something different"
+     }
+    ],
+    "collocations": [
+     "What does it mean",
+     "mean nothing"
+    ]
+   },
+   {
+    "id": "mean-2",
+    "pos": "v",
+    "ko": "~하려고 하다, 의도하다",
+    "en": "to plan or want to do a certain thing",
+    "nuance": "말이나 행동의 의도를 밝힐 때 쓴다. I didn't mean to는 사과할 때 가장 많이 쓰는 표현이다.",
+    "pattern": "mean to + 동사",
+    "examples": [
+     {
+      "en": "Sorry, I didn't mean to wake you up.",
+      "ko": "미안, 깨우려던 건 아니었어.",
+      "focus": "didn't mean to wake you"
+     },
+     {
+      "en": "I meant to call you back yesterday.",
+      "ko": "어제 다시 전화하려고 했었어.",
+      "focus": "meant to call you back"
+     },
+     {
+      "en": "What do you mean? Say it again please.",
+      "ko": "무슨 말이야? 다시 말해 줘.",
+      "focus": "do you mean"
+     }
+    ],
+    "collocations": [
+     "mean to say"
+    ]
+   },
+   {
+    "id": "mean-3",
+    "pos": "v",
+    "ko": "소중하다, 의미가 크다",
+    "en": "to be important to someone",
+    "nuance": "누군가에게 소중하다고 말할 때 쓴다. It means a lot to me는 감사 인사로 자주 쓰는 따뜻한 표현이다.",
+    "pattern": "mean a lot to + 사람",
+    "examples": [
+     {
+      "en": "Your help really means a lot to me.",
+      "ko": "네 도움 나한테 정말 큰 의미야.",
+      "focus": "means a lot to me"
+     },
+     {
+      "en": "That old photo means everything to my grandmother.",
+      "ko": "그 오래된 사진은 할머니한테 전부야.",
+      "focus": "means everything"
+     }
+    ]
+   },
+   {
+    "id": "mean-4",
+    "pos": "adj",
+    "ko": "못되게 구는",
+    "en": "not kind, and often hurting other people",
+    "nuance": "말이나 행동이 일부러 못된 것이다. 성격이 나쁘다고 할 때 bad person이라고 하면 어색하고 mean이 자연스럽다.",
+    "pattern": "be mean to + 사람",
+    "examples": [
+     {
+      "en": "Don't be mean to your little brother.",
+      "ko": "동생한테 못되게 굴지 마.",
+      "focus": "be mean to your little brother"
+     },
+     {
+      "en": "That was a mean thing to say to Emma.",
+      "ko": "엠마한테 그렇게 말한 건 좀 심했어.",
+      "focus": "a mean thing to say"
+     }
+    ]
+   },
+   {
+    "id": "mean-5",
+    "pos": "v",
+    "ko": "~라는 결과가 되다",
+    "en": "to lead to a certain result",
+    "nuance": "어떤 일이 초래하는 결과를 말한다. 조건을 설명할 때 '그러면 ~하게 된다'는 느낌으로 쓴다.",
+    "examples": [
+     {
+      "en": "Taking the late train means getting home after midnight.",
+      "ko": "늦은 기차를 타면 자정 넘어 집에 도착하게 돼.",
+      "focus": "means getting home"
+     },
+     {
+      "en": "More rain means the game will be cancelled.",
+      "ko": "비가 더 오면 경기는 취소될 거야.",
+      "focus": "More rain means"
+     }
+    ]
+   }
+  ],
+  "wordFamily": [
+   {
+    "form": "meaning",
+    "pos": "n",
+    "ko": "뜻, 의미"
+   },
+   {
+    "form": "meaningful",
+    "pos": "adj",
+    "ko": "의미 있는"
+   }
+  ],
+  "confusables": [
+   {
+    "word": "say",
+    "note": "say는 실제로 입 밖에 낸 말, mean은 그 말로 담으려던 뜻이다."
+   },
+   {
+    "word": "think",
+    "note": "think는 머릿속 생각, mean은 그 생각을 말로 담아낸 의도다."
+   },
+   {
+    "word": "bad",
+    "note": "bad는 품질·상태가 나쁜 것, mean은 사람이 남에게 못되게 구는 것이다."
+   }
+  ]
+ },
+ {
+  "id": "last",
+  "headword": "last",
+  "ipa": "/læst/",
+  "level": "ELEM",
+  "isCore": true,
+  "topic": "time_quantity",
+  "forms": [
+   "lasted",
+   "lasting",
+   "lasts"
+  ],
+  "senses": [
+   {
+    "id": "last-1",
+    "pos": "det",
+    "ko": "지난",
+    "en": "the one just before now, about time",
+    "nuance": "last week처럼 쓸 때는 the나 전치사를 붙이지 않는다. in last week이라고 하면 틀린 문장이 된다.",
+    "pattern": "last + 시간 명사",
+    "examples": [
+     {
+      "en": "I saw Mina last week at the bookstore.",
+      "ko": "지난주에 서점에서 미나 봤어.",
+      "focus": "last week"
+     },
+     {
+      "en": "Last night I couldn't sleep at all.",
+      "ko": "어젯밤에 한숨도 못 잤어.",
+      "focus": "Last night"
+     }
+    ],
+    "collocations": [
+     "last week",
+     "last year"
+    ]
+   },
+   {
+    "id": "last-2",
+    "pos": "det",
+    "ko": "마지막의",
+    "en": "coming after all the others in order",
+    "nuance": "순서상 맨 끝을 뜻한다. '가장 최근의'라는 뜻으로 쓰고 싶으면 the latest라고 해야 오해가 없다.",
+    "pattern": "the last + 명사",
+    "examples": [
+     {
+      "en": "This is the last bus, so hurry up.",
+      "ko": "이게 막차야, 서둘러.",
+      "focus": "the last bus"
+     },
+     {
+      "en": "Can I have the last piece of pizza?",
+      "ko": "마지막 피자 조각 내가 먹어도 돼?",
+      "focus": "the last piece"
+     }
+    ],
+    "collocations": [
+     "the last time",
+     "the last one"
+    ]
+   },
+   {
+    "id": "last-3",
+    "pos": "v",
+    "ko": "지속되다, 계속되다",
+    "en": "to continue for a period of time",
+    "nuance": "행사·상태가 얼마 동안 이어지는지 말한다. 사람이 계속하는 행동은 keep -ing으로 써야 자연스럽다.",
+    "pattern": "last + 기간",
+    "examples": [
+     {
+      "en": "The meeting lasted almost three hours yesterday.",
+      "ko": "어제 회의가 거의 세 시간이나 이어졌어.",
+      "focus": "lasted almost three hours"
+     },
+     {
+      "en": "How long does the concert usually last?",
+      "ko": "콘서트 보통 얼마나 해?",
+      "focus": "concert usually last"
+     }
+    ],
+    "collocations": [
+     "last long",
+     "last forever"
+    ]
+   },
+   {
+    "id": "last-4",
+    "pos": "v",
+    "ko": "오래 쓰다, 버티다",
+    "en": "to stay in good condition, or to be enough",
+    "nuance": "물건이 닳지 않고 버틴다는 뜻이다. 배터리나 음식이 얼마나 가는지 말할 때 가장 많이 쓴다.",
+    "pattern": "last + 기간",
+    "examples": [
+     {
+      "en": "This battery lasts about two days on one charge.",
+      "ko": "이 배터리는 한 번 충전에 이틀쯤 가.",
+      "focus": "lasts about two days"
+     },
+     {
+      "en": "Will the milk last until Sunday morning?",
+      "ko": "우유 일요일 아침까지 갈까?",
+      "focus": "milk last until Sunday"
+     }
+    ]
+   },
+   {
+    "id": "last-5",
+    "pos": "adv",
+    "ko": "마지막으로",
+    "en": "at a point after all the other times",
+    "nuance": "마지막으로 한 때를 물을 때 쓴다. '드디어'라는 뜻의 at last와 헷갈리지 않게 구분해야 한다.",
+    "pattern": "When did you last …?",
+    "examples": [
+     {
+      "en": "When did you last see your cousin?",
+      "ko": "사촌 마지막으로 본 게 언제야?",
+      "focus": "last see your cousin"
+     },
+     {
+      "en": "I called her last, after everyone else.",
+      "ko": "다른 사람들 다 하고 나서 걔한테 마지막으로 전화했어.",
+      "focus": "called her last"
+     }
+    ]
+   }
+  ],
+  "confusables": [
+   {
+    "word": "recent",
+    "note": "last는 순서상 맨 끝, recent는 얼마 전에 있었다는 시간 감각을 말한다."
+   },
+   {
+    "word": "final",
+    "note": "final은 더 이상 없는 확정된 마지막, last는 그냥 줄에서 맨 뒤라는 느낌이다."
+   },
+   {
+    "word": "continue",
+    "note": "continue는 사람이 계속하는 것, last는 일이나 물건이 저절로 이어지는 것이다."
+   }
+  ]
+ }
+]

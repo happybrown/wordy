@@ -114,11 +114,9 @@ export function validateEntries(entries, { manifest = null, globalScope = false 
       if (!hasHangul(c.note)) err(id, 'lang', `confusable note에 한글 없음: ${c.word}`);
       if (c.word.toLowerCase() === e.headword) err(id, 'confusable.self', '자기 자신을 confusable로 지정');
       // confusable 은 카드에 설명만 띄우는 대조 항목이라 학습 대상일 필요가 없다.
-      // 기능어(by vs until, good vs well, just vs only)는 레벨 목록에서 일부러 제외했으므로 경고하지 않는다.
-      const target = c.word.toLowerCase();
-      if (![...byId.values()].some((r) => r.headword === target) && !functionWords.has(target)) {
-        warn(id, 'confusable.unknown', `confusable "${c.word}"가 단어 목록에도 기능어 목록에도 없음`);
-      }
+      // flu vs cold, last vs latest 처럼 목록 밖 단어가 더 좋은 대조인 경우가 많으므로
+      // 존재 여부는 검사하지 않는다. 철자·형식만 본다.
+      if (!/^[A-Za-z][A-Za-z'\- ]*$/.test(c.word)) err(id, 'confusable.format', `confusable "${c.word}"는 영어 단어가 아님`);
     }
     for (const f of e.wordFamily || []) {
       if (!hasHangul(f.ko)) err(id, 'lang', `wordFamily ko에 한글 없음: ${f.form}`);

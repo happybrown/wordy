@@ -1,0 +1,1453 @@
+[
+ {
+  "id": "through",
+  "headword": "through",
+  "ipa": "/θruː/",
+  "level": "ELEM",
+  "isCore": true,
+  "topic": "movement_action",
+  "forms": [],
+  "senses": [
+   {
+    "id": "through-1",
+    "pos": "prep",
+    "ko": "~을 통과해",
+    "en": "from one side of a space to the other side",
+    "nuance": "안으로 들어갔다가 반대쪽으로 나오는 그림이다. 다리나 광장처럼 표면 위를 건너는 건 across를 쓴다.",
+    "pattern": "go / walk + through + 장소",
+    "examples": [
+     {
+      "en": "We walked through the park to get to work.",
+      "ko": "우리 회사 가느라 공원 가로질러 걸었어.",
+      "focus": "walked through the park"
+     },
+     {
+      "en": "The cat got in through the kitchen window.",
+      "ko": "고양이가 부엌 창문으로 들어왔어.",
+      "focus": "in through the kitchen window"
+     },
+     {
+      "en": "Can you drive through the tunnel a bit slower?",
+      "ko": "터널 지나갈 때 좀 천천히 가 줄래?",
+      "focus": "drive through the tunnel"
+     }
+    ],
+    "collocations": [
+     "go through",
+     "walk through the door",
+     "look through the window"
+    ]
+   },
+   {
+    "id": "through-2",
+    "pos": "prep",
+    "ko": "~ 내내, ~ 동안 죽",
+    "en": "during the whole time of an event or period",
+    "nuance": "시작부터 끝까지 한 번도 끊기지 않았다는 뜻이다. during은 그 기간 중 어느 시점이라 '내내'라는 느낌이 없다.",
+    "pattern": "sleep / sit + through + 기간",
+    "examples": [
+     {
+      "en": "I slept through the whole movie last night.",
+      "ko": "나 어젯밤에 영화 내내 자 버렸어.",
+      "focus": "slept through the whole movie"
+     },
+     {
+      "en": "She talked on the phone through dinner.",
+      "ko": "걔 저녁 먹는 내내 통화했어.",
+      "focus": "through dinner"
+     }
+    ],
+    "collocations": [
+     "all through the night"
+    ]
+   },
+   {
+    "id": "through-3",
+    "pos": "prep",
+    "ko": "~을 통해, ~로",
+    "en": "by using a person, a service, or a method",
+    "nuance": "수단이나 중간에 낀 사람을 가리킨다. by는 방법 자체, through는 '거쳐서'라는 경로 느낌이 강하다.",
+    "pattern": "through + 사람/수단",
+    "examples": [
+     {
+      "en": "I found this job through a friend from school.",
+      "ko": "이 일자리 학교 친구 통해서 구했어.",
+      "focus": "through a friend"
+     },
+     {
+      "en": "You can book the room through their website.",
+      "ko": "그 방은 홈페이지에서 예약하면 돼.",
+      "focus": "through their website"
+     }
+    ]
+   },
+   {
+    "id": "through-4",
+    "pos": "adj",
+    "ko": "다 끝낸",
+    "en": "finished with something you were doing",
+    "nuance": "be through with로 '이제 끝났다'는 뜻이다. 사람과 관계를 끊을 때도 I'm through with him처럼 쓴다.",
+    "pattern": "be through with + 명사",
+    "examples": [
+     {
+      "en": "Are you through with the report yet?",
+      "ko": "그 보고서 다 끝냈어?",
+      "focus": "through with the report"
+     },
+     {
+      "en": "I'm through with waiting for his answer.",
+      "ko": "걔 답 기다리는 거 이제 그만할래.",
+      "focus": "through with waiting"
+     }
+    ]
+   }
+  ],
+  "confusables": [
+   {
+    "word": "though",
+    "note": "through는 '통과해', though는 '~이긴 하지만'이다. 철자가 한 글자 차이라 헷갈린다."
+   },
+   {
+    "word": "thorough",
+    "note": "thorough는 '꼼꼼한'이라는 형용사다. 발음도 '써로우'로 다르다."
+   },
+   {
+    "word": "throughout",
+    "note": "throughout은 '구석구석 전체에'라는 강조형이다. 기간·장소 전체를 덮는다."
+   },
+   {
+    "word": "across",
+    "note": "across는 표면 위를 건너는 것, through는 속을 뚫고 지나가는 것이다."
+   }
+  ],
+  "memoryHook": "터널 그림을 떠올리면 '통과', '내내', '거쳐서'라는 세 뜻이 한 줄로 이어진다."
+ },
+ {
+  "id": "still",
+  "headword": "still",
+  "ipa": "/stɪl/",
+  "level": "ELEM",
+  "isCore": true,
+  "topic": "time_quantity",
+  "forms": [
+   "stiller",
+   "stillest"
+  ],
+  "senses": [
+   {
+    "id": "still-1",
+    "pos": "adv",
+    "ko": "아직도, 여전히",
+    "en": "continuing now, the same as before",
+    "nuance": "예상보다 오래 이어질 때 쓴다. yet은 부정·의문에서 '아직 안'이고, still은 긍정문에서 '아직도 계속'이다.",
+    "pattern": "be / 조동사 + still + 동사",
+    "examples": [
+     {
+      "en": "Are you still at the office this late?",
+      "ko": "이 시간에 아직도 사무실이야?",
+      "focus": "still at the office"
+     },
+     {
+      "en": "I still remember the first day we met.",
+      "ko": "우리 처음 만난 날 아직도 기억나.",
+      "focus": "still remember"
+     },
+     {
+      "en": "My phone still works, so I won't buy one.",
+      "ko": "내 폰 아직 잘 되니까 안 살래.",
+      "focus": "still works"
+     }
+    ],
+    "collocations": [
+     "still here",
+     "still waiting"
+    ]
+   },
+   {
+    "id": "still-2",
+    "pos": "adv",
+    "ko": "그래도, 그런데도",
+    "en": "in spite of what was just said",
+    "nuance": "앞말을 인정하고 나서 '그래도'로 뒤집을 때 쓴다. 문장 맨 앞이나 but 뒤에 붙이는 자리가 가장 자연스럽다.",
+    "pattern": "But / Still, + 문장",
+    "examples": [
+     {
+      "en": "It rained all day, but we still had fun.",
+      "ko": "하루 종일 비 왔는데도 우리 재밌었어.",
+      "focus": "still had fun"
+     },
+     {
+      "en": "He apologized, but I'm still upset with him.",
+      "ko": "걔가 사과는 했는데 난 그래도 화가 안 풀려.",
+      "focus": "still upset"
+     }
+    ]
+   },
+   {
+    "id": "still-3",
+    "pos": "adj",
+    "ko": "가만히 있는",
+    "en": "not moving at all",
+    "nuance": "몸을 안 움직이는 상태다. '조용한'은 quiet이고, still은 소리가 아니라 움직임이 없다는 뜻이다.",
+    "pattern": "stay / hold + still",
+    "examples": [
+     {
+      "en": "Please hold still while I take the photo.",
+      "ko": "사진 찍을 동안 가만히 좀 있어 줘.",
+      "focus": "hold still"
+     },
+     {
+      "en": "The kids can't sit still for five minutes.",
+      "ko": "애들이 오 분을 못 앉아 있어.",
+      "focus": "sit still"
+     }
+    ],
+    "collocations": [
+     "stand still",
+     "sit still",
+     "keep still"
+    ]
+   },
+   {
+    "id": "still-4",
+    "pos": "adv",
+    "ko": "훨씬, 더욱",
+    "en": "used before a comparative word to make it stronger",
+    "nuance": "비교급 앞에 붙여 '그보다 더'라는 뜻을 준다. even과 바꿔 쓸 수 있지만 still이 조금 더 글말 느낌이다.",
+    "pattern": "still + 비교급",
+    "examples": [
+     {
+      "en": "Tomorrow will be still colder than today.",
+      "ko": "내일은 오늘보다 더 추울 거야.",
+      "focus": "still colder"
+     },
+     {
+      "en": "Her second book was still better than the first.",
+      "ko": "그 사람 두 번째 책이 첫 책보다 훨씬 나았어.",
+      "focus": "still better"
+     }
+    ]
+   }
+  ],
+  "confusables": [
+   {
+    "word": "yet",
+    "note": "still은 긍정문의 '아직도', yet은 부정·의문의 '아직 (안)'이다. Is it still raining? / Has it stopped yet?"
+   },
+   {
+    "word": "already",
+    "note": "already는 '벌써 끝났다', still은 '아직 안 끝나고 계속된다'이다."
+   },
+   {
+    "word": "quiet",
+    "note": "quiet은 소리가 없는 것, still은 움직임이 없는 것이다."
+   }
+  ]
+ },
+ {
+  "id": "lot",
+  "headword": "lot",
+  "ipa": "/lɑːt/",
+  "level": "ELEM",
+  "isCore": true,
+  "topic": "time_quantity",
+  "forms": [
+   "lots"
+  ],
+  "senses": [
+   {
+    "id": "lot-1",
+    "pos": "pron",
+    "ko": "많음, 많은 양",
+    "en": "a large number or amount of people or things",
+    "nuance": "회화에서 many·much 대신 쓰는 가장 편한 표현이다. a lot of 뒤에는 셀 수 있는 명사와 없는 명사 둘 다 온다.",
+    "pattern": "a lot of + 명사",
+    "examples": [
+     {
+      "en": "There were a lot of people at the concert.",
+      "ko": "콘서트에 사람 진짜 많았어.",
+      "focus": "a lot of people"
+     },
+     {
+      "en": "We don't have a lot of time before class.",
+      "ko": "수업 전까지 시간 별로 없어.",
+      "focus": "a lot of time"
+     },
+     {
+      "en": "Lots of my friends work in Busan now.",
+      "ko": "내 친구들 중에 부산에서 일하는 애들 많아.",
+      "focus": "Lots of my friends"
+     }
+    ],
+    "collocations": [
+     "a lot of people",
+     "lots of time",
+     "quite a lot"
+    ]
+   },
+   {
+    "id": "lot-2",
+    "pos": "adv",
+    "ko": "많이, 자주",
+    "en": "very often, or to a large degree",
+    "nuance": "동사 뒤에 a lot을 붙이면 '자주·많이'가 된다. much는 부정문에만 쓰니 긍정문에서는 a lot을 써야 자연스럽다.",
+    "pattern": "동사 + a lot",
+    "examples": [
+     {
+      "en": "I miss my hometown a lot these days.",
+      "ko": "요즘 고향이 많이 그리워.",
+      "focus": "a lot these days"
+     },
+     {
+      "en": "Thanks a lot for helping me move.",
+      "ko": "이사 도와줘서 정말 고마워.",
+      "focus": "Thanks a lot"
+     }
+    ],
+    "collocations": [
+     "thanks a lot"
+    ]
+   },
+   {
+    "id": "lot-3",
+    "pos": "adv",
+    "ko": "훨씬",
+    "en": "by a large amount, before a comparative word",
+    "nuance": "비교급 앞에서 much와 같은 뜻이지만 회화에서는 a lot이 훨씬 흔하다. a lot better, a lot cheaper처럼 쓴다.",
+    "pattern": "a lot + 비교급",
+    "examples": [
+     {
+      "en": "This bag is a lot cheaper than the other one.",
+      "ko": "이 가방이 저것보다 훨씬 싸.",
+      "focus": "a lot cheaper"
+     },
+     {
+      "en": "I feel a lot better after some sleep.",
+      "ko": "좀 자고 나니까 훨씬 나아졌어.",
+      "focus": "a lot better"
+     }
+    ]
+   },
+   {
+    "id": "lot-4",
+    "pos": "n",
+    "ko": "주차장, 빈 땅",
+    "en": "a piece of land used for a purpose, like parking",
+    "nuance": "미국 영어에서 parking lot이 주차장이다. 영국에서는 car park라고 하니 미국 드라마에서 자주 듣는 표현이다.",
+    "pattern": "parking lot",
+    "examples": [
+     {
+      "en": "I parked in the lot behind the building.",
+      "ko": "나 건물 뒤 주차장에 댔어.",
+      "focus": "in the lot"
+     },
+     {
+      "en": "Meet me in the parking lot at six.",
+      "ko": "여섯 시에 주차장에서 보자.",
+      "focus": "the parking lot"
+     }
+    ]
+   }
+  ],
+  "confusables": [
+   {
+    "word": "many",
+    "note": "many는 셀 수 있는 명사만, a lot of는 셀 수 있는 것과 없는 것 모두 받는다."
+   },
+   {
+    "word": "much",
+    "note": "much는 주로 부정문·의문문에 쓴다. 긍정문에서는 a lot을 쓰는 게 자연스럽다."
+   },
+   {
+    "word": "number",
+    "note": "a number of는 글말에서 '여럿', a lot of는 회화에서 '많이'라는 느낌이다."
+   }
+  ],
+  "memoryHook": "원래 '제비뽑기로 나눈 한 몫'이라는 뜻이라 '한 덩어리 = 많은 양'과 '땅 한 구획'이 함께 나왔다."
+ },
+ {
+  "id": "leave",
+  "headword": "leave",
+  "ipa": "/liːv/",
+  "level": "ELEM",
+  "isCore": true,
+  "topic": "movement_action",
+  "forms": [
+   "leaved",
+   "leaves",
+   "leaving",
+   "leavings",
+   "left"
+  ],
+  "senses": [
+   {
+    "id": "leave-1",
+    "pos": "v",
+    "ko": "떠나다, 출발하다",
+    "en": "to go away from a place or a person",
+    "nuance": "go는 '가다'에, leave는 '그 자리를 벗어나다'에 초점이 있다. 목적지를 말할 때는 leave for Busan처럼 for를 쓴다.",
+    "pattern": "leave (+ 장소) / leave for + 목적지",
+    "examples": [
+     {
+      "en": "What time does your train leave tomorrow?",
+      "ko": "네 기차 내일 몇 시에 출발해?",
+      "focus": "train leave"
+     },
+     {
+      "en": "I left the house at seven this morning.",
+      "ko": "나 오늘 아침 일곱 시에 집에서 나왔어.",
+      "focus": "left the house"
+     },
+     {
+      "en": "We're leaving for London on Friday night.",
+      "ko": "우리 금요일 밤에 런던으로 떠나.",
+      "focus": "leaving for London"
+     }
+    ],
+    "collocations": [
+     "leave home",
+     "leave for work"
+    ],
+    "phrasals": [
+     {
+      "phrase": "leave behind",
+      "ko": "두고 오다",
+      "example": {
+       "en": "Don't leave your umbrella behind again.",
+       "ko": "우산 또 두고 오지 마.",
+       "focus": "leave your umbrella behind"
+      }
+     },
+     {
+      "phrase": "leave out",
+      "ko": "빼다, 빠뜨리다",
+      "example": {
+       "en": "You can leave out my name on the list.",
+       "ko": "명단에서 내 이름은 빼도 돼.",
+       "focus": "leave out my name"
+      }
+     },
+     {
+      "phrase": "leave over",
+      "ko": "남기다",
+      "example": {
+       "en": "Please leave some pizza over for Jun.",
+       "ko": "준 먹게 피자 좀 남겨 둬.",
+       "focus": "leave some pizza over"
+      }
+     }
+    ]
+   },
+   {
+    "id": "leave-2",
+    "pos": "v",
+    "ko": "놓고 오다, 두다",
+    "en": "to forget something and not take it with you",
+    "nuance": "'깜빡하고 두고 왔다'는 말은 forget이 아니라 leave에 장소를 붙여 쓴다. I forgot my phone at home은 어색하다.",
+    "pattern": "leave + 물건 + 장소",
+    "examples": [
+     {
+      "en": "I left my phone on the bus again.",
+      "ko": "나 또 버스에 폰 두고 내렸어.",
+      "focus": "left my phone on the bus"
+     },
+     {
+      "en": "Did you leave your keys at the office?",
+      "ko": "열쇠 사무실에 두고 왔어?",
+      "focus": "leave your keys"
+     }
+    ]
+   },
+   {
+    "id": "leave-3",
+    "pos": "v",
+    "ko": "~한 상태로 두다",
+    "en": "to let a thing or person stay in one condition",
+    "nuance": "leave 뒤에 형용사나 -ing를 붙이면 '그대로 둔다'는 뜻이 된다. Leave me alone은 '나 좀 내버려 둬'로 아주 흔하다.",
+    "pattern": "leave + 목적어 + 형용사/-ing",
+    "examples": [
+     {
+      "en": "Just leave the door open, it's hot inside.",
+      "ko": "안이 더우니까 문 그냥 열어 둬.",
+      "focus": "leave the door open"
+     },
+     {
+      "en": "Please leave me alone for a few minutes.",
+      "ko": "몇 분만 나 좀 내버려 둬.",
+      "focus": "leave me alone"
+     }
+    ],
+    "collocations": [
+     "leave a message",
+     "leave it alone"
+    ]
+   },
+   {
+    "id": "leave-4",
+    "pos": "v",
+    "ko": "그만두다",
+    "en": "to stop working at a job or studying at a school",
+    "nuance": "직장·학교를 영영 떠난다는 뜻이다. quit보다 부드럽고 중립적이라 회사에 말할 때 쓰기 좋다.",
+    "pattern": "leave + 직장/학교",
+    "examples": [
+     {
+      "en": "Mina is leaving the company next month.",
+      "ko": "미나 다음 달에 회사 그만둬.",
+      "focus": "leaving the company"
+     },
+     {
+      "en": "He left school at eighteen and started working.",
+      "ko": "걔는 열여덟에 학교 그만두고 일 시작했어.",
+      "focus": "left school"
+     }
+    ]
+   },
+   {
+    "id": "leave-5",
+    "pos": "n",
+    "ko": "휴가",
+    "en": "time away from work that your job allows",
+    "nuance": "회사가 공식으로 주는 휴가다. 여행 가는 개인 휴가는 vacation·holiday라고 하고, leave는 출산·병가처럼 제도적인 느낌이다.",
+    "pattern": "on leave / take leave",
+    "examples": [
+     {
+      "en": "She's on leave until the end of May.",
+      "ko": "그분 오월 말까지 휴가예요.",
+      "focus": "on leave"
+     },
+     {
+      "en": "I'd like to take two weeks of leave.",
+      "ko": "이 주 휴가를 쓰고 싶습니다.",
+      "focus": "of leave"
+     }
+    ]
+   }
+  ],
+  "wordFamily": [
+   {
+    "form": "leftover",
+    "pos": "n",
+    "ko": "남은 음식"
+   }
+  ],
+  "confusables": [
+   {
+    "word": "go",
+    "note": "go는 어디로 가는지에, leave는 지금 있는 곳을 벗어나는 데 초점이 있다."
+   },
+   {
+    "word": "forget",
+    "note": "물건을 어디에 두고 왔다고 할 때는 장소와 함께 leave를 쓴다. forget은 장소를 못 붙인다."
+   },
+   {
+    "word": "quit",
+    "note": "quit은 '때려치우다'에 가깝고, leave는 중립적으로 '그만두다'다."
+   }
+  ]
+ },
+ {
+  "id": "own",
+  "headword": "own",
+  "ipa": "/oʊn/",
+  "level": "ELEM",
+  "isCore": true,
+  "topic": "description_quality",
+  "forms": [
+   "owned",
+   "owning",
+   "owns"
+  ],
+  "senses": [
+   {
+    "id": "own-1",
+    "pos": "adj",
+    "ko": "자기 자신의",
+    "en": "belonging to the person just mentioned, nobody else",
+    "nuance": "my·your 같은 소유격 뒤에만 붙는다. 'own house'처럼 혼자 쓰면 안 되고 my own house라고 해야 한다.",
+    "pattern": "my / your / his + own + 명사",
+    "examples": [
+     {
+      "en": "I want my own room, not a shared one.",
+      "ko": "나 같이 쓰는 방 말고 내 방 갖고 싶어.",
+      "focus": "my own room"
+     },
+     {
+      "en": "She makes her own bread every weekend.",
+      "ko": "걔는 주말마다 빵을 직접 만들어.",
+      "focus": "her own bread"
+     },
+     {
+      "en": "Can you bring your own cup tomorrow?",
+      "ko": "내일 컵 직접 가져올 수 있어?",
+      "focus": "your own cup"
+     }
+    ],
+    "collocations": [
+     "my own place",
+     "your own words"
+    ]
+   },
+   {
+    "id": "own-2",
+    "pos": "pron",
+    "ko": "혼자서, 스스로",
+    "en": "alone, without help from other people",
+    "nuance": "on my own은 alone과 by myself를 합친 느낌이다. '혼자 산다'도 I live on my own이 외롭다는 뉘앙스 없이 자연스럽다.",
+    "pattern": "on + 소유격 + own",
+    "examples": [
+     {
+      "en": "I moved to Seoul on my own at twenty.",
+      "ko": "나 스무 살 때 혼자 서울로 올라왔어.",
+      "focus": "on my own"
+     },
+     {
+      "en": "Can you carry that box on your own?",
+      "ko": "그 상자 혼자 들 수 있어?",
+      "focus": "on your own"
+     }
+    ],
+    "collocations": [
+     "on my own"
+    ]
+   },
+   {
+    "id": "own-3",
+    "pos": "v",
+    "ko": "소유하다, 갖고 있다",
+    "en": "to have something as your property by law",
+    "nuance": "법적으로 '내 것'이라는 뜻이라 집·차·가게에 쓴다. 손에 들고 있다는 뜻의 have와 달리 진행형으로 잘 쓰지 않는다.",
+    "pattern": "own + 재산/가게",
+    "examples": [
+     {
+      "en": "My parents own a small shop near the station.",
+      "ko": "우리 부모님이 역 근처에서 작은 가게 하셔.",
+      "focus": "own a small shop"
+     },
+     {
+      "en": "Do you own that car or is it rented?",
+      "ko": "그 차 네 거야, 아니면 빌린 거야?",
+      "focus": "own that car"
+     }
+    ],
+    "collocations": [
+     "own a house"
+    ]
+   },
+   {
+    "id": "own-4",
+    "pos": "v",
+    "ko": "인정하다, 시인하다",
+    "en": "to accept that you did something wrong",
+    "nuance": "own up to로 '내 잘못이라고 인정하다'라는 뜻이 된다. 회화에서 admit보다 솔직하고 시원한 느낌을 준다.",
+    "pattern": "own up to + 명사",
+    "examples": [
+     {
+      "en": "You should own your mistake and say sorry.",
+      "ko": "네 실수 인정하고 사과하는 게 좋겠어.",
+      "focus": "own your mistake"
+     },
+     {
+      "en": "Nobody wanted to own the broken window.",
+      "ko": "깨진 창문을 아무도 자기가 그랬다고 안 했어.",
+      "focus": "own the broken window"
+     }
+    ],
+    "phrasals": [
+     {
+      "phrase": "own up",
+      "ko": "잘못을 털어놓다",
+      "example": {
+       "en": "Just own up and tell her what happened.",
+       "ko": "그냥 인정하고 무슨 일이었는지 말해.",
+       "focus": "own up and tell"
+      }
+     }
+    ]
+   }
+  ],
+  "wordFamily": [
+   {
+    "form": "owner",
+    "pos": "n",
+    "ko": "주인, 소유자"
+   },
+   {
+    "form": "ownership",
+    "pos": "n",
+    "ko": "소유권"
+   }
+  ],
+  "confusables": [
+   {
+    "word": "have",
+    "note": "have는 잠깐 들고 있는 것도 되지만, own은 법적으로 내 재산일 때만 쓴다."
+   },
+   {
+    "word": "possess",
+    "note": "possess는 서류·뉴스에 나오는 딱딱한 말이고, 회화에서는 own을 쓴다."
+   },
+   {
+    "word": "alone",
+    "note": "alone은 '혼자 있는 상태', on my own은 '남의 도움 없이'라는 뜻이 강하다."
+   }
+  ]
+ },
+ {
+  "id": "part",
+  "headword": "part",
+  "ipa": "/pɑːrt/",
+  "level": "ELEM",
+  "isCore": true,
+  "topic": "abstract_general",
+  "forms": [
+   "parted",
+   "parting",
+   "parts"
+  ],
+  "senses": [
+   {
+    "id": "part-1",
+    "pos": "n",
+    "ko": "부분, 일부",
+    "en": "one of the pieces that together make something",
+    "nuance": "전체에서 잘라낸 한 조각이 아니라 '전체를 이루는 한 부분'이다. 눈에 보이는 조각은 piece를 쓴다.",
+    "pattern": "part of + 명사",
+    "examples": [
+     {
+      "en": "This part of the city gets really busy.",
+      "ko": "이 동네 이 부분은 진짜 복잡해져.",
+      "focus": "This part of the city"
+     },
+     {
+      "en": "The best part of the trip was the food.",
+      "ko": "여행에서 제일 좋았던 건 음식이었어.",
+      "focus": "The best part of the trip"
+     },
+     {
+      "en": "I only read the first part of the book.",
+      "ko": "나 그 책 앞부분만 읽었어.",
+      "focus": "the first part"
+     }
+    ],
+    "collocations": [
+     "part of",
+     "the best part",
+     "a big part of"
+    ]
+   },
+   {
+    "id": "part-2",
+    "pos": "n",
+    "ko": "역할, 배역",
+    "en": "the character an actor plays, or a job in a group",
+    "nuance": "연극·영화의 배역과 '내가 맡은 몫' 둘 다 된다. do your part는 '네 몫은 해라'라는 뜻으로 자주 쓴다.",
+    "pattern": "play a part / do your part",
+    "examples": [
+     {
+      "en": "Emma got the main part in the school play.",
+      "ko": "엠마가 학교 연극 주연을 맡았어.",
+      "focus": "the main part"
+     },
+     {
+      "en": "Everyone has to do their part on this team.",
+      "ko": "이 팀에서는 다들 자기 몫을 해야 해.",
+      "focus": "do their part"
+     }
+    ],
+    "collocations": [
+     "play a part in"
+    ]
+   },
+   {
+    "id": "part-3",
+    "pos": "n",
+    "ko": "부품",
+    "en": "a piece of a machine that can be replaced",
+    "nuance": "기계에 끼우는 교체용 부품이다. 이 뜻은 거의 항상 복수 parts로 쓰고 spare parts라는 말이 흔하다.",
+    "pattern": "spare parts",
+    "examples": [
+     {
+      "en": "The shop had to order a new part for my bike.",
+      "ko": "가게에서 내 자전거 부품을 새로 주문해야 했어.",
+      "focus": "a new part"
+     },
+     {
+      "en": "Car parts are getting more expensive these days.",
+      "ko": "요즘 자동차 부품값이 점점 비싸져.",
+      "focus": "Car parts"
+     }
+    ]
+   },
+   {
+    "id": "part-4",
+    "pos": "v",
+    "ko": "헤어지다, 갈라지다",
+    "en": "to go away from each other, or to move apart",
+    "nuance": "친구·연인이 헤어질 때 쓰지만 좀 문어적이다. 회화에서는 보통 break up이나 say goodbye를 쓴다.",
+    "pattern": "part from / part with + 명사",
+    "examples": [
+     {
+      "en": "We parted at the station and I felt sad.",
+      "ko": "우리 역에서 헤어졌는데 좀 슬펐어.",
+      "focus": "parted at the station"
+     },
+     {
+      "en": "I can't part with this old camera.",
+      "ko": "이 낡은 카메라는 못 버리겠어.",
+      "focus": "part with this old camera"
+     }
+    ]
+   }
+  ],
+  "wordFamily": [
+   {
+    "form": "partly",
+    "pos": "adv",
+    "ko": "부분적으로"
+   },
+   {
+    "form": "partner",
+    "pos": "n",
+    "ko": "동료, 짝"
+   },
+   {
+    "form": "apart",
+    "pos": "adv",
+    "ko": "떨어져서"
+   }
+  ],
+  "confusables": [
+   {
+    "word": "piece",
+    "note": "piece는 떼어 낸 한 조각, part는 전체를 이루는 한 부분이다."
+   },
+   {
+    "word": "portion",
+    "note": "portion은 나눠 준 몫이나 음식 1인분에 쓰고, part가 훨씬 일상적이다."
+   },
+   {
+    "word": "apart",
+    "note": "apart는 '떨어져서'라는 부사다. a part of(일부)와 apart를 붙여 쓰지 않도록 주의한다."
+   }
+  ]
+ },
+ {
+  "id": "let",
+  "headword": "let",
+  "ipa": "/let/",
+  "level": "ELEM",
+  "isCore": true,
+  "topic": "communication",
+  "forms": [
+   "lets",
+   "letting",
+   "lettings"
+  ],
+  "senses": [
+   {
+    "id": "let-1",
+    "pos": "v",
+    "ko": "~하게 하다, 허락하다",
+    "en": "to allow someone to do something",
+    "nuance": "뒤에 동사원형이 온다. let me to go처럼 to를 넣으면 틀리고, allow는 to부정사를 쓴다는 점이 다르다.",
+    "pattern": "let + 목적어 + 동사원형",
+    "examples": [
+     {
+      "en": "My parents won't let me stay out late.",
+      "ko": "우리 부모님은 나 늦게까지 못 놀게 해.",
+      "focus": "let me stay out"
+     },
+     {
+      "en": "Let me know when you get there.",
+      "ko": "도착하면 알려 줘.",
+      "focus": "Let me know"
+     },
+     {
+      "en": "Can you let the dog out for a minute?",
+      "ko": "잠깐 강아지 좀 내보내 줄래?",
+      "focus": "let the dog out"
+     }
+    ],
+    "collocations": [
+     "let me know",
+     "let me see",
+     "let go of"
+    ],
+    "phrasals": [
+     {
+      "phrase": "let down",
+      "ko": "실망시키다",
+      "example": {
+       "en": "I promise I won't let you down this time.",
+       "ko": "이번엔 진짜 실망시키지 않을게.",
+       "focus": "let you down"
+      }
+     },
+     {
+      "phrase": "let in",
+      "ko": "들어오게 하다",
+      "example": {
+       "en": "Can you let me in? I forgot my key.",
+       "ko": "문 좀 열어 줄래? 열쇠를 두고 왔어.",
+       "focus": "let me in"
+      }
+     },
+     {
+      "phrase": "let go",
+      "ko": "손을 놓다, 놓아 주다",
+      "example": {
+       "en": "Just let go of the rope slowly.",
+       "ko": "밧줄 천천히 놓기만 해.",
+       "focus": "let go of the rope"
+      }
+     },
+     {
+      "phrase": "let off",
+      "ko": "봐주다, 내려 주다",
+      "example": {
+       "en": "Could you let me off at the next corner?",
+       "ko": "다음 모퉁이에서 내려 주실 수 있나요?",
+       "focus": "let me off"
+      }
+     }
+    ]
+   },
+   {
+    "id": "let-2",
+    "pos": "v",
+    "ko": "~하자",
+    "en": "used with us to suggest doing something together",
+    "nuance": "Let's는 let us의 줄임이고 뒤에 동사원형이 온다. 제안을 거절할 때는 Let's not이라고 하지 Don't let's라고 하지 않는다.",
+    "pattern": "Let's + 동사원형",
+    "examples": [
+     {
+      "en": "Let's grab coffee before the meeting starts.",
+      "ko": "회의 시작 전에 커피 한잔하자.",
+      "focus": "Let's grab coffee"
+     },
+     {
+      "en": "Let's not talk about work tonight, okay?",
+      "ko": "오늘 밤엔 일 얘기 하지 말자, 응?",
+      "focus": "Let's not talk about work"
+     }
+    ],
+    "collocations": [
+     "let's go"
+    ]
+   },
+   {
+    "id": "let-3",
+    "pos": "v",
+    "ko": "세를 놓다",
+    "en": "to allow someone to use a room for money",
+    "nuance": "집주인이 방을 빌려주는 쪽이다. 세 들어 사는 쪽은 rent를 쓰고, 영국 영어에서 To Let 간판으로 흔히 본다.",
+    "pattern": "let + 방/집 + to 사람",
+    "examples": [
+     {
+      "en": "They let the upstairs room to a student.",
+      "ko": "그 집은 위층 방을 학생한테 세놨어.",
+      "focus": "let the upstairs room"
+     },
+     {
+      "en": "She's letting her flat while she works abroad.",
+      "ko": "걔는 외국에서 일하는 동안 집을 세놓고 있어.",
+      "focus": "letting her flat"
+     }
+    ]
+   }
+  ],
+  "confusables": [
+   {
+    "word": "allow",
+    "note": "let은 뒤에 동사원형, allow는 to부정사를 쓴다. allow는 규칙·공지문 느낌이 강하다."
+   },
+   {
+    "word": "make",
+    "note": "let은 '해도 된다고 두다', make는 '억지로 시키다'다. 둘 다 뒤에 동사원형이 온다."
+   },
+   {
+    "word": "permit",
+    "note": "permit은 공식 허가라 안내문에 나온다. 일상 대화에서는 let을 쓴다."
+   },
+   {
+    "word": "leave",
+    "note": "let me alone은 어색하고, '내버려 둬'는 leave me alone이다."
+   }
+  ]
+ },
+ {
+  "id": "set",
+  "headword": "set",
+  "ipa": "/set/",
+  "level": "ELEM",
+  "isCore": true,
+  "topic": "movement_action",
+  "forms": [
+   "sets",
+   "setting",
+   "settings"
+  ],
+  "senses": [
+   {
+    "id": "set-1",
+    "pos": "v",
+    "ko": "맞추다, 설정하다",
+    "en": "to change a machine so it works the way you want",
+    "nuance": "알람·온도·비밀번호처럼 숫자나 값을 정할 때 쓴다. 과거형도 set이라 I set it yesterday처럼 모양이 그대로다.",
+    "pattern": "set + 기기/시간",
+    "examples": [
+     {
+      "en": "Did you set the alarm for six tomorrow?",
+      "ko": "내일 여섯 시로 알람 맞춰 놨어?",
+      "focus": "set the alarm"
+     },
+     {
+      "en": "I set my phone to silent during meetings.",
+      "ko": "나 회의 때는 폰 무음으로 해 놔.",
+      "focus": "set my phone to silent"
+     },
+     {
+      "en": "Can you set the heat a little lower?",
+      "ko": "난방 좀 낮춰 줄래?",
+      "focus": "set the heat"
+     }
+    ],
+    "collocations": [
+     "set the alarm",
+     "set a date",
+     "set a goal"
+    ],
+    "phrasals": [
+     {
+      "phrase": "set up",
+      "ko": "설치하다, 마련하다",
+      "example": {
+       "en": "I'll set up the new printer this afternoon.",
+       "ko": "오늘 오후에 새 프린터 설치할게.",
+       "focus": "set up the new printer"
+      }
+     },
+     {
+      "phrase": "set off",
+      "ko": "출발하다",
+      "example": {
+       "en": "We should set off before the traffic starts.",
+       "ko": "차 막히기 전에 출발하는 게 좋겠어.",
+       "focus": "set off before the traffic"
+      }
+     },
+     {
+      "phrase": "set out",
+      "ko": "길을 나서다",
+      "example": {
+       "en": "They'll set out for Busan early tomorrow.",
+       "ko": "걔네 내일 아침 일찍 부산으로 떠날 거야.",
+       "focus": "set out for Busan"
+      }
+     },
+     {
+      "phrase": "set aside",
+      "ko": "따로 떼어 두다",
+      "example": {
+       "en": "I try to set aside some money each month.",
+       "ko": "나 매달 돈을 조금씩 따로 모으려고 해.",
+       "focus": "set aside some money"
+      }
+     }
+    ]
+   },
+   {
+    "id": "set-2",
+    "pos": "v",
+    "ko": "놓다, 두다",
+    "en": "to carefully put something down on a surface",
+    "nuance": "put보다 조심스럽게 내려놓는 느낌이다. 식탁을 차리는 건 set the table이라고 하지 put the table이라고 하지 않는다.",
+    "pattern": "set + 명사 + 장소",
+    "examples": [
+     {
+      "en": "She set the cups on the table quietly.",
+      "ko": "걔가 컵을 조용히 식탁에 놓았어.",
+      "focus": "set the cups on the table"
+     },
+     {
+      "en": "Can you set the table before dinner?",
+      "ko": "저녁 전에 상 좀 차려 줄래?",
+      "focus": "set the table"
+     }
+    ],
+    "collocations": [
+     "set the table"
+    ]
+   },
+   {
+    "id": "set-3",
+    "pos": "n",
+    "ko": "세트, 한 벌",
+    "en": "a group of things that belong together",
+    "nuance": "같이 쓰는 물건 묶음이다. 한국어 '세트'와 거의 같지만 a set of keys처럼 of를 꼭 붙여야 한다.",
+    "pattern": "a set of + 복수명사",
+    "examples": [
+     {
+      "en": "I bought a new set of dishes for the kitchen.",
+      "ko": "부엌에 쓸 그릇 세트 새로 샀어.",
+      "focus": "a new set of dishes"
+     },
+     {
+      "en": "Do you have a spare set of keys?",
+      "ko": "여분 열쇠 한 벌 있어?",
+      "focus": "a spare set of keys"
+     }
+    ]
+   },
+   {
+    "id": "set-4",
+    "pos": "v",
+    "ko": "(해가) 지다",
+    "en": "to go down below the line of the sky",
+    "nuance": "해·달이 지는 것에만 쓴다. 뜨는 건 rise이고, 이 뜻으로는 목적어를 붙이지 않는다.",
+    "pattern": "the sun sets",
+    "examples": [
+     {
+      "en": "The sun sets around five in winter here.",
+      "ko": "여기 겨울엔 다섯 시쯤 해가 져.",
+      "focus": "The sun sets"
+     },
+     {
+      "en": "Let's get home before the sun sets.",
+      "ko": "해 지기 전에 집에 가자.",
+      "focus": "before the sun sets"
+     }
+    ]
+   }
+  ],
+  "confusables": [
+   {
+    "word": "put",
+    "note": "put은 그냥 두는 것, set은 자리를 잡아 반듯하게 놓는 느낌이다."
+   },
+   {
+    "word": "sit",
+    "note": "set은 '내가 물건을 놓다', sit은 '내가 앉다'로 목적어 유무가 다르다."
+   }
+  ],
+  "memoryHook": "과거형·과거분사가 모두 set이라 시제가 바뀌어도 모양이 안 변한다."
+ },
+ {
+  "id": "order",
+  "headword": "order",
+  "ipa": "/ˈɔːrdər/",
+  "level": "ELEM",
+  "isCore": true,
+  "topic": "food_cooking",
+  "forms": [
+   "ordered",
+   "ordering",
+   "orders"
+  ],
+  "senses": [
+   {
+    "id": "order-1",
+    "pos": "v",
+    "ko": "주문하다, 시키다",
+    "en": "to ask for food or goods to be brought to you",
+    "nuance": "식당·인터넷 주문 모두에 쓴다. 가게에서 직접 사는 건 buy이고, 가져다 달라고 요청하는 게 order다.",
+    "pattern": "order + 음식/물건",
+    "examples": [
+     {
+      "en": "Should we order chicken or just cook something?",
+      "ko": "치킨 시킬까, 아니면 뭐 해 먹을까?",
+      "focus": "order chicken"
+     },
+     {
+      "en": "I ordered these shoes online last Tuesday.",
+      "ko": "이 신발 지난 화요일에 인터넷으로 주문했어.",
+      "focus": "ordered these shoes online"
+     },
+     {
+      "en": "Can I order a coffee to go, please?",
+      "ko": "커피 테이크아웃으로 주문할 수 있을까요?",
+      "focus": "order a coffee"
+     }
+    ],
+    "collocations": [
+     "order food",
+     "order online",
+     "place an order"
+    ]
+   },
+   {
+    "id": "order-2",
+    "pos": "n",
+    "ko": "주문, 주문한 것",
+    "en": "a request for food or goods, or the goods themselves",
+    "nuance": "주문 행위와 주문한 물건 둘 다 가리킨다. 식당에서 Can I take your order?는 '주문하시겠어요?'라는 뜻이다.",
+    "pattern": "take / place an order",
+    "examples": [
+     {
+      "en": "My order still hasn't arrived after two weeks.",
+      "ko": "이 주가 지났는데 주문한 게 아직 안 왔어.",
+      "focus": "My order"
+     },
+     {
+      "en": "Are you ready to place your order now?",
+      "ko": "지금 주문하시겠어요?",
+      "focus": "place your order"
+     }
+    ]
+   },
+   {
+    "id": "order-3",
+    "pos": "n",
+    "ko": "순서, 차례",
+    "en": "the way things are arranged, one after another",
+    "nuance": "in order로 '순서대로'라는 뜻이다. 줄 서는 '차례'는 turn이라고 하니 Wait your turn과 헷갈리지 않게 한다.",
+    "pattern": "in order of + 명사",
+    "examples": [
+     {
+      "en": "Put these files in order by date, please.",
+      "ko": "이 파일들 날짜순으로 정리해 주세요.",
+      "focus": "in order by date"
+     },
+     {
+      "en": "The names are in alphabetical order on the list.",
+      "ko": "명단에 이름이 알파벳 순서로 되어 있어.",
+      "focus": "in alphabetical order"
+     }
+    ]
+   },
+   {
+    "id": "order-4",
+    "pos": "n",
+    "ko": "명령, 지시",
+    "en": "something a person with power tells you to do",
+    "nuance": "군대·경찰처럼 거절할 수 없는 지시다. 회사에서 부탁하는 건 request나 ask라고 해야 무례하게 들리지 않는다.",
+    "pattern": "give / follow an order",
+    "examples": [
+     {
+      "en": "The soldiers had to follow the captain's orders.",
+      "ko": "병사들은 대장의 명령을 따라야 했어.",
+      "focus": "follow the captain's orders"
+     },
+     {
+      "en": "You can't give me orders like that.",
+      "ko": "나한테 그런 식으로 명령하면 안 되지.",
+      "focus": "give me orders"
+     }
+    ]
+   },
+   {
+    "id": "order-5",
+    "pos": "n",
+    "ko": "정돈된 상태",
+    "en": "a tidy state where everything is where it should be",
+    "nuance": "out of order는 '정돈 안 됨'이 아니라 기계가 '고장 남'이라는 뜻으로 훨씬 자주 쓴다. 엘리베이터 안내문에서 흔히 본다.",
+    "pattern": "out of order",
+    "examples": [
+     {
+      "en": "The elevator is out of order again today.",
+      "ko": "엘리베이터 오늘 또 고장이야.",
+      "focus": "out of order"
+     },
+     {
+      "en": "He likes to keep his desk in perfect order.",
+      "ko": "걔는 책상을 완벽하게 정돈해 두는 걸 좋아해.",
+      "focus": "in perfect order"
+     }
+    ]
+   }
+  ],
+  "wordFamily": [
+   {
+    "form": "disorder",
+    "pos": "n",
+    "ko": "무질서, 장애"
+   },
+   {
+    "form": "orderly",
+    "pos": "adj",
+    "ko": "질서 있는"
+   }
+  ],
+  "confusables": [
+   {
+    "word": "ask",
+    "note": "ask는 부탁, order는 거절할 수 없는 명령이다. 동료에게는 ask를 쓴다."
+   },
+   {
+    "word": "book",
+    "note": "book은 자리·표를 잡아 두는 것, order는 물건이나 음식을 가져다 달라는 것이다."
+   },
+   {
+    "word": "turn",
+    "note": "줄 서서 기다리는 '내 차례'는 my turn이고, order는 나열 순서를 말한다."
+   }
+  ]
+ },
+ {
+  "id": "hold",
+  "headword": "hold",
+  "ipa": "/hoʊld/",
+  "level": "ELEM",
+  "isCore": true,
+  "topic": "movement_action",
+  "forms": [
+   "held",
+   "holding",
+   "holdings",
+   "holds"
+  ],
+  "senses": [
+   {
+    "id": "hold-1",
+    "pos": "v",
+    "ko": "들다, 잡고 있다",
+    "en": "to keep something in your hand or arms",
+    "nuance": "잠깐 집는 take와 달리 계속 쥐고 있는 상태다. 그래서 진행형 I'm holding your bag이 아주 자연스럽다.",
+    "pattern": "hold + 명사",
+    "examples": [
+     {
+      "en": "Can you hold my bag for a second?",
+      "ko": "내 가방 잠깐만 들어 줄래?",
+      "focus": "hold my bag"
+     },
+     {
+      "en": "She was holding her little brother's hand.",
+      "ko": "걔가 남동생 손을 잡고 있었어.",
+      "focus": "holding her little brother's hand"
+     },
+     {
+      "en": "I held the door open for the man behind me.",
+      "ko": "뒤에 오는 분 위해 문을 잡아 줬어.",
+      "focus": "held the door open"
+     }
+    ],
+    "collocations": [
+     "hold hands",
+     "hold on tight"
+    ],
+    "phrasals": [
+     {
+      "phrase": "hold on",
+      "ko": "잠깐 기다리다",
+      "example": {
+       "en": "Hold on a second, I'm almost ready.",
+       "ko": "잠깐만, 나 거의 다 됐어.",
+       "focus": "Hold on a second"
+      }
+     },
+     {
+      "phrase": "hold back",
+      "ko": "참다, 억누르다",
+      "example": {
+       "en": "Try to hold back your tears until later.",
+       "ko": "이따가까지 눈물 좀 참아 봐.",
+       "focus": "hold back your tears"
+      }
+     },
+     {
+      "phrase": "hold up",
+      "ko": "지연시키다",
+      "example": {
+       "en": "Sorry, don't let me hold up the meeting.",
+       "ko": "죄송해요, 저 때문에 회의 늦어지지 않게 하세요.",
+       "focus": "hold up the meeting"
+      }
+     },
+     {
+      "phrase": "hold onto",
+      "ko": "꼭 붙잡다",
+      "example": {
+       "en": "Please hold onto the rail while the bus moves.",
+       "ko": "버스 움직일 때 손잡이 꼭 잡으세요.",
+       "focus": "hold onto the rail"
+      }
+     }
+    ]
+   },
+   {
+    "id": "hold-2",
+    "pos": "v",
+    "ko": "열다, 개최하다",
+    "en": "to arrange an event and make it take place",
+    "nuance": "회의·행사처럼 공식적인 자리를 연다는 뜻이다. 파티는 have a party가 더 흔하고, hold는 격식 있는 행사에 어울린다.",
+    "pattern": "hold + 행사/회의",
+    "examples": [
+     {
+      "en": "We're holding a meeting about this on Friday.",
+      "ko": "이 건으로 금요일에 회의를 엽니다.",
+      "focus": "holding a meeting"
+     },
+     {
+      "en": "The school held a concert in the gym.",
+      "ko": "학교에서 체육관에서 음악회를 열었어.",
+      "focus": "held a concert"
+     }
+    ],
+    "collocations": [
+     "hold a meeting"
+    ]
+   },
+   {
+    "id": "hold-3",
+    "pos": "v",
+    "ko": "수용하다, 담다",
+    "en": "to have space inside for a number of things",
+    "nuance": "그릇·방·차의 '용량'을 말한다. 사람이 몇 명 들어가냐고 물을 때 How many people does it hold?가 자연스럽다.",
+    "pattern": "hold + 숫자/양",
+    "examples": [
+     {
+      "en": "This bottle holds about two liters of water.",
+      "ko": "이 병은 물 이 리터쯤 들어가.",
+      "focus": "holds about two liters"
+     },
+     {
+      "en": "How many people does this room hold?",
+      "ko": "이 방에 몇 명이나 들어가?",
+      "focus": "does this room hold"
+     }
+    ]
+   },
+   {
+    "id": "hold-4",
+    "pos": "n",
+    "ko": "잡기, 쥠",
+    "en": "the act of keeping a firm grip on something",
+    "nuance": "get hold of는 '연락이 닿다'라는 뜻으로 회화에서 아주 흔하다. '손에 넣다'는 뜻으로도 같은 표현을 쓴다.",
+    "pattern": "get hold of + 명사",
+    "examples": [
+     {
+      "en": "I couldn't get hold of Jun all morning.",
+      "ko": "오전 내내 준이랑 연락이 안 됐어.",
+      "focus": "get hold of Jun"
+     },
+     {
+      "en": "Keep a tight hold on your phone in crowds.",
+      "ko": "사람 많은 데선 폰 꽉 잡고 있어.",
+      "focus": "a tight hold"
+     }
+    ]
+   }
+  ],
+  "wordFamily": [
+   {
+    "form": "holder",
+    "pos": "n",
+    "ko": "받침, 소지자"
+   }
+  ],
+  "confusables": [
+   {
+    "word": "take",
+    "note": "take는 손으로 집어 가는 순간, hold는 그 뒤로 계속 쥐고 있는 상태다."
+   },
+   {
+    "word": "keep",
+    "note": "keep은 내 소유로 계속 두는 것, hold는 지금 손에 쥐고 있는 것이다."
+   },
+   {
+    "word": "catch",
+    "note": "catch는 날아오는 걸 잡는 순간이고, hold는 잡은 뒤 놓지 않는 것이다."
+   }
+  ]
+ }
+]

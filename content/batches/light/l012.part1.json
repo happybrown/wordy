@@ -1,0 +1,1294 @@
+[
+ {
+  "id": "better",
+  "headword": "better",
+  "ipa": "/ˈbetər/",
+  "level": "ELEM",
+  "isCore": false,
+  "topic": "description_quality",
+  "forms": [],
+  "senses": [
+   {
+    "id": "better-1",
+    "pos": "adj",
+    "ko": "더 좋은, 나은",
+    "en": "of higher quality than something else",
+    "nuance": "good의 비교급이라 more good이라고 하면 안 된다. 비교 대상은 than으로 붙인다.",
+    "pattern": "better than + 명사",
+    "examples": [
+     {
+      "en": "This coffee is much better than the one downstairs.",
+      "ko": "이 커피가 아래층 거보다 훨씬 나아.",
+      "focus": "much better than"
+     },
+     {
+      "en": "Jun got a better seat because he arrived early.",
+      "ko": "준은 일찍 와서 더 좋은 자리를 잡았어.",
+      "focus": "a better seat"
+     }
+    ],
+    "collocations": [
+     "better than",
+     "much better"
+    ]
+   },
+   {
+    "id": "better-2",
+    "pos": "adj",
+    "ko": "(몸이) 나아진",
+    "en": "less sick than before",
+    "nuance": "아프다가 회복 중일 때 feel better라고 한다. 완전히 다 나았으면 fine이나 all better를 쓴다.",
+    "pattern": "feel / get better",
+    "examples": [
+     {
+      "en": "Take some medicine and you'll feel better by tonight.",
+      "ko": "약 좀 먹어, 그럼 오늘 밤엔 나아질 거야.",
+      "focus": "feel better"
+     }
+    ],
+    "collocations": [
+     "feel better"
+    ]
+   }
+  ],
+  "confusables": [
+   {
+    "word": "bitter",
+    "note": "better는 '더 좋은', bitter는 '쓴맛'이다. 한국인에게 모음 소리가 비슷하게 들린다."
+   },
+   {
+    "word": "butter",
+    "note": "better는 비교급, butter는 버터다. 강세 위치는 같지만 첫 모음이 다르다."
+   }
+  ]
+ },
+ {
+  "id": "bicycle",
+  "headword": "bicycle",
+  "ipa": "/ˈbaɪsɪkl/",
+  "level": "ELEM",
+  "isCore": false,
+  "topic": "travel_transport",
+  "forms": [
+   "bicycles"
+  ],
+  "senses": [
+   {
+    "id": "bicycle-1",
+    "pos": "n",
+    "ko": "자전거",
+    "en": "a vehicle with two wheels that you move by pushing pedals",
+    "nuance": "타는 동사는 drive가 아니라 ride다. 일상 대화에서는 bike라고 줄여 말하는 쪽이 훨씬 흔하다.",
+    "pattern": "ride a bicycle",
+    "examples": [
+     {
+      "en": "Mina rides her bicycle to work every morning.",
+      "ko": "미나는 매일 아침 자전거 타고 출근해.",
+      "focus": "rides her bicycle"
+     },
+     {
+      "en": "We rented two bicycles and went along the river.",
+      "ko": "우리는 자전거 두 대를 빌려서 강을 따라 갔어.",
+      "focus": "rented two bicycles"
+     }
+    ],
+    "collocations": [
+     "ride a bicycle",
+     "by bicycle"
+    ]
+   }
+  ],
+  "confusables": [
+   {
+    "word": "bike",
+    "note": "뜻은 같지만 bicycle은 약간 격식체이고, 회화에서는 거의 bike라고 한다."
+   }
+  ]
+ },
+ {
+  "id": "birthday",
+  "headword": "birthday",
+  "ipa": "/ˈbɜːrθdeɪ/",
+  "level": "ELEM",
+  "isCore": false,
+  "topic": "people_family",
+  "forms": [
+   "birthdays"
+  ],
+  "senses": [
+   {
+    "id": "birthday-1",
+    "pos": "n",
+    "ko": "생일",
+    "en": "the day each year when you celebrate the day you were born",
+    "nuance": "'생일에'는 in이 아니라 on my birthday다. 축하 인사는 Happy birthday!로 굳어져 있어 Congratulations를 쓰지 않는다.",
+    "pattern": "on + 소유격 + birthday",
+    "examples": [
+     {
+      "en": "What do you want to do on your birthday?",
+      "ko": "생일에 뭐 하고 싶어?",
+      "focus": "on your birthday"
+     },
+     {
+      "en": "Emma threw a small birthday party at her place.",
+      "ko": "엠마는 자기 집에서 작은 생일 파티를 열었어.",
+      "focus": "a small birthday party"
+     }
+    ],
+    "collocations": [
+     "happy birthday",
+     "a birthday party"
+    ]
+   }
+  ],
+  "wordFamily": [
+   {
+    "form": "birth",
+    "pos": "n",
+    "ko": "출생, 탄생"
+   }
+  ]
+ },
+ {
+  "id": "biscuit",
+  "headword": "biscuit",
+  "ipa": "/ˈbɪskɪt/",
+  "level": "ELEM",
+  "isCore": false,
+  "topic": "food_cooking",
+  "forms": [
+   "biscuits"
+  ],
+  "senses": [
+   {
+    "id": "biscuit-1",
+    "pos": "n",
+    "ko": "비스킷, 과자",
+    "en": "a small hard sweet cake that you eat with tea",
+    "nuance": "영국에서 쓰는 말이고 미국에서는 같은 것을 cookie라고 한다. 미국의 biscuit은 짭짤한 빵이라 서로 가리키는 게 다르다.",
+    "examples": [
+     {
+      "en": "Tom dipped a biscuit in his tea and smiled.",
+      "ko": "톰은 비스킷을 차에 적셔 먹으며 웃었어.",
+      "focus": "dipped a biscuit"
+     },
+     {
+      "en": "Would you like some biscuits with your coffee?",
+      "ko": "커피랑 비스킷 좀 드실래요?",
+      "focus": "some biscuits"
+     }
+    ],
+    "collocations": [
+     "a packet of biscuits"
+    ]
+   }
+  ],
+  "confusables": [
+   {
+    "word": "cookie",
+    "note": "같은 과자를 영국은 biscuit, 미국은 cookie라고 부른다. 미국 biscuit은 단맛 없는 빵이다."
+   }
+  ]
+ },
+ {
+  "id": "blank",
+  "headword": "blank",
+  "ipa": "/blæŋk/",
+  "level": "ELEM",
+  "isCore": false,
+  "topic": "description_quality",
+  "forms": [
+   "blanker",
+   "blanks"
+  ],
+  "senses": [
+   {
+    "id": "blank-1",
+    "pos": "adj",
+    "ko": "빈, 백지의",
+    "en": "with nothing written or drawn on it",
+    "nuance": "'써야 할 자리인데 아직 비어 있다'는 느낌이다. 그릇이나 방이 비었을 때는 empty를 쓴다.",
+    "pattern": "a blank + 명사",
+    "examples": [
+     {
+      "en": "She stared at the blank page for ten minutes.",
+      "ko": "그녀는 백지를 십 분 동안 쳐다봤어.",
+      "focus": "the blank page"
+     },
+     {
+      "en": "Leave that line blank if you don't have a phone.",
+      "ko": "전화가 없으면 그 줄은 비워 두세요.",
+      "focus": "Leave that line blank"
+     }
+    ],
+    "collocations": [
+     "a blank page",
+     "fill in the blanks"
+    ]
+   }
+  ],
+  "confusables": [
+   {
+    "word": "empty",
+    "note": "blank는 글씨가 안 적힌 종이·화면, empty는 안에 든 것이 없는 상자·방에 쓴다."
+   },
+   {
+    "word": "bank",
+    "note": "철자가 한 글자 차이라 헷갈린다. blank에는 l이 들어간다."
+   }
+  ]
+ },
+ {
+  "id": "bookstore",
+  "headword": "bookstore",
+  "ipa": "/ˈbʊkstɔːr/",
+  "level": "ELEM",
+  "isCore": false,
+  "topic": "money_shopping",
+  "forms": [
+   "bookstores"
+  ],
+  "senses": [
+   {
+    "id": "bookstore-1",
+    "pos": "n",
+    "ko": "서점",
+    "en": "a shop that sells books",
+    "nuance": "책을 파는 가게다. 빌리는 곳인 library와 혼동하기 쉬운데, 한국어 '도서관'과는 다르다.",
+    "examples": [
+     {
+      "en": "Let's meet at the bookstore near the subway exit.",
+      "ko": "지하철 출구 근처 서점에서 만나자.",
+      "focus": "at the bookstore"
+     },
+     {
+      "en": "The bookstore stays open until eleven on weekends.",
+      "ko": "그 서점은 주말엔 열한 시까지 열어.",
+      "focus": "The bookstore stays open"
+     }
+    ],
+    "collocations": [
+     "a local bookstore"
+    ]
+   }
+  ],
+  "confusables": [
+   {
+    "word": "library",
+    "note": "bookstore는 책을 사는 가게, library는 무료로 빌리는 도서관이다."
+   }
+  ]
+ },
+ {
+  "id": "boring",
+  "headword": "boring",
+  "ipa": "/ˈbɔːrɪŋ/",
+  "level": "ELEM",
+  "isCore": false,
+  "topic": "emotions_personality",
+  "forms": [],
+  "senses": [
+   {
+    "id": "boring-1",
+    "pos": "adj",
+    "ko": "지루한, 재미없는",
+    "en": "not interesting, so it makes you want to stop",
+    "nuance": "지루하게 '만드는' 쪽에 쓴다. 내가 지루하다고 할 때 I'm boring이라고 하면 '나는 재미없는 사람'이 되므로 I'm bored라고 해야 한다.",
+    "pattern": "be boring",
+    "examples": [
+     {
+      "en": "The movie was so boring that Tom fell asleep.",
+      "ko": "영화가 너무 지루해서 톰이 잠들었어.",
+      "focus": "so boring that"
+     },
+     {
+      "en": "My job is boring, but the people are nice.",
+      "ko": "내 일은 지루한데 사람들은 좋아.",
+      "focus": "is boring"
+     }
+    ],
+    "collocations": [
+     "a boring movie",
+     "really boring"
+    ]
+   }
+  ],
+  "wordFamily": [
+   {
+    "form": "bore",
+    "pos": "v",
+    "ko": "지루하게 하다"
+   }
+  ],
+  "confusables": [
+   {
+    "word": "interesting",
+    "note": "boring의 반대말. 둘 다 -ing형이라 사람이 아니라 대상의 성질을 말한다."
+   }
+  ]
+ },
+ {
+  "id": "boyfriend",
+  "headword": "boyfriend",
+  "ipa": "/ˈbɔɪfrend/",
+  "level": "ELEM",
+  "isCore": false,
+  "topic": "people_family",
+  "forms": [
+   "boyfriends"
+  ],
+  "senses": [
+   {
+    "id": "boyfriend-1",
+    "pos": "n",
+    "ko": "남자친구",
+    "en": "a man someone is having a romantic relationship with",
+    "nuance": "사귀는 사이에만 쓴다. 그냥 친한 남자 사람은 a friend나 a male friend라고 해야 오해가 없다.",
+    "examples": [
+     {
+      "en": "Mina introduced her boyfriend to us last weekend.",
+      "ko": "미나가 지난 주말에 남자친구를 우리한테 소개했어.",
+      "focus": "her boyfriend"
+     },
+     {
+      "en": "Do you have a boyfriend, or are you single?",
+      "ko": "남자친구 있어, 아니면 솔로야?",
+      "focus": "have a boyfriend"
+     }
+    ],
+    "collocations": [
+     "have a boyfriend"
+    ]
+   }
+  ],
+  "confusables": [
+   {
+    "word": "friend",
+    "note": "boyfriend는 연인이고, 그냥 남자인 친구는 a friend라고 해야 한다."
+   }
+  ]
+ },
+ {
+  "id": "brake",
+  "headword": "brake",
+  "ipa": "/breɪk/",
+  "level": "ELEM",
+  "isCore": false,
+  "topic": "travel_transport",
+  "forms": [
+   "brakes"
+  ],
+  "senses": [
+   {
+    "id": "brake-1",
+    "pos": "n",
+    "ko": "브레이크",
+    "en": "the part of a car or bike that makes it slow down",
+    "nuance": "밟는 동작은 step on이나 hit the brakes로 말한다. break와 발음이 같아 철자로만 구분된다.",
+    "pattern": "hit / step on the brakes",
+    "examples": [
+     {
+      "en": "Jun hit the brakes when a cat ran across.",
+      "ko": "준은 고양이가 지나가자 브레이크를 밟았어.",
+      "focus": "hit the brakes"
+     },
+     {
+      "en": "The brakes on my bicycle make a terrible noise.",
+      "ko": "내 자전거 브레이크에서 끔찍한 소리가 나.",
+      "focus": "The brakes on my bicycle"
+     }
+    ],
+    "collocations": [
+     "hit the brakes",
+     "put on the brakes"
+    ]
+   }
+  ],
+  "confusables": [
+   {
+    "word": "break",
+    "note": "발음이 똑같다. brake는 차를 멈추는 장치, break는 '깨다·쉬는 시간'이다."
+   }
+  ]
+ },
+ {
+  "id": "brave",
+  "headword": "brave",
+  "ipa": "/breɪv/",
+  "level": "ELEM",
+  "isCore": false,
+  "topic": "emotions_personality",
+  "forms": [
+   "braver",
+   "bravest"
+  ],
+  "senses": [
+   {
+    "id": "brave-1",
+    "pos": "adj",
+    "ko": "용감한",
+    "en": "ready to do something hard or scary without running away",
+    "nuance": "무섭지 않은 게 아니라 무서워도 해내는 것을 가리킨다. 칭찬할 때 That was brave of you처럼 자주 쓴다.",
+    "pattern": "be brave enough to + 동사",
+    "examples": [
+     {
+      "en": "It was brave of Emma to speak up at the meeting.",
+      "ko": "회의에서 엠마가 의견을 낸 건 용감했어.",
+      "focus": "brave of Emma"
+     },
+     {
+      "en": "Be brave and tell your boss how you feel.",
+      "ko": "용기 내서 상사한테 네 마음을 말해 봐.",
+      "focus": "Be brave"
+     }
+    ],
+    "collocations": [
+     "a brave decision",
+     "be brave enough"
+    ]
+   }
+  ],
+  "wordFamily": [
+   {
+    "form": "bravely",
+    "pos": "adv",
+    "ko": "용감하게"
+   }
+  ],
+  "confusables": [
+   {
+    "word": "afraid",
+    "note": "brave는 두려움을 이겨내는 태도, afraid는 두려워하는 상태다."
+   }
+  ]
+ },
+ {
+  "id": "broken",
+  "headword": "broken",
+  "ipa": "/ˈbroʊkən/",
+  "level": "ELEM",
+  "isCore": false,
+  "topic": "description_quality",
+  "forms": [],
+  "senses": [
+   {
+    "id": "broken-1",
+    "pos": "adj",
+    "ko": "고장 난, 부서진",
+    "en": "damaged, so it does not work or is in pieces",
+    "nuance": "'깨졌다'와 '작동을 안 한다'를 모두 덮는다. 상태를 말하는 형용사라 be동사와 쓰고, 행동은 break로 말한다.",
+    "pattern": "be broken",
+    "examples": [
+     {
+      "en": "The elevator is broken again, so we took the stairs.",
+      "ko": "엘리베이터가 또 고장 나서 우리는 계단으로 갔어.",
+      "focus": "is broken again"
+     },
+     {
+      "en": "Be careful, there's broken glass near the door.",
+      "ko": "조심해, 문 근처에 깨진 유리가 있어.",
+      "focus": "broken glass"
+     }
+    ],
+    "collocations": [
+     "a broken leg",
+     "broken glass"
+    ]
+   }
+  ],
+  "wordFamily": [
+   {
+    "form": "break",
+    "pos": "v",
+    "ko": "깨다, 고장 내다"
+   }
+  ],
+  "confusables": [
+   {
+    "word": "brake",
+    "note": "broken은 break의 과거분사이고, brake는 차를 멈추는 장치다. 철자를 섞어 쓰기 쉽다."
+   }
+  ]
+ },
+ {
+  "id": "bubble",
+  "headword": "bubble",
+  "ipa": "/ˈbʌbl/",
+  "level": "ELEM",
+  "isCore": false,
+  "topic": "description_quality",
+  "forms": [
+   "bubbles"
+  ],
+  "senses": [
+   {
+    "id": "bubble-1",
+    "pos": "n",
+    "ko": "거품, 방울",
+    "en": "a ball of air inside water or another liquid",
+    "nuance": "하나하나 셀 수 있는 동그란 방울이라 보통 복수 bubbles로 쓴다. 맥주나 비누의 뿌연 거품 덩어리는 foam이라고 한다.",
+    "examples": [
+     {
+      "en": "The kids blew soap bubbles in the park all afternoon.",
+      "ko": "아이들은 공원에서 오후 내내 비눗방울을 불었어.",
+      "focus": "blew soap bubbles"
+     },
+     {
+      "en": "Look, tiny bubbles are coming up from the bottom.",
+      "ko": "봐, 바닥에서 작은 거품이 올라오고 있어.",
+      "focus": "tiny bubbles"
+     }
+    ],
+    "collocations": [
+     "soap bubbles",
+     "blow bubbles"
+    ]
+   }
+  ]
+ },
+ {
+  "id": "bucket",
+  "headword": "bucket",
+  "ipa": "/ˈbʌkɪt/",
+  "level": "ELEM",
+  "isCore": false,
+  "topic": "home_daily",
+  "forms": [
+   "buckets"
+  ],
+  "senses": [
+   {
+    "id": "bucket-1",
+    "pos": "n",
+    "ko": "양동이, 통",
+    "en": "a round open container with a handle for carrying water",
+    "nuance": "물을 담아 나르는 손잡이 달린 통이다. 손잡이 없이 뚜껑 덮는 통은 container나 tub라고 한다.",
+    "pattern": "a bucket of + 명사",
+    "examples": [
+     {
+      "en": "Tom filled a bucket with warm water and soap.",
+      "ko": "톰은 양동이에 따뜻한 물과 비누를 채웠어.",
+      "focus": "filled a bucket"
+     },
+     {
+      "en": "Can you bring two buckets from the back door?",
+      "ko": "뒷문에서 양동이 두 개만 가져다줄래?",
+      "focus": "two buckets"
+     }
+    ],
+    "collocations": [
+     "a bucket of water"
+    ]
+   }
+  ],
+  "confusables": [
+   {
+    "word": "basket",
+    "note": "bucket은 물을 담는 통, basket은 과일·빨래를 담는 바구니다."
+   }
+  ]
+ },
+ {
+  "id": "bug",
+  "headword": "bug",
+  "ipa": "/bʌɡ/",
+  "level": "ELEM",
+  "isCore": false,
+  "topic": "nature_animals",
+  "forms": [
+   "bugs"
+  ],
+  "senses": [
+   {
+    "id": "bug-1",
+    "pos": "n",
+    "ko": "벌레",
+    "en": "a very small animal with six legs, often found outside",
+    "nuance": "insect보다 훨씬 구어적이라 친구끼리 쓰기 좋다. 학교나 과학 글에서는 insect를 쓴다.",
+    "examples": [
+     {
+      "en": "There's a bug crawling on your shoulder, hold still.",
+      "ko": "네 어깨에 벌레가 기어가고 있어, 가만히 있어.",
+      "focus": "a bug crawling"
+     },
+     {
+      "en": "Close the window or bugs will come in tonight.",
+      "ko": "창문 닫아, 안 그러면 오늘 밤 벌레 들어와.",
+      "focus": "bugs will come in"
+     }
+    ],
+    "collocations": [
+     "a bug bite"
+    ]
+   },
+   {
+    "id": "bug-2",
+    "pos": "n",
+    "ko": "(프로그램) 오류",
+    "en": "a mistake in a computer program that makes it fail",
+    "nuance": "소프트웨어 오류를 가리키는 일상어다. 사람이 저지른 실수 전반은 mistake나 error를 쓴다.",
+    "examples": [
+     {
+      "en": "The app keeps crashing because of a small bug.",
+      "ko": "작은 오류 때문에 앱이 계속 죽어.",
+      "focus": "a small bug"
+     }
+    ],
+    "collocations": [
+     "fix a bug"
+    ]
+   }
+  ],
+  "confusables": [
+   {
+    "word": "insect",
+    "note": "뜻은 거의 같지만 bug는 회화체, insect는 과학·교과서에서 쓰는 말이다."
+   }
+  ]
+ },
+ {
+  "id": "building",
+  "headword": "building",
+  "ipa": "/ˈbɪldɪŋ/",
+  "level": "ELEM",
+  "isCore": false,
+  "topic": "travel_transport",
+  "forms": [
+   "buildings"
+  ],
+  "senses": [
+   {
+    "id": "building-1",
+    "pos": "n",
+    "ko": "건물",
+    "en": "a place with walls and a roof, like an office or school",
+    "nuance": "사람이 사는 집 한 채는 보통 house라고 하고, building은 사무실·상가처럼 큰 구조물에 쓴다.",
+    "examples": [
+     {
+      "en": "Our office is in the tall building across the street.",
+      "ko": "우리 사무실은 길 건너 높은 건물에 있어.",
+      "focus": "the tall building"
+     },
+     {
+      "en": "They're painting the old buildings near the station.",
+      "ko": "역 근처 오래된 건물들을 칠하고 있어.",
+      "focus": "the old buildings"
+     }
+    ],
+    "collocations": [
+     "an office building",
+     "a tall building"
+    ]
+   }
+  ],
+  "wordFamily": [
+   {
+    "form": "build",
+    "pos": "v",
+    "ko": "짓다, 세우다"
+   }
+  ]
+ },
+ {
+  "id": "burger",
+  "headword": "burger",
+  "ipa": "/ˈbɜːrɡər/",
+  "level": "ELEM",
+  "isCore": false,
+  "topic": "food_cooking",
+  "forms": [
+   "burgers"
+  ],
+  "senses": [
+   {
+    "id": "burger-1",
+    "pos": "n",
+    "ko": "햄버거",
+    "en": "round bread cut in half with hot meat inside",
+    "nuance": "hamburger를 줄인 일상어로 주문할 때 거의 이 형태를 쓴다. 셀 수 있는 명사라 a burger, two burgers처럼 말한다.",
+    "examples": [
+     {
+      "en": "I'll have a burger and a small coffee, please.",
+      "ko": "버거 하나랑 커피 작은 거 주세요.",
+      "focus": "a burger"
+     },
+     {
+      "en": "These burgers taste better than the ones downtown.",
+      "ko": "이 버거들이 시내 거보다 맛있어.",
+      "focus": "These burgers taste better"
+     }
+    ],
+    "collocations": [
+     "order a burger"
+    ]
+   }
+  ],
+  "confusables": [
+   {
+    "word": "butter",
+    "note": "burger는 햄버거, butter는 버터다. 한국어로 둘 다 '버'로 시작해 섞어 쓰기 쉽다."
+   }
+  ]
+ },
+ {
+  "id": "butter",
+  "headword": "butter",
+  "ipa": "/ˈbʌtər/",
+  "level": "ELEM",
+  "isCore": false,
+  "topic": "food_cooking",
+  "forms": [],
+  "senses": [
+   {
+    "id": "butter-1",
+    "pos": "n",
+    "ko": "버터",
+    "en": "a soft yellow food made from milk that you put on bread",
+    "nuance": "셀 수 없는 명사라 a butter, two butters라고 하지 않는다. 양을 말하려면 a piece of butter처럼 쓴다.",
+    "examples": [
+     {
+      "en": "Emma spread butter on her toast and sat down.",
+      "ko": "엠마는 토스트에 버터를 바르고 앉았어.",
+      "focus": "spread butter"
+     },
+     {
+      "en": "Could you pass me the butter, please?",
+      "ko": "버터 좀 건네줄래?",
+      "focus": "pass me the butter"
+     }
+    ],
+    "collocations": [
+     "spread butter on"
+    ]
+   }
+  ],
+  "confusables": [
+   {
+    "word": "bitter",
+    "note": "butter는 버터, bitter는 '쓴맛'이다. 짧은 모음 소리가 비슷해 듣고 헷갈린다."
+   }
+  ]
+ },
+ {
+  "id": "butterfly",
+  "headword": "butterfly",
+  "ipa": "/ˈbʌtərflaɪ/",
+  "level": "ELEM",
+  "isCore": false,
+  "topic": "nature_animals",
+  "forms": [
+   "butterflies"
+  ],
+  "senses": [
+   {
+    "id": "butterfly-1",
+    "pos": "n",
+    "ko": "나비",
+    "en": "a small flying insect with large colorful wings",
+    "nuance": "복수는 butterflys가 아니라 butterflies다. 긴장해서 속이 울렁거릴 때 butterflies in my stomach라고도 한다.",
+    "examples": [
+     {
+      "en": "A yellow butterfly landed on Mina's shoulder.",
+      "ko": "노란 나비가 미나 어깨에 내려앉았어.",
+      "focus": "A yellow butterfly landed"
+     },
+     {
+      "en": "We saw hundreds of butterflies in the garden today.",
+      "ko": "오늘 정원에서 나비를 수백 마리 봤어.",
+      "focus": "hundreds of butterflies"
+     }
+    ],
+    "collocations": [
+     "a colorful butterfly"
+    ]
+   }
+  ]
+ },
+ {
+  "id": "bye",
+  "headword": "bye",
+  "ipa": "/baɪ/",
+  "level": "ELEM",
+  "isCore": false,
+  "topic": "communication",
+  "forms": [],
+  "senses": [
+   {
+    "id": "bye-1",
+    "pos": "n",
+    "ko": "잘 가, 안녕",
+    "en": "a friendly word you say when you leave someone",
+    "nuance": "친구·가족과 헤어질 때 쓰는 가벼운 인사다. 회의나 손님 앞에서는 Goodbye나 Have a good day를 쓴다.",
+    "pattern": "say bye to + 사람",
+    "examples": [
+     {
+      "en": "Say bye to Grandma before you get in the car.",
+      "ko": "차 타기 전에 할머니한테 인사드려.",
+      "focus": "Say bye to Grandma"
+     },
+     {
+      "en": "He left without saying bye, which felt a bit rude.",
+      "ko": "걔는 인사도 없이 가버려서 좀 무례하게 느껴졌어.",
+      "focus": "without saying bye"
+     }
+    ],
+    "collocations": [
+     "say bye"
+    ]
+   }
+  ],
+  "confusables": [
+   {
+    "word": "goodbye",
+    "note": "bye가 더 짧고 친근하다. goodbye는 격식 있거나 오래 못 볼 때 쓴다."
+   }
+  ]
+ },
+ {
+  "id": "cafe",
+  "headword": "cafe",
+  "ipa": "/kæˈfeɪ/",
+  "level": "ELEM",
+  "isCore": false,
+  "topic": "food_cooking",
+  "forms": [
+   "cafes",
+   "café"
+  ],
+  "senses": [
+   {
+    "id": "cafe-1",
+    "pos": "n",
+    "ko": "카페, 찻집",
+    "en": "a small place where you buy coffee and light meals",
+    "nuance": "커피뿐 아니라 간단한 식사도 파는 가게를 말한다. 한국에서 흔한 '커피숍'은 영어로 coffee shop이나 cafe라고 한다.",
+    "examples": [
+     {
+      "en": "There's a quiet cafe next to the bookstore.",
+      "ko": "서점 옆에 조용한 카페가 있어.",
+      "focus": "a quiet cafe"
+     },
+     {
+      "en": "We sat in the cafe and talked for two hours.",
+      "ko": "우리는 카페에 앉아서 두 시간 동안 얘기했어.",
+      "focus": "in the cafe"
+     }
+    ],
+    "collocations": [
+     "a small cafe"
+    ]
+   }
+  ],
+  "confusables": [
+   {
+    "word": "restaurant",
+    "note": "cafe는 음료와 가벼운 간식 위주, restaurant은 제대로 된 식사를 파는 곳이다."
+   }
+  ]
+ },
+ {
+  "id": "cage",
+  "headword": "cage",
+  "ipa": "/keɪdʒ/",
+  "level": "ELEM",
+  "isCore": false,
+  "topic": "nature_animals",
+  "forms": [
+   "cages"
+  ],
+  "senses": [
+   {
+    "id": "cage-1",
+    "pos": "n",
+    "ko": "새장, 우리",
+    "en": "a box of metal bars where an animal is kept",
+    "nuance": "쇠창살로 된 동물용 우리를 말한다. 안에 있음을 말할 때는 on이 아니라 in the cage다.",
+    "pattern": "in a cage",
+    "examples": [
+     {
+      "en": "The rabbit sleeps in a cage next to the window.",
+      "ko": "토끼는 창문 옆 우리에서 자.",
+      "focus": "in a cage"
+     },
+     {
+      "en": "Jun cleans the bird cage every Sunday morning.",
+      "ko": "준은 일요일 아침마다 새장을 청소해.",
+      "focus": "the bird cage"
+     }
+    ],
+    "collocations": [
+     "a bird cage"
+    ]
+   }
+  ]
+ },
+ {
+  "id": "calendar",
+  "headword": "calendar",
+  "ipa": "/ˈkælɪndər/",
+  "level": "ELEM",
+  "isCore": false,
+  "topic": "time_quantity",
+  "forms": [
+   "calendars"
+  ],
+  "senses": [
+   {
+    "id": "calendar-1",
+    "pos": "n",
+    "ko": "달력, 일정표",
+    "en": "a list of days and months, used to plan what you do",
+    "nuance": "벽에 거는 달력과 휴대폰 일정 앱을 둘 다 가리킨다. 하루 단위의 할 일 목록은 schedule에 가깝다.",
+    "pattern": "on / in my calendar",
+    "examples": [
+     {
+      "en": "Put the meeting on my calendar for next Tuesday.",
+      "ko": "다음 주 화요일로 회의를 내 일정표에 넣어 줘.",
+      "focus": "on my calendar"
+     },
+     {
+      "en": "Emma hangs two calendars above her kitchen table.",
+      "ko": "엠마는 부엌 식탁 위에 달력을 두 개 걸어 둬.",
+      "focus": "two calendars"
+     }
+    ],
+    "collocations": [
+     "mark it on the calendar"
+    ]
+   }
+  ],
+  "confusables": [
+   {
+    "word": "schedule",
+    "note": "calendar는 날짜가 적힌 표 자체, schedule은 그 안에 채운 일정 내용이다."
+   }
+  ]
+ },
+ {
+  "id": "captain",
+  "headword": "captain",
+  "ipa": "/ˈkæptɪn/",
+  "level": "ELEM",
+  "isCore": false,
+  "topic": "sports_leisure",
+  "forms": [
+   "captains"
+  ],
+  "senses": [
+   {
+    "id": "captain-1",
+    "pos": "n",
+    "ko": "주장, 선장",
+    "en": "the person who leads a sports team, ship, or plane",
+    "nuance": "팀·배·비행기처럼 정해진 집단의 우두머리에만 쓴다. 회사나 모임의 리더는 leader나 head를 쓴다.",
+    "pattern": "the captain of + 명사",
+    "examples": [
+     {
+      "en": "Tom became the captain of our soccer team.",
+      "ko": "톰이 우리 축구팀 주장이 됐어.",
+      "focus": "the captain of our soccer team"
+     },
+     {
+      "en": "Both captains shook hands before the game started.",
+      "ko": "경기 시작 전에 양 팀 주장이 악수했어.",
+      "focus": "Both captains"
+     }
+    ],
+    "collocations": [
+     "the team captain"
+    ]
+   }
+  ],
+  "confusables": [
+   {
+    "word": "certain",
+    "note": "captain은 '주장', certain은 '확실한'이다. 끝의 -tain 소리가 같아 잘못 듣기 쉽다."
+   }
+  ]
+ },
+ {
+  "id": "carrot",
+  "headword": "carrot",
+  "ipa": "/ˈkærət/",
+  "level": "ELEM",
+  "isCore": false,
+  "topic": "food_cooking",
+  "forms": [
+   "carrots"
+  ],
+  "senses": [
+   {
+    "id": "carrot-1",
+    "pos": "n",
+    "ko": "당근",
+    "en": "a long orange vegetable that grows under the ground",
+    "nuance": "셀 수 있는 명사라 채소 요리 얘기에서도 carrots처럼 복수로 쓴다. 잘게 썬 것은 chopped carrots라고 한다.",
+    "examples": [
+     {
+      "en": "Cut the carrots into small pieces before you fry them.",
+      "ko": "볶기 전에 당근을 잘게 썰어.",
+      "focus": "Cut the carrots"
+     },
+     {
+      "en": "My son eats a carrot every day after school.",
+      "ko": "우리 아들은 학교 끝나고 매일 당근을 하나 먹어.",
+      "focus": "eats a carrot"
+     }
+    ],
+    "collocations": [
+     "chopped carrots"
+    ]
+   },
+   {
+    "id": "carrot-2",
+    "pos": "n",
+    "ko": "당근색의, 유인책",
+    "en": "something good you offer to make people do what you want",
+    "nuance": "한국어 '당근과 채찍'과 똑같은 비유로 쓴다. 회사·협상 얘기에서 자주 나온다.",
+    "examples": [
+     {
+      "en": "The company used a bonus as a carrot for workers.",
+      "ko": "회사는 보너스를 직원들을 위한 당근으로 썼어.",
+      "focus": "as a carrot"
+     }
+    ]
+   }
+  ],
+  "confusables": [
+   {
+    "word": "carry",
+    "note": "carrot은 당근, carry는 '나르다'이다. 앞 네 글자가 같아 철자를 헷갈린다."
+   }
+  ]
+ },
+ {
+  "id": "cart",
+  "headword": "cart",
+  "ipa": "/kɑːrt/",
+  "level": "ELEM",
+  "isCore": false,
+  "topic": "money_shopping",
+  "forms": [
+   "carts"
+  ],
+  "senses": [
+   {
+    "id": "cart-1",
+    "pos": "n",
+    "ko": "카트, 수레",
+    "en": "a metal frame on wheels that you push to carry things",
+    "nuance": "마트에서 미는 것이 대표적이고, 인터넷 쇼핑의 '장바구니'도 cart라고 한다. 영국에서는 trolley를 쓴다.",
+    "pattern": "put … in the cart",
+    "examples": [
+     {
+      "en": "Grab a cart before we go into the store.",
+      "ko": "가게 들어가기 전에 카트 하나 가져와.",
+      "focus": "Grab a cart"
+     },
+     {
+      "en": "I put three items in my cart but bought nothing.",
+      "ko": "장바구니에 세 개 담았는데 아무것도 안 샀어.",
+      "focus": "in my cart"
+     }
+    ],
+    "collocations": [
+     "a shopping cart"
+    ]
+   }
+  ],
+  "confusables": [
+   {
+    "word": "card",
+    "note": "cart는 밀고 다니는 수레, card는 종이 카드다. 끝소리 t와 d만 다르다."
+   }
+  ]
+ },
+ {
+  "id": "cartoon",
+  "headword": "cartoon",
+  "ipa": "/kɑːrˈtuːn/",
+  "level": "ELEM",
+  "isCore": false,
+  "topic": "culture_arts",
+  "forms": [
+   "cartoons"
+  ],
+  "senses": [
+   {
+    "id": "cartoon-1",
+    "pos": "n",
+    "ko": "만화, 만화 영화",
+    "en": "a funny drawing or a short film made with drawings",
+    "nuance": "신문의 한 컷 만화와 어린이 애니메이션을 둘 다 가리킨다. 일본식 만화책은 comic book이나 manga라고 해야 통한다.",
+    "examples": [
+     {
+      "en": "My daughter watches cartoons every Saturday morning.",
+      "ko": "우리 딸은 토요일 아침마다 만화를 봐.",
+      "focus": "watches cartoons"
+     },
+     {
+      "en": "There was a funny cartoon about traffic in today's paper.",
+      "ko": "오늘 신문에 교통에 관한 웃긴 만화가 실렸어.",
+      "focus": "a funny cartoon"
+     }
+    ],
+    "collocations": [
+     "watch cartoons"
+    ]
+   }
+  ]
+ },
+ {
+  "id": "cd",
+  "headword": "cd",
+  "ipa": "/ˌsiː ˈdiː/",
+  "level": "ELEM",
+  "isCore": false,
+  "topic": "culture_arts",
+  "forms": [
+   "cds"
+  ],
+  "senses": [
+   {
+    "id": "cd-1",
+    "pos": "n",
+    "ko": "시디, 음반",
+    "en": "a small round disc that holds music or computer files",
+    "nuance": "글로 쓸 때는 대문자 CD로 쓰고 복수는 CDs다. 자음 소리로 시작해 보여도 '씨'로 읽히므로 a CD라고 한다.",
+    "examples": [
+     {
+      "en": "Jun still keeps all his old CDs in a box.",
+      "ko": "준은 아직도 옛날 시디를 전부 상자에 보관해.",
+      "focus": "his old CDs"
+     },
+     {
+      "en": "Can you burn this song onto a CD for me?",
+      "ko": "이 노래 시디로 구워 줄 수 있어?",
+      "focus": "onto a CD"
+     }
+    ],
+    "collocations": [
+     "play a CD"
+    ]
+   }
+  ]
+ },
+ {
+  "id": "cd-player",
+  "headword": "cd player",
+  "ipa": "/ˌsiː ˈdiː ˌpleɪər/",
+  "level": "ELEM",
+  "isCore": false,
+  "topic": "culture_arts",
+  "forms": [
+   "cd players"
+  ],
+  "senses": [
+   {
+    "id": "cd-player-1",
+    "pos": "n",
+    "ko": "시디 플레이어",
+    "en": "a machine that plays music from a small round disc",
+    "nuance": "글로 쓸 때는 CD player처럼 앞만 대문자로 쓴다. 기계 전체를 말할 때는 관사 a나 the를 꼭 붙인다.",
+    "examples": [
+     {
+      "en": "My old car still has a CD player in it.",
+      "ko": "내 낡은 차에는 아직 시디 플레이어가 달려 있어.",
+      "focus": "a CD player"
+     },
+     {
+      "en": "The CD player stopped working, so we used our phones.",
+      "ko": "시디 플레이어가 고장 나서 우리는 휴대폰을 썼어.",
+      "focus": "The CD player stopped working"
+     }
+    ],
+    "collocations": [
+     "turn on the CD player"
+    ]
+   }
+  ]
+ },
+ {
+  "id": "cinema",
+  "headword": "cinema",
+  "ipa": "/ˈsɪnəmə/",
+  "level": "ELEM",
+  "isCore": false,
+  "topic": "culture_arts",
+  "forms": [
+   "cinemas"
+  ],
+  "senses": [
+   {
+    "id": "cinema-1",
+    "pos": "n",
+    "ko": "영화관",
+    "en": "a place where people pay to watch films on a big screen",
+    "nuance": "영국식 표현으로 미국에서는 movie theater를 쓴다. '영화 보러 간다'는 go to the cinema처럼 the를 붙인다.",
+    "pattern": "go to the cinema",
+    "examples": [
+     {
+      "en": "Let's go to the cinema after dinner tonight.",
+      "ko": "오늘 저녁 먹고 영화관 가자.",
+      "focus": "go to the cinema"
+     },
+     {
+      "en": "Both cinemas near my house closed last year.",
+      "ko": "우리 집 근처 영화관 두 곳이 작년에 문 닫았어.",
+      "focus": "Both cinemas"
+     }
+    ],
+    "collocations": [
+     "go to the cinema"
+    ]
+   }
+  ],
+  "confusables": [
+   {
+    "word": "theater",
+    "note": "미국에서는 영화관을 movie theater라고 한다. 그냥 theater는 연극 극장을 뜻하기도 한다."
+   }
+  ]
+ },
+ {
+  "id": "classmate",
+  "headword": "classmate",
+  "ipa": "/ˈklæsmeɪt/",
+  "level": "ELEM",
+  "isCore": false,
+  "topic": "school_learning",
+  "forms": [
+   "classmates"
+  ],
+  "senses": [
+   {
+    "id": "classmate-1",
+    "pos": "n",
+    "ko": "반 친구, 동급생",
+    "en": "a person who studies in the same group as you",
+    "nuance": "같은 수업을 듣는 사람일 뿐 친한 사이라는 뜻은 없다. 한국어 '동창'처럼 졸업 후를 말하려면 an old classmate라고 한다.",
+    "examples": [
+     {
+      "en": "Mina sat next to a new classmate on the first day.",
+      "ko": "미나는 첫날에 새 반 친구 옆에 앉았어.",
+      "focus": "a new classmate"
+     },
+     {
+      "en": "Ten classmates showed up for the study group.",
+      "ko": "스터디 모임에 반 친구 열 명이 왔어.",
+      "focus": "Ten classmates"
+     }
+    ],
+    "collocations": [
+     "an old classmate"
+    ]
+   }
+  ],
+  "confusables": [
+   {
+    "word": "classroom",
+    "note": "classmate는 같이 수업 듣는 사람, classroom은 수업하는 교실이라는 장소다."
+   }
+  ]
+ }
+]
