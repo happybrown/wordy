@@ -1,21 +1,21 @@
 # 콘텐츠 제작 진행 상황
 
-마지막 갱신: 2026-09-15 22:30
+마지막 갱신: 2026-09-16 07:33
 
 ## 현황
 | 항목 | 상태 |
 |---|---|
 | 단어 목록 (`content/wordlist/master.tsv`) | 4,054개 확정 (PRE 300 / ELEM 800 / MID 1,200 / HIGH 1,154 / ADV 600, Core 400 포함) |
 | 배치 manifest | 81개 생성 완료 (deep 20 × 20개, light 61 × 60개) |
-| 작성 완료 | **38/81 배치 = 1,600개 (39%)** — Core d001~d017, 초등·중등 l001~l021. 전부 `validate` 0 error / 0 warning |
-| 앱 내장 DB | `content.db` 1,600 words / 2,802 senses / 97 units |
+| 작성 완료 | **51/81 배치 = 2,260개 (56%)** — Core 전량, 초등이전·초등 전량, 중등 97%. 전부 `validate` 0 error / 0 warning |
+| 앱 내장 DB | `content.db` 2,260 words / 3,753 senses / 124 units |
 
 ## 남은 작업
 ```
-deep  d018~d020   Core 60개 (d020 이 마지막 Core 배치)
-light l022~l061   나머지 2,394개
+deep   완료 (Core 400개 전량)
+light  l033~l061   나머지 1,794개 (고등 1,154 + 그 이상 600 + 중등 40)
 ```
-레벨별: PRE 300/300, ELEM 800/800 완료. MID 500/1200, HIGH 0/1154, ADV 0/600.
+레벨별: PRE·ELEM 완료, MID 1160/1200(97%), HIGH 0/1154, ADV 0/600.
 진행 상황은 `node tools/batch-status.mjs`, 다음 대상은 `node tools/batch-status.mjs --next 3`.
 
 ## 배치 하나 작성하는 법
