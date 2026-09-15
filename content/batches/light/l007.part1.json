@@ -1,0 +1,1177 @@
+[
+ {
+  "id": "conversation",
+  "headword": "conversation",
+  "ipa": "/ˌkɑːnvərˈseɪʃn/",
+  "level": "ELEM",
+  "isCore": false,
+  "topic": "communication",
+  "forms": ["conversations"],
+  "senses": [
+   {
+    "id": "conversation-1",
+    "pos": "n",
+    "ko": "대화",
+    "en": "a talk between two or more people about anything",
+    "nuance": "'대화하다'는 do a conversation이 아니라 have a conversation이다. '~와 대화'는 conversation with, '~에 관한 대화'는 conversation about이다.",
+    "pattern": "have a conversation with + 사람",
+    "examples": [
+     {
+      "en": "I had a long conversation with Mina about her new job.",
+      "ko": "미나랑 새 직장 얘기로 한참 대화했어.",
+      "focus": "had a long conversation with"
+     },
+     {
+      "en": "Sorry, I couldn't follow your conversation. You two talk so fast!",
+      "ko": "미안, 너희 대화를 못 따라가겠어. 둘 다 너무 빨리 말해!",
+      "focus": "follow your conversation"
+     }
+    ],
+    "collocations": ["have a conversation", "a conversation about"]
+   }
+  ],
+  "wordFamily": [
+   { "form": "converse", "pos": "v", "ko": "대화하다" }
+  ],
+  "confusables": [
+   { "word": "conservation", "note": "conversation은 사람끼리 하는 대화, conservation은 자연·자원을 지키는 보존이다. 철자 순서만 다르니 주의한다." }
+  ]
+ },
+ {
+  "id": "magazine",
+  "headword": "magazine",
+  "ipa": "/ˈmæɡəziːn/",
+  "level": "ELEM",
+  "isCore": false,
+  "topic": "culture_arts",
+  "forms": ["magazines"],
+  "senses": [
+   {
+    "id": "magazine-1",
+    "pos": "n",
+    "ko": "잡지",
+    "en": "a thin book with photos and stories, sold every week or month",
+    "nuance": "'잡지에서 봤다'는 in a magazine으로, on을 쓰지 않는다. 학술지는 magazine이 아니라 journal이다.",
+    "pattern": "read / in a magazine",
+    "examples": [
+     {
+      "en": "I read about that cafe in a travel magazine last month.",
+      "ko": "그 카페 얘기 지난달 여행 잡지에서 봤어.",
+      "focus": "in a travel magazine"
+     },
+     {
+      "en": "Emma buys the same fashion magazine every single month.",
+      "ko": "엠마는 매달 같은 패션 잡지를 사.",
+      "focus": "the same fashion magazine"
+     }
+    ],
+    "collocations": ["read a magazine", "a fashion magazine"]
+   }
+  ],
+  "confusables": [
+   { "word": "journal", "note": "magazine은 사진 많은 대중 잡지, journal은 연구자들이 읽는 학술지나 개인 일지다." }
+  ]
+ },
+ {
+  "id": "survey",
+  "headword": "survey",
+  "ipa": "/ˈsɜːrveɪ/",
+  "level": "ELEM",
+  "isCore": false,
+  "topic": "thinking_opinion",
+  "forms": ["surveys"],
+  "senses": [
+   {
+    "id": "survey-1",
+    "pos": "n",
+    "ko": "설문 조사",
+    "en": "a set of questions asked to many people to learn what they think",
+    "nuance": "'설문을 하다'는 do 또는 conduct a survey, '설문에 응하다'는 take part in a survey다. 명사일 때 강세가 앞(SUR-vey)에 온다.",
+    "pattern": "do / take part in a survey",
+    "examples": [
+     {
+      "en": "Our team is doing a short survey about lunch habits.",
+      "ko": "우리 팀은 점심 습관에 대한 짧은 설문을 하고 있어.",
+      "focus": "doing a short survey"
+     },
+     {
+      "en": "Could you fill out this survey? It only takes two minutes.",
+      "ko": "이 설문 좀 작성해 주시겠어요? 2분밖에 안 걸려요.",
+      "focus": "fill out this survey"
+     }
+    ],
+    "collocations": ["do a survey", "fill out a survey"]
+   }
+  ],
+  "confusables": [
+   { "word": "research", "note": "survey는 사람들에게 질문해 답을 모으는 조사, research는 실험·자료까지 포함한 넓은 연구다." }
+  ]
+ },
+ {
+  "id": "famous",
+  "headword": "famous",
+  "ipa": "/ˈfeɪməs/",
+  "level": "ELEM",
+  "isCore": false,
+  "topic": "description_quality",
+  "forms": [],
+  "senses": [
+   {
+    "id": "famous-1",
+    "pos": "adj",
+    "ko": "유명한",
+    "en": "known by very many people",
+    "nuance": "'~로 유명하다'는 famous for + 이유, '~로서 유명하다'는 famous as + 역할이다. 한국어 '유명하다'에 이끌려 famous about이라고 하면 틀린다.",
+    "pattern": "be famous for + 명사",
+    "examples": [
+     {
+      "en": "Busan is famous for its fresh fish and beautiful beaches.",
+      "ko": "부산은 신선한 생선이랑 예쁜 해변으로 유명해.",
+      "focus": "famous for its fresh fish"
+     },
+     {
+      "en": "Tom became famous after his cooking video went viral.",
+      "ko": "톰은 요리 영상이 화제가 된 뒤로 유명해졌어.",
+      "focus": "became famous after"
+     }
+    ],
+    "collocations": ["famous for", "a famous singer"]
+   }
+  ],
+  "wordFamily": [
+   { "form": "fame", "pos": "n", "ko": "명성" }
+  ],
+  "confusables": [
+   { "word": "popular", "note": "famous는 많은 사람이 이름을 안다는 뜻, popular는 사람들이 좋아한다는 뜻이다." }
+  ]
+ },
+ {
+  "id": "blood",
+  "headword": "blood",
+  "ipa": "/blʌd/",
+  "level": "ELEM",
+  "isCore": false,
+  "topic": "body_health",
+  "forms": ["bloods"],
+  "senses": [
+   {
+    "id": "blood-1",
+    "pos": "n",
+    "ko": "피, 혈액",
+    "en": "the red liquid that moves inside your body",
+    "nuance": "셀 수 없는 명사라서 a blood나 bloods로 쓰지 않는다. '혈액형'은 blood type, '헌혈하다'는 give blood다.",
+    "pattern": "blood type / give blood",
+    "examples": [
+     {
+      "en": "What's your blood type? Mine is O.",
+      "ko": "너 혈액형 뭐야? 나는 O형이야.",
+      "focus": "your blood type"
+     },
+     {
+      "en": "Jun gives blood twice a year at the center near work.",
+      "ko": "준은 회사 근처 센터에서 1년에 두 번 헌혈해.",
+      "focus": "gives blood twice a year"
+     }
+    ],
+    "collocations": ["blood type", "give blood"]
+   }
+  ],
+  "confusables": [
+   { "word": "bleed", "note": "blood는 '피'라는 명사, bleed는 '피가 나다'라는 동사다. 과거형은 bleeded가 아니라 bled다." }
+  ]
+ },
+ {
+  "id": "writer",
+  "headword": "writer",
+  "ipa": "/ˈraɪtər/",
+  "level": "ELEM",
+  "isCore": false,
+  "topic": "work_business",
+  "forms": ["writers"],
+  "senses": [
+   {
+    "id": "writer-1",
+    "pos": "n",
+    "ko": "작가, 필자",
+    "en": "a person whose job is making books, articles, or scripts",
+    "nuance": "방송 대본을 쓰는 사람도 writer지만, 한국어 '작가님'처럼 부르는 호칭으로는 쓰지 않는다. 이름을 붙여 Writer Kim이라고 하지 않는다.",
+    "pattern": "a writer of / for + 명사",
+    "examples": [
+     {
+      "en": "My sister is a writer for a small travel website.",
+      "ko": "우리 누나는 작은 여행 웹사이트 필자야.",
+      "focus": "a writer for"
+     },
+     {
+      "en": "Who's your favorite writer? Mine changes every year.",
+      "ko": "제일 좋아하는 작가가 누구야? 난 해마다 바뀌어.",
+      "focus": "your favorite writer"
+     }
+    ],
+    "collocations": ["a favorite writer", "a writer for"]
+   }
+  ],
+  "wordFamily": [
+   { "form": "write", "pos": "v", "ko": "쓰다" }
+  ],
+  "confusables": [
+   { "word": "author", "note": "writer는 글 쓰는 사람 전반, author는 특정 책을 쓴 저자를 가리킬 때 더 자주 쓴다." }
+  ]
+ },
+ {
+  "id": "safe",
+  "headword": "safe",
+  "ipa": "/seɪf/",
+  "level": "ELEM",
+  "isCore": false,
+  "topic": "description_quality",
+  "forms": ["safer", "safest"],
+  "senses": [
+   {
+    "id": "safe-1",
+    "pos": "adj",
+    "ko": "안전한",
+    "en": "not in danger, or not likely to cause harm",
+    "nuance": "'안전하게 도착했다'는 arrived safe 대신 got home safe나 arrived safely를 쓴다. '안전 운전'처럼 명사 앞에 붙는 '안전'은 safe가 아니라 safety를 쓴다.",
+    "pattern": "be safe (from + 위험)",
+    "examples": [
+     {
+      "en": "Is this area safe to walk around at night?",
+      "ko": "이 동네 밤에 돌아다녀도 안전해?",
+      "focus": "safe to walk around"
+     },
+     {
+      "en": "Text me when you get home safe, okay?",
+      "ko": "집에 무사히 도착하면 문자해, 알겠지?",
+      "focus": "get home safe"
+     }
+    ],
+    "collocations": ["a safe place", "keep something safe"]
+   }
+  ],
+  "wordFamily": [
+   { "form": "safety", "pos": "n", "ko": "안전" }
+  ],
+  "confusables": [
+   { "word": "dangerous", "note": "safe의 반대말이 dangerous다. '위험하지 않다'를 not dangerous 대신 safe로 간단히 말할 수 있다." }
+  ]
+ },
+ {
+  "id": "invite",
+  "headword": "invite",
+  "ipa": "/ɪnˈvaɪt/",
+  "level": "ELEM",
+  "isCore": false,
+  "topic": "people_family",
+  "forms": ["invited", "invites", "inviting"],
+  "senses": [
+   {
+    "id": "invite-1",
+    "pos": "v",
+    "ko": "초대하다",
+    "en": "to ask someone to come to an event or to your home",
+    "nuance": "'파티에 초대하다'는 invite + 사람 + to + 장소·행사 순서다. 사람을 빼고 invite to my party라고 하면 안 된다.",
+    "pattern": "invite + 사람 + to + 행사",
+    "examples": [
+     {
+      "en": "Mina invited us to her housewarming party on Saturday.",
+      "ko": "미나가 토요일 집들이에 우리를 초대했어.",
+      "focus": "invited us to her housewarming party"
+     },
+     {
+      "en": "Should we invite Tom, or is the table already full?",
+      "ko": "톰도 초대할까, 아니면 자리가 벌써 꽉 찼어?",
+      "focus": "invite Tom"
+     }
+    ],
+    "collocations": ["invite someone to dinner", "invite a friend over"]
+   }
+  ],
+  "wordFamily": [
+   { "form": "invitation", "pos": "n", "ko": "초대, 초대장" }
+  ]
+ },
+ {
+  "id": "glass",
+  "headword": "glass",
+  "ipa": "/ɡlæs/",
+  "level": "ELEM",
+  "isCore": false,
+  "topic": "home_daily",
+  "forms": ["glasses"],
+  "senses": [
+   {
+    "id": "glass-1",
+    "pos": "n",
+    "ko": "유리잔, 유리",
+    "en": "a cup with no handle, or the hard clear material it is made of",
+    "nuance": "재료를 뜻할 때는 셀 수 없어서 a glass라고 하지 않는다. 물잔 하나는 a glass of water처럼 센다.",
+    "pattern": "a glass of + 음료",
+    "examples": [
+     {
+      "en": "Can I get a glass of cold water, please?",
+      "ko": "찬물 한 잔 주시겠어요?",
+      "focus": "a glass of cold water"
+     },
+     {
+      "en": "Careful, that glass is really thin and breaks easily.",
+      "ko": "조심해, 그 유리잔 진짜 얇아서 잘 깨져.",
+      "focus": "that glass is really thin"
+     }
+    ],
+    "collocations": ["a glass of water", "break a glass"]
+   },
+   {
+    "id": "glass-2",
+    "pos": "n",
+    "ko": "안경",
+    "en": "two round lenses in a frame that help you see better",
+    "nuance": "안경은 항상 복수형 glasses로, a glasses나 a glass라고 하지 않는다. 한 개를 세려면 a pair of glasses다.",
+    "pattern": "wear / a pair of glasses",
+    "examples": [
+     {
+      "en": "I can't read the menu without my glasses.",
+      "ko": "안경 없으면 메뉴를 못 읽겠어.",
+      "focus": "without my glasses"
+     },
+     {
+      "en": "Jun bought a new pair of glasses for reading.",
+      "ko": "준은 독서용 안경을 새로 하나 샀어.",
+      "focus": "a new pair of glasses"
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "id": "radio",
+  "headword": "radio",
+  "ipa": "/ˈreɪdioʊ/",
+  "level": "ELEM",
+  "isCore": false,
+  "topic": "culture_arts",
+  "forms": ["radios"],
+  "senses": [
+   {
+    "id": "radio-1",
+    "pos": "n",
+    "ko": "라디오",
+    "en": "a machine that plays music and news sent through the air",
+    "nuance": "'라디오에서 들었다'는 on the radio다. in이나 at을 쓰지 않고, 방송 매체 앞에는 대개 the를 붙인다.",
+    "pattern": "on the radio",
+    "examples": [
+     {
+      "en": "I heard that song on the radio this morning.",
+      "ko": "오늘 아침에 라디오에서 그 노래 들었어.",
+      "focus": "on the radio"
+     },
+     {
+      "en": "Could you turn the radio down a little? I'm on a call.",
+      "ko": "라디오 소리 좀 줄여 줄래? 나 통화 중이야.",
+      "focus": "turn the radio down"
+     }
+    ],
+    "collocations": ["on the radio", "turn the radio down"]
+   }
+  ]
+ },
+ {
+  "id": "heavy",
+  "headword": "heavy",
+  "ipa": "/ˈhevi/",
+  "level": "ELEM",
+  "isCore": false,
+  "topic": "description_quality",
+  "forms": ["heavier", "heaviest"],
+  "senses": [
+   {
+    "id": "heavy-1",
+    "pos": "adj",
+    "ko": "무거운",
+    "en": "hard to lift or move because it weighs a lot",
+    "nuance": "비교급은 more heavy가 아니라 heavier다. '무게가 얼마냐'는 How heavy is it?이라고 묻는다.",
+    "pattern": "be heavy / too heavy to + 동사",
+    "examples": [
+     {
+      "en": "This box is too heavy for me. Can you help?",
+      "ko": "이 상자 나한테 너무 무거워. 좀 도와줄래?",
+      "focus": "too heavy for me"
+     },
+     {
+      "en": "My bag got heavier after I packed the water bottles.",
+      "ko": "물병 넣고 나니까 가방이 더 무거워졌어.",
+      "focus": "got heavier"
+     }
+    ],
+    "collocations": ["a heavy bag", "too heavy to lift"]
+   },
+   {
+    "id": "heavy-2",
+    "pos": "adj",
+    "ko": "심한, 많은",
+    "en": "much more than usual in amount or force",
+    "nuance": "비·눈·교통량에는 much가 아니라 heavy를 쓴다. heavy rain, heavy traffic이 자연스럽고 many rain은 틀린다.",
+    "pattern": "heavy rain / heavy traffic",
+    "examples": [
+     {
+      "en": "We were late because of heavy traffic near the bridge.",
+      "ko": "다리 근처 교통 체증 때문에 늦었어.",
+      "focus": "heavy traffic"
+     },
+     {
+      "en": "Heavy rain is coming tonight, so take an umbrella.",
+      "ko": "오늘 밤 비가 많이 온대, 우산 챙겨.",
+      "focus": "Heavy rain"
+     }
+    ]
+   }
+  ],
+  "confusables": [
+   { "word": "light", "note": "무게의 반대말은 light다. heavy rain의 반대는 light rain으로 '가랑비'가 된다." }
+  ]
+ },
+ {
+  "id": "expensive",
+  "headword": "expensive",
+  "ipa": "/ɪkˈspensɪv/",
+  "level": "ELEM",
+  "isCore": false,
+  "topic": "money_shopping",
+  "forms": [],
+  "senses": [
+   {
+    "id": "expensive-1",
+    "pos": "adj",
+    "ko": "비싼",
+    "en": "costing a lot of money",
+    "nuance": "'가격이 비싸다'를 The price is expensive라고 하면 어색하다. 값은 high, 물건이 expensive다.",
+    "pattern": "be expensive / an expensive + 명사",
+    "examples": [
+     {
+      "en": "That bag looks nice, but it's way too expensive.",
+      "ko": "그 가방 예쁘긴 한데 너무 비싸.",
+      "focus": "too expensive"
+     },
+     {
+      "en": "Eating out every day gets expensive really fast.",
+      "ko": "매일 외식하면 금방 돈이 많이 들어.",
+      "focus": "gets expensive"
+     }
+    ],
+    "collocations": ["too expensive", "an expensive restaurant"]
+   }
+  ],
+  "wordFamily": [
+   { "form": "expense", "pos": "n", "ko": "비용, 지출" }
+  ],
+  "confusables": [
+   { "word": "cheap", "note": "expensive의 반대는 cheap이지만, cheap은 '싸구려'라는 느낌도 있어 칭찬이면 inexpensive가 안전하다." }
+  ]
+ },
+ {
+  "id": "video",
+  "headword": "video",
+  "ipa": "/ˈvɪdioʊ/",
+  "level": "ELEM",
+  "isCore": false,
+  "topic": "culture_arts",
+  "forms": ["videos"],
+  "senses": [
+   {
+    "id": "video-1",
+    "pos": "n",
+    "ko": "영상, 동영상",
+    "en": "moving pictures with sound that you watch on a screen",
+    "nuance": "'영상을 찍다'는 take가 아니라 make 또는 shoot a video다. '영상 통화'는 video call이다.",
+    "pattern": "watch / make a video",
+    "examples": [
+     {
+      "en": "Emma sent me a funny video of her cat.",
+      "ko": "엠마가 자기 고양이 웃긴 영상을 보내 줬어.",
+      "focus": "a funny video"
+     },
+     {
+      "en": "Let's do a video call tonight instead of texting.",
+      "ko": "오늘 밤엔 문자 말고 영상 통화하자.",
+      "focus": "a video call"
+     }
+    ],
+    "collocations": ["watch a video", "a video call"]
+   }
+  ]
+ },
+ {
+  "id": "weather",
+  "headword": "weather",
+  "ipa": "/ˈweðər/",
+  "level": "ELEM",
+  "isCore": false,
+  "topic": "nature_animals",
+  "forms": ["weathers"],
+  "senses": [
+   {
+    "id": "weather-1",
+    "pos": "n",
+    "ko": "날씨",
+    "en": "how hot, cold, wet, or windy it is outside",
+    "nuance": "셀 수 없는 명사라 a weather라고 하지 않고, '날씨 좋다'는 The weather is nice나 Nice weather다. '날씨가 어때?'는 How's the weather?다.",
+    "pattern": "the weather is + 형용사",
+    "examples": [
+     {
+      "en": "How's the weather in Seoul today? Do I need a coat?",
+      "ko": "오늘 서울 날씨 어때? 코트 필요해?",
+      "focus": "How's the weather"
+     },
+     {
+      "en": "We had terrible weather all weekend, so we stayed inside.",
+      "ko": "주말 내내 날씨가 최악이라 그냥 집에 있었어.",
+      "focus": "terrible weather"
+     }
+    ],
+    "collocations": ["good weather", "the weather forecast"]
+   }
+  ],
+  "confusables": [
+   { "word": "climate", "note": "weather는 오늘내일의 날씨, climate는 한 지역의 오랜 기후를 말한다." }
+  ]
+ },
+ {
+  "id": "collect",
+  "headword": "collect",
+  "ipa": "/kəˈlekt/",
+  "level": "ELEM",
+  "isCore": false,
+  "topic": "sports_leisure",
+  "forms": ["collected", "collecting", "collects"],
+  "senses": [
+   {
+    "id": "collect-1",
+    "pos": "v",
+    "ko": "모으다, 수집하다",
+    "en": "to bring things together, often as a hobby or for a purpose",
+    "nuance": "취미로 하나씩 모으는 것이 collect다. 흩어진 것을 한곳에 모으는 것은 gather가 더 자연스럽다.",
+    "pattern": "collect + 명사",
+    "examples": [
+     {
+      "en": "Jun has been collecting old coins since middle school.",
+      "ko": "준은 중학교 때부터 옛날 동전을 모아 왔어.",
+      "focus": "collecting old coins"
+     },
+     {
+      "en": "We collected about 200,000 won for the class trip.",
+      "ko": "우리는 학급 여행비로 20만 원 정도 모았어.",
+      "focus": "collected about 200,000 won"
+     }
+    ],
+    "collocations": ["collect stamps", "collect money"]
+   }
+  ],
+  "wordFamily": [
+   { "form": "collection", "pos": "n", "ko": "수집품, 모음" }
+  ],
+  "confusables": [
+   { "word": "correct", "note": "collect는 '모으다', correct는 '맞은' 또는 '고치다'다. 발음 첫음절이 비슷해 자주 헷갈린다." }
+  ]
+ },
+ {
+  "id": "wonderful",
+  "headword": "wonderful",
+  "ipa": "/ˈwʌndərfl/",
+  "level": "ELEM",
+  "isCore": false,
+  "topic": "emotions_personality",
+  "forms": [],
+  "senses": [
+   {
+    "id": "wonderful-1",
+    "pos": "adj",
+    "ko": "멋진, 훌륭한",
+    "en": "very good, in a way that makes you happy",
+    "nuance": "very good보다 감정이 실린 칭찬이라 감탄에 어울린다. 앞에 very를 붙이지 않고 그냥 wonderful로 쓴다.",
+    "pattern": "be / look / sound wonderful",
+    "examples": [
+     {
+      "en": "That sounds wonderful. Let's book it right now.",
+      "ko": "그거 정말 좋다. 지금 바로 예약하자.",
+      "focus": "sounds wonderful"
+     },
+     {
+      "en": "We had a wonderful time at Emma's birthday dinner.",
+      "ko": "엠마 생일 저녁에서 정말 즐거운 시간 보냈어.",
+      "focus": "a wonderful time"
+     }
+    ],
+    "collocations": ["a wonderful time", "sound wonderful"]
+   }
+  ],
+  "wordFamily": [
+   { "form": "wonder", "pos": "v", "ko": "궁금해하다" }
+  ]
+ },
+ {
+  "id": "flat",
+  "headword": "flat",
+  "ipa": "/flæt/",
+  "level": "ELEM",
+  "isCore": false,
+  "topic": "description_quality",
+  "forms": ["flats"],
+  "senses": [
+   {
+    "id": "flat-1",
+    "pos": "adj",
+    "ko": "평평한",
+    "en": "having a level surface, with no hills or bumps",
+    "nuance": "타이어가 펑크 난 것도 a flat tire라고 한다. 탄산이 빠진 음료도 flat이다.",
+    "pattern": "be flat / a flat + 명사",
+    "examples": [
+     {
+      "en": "Put the map on a flat table so we can see it.",
+      "ko": "지도를 평평한 탁자에 놓자, 그래야 잘 보이지.",
+      "focus": "a flat table"
+     },
+     {
+      "en": "We stopped on the highway because of a flat tire.",
+      "ko": "타이어가 펑크 나서 고속도로에서 멈췄어.",
+      "focus": "a flat tire"
+     }
+    ],
+    "collocations": ["a flat surface", "a flat tire"]
+   },
+   {
+    "id": "flat-2",
+    "pos": "n",
+    "ko": "아파트",
+    "en": "a set of rooms on one floor where someone lives",
+    "nuance": "영국식 표현이다. 미국에서는 같은 뜻으로 apartment를 쓴다.",
+    "pattern": "rent / live in a flat",
+    "examples": [
+     {
+      "en": "Tom rents a small flat near the station in London.",
+      "ko": "톰은 런던 역 근처에 작은 아파트를 세 들어 살아.",
+      "focus": "rents a small flat"
+     }
+    ]
+   }
+  ],
+  "confusables": [
+   { "word": "apartment", "note": "같은 집을 영국에서는 flat, 미국에서는 apartment라고 한다. 뜻 차이가 아니라 지역 차이다." }
+  ]
+ },
+ {
+  "id": "farm",
+  "headword": "farm",
+  "ipa": "/fɑːrm/",
+  "level": "ELEM",
+  "isCore": false,
+  "topic": "nature_animals",
+  "forms": ["farms"],
+  "senses": [
+   {
+    "id": "farm-1",
+    "pos": "n",
+    "ko": "농장",
+    "en": "land where someone grows crops or keeps animals",
+    "nuance": "'농장에서'는 on a farm이다. in a farm이라고 하면 어색하니 on으로 외운다.",
+    "pattern": "on a farm",
+    "examples": [
+     {
+      "en": "My grandparents grew rice on a small farm.",
+      "ko": "우리 조부모님은 작은 농장에서 쌀농사를 지으셨어.",
+      "focus": "on a small farm"
+     },
+     {
+      "en": "The kids fed the goats when we visited the farm.",
+      "ko": "농장에 갔을 때 애들이 염소한테 먹이를 줬어.",
+      "focus": "visited the farm"
+     }
+    ],
+    "collocations": ["work on a farm", "a dairy farm"]
+   }
+  ],
+  "wordFamily": [
+   { "form": "farmer", "pos": "n", "ko": "농부" }
+  ]
+ },
+ {
+  "id": "collection",
+  "headword": "collection",
+  "ipa": "/kəˈlekʃn/",
+  "level": "ELEM",
+  "isCore": false,
+  "topic": "sports_leisure",
+  "forms": ["collections"],
+  "senses": [
+   {
+    "id": "collection-1",
+    "pos": "n",
+    "ko": "수집품, 모음",
+    "en": "a group of similar things kept together by one person or place",
+    "nuance": "셀 수 있는 명사라서 a collection of + 복수명사 형태로 쓴다. 옷 브랜드의 신상 라인도 the spring collection이라고 한다.",
+    "pattern": "a collection of + 복수명사",
+    "examples": [
+     {
+      "en": "Mina showed me her huge collection of concert tickets.",
+      "ko": "미나가 어마어마한 콘서트 티켓 수집품을 보여 줬어.",
+      "focus": "collection of concert tickets"
+     },
+     {
+      "en": "The museum has a great collection of old maps.",
+      "ko": "그 박물관은 옛 지도 소장품이 아주 훌륭해.",
+      "focus": "a great collection of old maps"
+     }
+    ],
+    "collocations": ["a collection of books", "a private collection"]
+   }
+  ],
+  "wordFamily": [
+   { "form": "collect", "pos": "v", "ko": "모으다" }
+  ]
+ },
+ {
+  "id": "band",
+  "headword": "band",
+  "ipa": "/bænd/",
+  "level": "ELEM",
+  "isCore": false,
+  "topic": "culture_arts",
+  "forms": ["bands"],
+  "senses": [
+   {
+    "id": "band-1",
+    "pos": "n",
+    "ko": "밴드, 악단",
+    "en": "a small group of people who play music together",
+    "nuance": "'밴드를 하다'는 do가 아니라 be in a band 또는 play in a band다. 한국어 '밴드'와 달리 반창고 뜻은 없다.",
+    "pattern": "be in a band",
+    "examples": [
+     {
+      "en": "Tom plays drums in a band with his college friends.",
+      "ko": "톰은 대학 친구들이랑 밴드에서 드럼을 쳐.",
+      "focus": "in a band"
+     },
+     {
+      "en": "Which band are you seeing at the festival this year?",
+      "ko": "올해 축제에서 어떤 밴드 볼 거야?",
+      "focus": "Which band"
+     }
+    ],
+    "collocations": ["be in a band", "a rock band"]
+   }
+  ]
+ },
+ {
+  "id": "tour",
+  "headword": "tour",
+  "ipa": "/tʊr/",
+  "level": "ELEM",
+  "isCore": false,
+  "topic": "travel_transport",
+  "forms": ["toured", "touring", "tours"],
+  "senses": [
+   {
+    "id": "tour-1",
+    "pos": "n",
+    "ko": "관광, 견학",
+    "en": "a short trip around a place to see or learn about it",
+    "nuance": "'투어를 하다'는 do 또는 take a tour다. 짧게 구경하는 일정이라 여행 전체를 뜻하는 trip과 다르다.",
+    "pattern": "take / go on a tour",
+    "examples": [
+     {
+      "en": "We took a walking tour of the old part of Busan.",
+      "ko": "우리는 부산 구도심을 걸어서 도는 투어를 했어.",
+      "focus": "took a walking tour"
+     },
+     {
+      "en": "The guide gave us a quick tour of the factory.",
+      "ko": "가이드가 공장을 빠르게 한 바퀴 구경시켜 줬어.",
+      "focus": "a quick tour of the factory"
+     }
+    ],
+    "collocations": ["take a tour", "a guided tour"]
+   }
+  ],
+  "confusables": [
+   { "word": "trip", "note": "tour는 여러 곳을 둘러보는 일정, trip은 갔다 오는 여행 자체를 가리킨다." }
+  ]
+ },
+ {
+  "id": "pair",
+  "headword": "pair",
+  "ipa": "/per/",
+  "level": "ELEM",
+  "isCore": false,
+  "topic": "time_quantity",
+  "forms": ["pairs"],
+  "senses": [
+   {
+    "id": "pair-1",
+    "pos": "n",
+    "ko": "한 쌍, 한 켤레",
+    "en": "two things of the same kind used together",
+    "nuance": "신발·바지·가위처럼 두 부분이 붙은 물건은 a pair of shoes, two pairs of pants로 센다. a pants라고 하지 않는다.",
+    "pattern": "a pair of + 복수명사",
+    "examples": [
+     {
+      "en": "I need a new pair of running shoes before the race.",
+      "ko": "경기 전에 러닝화 한 켤레 새로 사야 해.",
+      "focus": "a new pair of running shoes"
+     },
+     {
+      "en": "She packed three pairs of socks for the weekend trip.",
+      "ko": "그 애는 주말 여행에 양말 세 켤레를 챙겼어.",
+      "focus": "three pairs of socks"
+     }
+    ],
+    "collocations": ["a pair of shoes", "a pair of glasses"]
+   }
+  ],
+  "confusables": [
+   { "word": "couple", "note": "pair는 짝을 이루는 두 개, a couple of는 '두어 개' 정도로 수가 정확하지 않아도 쓴다." }
+  ]
+ },
+ {
+  "id": "cheap",
+  "headword": "cheap",
+  "ipa": "/tʃiːp/",
+  "level": "ELEM",
+  "isCore": false,
+  "topic": "money_shopping",
+  "forms": ["cheaper", "cheapest"],
+  "senses": [
+   {
+    "id": "cheap-1",
+    "pos": "adj",
+    "ko": "싼, 저렴한",
+    "en": "not costing much money",
+    "nuance": "'품질이 싸구려'라는 부정적 느낌도 있어서, 칭찬하려면 cheap보다 affordable이 안전하다. 가격 자체는 low price라고 한다.",
+    "pattern": "be cheap / cheaper than",
+    "examples": [
+     {
+      "en": "The bus is much cheaper than the train to Busan.",
+      "ko": "부산까지는 버스가 기차보다 훨씬 싸.",
+      "focus": "much cheaper than"
+     },
+     {
+      "en": "I found a cheap flight, but it leaves at five.",
+      "ko": "싼 항공권 찾았는데 5시 출발이야.",
+      "focus": "a cheap flight"
+     }
+    ],
+    "collocations": ["a cheap ticket", "cheaper than"]
+   }
+  ],
+  "confusables": [
+   { "word": "expensive", "note": "cheap의 반대는 expensive다. cheap은 '값이 싸다'와 '질이 떨어진다'를 둘 다 뜻할 수 있다." }
+  ]
+ },
+ {
+  "id": "double",
+  "headword": "double",
+  "ipa": "/ˈdʌbl/",
+  "level": "ELEM",
+  "isCore": false,
+  "topic": "time_quantity",
+  "forms": ["doubled", "doubles", "doubling"],
+  "senses": [
+   {
+    "id": "double-1",
+    "pos": "adj",
+    "ko": "두 배의, 2인용의",
+    "en": "twice as much, or made for two people",
+    "nuance": "호텔에서 2인실은 a double room이다. '두 배로'라고 할 때는 double이 부사처럼 쓰여 pay double이라고도 한다.",
+    "pattern": "a double + 명사",
+    "examples": [
+     {
+      "en": "We booked a double room with a view of the sea.",
+      "ko": "우리는 바다가 보이는 2인실을 예약했어.",
+      "focus": "a double room"
+     },
+     {
+      "en": "Weekend rates are double the weekday price here.",
+      "ko": "여기 주말 요금은 평일 가격의 두 배야.",
+      "focus": "double the weekday price"
+     }
+    ],
+    "collocations": ["a double room", "double the price"]
+   },
+   {
+    "id": "double-2",
+    "pos": "v",
+    "ko": "두 배가 되다",
+    "en": "to become twice as big, or to make something twice as big",
+    "nuance": "목적어 없이 스스로 두 배가 되는 뜻으로도 쓴다. 과거형은 doubled로 규칙 변화다.",
+    "pattern": "double + (명사)",
+    "examples": [
+     {
+      "en": "Our rent doubled after we moved closer to the office.",
+      "ko": "사무실 가까이 이사하고 나서 월세가 두 배가 됐어.",
+      "focus": "rent doubled"
+     },
+     {
+      "en": "If you double the recipe, use a bigger pot.",
+      "ko": "레시피를 두 배로 하려면 더 큰 냄비를 써.",
+      "focus": "double the recipe"
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "id": "sentence",
+  "headword": "sentence",
+  "ipa": "/ˈsentəns/",
+  "level": "ELEM",
+  "isCore": false,
+  "topic": "communication",
+  "forms": ["sentenced", "sentences", "sentencing"],
+  "senses": [
+   {
+    "id": "sentence-1",
+    "pos": "n",
+    "ko": "문장",
+    "en": "a group of words that makes a complete thought",
+    "nuance": "'문장을 만들다'는 make a sentence, '문장으로 말하다'는 in a sentence다. 한 단어 뭉치는 sentence가 아니라 phrase다.",
+    "pattern": "make / write a sentence",
+    "examples": [
+     {
+      "en": "Can you say that in one short sentence?",
+      "ko": "그걸 짧은 문장 하나로 말해 줄래?",
+      "focus": "in one short sentence"
+     },
+     {
+      "en": "Our teacher asked us to write five sentences about summer.",
+      "ko": "선생님이 여름에 대해 문장 다섯 개를 쓰라고 하셨어.",
+      "focus": "write five sentences"
+     }
+    ],
+    "collocations": ["write a sentence", "a complete sentence"]
+   }
+  ],
+  "confusables": [
+   { "word": "phrase", "note": "sentence는 주어와 동사를 갖춘 완전한 문장, phrase는 그보다 짧은 단어 묶음이다." }
+  ]
+ },
+ {
+  "id": "print",
+  "headword": "print",
+  "ipa": "/prɪnt/",
+  "level": "ELEM",
+  "isCore": false,
+  "topic": "work_business",
+  "forms": ["printed", "printing", "printings", "prints"],
+  "senses": [
+   {
+    "id": "print-1",
+    "pos": "v",
+    "ko": "인쇄하다, 출력하다",
+    "en": "to put words or images onto paper with a machine",
+    "nuance": "'출력해 줘'는 print it out이 가장 자연스럽다. 복사는 print가 아니라 copy다.",
+    "pattern": "print + 명사 (+ out)",
+    "examples": [
+     {
+      "en": "Could you print the report before the two o'clock meeting?",
+      "ko": "2시 회의 전에 보고서 좀 출력해 주실래요?",
+      "focus": "print the report"
+     },
+     {
+      "en": "I printed my ticket at home to save time.",
+      "ko": "시간 아끼려고 집에서 표를 출력했어.",
+      "focus": "printed my ticket"
+     }
+    ],
+    "collocations": ["print a document", "print it out"]
+   }
+  ],
+  "wordFamily": [
+   { "form": "printer", "pos": "n", "ko": "프린터" }
+  ]
+ },
+ {
+  "id": "speed",
+  "headword": "speed",
+  "ipa": "/spiːd/",
+  "level": "ELEM",
+  "isCore": false,
+  "topic": "movement_action",
+  "forms": ["speeded", "speeding", "speeds", "sped"],
+  "senses": [
+   {
+    "id": "speed-1",
+    "pos": "n",
+    "ko": "속도",
+    "en": "how fast something moves or is done",
+    "nuance": "'속도가 빠르다'는 The speed is fast보다 It's fast가 자연스럽다. speed는 high/low로 꾸민다.",
+    "pattern": "at (a) high speed / the speed of",
+    "examples": [
+     {
+      "en": "The train travels at a very high speed between cities.",
+      "ko": "그 기차는 도시 사이를 아주 빠른 속도로 달려.",
+      "focus": "at a very high speed"
+     },
+     {
+      "en": "My internet speed dropped again during the video call.",
+      "ko": "영상 통화 중에 인터넷 속도가 또 떨어졌어.",
+      "focus": "internet speed dropped"
+     }
+    ],
+    "collocations": ["at high speed", "internet speed"]
+   }
+  ],
+  "confusables": [
+   { "word": "fast", "note": "speed는 '속도'라는 명사, fast는 '빠른'이라는 형용사다. The speed is fast 대신 It's fast라고 한다." }
+  ]
+ },
+ {
+  "id": "dinner",
+  "headword": "dinner",
+  "ipa": "/ˈdɪnər/",
+  "level": "ELEM",
+  "isCore": false,
+  "topic": "food_cooking",
+  "forms": ["dinners"],
+  "senses": [
+   {
+    "id": "dinner-1",
+    "pos": "n",
+    "ko": "저녁 식사",
+    "en": "the main meal of the day, usually eaten in the evening",
+    "nuance": "관사 없이 have dinner라고 쓴다. '저녁 먹으러 나가다'는 go out for dinner다.",
+    "pattern": "have / cook dinner",
+    "examples": [
+     {
+      "en": "What time do you usually have dinner on weekdays?",
+      "ko": "평일엔 보통 몇 시에 저녁 먹어?",
+      "focus": "have dinner"
+     },
+     {
+      "en": "Jun is cooking dinner tonight, so don't eat anything.",
+      "ko": "오늘 저녁은 준이 하니까 아무것도 먹지 마.",
+      "focus": "cooking dinner"
+     }
+    ],
+    "collocations": ["have dinner", "cook dinner"]
+   }
+  ],
+  "confusables": [
+   { "word": "lunch", "note": "dinner는 저녁, lunch는 점심이다. 둘 다 have와 함께 관사 없이 쓴다." }
+  ]
+ },
+ {
+  "id": "peace",
+  "headword": "peace",
+  "ipa": "/piːs/",
+  "level": "ELEM",
+  "isCore": false,
+  "topic": "society_politics",
+  "forms": ["peaces"],
+  "senses": [
+   {
+    "id": "peace-1",
+    "pos": "n",
+    "ko": "평화, 평온",
+    "en": "a time with no fighting, or a calm and quiet feeling",
+    "nuance": "셀 수 없는 명사라 a peace라고 하지 않는다. '조용히 좀 놔둬'는 leave me in peace처럼 쓴다.",
+    "pattern": "in peace / peace and quiet",
+    "examples": [
+     {
+      "en": "I just want to read my book in peace.",
+      "ko": "그냥 조용히 책 좀 읽고 싶어.",
+      "focus": "in peace"
+     },
+     {
+      "en": "We moved here for the peace and quiet of the countryside.",
+      "ko": "우리는 시골의 평온함 때문에 여기로 이사 왔어.",
+      "focus": "the peace and quiet"
+     }
+    ],
+    "collocations": ["in peace", "peace and quiet"]
+   }
+  ],
+  "wordFamily": [
+   { "form": "peaceful", "pos": "adj", "ko": "평화로운" }
+  ]
+ },
+ {
+  "id": "partner",
+  "headword": "partner",
+  "ipa": "/ˈpɑːrtnər/",
+  "level": "ELEM",
+  "isCore": false,
+  "topic": "people_family",
+  "forms": ["partners"],
+  "senses": [
+   {
+    "id": "partner-1",
+    "pos": "n",
+    "ko": "짝, 동반자",
+    "en": "a person you work, play, or live with as a team",
+    "nuance": "연인이나 배우자를 성별 언급 없이 가리킬 때도 쓴다. 회사 동료는 partner가 아니라 colleague다.",
+    "pattern": "a partner in / with + 명사",
+    "examples": [
+     {
+      "en": "Find a partner and practice the dialogue twice.",
+      "ko": "짝을 찾아서 대화를 두 번 연습해 보세요.",
+      "focus": "Find a partner"
+     },
+     {
+      "en": "Emma brought her partner to the office dinner.",
+      "ko": "엠마가 회식에 파트너를 데려왔어.",
+      "focus": "her partner"
+     }
+    ],
+    "collocations": ["a business partner", "find a partner"]
+   }
+  ],
+  "confusables": [
+   { "word": "colleague", "note": "partner는 함께 일을 꾸리는 동업자나 짝, colleague는 같은 회사에 다니는 동료다." }
+  ]
+ },
+ {
+  "id": "spot",
+  "headword": "spot",
+  "ipa": "/spɑːt/",
+  "level": "ELEM",
+  "isCore": false,
+  "topic": "travel_transport",
+  "forms": ["spots", "spotted", "spotting"],
+  "senses": [
+   {
+    "id": "spot-1",
+    "pos": "n",
+    "ko": "장소, 자리",
+    "en": "a particular place, often a good one for something",
+    "nuance": "place보다 좁고 구체적인 '딱 그 자리'를 가리킨다. 주차 자리는 a parking spot이다.",
+    "pattern": "a good spot for + 명사",
+    "examples": [
+     {
+      "en": "This is a great spot for watching the sunset.",
+      "ko": "여기 일몰 보기에 정말 좋은 자리야.",
+      "focus": "a great spot for"
+     },
+     {
+      "en": "I finally found a parking spot behind the building.",
+      "ko": "드디어 건물 뒤에 주차 자리를 찾았어.",
+      "focus": "a parking spot"
+     }
+    ],
+    "collocations": ["a parking spot", "a good spot"]
+   },
+   {
+    "id": "spot-2",
+    "pos": "n",
+    "ko": "얼룩, 점",
+    "en": "a small round mark on a surface or on skin",
+    "nuance": "옷에 묻은 작은 얼룩을 말한다. 넓게 번진 얼룩은 stain이 더 맞다.",
+    "pattern": "a spot on + 명사",
+    "examples": [
+     {
+      "en": "There's a coffee spot on your shirt collar.",
+      "ko": "네 셔츠 깃에 커피 얼룩 묻었어.",
+      "focus": "a coffee spot on"
+     }
+    ]
+   }
+  ]
+ }
+]

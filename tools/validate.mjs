@@ -16,6 +16,10 @@ const flag = (k) => args.includes(k);
 const schema = JSON.parse(readFileSync(CONTENT + 'schema/entry.schema.json', 'utf8'));
 const validateSchema = validator(schema, { includeErrors: true, allErrors: true, mode: 'default', allowUnusedKeywords: true, requireValidation: false, requireStringValidation: false });
 const master = loadMaster();
+const functionWords = new Set(
+  readFileSync(`${CONTENT}wordlist/seeds/functionwords.txt`, 'utf8')
+    .split(/\r?\n/).map((l) => l.trim().toLowerCase()).filter((l) => l && !l.startsWith('#')),
+);
 const byId = new Map(master.map((r) => [r.id, r]));
 const topicKeys = new Set(loadTopics().map((t) => t.key));
 const POS = new Set(schema.$defs.pos.enum);
@@ -106,7 +110,12 @@ export function validateEntries(entries, { manifest = null, globalScope = false 
     for (const c of e.confusables || []) {
       if (!hasHangul(c.note)) err(id, 'lang', `confusable note에 한글 없음: ${c.word}`);
       if (c.word.toLowerCase() === e.headword) err(id, 'confusable.self', '자기 자신을 confusable로 지정');
-      if (![...byId.values()].some((r) => r.headword === c.word.toLowerCase())) warn(id, 'confusable.unknown', `confusable "${c.word}"가 단어 목록에 없음`);
+      // confusable 은 카드에 설명만 띄우는 대조 항목이라 학습 대상일 필요가 없다.
+      // 기능어(by vs until, good vs well, just vs only)는 레벨 목록에서 일부러 제외했으므로 경고하지 않는다.
+      const target = c.word.toLowerCase();
+      if (![...byId.values()].some((r) => r.headword === target) && !functionWords.has(target)) {
+        warn(id, 'confusable.unknown', `confusable "${c.word}"가 단어 목록에도 기능어 목록에도 없음`);
+      }
     }
     for (const f of e.wordFamily || []) {
       if (!hasHangul(f.ko)) err(id, 'lang', `wordFamily ko에 한글 없음: ${f.form}`);

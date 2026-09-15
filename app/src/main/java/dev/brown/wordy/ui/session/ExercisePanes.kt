@@ -197,7 +197,7 @@ fun CollocationMatchPane(ex: Exercise.CollocationMatch, feedback: Feedback?, onS
                 }
             }
         }
-        if (feedback != null) Text(ex.pairs.joinToString("\n") { (l, r) -> l.replace(ExerciseGenerator.BLANK, r) }, style = MaterialTheme.typography.bodyLarge)
+
     }
 }
 
