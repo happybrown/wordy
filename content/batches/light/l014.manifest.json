@@ -7,21 +7,6 @@
   "count": 60,
   "entries": [
     {
-      "id": "mobile-phone",
-      "headword": "mobile phone",
-      "level": "ELEM",
-      "isCore": false,
-      "pos_hint": [
-        "n"
-      ],
-      "forms": [],
-      "cefr": "A1",
-      "freqRank": null,
-      "confusable_candidates": [
-        "mobile"
-      ]
-    },
-    {
       "id": "mommy",
       "headword": "mommy",
       "level": "ELEM",
@@ -926,6 +911,21 @@
       "cefr": "A1",
       "freqRank": null,
       "confusable_candidates": []
+    },
+    {
+      "id": "tomato",
+      "headword": "tomato",
+      "level": "ELEM",
+      "isCore": false,
+      "pos_hint": [
+        "n"
+      ],
+      "forms": [],
+      "cefr": "A1",
+      "freqRank": null,
+      "confusable_candidates": [
+        "potato"
+      ]
     },
     {
       "id": "triangle",

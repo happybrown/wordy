@@ -1,6 +1,6 @@
 #!/usr/bin/env node
 // master.tsv -> content/batches/{deep,light}/XNNN.manifest.json (+ index.json). Deterministic; safe to re-run.
-import { writeFileSync, mkdirSync } from 'node:fs';
+import { writeFileSync, mkdirSync, existsSync, readFileSync } from 'node:fs';
 import { loadMaster, CONTENT, LEVELS } from './lib/master.mjs';
 import { cleanForms } from './lib/forms.mjs';
 
@@ -31,6 +31,20 @@ function confusables(r) {
   return [...out].sort().slice(0, 6);
 }
 const manifestEntry = (r) => ({ id: r.id, headword: r.headword, level: r.level, isCore: r.isCore, pos_hint: r.pos_hint, forms: cleanForms(r.headword, r.forms, r.pos_hint), cefr: r.cefr || null, freqRank: r.freqRank, confusable_candidates: confusables(r) });
+
+// 이미 작성된 배치가 있으면 재생성이 배치 구성을 흔들어 작업 중인 내용과 어긋날 수 있다.
+// master.tsv 를 바꾼 뒤 재생성해야 할 때는 --force 를 준다.
+const written = existsSync(`${CONTENT}batches/index.json`)
+  ? JSON.parse(readFileSync(`${CONTENT}batches/index.json`, 'utf8')).batches
+      .filter((b) => existsSync(`${CONTENT}batches/${b.kind}/${b.name}.json`))
+  : [];
+if (written.length && !process.argv.includes('--force')) {
+  console.error(`이미 작성된 배치가 ${written.length}개 있습니다. 재생성하면 배치 구성이 바뀌어`);
+  console.error('작업 중인 에이전트의 manifest 와 어긋날 수 있습니다.');
+  console.error('master.tsv 를 바꾼 뒤 정말 재생성하려면 --force 를 주고, 재생성 후에는');
+  console.error('node tools/validate.mjs --batch <이름> 으로 기존 배치를 다시 검증하세요.');
+  process.exit(1);
+}
 
 const deep = rows.filter((r) => r.isCore).sort(sortKey);
 const light = rows.filter((r) => !r.isCore).sort(sortKey);

@@ -1032,8 +1032,7 @@ later	later	ELEM	0	adj|adv			A1		{"cefrj":"A1"}
 leaf	leaf	ELEM	0	n	leafed|leafing|leafs		A1	E	{"moe":"E","cefrj":"A1","nawl":true}
 lily	lily	ELEM	0	n			A1		{"cefrj":"A1"}
 living	living	ELEM	0	adj|n			A1		{"cefrj":"A1"}
-living-room	living room	ELEM	0	n			A1		{"cefrj":"A1"}
-livingroom	livingroom	ELEM	0					E	{"moe":"E"}
+living-room	living room	ELEM	0	n			A1	E	{"moe":"E","cefrj":"A1"}
 lonely	lonely	ELEM	0	adj			A1		{"cefrj":"A1"}
 math	math	ELEM	0	n	maths		A1		{"cefrj":"A1"}
 meeting	meeting	ELEM	0	n			A1		{"cefrj":"A1"}
@@ -1093,6 +1092,7 @@ temple	temple	ELEM	0	n			A1	S	{"moe":"S","cefrj":"A1"}
 textbook	textbook	ELEM	0	n	textbooks		A2	E	{"moe":"E","cefrj":"A2","nawl":true,"bsl":648}
 thanks	thanks	ELEM	0	n			A1		{"cefrj":"A1"}
 toilet	toilet	ELEM	0	n			A1	S	{"moe":"S","cefrj":"A1"}
+tomato	tomato	ELEM	0	n			A1		{"cefrj":"A1"}
 triangle	triangle	ELEM	0	n	triangles		B2	E	{"moe":"E","cefrj":"B2","nawl":true}
 umbrella	umbrella	ELEM	0	n			A1	E	{"moe":"E","cefrj":"A1"}
 vacation	vacation	ELEM	0	n	vacationed|vacationing|vacations		A1	S	{"moe":"S","cefrj":"A1","bsl":1466}

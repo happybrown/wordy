@@ -905,8 +905,7 @@
       "freqRank": null,
       "confusable_candidates": [
         "divine",
-        "living room",
-        "livingroom"
+        "living room"
       ]
     },
     {
@@ -922,22 +921,7 @@
       "freqRank": null,
       "confusable_candidates": [
         "dining room",
-        "living",
-        "livingroom"
-      ]
-    },
-    {
-      "id": "livingroom",
-      "headword": "livingroom",
-      "level": "ELEM",
-      "isCore": false,
-      "pos_hint": [],
-      "forms": [],
-      "cefr": null,
-      "freqRank": null,
-      "confusable_candidates": [
-        "living",
-        "living room"
+        "living"
       ]
     },
     {
@@ -1014,6 +998,21 @@
         "ferry",
         "hurry",
         "marry"
+      ]
+    },
+    {
+      "id": "mobile-phone",
+      "headword": "mobile phone",
+      "level": "ELEM",
+      "isCore": false,
+      "pos_hint": [
+        "n"
+      ],
+      "forms": [],
+      "cefr": "A1",
+      "freqRank": null,
+      "confusable_candidates": [
+        "mobile"
       ]
     }
   ]

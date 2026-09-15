@@ -83,6 +83,14 @@ export function cefrj() {
  * 교육부 2015 기본 어휘 목록 (pdftotext -layout). Multi-column layout: split each line on 2+ spaces.
  * Returns Map<headword, {star: 0|1|2, variants:[]}>; star 1 = 초등 800, star 2 = 진로선택/전문교과 400.
  */
+/**
+ * 교육부 고시 원문의 표기 오류를 바로잡는다.
+ * 공식 문서라도 비표준 철자가 있으면 학습자에게는 표준형을 가르쳐야 한다.
+ */
+const MOE_SPELLING_FIX = new Map([
+  ['livingroom', 'living room'],
+]);
+
 export function moe() {
   const lines = read('MOE_2015-74_appendix14_english.txt').split(/\r?\n/);
   const start = lines.findIndex((l, i) => i > 6000 && /^\s*기본 어휘 목록\s*$/.test(l));
@@ -105,7 +113,8 @@ export function moe() {
       if (!variants.length || !variants.every((v) => wordRe.test(v))) { m.__rejects = (m.__rejects || []).concat(cell); continue; }
       const head = variants[0];
       if (m.has(head)) { m.__dups = (m.__dups || []).concat(head); continue; }
-      m.set(head, { star, variants: variants.slice(1) });
+      const fixed = MOE_SPELLING_FIX.get(head) ?? head;
+      m.set(fixed, { star, variants: variants.slice(1) });
     }
   }
   return m;
