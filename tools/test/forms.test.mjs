@@ -130,3 +130,16 @@ test('추상 불가산명사의 복수를 거른다', () => {
   assert.deepEqual(cleanForms('logic', ['logics'], ['n']), []);
   assert.deepEqual(cleanForms('agriculture', ['agricultures'], ['n']), []);
 });
+
+test('단복수 동형 명사에 -s 를 붙이지 않는다', () => {
+  assert.deepEqual(cleanForms('aircraft', ['aircrafts'], ['n']), []);
+  assert.deepEqual(cleanForms('sheep', ['sheeps'], ['n']), []);
+  assert.deepEqual(cleanForms('series', ['serieses'], ['n']), []);
+});
+
+test('과거형이 원형과 같은 동사에 -ed 를 붙이지 않는다', () => {
+  // quit/cost/spread 는 과거형도 같은 형태다
+  assert.deepEqual(cleanForms('quit', ['quitted', 'quits', 'quitting'], ['v']), ['quits', 'quitting']);
+  assert.ok(!cleanForms('cost', ['costed', 'costs'], ['v']).includes('costed'));
+  assert.ok(!cleanForms('spread', ['spreaded', 'spreads'], ['v']).includes('spreaded'));
+});
