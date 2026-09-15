@@ -13,6 +13,13 @@ export function lev(a, b) {
  * 강세가 앞 음절인 동사는 겹치지 않는다(suffer, offer, answer, visit).
  */
 const DOUBLES_CONSONANT = new Set(['refer', 'prefer', 'occur', 'transfer', 'infer', 'confer', 'deter', 'incur', 'recur', 'admit', 'permit', 'commit', 'omit', 'submit', 'begin', 'forget', 'regret', 'prefer', 'control', 'patrol', 'compel', 'expel', 'rebel', 'propel']);
+/**
+ * 어간이 두 모음자 + l 로 끝나면(reveal, appeal, fail, feel) 어느 표기법에서도 자음을 겹치지 않는다.
+ * revealled, appealled 는 영국식이 아니라 그냥 오류다.
+ * 반면 travel/cancel(단모음 + l)은 영국식에서 travelled/cancelled 로 겹치는 정식 표기다.
+ */
+const doubleVowelBeforeL = (h) => /[aeiou][aeiou]l$/.test(h);
+
 const NEVER_DOUBLES = new Set(['suffer', 'offer', 'answer', 'visit', 'open', 'listen', 'happen', 'enter', 'order', 'gather', 'wander', 'cover', 'discover', 'remember', 'consider', 'deliver', 'differ', 'wonder', 'murmur', 'benefit', 'profit', 'limit', 'edit', 'exhibit', 'inhabit', 'prohibit']);
 
 /** 해당 원형에서 f 가 잘못된 자음 중복(또는 누락) 표기인지 */
@@ -23,6 +30,7 @@ function isMisspelledDouble(headword, f) {
   const doubled = new RegExp(`^${last}(ed|ing)$`).test(suffix);
   const single = /^(ed|ing)$/.test(suffix);
   if (doubled && NEVER_DOUBLES.has(headword)) return true;   // sufferred
+  if (doubled && doubleVowelBeforeL(headword)) return true;   // revealled, appealled
   if (single && DOUBLES_CONSONANT.has(headword)) return true; // refered
   return false;
 }
@@ -40,8 +48,10 @@ const NOT_A_FORM = new Set([
   'deader', 'deadest', 'falser', 'falsest', 'truer', 'truest', 'uniquer', 'uniquest',
   'perfecter', 'perfectest', 'mainer', 'mainest', 'onlier', 'onliest', 'wholer', 'wholest',
   'baddest', 'badder', 'gooder', 'goodest', 'worser', 'littler', 'littlest', 'farer', 'farest',
-  // 형용사·부사가 주 품사인데 명사 복수로 실린 것들
-  'publics', 'privates', 'generals', 'commons', 'sames', 'ables', 'reals', 'eachs',
+  // 형용사·부사가 주 품사인데 명사 복수로 실린 것들.
+  // generals(장군들), privates(병사들)처럼 실재하는 명사 복수는 넣지 않는다 —
+  // 항목이 그 명사 sense 를 쓰면 예문에 필요하다.
+  'publics', 'commons', 'sames', 'ables', 'reals', 'eachs',
 ]);
 /**
  * 불규칙 변화형. 어간이 크게 바뀌어 편집 거리·접미사 규칙으로는 잡히지 않는다.

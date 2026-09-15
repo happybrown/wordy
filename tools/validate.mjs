@@ -108,6 +108,8 @@ export function validateEntries(entries, { manifest = null, globalScope = false 
     if (e.senses.some((s) => s.phrasals?.length) && !hasVerb) err(id, 'phrasal.pos', '구동사는 동사 sense가 있을 때만');
     if (e.isCore && (collocTotal < 3 || collocTotal > 8)) err(id, 'core.collocations', `Core 연어 총 ${collocTotal}개 (3~8 필요)`);
     if (!e.isCore && collocTotal > 3) warn(id, 'light.collocations', `일반 항목 연어 ${collocTotal}개 (목표 ≤3)`);
+    // 연어가 하나도 없으면 학습자가 쓸 조합을 못 배운다. 부사 항목이 특히 빠뜨리기 쉽다.
+    if (!e.isCore && collocTotal === 0) err(id, 'light.collocations', '연어가 하나도 없음 (1~3개 필요)');
     if (bannedStarts > 1) warn(id, 'example.banned', `밋밋한 시작(This is a…/I like…/There is…) 예문 ${bannedStarts}개`);
     // --- relations
     for (const c of e.confusables || []) {

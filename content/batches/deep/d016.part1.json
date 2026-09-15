@@ -1,0 +1,1276 @@
+[
+ {
+  "id": "account",
+  "headword": "account",
+  "ipa": "/əˈkaʊnt/",
+  "level": "MID",
+  "isCore": true,
+  "topic": "money_shopping",
+  "forms": [
+   "accounted",
+   "accounting",
+   "accounts"
+  ],
+  "senses": [
+   {
+    "id": "account-1",
+    "pos": "n",
+    "ko": "계좌",
+    "en": "a place where a bank keeps your money for you",
+    "nuance": "은행에 만드는 계좌다. 한국어 '통장'을 bankbook으로 옮기면 거의 안 통하고, 돈 얘기는 대부분 account로 한다.",
+    "examples": [
+     {
+      "en": "I opened a new account at the bank yesterday.",
+      "ko": "어제 은행에서 계좌 새로 하나 만들었어.",
+      "focus": "opened a new account"
+     },
+     {
+      "en": "Can you send the money to my account tonight?",
+      "ko": "오늘 밤에 내 계좌로 돈 보내 줄 수 있어?",
+      "focus": "to my account"
+     }
+    ],
+    "collocations": [
+     "open a bank account",
+     "close an account"
+    ]
+   },
+   {
+    "id": "account-2",
+    "pos": "n",
+    "ko": "계정",
+    "en": "the name and password that let you use a website or app",
+    "nuance": "앱·사이트의 계정을 뜻한다. 한국에서 말하는 '아이디'는 계정의 사용자 이름일 뿐이라 ID만 말하면 계정 전체를 가리키지 못한다.",
+    "examples": [
+     {
+      "en": "My streaming account stopped working again this morning.",
+      "ko": "오늘 아침에 또 스트리밍 계정이 안 되더라.",
+      "focus": "streaming account stopped working"
+     },
+     {
+      "en": "You need to log in to your account first.",
+      "ko": "먼저 네 계정으로 로그인해야 해.",
+      "focus": "log in to your account"
+     }
+    ],
+    "collocations": [
+     "create an account",
+     "delete your account"
+    ]
+   },
+   {
+    "id": "account-3",
+    "pos": "n",
+    "ko": "진술, 설명",
+    "en": "a spoken or written report of something that happened",
+    "nuance": "직접 보고 겪은 일을 풀어 놓은 이야기다. '~에 따르면'은 according to를 쓰고, account는 목격자 진술처럼 내용 자체를 가리킨다.",
+    "examples": [
+     {
+      "en": "Her account of the accident matched the video exactly.",
+      "ko": "그 사람이 사고에 대해 말한 게 영상하고 딱 맞았어.",
+      "focus": "account of the accident"
+     },
+     {
+      "en": "We only have one account of what really happened.",
+      "ko": "실제로 무슨 일이 있었는지 진술이 하나뿐이야.",
+      "focus": "one account of what really happened"
+     }
+    ]
+   },
+   {
+    "id": "account-4",
+    "pos": "v",
+    "ko": "설명하다, 차지하다",
+    "en": "to explain the reason for something, or to form part of a total",
+    "nuance": "동사로 쓸 때는 거의 항상 for가 붙는다. account something처럼 목적어를 바로 붙이면 틀리고, '설명이 안 된다'는 can't account for다.",
+    "pattern": "account for + 명사",
+    "examples": [
+     {
+      "en": "Sales in Asia account for half of our profit.",
+      "ko": "아시아 매출이 우리 이익의 절반을 차지해.",
+      "focus": "account for half"
+     },
+     {
+      "en": "How do you account for the missing files?",
+      "ko": "사라진 파일은 어떻게 설명하실 건가요?",
+      "focus": "account for the missing files"
+     }
+    ],
+    "collocations": [
+     "account for",
+     "take into account"
+    ],
+    "phrasals": [
+     {
+      "phrase": "account for",
+      "ko": "설명하다, 차지하다",
+      "example": {
+       "en": "One small mistake can account for the whole delay.",
+       "ko": "작은 실수 하나가 전체 지연의 원인일 수 있어.",
+       "focus": "account for the whole delay"
+      }
+     }
+    ]
+   }
+  ],
+  "wordFamily": [
+   {
+    "form": "accountant",
+    "pos": "n",
+    "ko": "회계사"
+   },
+   {
+    "form": "accounting",
+    "pos": "n",
+    "ko": "회계"
+   }
+  ],
+  "confusables": [
+   {
+    "word": "amount",
+    "note": "amount는 '금액·양'이고 account는 '계좌·계정'이다. 철자가 비슷해 서로 바꿔 쓰기 쉽다."
+   },
+   {
+    "word": "accountant",
+    "note": "accountant는 회계 일을 하는 사람이다. account에 -ant가 붙으면 사람이 된다."
+   },
+   {
+    "word": "ID",
+    "note": "ID는 계정의 사용자 이름 하나만 뜻한다. 가입해서 쓰는 계정 전체는 account다."
+   }
+  ]
+ },
+ {
+  "id": "major",
+  "headword": "major",
+  "ipa": "/ˈmeɪdʒər/",
+  "level": "MID",
+  "isCore": true,
+  "topic": "description_quality",
+  "forms": [
+   "majors"
+  ],
+  "senses": [
+   {
+    "id": "major-1",
+    "pos": "adj",
+    "ko": "주요한, 큰",
+    "en": "very large or important when compared with others",
+    "nuance": "크기보다 '중요도가 높다'는 뜻에 가깝다. a major problem은 그냥 큰 문제가 아니라 그냥 넘길 수 없는 중요한 문제다.",
+    "examples": [
+     {
+      "en": "Traffic is a major problem in this part of Seoul.",
+      "ko": "교통이 서울 이쪽 지역에서는 큰 문제야.",
+      "focus": "a major problem"
+     },
+     {
+      "en": "We made one major change to the whole plan.",
+      "ko": "계획에 중요한 변경 한 가지를 했어.",
+      "focus": "one major change"
+     }
+    ],
+    "collocations": [
+     "a major problem",
+     "play a major role"
+    ]
+   },
+   {
+    "id": "major-2",
+    "pos": "n",
+    "ko": "전공",
+    "en": "the main subject that a student studies at college",
+    "nuance": "'전공이 뭐야?'는 What's your major?다. 동사로 말할 때는 in이 필요해서 I major economics가 아니라 I major in economics라고 해야 한다.",
+    "examples": [
+     {
+      "en": "What's your major, and do you enjoy it?",
+      "ko": "전공이 뭐야? 재미는 좀 있어?",
+      "focus": "your major"
+     },
+     {
+      "en": "Emma changed her major from art to biology.",
+      "ko": "엠마는 전공을 미술에서 생물학으로 바꿨어.",
+      "focus": "changed her major"
+     }
+    ],
+    "collocations": [
+     "change your major"
+    ]
+   },
+   {
+    "id": "major-3",
+    "pos": "adj",
+    "ko": "심각한, 대규모의",
+    "en": "serious, used about illness, damage, or building work",
+    "nuance": "병·사고·공사에 붙으면 '심각한, 큰'이라는 뜻이다. major surgery는 큰 수술이고 반대말은 minor surgery다.",
+    "examples": [
+     {
+      "en": "Jun needed major surgery after the bike accident.",
+      "ko": "준은 자전거 사고 후에 큰 수술을 받아야 했어.",
+      "focus": "major surgery"
+     },
+     {
+      "en": "The building is closed for major repairs until May.",
+      "ko": "그 건물은 대규모 보수 공사 때문에 5월까지 닫아.",
+      "focus": "major repairs"
+     }
+    ],
+    "collocations": [
+     "major surgery",
+     "major repairs"
+    ]
+   }
+  ],
+  "wordFamily": [
+   {
+    "form": "majority",
+    "pos": "n",
+    "ko": "대다수, 과반"
+   }
+  ],
+  "confusables": [
+   {
+    "word": "minor",
+    "note": "minor는 작고 사소한 쪽, major는 크고 중요한 쪽이다. 대학에서 minor는 부전공을 뜻한다."
+   },
+   {
+    "word": "mayor",
+    "note": "mayor는 '시장(市長)'이라는 사람이다. 철자가 한 글자 차이라 글에서 자주 헷갈린다."
+   },
+   {
+    "word": "main",
+    "note": "main은 여럿 중 가장 중심인 하나, major는 중요한 여러 개 중 하나를 가리킨다."
+   }
+  ]
+ },
+ {
+  "id": "rise",
+  "headword": "rise",
+  "ipa": "/raɪz/",
+  "level": "MID",
+  "isCore": true,
+  "topic": "time_quantity",
+  "forms": [
+   "risen",
+   "rises",
+   "rising",
+   "rose"
+  ],
+  "senses": [
+   {
+    "id": "rise-1",
+    "pos": "v",
+    "ko": "오르다, 올라가다",
+    "en": "to go up in number, level, or amount",
+    "nuance": "목적어를 받지 못하는 자동사다. '값을 올렸다'는 They raised the price이고, '값이 올랐다'가 The price rose다.",
+    "pattern": "명사 + rise (목적어 없음)",
+    "examples": [
+     {
+      "en": "Bus fares rose again at the start of March.",
+      "ko": "버스 요금이 3월 초에 또 올랐어.",
+      "focus": "fares rose again"
+     },
+     {
+      "en": "Prices are rising much faster than our salaries.",
+      "ko": "물가가 월급보다 훨씬 빨리 오르고 있어.",
+      "focus": "Prices are rising"
+     }
+    ],
+    "collocations": [
+     "prices rise",
+     "rise sharply"
+    ],
+    "phrasals": [
+     {
+      "phrase": "rise up",
+      "ko": "들고일어나다",
+      "example": {
+       "en": "People will rise up if nothing changes this year.",
+       "ko": "올해 아무것도 안 바뀌면 사람들이 들고일어날 거야.",
+       "focus": "rise up if nothing changes"
+      }
+     },
+     {
+      "phrase": "rise above",
+      "ko": "이겨 내다, 넘어서다",
+      "example": {
+       "en": "You can rise above these small problems at work.",
+       "ko": "직장에서 이런 작은 문제들은 넘어설 수 있어.",
+       "focus": "rise above these small problems"
+      }
+     }
+    ]
+   },
+   {
+    "id": "rise-2",
+    "pos": "v",
+    "ko": "뜨다, 일어서다",
+    "en": "to move upward, or to get up from a seat or bed",
+    "nuance": "해가 뜰 때는 The sun rises가 정해진 표현이다. 사람이 잠에서 깨는 것은 get up이고, I rose early는 글에서나 쓰는 딱딱한 말투다.",
+    "examples": [
+     {
+      "en": "The sun rises before six in the middle of summer.",
+      "ko": "한여름에는 해가 여섯 시 전에 떠.",
+      "focus": "sun rises before six"
+     },
+     {
+      "en": "Everyone rose when the judge walked into the room.",
+      "ko": "판사가 들어오자 모두 자리에서 일어났어.",
+      "focus": "rose when the judge"
+     }
+    ],
+    "collocations": [
+     "the sun rises"
+    ]
+   },
+   {
+    "id": "rise-3",
+    "pos": "n",
+    "ko": "상승, 인상",
+    "en": "an increase in the amount, number, or level of something",
+    "nuance": "뒤에 of가 아니라 in을 쓴다. a rise of prices는 틀리고 a rise in prices가 맞다. 임금 인상은 영국식 a pay rise, 미국식 a raise다.",
+    "pattern": "a rise in + 명사",
+    "examples": [
+     {
+      "en": "There's been a sharp rise in house prices lately.",
+      "ko": "요즘 집값이 확 올랐어.",
+      "focus": "a sharp rise in house prices"
+     },
+     {
+      "en": "Workers are asking for a small pay rise.",
+      "ko": "직원들이 임금을 조금 올려 달라고 요구하고 있어.",
+      "focus": "a small pay rise"
+     }
+    ],
+    "collocations": [
+     "a rise in prices",
+     "a pay rise"
+    ]
+   }
+  ],
+  "wordFamily": [
+   {
+    "form": "sunrise",
+    "pos": "n",
+    "ko": "일출, 해돋이"
+   }
+  ],
+  "confusables": [
+   {
+    "word": "raise",
+    "note": "raise는 '~을 올리다'로 목적어가 꼭 필요하고, rise는 스스로 오르는 것이라 목적어를 못 쓴다."
+   },
+   {
+    "word": "arise",
+    "note": "arise는 문제·기회가 '생기다'라는 뜻이다. 물건이나 숫자가 올라가는 데는 쓰지 않는다."
+   },
+   {
+    "word": "rose",
+    "note": "rose는 rise의 과거형이면서 '장미'라는 명사이기도 하다. 문장 위치로 구분한다."
+   }
+  ]
+ },
+ {
+  "id": "model",
+  "headword": "model",
+  "ipa": "/ˈmɑdl/",
+  "level": "MID",
+  "isCore": true,
+  "topic": "money_shopping",
+  "forms": [
+   "modeled",
+   "modeling",
+   "modelled",
+   "modelling",
+   "models"
+  ],
+  "senses": [
+   {
+    "id": "model-1",
+    "pos": "n",
+    "ko": "기종, 모델",
+    "en": "one particular type or version of a product",
+    "nuance": "휴대폰·차의 기종을 물을 때 Which model...?이라고 한다. 한국어 '모델명'은 the model name보다 the model number가 실제로 더 많이 쓰인다.",
+    "examples": [
+     {
+      "en": "Which model of phone are you using now?",
+      "ko": "지금 어떤 기종 쓰고 있어?",
+      "focus": "Which model of phone"
+     },
+     {
+      "en": "This model is cheaper but the battery lasts longer.",
+      "ko": "이 기종이 더 싼데 배터리는 더 오래가.",
+      "focus": "This model is cheaper"
+     }
+    ],
+    "collocations": [
+     "the latest model",
+     "the model number"
+    ]
+   },
+   {
+    "id": "model-2",
+    "pos": "n",
+    "ko": "모형",
+    "en": "a small copy of a building, car, or plane",
+    "nuance": "실물을 줄여 만든 모형이다. 조립 장난감은 a model kit이라 하고, 한국어 '프라모델'은 영어로 그대로 쓰면 못 알아듣는다.",
+    "examples": [
+     {
+      "en": "Jun built a model of Seoul Tower out of paper.",
+      "ko": "준이 종이로 서울타워 모형을 만들었어.",
+      "focus": "a model of Seoul Tower"
+     },
+     {
+      "en": "The museum shows a model of the old city.",
+      "ko": "그 박물관에는 옛 도시 모형이 전시돼 있어.",
+      "focus": "a model of the old city"
+     }
+    ],
+    "collocations": [
+     "build a model"
+    ]
+   },
+   {
+    "id": "model-3",
+    "pos": "n",
+    "ko": "패션모델",
+    "en": "a person whose job is to wear clothes in shows or photos",
+    "nuance": "옷·화장품 광고에 나오는 직업 모델이다. 한국어 '롤모델'은 role model로 본보기라는 전혀 다른 뜻이니 섞어 쓰면 안 된다.",
+    "examples": [
+     {
+      "en": "She works as a model for a small clothing brand.",
+      "ko": "그 사람은 작은 옷 브랜드 모델로 일해.",
+      "focus": "works as a model"
+     },
+     {
+      "en": "Two models were waiting outside the photo studio.",
+      "ko": "모델 두 명이 사진 스튜디오 밖에서 기다리고 있었어.",
+      "focus": "Two models were waiting"
+     }
+    ],
+    "collocations": [
+     "work as a model"
+    ]
+   },
+   {
+    "id": "model-4",
+    "pos": "n",
+    "ko": "본보기, 귀감",
+    "en": "a good example that other people should copy",
+    "nuance": "따라 하고 싶은 사람이나 방식을 뜻한다. '내 롤모델은 아빠야'처럼 사람에게 쓸 때는 a role model로 role을 꼭 붙인다.",
+    "examples": [
+     {
+      "en": "Many young players see her as a role model.",
+      "ko": "어린 선수들이 그 사람을 본보기로 여겨.",
+      "focus": "a role model"
+     },
+     {
+      "en": "Finland is often used as a model for education.",
+      "ko": "핀란드는 교육의 본보기로 자주 언급돼.",
+      "focus": "as a model for education"
+     }
+    ],
+    "collocations": [
+     "a role model"
+    ]
+   },
+   {
+    "id": "model-5",
+    "pos": "v",
+    "ko": "모델로 일하다",
+    "en": "to wear clothes in shows or photos as a job",
+    "nuance": "'모델 활동을 하다'를 do model이라고 하면 안 되고 동사 model 하나로 충분하다. 미국식 철자는 modeling, 영국식은 modelling이다.",
+    "examples": [
+     {
+      "en": "Emma models part-time while she studies fashion design.",
+      "ko": "엠마는 패션 디자인 공부하면서 모델 일도 해.",
+      "focus": "models part-time"
+     },
+     {
+      "en": "She has modeled for several small Korean brands.",
+      "ko": "그 사람은 작은 한국 브랜드 몇 곳 모델을 했어.",
+      "focus": "modeled for several small Korean brands"
+     }
+    ]
+   },
+   {
+    "id": "model-6",
+    "pos": "adj",
+    "ko": "모범적인",
+    "en": "perfect as an example, used right before a noun",
+    "nuance": "명사 앞에서만 쓴다. a model student는 모범생이라는 뜻이고, He is model처럼 be동사 뒤에 혼자 쓰면 틀린다.",
+    "examples": [
+     {
+      "en": "He was a model student all through high school.",
+      "ko": "그 애는 고등학교 내내 모범생이었어.",
+      "focus": "a model student"
+     },
+     {
+      "en": "Mina is a model employee, always on time.",
+      "ko": "미나는 늘 시간 지키는 모범 사원이야.",
+      "focus": "a model employee"
+     }
+    ],
+    "collocations": [
+     "a model student"
+    ]
+   }
+  ],
+  "wordFamily": [
+   {
+    "form": "remodel",
+    "pos": "v",
+    "ko": "개조하다, 리모델링하다"
+   }
+  ],
+  "confusables": [
+   {
+    "word": "mode",
+    "note": "mode는 기계의 '모드'나 방식이고, model은 기종·모형·모델이다. 철자가 한 글자 차이다."
+   },
+   {
+    "word": "modern",
+    "note": "modern은 '현대의'라는 형용사다. model과 앞부분만 같고 뜻은 전혀 다르다."
+   },
+   {
+    "word": "example",
+    "note": "example은 설명을 돕는 '예시', model은 따라 할 만한 본보기나 실물 모형이다."
+   }
+  ]
+ },
+ {
+  "id": "approach",
+  "headword": "approach",
+  "ipa": "/əˈproʊtʃ/",
+  "level": "MID",
+  "isCore": true,
+  "topic": "thinking_opinion",
+  "forms": [
+   "approached",
+   "approaches",
+   "approaching"
+  ],
+  "senses": [
+   {
+    "id": "approach-1",
+    "pos": "n",
+    "ko": "접근법, 방식",
+    "en": "a particular way of dealing with a problem or a task",
+    "nuance": "'방법'을 way나 method로만 외우면 어색할 때가 있다. approach는 문제를 바라보는 태도까지 포함하고 뒤에 to를 붙인다.",
+    "pattern": "an approach to + 명사",
+    "examples": [
+     {
+      "en": "We need a different approach to this problem.",
+      "ko": "이 문제는 다른 방식으로 접근해야 해.",
+      "focus": "a different approach to this problem"
+     },
+     {
+      "en": "Her approach to teaching is relaxed and very friendly.",
+      "ko": "그 선생님 수업 방식은 편하고 아주 친근해.",
+      "focus": "Her approach to teaching"
+     }
+    ],
+    "collocations": [
+     "a new approach",
+     "take a different approach",
+     "an approach to learning"
+    ]
+   },
+   {
+    "id": "approach-2",
+    "pos": "v",
+    "ko": "다가가다",
+    "en": "to come nearer to someone or something",
+    "nuance": "목적어 앞에 to를 쓰지 않는다. approach to the door는 틀리고 approach the door가 맞다. 한국 학습자가 가장 많이 틀리는 부분이다.",
+    "pattern": "approach + 목적어 (to 없음)",
+    "examples": [
+     {
+      "en": "A stranger approached me and asked for directions.",
+      "ko": "모르는 사람이 다가와서 길을 물었어.",
+      "focus": "approached me and asked"
+     },
+     {
+      "en": "Don't approach the dog while it is eating.",
+      "ko": "개가 먹고 있을 때는 다가가지 마.",
+      "focus": "approach the dog"
+     }
+    ]
+   },
+   {
+    "id": "approach-3",
+    "pos": "v",
+    "ko": "다가오다",
+    "en": "to get close in time",
+    "nuance": "시험·계절이 가까워질 때 쓴다. come보다 격식 있어서 글이나 안내 방송에 잘 어울리고, 주로 진행형으로 쓴다.",
+    "examples": [
+     {
+      "en": "The deadline is approaching faster than I expected.",
+      "ko": "마감이 생각보다 빨리 다가오고 있어.",
+      "focus": "deadline is approaching"
+     },
+     {
+      "en": "As winter approaches, the days get much shorter.",
+      "ko": "겨울이 다가오면서 해가 훨씬 짧아져.",
+      "focus": "As winter approaches"
+     }
+    ],
+    "collocations": [
+     "as winter approaches"
+    ]
+   },
+   {
+    "id": "approach-4",
+    "pos": "v",
+    "ko": "말을 꺼내다",
+    "en": "to speak to someone about an offer or a request",
+    "nuance": "부탁이나 제안을 하려고 먼저 말을 거는 것이다. 회사가 사람을 스카우트할 때도 이 표현을 쓰고 뒤에 about이 온다.",
+    "pattern": "approach + 사람 + about",
+    "examples": [
+     {
+      "en": "A company approached Jun about a new job.",
+      "ko": "어떤 회사가 준에게 새 일자리를 제안해 왔어.",
+      "focus": "approached Jun about a new job"
+     },
+     {
+      "en": "You should approach your boss about the schedule.",
+      "ko": "일정 문제는 상사한테 직접 말을 꺼내 봐.",
+      "focus": "approach your boss about the schedule"
+     }
+    ]
+   }
+  ],
+  "wordFamily": [
+   {
+    "form": "approachable",
+    "pos": "adj",
+    "ko": "말 붙이기 쉬운"
+   }
+  ],
+  "confusables": [
+   {
+    "word": "method",
+    "note": "method는 정해진 절차 하나, approach는 문제를 다루는 전체 방향과 태도를 말한다."
+   },
+   {
+    "word": "approve",
+    "note": "approve는 '승인하다'로 뜻이 전혀 다르다. 앞부분 철자만 같고 발음도 다르다."
+   },
+   {
+    "word": "reach",
+    "note": "reach는 목표에 닿은 결과, approach는 아직 가까워지는 중인 상태를 뜻한다."
+   }
+  ]
+ },
+ {
+  "id": "charge",
+  "headword": "charge",
+  "ipa": "/tʃɑrdʒ/",
+  "level": "MID",
+  "isCore": true,
+  "topic": "money_shopping",
+  "forms": [
+   "charged",
+   "charges",
+   "charging"
+  ],
+  "senses": [
+   {
+    "id": "charge-1",
+    "pos": "v",
+    "ko": "청구하다, 받다",
+    "en": "to ask someone for money for something you sell",
+    "nuance": "가게가 손님에게 돈을 받는 쪽이다. 내가 돈을 내는 것은 pay이고, charge me 5,000 won처럼 사람과 금액을 바로 붙여 쓴다.",
+    "pattern": "charge + 사람 + 금액",
+    "examples": [
+     {
+      "en": "They charged me ten dollars for one small coffee.",
+      "ko": "작은 커피 한 잔에 10달러를 받았어.",
+      "focus": "charged me ten dollars"
+     },
+     {
+      "en": "Does the hotel charge extra for breakfast?",
+      "ko": "그 호텔은 조식 요금 따로 받아요?",
+      "focus": "charge extra for breakfast"
+     }
+    ],
+    "collocations": [
+     "charge a fee",
+     "charge extra"
+    ]
+   },
+   {
+    "id": "charge-2",
+    "pos": "n",
+    "ko": "요금",
+    "en": "the money you have to pay for a service",
+    "nuance": "서비스에 붙는 돈이다. 물건 값은 price, 식당 계산서는 bill이고, charge는 배송료·수수료처럼 추가로 붙는 돈에 많이 쓴다.",
+    "examples": [
+     {
+      "en": "There's no extra charge for delivery this week.",
+      "ko": "이번 주는 배송비 따로 안 붙어.",
+      "focus": "no extra charge for delivery"
+     },
+     {
+      "en": "The service charge is already included in the bill.",
+      "ko": "봉사료는 계산서에 이미 포함돼 있어요.",
+      "focus": "The service charge"
+     }
+    ],
+    "collocations": [
+     "a service charge",
+     "free of charge"
+    ]
+   },
+   {
+    "id": "charge-3",
+    "pos": "v",
+    "ko": "충전하다",
+    "en": "to fill a battery with electricity",
+    "nuance": "배터리를 채우는 것만 charge다. 교통카드에 돈을 넣는 '충전'은 charge가 아니라 top up이나 add money를 쓴다.",
+    "examples": [
+     {
+      "en": "My phone is charging in the car right now.",
+      "ko": "지금 차에서 휴대폰 충전 중이야.",
+      "focus": "phone is charging"
+     },
+     {
+      "en": "Did you charge your earbuds before the trip?",
+      "ko": "여행 가기 전에 이어폰 충전했어?",
+      "focus": "charge your earbuds"
+     }
+    ],
+    "collocations": [
+     "charge my phone"
+    ],
+    "phrasals": [
+     {
+      "phrase": "charge up",
+      "ko": "완전히 충전하다",
+      "example": {
+       "en": "Let me charge up my laptop before we leave.",
+       "ko": "나가기 전에 노트북 완충 좀 할게.",
+       "focus": "charge up my laptop"
+      }
+     }
+    ]
+   },
+   {
+    "id": "charge-4",
+    "pos": "n",
+    "ko": "담당, 책임",
+    "en": "control over a person, a group, or a job",
+    "nuance": "in charge of 형태로 거의 항상 쓴다. '책임자'는 the person in charge이고, 직장에서 responsible보다 훨씬 자연스럽게 들린다.",
+    "pattern": "in charge of + 명사",
+    "examples": [
+     {
+      "en": "Who's in charge of the office this week?",
+      "ko": "이번 주에 사무실 담당이 누구예요?",
+      "focus": "in charge of the office"
+     },
+     {
+      "en": "Mina is in charge of booking the tickets.",
+      "ko": "표 예약은 미나가 맡고 있어.",
+      "focus": "in charge of booking"
+     }
+    ],
+    "collocations": [
+     "in charge of"
+    ]
+   }
+  ],
+  "wordFamily": [
+   {
+    "form": "charger",
+    "pos": "n",
+    "ko": "충전기"
+   }
+  ],
+  "confusables": [
+   {
+    "word": "change",
+    "note": "철자가 한 글자 차이지만 change는 '바꾸다·거스름돈'이고 charge는 '요금을 받다·충전하다'다."
+   },
+   {
+    "word": "pay",
+    "note": "pay는 내가 돈을 내는 것, charge는 상대가 내게 돈을 물리는 것이다. 방향이 반대다."
+   },
+   {
+    "word": "fee",
+    "note": "fee는 정해진 수수료·회비, charge는 서비스에 붙는 돈을 폭넓게 가리킨다."
+   }
+  ]
+ },
+ {
+  "id": "claim",
+  "headword": "claim",
+  "ipa": "/kleɪm/",
+  "level": "MID",
+  "isCore": true,
+  "topic": "thinking_opinion",
+  "forms": [
+   "claimed",
+   "claiming",
+   "claims"
+  ],
+  "senses": [
+   {
+    "id": "claim-1",
+    "pos": "v",
+    "ko": "주장하다",
+    "en": "to say something is true even though it may not be",
+    "nuance": "증거가 없거나 말하는 사람이 못 믿을 때 쓴다. He claimed...이라고 하면 '그렇게 말은 하더라'는 의심이 깔려서 say와 어감이 크게 다르다.",
+    "pattern": "claim (that) + 절 / claim to + 동사",
+    "examples": [
+     {
+      "en": "He claims he never got my text message.",
+      "ko": "그 사람은 내 문자 못 받았다고 주장해.",
+      "focus": "claims he never got"
+     },
+     {
+      "en": "She claims to know the owner of the café.",
+      "ko": "걔는 그 카페 사장을 안다고 하더라.",
+      "focus": "claims to know the owner"
+     }
+    ],
+    "collocations": [
+     "claim to be"
+    ]
+   },
+   {
+    "id": "claim-2",
+    "pos": "n",
+    "ko": "주장",
+    "en": "a statement that something is true, given without proof",
+    "nuance": "확인되지 않은 말이다. 근거를 갖춘 의견은 opinion이나 argument를 쓰고, claim에는 '아직 증명 안 됐다'는 느낌이 있다.",
+    "examples": [
+     {
+      "en": "There's no proof for that claim at all.",
+      "ko": "그 주장은 근거가 하나도 없어.",
+      "focus": "for that claim"
+     },
+     {
+      "en": "His claim about the free tickets turned out false.",
+      "ko": "공짜 표 얘기는 결국 사실이 아니었어.",
+      "focus": "His claim about the free tickets"
+     }
+    ],
+    "collocations": [
+     "make a claim"
+    ]
+   },
+   {
+    "id": "claim-3",
+    "pos": "v",
+    "ko": "청구하다, 받아 가다",
+    "en": "to ask for money or a thing that is legally yours",
+    "nuance": "보험금·환급처럼 받을 자격이 있는 것을 요구하는 것이다. 그냥 부탁하는 것은 ask for이고, claim에는 '내 권리다'라는 태도가 들어간다.",
+    "examples": [
+     {
+      "en": "You can claim your money back within thirty days.",
+      "ko": "30일 안에는 돈을 돌려받을 수 있어요.",
+      "focus": "claim your money back"
+     },
+     {
+      "en": "Did you claim the insurance for your broken phone?",
+      "ko": "깨진 휴대폰 보험 청구했어?",
+      "focus": "claim the insurance"
+     }
+    ],
+    "collocations": [
+     "claim a refund"
+    ]
+   },
+   {
+    "id": "claim-4",
+    "pos": "n",
+    "ko": "청구, 신청",
+    "en": "a request for money from a company that owes it to you",
+    "nuance": "보험 청구 한 건을 뜻한다. 공항에서 짐 찾는 곳을 baggage claim이라고 하니 안내판을 보면 바로 알아볼 수 있다.",
+    "examples": [
+     {
+      "en": "I made an insurance claim after the car accident.",
+      "ko": "차 사고 나고 보험 청구를 했어.",
+      "focus": "an insurance claim"
+     },
+     {
+      "en": "Your claim takes about two weeks to process.",
+      "ko": "신청 건은 처리에 2주쯤 걸려요.",
+      "focus": "Your claim takes about two weeks"
+     }
+    ],
+    "collocations": [
+     "an insurance claim",
+     "baggage claim"
+    ]
+   }
+  ],
+  "confusables": [
+   {
+    "word": "say",
+    "note": "say는 중립적으로 '말하다', claim은 '사실인지 모르겠지만 그렇게 말한다'는 뉘앙스다."
+   },
+   {
+    "word": "insist",
+    "note": "insist는 반대에도 계속 우기는 것, claim은 증거 없이 그렇다고 말하는 것이다."
+   },
+   {
+    "word": "demand",
+    "note": "demand는 강하게 요구하는 것, claim은 내 권리인 것을 정식으로 받아 가는 것이다."
+   }
+  ]
+ },
+ {
+  "id": "regard",
+  "headword": "regard",
+  "ipa": "/rɪˈɡɑrd/",
+  "level": "MID",
+  "isCore": true,
+  "topic": "thinking_opinion",
+  "forms": [
+   "regarded",
+   "regarding",
+   "regards"
+  ],
+  "senses": [
+   {
+    "id": "regard-1",
+    "pos": "v",
+    "ko": "여기다, 간주하다",
+    "en": "to think of someone or something in a certain way",
+    "nuance": "as가 반드시 필요하다. consider him a friend는 되지만 regard him a friend는 틀리고 regard him as a friend라고 해야 한다.",
+    "pattern": "regard A as B",
+    "examples": [
+     {
+      "en": "Many people regard him as the best teacher here.",
+      "ko": "많은 사람들이 그분을 여기서 최고의 선생님으로 여겨.",
+      "focus": "regard him as the best teacher"
+     },
+     {
+      "en": "She's regarded as one of the top players.",
+      "ko": "그 사람은 최고 선수 중 한 명으로 평가받아.",
+      "focus": "regarded as one of the top players"
+     }
+    ],
+    "collocations": [
+     "be regarded as",
+     "highly regarded"
+    ]
+   },
+   {
+    "id": "regard-2",
+    "pos": "n",
+    "ko": "안부 인사",
+    "en": "friendly wishes sent to someone, often at the end of a letter",
+    "nuance": "이메일 끝의 Best regards가 바로 이 뜻이다. 항상 복수로 쓰고, 말로 전할 때는 give my regards to 형태로 쓴다.",
+    "pattern": "give my regards to + 사람",
+    "examples": [
+     {
+      "en": "Give my regards to your parents when you call.",
+      "ko": "전화하면 부모님께 안부 전해 줘.",
+      "focus": "Give my regards to your parents"
+     },
+     {
+      "en": "I signed the email with best regards and sent it.",
+      "ko": "이메일 끝에 Best regards 적고 보냈어.",
+      "focus": "with best regards"
+     }
+    ],
+    "collocations": [
+     "best regards",
+     "give my regards to"
+    ]
+   },
+   {
+    "id": "regard-3",
+    "pos": "prep",
+    "ko": "~에 관하여",
+    "en": "about a particular subject, used in formal writing",
+    "nuance": "regarding 형태로만 쓰는 격식 표현이다. 이메일에서 about 대신 쓰면 정중해 보이지만, 말할 때 쓰면 지나치게 딱딱하다.",
+    "examples": [
+     {
+      "en": "I'm writing regarding your email about the refund.",
+      "ko": "환불 관련 이메일 건으로 연락드립니다.",
+      "focus": "regarding your email"
+     },
+     {
+      "en": "Regarding the meeting, can we move it to Friday?",
+      "ko": "회의 건인데, 금요일로 옮길 수 있을까요?",
+      "focus": "Regarding the meeting"
+     }
+    ]
+   },
+   {
+    "id": "regard-4",
+    "pos": "n",
+    "ko": "배려, 관심",
+    "en": "care or respect for someone or something",
+    "nuance": "주로 no regard for, little regard for처럼 부정형으로 쓴다. 마음으로 우러러보는 '존경'은 respect가 자연스럽다.",
+    "examples": [
+     {
+      "en": "He drives with no regard for other people.",
+      "ko": "그 사람은 다른 사람 생각 하나도 안 하고 운전해.",
+      "focus": "no regard for other people"
+     },
+     {
+      "en": "They showed little regard for the safety rules.",
+      "ko": "그들은 안전 규정을 거의 무시했어.",
+      "focus": "little regard for the safety rules"
+     }
+    ],
+    "collocations": [
+     "have no regard for"
+    ]
+   }
+  ],
+  "wordFamily": [
+   {
+    "form": "regardless",
+    "pos": "adv",
+    "ko": "상관없이"
+   }
+  ],
+  "confusables": [
+   {
+    "word": "regardless",
+    "note": "regarding은 '~에 관하여', regardless of는 '~와 상관없이'다. 뜻이 거의 반대라 섞이면 위험하다."
+   },
+   {
+    "word": "consider",
+    "note": "consider는 as 없이 써도 되지만 regard는 as가 꼭 필요하다. 시험에 자주 나온다."
+   },
+   {
+    "word": "respect",
+    "note": "respect는 마음으로 존경하는 것, regard의 주된 뜻은 '~라고 여기다'다."
+   }
+  ]
+ },
+ {
+  "id": "range",
+  "headword": "range",
+  "ipa": "/reɪndʒ/",
+  "level": "MID",
+  "isCore": true,
+  "topic": "time_quantity",
+  "senses": [
+   {
+    "id": "range-1",
+    "pos": "n",
+    "ko": "범위, 폭",
+    "en": "the limits between which amounts or numbers can change",
+    "nuance": "가격대·연령대를 말할 때 쓴다. price range, age range처럼 앞에 명사를 붙이는 형태가 가장 흔하고 한국어 '~대'에 딱 맞는다.",
+    "examples": [
+     {
+      "en": "What price range are you looking at for a laptop?",
+      "ko": "노트북은 어느 가격대로 보고 있어?",
+      "focus": "What price range"
+     },
+     {
+      "en": "The gym has classes for a wide age range.",
+      "ko": "그 헬스장은 연령대가 넓게 수업이 있어.",
+      "focus": "a wide age range"
+     }
+    ],
+    "collocations": [
+     "a price range",
+     "an age range"
+    ]
+   },
+   {
+    "id": "range-2",
+    "pos": "n",
+    "ko": "종류, 구색",
+    "en": "a group of different things of the same general kind",
+    "nuance": "a range of 뒤에는 복수 명사가 온다. variety와 비슷하지만 가게의 상품 구색이나 서비스 종류를 말할 때 특히 잘 어울린다.",
+    "pattern": "a range of + 복수명사",
+    "examples": [
+     {
+      "en": "The shop sells a range of Korean snacks.",
+      "ko": "그 가게는 한국 과자를 여러 종류 팔아.",
+      "focus": "a range of Korean snacks"
+     },
+     {
+      "en": "We offer a wide range of online classes.",
+      "ko": "저희는 온라인 수업을 다양하게 제공합니다.",
+      "focus": "a wide range of online classes"
+     }
+    ],
+    "collocations": [
+     "a wide range of"
+    ]
+   },
+   {
+    "id": "range-3",
+    "pos": "v",
+    "ko": "이르다, 걸치다",
+    "en": "to change between two limits",
+    "nuance": "from A to B와 함께 쓰고 목적어를 받지 않는다. 가격이나 나이를 설명할 때 원어민이 즐겨 쓰는 문형인데 한국 학습자는 거의 안 쓴다.",
+    "pattern": "range from A to B",
+    "examples": [
+     {
+      "en": "Prices range from ten to fifty dollars in here.",
+      "ko": "여기는 값이 10달러에서 50달러까지야.",
+      "focus": "range from ten to fifty dollars"
+     },
+     {
+      "en": "Our students range in age from six to twelve.",
+      "ko": "우리 학생들은 나이가 여섯 살에서 열두 살까지예요.",
+      "focus": "range in age from six to twelve"
+     }
+    ],
+    "phrasals": [
+     {
+      "phrase": "range from",
+      "ko": "~에서 ~까지이다",
+      "example": {
+       "en": "Ticket prices can range from twenty to eighty dollars.",
+       "ko": "표 값은 20달러에서 80달러까지 해.",
+       "focus": "range from twenty to eighty dollars"
+      }
+     }
+    ]
+   },
+   {
+    "id": "range-4",
+    "pos": "n",
+    "ko": "산맥",
+    "en": "a line of mountains or hills next to each other",
+    "nuance": "거의 mountain range로 붙여 쓴다. 산 하나는 mountain이고, 여러 산이 줄지어 있으면 range를 쓴다.",
+    "examples": [
+     {
+      "en": "We drove along a beautiful mountain range yesterday.",
+      "ko": "어제 예쁜 산맥을 따라 드라이브했어.",
+      "focus": "a beautiful mountain range"
+     },
+     {
+      "en": "The hotel has a view of the mountain range.",
+      "ko": "그 호텔은 산맥이 보이는 전망이야.",
+      "focus": "the mountain range"
+     }
+    ],
+    "collocations": [
+     "a mountain range"
+    ]
+   }
+  ],
+  "forms": [
+   "ranged",
+   "ranges",
+   "ranging"
+  ],
+  "confusables": [
+   {
+    "word": "variety",
+    "note": "a variety of는 '여러 종류'를 두루 뜻하고, a range of는 특히 상품·서비스 구색에 쓴다."
+   },
+   {
+    "word": "rank",
+    "note": "rank는 순위나 등급, range는 위아래 한계 사이의 폭이다. 철자가 비슷해 헷갈린다."
+   },
+   {
+    "word": "extent",
+    "note": "extent는 정도가 얼마나 큰가, range는 어디서 어디까지인가에 초점이 있다."
+   }
+  ]
+ },
+ {
+  "id": "quality",
+  "headword": "quality",
+  "ipa": "/ˈkwɑləti/",
+  "level": "MID",
+  "isCore": true,
+  "topic": "description_quality",
+  "forms": [
+   "qualities"
+  ],
+  "senses": [
+   {
+    "id": "quality-1",
+    "pos": "n",
+    "ko": "품질, 질",
+    "en": "how good or bad something is",
+    "nuance": "이 뜻으로는 셀 수 없는 명사라 a quality라고 하지 않는다. '품질이 좋다'는 good quality나 high quality이고 그 반대는 poor quality다.",
+    "examples": [
+     {
+      "en": "The quality of this jacket is really good.",
+      "ko": "이 재킷 품질 진짜 좋네.",
+      "focus": "The quality of this jacket"
+     },
+     {
+      "en": "You pay more, but you get better quality.",
+      "ko": "돈을 더 내는 만큼 품질이 더 좋아.",
+      "focus": "get better quality"
+     }
+    ],
+    "collocations": [
+     "good quality",
+     "high quality",
+     "poor quality"
+    ]
+   },
+   {
+    "id": "quality-2",
+    "pos": "adj",
+    "ko": "질 좋은, 고급의",
+    "en": "good, used right before a noun to praise something",
+    "nuance": "명사 앞에서만 쓴다. quality time은 '시간의 질'이 아니라 가족과 알차게 보내는 시간을 뜻하는 굳은 표현이다.",
+    "examples": [
+     {
+      "en": "We spent some quality time with our grandparents.",
+      "ko": "할머니 할아버지랑 알찬 시간을 보냈어.",
+      "focus": "some quality time"
+     },
+     {
+      "en": "This café uses quality beans from small farms.",
+      "ko": "이 카페는 작은 농장에서 온 좋은 원두를 써.",
+      "focus": "uses quality beans"
+     }
+    ],
+    "collocations": [
+     "quality time"
+    ]
+   },
+   {
+    "id": "quality-3",
+    "pos": "n",
+    "ko": "특성, 장점",
+    "en": "a part of someone's character, usually a good part",
+    "nuance": "사람의 성격이나 장점을 말할 때는 복수 qualities로 쓴다. 단수로 쓰면 물건 품질 이야기로 들려서 오해를 산다.",
+    "examples": [
+     {
+      "en": "Patience is her best quality as a teacher.",
+      "ko": "인내심이 그 선생님의 가장 큰 장점이야.",
+      "focus": "her best quality"
+     },
+     {
+      "en": "What qualities do you look for in a friend?",
+      "ko": "친구에게서 어떤 점을 중요하게 봐?",
+      "focus": "What qualities do you look for"
+     }
+    ],
+    "collocations": [
+     "leadership qualities"
+    ]
+   }
+  ],
+  "wordFamily": [
+   {
+    "form": "qualitative",
+    "pos": "adj",
+    "ko": "질적인"
+   }
+  ],
+  "confusables": [
+   {
+    "word": "quantity",
+    "note": "quantity는 '양', quality는 '질'이다. 철자가 비슷해 시험에서 가장 많이 틀리는 짝이다."
+   },
+   {
+    "word": "equality",
+    "note": "equality는 '평등'이다. 뒷부분이 같아 보이지만 quality와 전혀 다른 단어다."
+   },
+   {
+    "word": "feature",
+    "note": "feature는 눈에 보이는 특징, quality는 물건의 질이나 사람의 성격적 장점이다."
+   }
+  ]
+ }
+]

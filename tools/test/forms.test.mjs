@@ -66,3 +66,21 @@ test('자음 중복 철자 오류를 걸러낸다', () => {
 test('형용사가 주 품사인 단어의 명사 복수는 넣지 않는다', () => {
   assert.deepEqual(cleanForms('public', ['publics'], ['n', 'adj']), []);
 });
+
+test('두 모음자 + l 로 끝나는 어간은 자음을 겹치지 않는다', () => {
+  // revealled 는 영국식이 아니라 오류
+  assert.deepEqual(cleanForms('reveal', ['revealed', 'revealing', 'revealled', 'revealling'], ['v']),
+    ['revealed', 'revealing']);
+  // 단모음 + l 은 영국식에서 겹치는 정식 표기
+  assert.ok(cleanForms('travel', ['traveled', 'travelled'], ['v']).includes('travelled'));
+  assert.ok(cleanForms('cancel', ['canceled', 'cancelled'], ['v']).includes('cancelled'));
+  // 마지막 음절 강세는 미국식도 겹친다
+  assert.ok(cleanForms('control', ['controlled', 'controlling'], ['v']).includes('controlled'));
+});
+
+test('실재하는 명사 복수는 형용사가 주 품사여도 유지한다', () => {
+  // generals(장군들), privates(병사들)는 실제 명사 복수다
+  assert.deepEqual(cleanForms('general', ['generals'], ['n', 'adj']), ['generals']);
+  // publics 는 쓰지 않는 형태
+  assert.deepEqual(cleanForms('public', ['publics'], ['n', 'adj']), []);
+});
