@@ -18,7 +18,41 @@ const NOT_A_FORM = new Set([
   'breads', 'rices', 'weathers', 'funs',
   'deader', 'deadest', 'falser', 'falsest', 'truer', 'truest', 'uniquer', 'uniquest',
   'perfecter', 'perfectest', 'mainer', 'mainest', 'onlier', 'onliest', 'wholer', 'wholest',
+  'baddest', 'badder', 'gooder', 'goodest', 'worser', 'littler', 'littlest', 'farer', 'farest',
 ]);
+/**
+ * 불규칙 변화형. 어간이 크게 바뀌어 편집 거리·접미사 규칙으로는 잡히지 않는다.
+ * (bad → worse, bear → borne 이 걸러지던 버그를 막는다.)
+ */
+const IRREGULAR = new Map([
+  ['bad', ['worse', 'worst']], ['good', ['better', 'best']], ['well', ['better', 'best']],
+  ['little', ['less', 'least']], ['many', ['more', 'most']], ['much', ['more', 'most']],
+  ['far', ['further', 'furthest', 'farther', 'farthest']],
+  ['be', ['am', 'is', 'are', 'was', 'were', 'been', 'being']],
+  ['go', ['went', 'gone', 'goes', 'going']], ['bear', ['bore', 'borne', 'born']],
+  ['see', ['saw', 'seen']], ['eat', ['ate', 'eaten']], ['take', ['took', 'taken']],
+  ['give', ['gave', 'given']], ['come', ['came']], ['do', ['did', 'done', 'does']],
+  ['break', ['broke', 'broken']], ['choose', ['chose', 'chosen']], ['drive', ['drove', 'driven']],
+  ['fall', ['fell', 'fallen']], ['forget', ['forgot', 'forgotten']], ['freeze', ['froze', 'frozen']],
+  ['get', ['got', 'gotten']], ['grow', ['grew', 'grown']], ['know', ['knew', 'known']],
+  ['ride', ['rode', 'ridden']], ['rise', ['rose', 'risen']], ['speak', ['spoke', 'spoken']],
+  ['steal', ['stole', 'stolen']], ['throw', ['threw', 'thrown']], ['wear', ['wore', 'worn']],
+  ['write', ['wrote', 'written']], ['draw', ['drew', 'drawn']], ['fly', ['flew', 'flown']],
+  ['blow', ['blew', 'blown']], ['show', ['showed', 'shown']], ['swim', ['swam', 'swum']],
+  ['begin', ['began', 'begun']], ['drink', ['drank', 'drunk']], ['sing', ['sang', 'sung']],
+  ['ring', ['rang', 'rung']], ['run', ['ran']], ['sit', ['sat']], ['stand', ['stood']],
+  ['teach', ['taught']], ['think', ['thought']], ['buy', ['bought']], ['bring', ['brought']],
+  ['catch', ['caught']], ['fight', ['fought']], ['seek', ['sought']], ['leave', ['left']],
+  ['lose', ['lost']], ['make', ['made']], ['say', ['said']], ['sell', ['sold']], ['tell', ['told']],
+  ['feel', ['felt']], ['keep', ['kept']], ['sleep', ['slept']], ['sweep', ['swept']],
+  ['meet', ['met']], ['find', ['found']], ['hold', ['held']], ['hear', ['heard']],
+  ['pay', ['paid']], ['lay', ['laid']], ['lead', ['led']], ['feed', ['fed']],
+  ['have', ['had', 'has', 'having']], ['person', ['people']], ['child', ['children']],
+  ['foot', ['feet']], ['tooth', ['teeth']], ['man', ['men']], ['woman', ['women']],
+  ['mouse', ['mice']], ['goose', ['geese']], ['life', ['lives']], ['leaf', ['leaves']],
+  ['knife', ['knives']], ['wife', ['wives']], ['shelf', ['shelves']], ['thief', ['thieves']],
+]);
+
 const SLANG = new Set(['gotta', 'gettin', 'gonna', 'wanna', 'dunno', 'kinda', 'sorta', 'lemme', 'gimme', "ain't", 'em', 'ya', 'yeah', 'cuz', 'til']);
 const badS = (h) => /(s|x|z|ch|sh)$/.test(h) || /[^aeiou]y$/.test(h); // marchs, storys are not words
 const isPlural = (h, f) => (IRREGULAR_PLURAL[h] ? IRREGULAR_PLURAL[h] === f : (f === h + 's' && !badS(h)) || f === h + 'es' || (h.endsWith('y') && f === h.slice(0, -1) + 'ies') || (h.endsWith('f') && f === h.slice(0, -1) + 'ves') || (h.endsWith('fe') && f === h.slice(0, -2) + 'ves'));
@@ -36,13 +70,21 @@ export function cleanForms(headword, forms, pos, usedIn = '') {
   const unknown = pos.length === 0;
   const low = usedIn.toLowerCase();
   const used = (f) => low && new RegExp(`(^|[^a-z])${f.replace(/[.*+?^${}()|[\]\\]/g, '\\$&')}(?=$|[^a-z])`).test(low);
-  return [...new Set(forms)].filter((f) => {
+  // 원본 목록에 불규칙형이 빠져 있으면 채워 넣는다 (master.tsv 의 person 에는 people 이 없다)
+  const withIrregular = [...new Set([...forms, ...(IRREGULAR.get(headword) ?? [])])];
+  return withIrregular.filter((f) => {
     if (!f || f === headword) return false;
     if (f === headword + 's' && badS(headword)) return false;
     if (f === headword + 'es' && !/(s|x|z|ch|sh|o)$/.test(headword)) return false;
     if (/[.]/.test(f) && !/[.]/.test(headword)) return false; // "dr." for doctor
     if (SLANG.has(f) || NOT_A_FORM.has(f)) return false;
     if (used(f)) return true;
+    const irr = IRREGULAR.get(headword);
+    if (irr?.includes(f)) return true;
+    // 불규칙 '복수'가 정해진 명사는 규칙 복수를 만들어 붙이지 않는다 (leaf → leafs, child → childs).
+    // 동사의 3인칭 단수(-s)는 불규칙 과거와 무관하게 필요하므로 명사 전용일 때만 막는다.
+    const nounOnly = pos.length > 0 && !pos.includes('v');
+    if (irr && nounOnly && (f === headword + 's' || f === headword + 'es')) return false;
     const suffix = f.startsWith(headword) ? f.slice(headword.length) : null;
     const variant = lev(f, headword) <= 2 && Math.abs(f.length - headword.length) <= 1 && suffix === null && !headword.startsWith(f);
     if (variant) return true; // spelling variants: colour, advertize
