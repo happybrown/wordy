@@ -1,0 +1,1499 @@
+[
+ {
+  "id": "same",
+  "headword": "same",
+  "ipa": "/seɪm/",
+  "level": "PRE",
+  "isCore": true,
+  "topic": "description_quality",
+  "forms": [],
+  "senses": [
+   {
+    "id": "same-1",
+    "pos": "adj",
+    "ko": "같은, 동일한",
+    "en": "not different from another thing or person",
+    "nuance": "앞에 the를 거의 항상 붙인다. a same라고 쓰면 틀리고, 한국어 '같은 반'은 the same class다.",
+    "pattern": "the same + 명사",
+    "examples": [
+     {
+      "en": "Mina and I are in the same class this year.",
+      "ko": "미나랑 나 올해 같은 반이야.",
+      "focus": "the same class"
+     },
+     {
+      "en": "You're wearing the same jacket as yesterday.",
+      "ko": "너 어제랑 같은 재킷 입었네.",
+      "focus": "the same jacket"
+     },
+     {
+      "en": "We take the same bus to work every morning.",
+      "ko": "우리 매일 아침 같은 버스 타고 출근해.",
+      "focus": "the same bus"
+     }
+    ],
+    "collocations": [
+     "the same time",
+     "the same thing",
+     "at the same time"
+    ]
+   },
+   {
+    "id": "same-2",
+    "pos": "pron",
+    "ko": "같은 것, 마찬가지",
+    "en": "used alone to mean the thing just mentioned",
+    "nuance": "명사 없이 the same만으로 '그거랑 똑같은 것'을 가리킨다. 식당에서 I'll have the same은 '저도 같은 걸로요'라는 뜻이다.",
+    "pattern": "the same (as ~)",
+    "examples": [
+     {
+      "en": "I'll have the same, please, with extra ice.",
+      "ko": "저도 같은 걸로 주세요, 얼음 많이 넣어서요.",
+      "focus": "the same"
+     },
+     {
+      "en": "Her phone is exactly the same as mine.",
+      "ko": "걔 폰 내 거랑 완전 똑같아.",
+      "focus": "the same as mine"
+     }
+    ],
+    "collocations": [
+     "the same as before"
+    ]
+   },
+   {
+    "id": "same-3",
+    "pos": "adj",
+    "ko": "변함없는, 그대로인",
+    "en": "not changed after a period of time",
+    "nuance": "시간이 지나도 달라지지 않았다는 뜻이다. 안부 인사에 Still the same이라고 답하면 '늘 똑같지'라는 느낌이다.",
+    "pattern": "still the same",
+    "examples": [
+     {
+      "en": "Busan looks the same as it did ten years ago.",
+      "ko": "부산은 십 년 전이랑 똑같아 보여.",
+      "focus": "looks the same"
+     },
+     {
+      "en": "How's work these days? Oh, still the same.",
+      "ko": "요즘 일은 어때? 아, 늘 똑같지 뭐.",
+      "focus": "still the same"
+     }
+    ]
+   },
+   {
+    "id": "same-4",
+    "pos": "adv",
+    "ko": "나도 그래 (맞장구)",
+    "en": "used to agree that you feel or did something too",
+    "nuance": "Same here 또는 Same은 '나도 그래'라는 짧은 맞장구다. Me too보다 더 캐주얼하고 문자에서 특히 자주 쓴다.",
+    "pattern": "Same here. / Same.",
+    "examples": [
+     {
+      "en": "I'm so tired today. Same here, honestly.",
+      "ko": "나 오늘 너무 피곤해. 솔직히 나도 그래.",
+      "focus": "Same here"
+     },
+     {
+      "en": "I hate waking up early. Same, every single day.",
+      "ko": "나 일찍 일어나는 거 싫어. 나도, 매일매일.",
+      "focus": "Same, every single day"
+     }
+    ]
+   }
+  ],
+  "confusables": [
+   {
+    "word": "similar",
+    "note": "same은 '똑같은 하나', similar는 '비슷하지만 다른 것'이다. 색만 다르면 similar다."
+   },
+   {
+    "word": "alike",
+    "note": "the same은 명사 앞에, alike는 They look alike처럼 명사 뒤에만 쓴다."
+   },
+   {
+    "word": "equal",
+    "note": "equal은 수량·권리가 동등하다는 뜻이고, same은 그냥 '다르지 않다'는 뜻이다."
+   }
+  ],
+  "memoryHook": "same은 거의 항상 the를 달고 다닌다고 통째로 외운다."
+ },
+ {
+  "id": "try",
+  "headword": "try",
+  "ipa": "/traɪ/",
+  "level": "PRE",
+  "isCore": true,
+  "topic": "movement_action",
+  "forms": [
+   "tried",
+   "tries",
+   "trying"
+  ],
+  "senses": [
+   {
+    "id": "try-1",
+    "pos": "v",
+    "ko": "노력하다, 해 보다",
+    "en": "to make an effort to do something",
+    "nuance": "뒤에 to부정사가 오면 '어렵지만 해내려 애쓰다'는 뜻이다. I'll try는 '해 볼게'라는 부드러운 대답으로 아주 자주 쓴다.",
+    "pattern": "try to + 동사원형",
+    "examples": [
+     {
+      "en": "I'm trying to finish this report before six.",
+      "ko": "여섯 시 전에 이 보고서 끝내려고 하는 중이야.",
+      "focus": "trying to finish"
+     },
+     {
+      "en": "Just try to relax. You'll do fine.",
+      "ko": "그냥 긴장 풀어 봐. 잘할 거야.",
+      "focus": "try to relax"
+     },
+     {
+      "en": "Tom tried to call you twice this morning.",
+      "ko": "톰이 오늘 아침에 너한테 두 번 전화하려고 했어.",
+      "focus": "tried to call"
+     }
+    ],
+    "collocations": [
+     "try hard",
+     "try your best"
+    ]
+   },
+   {
+    "id": "try-2",
+    "pos": "v",
+    "ko": "시험 삼아 해 보다",
+    "en": "to do something new to see if it works or if you like it",
+    "nuance": "뒤에 -ing가 오면 '실험 삼아 한번 해 보다'라는 뜻이라 try to와 완전히 다르다. try calling은 '전화 한번 해 봐'다.",
+    "pattern": "try + -ing",
+    "examples": [
+     {
+      "en": "Try turning it off and on again.",
+      "ko": "껐다가 다시 켜 봐.",
+      "focus": "Try turning it off"
+     },
+     {
+      "en": "Have you tried asking Mina about it?",
+      "ko": "그거 미나한테 물어보는 거 해 봤어?",
+      "focus": "tried asking"
+     }
+    ],
+    "collocations": [
+     "try again"
+    ]
+   },
+   {
+    "id": "try-3",
+    "pos": "v",
+    "ko": "먹어 보다, 써 보다",
+    "en": "to taste or use something for the first time",
+    "nuance": "음식·가게·제품을 처음 경험할 때 쓴다. 옷은 try on(입어 보다)이라고 on을 꼭 붙인다.",
+    "pattern": "try + 음식/가게/물건",
+    "examples": [
+     {
+      "en": "You should try this soup, it's really good.",
+      "ko": "이 국 먹어 봐, 진짜 맛있어.",
+      "focus": "try this soup"
+     },
+     {
+      "en": "We tried a new cafe near the station.",
+      "ko": "우리 역 근처 새로 생긴 카페 가 봤어.",
+      "focus": "tried a new cafe"
+     }
+    ],
+    "collocations": [
+     "try the food"
+    ],
+    "phrasals": [
+     {
+      "phrase": "try on",
+      "ko": "입어 보다, 신어 보다",
+      "example": {
+       "en": "Can I try on these shoes in size seven?",
+       "ko": "이 신발 250으로 신어 봐도 될까요?",
+       "focus": "try on these shoes"
+      }
+     },
+     {
+      "phrase": "try out",
+      "ko": "시험 삼아 써 보다",
+      "example": {
+       "en": "Let's try out the new coffee machine today.",
+       "ko": "오늘 새 커피 머신 한번 써 보자.",
+       "focus": "try out the new coffee machine"
+      }
+     },
+     {
+      "phrase": "try out for",
+      "ko": "선발에 도전하다",
+      "example": {
+       "en": "Jun wants to try out for the soccer team.",
+       "ko": "준은 축구팀 선발에 도전하고 싶어 해.",
+       "focus": "try out for the soccer team"
+      }
+     }
+    ]
+   },
+   {
+    "id": "try-4",
+    "pos": "n",
+    "ko": "시도, 한번 해 보기",
+    "en": "an act of doing something to see what happens",
+    "nuance": "Give it a try(한번 해 봐)가 가장 흔한 형태다. 셀 수 있는 명사라 a try, another try처럼 쓴다.",
+    "pattern": "give it a try / have a try",
+    "examples": [
+     {
+      "en": "It sounds hard, but give it a try.",
+      "ko": "어려워 보이긴 한데, 한번 해 봐.",
+      "focus": "give it a try"
+     },
+     {
+      "en": "I got it right on my second try.",
+      "ko": "두 번째 시도에서 맞혔어.",
+      "focus": "my second try"
+     }
+    ],
+    "collocations": [
+     "worth a try"
+    ]
+   }
+  ],
+  "wordFamily": [
+   {
+    "form": "trial",
+    "pos": "n",
+    "ko": "시험, 시도"
+   },
+   {
+    "form": "trying",
+    "pos": "adj",
+    "ko": "힘든, 괴로운"
+   }
+  ],
+  "confusables": [
+   {
+    "word": "attempt",
+    "note": "attempt는 글말·격식이고, 일상 대화에서는 거의 try를 쓴다."
+   },
+   {
+    "word": "test",
+    "note": "test는 성능을 확인하는 검사, try는 그냥 한번 해 보는 것이다."
+   },
+   {
+    "word": "taste",
+    "note": "taste는 맛을 느끼는 감각, try the soup는 '처음 먹어 보다'라는 경험이다."
+   }
+  ],
+  "memoryHook": "try to는 '애써서 목표로', try -ing는 '실험 삼아 툭'으로 구분한다."
+ },
+ {
+  "id": "point",
+  "headword": "point",
+  "ipa": "/pɔɪnt/",
+  "level": "PRE",
+  "isCore": true,
+  "topic": "communication",
+  "forms": [
+   "pointed",
+   "pointing",
+   "points"
+  ],
+  "senses": [
+   {
+    "id": "point-1",
+    "pos": "n",
+    "ko": "요점, 핵심",
+    "en": "the main idea that someone wants you to understand",
+    "nuance": "대화에서 가장 자주 쓰는 뜻이다. That's a good point는 '그 말 일리 있다'는 맞장구고, My point is ~는 '내 말은 ~'이다.",
+    "pattern": "the point is / make a point",
+    "examples": [
+     {
+      "en": "That's a good point. I didn't think of that.",
+      "ko": "그거 좋은 지적이야. 나는 그 생각을 못 했어.",
+      "focus": "a good point"
+     },
+     {
+      "en": "My point is that we don't have enough time.",
+      "ko": "내 말은 우리한테 시간이 부족하다는 거야.",
+      "focus": "My point is"
+     },
+     {
+      "en": "Sorry, I missed your point. Say it again?",
+      "ko": "미안, 무슨 말인지 놓쳤어. 다시 말해 줄래?",
+      "focus": "missed your point"
+     }
+    ],
+    "collocations": [
+     "a good point",
+     "get the point",
+     "the main point"
+    ]
+   },
+   {
+    "id": "point-2",
+    "pos": "v",
+    "ko": "가리키다, 손가락질하다",
+    "en": "to show where something is by holding out your finger",
+    "nuance": "손가락·화살표가 향하는 방향을 말하며 뒤에 at이나 to가 온다. 사람에게 point at은 무례하게 들릴 수 있다.",
+    "pattern": "point at / point to + 대상",
+    "examples": [
+     {
+      "en": "She pointed at the sign behind me.",
+      "ko": "그 사람이 내 뒤에 있는 표지판을 가리켰어.",
+      "focus": "pointed at the sign"
+     },
+     {
+      "en": "Just point to the one you want on the menu.",
+      "ko": "메뉴에서 원하는 거 그냥 가리켜.",
+      "focus": "point to the one"
+     }
+    ],
+    "collocations": [
+     "point at me"
+    ],
+    "phrasals": [
+     {
+      "phrase": "point out",
+      "ko": "지적하다, 짚어 주다",
+      "example": {
+       "en": "Thanks for helping me point out the mistake.",
+       "ko": "실수를 짚어내게 도와줘서 고마워.",
+       "focus": "point out the mistake"
+      }
+     },
+     {
+      "phrase": "point to",
+      "ko": "~를 시사하다",
+      "example": {
+       "en": "All the numbers point to a busy weekend.",
+       "ko": "숫자를 보면 다 주말이 바쁠 거라는 얘기야.",
+       "focus": "point to a busy weekend"
+      }
+     }
+    ]
+   },
+   {
+    "id": "point-3",
+    "pos": "n",
+    "ko": "의미, 소용",
+    "en": "a reason or purpose for doing something",
+    "nuance": "There's no point in -ing는 '해 봤자 소용없다'는 뜻으로 회화에서 통째로 쓴다. What's the point?는 '그래서 뭐 하러?'다.",
+    "pattern": "no point in + -ing",
+    "examples": [
+     {
+      "en": "There's no point in waiting any longer.",
+      "ko": "더 기다려 봤자 소용없어.",
+      "focus": "no point in waiting"
+     },
+     {
+      "en": "What's the point of buying two of them?",
+      "ko": "그걸 두 개나 사는 게 무슨 의미가 있어?",
+      "focus": "the point of buying"
+     }
+    ]
+   },
+   {
+    "id": "point-4",
+    "pos": "n",
+    "ko": "점수",
+    "en": "a unit used to keep score in a game or test",
+    "nuance": "경기·게임 점수 단위다. 시험 성적 전체를 말할 때는 score나 grade를 쓴다.",
+    "pattern": "score + 숫자 + points",
+    "examples": [
+     {
+      "en": "Our team won by three points last night.",
+      "ko": "우리 팀 어젯밤에 3점 차로 이겼어.",
+      "focus": "by three points"
+     },
+     {
+      "en": "You get one point for every correct answer.",
+      "ko": "정답 하나당 1점씩 받아.",
+      "focus": "one point"
+     }
+    ],
+    "collocations": [
+     "score a point"
+    ]
+   },
+   {
+    "id": "point-5",
+    "pos": "n",
+    "ko": "시점, 지점",
+    "en": "a particular time or place in a process",
+    "nuance": "at this point는 '지금 이 시점에서는'이라는 뜻으로 회의·상담에서 자주 쓴다. 장소보다 시간에 쓰는 일이 더 많다.",
+    "pattern": "at this point / at some point",
+    "examples": [
+     {
+      "en": "At this point, we should just order delivery.",
+      "ko": "이쯤 되면 그냥 배달 시키는 게 낫겠어.",
+      "focus": "At this point"
+     },
+     {
+      "en": "I want to visit London at some point next year.",
+      "ko": "내년 언젠가 런던에 가 보고 싶어.",
+      "focus": "at some point"
+     }
+    ]
+   }
+  ],
+  "wordFamily": [
+   {
+    "form": "pointless",
+    "pos": "adj",
+    "ko": "무의미한"
+   },
+   {
+    "form": "pointed",
+    "pos": "adj",
+    "ko": "뾰족한, 노골적인"
+   }
+  ],
+  "confusables": [
+   {
+    "word": "spot",
+    "note": "spot은 구체적인 자리·장소, point는 대화의 요점이나 추상적인 지점을 말한다."
+   },
+   {
+    "word": "score",
+    "note": "point는 점수 한 단위, score는 총점이다. 3점은 three points, 점수는 the score다."
+   },
+   {
+    "word": "idea",
+    "note": "idea는 머릿속 생각 자체, point는 상대에게 전하려는 핵심 주장이다."
+   }
+  ],
+  "memoryHook": "뾰족하게 '콕 집는다'는 그림에서 가리키다·요점·점수가 다 나온다."
+ },
+ {
+  "id": "little",
+  "headword": "little",
+  "ipa": "/ˈlɪtl/",
+  "level": "PRE",
+  "isCore": true,
+  "topic": "time_quantity",
+  "forms": [
+   "littler",
+   "littlest"
+  ],
+  "senses": [
+   {
+    "id": "little-1",
+    "pos": "det",
+    "ko": "조금의, 약간의",
+    "en": "a small amount of something you cannot count",
+    "nuance": "a little은 '조금 있다'는 긍정, a를 빼고 little만 쓰면 '거의 없다'는 부정이 된다. 셀 수 있는 명사에는 a few를 쓴다.",
+    "pattern": "a little + 셀 수 없는 명사",
+    "examples": [
+     {
+      "en": "Can I have a little more rice, please?",
+      "ko": "밥 조금만 더 주실 수 있어요?",
+      "focus": "a little more rice"
+     },
+     {
+      "en": "I need a little time to think about it.",
+      "ko": "그거 생각할 시간이 조금 필요해.",
+      "focus": "a little time"
+     }
+    ],
+    "collocations": [
+     "a little time",
+     "a little money"
+    ]
+   },
+   {
+    "id": "little-2",
+    "pos": "adv",
+    "ko": "조금, 약간",
+    "en": "to a small degree",
+    "nuance": "형용사 앞에서 a little tired처럼 정도를 낮춘다. a little bit으로 늘여 말하면 더 부드럽게 들린다.",
+    "pattern": "a little + 형용사",
+    "examples": [
+     {
+      "en": "I'm a little tired, but I can keep going.",
+      "ko": "좀 피곤한데, 그래도 계속할 수 있어.",
+      "focus": "a little tired"
+     },
+     {
+      "en": "This shirt is a little bit too big for me.",
+      "ko": "이 셔츠 나한테 좀 크네.",
+      "focus": "a little bit too big"
+     }
+    ],
+    "collocations": [
+     "a little bit"
+    ]
+   },
+   {
+    "id": "little-3",
+    "pos": "adj",
+    "ko": "작은, 어린",
+    "en": "small in size, or young in age",
+    "nuance": "small이 크기만 말하는 반면 이 단어는 '귀엽다·정겹다'는 감정이 섞인다. 동생은 my little brother라고 한다.",
+    "pattern": "little + 명사",
+    "examples": [
+     {
+      "en": "My little brother just started middle school.",
+      "ko": "우리 남동생 이제 막 중학교 들어갔어.",
+      "focus": "little brother"
+     },
+     {
+      "en": "There's a nice little cafe around the corner.",
+      "ko": "모퉁이 돌면 아담하고 괜찮은 카페가 있어.",
+      "focus": "nice little cafe"
+     }
+    ],
+    "collocations": [
+     "a little girl"
+    ]
+   },
+   {
+    "id": "little-4",
+    "pos": "det",
+    "ko": "거의 없는",
+    "en": "almost none of something",
+    "nuance": "a 없이 쓰면 '거의 없어서 문제다'라는 부정적 뜻이 된다. very little로 강조하는 일이 많고 격식 있는 말투다.",
+    "pattern": "little + 명사 (a 없이)",
+    "examples": [
+     {
+      "en": "We have very little time before the train leaves.",
+      "ko": "기차 떠나기 전까지 시간이 거의 없어.",
+      "focus": "very little time"
+     },
+     {
+      "en": "He said little about what happened yesterday.",
+      "ko": "그는 어제 일에 대해 거의 말을 안 했어.",
+      "focus": "said little"
+     }
+    ]
+   }
+  ],
+  "confusables": [
+   {
+    "word": "small",
+    "note": "small은 크기만 객관적으로, little은 '작고 귀엽다'는 감정이 섞인다."
+   },
+   {
+    "word": "few",
+    "note": "a little은 물·시간처럼 셀 수 없는 것, a few는 사람·개수처럼 셀 수 있는 것에 쓴다."
+   },
+   {
+    "word": "less",
+    "note": "little의 비교급은 회화에서 littler가 아니라 less를 쓴다."
+   }
+  ],
+  "memoryHook": "a가 붙으면 '조금 있다', a가 빠지면 '거의 없다'로 뜻이 뒤집힌다."
+ },
+ {
+  "id": "help",
+  "headword": "help",
+  "ipa": "/help/",
+  "level": "PRE",
+  "isCore": true,
+  "topic": "people_family",
+  "forms": [
+   "helped",
+   "helping",
+   "helpings",
+   "helps"
+  ],
+  "senses": [
+   {
+    "id": "help-1",
+    "pos": "v",
+    "ko": "돕다, 도와주다",
+    "en": "to make it easier for someone to do something",
+    "nuance": "뒤에 사람이 오고 그다음 동사는 to가 있어도 없어도 된다. 회화에서는 help me carry처럼 to를 빼는 쪽이 더 자연스럽다.",
+    "pattern": "help + 사람 + (to) 동사원형",
+    "examples": [
+     {
+      "en": "Can you help me carry these boxes upstairs?",
+      "ko": "이 상자들 위층으로 옮기는 것 좀 도와줄래?",
+      "focus": "help me carry"
+     },
+     {
+      "en": "Emma helped me a lot with my resume.",
+      "ko": "엠마가 내 이력서 쓰는 거 많이 도와줬어.",
+      "focus": "helped me a lot"
+     },
+     {
+      "en": "I'm helping my parents move this weekend.",
+      "ko": "이번 주말에 부모님 이사 도와드리고 있어.",
+      "focus": "helping my parents move"
+     }
+    ],
+    "collocations": [
+     "help me with",
+     "help each other"
+    ],
+    "phrasals": [
+     {
+      "phrase": "help out",
+      "ko": "거들다, 도와주다",
+      "example": {
+       "en": "Could you help out at the shop on Saturday?",
+       "ko": "토요일에 가게에서 좀 거들어 줄 수 있어?",
+       "focus": "help out at the shop"
+      }
+     },
+     {
+      "phrase": "help yourself",
+      "ko": "마음껏 드세요",
+      "example": {
+       "en": "Help yourself to the snacks on the table.",
+       "ko": "테이블에 있는 간식 마음껏 드세요.",
+       "focus": "Help yourself to the snacks"
+      }
+     }
+    ]
+   },
+   {
+    "id": "help-2",
+    "pos": "v",
+    "ko": "도움이 되다, 효과가 있다",
+    "en": "to make a bad situation better",
+    "nuance": "사람이 아니라 약·방법·행동이 주어로 온다. 약을 먹고 나아졌으면 It helped라고 한다.",
+    "pattern": "주어(사물) + helps",
+    "examples": [
+     {
+      "en": "Drinking warm water really helps when you're sick.",
+      "ko": "아플 때 따뜻한 물 마시면 진짜 도움 돼.",
+      "focus": "really helps"
+     },
+     {
+      "en": "It helps if you write everything down first.",
+      "ko": "먼저 다 적어 두면 도움이 돼.",
+      "focus": "It helps"
+     }
+    ]
+   },
+   {
+    "id": "help-3",
+    "pos": "n",
+    "ko": "도움",
+    "en": "the act of making things easier for someone",
+    "nuance": "셀 수 없는 명사라 a help나 helps라고 하지 않는다. Thanks for your help가 가장 흔한 형태다.",
+    "pattern": "need help / ask for help",
+    "examples": [
+     {
+      "en": "Thanks for your help with the presentation.",
+      "ko": "발표 도와주셔서 감사합니다.",
+      "focus": "your help"
+     },
+     {
+      "en": "Do you need any help finding your seat?",
+      "ko": "자리 찾는 거 도움 필요하세요?",
+      "focus": "need any help"
+     }
+    ],
+    "collocations": [
+     "need help",
+     "ask for help"
+    ]
+   },
+   {
+    "id": "help-4",
+    "pos": "v",
+    "ko": "참다, 어쩔 수 없다",
+    "en": "used with 'can't' to say you cannot stop doing it",
+    "nuance": "can't help -ing는 '나도 모르게 자꾸 그러게 된다'는 뜻이다. I can't help it은 '나도 어쩔 수 없어'라는 변명이다.",
+    "pattern": "can't help + -ing",
+    "examples": [
+     {
+      "en": "I can't help laughing every time I see that photo.",
+      "ko": "그 사진 볼 때마다 웃음이 나오는 걸 못 참겠어.",
+      "focus": "can't help laughing"
+     },
+     {
+      "en": "Sorry, I'm late again. I can't help it.",
+      "ko": "미안, 또 늦었어. 나도 어쩔 수가 없어.",
+      "focus": "can't help it"
+     }
+    ]
+   }
+  ],
+  "wordFamily": [
+   {
+    "form": "helpful",
+    "pos": "adj",
+    "ko": "도움이 되는"
+   },
+   {
+    "form": "helpless",
+    "pos": "adj",
+    "ko": "무력한"
+   },
+   {
+    "form": "helper",
+    "pos": "n",
+    "ko": "돕는 사람"
+   }
+  ],
+  "confusables": [
+   {
+    "word": "support",
+    "note": "help는 구체적인 일을 거드는 것, support는 마음·돈으로 지지하는 것이다."
+   },
+   {
+    "word": "save",
+    "note": "save는 위험에서 구해 내는 것이고, help는 그냥 편하게 만들어 주는 것이다."
+   }
+  ],
+  "memoryHook": "사람이 도우면 help me, 약이 들으면 it helps로 주어만 바뀐다."
+ },
+ {
+  "id": "ask",
+  "headword": "ask",
+  "ipa": "/æsk/",
+  "level": "PRE",
+  "isCore": true,
+  "topic": "communication",
+  "forms": [
+   "asked",
+   "asking",
+   "asks"
+  ],
+  "senses": [
+   {
+    "id": "ask-1",
+    "pos": "v",
+    "ko": "묻다, 질문하다",
+    "en": "to say something to someone because you want an answer",
+    "nuance": "사람 앞에 to를 붙이지 않는다. ask to me는 틀리고 ask me가 맞으며, 주제는 about으로 붙인다.",
+    "pattern": "ask + 사람 + about ~",
+    "examples": [
+     {
+      "en": "Can I ask you something about the schedule?",
+      "ko": "일정에 대해 뭐 하나 물어봐도 될까?",
+      "focus": "ask you something"
+     },
+     {
+      "en": "She asked me where the bathroom was.",
+      "ko": "그 사람이 나한테 화장실이 어디냐고 물었어.",
+      "focus": "asked me where"
+     },
+     {
+      "en": "Don't be shy about asking questions in class.",
+      "ko": "수업에서 질문하는 거 부끄러워하지 마.",
+      "focus": "asking questions"
+     }
+    ],
+    "collocations": [
+     "ask a question",
+     "ask about it"
+    ]
+   },
+   {
+    "id": "ask-2",
+    "pos": "v",
+    "ko": "부탁하다, 요청하다",
+    "en": "to say that you want someone to do something for you",
+    "nuance": "부탁받는 사람이 바로 오고 내용은 to부정사로 온다. 물건을 부탁할 때는 ask for를 쓴다.",
+    "pattern": "ask + 사람 + to 동사원형",
+    "examples": [
+     {
+      "en": "My boss asked me to work late tonight.",
+      "ko": "상사가 나한테 오늘 밤 야근하라고 했어.",
+      "focus": "asked me to work late"
+     },
+     {
+      "en": "Can I ask you to close the window?",
+      "ko": "창문 좀 닫아 달라고 부탁해도 될까?",
+      "focus": "ask you to close"
+     }
+    ],
+    "collocations": [
+     "ask a favor"
+    ],
+    "phrasals": [
+     {
+      "phrase": "ask for",
+      "ko": "달라고 하다",
+      "example": {
+       "en": "Just ask for the manager at the front desk.",
+       "ko": "프런트에서 매니저 불러 달라고 하면 돼.",
+       "focus": "ask for the manager"
+      }
+     },
+     {
+      "phrase": "ask out",
+      "ko": "데이트 신청하다",
+      "example": {
+       "en": "Jun is too nervous to ask her out.",
+       "ko": "준은 너무 긴장해서 그 애한테 데이트 신청을 못 해.",
+       "focus": "ask her out"
+      }
+     },
+     {
+      "phrase": "ask around",
+      "ko": "여기저기 물어보다",
+      "example": {
+       "en": "Let me ask around and see who's free.",
+       "ko": "내가 여기저기 물어보고 누가 시간 되는지 볼게.",
+       "focus": "ask around"
+      }
+     }
+    ]
+   },
+   {
+    "id": "ask-3",
+    "pos": "v",
+    "ko": "(값을) 요구하다",
+    "en": "to want a certain amount of money for something",
+    "nuance": "파는 사람이 값을 부를 때 쓴다. How much are they asking?은 '얼마 부르는데?'라는 뜻이다.",
+    "pattern": "ask + 금액 + for ~",
+    "examples": [
+     {
+      "en": "They're asking too much for that old car.",
+      "ko": "저 중고차에 값을 너무 비싸게 부르네.",
+      "focus": "asking too much"
+     },
+     {
+      "en": "How much is the landlord asking for the room?",
+      "ko": "집주인이 그 방을 얼마에 내놨어?",
+      "focus": "asking for the room"
+     }
+    ]
+   }
+  ],
+  "confusables": [
+   {
+    "word": "question",
+    "note": "ask는 동사, question은 명사다. 질문하다는 ask a question이지 question a question이 아니다."
+   },
+   {
+    "word": "tell",
+    "note": "ask는 답을 받으려고 묻는 것, tell은 내가 정보를 주는 것이다."
+   },
+   {
+    "word": "request",
+    "note": "request는 서류·격식 표현이고, 말로 부탁할 때는 ask를 쓴다."
+   }
+  ],
+  "memoryHook": "ask 뒤에는 사람이 바로 온다. ask to me는 없다고 통째로 외운다."
+ },
+ {
+  "id": "meet",
+  "headword": "meet",
+  "ipa": "/miːt/",
+  "level": "PRE",
+  "isCore": true,
+  "topic": "people_family",
+  "forms": [
+   "meeting",
+   "meetings",
+   "meets",
+   "met"
+  ],
+  "senses": [
+   {
+    "id": "meet-1",
+    "pos": "v",
+    "ko": "만나다, 보다",
+    "en": "to come together with someone at an agreed time",
+    "nuance": "약속해서 만나는 경우다. 뒤에 with 없이 바로 사람이 오고, 장소는 at으로 붙인다.",
+    "pattern": "meet + 사람 + at + 장소",
+    "examples": [
+     {
+      "en": "Let's meet at the station around seven.",
+      "ko": "일곱 시쯤 역에서 만나자.",
+      "focus": "meet at the station"
+     },
+     {
+      "en": "I'm meeting Mina for lunch near her office tomorrow.",
+      "ko": "내일 미나 회사 근처에서 미나랑 점심 먹기로 했어.",
+      "focus": "meeting Mina for lunch"
+     },
+     {
+      "en": "We met at a cafe near my office.",
+      "ko": "우리 우리 회사 근처 카페에서 만났어.",
+      "focus": "met at a cafe"
+     }
+    ],
+    "collocations": [
+     "meet a friend",
+     "meet up"
+    ]
+   },
+   {
+    "id": "meet-2",
+    "pos": "v",
+    "ko": "처음 알게 되다",
+    "en": "to see and talk to someone for the first time",
+    "nuance": "초면일 때만 Nice to meet you라고 하고, 아는 사이에는 Nice to see you를 쓴다. 한국인이 가장 많이 틀리는 지점이다.",
+    "pattern": "meet + 사람 (초면)",
+    "examples": [
+     {
+      "en": "Nice to meet you. I'm Tom from the design team.",
+      "ko": "처음 뵙겠습니다. 디자인팀 톰입니다.",
+      "focus": "Nice to meet you"
+     },
+     {
+      "en": "Where did you two first meet each other?",
+      "ko": "너희 둘 처음에 어디서 만났어?",
+      "focus": "first meet each other"
+     }
+    ],
+    "collocations": [
+     "meet someone new"
+    ],
+    "phrasals": [
+     {
+      "phrase": "meet up",
+      "ko": "만나서 놀다",
+      "example": {
+       "en": "Do you want to meet up after work today?",
+       "ko": "오늘 퇴근하고 만날래?",
+       "focus": "meet up after work"
+      }
+     },
+     {
+      "phrase": "meet with",
+      "ko": "면담하다",
+      "example": {
+       "en": "I have to meet with my professor tomorrow morning.",
+       "ko": "내일 아침에 교수님이랑 면담해야 해.",
+       "focus": "meet with my professor"
+      }
+     }
+    ]
+   },
+   {
+    "id": "meet-3",
+    "pos": "v",
+    "ko": "마중 나가다",
+    "en": "to go to a place and wait there for someone arriving",
+    "nuance": "공항·역에 나가서 기다린다는 뜻이다. 그냥 만나는 것과 달리 '내가 그쪽으로 나간다'는 느낌이 있다.",
+    "pattern": "meet + 사람 + at 공항/역",
+    "examples": [
+     {
+      "en": "I'll meet you at the airport on Friday night.",
+      "ko": "금요일 밤에 공항으로 마중 나갈게.",
+      "focus": "meet you at the airport"
+     },
+     {
+      "en": "Can someone meet my parents at the bus terminal?",
+      "ko": "누가 버스 터미널로 우리 부모님 마중 나가 줄 수 있어?",
+      "focus": "meet my parents at the bus terminal"
+     }
+    ]
+   },
+   {
+    "id": "meet-4",
+    "pos": "v",
+    "ko": "충족하다, 맞추다",
+    "en": "to do what is needed or expected",
+    "nuance": "기한·기준·조건을 지킨다는 뜻으로 직장에서 자주 쓴다. meet the deadline이 대표적이다.",
+    "pattern": "meet + 기준/기한",
+    "examples": [
+     {
+      "en": "We have to meet the deadline by Friday.",
+      "ko": "우리 금요일까지 마감을 맞춰야 해.",
+      "focus": "meet the deadline"
+     },
+     {
+      "en": "Does this plan meet all of your needs?",
+      "ko": "이 계획이 필요하신 걸 다 충족하나요?",
+      "focus": "meet all of your needs"
+     }
+    ],
+    "collocations": [
+     "meet the deadline"
+    ]
+   }
+  ],
+  "wordFamily": [
+   {
+    "form": "meeting",
+    "pos": "n",
+    "ko": "회의, 모임"
+   }
+  ],
+  "confusables": [
+   {
+    "word": "see",
+    "note": "초면에는 meet, 아는 사이를 다시 볼 때는 see를 쓴다. Nice to see you again이 맞다."
+   },
+   {
+    "word": "know",
+    "note": "meet은 만나는 순간, know는 이미 아는 상태다. I met him은 '만났다'이다."
+   },
+   {
+    "word": "join",
+    "note": "join은 이미 모인 자리에 끼는 것, meet은 서로 만나는 것이다."
+   }
+  ],
+  "memoryHook": "초면이면 meet, 구면이면 see로 인사말을 갈라 둔다."
+ },
+ {
+  "id": "start",
+  "headword": "start",
+  "ipa": "/stɑːrt/",
+  "level": "PRE",
+  "isCore": true,
+  "topic": "time_quantity",
+  "forms": [
+   "started",
+   "starting",
+   "starts"
+  ],
+  "senses": [
+   {
+    "id": "start-1",
+    "pos": "v",
+    "ko": "시작하다",
+    "en": "to begin doing something",
+    "nuance": "begin보다 훨씬 구어적이라 일상 대화에서는 거의 이 단어를 쓴다. 뒤에 to부정사와 -ing 둘 다 되고 뜻 차이는 거의 없다.",
+    "pattern": "start + -ing / to 동사원형",
+    "examples": [
+     {
+      "en": "I started learning English again last month.",
+      "ko": "나 지난달부터 영어 다시 배우기 시작했어.",
+      "focus": "started learning"
+     },
+     {
+      "en": "Let's start with the easy questions first.",
+      "ko": "쉬운 문제부터 먼저 시작하자.",
+      "focus": "start with the easy questions"
+     },
+     {
+      "en": "It's starting to rain, so take an umbrella.",
+      "ko": "비 오기 시작하니까 우산 챙겨.",
+      "focus": "starting to rain"
+     }
+    ],
+    "collocations": [
+     "start work",
+     "start with"
+    ]
+   },
+   {
+    "id": "start-2",
+    "pos": "v",
+    "ko": "(기계를) 켜다, 걸다",
+    "en": "to make a machine or engine begin working",
+    "nuance": "시동을 걸거나 기계를 돌린다는 뜻이다. 컴퓨터·TV를 켤 때는 turn on을 쓰고 이 단어는 쓰지 않는다.",
+    "pattern": "start + 기계/차",
+    "examples": [
+     {
+      "en": "My car won't start in this cold weather.",
+      "ko": "이렇게 추운 날씨엔 우리 차 시동이 안 걸려.",
+      "focus": "start in this cold weather"
+     },
+     {
+      "en": "Can you start the washing machine before you leave?",
+      "ko": "나가기 전에 세탁기 좀 돌려 줄래?",
+      "focus": "start the washing machine"
+     }
+    ],
+    "collocations": [
+     "start the car"
+    ],
+    "phrasals": [
+     {
+      "phrase": "start over",
+      "ko": "처음부터 다시 하다",
+      "example": {
+       "en": "This is a mess. Let's just start over.",
+       "ko": "이거 엉망이야. 그냥 처음부터 다시 하자.",
+       "focus": "start over"
+      }
+     },
+     {
+      "phrase": "start off",
+      "ko": "~로 출발하다, 먼저 하다",
+      "example": {
+       "en": "Let's start off with a quick introduction.",
+       "ko": "간단한 소개부터 시작하죠.",
+       "focus": "start off with a quick introduction"
+      }
+     },
+     {
+      "phrase": "start out",
+      "ko": "처음에 ~로 시작하다",
+      "example": {
+       "en": "Most people start out as part-time workers here.",
+       "ko": "여기 대부분은 아르바이트로 시작해.",
+       "focus": "start out as part-time workers"
+      }
+     }
+    ]
+   },
+   {
+    "id": "start-3",
+    "pos": "n",
+    "ko": "시작, 출발",
+    "en": "the first part of something",
+    "nuance": "from the start(처음부터)와 get a good start 같은 굳은 표현으로 자주 쓴다. 이야기 서두는 the beginning도 쓴다.",
+    "pattern": "from the start / at the start",
+    "examples": [
+     {
+      "en": "I knew from the start that it wouldn't work.",
+      "ko": "처음부터 안 될 거라는 걸 알았어.",
+      "focus": "from the start"
+     },
+     {
+      "en": "That was a great start to the morning.",
+      "ko": "아침 출발이 아주 좋았어.",
+      "focus": "a great start"
+     }
+    ],
+    "collocations": [
+     "a fresh start"
+    ]
+   },
+   {
+    "id": "start-4",
+    "pos": "v",
+    "ko": "창업하다, 만들다",
+    "en": "to create a new company or group",
+    "nuance": "회사·사업·밴드를 새로 만든다는 뜻이다. open a shop은 가게 문을 여는 것이고 이 단어는 사업 자체를 세우는 것이다.",
+    "pattern": "start a + 회사/사업",
+    "examples": [
+     {
+      "en": "Emma wants to start her own business next year.",
+      "ko": "엠마는 내년에 자기 사업을 시작하고 싶어 해.",
+      "focus": "start her own business"
+     },
+     {
+      "en": "They started a small book club at work.",
+      "ko": "걔네 회사에서 작은 독서 모임을 만들었어.",
+      "focus": "started a small book club"
+     }
+    ]
+   }
+  ],
+  "confusables": [
+   {
+    "word": "begin",
+    "note": "뜻은 같지만 begin은 글말·격식, start는 대화에서 쓴다. 기계 시동에는 begin을 못 쓴다."
+   },
+   {
+    "word": "open",
+    "note": "open은 문·가게를 여는 것, start는 활동이나 사업을 개시하는 것이다."
+   }
+  ],
+  "memoryHook": "대화에서는 거의 다 start, 글에서만 begin으로 갈아입는다."
+ },
+ {
+  "id": "talk",
+  "headword": "talk",
+  "ipa": "/tɔːk/",
+  "level": "PRE",
+  "isCore": true,
+  "topic": "communication",
+  "forms": [
+   "talked",
+   "talking",
+   "talks"
+  ],
+  "senses": [
+   {
+    "id": "talk-1",
+    "pos": "v",
+    "ko": "이야기하다, 말하다",
+    "en": "to say things to someone as part of a conversation",
+    "nuance": "혼자 말하는 게 아니라 주고받는 대화다. 상대는 to나 with로, 주제는 about으로 붙인다.",
+    "pattern": "talk to + 사람 / talk about + 주제",
+    "examples": [
+     {
+      "en": "Can we talk about this after the meeting?",
+      "ko": "이거 회의 끝나고 얘기할 수 있을까?",
+      "focus": "talk about this"
+     },
+     {
+      "en": "I talked to Mina on the phone last night.",
+      "ko": "어젯밤에 미나랑 전화로 얘기했어.",
+      "focus": "talked to Mina"
+     },
+     {
+      "en": "We were talking about you just now.",
+      "ko": "우리 방금 네 얘기 하고 있었어.",
+      "focus": "talking about you"
+     }
+    ],
+    "collocations": [
+     "talk to you",
+     "talk about work"
+    ]
+   },
+   {
+    "id": "talk-2",
+    "pos": "v",
+    "ko": "말할 줄 알다, 말이 통하다",
+    "en": "to be able to use speech or a language",
+    "nuance": "어린아이가 말을 떼거나 화가 나서 말을 안 할 때 쓴다. '영어를 잘한다'는 talk English가 아니라 speak English다.",
+    "pattern": "talk (to each other)",
+    "examples": [
+     {
+      "en": "My niece is two and she can already talk.",
+      "ko": "우리 조카 두 살인데 벌써 말해.",
+      "focus": "can already talk"
+     },
+     {
+      "en": "Those two haven't talked since the argument.",
+      "ko": "쟤네 둘은 그 말다툼 이후로 말을 안 해.",
+      "focus": "haven't talked"
+     }
+    ]
+   },
+   {
+    "id": "talk-3",
+    "pos": "n",
+    "ko": "대화, 이야기",
+    "en": "a conversation between two people about something",
+    "nuance": "have a talk는 가볍게 대화하는 게 아니라 '진지하게 얘기 좀 하자'는 느낌이 강하다. chat은 훨씬 가볍다.",
+    "pattern": "have a talk with + 사람",
+    "examples": [
+     {
+      "en": "We need to have a talk about your grades.",
+      "ko": "네 성적에 대해 얘기 좀 해야겠다.",
+      "focus": "have a talk"
+     },
+     {
+      "en": "After a long talk, we finally agreed.",
+      "ko": "오래 얘기한 끝에 우리는 결국 합의했어.",
+      "focus": "a long talk"
+     }
+    ],
+    "collocations": [
+     "have a talk"
+    ]
+   },
+   {
+    "id": "talk-4",
+    "pos": "n",
+    "ko": "강연, 발표",
+    "en": "a speech given to a group of people",
+    "nuance": "give a talk는 딱딱한 연설(speech)보다 편한 발표·강연이다. 회사 발표는 presentation을 쓴다.",
+    "pattern": "give a talk on + 주제",
+    "examples": [
+     {
+      "en": "She gave a short talk on climate change.",
+      "ko": "그분이 기후 변화에 대해 짧게 강연했어.",
+      "focus": "gave a short talk"
+     },
+     {
+      "en": "I'm nervous about my talk tomorrow morning.",
+      "ko": "내일 아침 발표 때문에 긴장돼.",
+      "focus": "my talk tomorrow"
+     }
+    ],
+    "collocations": [
+     "give a talk"
+    ],
+    "phrasals": [
+     {
+      "phrase": "talk over",
+      "ko": "상의하다",
+      "example": {
+       "en": "Let's talk it over during lunch tomorrow.",
+       "ko": "내일 점심 때 그거 상의해 보자.",
+       "focus": "talk it over"
+      }
+     },
+     {
+      "phrase": "talk into",
+      "ko": "설득해서 ~하게 하다",
+      "example": {
+       "en": "Don't let him talk you into buying that.",
+       "ko": "걔가 너 꼬드겨서 그거 사게 하지 마.",
+       "focus": "talk you into buying"
+      }
+     },
+     {
+      "phrase": "talk back",
+      "ko": "말대꾸하다",
+      "example": {
+       "en": "Kids should not talk back to their parents.",
+       "ko": "아이들이 부모한테 말대꾸하면 안 되지.",
+       "focus": "talk back to their parents"
+      }
+     }
+    ]
+   }
+  ],
+  "wordFamily": [
+   {
+    "form": "talkative",
+    "pos": "adj",
+    "ko": "말이 많은"
+   }
+  ],
+  "confusables": [
+   {
+    "word": "speak",
+    "note": "언어 실력은 speak English, 주고받는 대화는 talk다. 전화 격식체도 speak를 쓴다."
+   },
+   {
+    "word": "say",
+    "note": "say 뒤에는 말한 내용이 오고, talk 뒤에는 상대나 주제가 온다."
+   },
+   {
+    "word": "tell",
+    "note": "tell은 정보를 전달하는 일방향, talk는 서로 주고받는 대화다."
+   }
+  ],
+  "memoryHook": "talk는 공을 주고받는 그림, speak·say는 내가 던지기만 하는 그림이다."
+ },
+ {
+  "id": "put",
+  "headword": "put",
+  "ipa": "/pʊt/",
+  "level": "PRE",
+  "isCore": true,
+  "topic": "movement_action",
+  "forms": [
+   "puts",
+   "putted",
+   "putting"
+  ],
+  "senses": [
+   {
+    "id": "put-1",
+    "pos": "v",
+    "ko": "놓다, 두다",
+    "en": "to move something into a place or position",
+    "nuance": "뒤에 장소를 나타내는 말이 반드시 따라와야 한다. I put the bag만 쓰면 어색하고 on the table 같은 위치가 필요하다.",
+    "pattern": "put + 사물 + 장소 표현",
+    "examples": [
+     {
+      "en": "Just put your bag on the chair over there.",
+      "ko": "가방은 그냥 저기 의자에 놔.",
+      "focus": "put your bag on the chair"
+     },
+     {
+      "en": "Where did you put my phone charger?",
+      "ko": "내 폰 충전기 어디다 뒀어?",
+      "focus": "put my phone charger"
+     },
+     {
+      "en": "I'm putting the milk back in the fridge.",
+      "ko": "우유 냉장고에 도로 넣는 중이야.",
+      "focus": "putting the milk back"
+     }
+    ],
+    "collocations": [
+     "put it away",
+     "put it down"
+    ]
+   },
+   {
+    "id": "put-2",
+    "pos": "v",
+    "ko": "(글로) 쓰다, 적다",
+    "en": "to write or mark something in a certain place",
+    "nuance": "서류의 빈칸에 뭘 적으라고 할 때 쓴다. write보다 가볍고 '여기다 적어'라는 지시에 어울린다.",
+    "pattern": "put + 내용 + in/on + 칸",
+    "examples": [
+     {
+      "en": "Put your name and number on the top line.",
+      "ko": "맨 윗줄에 이름이랑 번호 적으세요.",
+      "focus": "Put your name"
+     },
+     {
+      "en": "I put the meeting in my calendar already.",
+      "ko": "회의는 벌써 달력에 적어 놨어.",
+      "focus": "put the meeting in my calendar"
+     }
+    ]
+   },
+   {
+    "id": "put-3",
+    "pos": "v",
+    "ko": "표현하다, 말하다",
+    "en": "to say something in a particular way",
+    "nuance": "How should I put this?는 '이걸 어떻게 말해야 하나' 하고 뜸 들이는 표현이다. 말투·표현 방식을 고를 때 쓴다.",
+    "pattern": "put it + 부사",
+    "examples": [
+     {
+      "en": "How should I put this without sounding rude?",
+      "ko": "무례하게 안 들리게 이걸 어떻게 말하지?",
+      "focus": "put this"
+     },
+     {
+      "en": "Let me put it another way, if that helps.",
+      "ko": "도움이 된다면 다른 식으로 말해 볼게.",
+      "focus": "put it another way"
+     }
+    ]
+   },
+   {
+    "id": "put-4",
+    "pos": "v",
+    "ko": "(상태에) 빠뜨리다",
+    "en": "to cause someone to be in a certain situation",
+    "nuance": "사람을 어떤 처지에 놓는다는 뜻이다. put me in a difficult position은 '난처하게 만들다'라는 직장 표현이다.",
+    "pattern": "put + 사람 + in/under ~",
+    "examples": [
+     {
+      "en": "That question put me in a difficult position.",
+      "ko": "그 질문 때문에 내가 난처해졌어.",
+      "focus": "put me in a difficult position"
+     },
+     {
+      "en": "Don't put too much pressure on yourself.",
+      "ko": "너무 스스로를 몰아붙이지 마.",
+      "focus": "put too much pressure"
+     }
+    ],
+    "collocations": [
+     "put pressure on"
+    ],
+    "phrasals": [
+     {
+      "phrase": "put off",
+      "ko": "미루다",
+      "example": {
+       "en": "Don't put off your homework until Sunday night.",
+       "ko": "숙제를 일요일 밤까지 미루지 마.",
+       "focus": "put off your homework"
+      }
+     },
+     {
+      "phrase": "put on",
+      "ko": "입다, 걸치다",
+      "example": {
+       "en": "Put on a jacket before you go outside.",
+       "ko": "나가기 전에 재킷 입어.",
+       "focus": "Put on a jacket"
+      }
+     },
+     {
+      "phrase": "put up with",
+      "ko": "참고 견디다",
+      "example": {
+       "en": "I can't put up with this noise anymore.",
+       "ko": "이 소음 더는 못 참겠어.",
+       "focus": "put up with this noise"
+      }
+     },
+     {
+      "phrase": "put away",
+      "ko": "치우다, 제자리에 넣다",
+      "example": {
+       "en": "Please put away your toys before dinner.",
+       "ko": "저녁 먹기 전에 장난감 좀 치워.",
+       "focus": "put away your toys"
+      }
+     }
+    ]
+   }
+  ],
+  "confusables": [
+   {
+    "word": "place",
+    "note": "place는 조심스럽게 놓는 격식 표현이고, 일상 회화에서는 put을 쓴다."
+   },
+   {
+    "word": "set",
+    "note": "put은 위치를 옮기는 모든 경우, set은 '세워 두다·맞춰 두다'에 가깝다."
+   },
+   {
+    "word": "wear",
+    "note": "put on은 입는 동작, wear는 이미 입고 있는 상태다."
+   }
+  ],
+  "memoryHook": "put 뒤에는 '어디에'가 반드시 따라온다고 묶어서 외운다."
+ }
+]
