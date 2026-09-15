@@ -1,0 +1,1167 @@
+[
+ {
+  "id": "funny",
+  "headword": "funny",
+  "ipa": "/ˈfʌni/",
+  "level": "ELEM",
+  "isCore": false,
+  "topic": "emotions_personality",
+  "forms": ["funnier", "funniest"],
+  "senses": [
+   {
+    "id": "funny-1",
+    "pos": "adj",
+    "ko": "웃긴, 재미있는",
+    "en": "making you laugh or smile",
+    "nuance": "'재미있다'를 전부 funny로 옮기면 안 된다. 웃음이 나는 것만 funny이고, 영화나 게임이 흥미로우면 interesting이나 fun이다.",
+    "pattern": "be funny / a funny story",
+    "examples": [
+     {
+      "en": "Jun told a funny story and everyone started laughing.",
+      "ko": "준이 웃긴 얘기를 해서 다들 웃기 시작했어.",
+      "focus": "a funny story"
+     },
+     {
+      "en": "That movie was funnier than I expected last night.",
+      "ko": "그 영화는 어젯밤에 생각보다 더 웃겼어.",
+      "focus": "was funnier than"
+     }
+    ],
+    "collocations": ["a funny story", "really funny"]
+   },
+   {
+    "id": "funny-2",
+    "pos": "adj",
+    "ko": "이상한, 수상한",
+    "en": "strange in a way that worries you a little",
+    "nuance": "a funny smell처럼 쓰면 '웃긴'이 아니라 '뭔가 이상한'이다. 말투로 구별하니 웃는 맥락이 없으면 이 뜻으로 읽는다.",
+    "examples": [
+     {
+      "en": "There's a funny smell coming from the kitchen again.",
+      "ko": "부엌에서 또 이상한 냄새가 나.",
+      "focus": "a funny smell"
+     }
+    ],
+    "collocations": ["a funny feeling"]
+   }
+  ],
+  "confusables": [
+   { "word": "strange", "note": "funny는 웃기거나 살짝 이상한 느낌, strange는 그냥 낯설고 이상한 것을 말한다." }
+  ]
+ },
+ {
+  "id": "bottom",
+  "headword": "bottom",
+  "ipa": "/ˈbɑːtəm/",
+  "level": "ELEM",
+  "isCore": false,
+  "topic": "description_quality",
+  "forms": ["bottoms"],
+  "senses": [
+   {
+    "id": "bottom-1",
+    "pos": "n",
+    "ko": "맨 아래, 바닥",
+    "en": "the lowest part of something",
+    "nuance": "거의 항상 the bottom of처럼 the를 붙인다. 위치를 말할 때는 at the bottom, 반대말은 top이다.",
+    "pattern": "at the bottom of + 명사",
+    "examples": [
+     {
+      "en": "Your name is at the bottom of the list.",
+      "ko": "네 이름은 명단 맨 아래에 있어.",
+      "focus": "at the bottom of"
+     },
+     {
+      "en": "Emma found her keys at the bottom of her bag.",
+      "ko": "엠마는 가방 바닥에서 열쇠를 찾았어.",
+      "focus": "the bottom of her bag"
+     }
+    ],
+    "collocations": ["at the bottom of", "the bottom of the page"]
+   }
+  ],
+  "confusables": [
+   { "word": "bottle", "note": "bottom은 '바닥', bottle은 '병'이다. 발음도 t 뒤가 다르니 섞지 않는다." }
+  ]
+ },
+ {
+  "id": "hide",
+  "headword": "hide",
+  "ipa": "/haɪd/",
+  "level": "ELEM",
+  "isCore": false,
+  "topic": "movement_action",
+  "forms": ["hid", "hidden", "hides", "hiding"],
+  "senses": [
+   {
+    "id": "hide-1",
+    "pos": "v",
+    "ko": "숨기다, 감추다",
+    "en": "to put something where people cannot see or find it",
+    "nuance": "물건을 감출 때는 hide + 목적어, 내가 몸을 숨길 때는 목적어 없이 hide만 쓴다. hide myself는 어색하다.",
+    "pattern": "hide + 목적어 (+ from)",
+    "examples": [
+     {
+      "en": "Mina hid the birthday cake behind the fridge door.",
+      "ko": "미나는 생일 케이크를 냉장고 문 뒤에 숨겼어.",
+      "focus": "hid the birthday cake"
+     },
+     {
+      "en": "The kids are hiding under the table again.",
+      "ko": "애들이 또 식탁 밑에 숨어 있어.",
+      "focus": "are hiding under"
+     }
+    ],
+    "collocations": ["hide from", "hide the truth"]
+   }
+  ],
+  "wordFamily": [
+   { "form": "hidden", "pos": "adj", "ko": "숨겨진" }
+  ],
+  "confusables": [
+   { "word": "bury", "note": "hide는 눈에 안 띄게 감추는 것, bury는 땅이나 무언가 속에 파묻는 것이다." }
+  ]
+ },
+ {
+  "id": "ticket",
+  "headword": "ticket",
+  "ipa": "/ˈtɪkɪt/",
+  "level": "ELEM",
+  "isCore": false,
+  "topic": "travel_transport",
+  "forms": ["tickets"],
+  "senses": [
+   {
+    "id": "ticket-1",
+    "pos": "n",
+    "ko": "표, 입장권",
+    "en": "a small paper or file that lets you travel or enter",
+    "nuance": "'표를 끊다'는 buy a ticket이나 book a ticket이라고 한다. cut a ticket은 콩글리시다.",
+    "pattern": "a ticket to / for + 명사",
+    "examples": [
+     {
+      "en": "I booked two tickets for the show on Saturday.",
+      "ko": "토요일 공연 표 두 장 예매했어.",
+      "focus": "two tickets for the show"
+     },
+     {
+      "en": "Show your ticket to the driver when you get on.",
+      "ko": "탈 때 기사님께 표를 보여 주세요.",
+      "focus": "Show your ticket"
+     }
+    ],
+    "collocations": ["book a ticket", "a one-way ticket"]
+   }
+  ],
+  "confusables": [
+   { "word": "pocket", "note": "ticket은 '표', pocket은 '주머니'다. 철자가 -cket으로 같아 헷갈리기 쉽다." }
+  ]
+ },
+ {
+  "id": "meal",
+  "headword": "meal",
+  "ipa": "/miːl/",
+  "level": "ELEM",
+  "isCore": false,
+  "topic": "food_cooking",
+  "forms": ["meals"],
+  "senses": [
+   {
+    "id": "meal-1",
+    "pos": "n",
+    "ko": "식사, 끼니",
+    "en": "the food you eat at one time, like lunch or dinner",
+    "nuance": "아침·점심·저녁을 통틀어 부르는 말이라 셀 수 있다. '밥 먹었어?'처럼 음식 자체를 가리키는 food와 달리 '한 끼'를 센다.",
+    "pattern": "have / cook a meal",
+    "examples": [
+     {
+      "en": "We had a really nice meal at that new place.",
+      "ko": "우리 그 새로 생긴 집에서 진짜 잘 먹었어.",
+      "focus": "a really nice meal"
+     },
+     {
+      "en": "Tom cooks three meals a day for his family.",
+      "ko": "톰은 가족을 위해 하루 세 끼를 요리해.",
+      "focus": "three meals a day"
+     }
+    ],
+    "collocations": ["have a meal", "a home-cooked meal"]
+   }
+  ],
+  "confusables": [
+   { "word": "dinner", "note": "meal은 끼니 전체를 뜻하는 상위 말, dinner는 그중 저녁 한 끼를 가리킨다." }
+  ]
+ },
+ {
+  "id": "repeat",
+  "headword": "repeat",
+  "ipa": "/rɪˈpiːt/",
+  "level": "ELEM",
+  "isCore": false,
+  "topic": "communication",
+  "forms": ["repeated", "repeating", "repeats"],
+  "senses": [
+   {
+    "id": "repeat-1",
+    "pos": "v",
+    "ko": "반복하다, 다시 말하다",
+    "en": "to say or do the same thing again",
+    "nuance": "뒤에 바로 목적어가 오고 전치사를 넣지 않는다. repeat again은 '다시'가 겹쳐 어색하니 그냥 repeat이라고 한다.",
+    "pattern": "repeat + 목적어",
+    "examples": [
+     {
+      "en": "Could you repeat that? I didn't catch the last word.",
+      "ko": "다시 말씀해 주시겠어요? 마지막 단어를 못 들었어요.",
+      "focus": "repeat that"
+     },
+     {
+      "en": "The teacher repeated the question slowly for the class.",
+      "ko": "선생님이 반 아이들에게 질문을 천천히 다시 해 주셨어.",
+      "focus": "repeated the question"
+     }
+    ],
+    "collocations": ["repeat after me", "repeat a mistake"]
+   }
+  ],
+  "wordFamily": [
+   { "form": "repetition", "pos": "n", "ko": "반복" }
+  ],
+  "confusables": [
+   { "word": "report", "note": "repeat은 '되풀이하다', report는 '보고하다'다. 소리가 비슷해 듣고 헷갈리기 쉽다." }
+  ]
+ },
+ {
+  "id": "owner",
+  "headword": "owner",
+  "ipa": "/ˈoʊnər/",
+  "level": "ELEM",
+  "isCore": false,
+  "topic": "money_shopping",
+  "forms": ["owners"],
+  "senses": [
+   {
+    "id": "owner-1",
+    "pos": "n",
+    "ko": "주인, 소유자",
+    "en": "the person that something belongs to",
+    "nuance": "가게 '사장님'은 the owner이고 boss가 아니다. boss는 나를 지휘하는 상사를 뜻한다.",
+    "pattern": "the owner of + 명사",
+    "examples": [
+     {
+      "en": "The owner of the cafe remembers every regular customer.",
+      "ko": "그 카페 사장님은 단골손님을 다 기억해.",
+      "focus": "The owner of the cafe"
+     },
+     {
+      "en": "Dog owners have to clean up after their pets.",
+      "ko": "개 주인은 반려동물 뒤처리를 해야 해.",
+      "focus": "Dog owners"
+     }
+    ],
+    "collocations": ["the owner of", "a business owner"]
+   }
+  ],
+  "wordFamily": [
+   { "form": "own", "pos": "v", "ko": "소유하다" }
+  ],
+  "confusables": [
+   { "word": "corner", "note": "owner는 '주인', corner는 '모퉁이'다. 끝이 -ner로 같아 눈으로 헷갈린다." }
+  ]
+ },
+ {
+  "id": "lady",
+  "headword": "lady",
+  "ipa": "/ˈleɪdi/",
+  "level": "ELEM",
+  "isCore": false,
+  "topic": "people_family",
+  "forms": ["ladies"],
+  "senses": [
+   {
+    "id": "lady-1",
+    "pos": "n",
+    "ko": "여성분, 아주머니",
+    "en": "a polite way to talk about a grown-up female person",
+    "nuance": "woman보다 공손한 느낌이라 모르는 분을 가리킬 때 쓴다. 상대를 직접 Lady!라고 부르면 무례하게 들린다.",
+    "pattern": "a / the lady + 수식어",
+    "examples": [
+     {
+      "en": "The lady at the counter helped me find the size.",
+      "ko": "카운터에 계신 분이 사이즈 찾는 걸 도와주셨어.",
+      "focus": "The lady at the counter"
+     },
+     {
+      "en": "An older lady kindly gave Mina her seat.",
+      "ko": "나이 지긋한 여성분이 미나에게 자리를 양보해 주셨어.",
+      "focus": "An older lady"
+     }
+    ],
+    "collocations": ["an old lady", "ladies and gentlemen"]
+   }
+  ],
+  "confusables": [
+   { "word": "woman", "note": "lady는 예의를 갖춘 말, woman은 중립적인 말이다. 공식 글에서는 woman이 더 안전하다." }
+  ]
+ },
+ {
+  "id": "burn",
+  "headword": "burn",
+  "ipa": "/bɜːrn/",
+  "level": "ELEM",
+  "isCore": false,
+  "topic": "home_daily",
+  "forms": ["burned", "burning", "burns", "burnt"],
+  "senses": [
+   {
+    "id": "burn-1",
+    "pos": "v",
+    "ko": "타다, 태우다",
+    "en": "to be on fire, or to damage something with fire or heat",
+    "nuance": "불이 붙어 스스로 타도 burn, 내가 태워도 burn이라 목적어 유무로 구분한다. 과거형은 burned와 burnt 둘 다 맞다.",
+    "pattern": "burn (+ 목적어)",
+    "examples": [
+     {
+      "en": "I burned the toast because I forgot about it.",
+      "ko": "깜빡해서 토스트를 태워 먹었어.",
+      "focus": "burned the toast"
+     },
+     {
+      "en": "Be careful, the pan is still burning hot.",
+      "ko": "조심해, 팬이 아직 델 만큼 뜨거워.",
+      "focus": "burning hot"
+     }
+    ],
+    "collocations": ["burn the rice", "burn easily"]
+   },
+   {
+    "id": "burn-2",
+    "pos": "n",
+    "ko": "화상",
+    "en": "a sore mark on your skin made by fire or heat",
+    "nuance": "'데었다'는 I got a burn이나 I burned my hand라고 한다. wound는 베이거나 찢어진 상처라 이 경우엔 쓰지 않는다.",
+    "examples": [
+     {
+      "en": "She got a small burn on her finger from the oven.",
+      "ko": "그 애는 오븐에 손가락을 살짝 뎄어.",
+      "focus": "a small burn"
+     }
+    ]
+   }
+  ],
+  "confusables": [
+   { "word": "barn", "note": "burn은 '타다', barn은 '헛간'이다. 모음만 달라 발음할 때 주의한다." }
+  ]
+ },
+ {
+  "id": "pleasure",
+  "headword": "pleasure",
+  "ipa": "/ˈpleʒər/",
+  "level": "ELEM",
+  "isCore": false,
+  "topic": "emotions_personality",
+  "forms": ["pleasures"],
+  "senses": [
+   {
+    "id": "pleasure-1",
+    "pos": "n",
+    "ko": "기쁨, 즐거움",
+    "en": "the good feeling you get from something you enjoy",
+    "nuance": "고맙다는 말에 답할 때 My pleasure로 굳어져 쓴다. 이때 the나 a를 붙이지 않는다.",
+    "pattern": "My pleasure / with pleasure",
+    "examples": [
+     {
+      "en": "Thanks for the ride. My pleasure, anytime.",
+      "ko": "태워 줘서 고마워. 별말씀을, 언제든지.",
+      "focus": "My pleasure"
+     },
+     {
+      "en": "Reading before bed is one of my simple pleasures.",
+      "ko": "자기 전에 책 읽는 게 내 소소한 즐거움 중 하나야.",
+      "focus": "my simple pleasures"
+     }
+    ],
+    "collocations": ["my pleasure", "with pleasure"]
+   }
+  ],
+  "wordFamily": [
+   { "form": "pleasant", "pos": "adj", "ko": "기분 좋은" }
+  ],
+  "confusables": [
+   { "word": "pressure", "note": "pleasure는 '즐거움', pressure는 '압박'이다. 뜻이 정반대인데 철자가 비슷하다." }
+  ]
+ },
+ {
+  "id": "suggestion",
+  "headword": "suggestion",
+  "ipa": "/səˈdʒestʃən/",
+  "level": "ELEM",
+  "isCore": false,
+  "topic": "thinking_opinion",
+  "forms": ["suggestions"],
+  "senses": [
+   {
+    "id": "suggestion-1",
+    "pos": "n",
+    "ko": "제안, 의견",
+    "en": "an idea you give someone about what they could do",
+    "nuance": "'제안하다'는 make a suggestion이고 do나 give를 쓰지 않는다. 명령이 아니라 가볍게 던지는 의견이다.",
+    "pattern": "make a suggestion",
+    "examples": [
+     {
+      "en": "Can I make a suggestion about the meeting time?",
+      "ko": "회의 시간에 대해 제안 하나 해도 될까요?",
+      "focus": "make a suggestion"
+     },
+     {
+      "en": "Thanks for your suggestions. We'll try the first one.",
+      "ko": "의견 고마워요. 첫 번째 걸로 해 볼게요.",
+      "focus": "your suggestions"
+     }
+    ],
+    "collocations": ["make a suggestion", "a helpful suggestion"]
+   }
+  ],
+  "wordFamily": [
+   { "form": "suggest", "pos": "v", "ko": "제안하다" }
+  ],
+  "confusables": [
+   { "word": "advice", "note": "suggestion은 세어서 a suggestion이라 하지만, advice는 셀 수 없어 a advice라고 못 한다." }
+  ]
+ },
+ {
+  "id": "earth",
+  "headword": "earth",
+  "ipa": "/ɜːrθ/",
+  "level": "ELEM",
+  "isCore": false,
+  "topic": "environment_science",
+  "forms": ["earths"],
+  "senses": [
+   {
+    "id": "earth-1",
+    "pos": "n",
+    "ko": "지구",
+    "en": "the planet where we all live",
+    "nuance": "행성을 뜻할 때는 the Earth처럼 the를 붙이는 게 보통이다. '지구에서'는 on Earth이고 in Earth가 아니다.",
+    "pattern": "on Earth / the Earth",
+    "examples": [
+     {
+      "en": "The Earth goes around the sun once a year.",
+      "ko": "지구는 일 년에 한 번 태양을 돈다.",
+      "focus": "The Earth goes around"
+     },
+     {
+      "en": "Water covers most of the surface of the Earth.",
+      "ko": "물이 지구 표면의 대부분을 덮고 있다.",
+      "focus": "the surface of the Earth"
+     }
+    ],
+    "collocations": ["on Earth", "save the Earth"]
+   }
+  ],
+  "confusables": [
+   { "word": "birth", "note": "earth는 '지구', birth는 '탄생'이다. 끝소리 -rth가 같아 듣고 헷갈린다." }
+  ]
+ },
+ {
+  "id": "pop",
+  "headword": "pop",
+  "ipa": "/pɑːp/",
+  "level": "ELEM",
+  "isCore": false,
+  "topic": "culture_arts",
+  "forms": ["popped", "popping", "pops"],
+  "senses": [
+   {
+    "id": "pop-1",
+    "pos": "n",
+    "ko": "대중음악, 팝",
+    "en": "modern music that many young people like",
+    "nuance": "장르를 말할 때는 관사 없이 pop이라고 한다. pop music이라고 붙여 써도 되고 K-pop처럼 앞에 나라를 붙인다.",
+    "pattern": "listen to pop",
+    "examples": [
+     {
+      "en": "Emma listens to pop while she cleans her room.",
+      "ko": "엠마는 방 청소하면서 팝을 들어.",
+      "focus": "listens to pop"
+     },
+     {
+      "en": "That band mixes pop and jazz in every song.",
+      "ko": "그 밴드는 모든 곡에 팝과 재즈를 섞어.",
+      "focus": "mixes pop and jazz"
+     }
+    ],
+    "collocations": ["pop music", "a pop song"]
+   },
+   {
+    "id": "pop-2",
+    "pos": "v",
+    "ko": "터지다, 뻥 하다",
+    "en": "to break open suddenly with a short sharp sound",
+    "nuance": "풍선처럼 갑자기 '뻥' 하고 터질 때 쓴다. 폭탄처럼 크게 터지는 것은 explode다.",
+    "examples": [
+     {
+      "en": "The balloon popped right next to Jun's ear.",
+      "ko": "풍선이 준 귀 바로 옆에서 뻥 터졌어.",
+      "focus": "popped right next to"
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "id": "topic",
+  "headword": "topic",
+  "ipa": "/ˈtɑːpɪk/",
+  "level": "ELEM",
+  "isCore": false,
+  "topic": "communication",
+  "forms": ["topics"],
+  "senses": [
+   {
+    "id": "topic-1",
+    "pos": "n",
+    "ko": "주제, 화제",
+    "en": "the thing that people are talking or writing about",
+    "nuance": "'화제를 바꾸다'는 change the topic이라고 한다. 논문이나 회의의 큰 주제는 subject를 더 자주 쓴다.",
+    "pattern": "the topic of + 명사",
+    "examples": [
+     {
+      "en": "Let's change the topic before someone gets upset.",
+      "ko": "누가 기분 상하기 전에 화제를 바꾸자.",
+      "focus": "change the topic"
+     },
+     {
+      "en": "Today's topic is how to save money on food.",
+      "ko": "오늘 주제는 식비 아끼는 방법이야.",
+      "focus": "Today's topic"
+     }
+    ],
+    "collocations": ["change the topic", "a hot topic"]
+   }
+  ],
+  "confusables": [
+   { "word": "subject", "note": "topic은 대화나 글의 구체적 화제, subject는 학교 과목이나 더 큰 분야도 가리킨다." }
+  ]
+ },
+ {
+  "id": "beach",
+  "headword": "beach",
+  "ipa": "/biːtʃ/",
+  "level": "ELEM",
+  "isCore": false,
+  "topic": "travel_transport",
+  "forms": ["beaches"],
+  "senses": [
+   {
+    "id": "beach-1",
+    "pos": "n",
+    "ko": "해변, 바닷가",
+    "en": "the sandy land next to the sea",
+    "nuance": "'바다에 놀러 간다'는 보통 go to the beach라고 한다. 모래사장이 아니라 바다 자체를 말할 때만 sea를 쓴다.",
+    "pattern": "go to / on the beach",
+    "examples": [
+     {
+      "en": "We walked on the beach until the sun went down.",
+      "ko": "우리는 해가 질 때까지 해변을 걸었어.",
+      "focus": "on the beach"
+     },
+     {
+      "en": "The beaches in Busan get crowded every August.",
+      "ko": "부산 해변은 8월마다 사람이 붐벼.",
+      "focus": "The beaches in Busan"
+     }
+    ],
+    "collocations": ["go to the beach", "a sandy beach"]
+   }
+  ],
+  "confusables": [
+   { "word": "coast", "note": "beach는 발을 딛는 모래사장, coast는 지도에서 보는 해안선 지역 전체다." }
+  ]
+ },
+ {
+  "id": "fan",
+  "headword": "fan",
+  "ipa": "/fæn/",
+  "level": "ELEM",
+  "isCore": false,
+  "topic": "sports_leisure",
+  "forms": ["fans"],
+  "senses": [
+   {
+    "id": "fan-1",
+    "pos": "n",
+    "ko": "팬, 애호가",
+    "en": "someone who really likes a team, singer, or show",
+    "nuance": "'나 그거 팬이야'는 I'm a fan of it처럼 of를 꼭 넣는다. a fan에 관사를 빠뜨리는 실수가 잦다.",
+    "pattern": "a fan of + 명사",
+    "examples": [
+     {
+      "en": "Tom is a huge fan of that basketball team.",
+      "ko": "톰은 그 농구팀의 엄청난 팬이야.",
+      "focus": "a huge fan of"
+     },
+     {
+      "en": "Thousands of fans waited outside the concert hall.",
+      "ko": "팬 수천 명이 공연장 밖에서 기다렸어.",
+      "focus": "Thousands of fans"
+     }
+    ],
+    "collocations": ["a fan of", "a big fan"]
+   },
+   {
+    "id": "fan-2",
+    "pos": "n",
+    "ko": "선풍기, 부채",
+    "en": "a machine or paper object that moves air to cool you",
+    "nuance": "에어컨은 fan이 아니라 air conditioner다. 한국어로 둘 다 '바람 나오는 것'이라 섞기 쉽다.",
+    "examples": [
+     {
+      "en": "Turn on the fan, it's too hot in here.",
+      "ko": "선풍기 좀 틀어, 여기 너무 더워.",
+      "focus": "Turn on the fan"
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "id": "twice",
+  "headword": "twice",
+  "ipa": "/twaɪs/",
+  "level": "ELEM",
+  "isCore": false,
+  "topic": "time_quantity",
+  "forms": [],
+  "senses": [
+   {
+    "id": "twice-1",
+    "pos": "adv",
+    "ko": "두 번, 두 배로",
+    "en": "two times",
+    "nuance": "two times라고 하지 않고 twice라고 쓰는 게 자연스럽다. 세 번부터는 three times처럼 times를 쓴다.",
+    "pattern": "twice a + 기간",
+    "examples": [
+     {
+      "en": "Mina goes swimming twice a week after work.",
+      "ko": "미나는 퇴근 후에 일주일에 두 번 수영하러 가.",
+      "focus": "twice a week"
+     },
+     {
+      "en": "This bag costs twice as much as that one.",
+      "ko": "이 가방은 저것보다 두 배 비싸.",
+      "focus": "twice as much as"
+     }
+    ],
+    "collocations": ["twice a week", "twice as much"]
+   }
+  ],
+  "confusables": [
+   { "word": "double", "note": "twice는 '두 번/두 배로'라는 부사, double은 '두 배로 만들다'라는 동사나 형용사다." }
+  ]
+ },
+ {
+  "id": "fresh",
+  "headword": "fresh",
+  "ipa": "/freʃ/",
+  "level": "ELEM",
+  "isCore": false,
+  "topic": "food_cooking",
+  "forms": ["fresher", "freshest"],
+  "senses": [
+   {
+    "id": "fresh-1",
+    "pos": "adj",
+    "ko": "신선한, 갓 만든",
+    "en": "made or picked a short time ago, not old",
+    "nuance": "음식이 상하지 않았다는 뜻이지 '차갑다'는 뜻이 아니다. 공기가 맑을 때도 fresh air라고 쓴다.",
+    "pattern": "fresh + 명사",
+    "examples": [
+     {
+      "en": "This bread is fresh, they baked it this morning.",
+      "ko": "이 빵 신선해, 오늘 아침에 구웠대.",
+      "focus": "is fresh"
+     },
+     {
+      "en": "Let's open a window and get some fresh air.",
+      "ko": "창문 열고 맑은 공기 좀 쐬자.",
+      "focus": "some fresh air"
+     }
+    ],
+    "collocations": ["fresh air", "fresh fruit"]
+   }
+  ],
+  "confusables": [
+   { "word": "cool", "note": "fresh는 '신선한', cool은 '시원한'이다. 한국어로 둘 다 '시원하다'로 옮겨 헷갈린다." }
+  ]
+ },
+ {
+  "id": "engineer",
+  "headword": "engineer",
+  "ipa": "/ˌendʒɪˈnɪr/",
+  "level": "ELEM",
+  "isCore": false,
+  "topic": "work_business",
+  "forms": ["engineers"],
+  "senses": [
+   {
+    "id": "engineer-1",
+    "pos": "n",
+    "ko": "기술자, 엔지니어",
+    "en": "a person whose job is to design or fix machines and systems",
+    "nuance": "직업을 말할 때 I'm an engineer처럼 관사를 꼭 붙인다. 강세가 뒷부분 -neer에 있다는 점도 주의한다.",
+    "pattern": "a / an engineer",
+    "examples": [
+     {
+      "en": "Jun works as a software engineer at a small company.",
+      "ko": "준은 작은 회사에서 소프트웨어 엔지니어로 일해.",
+      "focus": "a software engineer"
+     },
+     {
+      "en": "The engineers fixed the elevator in under an hour.",
+      "ko": "기술자들이 한 시간도 안 돼서 엘리베이터를 고쳤어.",
+      "focus": "The engineers fixed"
+     }
+    ],
+    "collocations": ["a software engineer", "a civil engineer"]
+   }
+  ],
+  "confusables": [
+   { "word": "engine", "note": "engineer는 사람, engine은 기계의 '엔진'이다. -eer이 붙으면 사람이라고 외운다." }
+  ]
+ },
+ {
+  "id": "nurse",
+  "headword": "nurse",
+  "ipa": "/nɜːrs/",
+  "level": "ELEM",
+  "isCore": false,
+  "topic": "body_health",
+  "forms": ["nursed", "nurses", "nursing"],
+  "senses": [
+   {
+    "id": "nurse-1",
+    "pos": "n",
+    "ko": "간호사",
+    "en": "a person trained to look after sick people in a hospital",
+    "nuance": "직업이라 반드시 a nurse처럼 관사를 붙인다. 성별을 나타내는 말이 아니니 남녀 모두 nurse라고 한다.",
+    "pattern": "a nurse",
+    "examples": [
+     {
+      "en": "A nurse checked my blood pressure before the doctor came.",
+      "ko": "의사 선생님 오시기 전에 간호사가 혈압을 재 주셨어.",
+      "focus": "A nurse checked"
+     },
+     {
+      "en": "The nurses on the night shift were very kind.",
+      "ko": "야간 근무 간호사분들이 정말 친절했어.",
+      "focus": "The nurses on the night shift"
+     }
+    ],
+    "collocations": ["a school nurse", "see a nurse"]
+   }
+  ],
+  "confusables": [
+   { "word": "doctor", "note": "nurse는 환자를 돌보는 간호사, doctor는 진단하고 처방하는 의사다." }
+  ]
+ },
+ {
+  "id": "divide",
+  "headword": "divide",
+  "ipa": "/dɪˈvaɪd/",
+  "level": "ELEM",
+  "isCore": false,
+  "topic": "time_quantity",
+  "forms": ["divided", "divides", "dividing"],
+  "senses": [
+   {
+    "id": "divide-1",
+    "pos": "v",
+    "ko": "나누다, 가르다",
+    "en": "to separate something into smaller parts or groups",
+    "nuance": "여럿에게 나눠 줄 때는 divide + 목적어 + among이나 between을 쓴다. '~로 나누다'는 divide into이고 divide to가 아니다.",
+    "pattern": "divide + 목적어 + into / among",
+    "examples": [
+     {
+      "en": "Let's divide the pizza into six equal pieces.",
+      "ko": "피자를 똑같이 여섯 조각으로 나누자.",
+      "focus": "divide the pizza into"
+     },
+     {
+      "en": "The teacher divided the class into four small groups.",
+      "ko": "선생님이 반을 네 개의 작은 조로 나누셨어.",
+      "focus": "divided the class into"
+     }
+    ],
+    "collocations": ["divide into", "divide among"]
+   }
+  ],
+  "wordFamily": [
+   { "form": "division", "pos": "n", "ko": "분할, 나눗셈" }
+  ],
+  "confusables": [
+   { "word": "decide", "note": "divide는 '나누다', decide는 '결정하다'다. 소리가 비슷해 말할 때 섞기 쉽다." }
+  ]
+ },
+ {
+  "id": "winter",
+  "headword": "winter",
+  "ipa": "/ˈwɪntər/",
+  "level": "ELEM",
+  "isCore": false,
+  "topic": "nature_animals",
+  "forms": ["winters"],
+  "senses": [
+   {
+    "id": "winter-1",
+    "pos": "n",
+    "ko": "겨울",
+    "en": "the coldest season of the year",
+    "nuance": "'겨울에'는 in winter나 in the winter이고 on winter라고 하지 않는다. 계절 이름은 보통 소문자로 쓴다.",
+    "pattern": "in (the) winter",
+    "examples": [
+     {
+      "en": "Seoul gets really cold in winter, so bring a coat.",
+      "ko": "서울은 겨울에 정말 추우니까 코트 챙겨 와.",
+      "focus": "in winter"
+     },
+     {
+      "en": "Last winter we went skiing almost every weekend.",
+      "ko": "지난 겨울에 우리는 거의 매 주말 스키 타러 갔어.",
+      "focus": "Last winter"
+     }
+    ],
+    "collocations": ["in winter", "a cold winter"]
+   }
+  ],
+  "confusables": [
+   { "word": "enter", "note": "winter는 '겨울', enter는 '들어가다'다. 끝이 -nter로 같아 눈으로 헷갈린다." }
+  ]
+ },
+ {
+  "id": "spring",
+  "headword": "spring",
+  "ipa": "/sprɪŋ/",
+  "level": "ELEM",
+  "isCore": false,
+  "topic": "nature_animals",
+  "forms": ["sprang", "springs", "sprung"],
+  "senses": [
+   {
+    "id": "spring-1",
+    "pos": "n",
+    "ko": "봄",
+    "en": "the season after the cold one, when plants start growing",
+    "nuance": "'봄에'는 in spring이고 on spring이라고 하지 않는다. 계절 이름 앞에 the를 넣어도 되고 빼도 된다.",
+    "pattern": "in (the) spring",
+    "examples": [
+     {
+      "en": "The flowers along the river bloom every spring.",
+      "ko": "강가의 꽃들은 봄마다 핀다.",
+      "focus": "every spring"
+     },
+     {
+      "en": "Emma is moving to London in the spring.",
+      "ko": "엠마는 봄에 런던으로 이사 가.",
+      "focus": "in the spring"
+     }
+    ],
+    "collocations": ["in spring", "early spring"]
+   },
+   {
+    "id": "spring-2",
+    "pos": "n",
+    "ko": "용수철, 스프링",
+    "en": "a piece of metal curled round that goes back into shape",
+    "nuance": "침대나 볼펜 속 금속 부품을 말한다. 같은 철자라도 계절 뜻과 전혀 관계없으니 문맥으로 구분한다.",
+    "examples": [
+     {
+      "en": "The springs in this old sofa are completely worn out.",
+      "ko": "이 낡은 소파 스프링이 완전히 주저앉았어.",
+      "focus": "The springs in this old sofa"
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "id": "lunch",
+  "headword": "lunch",
+  "ipa": "/lʌntʃ/",
+  "level": "ELEM",
+  "isCore": false,
+  "topic": "food_cooking",
+  "forms": ["lunches"],
+  "senses": [
+   {
+    "id": "lunch-1",
+    "pos": "n",
+    "ko": "점심",
+    "en": "the food you eat in the middle of the day",
+    "nuance": "have lunch처럼 관사 없이 쓰는 게 기본이다. 수식어가 붙으면 a big lunch처럼 관사를 넣는다.",
+    "pattern": "have lunch / for lunch",
+    "examples": [
+     {
+      "en": "Do you want to grab lunch after this meeting?",
+      "ko": "이 회의 끝나고 점심 먹으러 갈래?",
+      "focus": "grab lunch"
+     },
+     {
+      "en": "We had a quick lunch at the desk today.",
+      "ko": "오늘은 자리에서 간단히 점심을 먹었어.",
+      "focus": "a quick lunch"
+     }
+    ],
+    "collocations": ["have lunch", "for lunch"]
+   }
+  ],
+  "confusables": [
+   { "word": "launch", "note": "lunch는 '점심', launch는 '출시하다'다. 모음 소리가 달라 발음을 꼭 구별한다." }
+  ]
+ },
+ {
+  "id": "pool",
+  "headword": "pool",
+  "ipa": "/puːl/",
+  "level": "ELEM",
+  "isCore": false,
+  "topic": "sports_leisure",
+  "forms": ["pools"],
+  "senses": [
+   {
+    "id": "pool-1",
+    "pos": "n",
+    "ko": "수영장",
+    "en": "a large area of water built for people to swim in",
+    "nuance": "수영장은 swimming pool이나 그냥 pool이라고 한다. pool장이나 pool club 같은 말은 영어에 없다.",
+    "pattern": "at / in the pool",
+    "examples": [
+     {
+      "en": "The hotel pool opens at seven in the morning.",
+      "ko": "호텔 수영장은 아침 7시에 문 열어.",
+      "focus": "The hotel pool"
+     },
+     {
+      "en": "Kids under ten must swim in the shallow pool.",
+      "ko": "10살 미만 아이들은 얕은 수영장에서 수영해야 해.",
+      "focus": "the shallow pool"
+     }
+    ],
+    "collocations": ["a swimming pool", "in the pool"]
+   }
+  ],
+  "confusables": [
+   { "word": "bowl", "note": "pool은 '수영장', bowl은 '그릇'이다. 한국어로 둘 다 '풀/볼'로 들려 섞기 쉽다." }
+  ]
+ },
+ {
+  "id": "battle",
+  "headword": "battle",
+  "ipa": "/ˈbætl/",
+  "level": "ELEM",
+  "isCore": false,
+  "topic": "society_politics",
+  "forms": ["battles"],
+  "senses": [
+   {
+    "id": "battle-1",
+    "pos": "n",
+    "ko": "전투, 싸움",
+    "en": "a fight between armies, or a long hard struggle",
+    "nuance": "war는 전쟁 전체, battle은 그 안의 한 번 싸움이다. 힘든 일을 이겨 낼 때도 a battle이라고 비유해 쓴다.",
+    "pattern": "a battle with / against",
+    "examples": [
+     {
+      "en": "Finishing the report on time was a real battle.",
+      "ko": "보고서를 제때 끝내는 건 정말 힘든 싸움이었어.",
+      "focus": "a real battle"
+     },
+     {
+      "en": "The museum shows weapons from a famous old battle.",
+      "ko": "그 박물관은 유명한 옛 전투의 무기들을 전시해.",
+      "focus": "a famous old battle"
+     }
+    ],
+    "collocations": ["win a battle", "a battle against"]
+   }
+  ],
+  "confusables": [
+   { "word": "bottle", "note": "battle은 '전투', bottle은 '병'이다. 첫 모음만 다르니 발음에 특히 주의한다." }
+  ]
+ },
+ {
+  "id": "cash",
+  "headword": "cash",
+  "ipa": "/kæʃ/",
+  "level": "ELEM",
+  "isCore": false,
+  "topic": "money_shopping",
+  "forms": ["cashes"],
+  "senses": [
+   {
+    "id": "cash-1",
+    "pos": "n",
+    "ko": "현금",
+    "en": "money in the form of notes and coins",
+    "nuance": "셀 수 없는 명사라 a cash나 cashes라고 하지 않는다. '현금으로 내다'는 pay in cash나 pay cash라고 한다.",
+    "pattern": "pay in cash",
+    "examples": [
+     {
+      "en": "Sorry, we only take cash at this stall.",
+      "ko": "죄송한데 이 가게는 현금만 받아요.",
+      "focus": "take cash"
+     },
+     {
+      "en": "I'd rather pay in cash than use my card.",
+      "ko": "카드보다 현금으로 내는 게 나아.",
+      "focus": "pay in cash"
+     }
+    ],
+    "collocations": ["pay in cash", "cash only"]
+   }
+  ],
+  "confusables": [
+   { "word": "check", "note": "cash는 지폐와 동전 자체, check은 은행에 내는 수표다. 둘 다 결제 수단이라 헷갈린다." }
+  ]
+ },
+ {
+  "id": "coach",
+  "headword": "coach",
+  "ipa": "/koʊtʃ/",
+  "level": "ELEM",
+  "isCore": false,
+  "topic": "sports_leisure",
+  "forms": ["coached", "coaches", "coaching"],
+  "senses": [
+   {
+    "id": "coach-1",
+    "pos": "n",
+    "ko": "감독, 코치",
+    "en": "a person who trains a sports team or a player",
+    "nuance": "팀을 이끄는 사람을 두루 coach라고 한다. 한국어에서는 감독과 코치를 나누지만 영어는 보통 둘 다 coach다.",
+    "pattern": "a coach of / for",
+    "examples": [
+     {
+      "en": "Our coach makes us run for twenty minutes first.",
+      "ko": "우리 코치님은 먼저 20분씩 뛰게 하셔.",
+      "focus": "Our coach"
+     },
+     {
+      "en": "Tom coached the school team for five years.",
+      "ko": "톰은 5년 동안 학교 팀을 지도했어.",
+      "focus": "coached the school team"
+     }
+    ],
+    "collocations": ["a head coach", "a tennis coach"]
+   }
+  ],
+  "confusables": [
+   { "word": "catch", "note": "coach는 '코치', catch는 '잡다'다. 모음이 달라 발음을 구별해야 한다." }
+  ]
+ },
+ {
+  "id": "strange",
+  "headword": "strange",
+  "ipa": "/streɪndʒ/",
+  "level": "ELEM",
+  "isCore": false,
+  "topic": "description_quality",
+  "forms": ["stranger", "strangest"],
+  "senses": [
+   {
+    "id": "strange-1",
+    "pos": "adj",
+    "ko": "이상한, 낯선",
+    "en": "not usual, and hard to understand or explain",
+    "nuance": "비교급 stranger는 '더 이상한'이지만, 명사 stranger는 '낯선 사람'이라 뜻이 완전히 다르다. 문장에서 관사 유무로 구분한다.",
+    "pattern": "It's strange that …",
+    "examples": [
+     {
+      "en": "It's strange that nobody answered the door this morning.",
+      "ko": "오늘 아침에 아무도 문을 안 연 게 이상해.",
+      "focus": "It's strange that"
+     },
+     {
+      "en": "Mina heard a strange noise coming from the ceiling.",
+      "ko": "미나는 천장에서 나는 이상한 소리를 들었어.",
+      "focus": "a strange noise"
+     }
+    ],
+    "collocations": ["a strange noise", "sound strange"]
+   }
+  ],
+  "confusables": [
+   { "word": "stranger", "note": "strange는 '이상한'이라는 형용사, stranger는 '모르는 사람'이라는 명사다." }
+  ]
+ },
+ {
+  "id": "code",
+  "headword": "code",
+  "ipa": "/koʊd/",
+  "level": "ELEM",
+  "isCore": false,
+  "topic": "environment_science",
+  "forms": ["codes"],
+  "senses": [
+   {
+    "id": "code-1",
+    "pos": "n",
+    "ko": "번호, 암호",
+    "en": "a set of numbers or letters used to open or identify something",
+    "nuance": "비밀번호는 보통 password지만 숫자 자물쇠는 code라고 한다. '번호를 누르다'는 enter the code다.",
+    "pattern": "enter the code",
+    "examples": [
+     {
+      "en": "Enter the code and the front door will open.",
+      "ko": "번호를 누르면 현관문이 열려.",
+      "focus": "Enter the code"
+     },
+     {
+      "en": "They sent a six-digit code to my phone.",
+      "ko": "여섯 자리 인증번호를 내 폰으로 보냈어.",
+      "focus": "a six-digit code"
+     }
+    ],
+    "collocations": ["enter the code", "a postal code"]
+   }
+  ],
+  "confusables": [
+   { "word": "cold", "note": "code는 '암호', cold는 '추운'이다. 한국어 '코드'와 '콜드'처럼 소리가 비슷해 주의한다." }
+  ]
+ },
+ {
+  "id": "accident",
+  "headword": "accident",
+  "ipa": "/ˈæksɪdənt/",
+  "level": "ELEM",
+  "isCore": false,
+  "topic": "travel_transport",
+  "forms": ["accidents"],
+  "senses": [
+   {
+    "id": "accident-1",
+    "pos": "n",
+    "ko": "사고",
+    "en": "something bad that happens without anyone planning it",
+    "nuance": "'사고가 나다'는 have an accident이고 happen an accident라고 하지 않는다. '실수로'는 by accident다.",
+    "pattern": "have an accident / by accident",
+    "examples": [
+     {
+      "en": "There was a small car accident near the school.",
+      "ko": "학교 근처에서 작은 자동차 사고가 났어.",
+      "focus": "a small car accident"
+     },
+     {
+      "en": "I deleted the file by accident, sorry about that.",
+      "ko": "실수로 파일을 지웠어, 미안해.",
+      "focus": "by accident"
+     }
+    ],
+    "collocations": ["a car accident", "by accident"]
+   }
+  ],
+  "confusables": [
+   { "word": "incident", "note": "accident는 다치거나 망가지는 사고, incident는 그냥 '일어난 사건'이라 범위가 넓다." }
+  ]
+ }
+]

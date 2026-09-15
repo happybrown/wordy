@@ -1495,5 +1495,1406 @@
    }
   ],
   "memoryHook": "put 뒤에는 '어디에'가 반드시 따라온다고 묶어서 외운다."
+ },
+ {
+  "id": "late",
+  "headword": "late",
+  "ipa": "/leɪt/",
+  "level": "PRE",
+  "isCore": true,
+  "topic": "time_quantity",
+  "forms": [
+   "later",
+   "latest"
+  ],
+  "senses": [
+   {
+    "id": "late-1",
+    "pos": "adj",
+    "ko": "늦은, 지각한",
+    "en": "arriving or happening after the expected time",
+    "nuance": "be동사와 붙여 I'm late라고 한다. I'm lately는 틀린 말이고, '늦잠 자다'는 sleep late가 아니라 oversleep이다.",
+    "pattern": "be late for + 약속/수업",
+    "examples": [
+     {
+      "en": "Sorry I'm late. The subway was really crowded.",
+      "ko": "늦어서 미안. 지하철이 진짜 붐볐어.",
+      "focus": "I'm late"
+     },
+     {
+      "en": "You'll be late for class if you don't hurry.",
+      "ko": "서두르지 않으면 수업에 늦을 거야.",
+      "focus": "late for class"
+     },
+     {
+      "en": "My train was twenty minutes late this morning.",
+      "ko": "오늘 아침에 내 기차가 20분 늦었어.",
+      "focus": "twenty minutes late"
+     }
+    ],
+    "collocations": [
+     "be late for work",
+     "a late train"
+    ]
+   },
+   {
+    "id": "late-2",
+    "pos": "adv",
+    "ko": "늦게",
+    "en": "after the usual or normal time",
+    "nuance": "동사 뒤에 붙어 work late(야근하다), stay up late(늦게까지 안 자다)로 쓴다. lately(요즘)와 전혀 다른 말이다.",
+    "pattern": "동사 + late",
+    "examples": [
+     {
+      "en": "I had to work late again last night.",
+      "ko": "어젯밤에 또 야근해야 했어.",
+      "focus": "work late"
+     },
+     {
+      "en": "Don't stay up too late before the exam.",
+      "ko": "시험 전에 너무 늦게까지 깨어 있지 마.",
+      "focus": "stay up too late"
+     }
+    ],
+    "collocations": [
+     "stay up late"
+    ]
+   },
+   {
+    "id": "late-3",
+    "pos": "adj",
+    "ko": "말기의, 늦은 시기의",
+    "en": "near the end of a period of time",
+    "nuance": "late April은 4월 말, in his late thirties는 30대 후반이라는 뜻이다. 나이·시기를 뭉뚱그려 말할 때 아주 편하다.",
+    "pattern": "late + 달/연대/나이",
+    "examples": [
+     {
+      "en": "We're moving to Seoul in late March.",
+      "ko": "우리 3월 말에 서울로 이사 가.",
+      "focus": "late March"
+     },
+     {
+      "en": "My boss is probably in her late forties.",
+      "ko": "우리 상사는 아마 40대 후반일 거야.",
+      "focus": "late forties"
+     }
+    ]
+   },
+   {
+    "id": "late-4",
+    "pos": "adv",
+    "ko": "나중에 (later)",
+    "en": "at some time after now, in the comparative form",
+    "nuance": "later는 회화에서 헤어질 때 See you later, Talk to you later처럼 인사말로 굳어 쓴다. after는 뒤에 명사가 필요하다.",
+    "pattern": "later / 시간 + later",
+    "examples": [
+     {
+      "en": "I'll call you later tonight after dinner, okay?",
+      "ko": "오늘 밤 저녁 먹고 나중에 전화할게, 알았지?",
+      "focus": "later tonight"
+     },
+     {
+      "en": "See you later! Have a good afternoon.",
+      "ko": "나중에 봐! 오후 잘 보내.",
+      "focus": "See you later"
+     }
+    ],
+    "collocations": [
+     "see you later"
+    ]
+   }
+  ],
+  "wordFamily": [
+   {
+    "form": "lately",
+    "pos": "adv",
+    "ko": "요즘, 최근에"
+   }
+  ],
+  "confusables": [
+   {
+    "word": "early",
+    "note": "late는 정해진 시각보다 늦은 것, early는 이른 것이다. 짝으로 외운다."
+   },
+   {
+    "word": "slow",
+    "note": "slow는 속도가 느린 것, late는 정해진 시각을 넘긴 것이다."
+   },
+   {
+    "word": "soon",
+    "note": "later는 '나중에(시점 미정)', soon은 '곧(가까운 시점)'이다."
+   }
+  ],
+  "memoryHook": "late는 시계를 넘긴 것, lately는 달력 최근을 가리킨다."
+ },
+ {
+  "id": "high",
+  "headword": "high",
+  "ipa": "/haɪ/",
+  "level": "PRE",
+  "isCore": true,
+  "topic": "description_quality",
+  "forms": [
+   "higher",
+   "highest"
+  ],
+  "senses": [
+   {
+    "id": "high-1",
+    "pos": "adj",
+    "ko": "높은",
+    "en": "far above the ground, or measuring a lot from bottom to top",
+    "nuance": "산·건물·담처럼 바닥에서 위로 뻗은 것에 쓴다. 사람 키에는 절대 쓰지 않고 tall을 쓴다.",
+    "pattern": "high + 명사 / 숫자 + meters high",
+    "examples": [
+     {
+      "en": "That wall is too high for me to climb.",
+      "ko": "저 담은 내가 넘기에는 너무 높아.",
+      "focus": "too high"
+     },
+     {
+      "en": "We stayed in a hotel high up in the mountains.",
+      "ko": "우리 산 높은 곳에 있는 호텔에 묵었어.",
+      "focus": "high up in the mountains"
+     }
+    ],
+    "collocations": [
+     "a high wall",
+     "high up"
+    ]
+   },
+   {
+    "id": "high-2",
+    "pos": "adj",
+    "ko": "(수치가) 많은, 비싼",
+    "en": "greater than usual in number, amount, or level",
+    "nuance": "가격·온도·비율 같은 숫자에 쓴다. 가격에는 expensive도 되지만 The price is high가 더 중립적이다.",
+    "pattern": "high + 가격/온도/비율",
+    "examples": [
+     {
+      "en": "Rent in Seoul is really high these days.",
+      "ko": "요즘 서울 월세가 진짜 비싸.",
+      "focus": "really high"
+     },
+     {
+      "en": "My electricity bill was higher than last month.",
+      "ko": "이번 전기 요금이 지난달보다 더 많이 나왔어.",
+      "focus": "higher than last month"
+     }
+    ],
+    "collocations": [
+     "a high price",
+     "high quality"
+    ]
+   },
+   {
+    "id": "high-3",
+    "pos": "adj",
+    "ko": "(소리가) 높은",
+    "en": "near the top of the range of sounds",
+    "nuance": "음의 높낮이를 말한다. 소리가 '큰' 것은 loud이고 high는 음정이 높은 것이라 완전히 다르다.",
+    "pattern": "a high note / a high voice",
+    "examples": [
+     {
+      "en": "I can't sing that high note at all.",
+      "ko": "나 그 고음은 전혀 못 불러.",
+      "focus": "that high note"
+     },
+     {
+      "en": "Her voice sounds higher on the phone.",
+      "ko": "그 사람 목소리가 전화로는 더 높게 들려.",
+      "focus": "higher on the phone"
+     }
+    ]
+   },
+   {
+    "id": "high-4",
+    "pos": "adv",
+    "ko": "높이, 높게",
+    "en": "to or at a place far above the ground",
+    "nuance": "동사 뒤에 붙어 '높이 ~하다'가 된다. highly는 '매우'라는 뜻이라 자리를 바꿔 쓸 수 없다.",
+    "pattern": "동사 + high",
+    "examples": [
+     {
+      "en": "The kids threw the ball really high.",
+      "ko": "애들이 공을 진짜 높이 던졌어.",
+      "focus": "really high"
+     },
+     {
+      "en": "Hold your hand high so I can see you.",
+      "ko": "내가 볼 수 있게 손 높이 들어.",
+      "focus": "hand high"
+     }
+    ]
+   }
+  ],
+  "wordFamily": [
+   {
+    "form": "highly",
+    "pos": "adv",
+    "ko": "매우, 대단히"
+   },
+   {
+    "form": "height",
+    "pos": "n",
+    "ko": "높이, 키"
+   }
+  ],
+  "confusables": [
+   {
+    "word": "tall",
+    "note": "사람·나무는 tall, 산·담·건물은 high를 쓴다. He is high는 아주 어색하다."
+   },
+   {
+    "word": "loud",
+    "note": "high는 음정이 높은 것, loud는 소리가 큰 것이다."
+   },
+   {
+    "word": "expensive",
+    "note": "The price is high는 되지만 The bag is high는 안 된다. 물건에는 expensive를 쓴다."
+   }
+  ],
+  "memoryHook": "바닥에서 위로 뻗은 것만 high, 사람은 언제나 tall이다."
+ },
+ {
+  "id": "off",
+  "headword": "off",
+  "ipa": "/ɔːf/",
+  "level": "PRE",
+  "isCore": true,
+  "topic": "movement_action",
+  "forms": [],
+  "senses": [
+   {
+    "id": "off-1",
+    "pos": "adv",
+    "ko": "(전원이) 꺼진",
+    "en": "not working because the power is stopped",
+    "nuance": "turn off, switch off처럼 동사와 붙어 전원을 끈다는 뜻이 된다. 반대는 on이고 close the light라고 하면 안 된다.",
+    "pattern": "turn off + 기기",
+    "examples": [
+     {
+      "en": "Can you turn off the lights before we leave?",
+      "ko": "나가기 전에 불 좀 꺼 줄래?",
+      "focus": "turn off the lights"
+     },
+     {
+      "en": "My phone was off during the whole meeting.",
+      "ko": "회의 내내 내 폰이 꺼져 있었어.",
+      "focus": "was off"
+     }
+    ],
+    "collocations": [
+     "turn off the TV",
+     "switch it off"
+    ]
+   },
+   {
+    "id": "off-2",
+    "pos": "prep",
+    "ko": "~에서 떨어져, 내려서",
+    "en": "away from a surface or a vehicle",
+    "nuance": "붙어 있던 것에서 떨어지는 그림이다. 버스·기차에서 내릴 때는 get off, 택시·승용차는 get out of를 쓴다.",
+    "pattern": "off + 표면/탈것",
+    "examples": [
+     {
+      "en": "Please take your feet off the seat.",
+      "ko": "좌석에서 발 좀 내려 주세요.",
+      "focus": "off the seat"
+     },
+     {
+      "en": "We should get off the bus at the next stop.",
+      "ko": "우리 다음 정류장에서 버스 내려야 해.",
+      "focus": "off the bus"
+     }
+    ],
+    "collocations": [
+     "get off the train"
+    ]
+   },
+   {
+    "id": "off-3",
+    "pos": "adj",
+    "ko": "쉬는, 휴무인",
+    "en": "not at work or school on a certain day",
+    "nuance": "a day off는 하루 휴가, take Friday off는 금요일에 쉬는 것이다. 한국어 '오프'가 여기서 왔다.",
+    "pattern": "take + 날 + off / a day off",
+    "examples": [
+     {
+      "en": "I'm taking Friday off to visit my parents.",
+      "ko": "부모님 뵈러 금요일에 휴가 낼 거야.",
+      "focus": "taking Friday off"
+     },
+     {
+      "en": "Are you off tomorrow, or do you work?",
+      "ko": "내일 쉬어, 아니면 일해?",
+      "focus": "off tomorrow"
+     }
+    ],
+    "collocations": [
+     "a day off"
+    ]
+   },
+   {
+    "id": "off-4",
+    "pos": "adv",
+    "ko": "할인되어",
+    "en": "taken away from the original price",
+    "nuance": "가격표에서 30% off는 '30% 할인'이다. 원래 가격에서 덜어낸다는 그림이라 discount 대신 자주 보인다.",
+    "pattern": "숫자 + % off",
+    "examples": [
+     {
+      "en": "Everything in this store is thirty percent off.",
+      "ko": "이 가게는 전 품목 30% 할인이야.",
+      "focus": "thirty percent off"
+     },
+     {
+      "en": "I got ten dollars off with a coupon.",
+      "ko": "쿠폰으로 10달러 할인받았어.",
+      "focus": "ten dollars off"
+     }
+    ]
+   },
+   {
+    "id": "off-5",
+    "pos": "adv",
+    "ko": "떠나서, 출발해서",
+    "en": "leaving a place to go somewhere",
+    "nuance": "I'm off는 '나 갈게'라는 아주 흔한 작별 인사다. be off to + 장소로 어디 가는지 붙일 수 있다.",
+    "pattern": "be off (to + 장소)",
+    "examples": [
+     {
+      "en": "I'm off now. See you tomorrow morning!",
+      "ko": "나 이제 갈게. 내일 아침에 봐!",
+      "focus": "I'm off now"
+     },
+     {
+      "en": "They're off to London for two weeks.",
+      "ko": "걔네 2주 동안 런던에 가.",
+      "focus": "off to London"
+     }
+    ]
+   }
+  ],
+  "confusables": [
+   {
+    "word": "out",
+    "note": "off는 표면에서 떨어지는 것, out은 안에서 밖으로 나오는 것이다. 버스는 off, 택시는 out이다."
+   },
+   {
+    "word": "on",
+    "note": "전원·표면 모두 on의 반대가 off다. get on the bus 타다, get off 내리다로 짝지어 외운다."
+   },
+   {
+    "word": "away",
+    "note": "away는 그냥 멀어지는 것, off는 붙어 있던 데서 떨어지는 느낌이 있다."
+   }
+  ],
+  "memoryHook": "붙어 있던 것이 '뚝 떨어지는' 그림 하나로 전원·하차·할인·휴가가 다 풀린다."
+ },
+ {
+  "id": "end",
+  "headword": "end",
+  "ipa": "/end/",
+  "level": "PRE",
+  "isCore": true,
+  "topic": "time_quantity",
+  "forms": [
+   "ended",
+   "ending",
+   "ends"
+  ],
+  "senses": [
+   {
+    "id": "end-1",
+    "pos": "n",
+    "ko": "끝, 마지막",
+    "en": "the final part of a period of time or a story",
+    "nuance": "at the end of는 특정 시점의 끝, in the end는 '결국'이라는 뜻이라 완전히 다르다. 한국 학습자가 가장 많이 섞는 부분이다.",
+    "pattern": "at the end of + 명사",
+    "examples": [
+     {
+      "en": "We get paid at the end of every month.",
+      "ko": "우리는 매달 말에 월급 받아.",
+      "focus": "at the end of every month"
+     },
+     {
+      "en": "Don't tell me the end of the movie!",
+      "ko": "그 영화 결말 말하지 마!",
+      "focus": "the end of the movie"
+     },
+     {
+      "en": "In the end, we decided to stay home.",
+      "ko": "결국 우리는 집에 있기로 했어.",
+      "focus": "In the end"
+     }
+    ],
+    "collocations": [
+     "at the end of",
+     "in the end"
+    ]
+   },
+   {
+    "id": "end-2",
+    "pos": "v",
+    "ko": "끝나다, 끝내다",
+    "en": "to stop happening, or to make something stop",
+    "nuance": "finish는 사람이 일을 마치는 데 초점이 있고, 이 단어는 행사·수업 자체가 끝나는 데 쓴다. 영화가 끝났다는 The movie ended다.",
+    "pattern": "주어 + ends (at 시간)",
+    "examples": [
+     {
+      "en": "What time does your class end today?",
+      "ko": "오늘 너 수업 몇 시에 끝나?",
+      "focus": "class end"
+     },
+     {
+      "en": "The concert ended around ten last night.",
+      "ko": "콘서트는 어젯밤 열 시쯤 끝났어.",
+      "focus": "ended around ten"
+     }
+    ],
+    "collocations": [
+     "end the meeting"
+    ],
+    "phrasals": [
+     {
+      "phrase": "end up",
+      "ko": "결국 ~하게 되다",
+      "example": {
+       "en": "We always end up eating at the same place.",
+       "ko": "우리는 늘 결국 같은 데서 먹게 돼.",
+       "focus": "end up eating"
+      }
+     },
+     {
+      "phrase": "end with",
+      "ko": "~로 끝나다",
+      "example": {
+       "en": "Let's end with a few quick questions.",
+       "ko": "간단한 질문 몇 개로 마무리하죠.",
+       "focus": "end with a few quick questions"
+      }
+     }
+    ]
+   },
+   {
+    "id": "end-3",
+    "pos": "n",
+    "ko": "(길·줄의) 맨 끝",
+    "en": "the point where a road, line, or object stops",
+    "nuance": "장소의 끝을 말한다. 길 안내에서 at the end of the hall(복도 끝에)처럼 쓰는 게 가장 흔하다.",
+    "pattern": "at the end of + 길/복도",
+    "examples": [
+     {
+      "en": "The bathroom is at the end of the hall.",
+      "ko": "화장실은 복도 끝에 있어요.",
+      "focus": "at the end of the hall"
+     },
+     {
+      "en": "Turn left at the end of this street.",
+      "ko": "이 길 끝에서 왼쪽으로 도세요.",
+      "focus": "at the end of this street"
+     }
+    ]
+   },
+   {
+    "id": "end-4",
+    "pos": "v",
+    "ko": "~로 끝나다, 결말이 나다",
+    "en": "to finish with a particular result or situation",
+    "nuance": "뒤에 in이나 with를 붙여 결과를 말한다. 싸움·경기가 어떻게 마무리됐는지 말할 때 자연스럽다.",
+    "pattern": "end in / end with + 결과",
+    "examples": [
+     {
+      "en": "Their long argument ended in a real apology.",
+      "ko": "걔네 긴 말다툼은 결국 진짜 사과로 끝났어.",
+      "focus": "ended in a real apology"
+     },
+     {
+      "en": "The game ended in a tie, two to two.",
+      "ko": "경기는 2대 2 무승부로 끝났어.",
+      "focus": "ended in a tie"
+     }
+    ]
+   }
+  ],
+  "wordFamily": [
+   {
+    "form": "ending",
+    "pos": "n",
+    "ko": "결말"
+   },
+   {
+    "form": "endless",
+    "pos": "adj",
+    "ko": "끝없는"
+   }
+  ],
+  "confusables": [
+   {
+    "word": "finish",
+    "note": "finish는 사람이 일을 다 마치는 것, end는 행사·기간 자체가 끝나는 것이다."
+   },
+   {
+    "word": "last",
+    "note": "the end는 끝나는 지점, the last one은 순서상 마지막 것이다."
+   },
+   {
+    "word": "stop",
+    "note": "stop은 도중에 멈추는 것, end는 예정된 끝까지 가서 끝나는 것이다."
+   }
+  ],
+  "memoryHook": "at the end of는 '~의 끝에', in the end는 '결국'이라고 통째로 나눠 외운다."
+ },
+ {
+  "id": "live",
+  "headword": "live",
+  "ipa": "/lɪv/",
+  "level": "PRE",
+  "isCore": true,
+  "topic": "home_daily",
+  "forms": [
+   "lived",
+   "lives",
+   "living"
+  ],
+  "senses": [
+   {
+    "id": "live-1",
+    "pos": "v",
+    "ko": "살다, 거주하다",
+    "en": "to have your home in a particular place",
+    "nuance": "뒤에 in(도시·나라), on(거리), with(사람)가 붙는다. 진행형 I'm living은 '당분간만 산다'는 뉘앙스다.",
+    "pattern": "live in / on / with",
+    "examples": [
+     {
+      "en": "I live in Seoul, but my family is in Busan.",
+      "ko": "나는 서울에 살지만 가족은 부산에 있어.",
+      "focus": "live in Seoul"
+     },
+     {
+      "en": "How long have you lived in this neighborhood?",
+      "ko": "이 동네에 산 지 얼마나 됐어?",
+      "focus": "lived in this neighborhood"
+     },
+     {
+      "en": "Jun still lives with his parents in Busan.",
+      "ko": "준은 아직 부산에서 부모님이랑 같이 살아.",
+      "focus": "lives with his parents"
+     }
+    ],
+    "collocations": [
+     "live in Seoul",
+     "live alone"
+    ]
+   },
+   {
+    "id": "live-2",
+    "pos": "v",
+    "ko": "생활하다, 살아가다",
+    "en": "to spend your life in a particular way",
+    "nuance": "어떤 방식으로 삶을 꾸리는지를 말한다. live a healthy life처럼 같은 뿌리의 명사를 붙여 쓰는 게 특징이다.",
+    "pattern": "live a + 형용사 + life",
+    "examples": [
+     {
+      "en": "My grandmother lived a very simple life.",
+      "ko": "우리 할머니는 아주 소박하게 사셨어.",
+      "focus": "lived a very simple life"
+     },
+     {
+      "en": "I want to live a healthier life this year.",
+      "ko": "올해는 더 건강하게 살고 싶어.",
+      "focus": "live a healthier life"
+     }
+    ],
+    "collocations": [
+     "live a happy life"
+    ],
+    "phrasals": [
+     {
+      "phrase": "live on",
+      "ko": "~로 먹고살다",
+      "example": {
+       "en": "It's hard to live on that salary in Seoul.",
+       "ko": "서울에서 그 월급으로 먹고살기 힘들어.",
+       "focus": "live on that salary"
+      }
+     },
+     {
+      "phrase": "live with",
+      "ko": "감수하고 살다",
+      "example": {
+       "en": "I guess we can live with a little noise.",
+       "ko": "소음 좀은 참고 살 수 있을 것 같아.",
+       "focus": "live with a little noise"
+      }
+     },
+     {
+      "phrase": "live up to",
+      "ko": "기대에 부응하다",
+      "example": {
+       "en": "The movie didn't live up to the reviews.",
+       "ko": "그 영화는 평점만큼은 아니었어.",
+       "focus": "live up to the reviews"
+      }
+     }
+    ]
+   },
+   {
+    "id": "live-3",
+    "pos": "v",
+    "ko": "생존하다, 목숨을 부지하다",
+    "en": "to stay alive, or to continue being alive",
+    "nuance": "살아 있는 상태 자체를 말한다. 나이를 말할 때 She lived to be ninety(90세까지 사셨다)로 자주 쓴다.",
+    "pattern": "live to be + 나이",
+    "examples": [
+     {
+      "en": "My grandfather lived to be ninety-two years old.",
+      "ko": "우리 할아버지는 아흔두 살까지 사셨어.",
+      "focus": "lived to be ninety-two"
+     },
+     {
+      "en": "Plants can't live without water and enough light.",
+      "ko": "식물은 물이랑 충분한 빛 없이는 못 살아.",
+      "focus": "live without water"
+     }
+    ]
+   },
+   {
+    "id": "live-4",
+    "pos": "adj",
+    "ko": "생방송의, 라이브의",
+    "en": "happening now and shown at the same time",
+    "nuance": "이때는 발음이 /laɪv/로 바뀐다. 녹화 방송은 recorded이고 공연을 직접 보는 건 see them live다.",
+    "pattern": "live + 방송/공연",
+    "examples": [
+     {
+      "en": "The game is live on TV right now.",
+      "ko": "그 경기 지금 TV에서 생중계 중이야.",
+      "focus": "live on TV"
+     },
+     {
+      "en": "I've never seen that band play live.",
+      "ko": "그 밴드 라이브로 본 적은 없어.",
+      "focus": "play live"
+     }
+    ]
+   }
+  ],
+  "wordFamily": [
+   {
+    "form": "living",
+    "pos": "n",
+    "ko": "생계"
+   },
+   {
+    "form": "alive",
+    "pos": "adj",
+    "ko": "살아 있는"
+   },
+   {
+    "form": "life",
+    "pos": "n",
+    "ko": "삶, 인생"
+   }
+  ],
+  "confusables": [
+   {
+    "word": "alive",
+    "note": "live는 동사로 '살다', alive는 형용사로 '살아 있는' 상태다. He is live는 방송 얘기가 된다."
+   },
+   {
+    "word": "stay",
+    "note": "live는 집을 두고 사는 것, stay는 호텔처럼 잠깐 머무는 것이다."
+   },
+   {
+    "word": "leave",
+    "note": "철자가 비슷하지만 leave는 '떠나다'로 뜻이 정반대에 가깝다."
+   }
+  ],
+  "memoryHook": "'살다'는 /lɪv/, '생방송'은 /laɪv/로 발음부터 갈린다."
+ },
+ {
+  "id": "play",
+  "headword": "play",
+  "ipa": "/pleɪ/",
+  "level": "PRE",
+  "isCore": true,
+  "topic": "sports_leisure",
+  "forms": [
+   "played",
+   "playing",
+   "plays"
+  ],
+  "senses": [
+   {
+    "id": "play-1",
+    "pos": "v",
+    "ko": "(운동·게임을) 하다",
+    "en": "to take part in a game or sport",
+    "nuance": "운동·게임 이름 앞에는 the를 붙이지 않는다. play soccer가 맞고 play the soccer는 틀리다.",
+    "pattern": "play + 운동/게임 (관사 없이)",
+    "examples": [
+     {
+      "en": "Do you want to play basketball this weekend?",
+      "ko": "이번 주말에 농구할래?",
+      "focus": "play basketball"
+     },
+     {
+      "en": "We played cards at Tom's place until almost midnight.",
+      "ko": "우리 톰네 집에서 거의 자정까지 카드 쳤어.",
+      "focus": "played cards"
+     },
+     {
+      "en": "Emma plays tennis with her friends every Tuesday evening.",
+      "ko": "엠마는 매주 화요일 저녁에 친구들이랑 테니스를 쳐.",
+      "focus": "plays tennis"
+     }
+    ],
+    "collocations": [
+     "play soccer",
+     "play a game"
+    ]
+   },
+   {
+    "id": "play-2",
+    "pos": "v",
+    "ko": "(악기를) 연주하다",
+    "en": "to make music with an instrument",
+    "nuance": "악기 앞에는 반대로 the를 붙인다. play the piano가 맞고, 운동과 헷갈리지 않게 짝으로 외운다.",
+    "pattern": "play the + 악기",
+    "examples": [
+     {
+      "en": "My sister plays the piano really well.",
+      "ko": "우리 언니 피아노 진짜 잘 쳐.",
+      "focus": "plays the piano"
+     },
+     {
+      "en": "I want to learn to play the guitar someday.",
+      "ko": "언젠가 기타 배우고 싶어.",
+      "focus": "play the guitar"
+     }
+    ],
+    "collocations": [
+     "play the piano"
+    ]
+   },
+   {
+    "id": "play-3",
+    "pos": "v",
+    "ko": "(음악을) 틀다, 재생하다",
+    "en": "to make a machine produce sound or video",
+    "nuance": "파일·노래를 재생한다는 뜻이다. 스피커로 음악을 튼다는 말은 play music이지 turn on music이 아니다.",
+    "pattern": "play + 음악/영상",
+    "examples": [
+     {
+      "en": "Can you play that song again, please?",
+      "ko": "그 노래 다시 틀어 줄래?",
+      "focus": "play that song"
+     },
+     {
+      "en": "They were playing old music at the cafe.",
+      "ko": "그 카페에서 옛날 음악을 틀고 있었어.",
+      "focus": "playing old music"
+     }
+    ]
+   },
+   {
+    "id": "play-4",
+    "pos": "v",
+    "ko": "놀다",
+    "en": "to spend time doing enjoyable things, like children do",
+    "nuance": "주로 아이들이 노는 데 쓴다. 어른이 친구랑 논다고 play with my friends라고 하면 아주 어색하고 hang out을 쓴다.",
+    "pattern": "play with + 사람/장난감",
+    "examples": [
+     {
+      "en": "The kids are playing outside in the yard.",
+      "ko": "애들이 마당에서 밖에서 놀고 있어.",
+      "focus": "playing outside"
+     },
+     {
+      "en": "My nephew loves playing with toy cars.",
+      "ko": "우리 조카는 장난감 자동차 가지고 노는 걸 좋아해.",
+      "focus": "playing with toy cars"
+     }
+    ],
+    "phrasals": [
+     {
+      "phrase": "play along",
+      "ko": "맞춰 주는 척하다",
+      "example": {
+       "en": "Just play along until the party starts.",
+       "ko": "파티 시작할 때까지 그냥 맞춰 주는 척해.",
+       "focus": "play along"
+      }
+     },
+     {
+      "phrase": "play around",
+      "ko": "이것저것 만져 보다",
+      "example": {
+       "en": "You can play around with the settings first.",
+       "ko": "먼저 설정을 이것저것 만져 봐도 돼.",
+       "focus": "play around with the settings"
+      }
+     }
+    ]
+   },
+   {
+    "id": "play-5",
+    "pos": "n",
+    "ko": "연극",
+    "en": "a story acted on a stage by actors",
+    "nuance": "무대에서 하는 연극이다. 영화는 movie, 뮤지컬은 musical이라 서로 바꿔 쓰지 않는다.",
+    "pattern": "see a play",
+    "examples": [
+     {
+      "en": "We saw a really funny play in London.",
+      "ko": "우리 런던에서 진짜 웃긴 연극 봤어.",
+      "focus": "a really funny play"
+     },
+     {
+      "en": "Her class is putting on a school play.",
+      "ko": "걔네 반이 학교 연극을 올려.",
+      "focus": "a school play"
+     }
+    ],
+    "collocations": [
+     "see a play"
+    ]
+   }
+  ],
+  "wordFamily": [
+   {
+    "form": "player",
+    "pos": "n",
+    "ko": "선수, 연주자"
+   },
+   {
+    "form": "playful",
+    "pos": "adj",
+    "ko": "장난기 있는"
+   }
+  ],
+  "confusables": [
+   {
+    "word": "game",
+    "note": "play는 동사, game은 명사다. 한국어 '게임하다'는 play a game이다."
+   },
+   {
+    "word": "do",
+    "note": "공·상대가 있는 종목은 play, 요가·태권도 같은 건 do를 쓴다."
+   },
+   {
+    "word": "watch",
+    "note": "play는 내가 직접 뛰는 것, watch는 경기를 보는 것이다."
+   }
+  ],
+  "memoryHook": "운동엔 the가 없고 악기엔 the가 붙는다로 짝지어 외운다."
+ },
+ {
+  "id": "home",
+  "headword": "home",
+  "ipa": "/hoʊm/",
+  "level": "PRE",
+  "isCore": true,
+  "topic": "home_daily",
+  "forms": [
+   "homes"
+  ],
+  "senses": [
+   {
+    "id": "home-1",
+    "pos": "adv",
+    "ko": "집으로, 집에",
+    "en": "to or at the place where you usually sleep",
+    "nuance": "go home, come home처럼 to를 붙이지 않는다. go to home은 한국 학습자가 가장 자주 하는 실수다.",
+    "pattern": "go/come/get + home (to 없이)",
+    "examples": [
+     {
+      "en": "I usually go home right after work.",
+      "ko": "나는 보통 퇴근하고 바로 집에 가.",
+      "focus": "go home"
+     },
+     {
+      "en": "Call me when you get home safely.",
+      "ko": "집에 잘 도착하면 전화해.",
+      "focus": "get home"
+     },
+     {
+      "en": "Is anybody home? The door was open.",
+      "ko": "집에 누구 있어? 문이 열려 있던데.",
+      "focus": "anybody home"
+     }
+    ],
+    "collocations": [
+     "go home",
+     "stay home"
+    ]
+   },
+   {
+    "id": "home-2",
+    "pos": "n",
+    "ko": "집, 보금자리",
+    "en": "the place where you live and feel you belong",
+    "nuance": "house는 건물, 이 단어는 사람이 사는 정서적 공간이다. 부동산 광고 말고는 집을 살 때도 buy a house를 더 쓴다.",
+    "pattern": "at home / leave home",
+    "examples": [
+     {
+      "en": "Make yourself at home. I'll get some tea.",
+      "ko": "편하게 있어. 차 좀 가져올게.",
+      "focus": "at home"
+     },
+     {
+      "en": "This city has felt like home for years.",
+      "ko": "이 도시는 몇 년째 집처럼 편해.",
+      "focus": "like home"
+     }
+    ],
+    "collocations": [
+     "at home"
+    ]
+   },
+   {
+    "id": "home-3",
+    "pos": "adj",
+    "ko": "재택의, 집에서 하는",
+    "en": "done in the place where you live, not at an office",
+    "nuance": "work from home(재택근무)이 대표적이다. 한국어 '홈트'는 영어로 home workout이라고 해야 통한다.",
+    "pattern": "work from home / home cooking",
+    "examples": [
+     {
+      "en": "I work from home two days a week.",
+      "ko": "나 일주일에 이틀은 재택근무해.",
+      "focus": "work from home"
+     },
+     {
+      "en": "Honestly, nothing beats a good home-cooked meal.",
+      "ko": "솔직히 집밥만 한 게 없지.",
+      "focus": "home-cooked meal"
+     }
+    ],
+    "collocations": [
+     "work from home"
+    ]
+   },
+   {
+    "id": "home-4",
+    "pos": "n",
+    "ko": "고향, 본고장",
+    "en": "the country or town a person comes from",
+    "nuance": "태어나 자란 곳을 말한다. back home은 '고향에서는, 우리나라에서는'이라는 뜻으로 외국에서 자주 쓴다.",
+    "pattern": "back home / hometown",
+    "examples": [
+     {
+      "en": "Back home, we eat soup for breakfast.",
+      "ko": "우리나라에서는 아침에 국을 먹어.",
+      "focus": "Back home"
+     },
+     {
+      "en": "Busan will always be home to me.",
+      "ko": "부산은 나한테 늘 고향일 거야.",
+      "focus": "be home to me"
+     }
+    ]
+   }
+  ],
+  "wordFamily": [
+   {
+    "form": "homeless",
+    "pos": "adj",
+    "ko": "집 없는"
+   },
+   {
+    "form": "hometown",
+    "pos": "n",
+    "ko": "고향"
+   }
+  ],
+  "confusables": [
+   {
+    "word": "house",
+    "note": "house는 건물 자체, home은 사람이 사는 정서적 공간이다. 아파트도 my home이라고 한다."
+   },
+   {
+    "word": "family",
+    "note": "한국어 '우리 집'이 가족을 뜻할 때는 home이 아니라 my family다."
+   }
+  ],
+  "memoryHook": "home 앞에는 to를 쓰지 않는다. go home, come home으로 굳혀 둔다."
+ },
+ {
+  "id": "group",
+  "headword": "group",
+  "ipa": "/ɡruːp/",
+  "level": "PRE",
+  "isCore": true,
+  "topic": "people_family",
+  "forms": [
+   "grouped",
+   "grouping",
+   "groups"
+  ],
+  "senses": [
+   {
+    "id": "group-1",
+    "pos": "n",
+    "ko": "무리, 모임",
+    "en": "a number of people or things together in one place",
+    "nuance": "뒤에 of를 붙여 a group of students처럼 쓴다. 정해진 목표로 함께 일하는 team과 달리 그냥 모인 사람들도 포함한다.",
+    "pattern": "a group of + 복수명사",
+    "examples": [
+     {
+      "en": "A group of tourists was taking photos outside.",
+      "ko": "관광객 한 무리가 밖에서 사진 찍고 있었어.",
+      "focus": "A group of tourists"
+     },
+     {
+      "en": "We went as a group of six to dinner.",
+      "ko": "우리 여섯 명이 다 같이 저녁 먹으러 갔어.",
+      "focus": "a group of six"
+     }
+    ],
+    "collocations": [
+     "a group of people",
+     "in a group"
+    ]
+   },
+   {
+    "id": "group-2",
+    "pos": "n",
+    "ko": "조, 팀 (활동 단위)",
+    "en": "a set of people who work or study together",
+    "nuance": "수업·회의에서 나누는 조를 말한다. 회사 부서는 department, 운동 팀은 team이라고 구분해 쓴다.",
+    "pattern": "in groups of + 숫자",
+    "examples": [
+     {
+      "en": "Let's work in groups of four today.",
+      "ko": "오늘은 네 명씩 조를 짜서 해 보죠.",
+      "focus": "in groups of four"
+     },
+     {
+      "en": "Which group are you in for the project?",
+      "ko": "너 프로젝트에서 어느 조야?",
+      "focus": "group are you in"
+     }
+    ],
+    "collocations": [
+     "a study group"
+    ]
+   },
+   {
+    "id": "group-3",
+    "pos": "n",
+    "ko": "그룹, 밴드",
+    "en": "several singers or musicians who perform together",
+    "nuance": "K팝 아이돌 그룹을 말할 때 자연스럽다. band는 악기를 직접 연주하는 쪽에 더 가깝다.",
+    "pattern": "a + 형용사 + group",
+    "examples": [
+     {
+      "en": "That group has been popular since last year.",
+      "ko": "그 그룹 작년부터 인기 많아.",
+      "focus": "That group"
+     },
+     {
+      "en": "My favorite group is playing in Seoul soon.",
+      "ko": "내가 제일 좋아하는 그룹이 곧 서울에서 공연해.",
+      "focus": "My favorite group"
+     }
+    ]
+   },
+   {
+    "id": "group-4",
+    "pos": "v",
+    "ko": "묶다, 분류하다",
+    "en": "to put people or things together into sets",
+    "nuance": "비슷한 것끼리 나눠 담는다는 뜻으로 수업·자료 정리에 쓴다. 수동태 be grouped by로 쓰는 일이 많다.",
+    "pattern": "group + 대상 + by/into",
+    "examples": [
+     {
+      "en": "The teacher grouped us by our test scores.",
+      "ko": "선생님이 시험 점수별로 우리를 나눴어.",
+      "focus": "grouped us by our test scores"
+     },
+     {
+      "en": "Can you group these files by date?",
+      "ko": "이 파일들 날짜별로 묶어 줄 수 있어?",
+      "focus": "group these files by date"
+     }
+    ],
+    "collocations": [
+     "group them together"
+    ]
+   }
+  ],
+  "confusables": [
+   {
+    "word": "team",
+    "note": "team은 같은 목표로 함께 뛰는 조직, group은 그냥 모여 있는 사람들이다."
+   },
+   {
+    "word": "crowd",
+    "note": "crowd는 이름 없는 많은 인파, group은 셀 수 있는 작은 무리다."
+   },
+   {
+    "word": "band",
+    "note": "band는 악기를 연주하는 밴드, group은 노래하는 팀까지 널리 가리킨다."
+   }
+  ],
+  "memoryHook": "group 뒤에는 of가 따라붙는다고 a group of ~로 통째 외운다."
+ },
+ {
+  "id": "case",
+  "headword": "case",
+  "ipa": "/keɪs/",
+  "level": "PRE",
+  "isCore": true,
+  "topic": "abstract_general",
+  "forms": [
+   "cases"
+  ],
+  "senses": [
+   {
+    "id": "case-1",
+    "pos": "n",
+    "ko": "경우, 상황",
+    "en": "a particular situation or example of something",
+    "nuance": "in that case는 '그렇다면'이라는 회화 접속 표현이다. in this case(이 경우에는)와 짝으로 외워 두면 편하다.",
+    "pattern": "in this/that case",
+    "examples": [
+     {
+      "en": "You're busy? In that case, let's meet Friday.",
+      "ko": "바쁘다고? 그럼 금요일에 만나자.",
+      "focus": "In that case"
+     },
+     {
+      "en": "In most cases, the delivery takes two days.",
+      "ko": "대부분의 경우 배송은 이틀 걸려요.",
+      "focus": "In most cases"
+     },
+     {
+      "en": "It's not the case for everyone, though.",
+      "ko": "그래도 모두한테 그런 건 아니야.",
+      "focus": "the case"
+     }
+    ],
+    "collocations": [
+     "in that case",
+     "in most cases"
+    ]
+   },
+   {
+    "id": "case-2",
+    "pos": "n",
+    "ko": "~에 대비해 (in case)",
+    "en": "used with 'in' to talk about something that might happen",
+    "nuance": "in case는 '혹시 모르니까'라는 뜻으로 뒤에 절이 온다. if와 달리 미리 대비한다는 느낌이 핵심이다.",
+    "pattern": "in case + 절 / just in case",
+    "examples": [
+     {
+      "en": "Take an umbrella in case it rains later.",
+      "ko": "이따 비 올지 모르니까 우산 챙겨.",
+      "focus": "in case it rains"
+     },
+     {
+      "en": "I saved the file twice, just in case.",
+      "ko": "혹시 몰라서 파일을 두 번 저장했어.",
+      "focus": "just in case"
+     }
+    ],
+    "collocations": [
+     "just in case"
+    ]
+   },
+   {
+    "id": "case-3",
+    "pos": "n",
+    "ko": "케이스, 통",
+    "en": "a container made to hold or protect something",
+    "nuance": "폰 케이스·안경 케이스처럼 보호용 통이다. 한국어 '케이스'가 그대로 통하는 몇 안 되는 뜻이다.",
+    "pattern": "a + 물건 + case",
+    "examples": [
+     {
+      "en": "I dropped my phone, but the case saved it.",
+      "ko": "폰 떨어뜨렸는데 케이스 덕분에 살았어.",
+      "focus": "the case saved it"
+     },
+     {
+      "en": "Where did you put my glasses case?",
+      "ko": "내 안경 케이스 어디다 뒀어?",
+      "focus": "my glasses case"
+     }
+    ]
+   },
+   {
+    "id": "case-4",
+    "pos": "n",
+    "ko": "사건, 소송",
+    "en": "a crime or legal matter that police or courts handle",
+    "nuance": "경찰·법원이 다루는 사건이다. accident(사고)와 달리 조사·재판의 대상이라는 뜻이 들어간다.",
+    "pattern": "a court case / solve a case",
+    "examples": [
+     {
+      "en": "The police are still working on the case.",
+      "ko": "경찰이 아직 그 사건을 수사 중이야.",
+      "focus": "working on the case"
+     },
+     {
+      "en": "She won her case in court last month.",
+      "ko": "그분이 지난달 법정에서 소송에서 이겼어.",
+      "focus": "won her case"
+     }
+    ]
+   },
+   {
+    "id": "case-5",
+    "pos": "n",
+    "ko": "환자, 발병 사례",
+    "en": "a person or example of an illness being reported",
+    "nuance": "뉴스에서 확진자 수를 셀 때 쓴다. patient는 병원에 온 사람, case는 통계로 세는 사례다.",
+    "pattern": "숫자 + cases of + 병명",
+    "examples": [
+     {
+      "en": "The hospital reported ten new cases this week.",
+      "ko": "그 병원이 이번 주에 신규 환자 열 명을 보고했어.",
+      "focus": "ten new cases"
+     },
+     {
+      "en": "Most cases are mild and get better quickly.",
+      "ko": "대부분의 사례는 가볍고 금방 나아.",
+      "focus": "Most cases"
+     }
+    ]
+   }
+  ],
+  "confusables": [
+   {
+    "word": "situation",
+    "note": "situation은 상황 전체, case는 그중 하나의 사례나 경우를 가리킨다."
+   },
+   {
+    "word": "example",
+    "note": "example은 설명하려고 드는 예, case는 실제로 일어난 사례다."
+   },
+   {
+    "word": "box",
+    "note": "box는 네모난 상자, case는 물건 모양에 맞춘 보호용 통이다."
+   }
+  ],
+  "memoryHook": "in that case(그렇다면)와 in case(혹시 모르니)를 한 쌍으로 외운다."
+ },
+ {
+  "id": "around",
+  "headword": "around",
+  "ipa": "/əˈraʊnd/",
+  "level": "PRE",
+  "isCore": true,
+  "topic": "movement_action",
+  "forms": [],
+  "senses": [
+   {
+    "id": "around-1",
+    "pos": "adv",
+    "ko": "대략, ~쯤",
+    "en": "a little more or less than a number or time",
+    "nuance": "시간·숫자 앞에 붙여 '~쯤'이라고 말한다. about과 뜻이 같지만 회화에서는 around가 조금 더 캐주얼하게 들린다.",
+    "pattern": "around + 시각/숫자",
+    "examples": [
+     {
+      "en": "Let's meet around seven in front of the station.",
+      "ko": "일곱 시쯤 역 앞에서 만나자.",
+      "focus": "around seven"
+     },
+     {
+      "en": "The tickets cost around fifty dollars each.",
+      "ko": "표는 한 장에 50달러쯤 해.",
+      "focus": "around fifty dollars"
+     }
+    ],
+    "collocations": [
+     "around ten o'clock"
+    ]
+   },
+   {
+    "id": "around-2",
+    "pos": "prep",
+    "ko": "~를 돌아, 둘레에",
+    "en": "moving in a circle or on all sides of something",
+    "nuance": "빙 둘러싸거나 돌아가는 그림이다. 길 안내에서 around the corner는 '모퉁이 돌면'이라는 뜻으로 아주 자주 쓴다.",
+    "pattern": "around + 장소",
+    "examples": [
+     {
+      "en": "The bakery is just around the corner.",
+      "ko": "빵집은 모퉁이 돌면 바로 있어.",
+      "focus": "around the corner"
+     },
+     {
+      "en": "We sat around the table and shared food.",
+      "ko": "우리는 식탁에 둘러앉아 음식을 나눠 먹었어.",
+      "focus": "around the table"
+     }
+    ],
+    "collocations": [
+     "around the corner"
+    ]
+   },
+   {
+    "id": "around-3",
+    "pos": "prep",
+    "ko": "여기저기, 곳곳을",
+    "en": "to many parts of a place",
+    "nuance": "한 곳이 아니라 여러 군데를 다닌다는 뜻이다. travel around Korea는 '한국 곳곳을 여행하다'가 된다.",
+    "pattern": "동사 + around + 장소",
+    "examples": [
+     {
+      "en": "We walked around the old town all afternoon.",
+      "ko": "우리 오후 내내 구시가지를 돌아다녔어.",
+      "focus": "walked around the old town"
+     },
+     {
+      "en": "I'd love to travel around Europe someday.",
+      "ko": "언젠가 유럽 곳곳을 여행하고 싶어.",
+      "focus": "travel around Europe"
+     }
+    ],
+    "collocations": [
+     "look around"
+    ]
+   },
+   {
+    "id": "around-4",
+    "pos": "adv",
+    "ko": "근처에, 와 있는",
+    "en": "near this place, or present and available",
+    "nuance": "Is Mina around?는 '미나 지금 여기 있어?'라는 뜻이다. be around는 '자리에 있다'는 캐주얼한 표현이다.",
+    "pattern": "be around",
+    "examples": [
+     {
+      "en": "Is Tom around? I need to ask him something.",
+      "ko": "톰 지금 있어? 물어볼 게 있어서.",
+      "focus": "Tom around"
+     },
+     {
+      "en": "I'll be around until about six tonight.",
+      "ko": "오늘 여섯 시쯤까지는 여기 있을 거야.",
+      "focus": "be around"
+     }
+    ]
+   }
+  ],
+  "confusables": [
+   {
+    "word": "about",
+    "note": "숫자 앞에서는 뜻이 같지만, '~에 대해'라는 주제 뜻은 about에만 있다."
+   },
+   {
+    "word": "round",
+    "note": "영국식은 round, 미국식은 around를 더 쓴다. 뜻 차이는 거의 없다."
+   },
+   {
+    "word": "near",
+    "note": "near는 거리상 가까운 것, around는 '주변을 빙 둘러' 또는 '어딘가 근처에'다."
+   }
+  ],
+  "memoryHook": "동그라미를 그리는 그림에서 '둘레·여기저기·대략'이 다 나온다."
  }
 ]

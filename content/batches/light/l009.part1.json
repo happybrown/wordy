@@ -1,0 +1,1120 @@
+[
+ {
+  "id": "noise",
+  "headword": "noise",
+  "ipa": "/nɔɪz/",
+  "level": "ELEM",
+  "isCore": false,
+  "topic": "description_quality",
+  "forms": ["noises"],
+  "senses": [
+   {
+    "id": "noise-1",
+    "pos": "n",
+    "ko": "소음, 시끄러운 소리",
+    "en": "a loud or unpleasant sound that you do not want to hear",
+    "nuance": "'시끄럽다'를 noisy 대신 noise로 쓰는 실수가 잦다. 시끄러운 상태 전체는 셀 수 없고, 특정 소리 하나는 a strange noise처럼 센다.",
+    "pattern": "make (a) noise",
+    "examples": [
+     {
+      "en": "Could you keep the noise down? The baby's sleeping.",
+      "ko": "소리 좀 줄여 줄래? 아기가 자고 있어.",
+      "focus": "keep the noise down"
+     },
+     {
+      "en": "My fridge makes a strange noise every night around two.",
+      "ko": "우리 냉장고는 매일 밤 2시쯤 이상한 소리를 내.",
+      "focus": "makes a strange noise"
+     }
+    ],
+    "collocations": ["make a noise", "keep the noise down"]
+   }
+  ],
+  "wordFamily": [{ "form": "noisy", "pos": "adj", "ko": "시끄러운" }],
+  "confusables": [
+   { "word": "sound", "note": "sound는 좋든 나쁘든 모든 소리, noise는 듣기 싫은 소리에만 쓴다." }
+  ]
+ },
+ {
+  "id": "gold",
+  "headword": "gold",
+  "ipa": "/ɡoʊld/",
+  "level": "ELEM",
+  "isCore": false,
+  "topic": "money_shopping",
+  "forms": [],
+  "senses": [
+   {
+    "id": "gold-1",
+    "pos": "n",
+    "ko": "금",
+    "en": "a soft yellow metal that costs a lot of money",
+    "nuance": "금속 자체를 뜻할 때는 셀 수 없어서 a gold라고 하지 않는다. 금으로 만든 물건은 golden이 아니라 gold ring처럼 gold를 앞에 붙인다.",
+    "pattern": "gold + 명사",
+    "examples": [
+     {
+      "en": "Mina wears a thin gold ring on her right hand.",
+      "ko": "미나는 오른손에 얇은 금반지를 껴.",
+      "focus": "a thin gold ring"
+     },
+     {
+      "en": "The price of gold went up again this month.",
+      "ko": "금값이 이번 달에 또 올랐어.",
+      "focus": "The price of gold"
+     }
+    ],
+    "collocations": ["a gold ring", "win a gold medal"]
+   }
+  ],
+  "wordFamily": [{ "form": "golden", "pos": "adj", "ko": "금빛의, 귀중한" }],
+  "confusables": [
+   { "word": "silver", "note": "gold는 금·금색, silver는 은·은색이다. 메달 순서도 gold가 1등이다." }
+  ]
+ },
+ {
+  "id": "skin",
+  "headword": "skin",
+  "ipa": "/skɪn/",
+  "level": "ELEM",
+  "isCore": false,
+  "topic": "body_health",
+  "forms": ["skins"],
+  "senses": [
+   {
+    "id": "skin-1",
+    "pos": "n",
+    "ko": "피부",
+    "en": "the outside layer that covers a person's body",
+    "nuance": "'피부가 좋다'는 good skin이고 skin condition은 병원에서 쓰는 말이다. 사람 피부 전체를 말할 때는 보통 단수로 쓴다.",
+    "pattern": "dry / sensitive skin",
+    "examples": [
+     {
+      "en": "My skin gets really dry every winter without a cream.",
+      "ko": "나는 겨울마다 크림 안 바르면 피부가 엄청 건조해져.",
+      "focus": "My skin gets really dry"
+     },
+     {
+      "en": "Emma has sensitive skin, so she can't use that soap.",
+      "ko": "엠마는 피부가 예민해서 그 비누를 못 써.",
+      "focus": "has sensitive skin"
+     }
+    ],
+    "collocations": ["dry skin", "sensitive skin"]
+   },
+   {
+    "id": "skin-2",
+    "pos": "n",
+    "ko": "껍질",
+    "en": "the thin outside part of some fruits or vegetables",
+    "nuance": "사과·감자처럼 얇아서 먹을 수 있는 껍질은 skin, 오렌지나 바나나처럼 두껍게 벗겨 버리는 껍질은 peel이라고 한다.",
+    "examples": [
+     {
+      "en": "Don't peel the potatoes; the skin has lots of vitamins.",
+      "ko": "감자 껍질 벗기지 마. 껍질에 비타민이 많아.",
+      "focus": "the skin has lots of vitamins"
+     }
+    ]
+   }
+  ],
+  "confusables": [
+   { "word": "leather", "note": "skin은 몸을 덮은 피부, leather는 그 가죽을 가공해 만든 재료다." }
+  ]
+ },
+ {
+  "id": "wood",
+  "headword": "wood",
+  "ipa": "/wʊd/",
+  "level": "ELEM",
+  "isCore": false,
+  "topic": "environment_science",
+  "forms": ["woods"],
+  "senses": [
+   {
+    "id": "wood-1",
+    "pos": "n",
+    "ko": "나무, 목재",
+    "en": "the hard material that trees are made of",
+    "nuance": "재료를 뜻할 때는 셀 수 없어서 a wood나 woods로 쓰지 않는다. 살아 있는 나무 한 그루는 tree다.",
+    "pattern": "made of wood",
+    "examples": [
+     {
+      "en": "This table is made of real wood, not plastic.",
+      "ko": "이 탁자는 플라스틱이 아니라 진짜 나무로 만든 거야.",
+      "focus": "made of real wood"
+     },
+     {
+      "en": "Tom cut some wood for the fire last night.",
+      "ko": "톰이 어젯밤에 불 피우려고 나무를 좀 잘랐어.",
+      "focus": "cut some wood"
+     }
+    ],
+    "collocations": ["made of wood", "a piece of wood"]
+   }
+  ],
+  "wordFamily": [{ "form": "wooden", "pos": "adj", "ko": "나무로 만든" }],
+  "confusables": [
+   { "word": "tree", "note": "tree는 서 있는 나무 한 그루, wood는 그 나무를 잘라 만든 재료다." }
+  ]
+ },
+ {
+  "id": "shake",
+  "headword": "shake",
+  "ipa": "/ʃeɪk/",
+  "level": "ELEM",
+  "isCore": false,
+  "topic": "movement_action",
+  "forms": ["shaken", "shakes", "shaking", "shook"],
+  "senses": [
+   {
+    "id": "shake-1",
+    "pos": "v",
+    "ko": "흔들다, 떨리다",
+    "en": "to move quickly from side to side, or make something move that way",
+    "nuance": "과거형이 shaked가 아니라 shook이라는 점을 자주 틀린다. 추위나 긴장으로 몸이 떨릴 때도 My hands are shaking처럼 쓴다.",
+    "pattern": "shake + 명사 / 주어 + shake",
+    "examples": [
+     {
+      "en": "My hands were shaking before I went on stage.",
+      "ko": "무대에 오르기 전에 손이 덜덜 떨렸어.",
+      "focus": "My hands were shaking"
+     },
+     {
+      "en": "Jun shook the bottle hard before opening it.",
+      "ko": "준은 병을 열기 전에 세게 흔들었어.",
+      "focus": "shook the bottle hard"
+     }
+    ],
+    "collocations": ["shake your head", "shake hands with"]
+   }
+  ],
+  "confusables": [
+   { "word": "wave", "note": "shake는 좌우로 흔드는 동작, wave는 인사하려고 손을 들어 흔드는 것이다." }
+  ]
+ },
+ {
+  "id": "hall",
+  "headword": "hall",
+  "ipa": "/hɔːl/",
+  "level": "ELEM",
+  "isCore": false,
+  "topic": "travel_transport",
+  "forms": ["halls"],
+  "senses": [
+   {
+    "id": "hall-1",
+    "pos": "n",
+    "ko": "강당, 큰 방",
+    "en": "a large room where many people meet for an event",
+    "nuance": "행사·공연을 하는 큰 방을 뜻한다. 한국에서 말하는 '홀'과 달리 식당 안 손님석은 hall이라고 하지 않는다.",
+    "pattern": "a concert / city hall",
+    "examples": [
+     {
+      "en": "The concert hall was full an hour before the show.",
+      "ko": "공연 시작 한 시간 전인데 공연장이 꽉 찼더라.",
+      "focus": "The concert hall"
+     },
+     {
+      "en": "We're meeting in the main hall after lunch.",
+      "ko": "점심 먹고 대강당에서 모이기로 했어.",
+      "focus": "in the main hall"
+     }
+    ],
+    "collocations": ["a concert hall", "city hall"]
+   }
+  ],
+  "confusables": [
+   { "word": "corridor", "note": "hall은 사람이 모이는 큰 방, 건물 안의 긴 복도는 hallway나 corridor라고 한다." }
+  ]
+ },
+ {
+  "id": "error",
+  "headword": "error",
+  "ipa": "/ˈerər/",
+  "level": "ELEM",
+  "isCore": false,
+  "topic": "thinking_opinion",
+  "forms": ["errors"],
+  "senses": [
+   {
+    "id": "error-1",
+    "pos": "n",
+    "ko": "오류, 잘못",
+    "en": "something done in the wrong way, often in writing or a machine",
+    "nuance": "컴퓨터·서류처럼 딱딱한 상황에서 쓰고 일상 대화에서는 mistake가 자연스럽다. '실수하다'는 do가 아니라 make an error다.",
+    "pattern": "make an error",
+    "examples": [
+     {
+      "en": "The app keeps showing an error when I try to pay.",
+      "ko": "결제하려고 하면 앱에서 계속 오류가 떠.",
+      "focus": "showing an error"
+     },
+     {
+      "en": "I made a small error in the first row of numbers.",
+      "ko": "숫자 첫 줄에서 작은 실수를 했어.",
+      "focus": "made a small error"
+     }
+    ],
+    "collocations": ["make an error", "an error message"]
+   }
+  ],
+  "confusables": [
+   { "word": "mistake", "note": "mistake는 일상 대화의 실수, error는 기계·서류·시험처럼 격식 있는 상황에서 쓴다." }
+  ]
+ },
+ {
+  "id": "wake",
+  "headword": "wake",
+  "ipa": "/weɪk/",
+  "level": "ELEM",
+  "isCore": false,
+  "topic": "home_daily",
+  "forms": ["waked", "wakes", "waking", "woke", "woken"],
+  "senses": [
+   {
+    "id": "wake-1",
+    "pos": "v",
+    "ko": "깨다, 깨우다",
+    "en": "to stop sleeping, or to make someone stop sleeping",
+    "nuance": "혼자 일어날 때는 wake up이고, 남을 깨울 때는 wake me up처럼 목적어를 up 앞에 넣는다. 과거형은 waked보다 woke를 쓴다.",
+    "pattern": "wake (somebody) up",
+    "examples": [
+     {
+      "en": "Can you wake me up at six tomorrow morning?",
+      "ko": "내일 아침 6시에 나 좀 깨워 줄래?",
+      "focus": "wake me up"
+     },
+     {
+      "en": "I woke up twice last night because of the wind.",
+      "ko": "어젯밤에 바람 때문에 두 번이나 깼어.",
+      "focus": "woke up twice"
+     }
+    ],
+    "collocations": ["wake up early", "wake somebody up"]
+   }
+  ],
+  "confusables": [
+   { "word": "awake", "note": "wake는 잠에서 깨는 동작, awake는 이미 깨어 있는 상태를 말하는 형용사다." }
+  ]
+ },
+ {
+  "id": "bright",
+  "headword": "bright",
+  "ipa": "/braɪt/",
+  "level": "ELEM",
+  "isCore": false,
+  "topic": "description_quality",
+  "forms": ["brighter", "brightest"],
+  "senses": [
+   {
+    "id": "bright-1",
+    "pos": "adj",
+    "ko": "밝은, 환한",
+    "en": "giving off a lot of light, or having a strong clear color",
+    "nuance": "빛이 세다는 뜻이라 light(가벼운·연한)와 헷갈리기 쉽다. 색에 쓰면 '연한'이 아니라 '쨍한' 색이다.",
+    "pattern": "bright + 명사",
+    "examples": [
+     {
+      "en": "This room is really bright in the morning.",
+      "ko": "이 방은 아침에 정말 환해.",
+      "focus": "really bright"
+     },
+     {
+      "en": "She showed up in a bright yellow coat.",
+      "ko": "걔가 샛노란 코트를 입고 나타났어.",
+      "focus": "a bright yellow coat"
+     }
+    ],
+    "collocations": ["bright light", "a bright color"]
+   },
+   {
+    "id": "bright-2",
+    "pos": "adj",
+    "ko": "똑똑한",
+    "en": "able to learn and understand things quickly",
+    "nuance": "주로 아이나 학생을 칭찬할 때 쓴다. 어른의 능력을 말할 때는 smart나 clever가 더 자연스럽다.",
+    "examples": [
+     {
+      "en": "Your daughter is a bright kid; she learns fast.",
+      "ko": "따님이 똑똑하네요. 배우는 게 빨라요.",
+      "focus": "a bright kid"
+     }
+    ]
+   }
+  ],
+  "wordFamily": [{ "form": "brightly", "pos": "adv", "ko": "밝게" }],
+  "confusables": [
+   { "word": "light", "note": "bright는 빛이 센 것, light는 색이 연하거나 무게가 가벼운 것이다." }
+  ]
+ },
+ {
+  "id": "hole",
+  "headword": "hole",
+  "ipa": "/hoʊl/",
+  "level": "ELEM",
+  "isCore": false,
+  "topic": "description_quality",
+  "forms": ["holes"],
+  "senses": [
+   {
+    "id": "hole-1",
+    "pos": "n",
+    "ko": "구멍",
+    "en": "an opening or empty space in a surface",
+    "nuance": "'구멍이 났다'는 There's a hole in my sock처럼 in을 쓴다. on my sock이라고 하면 어색하다.",
+    "pattern": "a hole in + 명사",
+    "examples": [
+     {
+      "en": "There's a hole in my sock again.",
+      "ko": "양말에 또 구멍 났어.",
+      "focus": "a hole in my sock"
+     },
+     {
+      "en": "Tom dug a deep hole to plant the small tree.",
+      "ko": "톰이 작은 나무를 심으려고 깊은 구멍을 팠어.",
+      "focus": "dug a deep hole"
+     }
+    ],
+    "collocations": ["a hole in", "dig a hole"]
+   }
+  ],
+  "confusables": [
+   { "word": "whole", "note": "발음이 같지만 hole은 '구멍', whole은 '전체의'라는 뜻이다." }
+  ]
+ },
+ {
+  "id": "chain",
+  "headword": "chain",
+  "ipa": "/tʃeɪn/",
+  "level": "ELEM",
+  "isCore": false,
+  "topic": "description_quality",
+  "forms": ["chains"],
+  "senses": [
+   {
+    "id": "chain-1",
+    "pos": "n",
+    "ko": "사슬, 체인",
+    "en": "a line of metal rings joined together",
+    "nuance": "목걸이를 말할 때도 a gold chain처럼 쓴다. 자전거·문 잠금장치의 '체인'도 같은 단어다.",
+    "pattern": "a chain of + 명사",
+    "examples": [
+     {
+      "en": "The chain on my bike came off near the bridge.",
+      "ko": "다리 근처에서 자전거 체인이 빠졌어.",
+      "focus": "The chain on my bike"
+     },
+     {
+      "en": "Mina wears a silver chain her grandmother gave her.",
+      "ko": "미나는 할머니가 주신 은목걸이를 하고 다녀.",
+      "focus": "a silver chain"
+     }
+    ],
+    "collocations": ["a gold chain", "a chain of stores"]
+   }
+  ],
+  "confusables": [
+   { "word": "chair", "note": "철자가 한 글자 차이라 헷갈린다. chain은 '사슬', chair는 '의자'다." }
+  ]
+ },
+ {
+  "id": "birth",
+  "headword": "birth",
+  "ipa": "/bɜːrθ/",
+  "level": "ELEM",
+  "isCore": false,
+  "topic": "people_family",
+  "forms": ["births"],
+  "senses": [
+   {
+    "id": "birth-1",
+    "pos": "n",
+    "ko": "출생, 탄생",
+    "en": "the time when a baby comes out of its mother",
+    "nuance": "'아기를 낳다'는 give birth to a baby이고 to를 빠뜨리기 쉽다. '태어나다'는 birth가 아니라 be born을 쓴다.",
+    "pattern": "give birth to + 명사",
+    "examples": [
+     {
+      "en": "Emma gave birth to a healthy boy last Friday.",
+      "ko": "엠마가 지난 금요일에 건강한 아들을 낳았어.",
+      "focus": "gave birth to a healthy boy"
+     },
+     {
+      "en": "Please write your date of birth on this form.",
+      "ko": "이 양식에 생년월일을 적어 주세요.",
+      "focus": "your date of birth"
+     }
+    ],
+    "collocations": ["give birth to", "date of birth"]
+   }
+  ],
+  "wordFamily": [{ "form": "birthday", "pos": "n", "ko": "생일" }],
+  "confusables": [
+   { "word": "born", "note": "birth는 명사라서 '태어났다'는 I was born처럼 be born을 쓴다." }
+  ]
+ },
+ {
+  "id": "forest",
+  "headword": "forest",
+  "ipa": "/ˈfɔːrɪst/",
+  "level": "ELEM",
+  "isCore": false,
+  "topic": "nature_animals",
+  "forms": ["forests"],
+  "senses": [
+   {
+    "id": "forest-1",
+    "pos": "n",
+    "ko": "숲",
+    "en": "a large area of land covered with many trees",
+    "nuance": "'숲속에서'는 in the forest이고 관사를 빼먹기 쉽다. 동네 뒷산 같은 작은 숲은 the woods라고 더 자주 말한다.",
+    "pattern": "in the forest",
+    "examples": [
+     {
+      "en": "We walked in the forest for about two hours.",
+      "ko": "우리는 두 시간쯤 숲속을 걸었어.",
+      "focus": "in the forest"
+     },
+     {
+      "en": "A big fire destroyed part of the forest last summer.",
+      "ko": "지난여름 큰불이 숲 일부를 태워 버렸어.",
+      "focus": "part of the forest"
+     }
+    ],
+    "collocations": ["in the forest", "a rain forest"]
+   }
+  ],
+  "confusables": [
+   { "word": "wood", "note": "forest는 넓고 깊은 숲, woods는 그보다 작고 동네에서 가까운 숲을 말한다." }
+  ]
+ },
+ {
+  "id": "factory",
+  "headword": "factory",
+  "ipa": "/ˈfæktri/",
+  "level": "ELEM",
+  "isCore": false,
+  "topic": "work_business",
+  "forms": ["factories"],
+  "senses": [
+   {
+    "id": "factory-1",
+    "pos": "n",
+    "ko": "공장",
+    "en": "a building where machines make goods in large numbers",
+    "nuance": "'공장에서 일하다'는 work in a factory처럼 in을 쓴다. 복수형은 factorys가 아니라 factories다.",
+    "pattern": "work in a factory",
+    "examples": [
+     {
+      "en": "My uncle worked in a car factory for thirty years.",
+      "ko": "우리 삼촌은 자동차 공장에서 30년 일하셨어.",
+      "focus": "in a car factory"
+     },
+     {
+      "en": "The factory closed last year, and many people lost jobs.",
+      "ko": "그 공장은 작년에 문을 닫았고 많은 사람이 일자리를 잃었어.",
+      "focus": "The factory closed"
+     }
+    ],
+    "collocations": ["work in a factory", "a car factory"]
+   }
+  ],
+  "confusables": [
+   { "word": "company", "note": "factory는 물건을 만드는 건물, company는 사업을 하는 회사 조직이다." }
+  ]
+ },
+ {
+  "id": "west",
+  "headword": "west",
+  "ipa": "/west/",
+  "level": "ELEM",
+  "isCore": false,
+  "topic": "travel_transport",
+  "forms": [],
+  "senses": [
+   {
+    "id": "west-1",
+    "pos": "n",
+    "ko": "서쪽",
+    "en": "the direction where the sun goes down",
+    "nuance": "방향을 말할 때는 in the west, to the west처럼 the를 꼭 붙인다. '서쪽으로 가다'는 go west로 관사 없이 부사처럼 쓴다.",
+    "pattern": "in / to the west of",
+    "examples": [
+     {
+      "en": "The airport is in the west of the city.",
+      "ko": "공항은 도시 서쪽에 있어.",
+      "focus": "in the west of the city"
+     },
+     {
+      "en": "Drive west for ten minutes and you'll see the lake.",
+      "ko": "서쪽으로 10분 운전하면 호수가 보일 거야.",
+      "focus": "Drive west"
+     }
+    ],
+    "collocations": ["in the west", "the west coast"]
+   }
+  ],
+  "wordFamily": [{ "form": "western", "pos": "adj", "ko": "서쪽의, 서양의" }],
+  "confusables": [
+   { "word": "east", "note": "west는 해가 지는 서쪽, east는 해가 뜨는 동쪽이다." }
+  ]
+ },
+ {
+  "id": "bridge",
+  "headword": "bridge",
+  "ipa": "/brɪdʒ/",
+  "level": "ELEM",
+  "isCore": false,
+  "topic": "travel_transport",
+  "forms": ["bridges"],
+  "senses": [
+   {
+    "id": "bridge-1",
+    "pos": "n",
+    "ko": "다리, 교량",
+    "en": "something built over a river or road so people can cross",
+    "nuance": "'다리를 건너다'는 cross the bridge나 go over the bridge다. 신체의 다리는 leg이니 섞어 쓰지 않는다.",
+    "pattern": "cross / over the bridge",
+    "examples": [
+     {
+      "en": "Cross the bridge and turn left at the bank.",
+      "ko": "다리를 건너서 은행에서 왼쪽으로 도세요.",
+      "focus": "Cross the bridge"
+     },
+     {
+      "en": "The view from that old bridge at night is beautiful.",
+      "ko": "밤에 저 오래된 다리에서 보는 경치가 아름다워.",
+      "focus": "that old bridge"
+     }
+    ],
+    "collocations": ["cross the bridge", "over the bridge"]
+   }
+  ],
+  "confusables": [
+   { "word": "leg", "note": "한국어로는 둘 다 '다리'지만 bridge는 건너는 다리, leg는 몸의 다리다." }
+  ]
+ },
+ {
+  "id": "brand",
+  "headword": "brand",
+  "ipa": "/brænd/",
+  "level": "ELEM",
+  "isCore": false,
+  "topic": "money_shopping",
+  "forms": ["brands"],
+  "senses": [
+   {
+    "id": "brand-1",
+    "pos": "n",
+    "ko": "상표, 브랜드",
+    "en": "the name a company puts on the things it sells",
+    "nuance": "'명품'을 brand라고만 하면 통하지 않고 luxury brand라고 해야 한다. brand-new는 '새 제품'이라는 뜻의 다른 표현이다.",
+    "pattern": "a … brand / brand of + 명사",
+    "examples": [
+     {
+      "en": "What brand of shoes do you usually buy?",
+      "ko": "너는 보통 어느 브랜드 신발을 사?",
+      "focus": "What brand of shoes"
+     },
+     {
+      "en": "This brand is cheaper but the quality is just fine.",
+      "ko": "이 브랜드가 더 싼데 품질은 괜찮아.",
+      "focus": "This brand is cheaper"
+     }
+    ],
+    "collocations": ["a popular brand", "brand new"]
+   }
+  ],
+  "confusables": [
+   { "word": "mark", "note": "brand는 회사가 붙인 상표 이름, mark는 표시나 자국을 뜻한다." }
+  ]
+ },
+ {
+  "id": "ice",
+  "headword": "ice",
+  "ipa": "/aɪs/",
+  "level": "ELEM",
+  "isCore": false,
+  "topic": "food_cooking",
+  "forms": ["ices"],
+  "senses": [
+   {
+    "id": "ice-1",
+    "pos": "n",
+    "ko": "얼음",
+    "en": "water that has become hard because it got very cold",
+    "nuance": "셀 수 없어서 two ices가 아니라 two ice cubes라고 한다. '아이스 커피'는 ice coffee가 아니라 iced coffee다.",
+    "pattern": "with / without ice",
+    "examples": [
+     {
+      "en": "Can I get a water with lots of ice, please?",
+      "ko": "얼음 많이 넣은 물 한 잔 주시겠어요?",
+      "focus": "with lots of ice"
+     },
+     {
+      "en": "Be careful; there's ice on the steps this morning.",
+      "ko": "조심해. 오늘 아침 계단에 얼음이 얼었어.",
+      "focus": "there's ice on the steps"
+     }
+    ],
+    "collocations": ["with ice", "a piece of ice"]
+   }
+  ],
+  "wordFamily": [{ "form": "icy", "pos": "adj", "ko": "얼음이 언, 차가운" }],
+  "confusables": [
+   { "word": "snow", "note": "ice는 물이 얼어 단단해진 것, snow는 하늘에서 내리는 눈이다." }
+  ]
+ },
+ {
+  "id": "grade",
+  "headword": "grade",
+  "ipa": "/ɡreɪd/",
+  "level": "ELEM",
+  "isCore": false,
+  "topic": "school_learning",
+  "forms": ["graded", "grades", "grading"],
+  "senses": [
+   {
+    "id": "grade-1",
+    "pos": "n",
+    "ko": "성적, 점수",
+    "en": "a letter or number that shows how well you did at school",
+    "nuance": "A, B 같은 등급을 말하고 숫자 점수는 score라고 한다. '성적이 좋다'는 get good grades처럼 복수로 쓴다.",
+    "pattern": "get a good grade",
+    "examples": [
+     {
+      "en": "Jun got a good grade on his history test.",
+      "ko": "준이 역사 시험에서 좋은 성적을 받았어.",
+      "focus": "got a good grade"
+     },
+     {
+      "en": "My grades went up after I started studying at night.",
+      "ko": "밤에 공부하기 시작한 뒤로 성적이 올랐어.",
+      "focus": "My grades went up"
+     }
+    ],
+    "collocations": ["get good grades"]
+   },
+   {
+    "id": "grade-2",
+    "pos": "n",
+    "ko": "학년",
+    "en": "one of the school years that students move through",
+    "nuance": "미국식 표현으로 '3학년'은 the third grade다. 영국식에서는 year three라고 하니 상대에 맞춰 쓴다.",
+    "examples": [
+     {
+      "en": "My son is in the fourth grade this year.",
+      "ko": "우리 아들은 올해 4학년이야.",
+      "focus": "in the fourth grade"
+     }
+    ],
+    "collocations": ["in the first grade"]
+   }
+  ],
+  "confusables": [
+   { "word": "score", "note": "grade는 A·B 같은 등급, score는 85점처럼 숫자로 나온 점수다." }
+  ]
+ },
+ {
+  "id": "farmer",
+  "headword": "farmer",
+  "ipa": "/ˈfɑːrmər/",
+  "level": "ELEM",
+  "isCore": false,
+  "topic": "work_business",
+  "forms": ["farmers"],
+  "senses": [
+   {
+    "id": "farmer-1",
+    "pos": "n",
+    "ko": "농부",
+    "en": "a person whose job is growing crops or keeping animals",
+    "nuance": "직업을 말할 때는 He is a farmer처럼 관사 a를 꼭 붙인다. 일하는 땅은 farm이고 사람은 farmer다.",
+    "pattern": "be a farmer",
+    "examples": [
+     {
+      "en": "Her grandfather was a rice farmer near Busan.",
+      "ko": "그분 할아버지는 부산 근처에서 벼농사를 짓는 농부였어.",
+      "focus": "was a rice farmer"
+     },
+     {
+      "en": "Local farmers sell fresh fruit at the market every Saturday.",
+      "ko": "동네 농부들이 토요일마다 시장에서 신선한 과일을 팔아.",
+      "focus": "Local farmers sell"
+     }
+    ],
+    "collocations": ["a local farmer", "a rice farmer"]
+   }
+  ],
+  "wordFamily": [{ "form": "farm", "pos": "n", "ko": "농장" }],
+  "confusables": [
+   { "word": "farm", "note": "farmer는 사람, farm은 그 사람이 일하는 농장이라는 장소다." }
+  ]
+ },
+ {
+  "id": "tea",
+  "headword": "tea",
+  "ipa": "/tiː/",
+  "level": "ELEM",
+  "isCore": false,
+  "topic": "food_cooking",
+  "forms": ["teas"],
+  "senses": [
+   {
+    "id": "tea-1",
+    "pos": "n",
+    "ko": "차",
+    "en": "a hot drink made by putting dried leaves in water",
+    "nuance": "음료 자체는 셀 수 없지만 주문할 때는 two teas처럼 잔 수로 세기도 한다. 자동차 등의 '차'는 car이니 헷갈리지 않는다.",
+    "pattern": "a cup of tea",
+    "examples": [
+     {
+      "en": "Would you like a cup of tea or coffee?",
+      "ko": "차 드릴까요, 커피 드릴까요?",
+      "focus": "a cup of tea"
+     },
+     {
+      "en": "Mina drinks green tea instead of coffee in the afternoon.",
+      "ko": "미나는 오후에 커피 대신 녹차를 마셔.",
+      "focus": "drinks green tea"
+     }
+    ],
+    "collocations": ["a cup of tea", "green tea"]
+   }
+  ],
+  "confusables": [
+   { "word": "coffee", "note": "둘 다 셀 수 없는 음료지만 주문할 때만 two teas, two coffees처럼 센다." }
+  ]
+ },
+ {
+  "id": "lovely",
+  "headword": "lovely",
+  "ipa": "/ˈlʌvli/",
+  "level": "ELEM",
+  "isCore": false,
+  "topic": "description_quality",
+  "forms": ["lovelier", "loveliest"],
+  "senses": [
+   {
+    "id": "lovely-1",
+    "pos": "adj",
+    "ko": "아름다운, 멋진",
+    "en": "very pleasant or attractive to look at or enjoy",
+    "nuance": "-ly로 끝나지만 부사가 아니라 형용사다. 사람·날씨·음식에 두루 쓰는 따뜻한 칭찬이고 영국 영어에서 특히 흔하다.",
+    "pattern": "a lovely + 명사",
+    "examples": [
+     {
+      "en": "What a lovely day for a walk by the river!",
+      "ko": "강가 산책하기 정말 좋은 날씨네!",
+      "focus": "a lovely day"
+     },
+     {
+      "en": "Thanks for dinner; the soup was lovely.",
+      "ko": "저녁 고마워요. 국이 정말 맛있었어요.",
+      "focus": "the soup was lovely"
+     }
+    ],
+    "collocations": ["a lovely day", "look lovely"]
+   }
+  ],
+  "confusables": [
+   { "word": "lonely", "note": "철자가 비슷하지만 lovely는 '사랑스러운', lonely는 '외로운'이라 뜻이 정반대다." }
+  ]
+ },
+ {
+  "id": "row",
+  "headword": "row",
+  "ipa": "/roʊ/",
+  "level": "ELEM",
+  "isCore": false,
+  "topic": "description_quality",
+  "forms": ["rowed", "rowing", "rows"],
+  "senses": [
+   {
+    "id": "row-1",
+    "pos": "n",
+    "ko": "줄, 열",
+    "en": "a line of people or things side by side",
+    "nuance": "좌석·좌표처럼 가로로 늘어선 줄이다. 순서를 기다리며 서는 줄은 row가 아니라 line이라고 한다.",
+    "pattern": "in the … row",
+    "examples": [
+     {
+      "en": "Our seats are in the back row of the theater.",
+      "ko": "우리 자리는 극장 맨 뒷줄이야.",
+      "focus": "in the back row"
+     },
+     {
+      "en": "Please put the chairs in three straight rows.",
+      "ko": "의자를 세 줄로 곧게 놓아 주세요.",
+      "focus": "in three straight rows"
+     }
+    ],
+    "collocations": ["the front row", "in a row"]
+   }
+  ],
+  "confusables": [
+   { "word": "line", "note": "row는 나란히 늘어선 가로줄, line은 차례를 기다리며 서는 줄에 쓴다." }
+  ]
+ },
+ {
+  "id": "celebrate",
+  "headword": "celebrate",
+  "ipa": "/ˈselɪbreɪt/",
+  "level": "ELEM",
+  "isCore": false,
+  "topic": "culture_arts",
+  "forms": ["celebrated", "celebrates", "celebrating"],
+  "senses": [
+   {
+    "id": "celebrate-1",
+    "pos": "v",
+    "ko": "축하하다, 기념하다",
+    "en": "to do something special because of a happy event",
+    "nuance": "목적어는 사람이 아니라 생일·기념일 같은 일이다. 사람에게는 celebrate you가 아니라 congratulate you를 쓴다.",
+    "pattern": "celebrate + 행사/기념일",
+    "examples": [
+     {
+      "en": "We're celebrating my mom's birthday at a Korean restaurant.",
+      "ko": "우리 엄마 생신을 한식당에서 축하하는 중이야.",
+      "focus": "celebrating my mom's birthday"
+     },
+     {
+      "en": "How do you usually celebrate New Year's Day?",
+      "ko": "너는 새해 첫날을 보통 어떻게 보내?",
+      "focus": "celebrate New Year's Day"
+     }
+    ],
+    "collocations": ["celebrate a birthday", "celebrate with friends"]
+   }
+  ],
+  "wordFamily": [{ "form": "celebration", "pos": "n", "ko": "축하, 기념 행사" }],
+  "confusables": [
+   { "word": "congratulate", "note": "celebrate는 생일·기념일을 축하하고, congratulate는 사람에게 축하 인사를 건네는 것이다." }
+  ]
+ },
+ {
+  "id": "shoulder",
+  "headword": "shoulder",
+  "ipa": "/ˈʃoʊldər/",
+  "level": "ELEM",
+  "isCore": false,
+  "topic": "body_health",
+  "forms": ["shoulders"],
+  "senses": [
+   {
+    "id": "shoulder-1",
+    "pos": "n",
+    "ko": "어깨",
+    "en": "the part of your body between your neck and your arm",
+    "nuance": "어깨가 아프다고 할 때는 My shoulder hurts처럼 아픈 쪽만 단수로 말한다. '어깨가 결리다'는 stiff shoulders라고 한다.",
+    "pattern": "소유격 + shoulder",
+    "examples": [
+     {
+      "en": "My left shoulder hurts after carrying that heavy bag.",
+      "ko": "그 무거운 가방 들고 나서 왼쪽 어깨가 아파.",
+      "focus": "My left shoulder hurts"
+     },
+     {
+      "en": "He tapped my shoulder and asked for the time.",
+      "ko": "그 사람이 내 어깨를 두드리며 시간을 물어봤어.",
+      "focus": "tapped my shoulder"
+     }
+    ],
+    "collocations": ["stiff shoulders", "over your shoulder"]
+   }
+  ],
+  "confusables": [
+   { "word": "arm", "note": "shoulder는 목과 팔 사이 어깨, arm은 어깨 아래로 이어진 팔 전체다." }
+  ]
+ },
+ {
+  "id": "bottle",
+  "headword": "bottle",
+  "ipa": "/ˈbɑːtl/",
+  "level": "ELEM",
+  "isCore": false,
+  "topic": "food_cooking",
+  "forms": ["bottled", "bottles", "bottling"],
+  "senses": [
+   {
+    "id": "bottle-1",
+    "pos": "n",
+    "ko": "병",
+    "en": "a tall container for liquids, usually with a narrow top",
+    "nuance": "'물 한 병'은 a bottle of water이고 of를 빼먹기 쉽다. 병에 담긴 물 자체는 bottled water라고 한다.",
+    "pattern": "a bottle of + 명사",
+    "examples": [
+     {
+      "en": "Could you grab me a bottle of water from the fridge?",
+      "ko": "냉장고에서 물 한 병만 꺼내 줄래?",
+      "focus": "a bottle of water"
+     },
+     {
+      "en": "Don't throw plastic bottles in the regular trash.",
+      "ko": "플라스틱 병은 일반 쓰레기에 버리지 마.",
+      "focus": "plastic bottles"
+     }
+    ],
+    "collocations": ["a bottle of water", "an empty bottle"]
+   }
+  ],
+  "confusables": [
+   { "word": "glass", "note": "bottle은 뚜껑을 닫아 담는 병, glass는 마실 때 쓰는 유리컵이다." }
+  ]
+ },
+ {
+  "id": "engine",
+  "headword": "engine",
+  "ipa": "/ˈendʒɪn/",
+  "level": "ELEM",
+  "isCore": false,
+  "topic": "travel_transport",
+  "forms": ["engines"],
+  "senses": [
+   {
+    "id": "engine-1",
+    "pos": "n",
+    "ko": "엔진",
+    "en": "the part of a car or plane that makes it move",
+    "nuance": "'시동을 걸다'는 start the engine, '끄다'는 turn off the engine이다. 엔진을 만드는 사람은 engineer로 철자가 다르다.",
+    "pattern": "start / turn off the engine",
+    "examples": [
+     {
+      "en": "Turn off the engine while we wait for Emma.",
+      "ko": "엠마 기다리는 동안 시동 꺼 둬.",
+      "focus": "Turn off the engine"
+     },
+     {
+      "en": "The engine made a weird sound on the way home.",
+      "ko": "집에 오는 길에 엔진에서 이상한 소리가 났어.",
+      "focus": "The engine made a weird sound"
+     }
+    ],
+    "collocations": ["start the engine", "a car engine"]
+   }
+  ],
+  "wordFamily": [{ "form": "engineer", "pos": "n", "ko": "기술자, 엔지니어" }],
+  "confusables": [
+   { "word": "machine", "note": "engine은 힘을 내서 움직이게 하는 장치, machine은 일을 하는 기계 전체다." }
+  ]
+ },
+ {
+  "id": "careful",
+  "headword": "careful",
+  "ipa": "/ˈkerfl/",
+  "level": "ELEM",
+  "isCore": false,
+  "topic": "description_quality",
+  "forms": [],
+  "senses": [
+   {
+    "id": "careful-1",
+    "pos": "adj",
+    "ko": "조심하는, 신중한",
+    "en": "giving attention to what you do so nothing goes wrong",
+    "nuance": "'조심해'는 Be careful이고 Careful로 짧게도 말한다. 무엇을 조심하는지 붙일 때는 careful with나 careful about을 쓴다.",
+    "pattern": "be careful with / about",
+    "examples": [
+     {
+      "en": "Be careful with that cup; it's really hot.",
+      "ko": "그 컵 조심해. 엄청 뜨거워.",
+      "focus": "Be careful with that cup"
+     },
+     {
+      "en": "Jun is careful about what he eats before a game.",
+      "ko": "준은 경기 전에 뭘 먹는지 신경 써.",
+      "focus": "careful about what he eats"
+     }
+    ],
+    "collocations": ["be careful with", "be careful about"]
+   }
+  ],
+  "wordFamily": [{ "form": "carefully", "pos": "adv", "ko": "조심스럽게" }],
+  "confusables": [
+   { "word": "careless", "note": "careful은 조심하는 것, careless는 부주의한 것으로 뜻이 정반대다." }
+  ]
+ },
+ {
+  "id": "fruit",
+  "headword": "fruit",
+  "ipa": "/fruːt/",
+  "level": "ELEM",
+  "isCore": false,
+  "topic": "food_cooking",
+  "forms": ["fruits"],
+  "senses": [
+   {
+    "id": "fruit-1",
+    "pos": "n",
+    "ko": "과일",
+    "en": "the sweet part of a plant that you can eat",
+    "nuance": "'과일 많이 먹어'는 eat a lot of fruit처럼 단수로 쓴다. fruits는 여러 종류를 구분해 말할 때만 쓴다.",
+    "pattern": "eat fruit",
+    "examples": [
+     {
+      "en": "You should eat more fruit and fewer snacks.",
+      "ko": "너 과일 더 먹고 과자는 좀 줄여야 해.",
+      "focus": "eat more fruit"
+     },
+     {
+      "en": "The market near my place sells really fresh fruit.",
+      "ko": "우리 집 근처 시장은 과일이 정말 신선해.",
+      "focus": "really fresh fruit"
+     }
+    ],
+    "collocations": ["fresh fruit", "a piece of fruit"]
+   }
+  ],
+  "confusables": [
+   { "word": "vegetable", "note": "fruit는 달고 대개 생으로 먹는 과일, vegetable은 채소를 말한다." }
+  ]
+ },
+ {
+  "id": "mail",
+  "headword": "mail",
+  "ipa": "/meɪl/",
+  "level": "ELEM",
+  "isCore": false,
+  "topic": "communication",
+  "forms": ["mailed", "mailing", "mailings", "mails"],
+  "senses": [
+   {
+    "id": "mail-1",
+    "pos": "n",
+    "ko": "우편, 우편물",
+    "en": "letters and packages that are sent and brought to your home",
+    "nuance": "한국에서 '메일'은 이메일을 뜻하지만 영어 mail은 기본적으로 종이 우편이다. 셀 수 없으니 mails가 아니라 the mail로 쓴다.",
+    "pattern": "check / get the mail",
+    "examples": [
+     {
+      "en": "Did you check the mail when you came in?",
+      "ko": "들어오면서 우편물 확인했어?",
+      "focus": "check the mail"
+     },
+     {
+      "en": "Your card should come in the mail by Friday.",
+      "ko": "카드는 금요일까지 우편으로 올 거예요.",
+      "focus": "in the mail"
+     }
+    ],
+    "collocations": ["check the mail", "in the mail"]
+   },
+   {
+    "id": "mail-2",
+    "pos": "v",
+    "ko": "부치다, 보내다",
+    "en": "to send something to a person by post",
+    "nuance": "우체국에 넣어 보내는 행동이다. 이메일을 보낸다고 할 때는 mail보다 email이나 send를 쓴다.",
+    "examples": [
+     {
+      "en": "I mailed the package to Tom this morning.",
+      "ko": "오늘 아침에 톰한테 소포를 부쳤어.",
+      "focus": "mailed the package to Tom"
+     }
+    ]
+   }
+  ],
+  "confusables": [
+   { "word": "email", "note": "mail은 종이 우편, 컴퓨터로 보내는 것은 email이라고 구분해 말한다." }
+  ]
+ }
+]
