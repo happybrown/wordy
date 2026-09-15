@@ -1,0 +1,1335 @@
+[
+ {
+  "id": "rather",
+  "headword": "rather",
+  "ipa": "/ˈræðər/",
+  "level": "MID",
+  "isCore": true,
+  "topic": "thinking_opinion",
+  "forms": [],
+  "senses": [
+   {
+    "id": "rather-1",
+    "pos": "adv",
+    "ko": "차라리, 오히려",
+    "en": "used to say what you prefer, in the phrase for choices",
+    "nuance": "would rather 형태로 '차라리 ~하겠다'를 뜻한다. 뒤에 to 없이 동사원형을 쓰므로 I'd rather to stay는 틀리고 I'd rather stay가 맞다.",
+    "pattern": "would rather + 동사원형 (than ...)",
+    "examples": [
+     {
+      "en": "I'd rather stay home tonight than go out again.",
+      "ko": "오늘 밤은 또 나가는 것보다 차라리 집에 있고 싶어.",
+      "focus": "rather stay home tonight"
+     },
+     {
+      "en": "Would you rather meet on Friday or Saturday?",
+      "ko": "금요일이 나아, 토요일이 나아?",
+      "focus": "rather meet on Friday"
+     },
+     {
+      "en": "Jun would rather not talk about the exam today.",
+      "ko": "준은 오늘 시험 얘기는 안 하고 싶어 해.",
+      "focus": "rather not talk about the exam"
+     }
+    ],
+    "collocations": [
+     "would rather not",
+     "I'd rather"
+    ]
+   },
+   {
+    "id": "rather-2",
+    "pos": "adv",
+    "ko": "좀, 꽤",
+    "en": "to a noticeable degree, often about something not welcome",
+    "nuance": "quite와 정도는 비슷하지만 rather는 예상보다 좀 아쉽거나 뜻밖일 때 붙는다. That's rather expensive는 '생각보다 비싸네'라는 불만이 섞인 느낌이다.",
+    "pattern": "rather + 형용사/부사",
+    "examples": [
+     {
+      "en": "The coffee here is rather expensive for the size.",
+      "ko": "여기 커피는 양에 비해 좀 비싸네.",
+      "focus": "rather expensive for the size"
+     },
+     {
+      "en": "It got rather cold after the sun went down.",
+      "ko": "해 지고 나서 꽤 추워졌어.",
+      "focus": "rather cold"
+     }
+    ],
+    "collocations": [
+     "rather difficult"
+    ]
+   },
+   {
+    "id": "rather-3",
+    "pos": "adv",
+    "ko": "~이 아니라",
+    "en": "used to correct what was just said and give the true one",
+    "nuance": "rather than으로 두 가지를 대조할 때 쓴다. 앞뒤 형태를 맞춰야 해서 walking rather than driving처럼 -ing는 -ing끼리 짝지어야 자연스럽다.",
+    "pattern": "A rather than B",
+    "examples": [
+     {
+      "en": "We walked to the station rather than taking a taxi.",
+      "ko": "택시 타는 대신 역까지 걸어갔어.",
+      "focus": "rather than taking a taxi"
+     },
+     {
+      "en": "Call me tonight rather than sending a long email.",
+      "ko": "긴 메일 보내지 말고 오늘 밤에 전화해.",
+      "focus": "rather than sending a long email"
+     }
+    ],
+    "collocations": [
+     "rather than"
+    ]
+   },
+   {
+    "id": "rather-4",
+    "pos": "adv",
+    "ko": "말하자면, 더 정확히는",
+    "en": "used before a better word when you fix your own sentence",
+    "nuance": "or rather 형태로 자기 말을 바로 고칠 때 쓴다. 한국어 '아니, 정확히는'에 가까워서 말 중간에 끼워 넣는 구어 표현이다.",
+    "pattern": "or rather + 고친 말",
+    "examples": [
+     {
+      "en": "He's my cousin, or rather my cousin's husband.",
+      "ko": "그 사람 내 사촌, 아니 정확히는 사촌 남편이야.",
+      "focus": "or rather my cousin's husband"
+     },
+     {
+      "en": "We finished it, or rather Mina finished it alone.",
+      "ko": "우리가 끝냈어, 아니 사실 미나가 혼자 끝냈지.",
+      "focus": "or rather Mina finished it"
+     }
+    ]
+   }
+  ],
+  "confusables": [
+   {
+    "word": "prefer",
+    "note": "prefer는 뒤에 명사나 to부정사를 쓰고, would rather는 동사원형을 바로 쓴다."
+   },
+   {
+    "word": "quite",
+    "note": "quite는 중립적으로 '꽤', rather는 기대와 어긋나 아쉽다는 뉘앙스가 섞인다."
+   },
+   {
+    "word": "instead",
+    "note": "instead는 문장 끝에 단독으로 붙고, rather than은 비교 대상 두 개를 이어 준다."
+   }
+  ]
+ },
+ {
+  "id": "view",
+  "headword": "view",
+  "ipa": "/vjuː/",
+  "level": "MID",
+  "isCore": true,
+  "topic": "thinking_opinion",
+  "forms": [
+   "viewed",
+   "viewing",
+   "views"
+  ],
+  "senses": [
+   {
+    "id": "view-1",
+    "pos": "n",
+    "ko": "전망, 경치",
+    "en": "what you can see from a window or high place",
+    "nuance": "창이나 높은 곳에서 보이는 '보이는 범위'를 말한다. scenery는 자연 풍경 자체라 셀 수 없지만 view는 a nice view처럼 셀 수 있다.",
+    "pattern": "a view of + 장소",
+    "examples": [
+     {
+      "en": "Our room had a great view of the harbor.",
+      "ko": "우리 방에서 항구가 아주 잘 보였어.",
+      "focus": "view of the harbor"
+     },
+     {
+      "en": "The tall building blocks the view from my kitchen.",
+      "ko": "높은 건물이 우리 부엌 전망을 가려.",
+      "focus": "blocks the view"
+     }
+    ],
+    "collocations": [
+     "a great view",
+     "block the view"
+    ]
+   },
+   {
+    "id": "view-2",
+    "pos": "n",
+    "ko": "견해, 생각",
+    "en": "what someone thinks about a subject after some thought",
+    "nuance": "opinion보다 조금 더 다듬어진 견해라는 느낌이다. '내 생각에는'을 In my view로 말하면 격식 있는 자리에서도 무난하다.",
+    "pattern": "in my view / a view on + 주제",
+    "examples": [
+     {
+      "en": "In my view, the deadline is simply too tight.",
+      "ko": "제 견해로는 마감이 너무 빡빡합니다.",
+      "focus": "In my view"
+     },
+     {
+      "en": "What are your views on working from home?",
+      "ko": "재택근무에 대해 어떻게 생각하세요?",
+      "focus": "your views on working from home"
+     }
+    ],
+    "collocations": [
+     "in my view",
+     "share a view"
+    ]
+   },
+   {
+    "id": "view-3",
+    "pos": "n",
+    "ko": "조회수",
+    "en": "one time that a person watches something on the internet",
+    "nuance": "영상 조회수는 셀 수 있는 views로 쓴다. hits나 clicks로 바꿔 쓰면 다른 뜻이 되니 유튜브 얘기에서는 views가 정확하다.",
+    "pattern": "get + 숫자 + views",
+    "examples": [
+     {
+      "en": "Her cooking video got a million views in two days.",
+      "ko": "걔 요리 영상이 이틀 만에 조회수 백만 찍었어.",
+      "focus": "a million views"
+     },
+     {
+      "en": "My clip only has thirty views so far.",
+      "ko": "내 영상은 아직 조회수 서른밖에 안 돼.",
+      "focus": "thirty views"
+     }
+    ]
+   },
+   {
+    "id": "view-4",
+    "pos": "v",
+    "ko": "~로 보다, 여기다",
+    "en": "to think about someone or something in a certain way",
+    "nuance": "view A as B 형태로 '~로 여기다'를 뜻하고 as를 빼면 틀린다. 대화에서는 see as나 think of as를 더 쓰고 view는 글이나 발표에서 쓴다.",
+    "pattern": "view A as B",
+    "examples": [
+     {
+      "en": "Many people view the change as a good thing.",
+      "ko": "많은 사람이 그 변화를 좋은 일로 봅니다.",
+      "focus": "view the change as a good thing"
+     },
+     {
+      "en": "Our teacher views mistakes as part of learning.",
+      "ko": "우리 선생님은 실수를 배움의 일부로 봐.",
+      "focus": "views mistakes as part of learning"
+     }
+    ],
+    "collocations": [
+     "view A as B"
+    ]
+   },
+   {
+    "id": "view-5",
+    "pos": "v",
+    "ko": "보다, 열람하다",
+    "en": "to look at something, often a house or a web page",
+    "nuance": "집을 보러 가거나 화면에서 파일을 열어 볼 때 쓰는 딱딱한 동사다. 영화를 봤다는 말에 viewed를 쓰면 어색하고 watched가 자연스럽다.",
+    "examples": [
+     {
+      "en": "You can view the photos on your phone later.",
+      "ko": "사진은 나중에 휴대폰으로 보면 돼.",
+      "focus": "view the photos"
+     },
+     {
+      "en": "We're viewing two apartments in Seoul this Saturday.",
+      "ko": "이번 토요일에 서울에서 아파트 두 곳 보러 가.",
+      "focus": "viewing two apartments"
+     }
+    ]
+   }
+  ],
+  "wordFamily": [
+   {
+    "form": "viewer",
+    "pos": "n",
+    "ko": "시청자"
+   },
+   {
+    "form": "preview",
+    "pos": "n",
+    "ko": "예고편, 미리 보기"
+   },
+   {
+    "form": "interview",
+    "pos": "n",
+    "ko": "면접, 인터뷰"
+   }
+  ],
+  "confusables": [
+   {
+    "word": "scenery",
+    "note": "scenery는 셀 수 없는 자연 풍경, view는 특정 자리에서 보이는 셀 수 있는 전망이다."
+   },
+   {
+    "word": "watch",
+    "note": "영화·경기를 보는 건 watch, 집이나 화면 내용을 확인하는 딱딱한 말이 view다."
+   },
+   {
+    "word": "opinion",
+    "note": "opinion은 일상 의견, view는 근거를 갖춘 견해라 발표나 글에서 더 잘 쓴다."
+   }
+  ]
+ },
+ {
+  "id": "concern",
+  "headword": "concern",
+  "ipa": "/kənˈsɜːrn/",
+  "level": "MID",
+  "isCore": true,
+  "topic": "emotions_personality",
+  "forms": [
+   "concerned",
+   "concerning",
+   "concerns"
+  ],
+  "senses": [
+   {
+    "id": "concern-1",
+    "pos": "n",
+    "ko": "걱정, 우려",
+    "en": "a worried feeling about something that might go wrong",
+    "nuance": "worry보다 차분하고 공적인 걱정이라 회의나 메일에서 잘 쓴다. My concern is that절로 '제가 걱정하는 건'이라고 부드럽게 반대할 수 있다.",
+    "pattern": "a concern about + 명사",
+    "examples": [
+     {
+      "en": "My main concern is the cost of the trip.",
+      "ko": "제가 가장 걱정하는 건 여행 비용이에요.",
+      "focus": "main concern is the cost"
+     },
+     {
+      "en": "Parents raised concerns about the new bus route.",
+      "ko": "학부모들이 새 버스 노선에 우려를 제기했어.",
+      "focus": "raised concerns about the new bus route"
+     }
+    ],
+    "collocations": [
+     "raise concerns",
+     "a serious concern"
+    ]
+   },
+   {
+    "id": "concern-2",
+    "pos": "v",
+    "ko": "걱정시키다",
+    "en": "to make someone feel worried",
+    "nuance": "'나는 걱정한다'를 I concern으로 쓰면 틀리고, 수동형 I'm concerned about이나 It concerns me로 써야 한다. 걱정의 원인이 주어 자리에 온다.",
+    "pattern": "be concerned about + 명사",
+    "examples": [
+     {
+      "en": "I'm a little concerned about Tom's cough.",
+      "ko": "톰 기침이 좀 걱정돼.",
+      "focus": "concerned about Tom's cough"
+     },
+     {
+      "en": "It concerns me that she skipped lunch again.",
+      "ko": "걔가 또 점심을 건너뛴 게 신경 쓰여.",
+      "focus": "concerns me that she skipped lunch"
+     }
+    ],
+    "collocations": [
+     "be concerned about"
+    ]
+   },
+   {
+    "id": "concern-3",
+    "pos": "v",
+    "ko": "관련되다, 해당되다",
+    "en": "to be about someone, or to affect them directly",
+    "nuance": "This concerns you는 '너와 관련된 일이야'라는 뜻이고 걱정과 무관하다. as far as I'm concerned는 '내 입장에서는'이라는 굳은 표현이다.",
+    "pattern": "concern + 사람/주제",
+    "examples": [
+     {
+      "en": "This email concerns everyone on the design team.",
+      "ko": "이 메일은 디자인팀 전원에게 해당되는 내용입니다.",
+      "focus": "concerns everyone on the design team"
+     },
+     {
+      "en": "As far as I'm concerned, the plan is fine.",
+      "ko": "내 입장에서는 그 계획 괜찮아.",
+      "focus": "As far as I'm concerned"
+     }
+    ],
+    "collocations": [
+     "concern everyone"
+    ]
+   },
+   {
+    "id": "concern-4",
+    "pos": "n",
+    "ko": "관심사, 소관",
+    "en": "something that matters to you because it is your business",
+    "nuance": "none of your concern은 '네가 상관할 일 아니야'라는 선 긋는 표현이다. 이 뜻에서는 걱정이 아니라 '내 일인지 아닌지'를 가리킨다.",
+    "pattern": "none of your concern",
+    "examples": [
+     {
+      "en": "How much I paid is none of your concern.",
+      "ko": "내가 얼마 냈는지는 네가 상관할 일 아니야.",
+      "focus": "none of your concern"
+     },
+     {
+      "en": "Safety is our first concern on every trip.",
+      "ko": "모든 여행에서 안전이 우리의 최우선 사항입니다.",
+      "focus": "our first concern"
+     }
+    ]
+   }
+  ],
+  "confusables": [
+   {
+    "word": "worry",
+    "note": "worry는 혼잣말처럼 쓰는 일상적 걱정, concern은 회의·메일에서 쓰는 점잖은 우려다."
+   },
+   {
+    "word": "concerning",
+    "note": "concerning은 '~에 관하여'라는 전치사로도 쓰이고 '걱정스러운'이라는 형용사로도 쓰인다."
+   },
+   {
+    "word": "care",
+    "note": "care about은 관심을 기울이는 쪽, be concerned about은 나쁜 일을 염려하는 쪽이다."
+   }
+  ]
+ },
+ {
+  "id": "lose",
+  "headword": "lose",
+  "ipa": "/luːz/",
+  "level": "MID",
+  "isCore": true,
+  "topic": "movement_action",
+  "forms": [
+   "loses",
+   "losing",
+   "lost"
+  ],
+  "senses": [
+   {
+    "id": "lose-1",
+    "pos": "v",
+    "ko": "잃다, 잃어버리다",
+    "en": "to no longer have something because you cannot find it",
+    "nuance": "발음이 '루즈'라서 loose와 섞어 쓰기 쉬운데 lose는 동사, loose는 '헐렁한' 형용사다. 물건이 안 보이는 상태는 I lost it이 자연스럽다.",
+    "pattern": "lose + 명사",
+    "examples": [
+     {
+      "en": "I lost my umbrella somewhere on the subway.",
+      "ko": "지하철에서 우산을 어디다 잃어버렸어.",
+      "focus": "lost my umbrella"
+     },
+     {
+      "en": "Don't lose the receipt or you can't exchange it.",
+      "ko": "영수증 잃어버리면 교환 못 해.",
+      "focus": "lose the receipt"
+     },
+     {
+      "en": "She keeps losing her phone charger at work.",
+      "ko": "걔는 회사에서 폰 충전기를 계속 잃어버려.",
+      "focus": "losing her phone charger"
+     }
+    ],
+    "collocations": [
+     "lose your keys",
+     "lose weight"
+    ],
+    "phrasals": [
+     {
+      "phrase": "lose out",
+      "ko": "손해 보다, 놓치다",
+      "example": {
+       "en": "If you book late, you might lose out on seats.",
+       "ko": "늦게 예약하면 좌석을 놓칠 수도 있어.",
+       "focus": "lose out on seats"
+      }
+     },
+     {
+      "phrase": "lose track of",
+      "ko": "잊어버리다, 못 따라가다",
+      "example": {
+       "en": "I always lose track of time when I'm reading.",
+       "ko": "나는 책 읽으면 늘 시간 가는 걸 잊어.",
+       "focus": "lose track of time"
+      }
+     }
+    ]
+   },
+   {
+    "id": "lose-2",
+    "pos": "v",
+    "ko": "지다, 패하다",
+    "en": "to be beaten in a game, a match, or an election",
+    "nuance": "'경기에 졌다'는 lose the game, '상대에게 졌다'는 lose to Jun처럼 to를 쓴다. lose with나 lose from은 쓰지 않는다.",
+    "pattern": "lose to + 상대",
+    "examples": [
+     {
+      "en": "We lost to Busan by one point last night.",
+      "ko": "어젯밤에 부산한테 1점 차로 졌어.",
+      "focus": "lost to Busan"
+     },
+     {
+      "en": "Our team is losing badly in the second half.",
+      "ko": "우리 팀이 후반에 크게 지고 있어.",
+      "focus": "losing badly"
+     }
+    ],
+    "collocations": [
+     "lose a game"
+    ]
+   },
+   {
+    "id": "lose-3",
+    "pos": "v",
+    "ko": "잃다, 여의다",
+    "en": "to stop having a job, a chance, or a family member",
+    "nuance": "사람을 lose하면 사별을 뜻하는 완곡한 표현이다. 일자리를 잃는 건 lose my job이고 quit은 스스로 그만두는 것이니 구별해야 한다.",
+    "pattern": "lose + 일자리/기회/사람",
+    "examples": [
+     {
+      "en": "He lost his job when the shop closed down.",
+      "ko": "가게가 문 닫으면서 그 사람 일자리를 잃었어.",
+      "focus": "lost his job"
+     },
+     {
+      "en": "Mina lost her grandmother last spring.",
+      "ko": "미나는 작년 봄에 할머니를 잃었어.",
+      "focus": "lost her grandmother"
+     }
+    ],
+    "collocations": [
+     "lose your job"
+    ]
+   },
+   {
+    "id": "lose-4",
+    "pos": "v",
+    "ko": "잃다, 사라지다",
+    "en": "to have less of a feeling or quality than before",
+    "nuance": "관심·인내심·자신감처럼 눈에 안 보이는 것이 줄어들 때도 lose를 쓴다. lose interest in, lose my temper처럼 뒤따르는 전치사를 통째로 외우면 좋다.",
+    "pattern": "lose interest/patience in",
+    "examples": [
+     {
+      "en": "I lost interest in the show after season two.",
+      "ko": "시즌 2 지나고 그 드라마에 흥미 잃었어.",
+      "focus": "lost interest in the show"
+     },
+     {
+      "en": "Try not to lose your temper in the meeting.",
+      "ko": "회의에서 화내지 않도록 해.",
+      "focus": "lose your temper"
+     }
+    ]
+   }
+  ],
+  "wordFamily": [
+   {
+    "form": "loss",
+    "pos": "n",
+    "ko": "손실, 패배"
+   },
+   {
+    "form": "loser",
+    "pos": "n",
+    "ko": "패자"
+   }
+  ],
+  "confusables": [
+   {
+    "word": "loose",
+    "note": "lose는 '잃다'라는 동사, loose는 '헐렁한'이라는 형용사다. 철자 o 개수가 다르다."
+   },
+   {
+    "word": "miss",
+    "note": "miss는 버스·기회를 놓치는 것, lose는 가지고 있던 것을 잃는 것이다."
+   },
+   {
+    "word": "lost",
+    "note": "I'm lost는 '길을 잃었다'는 상태, I lost it은 '그걸 잃어버렸다'는 과거 행동이다."
+   }
+  ]
+ },
+ {
+  "id": "whole",
+  "headword": "whole",
+  "ipa": "/hoʊl/",
+  "level": "MID",
+  "isCore": true,
+  "topic": "time_quantity",
+  "forms": [
+   "wholes"
+  ],
+  "senses": [
+   {
+    "id": "whole-1",
+    "pos": "adj",
+    "ko": "온, 전체의",
+    "en": "all of one thing, with no part left out",
+    "nuance": "the whole day처럼 관사가 앞에 오고 all the day는 틀린다. all은 여러 개의 전부, whole은 하나를 통째로 볼 때 쓴다.",
+    "pattern": "the/a whole + 단수 명사",
+    "examples": [
+     {
+      "en": "I spent the whole weekend cleaning my room.",
+      "ko": "주말 내내 방 청소했어.",
+      "focus": "the whole weekend"
+     },
+     {
+      "en": "Jun ate a whole pizza by himself last night.",
+      "ko": "준이 어젯밤에 피자 한 판을 혼자 다 먹었어.",
+      "focus": "a whole pizza"
+     },
+     {
+      "en": "The whole family came to the airport to see us.",
+      "ko": "가족 전체가 공항까지 배웅 나왔어.",
+      "focus": "The whole family"
+     }
+    ],
+    "collocations": [
+     "the whole day",
+     "the whole family"
+    ]
+   },
+   {
+    "id": "whole-2",
+    "pos": "adj",
+    "ko": "완전히 다른",
+    "en": "used before a noun to make it sound much stronger",
+    "nuance": "a whole new, a whole different처럼 강조로 넣는 구어 용법이다. very를 쓸 수 없는 자리에 whole을 넣어 '완전히'라는 느낌을 준다.",
+    "pattern": "a whole new/different + 명사",
+    "examples": [
+     {
+      "en": "Learning to drive opened up a whole new world.",
+      "ko": "운전 배우니까 완전히 새로운 세상이 열렸어.",
+      "focus": "a whole new world"
+     },
+     {
+      "en": "Cooking at home is a whole different story.",
+      "ko": "집에서 요리하는 건 완전히 다른 얘기야.",
+      "focus": "a whole different story"
+     }
+    ],
+    "collocations": [
+     "a whole new world"
+    ]
+   },
+   {
+    "id": "whole-3",
+    "pos": "adj",
+    "ko": "통째의, 자르지 않은",
+    "en": "not cut into pieces, and not ground into powder",
+    "nuance": "음식 얘기에서 '자르지 않은' 상태를 말한다. whole milk는 지방을 빼지 않은 우유, whole wheat는 통밀이라 건강 관련 대화에서 자주 나온다.",
+    "pattern": "whole + 식재료",
+    "examples": [
+     {
+      "en": "Roast the whole chicken for about an hour.",
+      "ko": "닭을 통째로 한 시간쯤 구워.",
+      "focus": "the whole chicken"
+     },
+     {
+      "en": "I buy whole beans and grind them each morning.",
+      "ko": "나는 원두를 통으로 사서 아침마다 갈아.",
+      "focus": "whole beans"
+     }
+    ],
+    "collocations": [
+     "whole wheat bread"
+    ]
+   },
+   {
+    "id": "whole-4",
+    "pos": "n",
+    "ko": "전체",
+    "en": "a complete thing, seen as one unit",
+    "nuance": "as a whole과 on the whole이라는 두 굳은 표현이 핵심이다. as a whole은 '전체로 보면', on the whole은 '대체로'라서 뜻이 다르다.",
+    "pattern": "as a whole / on the whole",
+    "examples": [
+     {
+      "en": "The team as a whole performed better this season.",
+      "ko": "팀 전체로 보면 이번 시즌에 더 잘했어.",
+      "focus": "as a whole"
+     },
+     {
+      "en": "On the whole, the trip went pretty smoothly.",
+      "ko": "대체로 여행은 꽤 순조로웠어.",
+      "focus": "On the whole"
+     }
+    ]
+   }
+  ],
+  "wordFamily": [
+   {
+    "form": "wholly",
+    "pos": "adv",
+    "ko": "완전히"
+   }
+  ],
+  "confusables": [
+   {
+    "word": "hole",
+    "note": "발음이 같지만 hole은 '구멍'이라는 명사, whole은 '전체의'라는 형용사다."
+   },
+   {
+    "word": "all",
+    "note": "all the students는 학생 여러 명 전부, the whole class는 반을 하나로 묶은 전체다."
+   },
+   {
+    "word": "entire",
+    "note": "뜻은 거의 같지만 entire가 조금 더 격식 있고, 회화에서는 whole을 훨씬 많이 쓴다."
+   }
+  ]
+ },
+ {
+  "id": "rate",
+  "headword": "rate",
+  "ipa": "/reɪt/",
+  "level": "MID",
+  "isCore": true,
+  "topic": "money_shopping",
+  "forms": [
+   "rated",
+   "rates",
+   "rating"
+  ],
+  "senses": [
+   {
+    "id": "rate-1",
+    "pos": "n",
+    "ko": "요금, 값",
+    "en": "the amount of money charged for a service or per hour",
+    "nuance": "시간·기간 단위로 정해진 값을 말한다. 물건 하나의 가격은 price, 호텔 1박이나 시간당 임금처럼 단위가 붙으면 rate가 맞다.",
+    "pattern": "a rate of + 금액 / hourly rate",
+    "examples": [
+     {
+      "en": "The hotel offers a lower rate on weekdays.",
+      "ko": "그 호텔은 주중에 더 싼 요금을 줘.",
+      "focus": "a lower rate"
+     },
+     {
+      "en": "What's your hourly rate for private lessons?",
+      "ko": "개인 수업 시간당 요금이 얼마예요?",
+      "focus": "hourly rate"
+     }
+    ],
+    "collocations": [
+     "an hourly rate",
+     "interest rates"
+    ]
+   },
+   {
+    "id": "rate-2",
+    "pos": "n",
+    "ko": "비율, ~율",
+    "en": "how often something happens, measured against a total",
+    "nuance": "실업률·출산율처럼 '~율'을 옮길 때 쓰는 단어다. percent는 숫자 단위이고 rate는 그 비율 자체라서 The rate is 5 percent가 자연스럽다.",
+    "pattern": "the rate of + 명사",
+    "examples": [
+     {
+      "en": "The success rate of the program is surprisingly high.",
+      "ko": "그 프로그램 성공률이 놀랄 만큼 높아.",
+      "focus": "success rate"
+     },
+     {
+      "en": "Birth rates have been falling for over a decade.",
+      "ko": "출산율이 10년 넘게 떨어지고 있어.",
+      "focus": "Birth rates"
+     }
+    ],
+    "collocations": [
+     "the unemployment rate"
+    ]
+   },
+   {
+    "id": "rate-3",
+    "pos": "v",
+    "ko": "평가하다, 점수 주다",
+    "en": "to judge how good something is, often with stars",
+    "nuance": "앱에서 별점을 주는 그 동작이다. rate it five stars처럼 점수를 바로 붙일 수 있고 evaluate는 시험·성과처럼 딱딱한 자리에서 쓴다.",
+    "pattern": "rate + 명사 + 점수",
+    "examples": [
+     {
+      "en": "Please rate the driver after your ride ends.",
+      "ko": "탑승 끝나면 기사님 평가 좀 해 줘.",
+      "focus": "rate the driver"
+     },
+     {
+      "en": "Users rated the app four out of five.",
+      "ko": "사용자들이 그 앱에 5점 만점에 4점을 줬어.",
+      "focus": "rated the app four out of five"
+     }
+    ],
+    "collocations": [
+     "rate a movie"
+    ]
+   },
+   {
+    "id": "rate-4",
+    "pos": "n",
+    "ko": "속도",
+    "en": "the speed at which something changes or moves along",
+    "nuance": "at this rate는 '이런 속도로 가면'이라는 뜻으로 보통 나쁜 예상을 말할 때 쓴다. 차의 속도는 speed이고 변화의 속도는 rate다.",
+    "pattern": "at this/that rate",
+    "examples": [
+     {
+      "en": "At this rate, we'll miss the last train home.",
+      "ko": "이런 속도로 가면 막차 놓칠 거야.",
+      "focus": "At this rate"
+     },
+     {
+      "en": "Prices are rising at an alarming rate lately.",
+      "ko": "요즘 물가가 무섭게 오르고 있어.",
+      "focus": "at an alarming rate"
+     }
+    ]
+   }
+  ],
+  "wordFamily": [
+   {
+    "form": "rating",
+    "pos": "n",
+    "ko": "평점, 등급"
+   }
+  ],
+  "confusables": [
+   {
+    "word": "price",
+    "note": "price는 물건 하나의 값, rate는 시간당·1박당처럼 단위가 붙은 값이다."
+   },
+   {
+    "word": "speed",
+    "note": "speed는 실제 이동 속도, rate는 변화나 발생의 빠르기를 말한다."
+   },
+   {
+    "word": "ratio",
+    "note": "ratio는 3:1처럼 두 수의 비, rate는 전체에 대한 비율이나 요금이다."
+   }
+  ]
+ },
+ {
+  "id": "sort",
+  "headword": "sort",
+  "ipa": "/sɔːrt/",
+  "level": "MID",
+  "isCore": true,
+  "topic": "description_quality",
+  "forms": [
+   "sorted",
+   "sorting",
+   "sorts"
+  ],
+  "senses": [
+   {
+    "id": "sort-1",
+    "pos": "n",
+    "ko": "종류, 부류",
+    "en": "a group of people or things that are alike",
+    "nuance": "kind와 거의 같지만 영국식 구어에서 더 흔하다. 뒤에 단수를 쓰는 this sort of thing이 기본 틀이고 these sort of는 흔한 실수다.",
+    "pattern": "this sort of + 명사",
+    "examples": [
+     {
+      "en": "What sort of music do you listen to lately?",
+      "ko": "요즘 어떤 음악 들어?",
+      "focus": "What sort of music"
+     },
+     {
+      "en": "I don't enjoy that sort of movie at all.",
+      "ko": "나는 그런 류의 영화는 전혀 안 좋아해.",
+      "focus": "that sort of movie"
+     }
+    ],
+    "collocations": [
+     "what sort of",
+     "all sorts of"
+    ]
+   },
+   {
+    "id": "sort-2",
+    "pos": "adv",
+    "ko": "좀, 약간",
+    "en": "used to make what you say less exact or less strong",
+    "nuance": "sort of는 말끝을 흐려 부드럽게 만드는 구어 표현으로 발음은 흔히 '소r다'다. 글에서는 쓰지 않고 말할 때만 쓴다.",
+    "pattern": "sort of + 형용사/동사",
+    "examples": [
+     {
+      "en": "I'm sort of tired, so let's go home early.",
+      "ko": "좀 피곤해서 일찍 집에 가자.",
+      "focus": "sort of tired"
+     },
+     {
+      "en": "The soup was sort of salty but still good.",
+      "ko": "국이 좀 짰는데 그래도 맛있었어.",
+      "focus": "sort of salty"
+     }
+    ],
+    "collocations": [
+     "sort of like"
+    ]
+   },
+   {
+    "id": "sort-3",
+    "pos": "v",
+    "ko": "분류하다, 정리하다",
+    "en": "to put things into groups or into a clear order",
+    "nuance": "섞인 것을 기준에 따라 나누는 동작이다. 방을 깔끔하게 치우는 건 clean up이고 sort는 서류·빨래처럼 갈라 놓는 일에 쓴다.",
+    "pattern": "sort + 명사 + by/into",
+    "examples": [
+     {
+      "en": "Let's sort these photos by date before printing.",
+      "ko": "인쇄 전에 이 사진들 날짜별로 정리하자.",
+      "focus": "sort these photos by date"
+     },
+     {
+      "en": "She sorted the laundry into whites and colors.",
+      "ko": "걔가 빨래를 흰옷과 색깔 옷으로 나눴어.",
+      "focus": "sorted the laundry into whites"
+     }
+    ],
+    "collocations": [
+     "sort the mail"
+    ],
+    "phrasals": [
+     {
+      "phrase": "sort out",
+      "ko": "해결하다, 정리하다",
+      "example": {
+       "en": "I'll sort out the seating plan before Friday.",
+       "ko": "금요일 전에 자리 배치 정리해 놓을게.",
+       "focus": "sort out the seating plan"
+      }
+     },
+     {
+      "phrase": "sort through",
+      "ko": "훑어보며 골라내다",
+      "example": {
+       "en": "Can you sort through these old boxes with me?",
+       "ko": "이 낡은 상자들 나랑 같이 뒤져 볼래?",
+       "focus": "sort through these old boxes"
+      }
+     }
+    ]
+   }
+  ],
+  "confusables": [
+   {
+    "word": "kind",
+    "note": "뜻은 같지만 kind는 미국식에서 더 흔하고 sort는 영국식 구어에서 더 잘 쓴다."
+   },
+   {
+    "word": "type",
+    "note": "type은 분류가 뚜렷할 때, sort는 느슨하게 '그런 류' 정도로 말할 때 쓴다."
+   },
+   {
+    "word": "sore",
+    "note": "sort는 '종류·분류하다', sore는 '아픈'이라는 형용사다. 철자 t 유무를 보면 된다."
+   }
+  ]
+ },
+ {
+  "id": "cause",
+  "headword": "cause",
+  "ipa": "/kɔːz/",
+  "level": "MID",
+  "isCore": true,
+  "topic": "thinking_opinion",
+  "forms": [
+   "caused",
+   "causes",
+   "causing"
+  ],
+  "senses": [
+   {
+    "id": "cause-1",
+    "pos": "v",
+    "ko": "일으키다, 초래하다",
+    "en": "to make something bad happen",
+    "nuance": "좋은 일에는 거의 쓰지 않고 사고·지연·문제처럼 나쁜 결과에만 붙는다. cause happiness는 어색하고 bring happiness가 자연스럽다.",
+    "pattern": "cause + 나쁜 결과",
+    "examples": [
+     {
+      "en": "The heavy snow caused delays on every subway line.",
+      "ko": "폭설 때문에 모든 지하철 노선이 지연됐어.",
+      "focus": "caused delays"
+     },
+     {
+      "en": "Skipping breakfast can cause headaches later on.",
+      "ko": "아침을 건너뛰면 나중에 두통이 생길 수 있어.",
+      "focus": "cause headaches"
+     },
+     {
+      "en": "Sorry for causing so much trouble yesterday.",
+      "ko": "어제 문제 많이 일으켜서 미안해.",
+      "focus": "causing so much trouble"
+     }
+    ],
+    "collocations": [
+     "cause a problem",
+     "cause damage"
+    ]
+   },
+   {
+    "id": "cause-2",
+    "pos": "n",
+    "ko": "원인",
+    "en": "the thing that makes something else happen",
+    "nuance": "cause는 원인, reason은 사람이 대는 이유라서 다르다. 화재의 원인은 the cause of the fire이고 the reason of는 틀린 형태다.",
+    "pattern": "the cause of + 명사",
+    "examples": [
+     {
+      "en": "Police are still checking the cause of the fire.",
+      "ko": "경찰이 아직 화재 원인을 조사하고 있어.",
+      "focus": "the cause of the fire"
+     },
+     {
+      "en": "Stress is a common cause of poor sleep.",
+      "ko": "스트레스는 수면 부족의 흔한 원인이야.",
+      "focus": "a common cause of poor sleep"
+     }
+    ],
+    "collocations": [
+     "the main cause of"
+    ]
+   },
+   {
+    "id": "cause-3",
+    "pos": "v",
+    "ko": "~하게 만들다",
+    "en": "to make a person or thing do something",
+    "nuance": "cause 사람 to 동사 형태로 쓰고 to를 빼면 틀린다. make는 to 없이 쓰므로 cause him to leave와 make him leave를 짝으로 외우면 좋다.",
+    "pattern": "cause + 목적어 + to 동사",
+    "examples": [
+     {
+      "en": "The loud alarm caused everyone to run outside.",
+      "ko": "요란한 경보 소리에 모두 밖으로 뛰어나갔어.",
+      "focus": "caused everyone to run outside"
+     },
+     {
+      "en": "What caused you to change your mind so fast?",
+      "ko": "뭐 때문에 그렇게 빨리 마음이 바뀐 거야?",
+      "focus": "caused you to change your mind"
+     }
+    ]
+   },
+   {
+    "id": "cause-4",
+    "pos": "n",
+    "ko": "대의, 목적",
+    "en": "an aim that people support because they believe in it",
+    "nuance": "기부나 봉사의 취지를 말한다. a good cause는 '좋은 취지의 일'이라는 굳은 표현이고 여기서 '원인'이라고 해석하면 뜻이 안 통한다.",
+    "pattern": "for a good cause",
+    "examples": [
+     {
+      "en": "We're running the race for a good cause.",
+      "ko": "우리는 좋은 취지로 그 대회에 참가해.",
+      "focus": "for a good cause"
+     },
+     {
+      "en": "She gave her whole prize to the cause.",
+      "ko": "걔는 상금 전부를 그 활동에 기부했어.",
+      "focus": "to the cause"
+     }
+    ]
+   }
+  ],
+  "confusables": [
+   {
+    "word": "reason",
+    "note": "cause는 사건을 일으킨 원인, reason은 사람이 설명하는 이유다. the reason for를 쓴다."
+   },
+   {
+    "word": "because",
+    "note": "회화에서 because를 'cause로 줄여 말하지만 글에서는 그렇게 쓰지 않는다."
+   },
+   {
+    "word": "make",
+    "note": "make는 목적어 뒤에 동사원형, cause는 to부정사를 쓴다는 점이 다르다."
+   }
+  ]
+ },
+ {
+  "id": "deal",
+  "headword": "deal",
+  "ipa": "/diːl/",
+  "level": "MID",
+  "isCore": true,
+  "topic": "work_business",
+  "forms": [
+   "dealing",
+   "deals",
+   "dealt"
+  ],
+  "senses": [
+   {
+    "id": "deal-1",
+    "pos": "v",
+    "ko": "처리하다, 대처하다",
+    "en": "to take action about a problem or a person",
+    "nuance": "deal with 형태로만 이 뜻이 되고 with를 빼면 안 된다. 과거형은 dealed가 아니라 dealt이며 발음은 '델트'다.",
+    "pattern": "deal with + 명사",
+    "examples": [
+     {
+      "en": "I'll deal with the broken printer after lunch.",
+      "ko": "점심 먹고 고장 난 프린터 처리할게.",
+      "focus": "deal with the broken printer"
+     },
+     {
+      "en": "She dealt with the angry customer very calmly.",
+      "ko": "걔가 화난 손님을 아주 침착하게 응대했어.",
+      "focus": "dealt with the angry customer"
+     },
+     {
+      "en": "How do you deal with stress before exams?",
+      "ko": "시험 전에 스트레스 어떻게 풀어?",
+      "focus": "deal with stress"
+     }
+    ],
+    "collocations": [
+     "deal with a problem",
+     "deal with stress"
+    ],
+    "phrasals": [
+     {
+      "phrase": "deal with",
+      "ko": "처리하다, 상대하다",
+      "example": {
+       "en": "Let me deal with the paperwork this time.",
+       "ko": "이번엔 서류 작업은 내가 처리할게.",
+       "focus": "deal with the paperwork"
+      }
+     }
+    ]
+   },
+   {
+    "id": "deal-2",
+    "pos": "n",
+    "ko": "거래, 계약",
+    "en": "an agreement between two sides about business",
+    "nuance": "계약을 맺는다는 표현은 make a deal이나 close a deal이고 do a deal은 영국식이다. contract는 문서 자체, deal은 합의 내용이다.",
+    "pattern": "make/close a deal with + 상대",
+    "examples": [
+     {
+      "en": "They finally made a deal with the new supplier.",
+      "ko": "드디어 새 공급업체와 계약을 맺었어.",
+      "focus": "made a deal with the new supplier"
+     },
+     {
+      "en": "The deal fell apart at the last minute.",
+      "ko": "거래가 막판에 깨졌어.",
+      "focus": "The deal fell apart"
+     }
+    ],
+    "collocations": [
+     "make a deal"
+    ]
+   },
+   {
+    "id": "deal-3",
+    "pos": "n",
+    "ko": "특가, 싸게 사는 것",
+    "en": "a price that is much lower than the usual one",
+    "nuance": "a good deal은 '싸게 잘 산 것'이라는 뜻이다. That's a deal로 쓰면 '그렇게 하자'는 합의라서 가격 얘기인지 문맥으로 갈린다.",
+    "pattern": "a good deal on + 물건",
+    "examples": [
+     {
+      "en": "I got a great deal on these running shoes.",
+      "ko": "이 운동화 엄청 싸게 잘 샀어.",
+      "focus": "a great deal on these running shoes"
+     },
+     {
+      "en": "Are there any deals on flights to Busan?",
+      "ko": "부산행 항공권 특가 있어?",
+      "focus": "deals on flights"
+     }
+    ]
+   },
+   {
+    "id": "deal-4",
+    "pos": "n",
+    "ko": "큰일, 대수",
+    "en": "used with big to say how important something is",
+    "nuance": "It's not a big deal은 '별일 아니야'라는 아주 흔한 위로 표현이다. What's the big deal은 '뭐가 그렇게 문제야'라는 살짝 짜증 섞인 말이다.",
+    "pattern": "a big deal",
+    "examples": [
+     {
+      "en": "Don't worry, forgetting one name isn't a big deal.",
+      "ko": "걱정 마, 이름 하나 잊은 건 별일 아니야.",
+      "focus": "isn't a big deal"
+     },
+     {
+      "en": "Getting that job was a huge deal for him.",
+      "ko": "그 일자리 얻은 건 그 사람한테 엄청난 일이었어.",
+      "focus": "a huge deal"
+     }
+    ]
+   },
+   {
+    "id": "deal-5",
+    "pos": "v",
+    "ko": "나눠 주다",
+    "en": "to give out playing cards to each player in a game",
+    "nuance": "카드를 한 장씩 돌리는 동작에만 쓴다. 음식이나 유인물을 나누는 건 hand out이고 deal은 쓰지 않는다.",
+    "pattern": "deal + 카드",
+    "examples": [
+     {
+      "en": "Deal five cards to each player, please.",
+      "ko": "각자에게 카드 다섯 장씩 돌려 줘.",
+      "focus": "Deal five cards"
+     },
+     {
+      "en": "It's your turn to deal the next round.",
+      "ko": "다음 판은 네가 돌릴 차례야.",
+      "focus": "deal the next round"
+     }
+    ]
+   }
+  ],
+  "wordFamily": [
+   {
+    "form": "dealer",
+    "pos": "n",
+    "ko": "판매업자, 딜러"
+   }
+  ],
+  "confusables": [
+   {
+    "word": "dealt",
+    "note": "deal의 과거형은 dealed가 아니라 dealt다. 발음은 '딜트'가 아니라 '델트'다."
+   },
+   {
+    "word": "handle",
+    "note": "handle은 능숙하게 다룬다는 느낌, deal with는 어쨌든 처리한다는 느낌이다."
+   },
+   {
+    "word": "bargain",
+    "note": "bargain은 싸게 산 물건 자체, deal은 싸게 산 조건이나 거래를 가리킨다."
+   }
+  ]
+ },
+ {
+  "id": "value",
+  "headword": "value",
+  "ipa": "/ˈvæljuː/",
+  "level": "MID",
+  "isCore": true,
+  "topic": "money_shopping",
+  "forms": [
+   "valued",
+   "values",
+   "valuing"
+  ],
+  "senses": [
+   {
+    "id": "value-1",
+    "pos": "n",
+    "ko": "가치, 값어치",
+    "en": "how much money something is worth",
+    "nuance": "price는 붙어 있는 값, value는 실제로 그만큼 값어치가 있는지를 말한다. good value는 싸다는 뜻이 아니라 '값에 비해 괜찮다'는 뜻이다.",
+    "pattern": "the value of + 명사",
+    "examples": [
+     {
+      "en": "The value of the apartment dropped last year.",
+      "ko": "그 아파트 가치가 작년에 떨어졌어.",
+      "focus": "The value of the apartment"
+     },
+     {
+      "en": "This set is great value for twenty thousand won.",
+      "ko": "이 세트는 2만 원에 값어치가 아주 좋아.",
+      "focus": "great value for twenty thousand won"
+     }
+    ],
+    "collocations": [
+     "good value for money",
+     "the value of"
+    ]
+   },
+   {
+    "id": "value-2",
+    "pos": "n",
+    "ko": "가치관, 신념",
+    "en": "the beliefs about right and wrong that guide a person",
+    "nuance": "이 뜻은 거의 늘 복수 values로 쓴다. 단수 value를 쓰면 '금전적 가치'로 들리니 '가치관'을 말할 때는 반드시 s를 붙인다.",
+    "pattern": "share the same values",
+    "examples": [
+     {
+      "en": "We share the same values about family time.",
+      "ko": "우리는 가족 시간에 대해 가치관이 같아.",
+      "focus": "the same values"
+     },
+     {
+      "en": "Her values changed a lot after living abroad.",
+      "ko": "걔는 외국에서 살고 나서 가치관이 많이 바뀌었어.",
+      "focus": "Her values changed"
+     }
+    ],
+    "collocations": [
+     "traditional values"
+    ]
+   },
+   {
+    "id": "value-3",
+    "pos": "v",
+    "ko": "소중히 여기다",
+    "en": "to think that someone or something is important to you",
+    "nuance": "감정이 들어간 '소중히 여긴다'는 뜻이라 진행형으로 잘 쓰지 않는다. I'm valuing your advice는 어색하고 I value your advice가 맞다.",
+    "pattern": "value + 명사",
+    "examples": [
+     {
+      "en": "I really value your honest advice on this.",
+      "ko": "이 일에 대한 네 솔직한 조언 정말 고맙게 생각해.",
+      "focus": "value your honest advice"
+     },
+     {
+      "en": "Good managers value their team's time.",
+      "ko": "좋은 관리자는 팀의 시간을 소중히 여긴다.",
+      "focus": "value their team's time"
+     }
+    ]
+   },
+   {
+    "id": "value-4",
+    "pos": "v",
+    "ko": "값을 매기다",
+    "en": "to decide in money terms how much something is worth",
+    "nuance": "감정평가처럼 금액을 산정하는 뜻이고 보통 수동태 be valued at으로 쓴다. '~로 평가된다'를 valued as로 쓰면 틀린다.",
+    "pattern": "be valued at + 금액",
+    "examples": [
+     {
+      "en": "The old painting was valued at ten million won.",
+      "ko": "그 오래된 그림은 천만 원으로 평가됐어.",
+      "focus": "valued at ten million won"
+     },
+     {
+      "en": "An expert will value the ring this afternoon.",
+      "ko": "전문가가 오늘 오후에 그 반지 값을 매길 거야.",
+      "focus": "value the ring"
+     }
+    ]
+   }
+  ],
+  "wordFamily": [
+   {
+    "form": "valuable",
+    "pos": "adj",
+    "ko": "귀중한"
+   },
+   {
+    "form": "invaluable",
+    "pos": "adj",
+    "ko": "매우 귀중한"
+   }
+  ],
+  "confusables": [
+   {
+    "word": "price",
+    "note": "price는 표에 붙은 금액, value는 그 금액만큼 값어치가 있는지에 대한 판단이다."
+   },
+   {
+    "word": "valuable",
+    "note": "valuable은 '값비싼', invaluable은 '값을 매길 수 없이 귀한'이라 부정이 아니다."
+   },
+   {
+    "word": "worth",
+    "note": "worth는 be worth 10,000 won처럼 형용사로, value는 명사나 동사로 쓴다."
+   }
+  ]
+ }
+]

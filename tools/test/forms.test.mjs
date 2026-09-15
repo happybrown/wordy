@@ -50,3 +50,19 @@ test('동명사의 복수는 학습 변화형이 아니다', () => {
   assert.deepEqual(cleanForms('meeting', ['meetings'], ['n']), ['meetings']);
   assert.deepEqual(cleanForms('building', ['buildings'], ['n']), ['buildings']);
 });
+
+test('자음 중복 철자 오류를 걸러낸다', () => {
+  // 원본 목록에는 refered(오류)와 referred(정답)가 함께 실려 있다
+  assert.deepEqual(cleanForms('refer', ['refered', 'refering', 'referred', 'referring', 'refers'], ['v']),
+    ['referred', 'referring', 'refers']);
+  // suffer 는 강세가 앞이라 자음을 겹치지 않는다
+  assert.deepEqual(cleanForms('suffer', ['suffered', 'sufferred', 'suffers'], ['v']), ['suffered', 'suffers']);
+  assert.ok(cleanForms('prefer', ['prefered', 'preferred'], ['v']).includes('preferred'));
+  assert.ok(!cleanForms('prefer', ['prefered', 'preferred'], ['v']).includes('prefered'));
+  // 정상 동사는 그대로
+  assert.deepEqual(cleanForms('visit', ['visited', 'visiting', 'visits'], ['v']), ['visited', 'visiting', 'visits']);
+});
+
+test('형용사가 주 품사인 단어의 명사 복수는 넣지 않는다', () => {
+  assert.deepEqual(cleanForms('public', ['publics'], ['n', 'adj']), []);
+});

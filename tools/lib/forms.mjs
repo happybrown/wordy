@@ -7,6 +7,27 @@ export function lev(a, b) {
   return prev[b.length];
 }
 /**
+ * 같은 원형에 -ed/-ing 이 두 갈래로 실려 있을 때 어느 쪽이 표준인지 판단한다.
+ * 원본 목록에는 refer → refered(오류)/referred(정답) 처럼 둘 다 들어 있다.
+ * 영어 규칙: 마지막 음절에 강세가 있는 2음절 이상 동사는 자음을 겹친다(refer, prefer, occur).
+ * 강세가 앞 음절인 동사는 겹치지 않는다(suffer, offer, answer, visit).
+ */
+const DOUBLES_CONSONANT = new Set(['refer', 'prefer', 'occur', 'transfer', 'infer', 'confer', 'deter', 'incur', 'recur', 'admit', 'permit', 'commit', 'omit', 'submit', 'begin', 'forget', 'regret', 'prefer', 'control', 'patrol', 'compel', 'expel', 'rebel', 'propel']);
+const NEVER_DOUBLES = new Set(['suffer', 'offer', 'answer', 'visit', 'open', 'listen', 'happen', 'enter', 'order', 'gather', 'wander', 'cover', 'discover', 'remember', 'consider', 'deliver', 'differ', 'wonder', 'murmur', 'benefit', 'profit', 'limit', 'edit', 'exhibit', 'inhabit', 'prohibit']);
+
+/** 해당 원형에서 f 가 잘못된 자음 중복(또는 누락) 표기인지 */
+function isMisspelledDouble(headword, f) {
+  if (!f.startsWith(headword)) return false;
+  const suffix = f.slice(headword.length);
+  const last = headword.at(-1);
+  const doubled = new RegExp(`^${last}(ed|ing)$`).test(suffix);
+  const single = /^(ed|ing)$/.test(suffix);
+  if (doubled && NEVER_DOUBLES.has(headword)) return true;   // sufferred
+  if (single && DOUBLES_CONSONANT.has(headword)) return true; // refered
+  return false;
+}
+
+/**
  * 학습자에게 보여주면 안 되는 형태.
  * - 불가산명사의 가짜 복수 (moneys, advices, homeworks)
  * - 등급이 없는 형용사의 비교급 (deader, falser, uniquer)
@@ -19,6 +40,8 @@ const NOT_A_FORM = new Set([
   'deader', 'deadest', 'falser', 'falsest', 'truer', 'truest', 'uniquer', 'uniquest',
   'perfecter', 'perfectest', 'mainer', 'mainest', 'onlier', 'onliest', 'wholer', 'wholest',
   'baddest', 'badder', 'gooder', 'goodest', 'worser', 'littler', 'littlest', 'farer', 'farest',
+  // 형용사·부사가 주 품사인데 명사 복수로 실린 것들
+  'publics', 'privates', 'generals', 'commons', 'sames', 'ables', 'reals', 'eachs',
 ]);
 /**
  * 불규칙 변화형. 어간이 크게 바뀌어 편집 거리·접미사 규칙으로는 잡히지 않는다.
@@ -78,6 +101,7 @@ export function cleanForms(headword, forms, pos, usedIn = '') {
     if (f === headword + 'es' && !/(s|x|z|ch|sh|o)$/.test(headword)) return false;
     if (/[.]/.test(f) && !/[.]/.test(headword)) return false; // "dr." for doctor
     if (SLANG.has(f) || NOT_A_FORM.has(f)) return false;
+    if (isMisspelledDouble(headword, f)) return false;
     // 동명사의 복수(scorings, filings, meetings 아님 — meeting 은 headword 자체)는
     // 동사 변화형도 명사 복수도 아니라 학습 카드에 넣을 이유가 없다.
     if (/ings$/.test(f) && f !== headword && !headword.endsWith('ing')) return false;
