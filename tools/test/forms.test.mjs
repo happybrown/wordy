@@ -143,3 +143,15 @@ test('과거형이 원형과 같은 동사에 -ed 를 붙이지 않는다', () =
   assert.ok(!cleanForms('cost', ['costed', 'costs'], ['v']).includes('costed'));
   assert.ok(!cleanForms('spread', ['spreaded', 'spreads'], ['v']).includes('spreaded'));
 });
+
+test('과거형이 원형과 같은 동사에 -ed 를 붙이지 않는다 (추가)', () => {
+  assert.deepEqual(cleanForms('cast', ['casted', 'casts', 'casting'], ['v']), ['casting', 'casts']);
+});
+
+test('추상 불가산명사 복수 (추가)', () => {
+  for (const w of ['employment', 'relief', 'intelligence']) {
+    assert.deepEqual(cleanForms(w, [w + 's'], ['n']), [], w);
+  }
+  // belief 는 가산이므로 유지
+  assert.deepEqual(cleanForms('belief', ['beliefs'], ['n']), ['beliefs']);
+});

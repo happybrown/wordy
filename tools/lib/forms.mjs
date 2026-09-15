@@ -49,9 +49,11 @@ const NOT_A_FORM = new Set([
   'agricultures', 'cautions', 'chaoses', 'leathers', 'organics', 'contraries',
   'prides', 'destructions', 'logics', 'wisdoms', 'braveries', 'honesties',
   'legislations', 'hells', 'childhoods', 'literatures', 'evidences',
-  'leisures', 'privacies', 'tobaccos', 'leaderships', 'ownerships', 'membership_',
+  'leisures', 'privacies', 'tobaccos', 'leaderships', 'ownerships',
+  'employments', 'reliefs', 'intelligences', 'oppositions', 'membership_',
   // 과거형이 원형과 같은 동사
-  'quitted', 'costed', 'cutted', 'hitted', 'setted', 'letted', 'spreaded', 'shutted', 'trafficking_',
+  'quitted', 'costed', 'cutted', 'hitted', 'setted', 'letted', 'spreaded', 'shutted',
+  'casted', 'bursted', 'hurted', 'beted', 'splited', 'trafficking_',
   // 단복수 동형 명사 (aircraft, sheep, deer, series, species)
   'aircrafts', 'sheeps', 'deers', 'serieses', 'specieses', 'offsprings',
   'deader', 'deadest', 'falser', 'falsest', 'truer', 'truest', 'uniquer', 'uniquest',
