@@ -1931,7 +1931,7 @@
     "id": "notice-4",
     "pos": "n",
     "ko": "관심, 눈길",
-    "en": "attention from other people, in the phrase take no notice",
+    "en": "attention or interest from other people, given or withheld",
     "nuance": "take notice of는 '눈여겨보다', take no notice of는 '신경 쓰지 않다'다. 무시하라고 조언할 때 Take no notice of him이 자연스럽다.",
     "pattern": "take (no) notice of",
     "examples": [
@@ -2524,6 +2524,11 @@
   "level": "MID",
   "isCore": true,
   "topic": "people_family",
+  "forms": [
+   "respected",
+   "respecting",
+   "respects"
+  ],
   "senses": [
    {
     "id": "respect-1",
