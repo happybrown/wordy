@@ -98,7 +98,7 @@
     "examples": [
      {
       "en": "The dog was tied to a wooden post outside.",
-      "ko": "개가 밖에 있는 나무 기둥에 묶여 있었어.",
+      "ko": "개가 밖에 있는 나무 기둥에 밢여 있었어.",
       "focus": "tied to a wooden post"
      },
      {
@@ -1955,10 +1955,10 @@
    },
    {
     "id": "stress-2",
-    "pos": "adj",
-    "ko": "스트레스 받은",
-    "en": "worried and tired because of too much pressure",
-    "nuance": "형용사는 stressed이고 stressful은 '스트레스를 주는'이라는 뜻이다. I'm stressful은 '내가 남을 힘들게 한다'는 이상한 말이 된다.",
+    "pos": "v",
+    "ko": "스트레스를 주다",
+    "en": "to make someone feel worried and tired",
+    "nuance": "주로 수동형 be stressed로 써서 \"스트레스 받았다\"를 나타낸다. I am stressful은 \"내가 남을 힘들게 한다\"는 뜻이 되니 stressed를 써야 한다.",
     "pattern": "be stressed about + 명사",
     "examples": [
      {
@@ -1970,6 +1970,11 @@
       "en": "Don't call me now; I'm too stressed.",
       "ko": "지금 전화하지 마, 나 너무 지쳐 있어.",
       "focus": "too stressed"
+     },
+     {
+      "en": "Long meetings stress everyone on our team.",
+      "ko": "긴 회의는 우리 팀 사람들을 다 지치게 해.",
+      "focus": "stress everyone"
      }
     ],
     "collocations": [

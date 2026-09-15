@@ -33,7 +33,7 @@
   - `ko`: 자연스러운 한국어 번역(직역 금지). 예문의 어감(반말/존댓말)을 유지.
   - `focus`: `en`의 **부분 문자열**이면서 **headword(또는 forms) 를 반드시 포함**하는 최소 청크. 용법이 드러나게 앞뒤 한두 단어를 붙인다. 예 `"got a text"`, `"get to the station"`. 문장 전체와 같으면 안 된다.
   - 같은 단어 안에서 예문 중복 금지. 다른 sense의 예문은 서로 다른 상황.
-- `collocations[]`: "동사 + 명사", "형용사 + 명사", "동사 + 전치사"처럼 **실제로 자주 붙는 조합**. 반드시 headword(또는 forms)를 포함. 문장이 아니라 구(3~5단어). 예 `"make a decision"`, `"heavy rain"`, `"depend on"`.
+- `collocations[]`: "동사 + 명사", "형용사 + 명사", "동사 + 전치사"처럼 **실제로 자주 붙는 조합**. 반드시 headword(또는 forms)를 포함 — 파생어를 쓴 조합(`serious` 항목에 `seriously ill`)은 넣지 않고 headword 자체가 들어가는 조합(`a serious injury`)을 고른다. 문장이 아니라 구(3~5단어). 예 `"make a decision"`, `"heavy rain"`, `"depend on"`.
 - `phrasals[]`(동사 Core만): `phrase`는 headword로 시작(`"get up"`), `ko`는 짧은 뜻, `example`은 위 예문 규칙 동일.
   - **예문에는 반드시 변형하지 않은 원형**이 들어가야 한다. `get back`의 예문은 "I'll **get** back to you"는 되지만 "I **got** back late"는 안 된다(검증기가 원형만 인정). 과거 상황을 쓰고 싶으면 `will`·`can`·조동사를 써서 원형이 드러나게 쓴다.
   - 한 단어의 구동사는 **동사 sense 중 하나에 몰아서** 넣는다(sense마다 나눌 필요 없음). 단어 전체로 2~6개가 목표이지만, 확실한 구동사가 1개뿐이면 1개만 넣는다(없는 것을 지어내지 않는다).
