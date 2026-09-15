@@ -1,20 +1,21 @@
 # 콘텐츠 제작 진행 상황
 
-마지막 갱신: 2026-09-15 21:15
+마지막 갱신: 2026-09-15 21:45
 
 ## 현황
 | 항목 | 상태 |
 |---|---|
 | 단어 목록 (`content/wordlist/master.tsv`) | 4,054개 확정 (PRE 300 / ELEM 800 / MID 1,200 / HIGH 1,154 / ADV 600, Core 400 포함) |
 | 배치 manifest | 81개 생성 완료 (deep 20 × 20개, light 61 × 60개) |
-| 작성 완료 | **9/81 배치 = 460개 (11%)** — Core d001~d002, 초등 l001~l007. 전부 `validate` 0 error / 0 warning |
-| 앱 내장 DB | `content.db` 460 words / 657 senses / 42 units |
+| 작성 완료 | **23/81 배치 = 980개 (24%)** — Core d001~d010, 초등 l001~l013. 전부 `validate` 0 error / 0 warning |
+| 앱 내장 DB | `content.db` 980 words / 1683 senses / 59 units |
 
 ## 남은 작업
 ```
-deep  d003~d020   Core 360개 (sense 3~8개의 깊은 항목)
-light l008~l061   나머지 3,234개
+deep  d011~d020   Core 200개 (sense 3~8개의 깊은 항목)
+light l014~l061   나머지 2,880개
 ```
+레벨별: PRE 300/300 완료, ELEM 540/800, MID·HIGH·ADV 미착수.
 진행 상황은 `node tools/batch-status.mjs`, 다음 대상은 `node tools/batch-status.mjs --next 3`.
 
 ## 배치 하나 작성하는 법
@@ -38,6 +39,8 @@ node tools/build-db.mjs            # 시드 포함하려면 --include-golden
 - **연어 개수는 단어 전체 합**이지 sense별이 아니다.
 - **confusable 대상은 학습 목록에 없어도 된다.** `by` vs `until`처럼 기능어와 대조해도 경고나지 않는다.
 - 동시에 3~5개까지만 돌린다. 그 이상은 세션 사용량 한도에 걸려 전부 중단된 적이 있다.
+- **작업 중에는 `make-batches` 를 돌리지 않는다.** 배치 구성이 바뀌어 에이전트가 받은 manifest 와 어긋난다(안전장치가 막지만 `--force` 로 뚫으면 항목 중복·누락이 생긴다).
+- 배치 완료 후 `node /tmp/cleanforms.mjs` 대신 직접 확인: 변화형은 `cleanForms` 가 품사에 맞게 정리하므로 에이전트가 master.tsv 를 직접 보고 넣은 형태는 불필요할 수 있다.
 
 ## 알려진 판단 사항
 - `forms` 는 `tools/lib/forms.mjs` 의 `cleanForms` 가 품사에 맞게 정리한다 (NGSL 원본에는 `peopled`, `marchs` 같은 비단어가 섞여 있음). manifest·validator·build-db 가 모두 같은 함수를 쓴다.
