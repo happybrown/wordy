@@ -47,10 +47,13 @@ const NOT_A_FORM = new Set([
   'breads', 'rices', 'weathers', 'funs',
   'safeties', 'insurances', 'violences', 'freedoms', 'patiences', 'progresses', 'accesses',
   'agricultures', 'cautions', 'chaoses', 'leathers', 'organics', 'contraries',
+  'prides', 'destructions', 'logics', 'wisdoms', 'braveries', 'honesties',
   'deader', 'deadest', 'falser', 'falsest', 'truer', 'truest', 'uniquer', 'uniquest',
   'perfecter', 'perfectest', 'mainer', 'mainest', 'onlier', 'onliest', 'wholer', 'wholest',
   'baddest', 'badder', 'gooder', 'goodest', 'worser', 'littler', 'littlest', 'farer', 'farest',
   // 불규칙 동사에 실린 가짜 규칙 과거형. bended 는 'on bended knee' 화석 표현에만 남았다.
+  // 고어·폐어 철자
+  'blest', 'gaol', 'gaoled', 'gaols', 'shew', 'shewed', 'thou', 'thee',
   'bended', 'leaved', 'builded', 'sended', 'spended', 'sleeped', 'keeped', 'feeled',
   'meaned', 'dealed', 'holded', 'selled', 'telled', 'finded', 'standed', 'teached',
   'catched', 'buyed', 'bringed', 'thinked', 'fighted', 'payed',

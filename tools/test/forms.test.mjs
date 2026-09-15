@@ -117,3 +117,16 @@ test('불규칙 동사에 실린 가짜 규칙 과거형을 거른다', () => {
   // heard 는 hear 의 정상 과거형이므로 유지
   assert.ok(cleanForms('hear', ['heard', 'hears'], ['v']).includes('heard'));
 });
+
+test('고어·폐어 철자는 학습 변화형이 아니다', () => {
+  // blest 는 bless 의 시적 과거형, gaol 은 jail 의 영국 폐어 철자
+  assert.deepEqual(cleanForms('bless', ['blessed', 'blest'], ['v']), ['blessed']);
+  assert.ok(!cleanForms('jail', ['gaol', 'jails'], ['n', 'v']).includes('gaol'));
+});
+
+test('추상 불가산명사의 복수를 거른다', () => {
+  assert.deepEqual(cleanForms('pride', ['prides'], ['n']), []);
+  assert.deepEqual(cleanForms('destruction', ['destructions'], ['n']), []);
+  assert.deepEqual(cleanForms('logic', ['logics'], ['n']), []);
+  assert.deepEqual(cleanForms('agriculture', ['agricultures'], ['n']), []);
+});
