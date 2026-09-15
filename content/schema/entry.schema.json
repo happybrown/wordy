@@ -4,56 +4,290 @@
   "title": "Wordy vocabulary entry",
   "type": "object",
   "additionalProperties": false,
-  "required": ["id", "headword", "level", "isCore", "topic", "senses"],
+  "required": [
+    "id",
+    "headword",
+    "level",
+    "isCore",
+    "topic",
+    "senses"
+  ],
   "properties": {
-    "id":       { "type": "string", "pattern": "^[a-z0-9]+(-[a-z0-9]+)*$" },
-    "headword": { "type": "string", "minLength": 1, "maxLength": 40 },
-    "ipa":      { "type": "string", "pattern": "^/.+/$" },
-    "level":    { "enum": ["PRE", "ELEM", "MID", "HIGH", "ADV"] },
-    "isCore":   { "type": "boolean" },
-    "topic":    { "enum": ["people_family", "body_health", "food_cooking", "home_daily", "school_learning", "work_business", "money_shopping", "travel_transport", "nature_animals", "environment_science", "society_politics", "culture_arts", "sports_leisure", "emotions_personality", "thinking_opinion", "communication", "time_quantity", "movement_action", "description_quality", "abstract_general", "academic"] },
-    "forms":    { "type": "array", "items": { "type": "string", "minLength": 1 }, "uniqueItems": true, "maxItems": 12 },
-    "senses":   { "type": "array", "minItems": 1, "maxItems": 8, "items": { "$ref": "#/$defs/sense" } },
+    "id": {
+      "type": "string",
+      "pattern": "^[a-z0-9]+(-[a-z0-9]+)*$"
+    },
+    "headword": {
+      "type": "string",
+      "minLength": 1,
+      "maxLength": 40
+    },
+    "ipa": {
+      "type": "string",
+      "pattern": "^/.+/$"
+    },
+    "level": {
+      "enum": [
+        "PRE",
+        "ELEM",
+        "MID",
+        "HIGH",
+        "ADV"
+      ]
+    },
+    "isCore": {
+      "type": "boolean"
+    },
+    "topic": {
+      "enum": [
+        "people_family",
+        "body_health",
+        "food_cooking",
+        "home_daily",
+        "school_learning",
+        "work_business",
+        "money_shopping",
+        "travel_transport",
+        "nature_animals",
+        "environment_science",
+        "society_politics",
+        "culture_arts",
+        "sports_leisure",
+        "emotions_personality",
+        "thinking_opinion",
+        "communication",
+        "time_quantity",
+        "movement_action",
+        "description_quality",
+        "abstract_general",
+        "academic"
+      ]
+    },
+    "forms": {
+      "type": "array",
+      "items": {
+        "type": "string",
+        "minLength": 1
+      },
+      "uniqueItems": true,
+      "maxItems": 12
+    },
+    "senses": {
+      "type": "array",
+      "minItems": 1,
+      "maxItems": 8,
+      "items": {
+        "$ref": "#/$defs/sense"
+      }
+    },
     "wordFamily": {
-      "type": "array", "maxItems": 8,
-      "items": { "type": "object", "additionalProperties": false, "required": ["form", "pos", "ko"],
-        "properties": { "form": { "type": "string", "minLength": 1 }, "pos": { "$ref": "#/$defs/pos" }, "ko": { "type": "string", "minLength": 1, "maxLength": 30 } } }
+      "type": "array",
+      "maxItems": 8,
+      "items": {
+        "type": "object",
+        "additionalProperties": false,
+        "required": [
+          "form",
+          "pos",
+          "ko"
+        ],
+        "properties": {
+          "form": {
+            "type": "string",
+            "minLength": 1
+          },
+          "pos": {
+            "$ref": "#/$defs/pos"
+          },
+          "ko": {
+            "type": "string",
+            "minLength": 1,
+            "maxLength": 30
+          }
+        }
+      }
     },
     "confusables": {
-      "type": "array", "maxItems": 4,
-      "items": { "type": "object", "additionalProperties": false, "required": ["word", "note"],
-        "properties": { "word": { "type": "string", "minLength": 1 }, "note": { "type": "string", "minLength": 4, "maxLength": 120 } } }
+      "type": "array",
+      "maxItems": 4,
+      "items": {
+        "type": "object",
+        "additionalProperties": false,
+        "required": [
+          "word",
+          "note"
+        ],
+        "properties": {
+          "word": {
+            "type": "string",
+            "minLength": 1
+          },
+          "note": {
+            "type": "string",
+            "minLength": 4,
+            "maxLength": 120
+          }
+        }
+      }
     },
-    "memoryHook": { "type": "string", "minLength": 4, "maxLength": 120 }
+    "memoryHook": {
+      "type": "string",
+      "minLength": 4,
+      "maxLength": 120
+    }
   },
-  "if":   { "properties": { "isCore": { "const": true } } },
-  "then": { "properties": { "senses": { "minItems": 3, "maxItems": 8 } }, "required": ["ipa", "confusables"] },
-  "else": { "properties": { "senses": { "minItems": 1, "maxItems": 2 } } },
+  "if": {
+    "properties": {
+      "isCore": {
+        "const": true
+      }
+    }
+  },
+  "then": {
+    "properties": {
+      "senses": {
+        "minItems": 3,
+        "maxItems": 8
+      }
+    },
+    "required": [
+      "ipa",
+      "confusables"
+    ]
+  },
+  "else": {
+    "properties": {
+      "senses": {
+        "minItems": 1,
+        "maxItems": 2
+      }
+    }
+  },
   "$defs": {
-    "pos": { "enum": ["n", "v", "adj", "adv", "prep", "pron", "det", "conj", "num", "modal", "interj"] },
+    "pos": {
+      "enum": [
+        "n",
+        "v",
+        "adj",
+        "adv",
+        "prep",
+        "pron",
+        "det",
+        "conj",
+        "num",
+        "modal",
+        "interj"
+      ]
+    },
     "example": {
-      "type": "object", "additionalProperties": false, "required": ["en", "ko", "focus"],
+      "type": "object",
+      "additionalProperties": false,
+      "required": [
+        "en",
+        "ko",
+        "focus"
+      ],
       "properties": {
-        "en":    { "type": "string", "minLength": 8, "maxLength": 120 },
-        "ko":    { "type": "string", "minLength": 2, "maxLength": 80 },
-        "focus": { "type": "string", "minLength": 1, "maxLength": 40 }
+        "en": {
+          "type": "string",
+          "minLength": 8,
+          "maxLength": 120
+        },
+        "ko": {
+          "type": "string",
+          "minLength": 2,
+          "maxLength": 80
+        },
+        "focus": {
+          "type": "string",
+          "minLength": 1,
+          "maxLength": 60
+        }
       }
     },
     "sense": {
-      "type": "object", "additionalProperties": false, "required": ["id", "pos", "ko", "en", "examples"],
+      "type": "object",
+      "additionalProperties": false,
+      "required": [
+        "id",
+        "pos",
+        "ko",
+        "en",
+        "examples"
+      ],
       "properties": {
-        "id":       { "type": "string", "pattern": "^[a-z0-9]+(-[a-z0-9]+)*-[1-8]$" },
-        "pos":      { "$ref": "#/$defs/pos" },
-        "ko":       { "type": "string", "minLength": 1, "maxLength": 24 },
-        "en":       { "type": "string", "minLength": 4, "maxLength": 110 },
-        "nuance":   { "type": "string", "minLength": 6, "maxLength": 160 },
-        "pattern":  { "type": "string", "minLength": 2, "maxLength": 40 },
-        "examples": { "type": "array", "minItems": 1, "maxItems": 3, "items": { "$ref": "#/$defs/example" } },
-        "collocations": { "type": "array", "maxItems": 8, "uniqueItems": true, "items": { "type": "string", "minLength": 3, "maxLength": 40 } },
+        "id": {
+          "type": "string",
+          "pattern": "^[a-z0-9]+(-[a-z0-9]+)*-[1-8]$"
+        },
+        "pos": {
+          "$ref": "#/$defs/pos"
+        },
+        "ko": {
+          "type": "string",
+          "minLength": 1,
+          "maxLength": 24
+        },
+        "en": {
+          "type": "string",
+          "minLength": 4,
+          "maxLength": 110
+        },
+        "nuance": {
+          "type": "string",
+          "minLength": 6,
+          "maxLength": 160
+        },
+        "pattern": {
+          "type": "string",
+          "minLength": 2,
+          "maxLength": 40
+        },
+        "examples": {
+          "type": "array",
+          "minItems": 1,
+          "maxItems": 3,
+          "items": {
+            "$ref": "#/$defs/example"
+          }
+        },
+        "collocations": {
+          "type": "array",
+          "maxItems": 8,
+          "uniqueItems": true,
+          "items": {
+            "type": "string",
+            "minLength": 3,
+            "maxLength": 40
+          }
+        },
         "phrasals": {
-          "type": "array", "maxItems": 6,
-          "items": { "type": "object", "additionalProperties": false, "required": ["phrase", "ko", "example"],
-            "properties": { "phrase": { "type": "string", "minLength": 3, "maxLength": 30 }, "ko": { "type": "string", "minLength": 1, "maxLength": 30 }, "example": { "$ref": "#/$defs/example" } } }
+          "type": "array",
+          "maxItems": 6,
+          "items": {
+            "type": "object",
+            "additionalProperties": false,
+            "required": [
+              "phrase",
+              "ko",
+              "example"
+            ],
+            "properties": {
+              "phrase": {
+                "type": "string",
+                "minLength": 3,
+                "maxLength": 30
+              },
+              "ko": {
+                "type": "string",
+                "minLength": 1,
+                "maxLength": 30
+              },
+              "example": {
+                "$ref": "#/$defs/example"
+              }
+            }
+          }
         }
       }
     }

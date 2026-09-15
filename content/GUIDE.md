@@ -33,7 +33,7 @@
 - `examples[]`:
   - `en`: **8~14단어**(검증기는 5~18까지 통과시키지만 8~14를 목표로), 회화체(1·2인칭, 축약형 OK), 한 문장에 한 상황. 대문자로 시작, 문장부호로 끝. **headword 또는 forms 중 하나가 단어 경계로 반드시 포함**.
   - `ko`: 자연스러운 한국어 번역(직역 금지). 예문의 어감(반말/존댓말)을 유지.
-  - `focus`: `en`의 **부분 문자열**이면서 **headword(또는 forms) 를 반드시 포함**하는 최소 청크. 용법이 드러나게 앞뒤 한두 단어를 붙인다. 예 `"got a text"`, `"get to the station"`. 문장 전체와 같으면 안 된다.
+  - `focus`: `en`의 **부분 문자열**이면서 **headword(또는 forms) 를 반드시 포함**하는 최소 청크. 용법이 드러나게 앞뒤 한두 단어를 붙인다. 예 `"got a text"`, `"get to the station"`. 문장 전체와 같으면 안 된다(최대 60자).
   - 같은 단어 안에서 예문 중복 금지. 다른 sense의 예문은 서로 다른 상황.
 - `collocations[]`: "동사 + 명사", "형용사 + 명사", "동사 + 전치사"처럼 **실제로 자주 붙는 조합**. 반드시 headword(또는 forms)를 포함 — 파생어를 쓴 조합(`serious` 항목에 `seriously ill`)은 넣지 않고 headword 자체가 들어가는 조합(`a serious injury`)을 고른다. 문장이 아니라 구(3~5단어). 예 `"make a decision"`, `"heavy rain"`, `"depend on"`.
 - `phrasals[]`(동사 Core만): `phrase`는 headword로 시작(`"get up"`), `ko`는 짧은 뜻, `example`은 위 예문 규칙 동일.
