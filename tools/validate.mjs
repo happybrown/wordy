@@ -106,7 +106,11 @@ export function validateEntries(entries, { manifest = null, globalScope = false 
       }
     });
     if (e.senses.some((s) => s.phrasals?.length) && !hasVerb) err(id, 'phrasal.pos', '구동사는 동사 sense가 있을 때만');
-    if (e.isCore && (collocTotal < 3 || collocTotal > 8)) err(id, 'core.collocations', `Core 연어 총 ${collocTotal}개 (3~8 필요)`);
+    // 담화 부사·전치사는 진짜 연어가 2개뿐인 경우가 있다(anyway, quite).
+    // 최소 3개를 강제하면 없는 조합을 지어내게 되므로 기능어류는 2개까지 허용한다.
+    const functionPosOnly = e.senses.every((s) => ['adv', 'interj', 'prep', 'conj', 'det', 'pron'].includes(s.pos));
+    const minColloc = functionPosOnly ? 2 : 3;
+    if (e.isCore && (collocTotal < minColloc || collocTotal > 8)) err(id, 'core.collocations', `Core 연어 총 ${collocTotal}개 (${minColloc}~8 필요)`);
     if (!e.isCore && collocTotal > 3) warn(id, 'light.collocations', `일반 항목 연어 ${collocTotal}개 (목표 ≤3)`);
     // 연어가 하나도 없으면 학습자가 쓸 조합을 못 배운다. 부사 항목이 특히 빠뜨리기 쉽다.
     if (!e.isCore && collocTotal === 0) err(id, 'light.collocations', '연어가 하나도 없음 (1~3개 필요)');

@@ -45,9 +45,11 @@ const NOT_A_FORM = new Set([
   'moneys', 'monies', 'advices', 'homeworks', 'informations', 'newses', 'furnitures',
   'equipments', 'knowledges', 'healths', 'lucks', 'pollutions', 'traffics', 'musics',
   'breads', 'rices', 'weathers', 'funs',
+  'safeties', 'insurances', 'violences', 'freedoms', 'patiences', 'progresses', 'accesses',
   'deader', 'deadest', 'falser', 'falsest', 'truer', 'truest', 'uniquer', 'uniquest',
   'perfecter', 'perfectest', 'mainer', 'mainest', 'onlier', 'onliest', 'wholer', 'wholest',
   'baddest', 'badder', 'gooder', 'goodest', 'worser', 'littler', 'littlest', 'farer', 'farest',
+  'squarer', 'squarest', 'wronger', 'wrongest', 'famouser', 'famousest', 'correcter', 'correctest',
   // 형용사·부사가 주 품사인데 명사 복수로 실린 것들.
   // generals(장군들), privates(병사들)처럼 실재하는 명사 복수는 넣지 않는다 —
   // 항목이 그 명사 sense 를 쓰면 예문에 필요하다.
@@ -110,7 +112,9 @@ export function cleanForms(headword, forms, pos, usedIn = '') {
     if (f === headword + 's' && badS(headword)) return false;
     if (f === headword + 'es' && !/(s|x|z|ch|sh|o)$/.test(headword)) return false;
     if (/[.]/.test(f) && !/[.]/.test(headword)) return false; // "dr." for doctor
-    if (SLANG.has(f) || NOT_A_FORM.has(f)) return false;
+    if (SLANG.has(f)) return false;
+    // 불가산 가짜 복수·비표준 비교급. 동사 sense 가 있으면 -s 는 3인칭 단수일 수 있어 살린다.
+    if (NOT_A_FORM.has(f) && !(pos.includes('v') && (f === headword + 's' || f === headword + 'es'))) return false;
     if (isMisspelledDouble(headword, f)) return false;
     // 동명사의 복수(scorings, filings, meetings 아님 — meeting 은 headword 자체)는
     // 동사 변화형도 명사 복수도 아니라 학습 카드에 넣을 이유가 없다.

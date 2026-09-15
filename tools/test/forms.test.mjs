@@ -84,3 +84,19 @@ test('실재하는 명사 복수는 형용사가 주 품사여도 유지한다',
   // publics 는 쓰지 않는 형태
   assert.deepEqual(cleanForms('public', ['publics'], ['n', 'adj']), []);
 });
+
+test('불가산명사의 가짜 복수는 명사 항목에서만 거른다', () => {
+  assert.deepEqual(cleanForms('safety', ['safeties'], ['n']), []);
+  assert.deepEqual(cleanForms('insurance', ['insurances'], ['n']), []);
+  // 동사 sense 가 있으면 -s/-es 는 3인칭 단수이므로 살린다
+  assert.ok(cleanForms('access', ['accesses', 'accessed'], ['n', 'v']).includes('accesses'));
+  assert.ok(cleanForms('progress', ['progresses', 'progressed'], ['n', 'v']).includes('progresses'));
+  // 실제 용법이 있는 복수는 유지
+  assert.deepEqual(cleanForms('wine', ['wines'], ['n']), ['wines']);
+  assert.deepEqual(cleanForms('content', ['contents'], ['n']), ['contents']);
+});
+
+test('실제로 쓰지 않는 비교급은 거른다', () => {
+  assert.deepEqual(cleanForms('square', ['squarer', 'squarest', 'squares'], ['n', 'adj']), ['squares']);
+  assert.ok(!cleanForms('wrong', ['wronger', 'wrongest'], ['adj']).includes('wronger'));
+});

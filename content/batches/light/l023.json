@@ -1,0 +1,3270 @@
+[
+ {
+  "id": "opposite",
+  "headword": "opposite",
+  "ipa": "/ˈɑːpəzɪt/",
+  "level": "MID",
+  "isCore": false,
+  "topic": "description_quality",
+  "forms": [
+   "opposites"
+  ],
+  "senses": [
+   {
+    "id": "opposite-1",
+    "pos": "adj",
+    "ko": "반대의, 맞은편의",
+    "en": "as different as possible from something, or facing it across a space",
+    "nuance": "'~의 반대'는 opposite of이고 opposite to나 opposite with는 쓰지 않는다. 건물이 마주 본다는 뜻일 때는 the opposite side처럼 the를 붙인다.",
+    "pattern": "the opposite side / opposite of + 명사",
+    "examples": [
+     {
+      "en": "The bakery is on the opposite side of the street.",
+      "ko": "그 빵집은 길 반대편에 있어.",
+      "focus": "on the opposite side"
+     },
+     {
+      "en": "Jun and I want the opposite thing every single time.",
+      "ko": "준이랑 나는 매번 정반대를 원해.",
+      "focus": "want the opposite thing"
+     }
+    ],
+    "collocations": [
+     "the opposite direction",
+     "the opposite side",
+     "quite the opposite"
+    ]
+   },
+   {
+    "id": "opposite-2",
+    "pos": "n",
+    "ko": "반대되는 것",
+    "en": "a person or thing that is completely different from another",
+    "nuance": "명사로 쓸 때는 the opposite of my sister처럼 the와 of가 같이 온다. '정반대'를 강조하려면 the exact opposite라고 한다.",
+    "examples": [
+     {
+      "en": "Mina is the exact opposite of her quiet older brother.",
+      "ko": "미나는 조용한 오빠와 정반대야.",
+      "focus": "the exact opposite of her quiet"
+     }
+    ]
+   }
+  ],
+  "wordFamily": [
+   {
+    "form": "oppose",
+    "pos": "v",
+    "ko": "반대하다"
+   },
+   {
+    "form": "opposition",
+    "pos": "n",
+    "ko": "반대, 반대 세력"
+   }
+  ],
+  "confusables": [
+   {
+    "word": "across",
+    "note": "opposite는 '바로 마주 보는'이고, across from은 '길 건너 어딘가'로 위치가 덜 정확하다."
+   },
+   {
+    "word": "oppose",
+    "note": "opposite는 형용사·명사, oppose는 동사다. I opposite it이라고 하지 않는다."
+   }
+  ]
+ },
+ {
+  "id": "murder",
+  "headword": "murder",
+  "ipa": "/ˈmɜːrdər/",
+  "level": "MID",
+  "isCore": false,
+  "topic": "society_politics",
+  "forms": [
+   "murdered",
+   "murdering",
+   "murders"
+  ],
+  "senses": [
+   {
+    "id": "murder-1",
+    "pos": "n",
+    "ko": "살인",
+    "en": "the crime of killing another person on purpose",
+    "nuance": "사건 하나하나를 셀 때는 a murder, 죄목 자체를 말할 때는 관사 없이 charged with murder라고 한다. 뉴스나 드라마 얘기에서 자주 나온다.",
+    "pattern": "commit / solve a murder",
+    "examples": [
+     {
+      "en": "The police finally solved the murder after twenty long years.",
+      "ko": "경찰이 20년 만에 그 살인 사건을 해결했어.",
+      "focus": "solved the murder"
+     },
+     {
+      "en": "Emma only reads books about murders in small towns.",
+      "ko": "엠마는 작은 마을에서 일어난 살인 사건 책만 읽어.",
+      "focus": "books about murders"
+     }
+    ],
+    "collocations": [
+     "commit murder",
+     "a murder case",
+     "solve a murder"
+    ]
+   },
+   {
+    "id": "murder-2",
+    "pos": "v",
+    "ko": "살해하다",
+    "en": "to kill a person on purpose and against the law",
+    "nuance": "kill은 사고·병·전쟁에도 쓰지만 murder는 고의 범죄일 때만 쓴다. 보통 수동태 was murdered로 더 많이 듣는다.",
+    "examples": [
+     {
+      "en": "In the novel, the banker is murdered on a night train.",
+      "ko": "그 소설에서 은행가가 야간열차에서 살해돼.",
+      "focus": "is murdered on a night train"
+     }
+    ]
+   }
+  ],
+  "wordFamily": [
+   {
+    "form": "murderer",
+    "pos": "n",
+    "ko": "살인자"
+   }
+  ],
+  "confusables": [
+   {
+    "word": "kill",
+    "note": "kill은 원인이 무엇이든 죽게 하는 것, murder는 사람이 고의로 사람을 죽이는 범죄다."
+   },
+   {
+    "word": "order",
+    "note": "철자가 비슷해도 murder는 '살인', order는 '주문·명령'이다. 발음 첫 소리가 다르다."
+   }
+  ]
+ },
+ {
+  "id": "monitor",
+  "headword": "monitor",
+  "ipa": "/ˈmɑːnətər/",
+  "level": "MID",
+  "isCore": false,
+  "topic": "environment_science",
+  "forms": [
+   "monitored",
+   "monitoring",
+   "monitors"
+  ],
+  "senses": [
+   {
+    "id": "monitor-1",
+    "pos": "v",
+    "ko": "감시하다, 지켜보다",
+    "en": "to watch and check something over time to see how it changes",
+    "nuance": "한 번 보는 게 아니라 계속 확인한다는 뜻이라서 check와 다르다. 사람을 몰래 본다는 뜻이 아니라 상태·수치를 챙긴다는 중립적인 말이다.",
+    "pattern": "monitor + 명사",
+    "examples": [
+     {
+      "en": "The nurse monitored my blood pressure every two hours.",
+      "ko": "간호사가 두 시간마다 내 혈압을 확인했어.",
+      "focus": "monitored my blood pressure"
+     },
+     {
+      "en": "We're monitoring the weather before we book the flight.",
+      "ko": "비행기 예약하기 전에 날씨를 계속 보고 있어.",
+      "focus": "monitoring the weather"
+     }
+    ],
+    "collocations": [
+     "closely monitor",
+     "monitor progress",
+     "monitor the situation"
+    ]
+   },
+   {
+    "id": "monitor-2",
+    "pos": "n",
+    "ko": "모니터, 화면",
+    "en": "a screen that shows pictures or numbers from a machine",
+    "nuance": "컴퓨터 화면과 병원 장치 화면 둘 다 monitor다. 노트북 화면을 가리킬 때는 보통 screen이라고 한다.",
+    "examples": [
+     {
+      "en": "My neck hurts because the monitor sits too low.",
+      "ko": "모니터가 너무 낮아서 목이 아파.",
+      "focus": "the monitor sits too low"
+     }
+    ]
+   }
+  ],
+  "confusables": [
+   {
+    "word": "screen",
+    "note": "screen은 화면 표면 자체, monitor는 책상에 놓는 장치 하나를 가리킬 때 주로 쓴다."
+   },
+   {
+    "word": "supervise",
+    "note": "supervise는 사람을 관리·지도하는 것, monitor는 수치나 상태를 계속 확인하는 것이다."
+   }
+  ]
+ },
+ {
+  "id": "soldier",
+  "headword": "soldier",
+  "ipa": "/ˈsoʊldʒər/",
+  "level": "MID",
+  "isCore": false,
+  "topic": "society_politics",
+  "forms": [
+   "soldiers"
+  ],
+  "senses": [
+   {
+    "id": "soldier-1",
+    "pos": "n",
+    "ko": "군인, 병사",
+    "en": "a member of an army, usually not an officer",
+    "nuance": "발음에 d 소리가 들어가 /soʊldʒər/이고 '솔저'처럼 l을 흘리지 않는다. '군대에 있다'는 be a soldier 또는 serve in the army다.",
+    "pattern": "a soldier in + 군대",
+    "examples": [
+     {
+      "en": "My grandfather was a soldier for almost ten years.",
+      "ko": "우리 할아버지는 거의 10년 동안 군인이었어.",
+      "focus": "was a soldier"
+     },
+     {
+      "en": "Two soldiers were guarding the gate in the rain.",
+      "ko": "군인 두 명이 비 속에서 문을 지키고 있었어.",
+      "focus": "Two soldiers were guarding the gate"
+     }
+    ],
+    "collocations": [
+     "a young soldier",
+     "wounded soldiers"
+    ]
+   }
+  ],
+  "confusables": [
+   {
+    "word": "officer",
+    "note": "soldier는 일반 병사까지 포함한 넓은 말, officer는 지휘하는 장교다."
+   },
+   {
+    "word": "troop",
+    "note": "soldier는 한 사람, troops는 여러 병력을 묶어 부르는 복수형이다."
+   }
+  ]
+ },
+ {
+  "id": "finance",
+  "headword": "finance",
+  "ipa": "/ˈfaɪnæns/",
+  "level": "MID",
+  "isCore": false,
+  "topic": "money_shopping",
+  "forms": [
+   "financed",
+   "finances",
+   "financing"
+  ],
+  "senses": [
+   {
+    "id": "finance-1",
+    "pos": "n",
+    "ko": "재정, 금융",
+    "en": "the managing of large amounts of money by a company or country",
+    "nuance": "분야를 말할 때는 관사 없이 work in finance라고 한다. 개인·집안 살림돈은 복수형 my finances로 쓴다.",
+    "pattern": "work in finance",
+    "examples": [
+     {
+      "en": "Tom works in finance, so he reads the news every morning.",
+      "ko": "톰은 금융업에서 일해서 매일 아침 뉴스를 봐.",
+      "focus": "works in finance"
+     },
+     {
+      "en": "We should check our finances before buying a car.",
+      "ko": "차 사기 전에 우리 재정 상태를 확인해야 해.",
+      "focus": "check our finances"
+     }
+    ],
+    "collocations": [
+     "work in finance",
+     "personal finances",
+     "the finance department"
+    ]
+   },
+   {
+    "id": "finance-2",
+    "pos": "v",
+    "ko": "자금을 대다",
+    "en": "to give the money needed to pay for a big plan or thing",
+    "nuance": "돈을 그냥 준다는 뜻이 아니라 비용 전체를 대 준다는 뜻이다. 보통 회사·정부·부모처럼 큰 지출을 맡는 쪽이 주어다.",
+    "examples": [
+     {
+      "en": "Her parents financed most of the wedding last spring.",
+      "ko": "지난봄 결혼식 비용은 대부분 부모님이 대 주셨어.",
+      "focus": "financed most of the wedding"
+     }
+    ]
+   }
+  ],
+  "wordFamily": [
+   {
+    "form": "financial",
+    "pos": "adj",
+    "ko": "재정적인, 금융의"
+   }
+  ],
+  "confusables": [
+   {
+    "word": "financial",
+    "note": "finance는 명사·동사, financial은 형용사다. '재정 문제'는 financial problems라고 한다."
+   },
+   {
+    "word": "economy",
+    "note": "economy는 나라 전체의 경제 상황, finance는 돈을 다루고 굴리는 일 쪽이다."
+   }
+  ]
+ },
+ {
+  "id": "comfortable",
+  "headword": "comfortable",
+  "ipa": "/ˈkʌmftərbl/",
+  "level": "MID",
+  "isCore": false,
+  "topic": "description_quality",
+  "senses": [
+   {
+    "id": "comfortable-1",
+    "pos": "adj",
+    "ko": "편안한, 편한",
+    "en": "making you feel relaxed, with no pain or worry",
+    "nuance": "물건이 편한 것(a comfortable chair)과 사람이 편한 것(I feel comfortable) 둘 다 쓴다. 발음은 '컴포터블'이 아니라 /kʌmftərbl/로 o를 거의 흘린다.",
+    "pattern": "feel comfortable (with/in + 명사)",
+    "examples": [
+     {
+      "en": "These old shoes are still the most comfortable ones I own.",
+      "ko": "이 낡은 신발이 아직도 내가 가진 중에 제일 편해.",
+      "focus": "the most comfortable ones"
+     },
+     {
+      "en": "I don't feel comfortable speaking English on the phone yet.",
+      "ko": "아직 전화로 영어 말하는 게 편하지 않아.",
+      "focus": "feel comfortable speaking English"
+     }
+    ],
+    "collocations": [
+     "feel comfortable",
+     "a comfortable chair",
+     "make yourself comfortable"
+    ]
+   }
+  ],
+  "wordFamily": [
+   {
+    "form": "comfort",
+    "pos": "n",
+    "ko": "편안함, 위로"
+   },
+   {
+    "form": "comfortably",
+    "pos": "adv",
+    "ko": "편안하게"
+   }
+  ],
+  "confusables": [
+   {
+    "word": "convenient",
+    "note": "comfortable은 몸·마음이 편한 것, convenient는 위치나 시간이 편리한 것이다."
+   },
+   {
+    "word": "cozy",
+    "note": "cozy는 작고 따뜻해서 포근한 느낌, comfortable은 불편함이 없다는 더 넓은 말이다."
+   }
+  ]
+ },
+ {
+  "id": "usual",
+  "headword": "usual",
+  "ipa": "/ˈjuːʒuəl/",
+  "level": "MID",
+  "isCore": false,
+  "topic": "time_quantity",
+  "senses": [
+   {
+    "id": "usual-1",
+    "pos": "adj",
+    "ko": "평소의, 보통의",
+    "en": "happening most of the time, as it normally happens",
+    "nuance": "명사 앞에 my usual seat처럼 쓰고 뒤에 오지 않아서 It is usual은 어색하다. '평소처럼'은 as usual, '평소보다'는 than usual로 굳어져 있다.",
+    "pattern": "as usual / than usual",
+    "examples": [
+     {
+      "en": "Jun was late again, as usual, and blamed the subway.",
+      "ko": "준은 평소처럼 또 늦었고 지하철 탓을 했어.",
+      "focus": "as usual"
+     },
+     {
+      "en": "The cafe was busier than usual this Sunday morning.",
+      "ko": "이번 일요일 아침엔 카페가 평소보다 붐볐어.",
+      "focus": "busier than usual"
+     }
+    ],
+    "collocations": [
+     "as usual",
+     "than usual",
+     "the usual place"
+    ]
+   }
+  ],
+  "wordFamily": [
+   {
+    "form": "usually",
+    "pos": "adv",
+    "ko": "보통, 대개"
+   },
+   {
+    "form": "unusual",
+    "pos": "adj",
+    "ko": "흔하지 않은"
+   }
+  ],
+  "confusables": [
+   {
+    "word": "usually",
+    "note": "usual은 명사를 꾸미고(my usual coffee), usually는 동사를 꾸민다(I usually drink coffee)."
+   },
+   {
+    "word": "normal",
+    "note": "normal은 '정상 범위'라는 기준 얘기, usual은 '늘 그러는'이라는 빈도 얘기다."
+   }
+  ]
+ },
+ {
+  "id": "pack",
+  "headword": "pack",
+  "ipa": "/pæk/",
+  "level": "MID",
+  "isCore": false,
+  "topic": "travel_transport",
+  "forms": [
+   "packed",
+   "packing",
+   "packs"
+  ],
+  "senses": [
+   {
+    "id": "pack-1",
+    "pos": "v",
+    "ko": "짐을 싸다, 챙기다",
+    "en": "to put clothes or things into a bag or box before a trip",
+    "nuance": "목적어 없이 I need to pack만으로도 '짐 싸야 해'가 된다. 반대말은 unpack이고, '가방에 넣다'는 pack it in my bag이다.",
+    "pattern": "pack (+ 명사) for + 명사",
+    "examples": [
+     {
+      "en": "I always pack my toothbrush last before a trip.",
+      "ko": "여행 갈 때 칫솔은 항상 마지막에 챙겨.",
+      "focus": "pack my toothbrush last"
+     },
+     {
+      "en": "Did you pack warm socks for the mountain?",
+      "ko": "산에 갈 따뜻한 양말 챙겼어?",
+      "focus": "pack warm socks"
+     }
+    ],
+    "collocations": [
+     "pack a bag",
+     "pack light"
+    ]
+   },
+   {
+    "id": "pack-2",
+    "pos": "n",
+    "ko": "한 팩, 묶음",
+    "en": "a small box or bag holding several of the same thing",
+    "nuance": "봉지에 여러 개 든 묶음을 셀 때 a pack of gum처럼 of를 넣는다. 등에 메는 가방은 backpack이고 pack 하나만 쓰면 잘 안 통한다.",
+    "examples": [
+     {
+      "en": "Could you grab a pack of batteries on your way home?",
+      "ko": "집에 오는 길에 배터리 한 팩 사 올 수 있어?",
+      "focus": "a pack of batteries"
+     }
+    ]
+   }
+  ],
+  "confusables": [
+   {
+    "word": "package",
+    "note": "package는 배달 오는 소포 한 개, pack은 같은 물건 여러 개가 든 묶음이다."
+   },
+   {
+    "word": "packet",
+    "note": "미국에서는 과자·설탕 작은 봉지를 packet, 여러 개 든 묶음을 pack이라 한다."
+   }
+  ]
+ },
+ {
+  "id": "recall",
+  "headword": "recall",
+  "ipa": "/rɪˈkɔːl/",
+  "level": "MID",
+  "isCore": false,
+  "topic": "thinking_opinion",
+  "forms": [
+   "recalled",
+   "recalling",
+   "recalls"
+  ],
+  "senses": [
+   {
+    "id": "recall-1",
+    "pos": "v",
+    "ko": "기억해 내다, 떠올리다",
+    "en": "to bring something back into your mind from the past",
+    "nuance": "remember보다 딱딱해서 글이나 공식적인 말에서 많이 쓴다. 뒤에 -ing나 that절이 오고 recall to meet 같은 to부정사는 쓰지 않는다.",
+    "pattern": "recall + 명사 / -ing / that절",
+    "examples": [
+     {
+      "en": "I don't recall meeting him at the office party.",
+      "ko": "그 사무실 파티에서 그를 만난 기억이 없어.",
+      "focus": "recall meeting him"
+     },
+     {
+      "en": "As far as I recall, the meeting starts at nine.",
+      "ko": "내 기억으로는 회의가 9시에 시작해.",
+      "focus": "As far as I recall"
+     }
+    ],
+    "collocations": [
+     "as far as I recall",
+     "clearly recall",
+     "recall the details"
+    ]
+   }
+  ],
+  "confusables": [
+   {
+    "word": "remember",
+    "note": "일상 대화에서는 remember가 자연스럽고, recall은 격식 있는 말투나 글에서 쓴다."
+   },
+   {
+    "word": "remind",
+    "note": "recall은 내가 스스로 떠올리는 것, remind는 남이 나에게 떠올려 주는 것이다."
+   }
+  ]
+ },
+ {
+  "id": "wine",
+  "headword": "wine",
+  "ipa": "/waɪn/",
+  "level": "MID",
+  "isCore": false,
+  "topic": "food_cooking",
+  "forms": [
+   "wines"
+  ],
+  "senses": [
+   {
+    "id": "wine-1",
+    "pos": "n",
+    "ko": "와인, 포도주",
+    "en": "a strong drink made from grapes, usually red or white",
+    "nuance": "마시는 양을 말할 때는 셀 수 없어서 some wine, a glass of wine으로 쓴다. 종류를 가리킬 때만 Italian wines처럼 복수가 된다.",
+    "pattern": "a glass of wine",
+    "examples": [
+     {
+      "en": "Emma poured me a small glass of red wine.",
+      "ko": "엠마가 레드 와인을 조금 따라 줬어.",
+      "focus": "a small glass of red wine"
+     },
+     {
+      "en": "This shop sells wines from Italy and Chile.",
+      "ko": "이 가게는 이탈리아와 칠레 와인을 팔아.",
+      "focus": "sells wines from Italy"
+     }
+    ],
+    "collocations": [
+     "a glass of wine",
+     "red wine",
+     "dry wine"
+    ]
+   }
+  ],
+  "confusables": [
+   {
+    "word": "vine",
+    "note": "wine은 마시는 술, vine은 포도가 자라는 덩굴이다. 첫 소리 w와 v를 구별해야 한다."
+   },
+   {
+    "word": "whine",
+    "note": "발음이 거의 같지만 whine은 '칭얼대다'라는 동사다."
+   }
+  ]
+ },
+ {
+  "id": "manufacture",
+  "headword": "manufacture",
+  "ipa": "/ˌmænjuˈfæktʃər/",
+  "level": "MID",
+  "isCore": false,
+  "topic": "work_business",
+  "forms": [
+   "manufactured",
+   "manufactures",
+   "manufacturing"
+  ],
+  "senses": [
+   {
+    "id": "manufacture-1",
+    "pos": "v",
+    "ko": "제조하다, 생산하다",
+    "en": "to make goods in large numbers using machines in a factory",
+    "nuance": "공장에서 대량으로 만들 때만 쓰고, 집에서 요리하거나 만드는 건 make다. 제품 설명에서는 수동형 manufactured in Korea로 자주 본다.",
+    "pattern": "be manufactured in + 장소",
+    "examples": [
+     {
+      "en": "These phone cases are manufactured in a small factory nearby.",
+      "ko": "이 휴대폰 케이스는 근처 작은 공장에서 만들어져.",
+      "focus": "are manufactured in a small factory"
+     },
+     {
+      "en": "The company has manufactured car parts since 1990.",
+      "ko": "그 회사는 1990년부터 자동차 부품을 만들어 왔어.",
+      "focus": "manufactured car parts"
+     }
+    ],
+    "collocations": [
+     "manufacture goods",
+     "locally manufactured"
+    ]
+   }
+  ],
+  "wordFamily": [
+   {
+    "form": "manufacturer",
+    "pos": "n",
+    "ko": "제조업체, 생산자"
+   },
+   {
+    "form": "manufacturing",
+    "pos": "n",
+    "ko": "제조업"
+   }
+  ],
+  "confusables": [
+   {
+    "word": "produce",
+    "note": "produce는 농산물·전기까지 넓게 쓰고, manufacture는 공장에서 만든 공업 제품에 쓴다."
+   },
+   {
+    "word": "manufacturer",
+    "note": "manufacture는 만드는 행위, manufacturer는 만드는 회사다. 끝 -r를 빠뜨리기 쉽다."
+   }
+  ]
+ },
+ {
+  "id": "totally",
+  "headword": "totally",
+  "ipa": "/ˈtoʊtəli/",
+  "level": "MID",
+  "isCore": false,
+  "topic": "time_quantity",
+  "senses": [
+   {
+    "id": "totally-1",
+    "pos": "adv",
+    "ko": "완전히, 전적으로",
+    "en": "in a complete way, with nothing left out",
+    "nuance": "친구끼리 Totally!만 써서 '완전 그래!'라는 맞장구가 된다. 격식 있는 글에서는 completely나 entirely를 쓰는 편이 안전하다.",
+    "pattern": "totally + 형용사/동사",
+    "examples": [
+     {
+      "en": "I totally forgot your birthday, and I feel terrible.",
+      "ko": "너 생일을 완전히 잊어버렸어, 정말 미안해.",
+      "focus": "totally forgot your birthday"
+     },
+     {
+      "en": "That's totally different from what Mina told me yesterday.",
+      "ko": "그건 어제 미나가 말한 것과 완전히 달라.",
+      "focus": "totally different from what"
+     }
+    ],
+    "collocations": [
+     "totally different",
+     "totally agree",
+     "totally forgot"
+    ]
+   }
+  ],
+  "wordFamily": [
+   {
+    "form": "total",
+    "pos": "adj",
+    "ko": "전체의, 완전한"
+   }
+  ],
+  "confusables": [
+   {
+    "word": "completely",
+    "note": "뜻은 거의 같지만 totally는 구어체, completely는 글과 말 모두에 무난하다."
+   },
+   {
+    "word": "in total",
+    "note": "합계를 말할 때는 totally가 아니라 in total을 쓴다. Ten people in total."
+   }
+  ]
+ },
+ {
+  "id": "visitor",
+  "headword": "visitor",
+  "ipa": "/ˈvɪzɪtər/",
+  "level": "MID",
+  "isCore": false,
+  "topic": "travel_transport",
+  "forms": [
+   "visitors"
+  ],
+  "senses": [
+   {
+    "id": "visitor-1",
+    "pos": "n",
+    "ko": "방문객, 손님",
+    "en": "someone who comes to a place or to see a person for a while",
+    "nuance": "셀 수 있는 명사라서 We have a visitor처럼 관사를 꼭 붙인다. 식당·가게에 돈 내고 온 사람은 visitor가 아니라 customer다.",
+    "pattern": "a visitor to / from + 장소",
+    "examples": [
+     {
+      "en": "We had a visitor from London staying all last week.",
+      "ko": "지난주에 런던에서 온 손님이 내내 머물렀어.",
+      "focus": "a visitor from London"
+     },
+     {
+      "en": "The museum gets more visitors on rainy weekends.",
+      "ko": "그 박물관은 비 오는 주말에 방문객이 더 많아.",
+      "focus": "gets more visitors"
+     }
+    ],
+    "collocations": [
+     "foreign visitors",
+     "a regular visitor"
+    ]
+   }
+  ],
+  "wordFamily": [
+   {
+    "form": "visit",
+    "pos": "v",
+    "ko": "방문하다"
+   }
+  ],
+  "confusables": [
+   {
+    "word": "guest",
+    "note": "guest는 초대받은 손님이나 호텔 투숙객, visitor는 그냥 들른 사람까지 포함한다."
+   },
+   {
+    "word": "tourist",
+    "note": "tourist는 관광 목적, visitor는 일·가족 방문까지 이유를 가리지 않는다."
+   }
+  ]
+ },
+ {
+  "id": "freedom",
+  "headword": "freedom",
+  "ipa": "/ˈfriːdəm/",
+  "level": "MID",
+  "isCore": false,
+  "topic": "society_politics",
+  "forms": [],
+  "senses": [
+   {
+    "id": "freedom-1",
+    "pos": "n",
+    "ko": "자유",
+    "en": "the right to do or say what you want without being stopped",
+    "nuance": "보통 셀 수 없어서 a freedom이라고 하지 않고 freedom이나 the freedom to로 쓴다. '~할 자유'는 뒤에 to부정사를 붙인다.",
+    "pattern": "the freedom to + 동사원형",
+    "examples": [
+     {
+      "en": "Working from home gives me the freedom to plan my day.",
+      "ko": "재택근무를 하니 하루를 내 맘대로 짜는 자유가 있어.",
+      "focus": "the freedom to plan my day"
+     },
+     {
+      "en": "Students here have a lot of freedom to choose classes.",
+      "ko": "여기 학생들은 수업을 고를 자유가 많아.",
+      "focus": "a lot of freedom to choose"
+     }
+    ],
+    "collocations": [
+     "freedom of speech",
+     "complete freedom"
+    ]
+   }
+  ],
+  "wordFamily": [
+   {
+    "form": "free",
+    "pos": "adj",
+    "ko": "자유로운, 무료의"
+   }
+  ],
+  "confusables": [
+   {
+    "word": "liberty",
+    "note": "liberty는 법·정치 문서에 쓰는 딱딱한 말, freedom은 일상에서 쓰는 자연스러운 말이다."
+   },
+   {
+    "word": "free",
+    "note": "freedom은 명사, free는 형용사다. '자유롭게 해 주다'는 set someone free다."
+   }
+  ]
+ },
+ {
+  "id": "construction",
+  "headword": "construction",
+  "ipa": "/kənˈstrʌkʃn/",
+  "level": "MID",
+  "isCore": false,
+  "topic": "work_business",
+  "forms": [
+   "constructions"
+  ],
+  "senses": [
+   {
+    "id": "construction-1",
+    "pos": "n",
+    "ko": "공사, 건설",
+    "en": "the work of building houses, roads, or other large things",
+    "nuance": "공사 행위를 말할 때는 셀 수 없어서 under construction, construction work처럼 관사 없이 쓴다. 건물 하나는 construction이 아니라 a building이다.",
+    "pattern": "under construction",
+    "examples": [
+     {
+      "en": "The new bridge is still under construction until next spring.",
+      "ko": "새 다리는 내년 봄까지 아직 공사 중이야.",
+      "focus": "under construction"
+     },
+     {
+      "en": "My uncle has worked in construction for thirty years.",
+      "ko": "우리 삼촌은 30년 동안 건설업에서 일했어.",
+      "focus": "worked in construction"
+     }
+    ],
+    "collocations": [
+     "under construction",
+     "construction work",
+     "a construction site"
+    ]
+   }
+  ],
+  "wordFamily": [
+   {
+    "form": "construct",
+    "pos": "v",
+    "ko": "건설하다, 만들다"
+   }
+  ],
+  "confusables": [
+   {
+    "word": "building",
+    "note": "construction은 짓는 일이나 과정, building은 다 지어진 건물 한 채다."
+   },
+   {
+    "word": "constitution",
+    "note": "철자가 비슷하지만 construction은 '건설', constitution은 '헌법·체질'이다."
+   }
+  ]
+ },
+ {
+  "id": "objective",
+  "headword": "objective",
+  "ipa": "/əbˈdʒektɪv/",
+  "level": "MID",
+  "isCore": false,
+  "topic": "work_business",
+  "forms": [
+   "objectives"
+  ],
+  "senses": [
+   {
+    "id": "objective-1",
+    "pos": "n",
+    "ko": "목표, 목적",
+    "en": "something you are trying to reach or achieve",
+    "nuance": "goal보다 딱딱해서 회사 보고서나 계획서에서 많이 쓴다. 셀 수 있는 명사라 our main objective처럼 관사나 소유격이 붙는다.",
+    "pattern": "achieve / meet an objective",
+    "examples": [
+     {
+      "en": "Our main objective this quarter is keeping old customers.",
+      "ko": "이번 분기 주요 목표는 기존 고객을 지키는 거야.",
+      "focus": "Our main objective this quarter"
+     },
+     {
+      "en": "The team met all three objectives before the deadline.",
+      "ko": "팀은 마감 전에 목표 세 개를 모두 달성했어.",
+      "focus": "met all three objectives"
+     }
+    ],
+    "collocations": [
+     "the main objective",
+     "achieve an objective"
+    ]
+   },
+   {
+    "id": "objective-2",
+    "pos": "adj",
+    "ko": "객관적인",
+    "en": "based on facts, not on personal feelings or opinions",
+    "nuance": "반대말 subjective와 짝으로 외우면 좋다. 사람에게 쓰면 '감정을 빼고 본다'는 칭찬이 된다.",
+    "examples": [
+     {
+      "en": "It's hard to be objective about your own writing.",
+      "ko": "자기 글에 객관적이기는 어려워.",
+      "focus": "be objective about your own writing"
+     }
+    ]
+   }
+  ],
+  "confusables": [
+   {
+    "word": "subjective",
+    "note": "objective는 사실에 근거한 것, subjective는 개인 느낌에 치우친 것이다."
+   },
+   {
+    "word": "object",
+    "note": "object는 '물건' 또는 '반대하다', objective는 '목표·객관적인'이다."
+   }
+  ]
+ },
+ {
+  "id": "moreover",
+  "headword": "moreover",
+  "ipa": "/mɔːrˈoʊvər/",
+  "level": "MID",
+  "isCore": false,
+  "topic": "communication",
+  "senses": [
+   {
+    "id": "moreover-1",
+    "pos": "adv",
+    "ko": "게다가, 더욱이",
+    "en": "used to add another point that makes your idea stronger",
+    "nuance": "글에서 쓰는 딱딱한 말이라 말할 때는 and, plus, also가 자연스럽다. 문장 맨 앞에 두고 뒤에 쉼표를 찍는다.",
+    "pattern": "Moreover, + 문장",
+    "examples": [
+     {
+      "en": "The rent is high. Moreover, the building has no elevator.",
+      "ko": "월세가 비싸. 게다가 그 건물엔 엘리베이터도 없어.",
+      "focus": "Moreover, the building has no elevator"
+     },
+     {
+      "en": "It saves money. Moreover, it saves a lot of time.",
+      "ko": "돈이 절약돼. 게다가 시간도 많이 아껄 수 있어.",
+      "focus": "Moreover, it saves a lot of time"
+     }
+    ],
+    "collocations": [
+     "moreover, it is"
+    ]
+   }
+  ],
+  "confusables": [
+   {
+    "word": "however",
+    "note": "moreover는 같은 방향으로 내용을 보태고, however는 앞말과 반대되는 말을 잇는다."
+   },
+   {
+    "word": "besides",
+    "note": "besides는 말할 때도 쓰는 가벼운 '게다가', moreover는 격식 있는 글에 쓴다."
+   }
+  ]
+ },
+ {
+  "id": "historical",
+  "headword": "historical",
+  "ipa": "/hɪˈstɔːrɪkl/",
+  "level": "MID",
+  "isCore": false,
+  "topic": "culture_arts",
+  "senses": [
+   {
+    "id": "historical-1",
+    "pos": "adj",
+    "ko": "역사의, 역사적인",
+    "en": "about the past, or connected with the study of the past",
+    "nuance": "historic은 '역사에 남을 만큼 중요한'이고 historical은 그냥 '역사와 관련된'이다. 역사 드라마·소설은 historical drama라고 한다.",
+    "pattern": "historical + 명사",
+    "examples": [
+     {
+      "en": "Mina only watches historical dramas about the Joseon period.",
+      "ko": "미나는 조선 시대 사극만 봐.",
+      "focus": "watches historical dramas"
+     },
+     {
+      "en": "The museum keeps historical records from the whole city.",
+      "ko": "그 박물관은 도시 전체의 역사 기록을 보관해.",
+      "focus": "keeps historical records"
+     }
+    ],
+    "collocations": [
+     "a historical figure",
+     "historical records"
+    ]
+   }
+  ],
+  "wordFamily": [
+   {
+    "form": "history",
+    "pos": "n",
+    "ko": "역사"
+   },
+   {
+    "form": "historian",
+    "pos": "n",
+    "ko": "역사학자"
+   }
+  ],
+  "confusables": [
+   {
+    "word": "historic",
+    "note": "historic은 '역사적으로 중요한'(a historic win), historical은 '역사에 관한'이다."
+   },
+   {
+    "word": "history",
+    "note": "history는 명사, historical은 형용사다. '역사 수업'은 a history class라고 한다."
+   }
+  ]
+ },
+ {
+  "id": "oppose",
+  "headword": "oppose",
+  "ipa": "/əˈpoʊz/",
+  "level": "MID",
+  "isCore": false,
+  "topic": "thinking_opinion",
+  "forms": [
+   "opposed",
+   "opposes",
+   "opposing"
+  ],
+  "senses": [
+   {
+    "id": "oppose-1",
+    "pos": "v",
+    "ko": "반대하다",
+    "en": "to disagree with a plan and try to stop it",
+    "nuance": "뒤에 전치사 없이 바로 목적어가 와서 oppose to the plan은 틀리고 oppose the plan이 맞다. 다만 be opposed to + 명사 형태는 맞는 표현이다.",
+    "pattern": "oppose + 명사 / be opposed to + 명사",
+    "examples": [
+     {
+      "en": "Most neighbors opposed the plan to close the park.",
+      "ko": "이웃 대부분이 공원을 닫는 계획에 반대했어.",
+      "focus": "opposed the plan"
+     },
+     {
+      "en": "My parents are strongly opposed to the idea.",
+      "ko": "우리 부모님은 그 생각에 강하게 반대하셔.",
+      "focus": "are strongly opposed to the idea"
+     }
+    ],
+    "collocations": [
+     "strongly oppose",
+     "be opposed to"
+    ]
+   }
+  ],
+  "wordFamily": [
+   {
+    "form": "opposition",
+    "pos": "n",
+    "ko": "반대, 반대편"
+   },
+   {
+    "form": "opposite",
+    "pos": "adj",
+    "ko": "반대의, 맞은편의"
+   }
+  ],
+  "confusables": [
+   {
+    "word": "object",
+    "note": "object는 object to + 명사로 전치사가 필요하고, oppose는 전치사 없이 바로 목적어를 받는다."
+   },
+   {
+    "word": "suppose",
+    "note": "철자가 비슷하지만 oppose는 '반대하다', suppose는 '~라고 생각하다'다."
+   }
+  ]
+ },
+ {
+  "id": "vehicle",
+  "headword": "vehicle",
+  "ipa": "/ˈviːɪkl/",
+  "level": "MID",
+  "isCore": false,
+  "topic": "travel_transport",
+  "forms": [
+   "vehicles"
+  ],
+  "senses": [
+   {
+    "id": "vehicle-1",
+    "pos": "n",
+    "ko": "차량, 탈것",
+    "en": "a machine with wheels that carries people or goods on roads",
+    "nuance": "발음에 h 소리가 없어서 /ˈviːɪkl/이다. 일상 대화에서는 car라고 하고 vehicle은 표지판·보험·경찰 안내 같은 공식적인 자리에서 쓴다.",
+    "pattern": "park / drive a vehicle",
+    "examples": [
+     {
+      "en": "Please don't park your vehicle in front of the gate.",
+      "ko": "차량을 문 앞에 주차하지 말아 주세요.",
+      "focus": "park your vehicle"
+     },
+     {
+      "en": "Only electric vehicles can use these two parking spots.",
+      "ko": "이 주차 자리 두 곳은 전기차만 쓸 수 있어.",
+      "focus": "Only electric vehicles"
+     }
+    ],
+    "collocations": [
+     "a motor vehicle",
+     "electric vehicles"
+    ]
+   }
+  ],
+  "confusables": [
+   {
+    "word": "car",
+    "note": "car는 승용차 한 종류, vehicle은 트럭·버스·오토바이까지 포함하는 공식적인 말이다."
+   },
+   {
+    "word": "transportation",
+    "note": "vehicle은 탈것 한 대, transportation은 이동 수단이나 교통이라는 개념 전체다."
+   }
+  ]
+ },
+ {
+  "id": "route",
+  "headword": "route",
+  "ipa": "/ruːt/",
+  "level": "MID",
+  "isCore": false,
+  "topic": "travel_transport",
+  "forms": [
+   "routes"
+  ],
+  "senses": [
+   {
+    "id": "route-1",
+    "pos": "n",
+    "ko": "경로, 길",
+    "en": "the way you go from one place to another",
+    "nuance": "길 자체(road)가 아니라 '어디를 지나가는가'라는 노선이다. 전치사는 on the way가 아니라 on this route, 버스 번호는 bus route 15처럼 쓴다.",
+    "pattern": "take a route / on this route",
+    "examples": [
+     {
+      "en": "Let's take the shorter route through the old town.",
+      "ko": "구시가지를 지나는 더 짧은 길로 가자.",
+      "focus": "take the shorter route"
+     },
+     {
+      "en": "This bus route stops right in front of my office.",
+      "ko": "이 버스 노선은 우리 사무실 바로 앞에 서.",
+      "focus": "This bus route stops"
+     }
+    ],
+    "collocations": [
+     "the fastest route",
+     "a bus route",
+     "change the route"
+    ]
+   }
+  ],
+  "confusables": [
+   {
+    "word": "road",
+    "note": "road는 아스팔트 길 자체, route는 출발지에서 목적지까지 지나가는 경로다."
+   },
+   {
+    "word": "root",
+    "note": "미국식에서 route는 root와 발음이 같아도 뜻은 '경로', root는 '뿌리'다."
+   }
+  ]
+ },
+ {
+  "id": "bind",
+  "headword": "bind",
+  "ipa": "/baɪnd/",
+  "level": "MID",
+  "isCore": false,
+  "topic": "abstract_general",
+  "forms": [
+   "binding",
+   "binds",
+   "bound"
+  ],
+  "senses": [
+   {
+    "id": "bind-1",
+    "pos": "v",
+    "ko": "묶다, 결속시키다",
+    "en": "to tie things together, or to make people feel closely joined",
+    "nuance": "과거형이 binded가 아니라 bound인 불규칙 동사다. 줄로 묶는 뜻보다 '사람·계약을 묶어 둔다'는 비유로 더 자주 만난다.",
+    "pattern": "bind + 목적어 + together",
+    "examples": [
+     {
+      "en": "A shared language binds the two towns together.",
+      "ko": "공통 언어가 두 마을을 하나로 묶어 줘.",
+      "focus": "binds the two towns together"
+     },
+     {
+      "en": "Once you sign, this contract binds both companies.",
+      "ko": "서명하면 이 계약은 두 회사를 구속해.",
+      "focus": "this contract binds both companies"
+     }
+    ],
+    "collocations": [
+     "legally binding",
+     "bind them together"
+    ]
+   }
+  ],
+  "confusables": [
+   {
+    "word": "tie",
+    "note": "tie는 신발끈처럼 실제로 매는 일상어, bind는 딱딱한 말이거나 비유로 쓴다."
+   },
+   {
+    "word": "bound",
+    "note": "bind의 과거·과거분사는 bound다. binded라는 형태는 없다."
+   }
+  ]
+ },
+ {
+  "id": "belong",
+  "headword": "belong",
+  "ipa": "/bɪˈlɔːŋ/",
+  "level": "MID",
+  "isCore": false,
+  "topic": "people_family",
+  "forms": [
+   "belonged",
+   "belonging",
+   "belongs"
+  ],
+  "senses": [
+   {
+    "id": "belong-1",
+    "pos": "v",
+    "ko": "~의 것이다, 속하다",
+    "en": "to be owned by someone, or to be part of a group",
+    "nuance": "진행형을 쓰지 않아서 It is belonging to me는 틀리고 It belongs to me가 맞다. 소유는 belong to, 소속은 belong to a club이다.",
+    "pattern": "belong to + 명사",
+    "examples": [
+     {
+      "en": "This umbrella belongs to Tom, not to me.",
+      "ko": "이 우산은 내 게 아니라 톰 거야.",
+      "focus": "belongs to Tom"
+     },
+     {
+      "en": "Mina belongs to a small book club near her office.",
+      "ko": "미나는 사무실 근처 작은 독서 모임에 속해 있어.",
+      "focus": "belongs to a small book club"
+     }
+    ],
+    "collocations": [
+     "belong to",
+     "belong here"
+    ]
+   }
+  ],
+  "wordFamily": [
+   {
+    "form": "belongings",
+    "pos": "n",
+    "ko": "소지품"
+   }
+  ],
+  "confusables": [
+   {
+    "word": "own",
+    "note": "own은 사람이 주어(I own this bike), belong은 물건이 주어(This bike belongs to me)다."
+   },
+   {
+    "word": "have",
+    "note": "have는 지금 갖고 있다는 뜻까지 되지만 belong to는 법적인 소유를 가리킨다."
+   }
+  ]
+ },
+ {
+  "id": "fashion",
+  "headword": "fashion",
+  "ipa": "/ˈfæʃn/",
+  "level": "MID",
+  "isCore": false,
+  "topic": "culture_arts",
+  "forms": [
+   "fashions"
+  ],
+  "senses": [
+   {
+    "id": "fashion-1",
+    "pos": "n",
+    "ko": "패션, 유행",
+    "en": "the style of clothes that many people like at one time",
+    "nuance": "분야를 말할 때는 관사 없이 work in fashion으로 쓴다. '유행이다'는 in fashion, '유행이 지났다'는 out of fashion이다.",
+    "pattern": "in / out of fashion",
+    "examples": [
+     {
+      "en": "Wide jeans are back in fashion again this year.",
+      "ko": "올해 다시 와이드 진이 유행이야.",
+      "focus": "back in fashion"
+     },
+     {
+      "en": "Emma studies fashion at a small college in London.",
+      "ko": "엠마는 런던의 작은 대학에서 패션을 공부해.",
+      "focus": "studies fashion"
+     }
+    ],
+    "collocations": [
+     "in fashion",
+     "out of fashion",
+     "the fashion industry"
+    ]
+   }
+  ],
+  "wordFamily": [
+   {
+    "form": "fashionable",
+    "pos": "adj",
+    "ko": "유행하는, 멋진"
+   }
+  ],
+  "confusables": [
+   {
+    "word": "style",
+    "note": "style은 개인의 취향, fashion은 그 시기 많은 사람이 따르는 흐름이다."
+   },
+   {
+    "word": "trend",
+    "note": "trend는 어느 분야든 쓰는 '흐름', fashion은 주로 옷차림 쪽이다."
+   }
+  ]
+ },
+ {
+  "id": "army",
+  "headword": "army",
+  "ipa": "/ˈɑːrmi/",
+  "level": "MID",
+  "isCore": false,
+  "topic": "society_politics",
+  "forms": [
+   "armies"
+  ],
+  "senses": [
+   {
+    "id": "army-1",
+    "pos": "n",
+    "ko": "군대, 육군",
+    "en": "the part of a country's forces that fights on land",
+    "nuance": "'군대에 있다·가다'는 the를 붙여 in the army, join the army라고 한다. 바다는 navy, 공군은 air force로 따로 부른다.",
+    "pattern": "join / be in the army",
+    "examples": [
+     {
+      "en": "My cousin joined the army right after high school.",
+      "ko": "내 사촌은 고등학교 졸업하고 바로 군대에 갔어.",
+      "focus": "joined the army"
+     },
+     {
+      "en": "Two armies faced each other across the river.",
+      "ko": "두 군대가 강을 건너 서로 마주 섰어.",
+      "focus": "Two armies faced each other"
+     }
+    ],
+    "collocations": [
+     "join the army",
+     "in the army"
+    ]
+   }
+  ],
+  "confusables": [
+   {
+    "word": "military",
+    "note": "army는 육군 하나, military는 육·해·공군 전체를 가리키는 말이다."
+   },
+   {
+    "word": "arm",
+    "note": "army는 '군대', arm은 '팔'이다. 복수 arms는 '무기'라는 뜻도 된다."
+   }
+  ]
+ },
+ {
+  "id": "dangerous",
+  "headword": "dangerous",
+  "ipa": "/ˈdeɪndʒərəs/",
+  "level": "MID",
+  "isCore": false,
+  "topic": "description_quality",
+  "senses": [
+   {
+    "id": "dangerous-1",
+    "pos": "adj",
+    "ko": "위험한",
+    "en": "likely to hurt or kill someone, or to cause harm",
+    "nuance": "'위험에 빠진' 사람은 dangerous가 아니라 in danger다. dangerous는 남을 위험하게 만드는 쪽을 가리킨다.",
+    "pattern": "It's dangerous to + 동사원형",
+    "examples": [
+     {
+      "en": "It's dangerous to text while you're crossing the street.",
+      "ko": "길 건널 때 문자하는 건 위험해.",
+      "focus": "dangerous to text"
+     },
+     {
+      "en": "That corner is dangerous for kids on bikes.",
+      "ko": "저 모퉁이는 자전거 타는 아이들에게 위험해.",
+      "focus": "is dangerous for kids"
+     }
+    ],
+    "collocations": [
+     "extremely dangerous",
+     "a dangerous place"
+    ]
+   }
+  ],
+  "wordFamily": [
+   {
+    "form": "danger",
+    "pos": "n",
+    "ko": "위험"
+   }
+  ],
+  "confusables": [
+   {
+    "word": "danger",
+    "note": "danger는 명사라 in danger로 쓰고, dangerous는 형용사라 It's dangerous로 쓴다."
+   },
+   {
+    "word": "risky",
+    "note": "risky는 손해 볼 가능성 쪽, dangerous는 몸을 다칠 수 있는 위험 쪽이다."
+   }
+  ]
+ },
+ {
+  "id": "decrease",
+  "headword": "decrease",
+  "ipa": "/dɪˈkriːs/",
+  "level": "MID",
+  "isCore": false,
+  "topic": "time_quantity",
+  "forms": [
+   "decreased",
+   "decreases",
+   "decreasing"
+  ],
+  "senses": [
+   {
+    "id": "decrease-1",
+    "pos": "v",
+    "ko": "줄다, 줄이다",
+    "en": "to become less in number or size, or to make it less",
+    "nuance": "'~에서 ~로 줄다'는 decrease from 50 to 30처럼 from과 to를 쓴다. 대화에서는 go down이나 drop이 더 자연스럽다.",
+    "pattern": "decrease from A to B / by + 수치",
+    "examples": [
+     {
+      "en": "Sales decreased by ten percent after the price went up.",
+      "ko": "가격이 오른 뒤 매출이 10퍼센트 줄었어.",
+      "focus": "decreased by ten percent"
+     },
+     {
+      "en": "Walking every day decreased my back pain a lot.",
+      "ko": "매일 걷는 게 허리 통증을 많이 줄여 줬어.",
+      "focus": "decreased my back pain"
+     }
+    ],
+    "collocations": [
+     "decrease sharply",
+     "decrease by half"
+    ]
+   },
+   {
+    "id": "decrease-2",
+    "pos": "n",
+    "ko": "감소",
+    "en": "the fact of becoming less, or the amount that is lost",
+    "nuance": "명사일 때는 앞에 강세를 두어 /ˈdiːkriːs/로 읽는다. 'A의 감소'는 a decrease in A로 of가 아니라 in을 쓴다.",
+    "examples": [
+     {
+      "en": "There was a small decrease in visitors last winter.",
+      "ko": "지난겨울에 방문객이 조금 줄었어.",
+      "focus": "a small decrease in visitors"
+     }
+    ]
+   }
+  ],
+  "confusables": [
+   {
+    "word": "increase",
+    "note": "decrease는 줄어드는 것, increase는 늘어나는 것이다. 전치사는 둘 다 in을 쓴다."
+   },
+   {
+    "word": "reduce",
+    "note": "reduce는 사람이 줄이는 타동사로 주로 쓰고, decrease는 저절로 줄어들 때도 쓴다."
+   }
+  ]
+ },
+ {
+  "id": "council",
+  "headword": "council",
+  "ipa": "/ˈkaʊnsl/",
+  "level": "MID",
+  "isCore": false,
+  "topic": "society_politics",
+  "forms": [
+   "councils"
+  ],
+  "senses": [
+   {
+    "id": "council-1",
+    "pos": "n",
+    "ko": "의회, 위원회",
+    "en": "a group of people chosen to make rules for a city or group",
+    "nuance": "동사 counsel(조언하다)과 발음이 같아 철자를 자주 틀린다. 도시 행정기관을 말할 때는 the city council처럼 the를 붙인다.",
+    "pattern": "the city council",
+    "examples": [
+     {
+      "en": "The city council voted to build a new library.",
+      "ko": "시의회가 새 도서관을 짓기로 표결했어.",
+      "focus": "The city council voted"
+     },
+     {
+      "en": "Our student council meets every Thursday after lunch.",
+      "ko": "우리 학생회는 매주 목요일 점심 후에 모여.",
+      "focus": "Our student council meets"
+     }
+    ],
+    "collocations": [
+     "the city council",
+     "a council meeting"
+    ]
+   }
+  ],
+  "confusables": [
+   {
+    "word": "counsel",
+    "note": "council은 명사 '위원회', counsel은 '조언하다·조언'이다. 발음이 같아 헷갈린다."
+   },
+   {
+    "word": "committee",
+    "note": "committee는 한 가지 일을 맡은 소위원회, council은 지역이나 조직을 대표하는 기구다."
+   }
+  ]
+ },
+ {
+  "id": "editor",
+  "headword": "editor",
+  "ipa": "/ˈedɪtər/",
+  "level": "MID",
+  "isCore": false,
+  "topic": "communication",
+  "forms": [
+   "editors"
+  ],
+  "senses": [
+   {
+    "id": "editor-1",
+    "pos": "n",
+    "ko": "편집자, 편집장",
+    "en": "a person who checks and decides what goes into a book or paper",
+    "nuance": "직업을 말할 때 She is an editor처럼 관사를 꼭 붙인다. 영상 편집도 a video editor라고 하고 프로그램 이름으로도 쓴다.",
+    "pattern": "an editor at + 회사",
+    "examples": [
+     {
+      "en": "The editor cut two pages from my article.",
+      "ko": "편집자가 내 기사에서 두 페이지를 잘랐어.",
+      "focus": "The editor cut two pages"
+     },
+     {
+      "en": "Tom works as an editor at a small magazine.",
+      "ko": "톰은 작은 잡지사에서 편집자로 일해.",
+      "focus": "works as an editor"
+     }
+    ],
+    "collocations": [
+     "the chief editor",
+     "a video editor"
+    ]
+   }
+  ],
+  "wordFamily": [
+   {
+    "form": "edit",
+    "pos": "v",
+    "ko": "편집하다, 수정하다"
+   },
+   {
+    "form": "edition",
+    "pos": "n",
+    "ko": "판, 호"
+   }
+  ],
+  "confusables": [
+   {
+    "word": "edition",
+    "note": "editor는 사람, edition은 책이나 신문의 '판'이다. 철자 끝이 다르다."
+   },
+   {
+    "word": "writer",
+    "note": "writer는 글을 쓰는 사람, editor는 그 글을 고치고 실을지 정하는 사람이다."
+   }
+  ]
+ },
+ {
+  "id": "normally",
+  "headword": "normally",
+  "ipa": "/ˈnɔːrməli/",
+  "level": "MID",
+  "isCore": false,
+  "topic": "time_quantity",
+  "senses": [
+   {
+    "id": "normally-1",
+    "pos": "adv",
+    "ko": "보통, 평소에는",
+    "en": "in most cases, or in the way that usually happens",
+    "nuance": "'보통은 그런데 지금은 다르다'는 뉘앙스가 있어서 뒤에 but이 자주 따라온다. 위치는 일반동사 앞, be동사 뒤다.",
+    "pattern": "normally + 동사",
+    "examples": [
+     {
+      "en": "I normally take the bus, but today I walked.",
+      "ko": "보통은 버스를 타는데 오늘은 걸어왔어.",
+      "focus": "normally take the bus"
+     },
+     {
+      "en": "The shop is normally closed on Mondays.",
+      "ko": "그 가게는 보통 월요일에 문을 닫아.",
+      "focus": "is normally closed"
+     }
+    ],
+    "collocations": [
+     "normally take",
+     "would normally"
+    ]
+   }
+  ],
+  "wordFamily": [
+   {
+    "form": "normal",
+    "pos": "adj",
+    "ko": "보통의, 정상의"
+   }
+  ],
+  "confusables": [
+   {
+    "word": "usually",
+    "note": "usually는 단순한 빈도, normally는 '원래 이런 게 정상'이라는 느낌이 조금 더 있다."
+   },
+   {
+    "word": "formally",
+    "note": "철자가 비슷하지만 normally는 '보통', formally는 '공식적으로'다."
+   }
+  ]
+ },
+ {
+  "id": "generate",
+  "headword": "generate",
+  "ipa": "/ˈdʒenəreɪt/",
+  "level": "MID",
+  "isCore": false,
+  "topic": "environment_science",
+  "forms": [
+   "generated",
+   "generates",
+   "generating"
+  ],
+  "senses": [
+   {
+    "id": "generate-1",
+    "pos": "v",
+    "ko": "만들어 내다, 발생시키다",
+    "en": "to cause something such as power, money, or interest to appear",
+    "nuance": "손으로 물건을 만드는 게 아니라 전기·수익·관심처럼 눈에 안 보이는 것을 생기게 할 때 쓴다. 물건은 make나 produce다.",
+    "pattern": "generate + 추상명사",
+    "examples": [
+     {
+      "en": "These panels generate enough power for the whole house.",
+      "ko": "이 패널들이 집 전체에 쓸 전기를 만들어 내.",
+      "focus": "generate enough power"
+     },
+     {
+      "en": "Her short video generated a lot of interest online.",
+      "ko": "그녀의 짧은 영상이 온라인에서 큰 관심을 끌었어.",
+      "focus": "generated a lot of interest"
+     }
+    ],
+    "collocations": [
+     "generate electricity",
+     "generate income",
+     "generate interest"
+    ]
+   }
+  ],
+  "wordFamily": [
+   {
+    "form": "generation",
+    "pos": "n",
+    "ko": "세대, 발생"
+   },
+   {
+    "form": "generator",
+    "pos": "n",
+    "ko": "발전기"
+   }
+  ],
+  "confusables": [
+   {
+    "word": "make",
+    "note": "make는 손으로 만드는 물건에도 쓰지만 generate는 전기·수익 같은 추상적인 것에 쓴다."
+   },
+   {
+    "word": "generous",
+    "note": "철자가 비슷해도 generate는 '만들어 내다', generous는 '너그러운'이다."
+   }
+  ]
+ },
+ {
+  "id": "delivery",
+  "headword": "delivery",
+  "ipa": "/dɪˈlɪvəri/",
+  "level": "MID",
+  "isCore": false,
+  "topic": "money_shopping",
+  "forms": [
+   "deliveries"
+  ],
+  "senses": [
+   {
+    "id": "delivery-1",
+    "pos": "n",
+    "ko": "배달, 배송",
+    "en": "the act of taking goods to a person's home or shop",
+    "nuance": "서비스 자체를 말할 때는 free delivery처럼 관사 없이, 배달 한 건은 a delivery로 센다. '배달 음식'은 delivery food보다 food delivery나 takeout이 자연스럽다.",
+    "pattern": "free / next-day delivery",
+    "examples": [
+     {
+      "en": "The shop offers free delivery on orders over thirty dollars.",
+      "ko": "그 가게는 30달러 넘게 주문하면 무료 배송해 줘.",
+      "focus": "free delivery on orders"
+     },
+     {
+      "en": "I'm waiting for a delivery, so I can't go out.",
+      "ko": "배달 기다리는 중이라 못 나가.",
+      "focus": "waiting for a delivery"
+     }
+    ],
+    "collocations": [
+     "free delivery",
+     "a delivery service"
+    ]
+   }
+  ],
+  "wordFamily": [
+   {
+    "form": "deliver",
+    "pos": "v",
+    "ko": "배달하다, 전하다"
+   }
+  ],
+  "confusables": [
+   {
+    "word": "deliver",
+    "note": "deliver는 동사, delivery는 명사다. '배달돼요?'는 Do you deliver?라고 묻는다."
+   },
+   {
+    "word": "shipping",
+    "note": "shipping은 보내는 비용·절차 쪽 말이고, delivery는 받는 쪽에 도착하는 일이다."
+   }
+  ]
+ },
+ {
+  "id": "deny",
+  "headword": "deny",
+  "ipa": "/dɪˈnaɪ/",
+  "level": "MID",
+  "isCore": false,
+  "topic": "communication",
+  "forms": [
+   "denied",
+   "denies",
+   "denying"
+  ],
+  "senses": [
+   {
+    "id": "deny-1",
+    "pos": "v",
+    "ko": "부인하다, 아니라고 하다",
+    "en": "to say that something is not true, or that you did not do it",
+    "nuance": "뒤에 -ing나 that절이 오고 deny to do는 쓰지 않는다. 요청을 '거절하다'는 deny가 아니라 refuse다.",
+    "pattern": "deny + -ing / that절",
+    "examples": [
+     {
+      "en": "He denied breaking the window, but nobody believed him.",
+      "ko": "그는 창문을 깼다는 걸 부인했지만 아무도 믿지 않았어.",
+      "focus": "denied breaking the window"
+     },
+     {
+      "en": "She denies that she ever saw the message.",
+      "ko": "그녀는 그 메시지를 본 적이 없다고 부인해.",
+      "focus": "denies that she ever saw"
+     }
+    ],
+    "collocations": [
+     "flatly deny",
+     "deny the charges"
+    ]
+   }
+  ],
+  "wordFamily": [
+   {
+    "form": "denial",
+    "pos": "n",
+    "ko": "부인, 부정"
+   }
+  ],
+  "confusables": [
+   {
+    "word": "refuse",
+    "note": "deny는 '사실이 아니다'라고 하는 것, refuse는 '하지 않겠다'고 거절하는 것이다."
+   },
+   {
+    "word": "admit",
+    "note": "deny의 반대말은 admit이다. 둘 다 뒤에 to부정사가 아니라 -ing를 쓴다."
+   }
+  ]
+ },
+ {
+  "id": "quote",
+  "headword": "quote",
+  "ipa": "/kwoʊt/",
+  "level": "MID",
+  "isCore": false,
+  "topic": "communication",
+  "forms": [
+   "quoted",
+   "quotes",
+   "quoting"
+  ],
+  "senses": [
+   {
+    "id": "quote-1",
+    "pos": "v",
+    "ko": "인용하다, 그대로 옮기다",
+    "en": "to repeat the exact words that another person said or wrote",
+    "nuance": "말한 사람을 목적어로 두어 quote Mina라고도 하고, 말 자체를 목적어로도 쓴다. 자기 말로 요약하면 quote가 아니라 paraphrase다.",
+    "pattern": "quote + 사람/말",
+    "examples": [
+     {
+      "en": "Don't quote me on this, but the office may close.",
+      "ko": "내 말이라고 옮기진 말고, 사무실이 닫을 수도 있어.",
+      "focus": "quote me on this"
+     },
+     {
+      "en": "The article quoted a teacher from our old school.",
+      "ko": "그 기사는 우리 옛 학교 선생님 말을 인용했어.",
+      "focus": "quoted a teacher"
+     }
+    ],
+    "collocations": [
+     "quote a price",
+     "widely quoted"
+    ]
+   },
+   {
+    "id": "quote-2",
+    "pos": "n",
+    "ko": "인용구, 견적",
+    "en": "words taken from a text, or a price offered for a job",
+    "nuance": "책·연설에서 따온 말도 quote이고, 수리비 견적도 a quote다. 견적을 받을 때는 get a quote로 굳어져 있다.",
+    "examples": [
+     {
+      "en": "I got a quote for fixing the roof yesterday.",
+      "ko": "어제 지붕 고치는 견적을 받았어.",
+      "focus": "got a quote for fixing the roof"
+     }
+    ]
+   }
+  ],
+  "wordFamily": [
+   {
+    "form": "quotation",
+    "pos": "n",
+    "ko": "인용, 견적서"
+   }
+  ],
+  "confusables": [
+   {
+    "word": "quite",
+    "note": "철자가 한 글자 차이다. quote는 '인용하다', quite는 '꽤'라는 부사다."
+   },
+   {
+    "word": "mention",
+    "note": "mention은 가볍게 언급하는 것, quote는 한 말을 그대로 옮기는 것이다."
+   }
+  ]
+ },
+ {
+  "id": "basically",
+  "headword": "basically",
+  "ipa": "/ˈbeɪsɪkli/",
+  "level": "MID",
+  "isCore": false,
+  "topic": "communication",
+  "senses": [
+   {
+    "id": "basically-1",
+    "pos": "adv",
+    "ko": "기본적으로, 한마디로",
+    "en": "used to say the main point simply, without the small details",
+    "nuance": "말을 간단히 정리할 때 문장 앞에 붙이는 구어 표현이다. 격식 있는 글에서는 essentially나 in short를 쓴다.",
+    "pattern": "Basically, + 문장",
+    "examples": [
+     {
+      "en": "Basically, we need one more person to finish today.",
+      "ko": "한마디로 오늘 끝내려면 한 명 더 필요해.",
+      "focus": "Basically, we need one more person"
+     },
+     {
+      "en": "The two plans are basically the same thing.",
+      "ko": "그 두 계획은 기본적으로 같은 거야.",
+      "focus": "basically the same thing"
+     }
+    ],
+    "collocations": [
+     "basically the same",
+     "basically, it's"
+    ]
+   }
+  ],
+  "wordFamily": [
+   {
+    "form": "basic",
+    "pos": "adj",
+    "ko": "기본적인"
+   }
+  ],
+  "confusables": [
+   {
+    "word": "actually",
+    "note": "basically는 요점을 정리할 때, actually는 상대 생각을 바로잡을 때 쓴다."
+   },
+   {
+    "word": "basic",
+    "note": "basic은 형용사(basic rules), basically는 부사다. basic하게라고 섞어 쓰지 않는다."
+   }
+  ]
+ },
+ {
+  "id": "violence",
+  "headword": "violence",
+  "ipa": "/ˈvaɪələns/",
+  "level": "MID",
+  "isCore": false,
+  "topic": "society_politics",
+  "senses": [
+   {
+    "id": "violence-1",
+    "pos": "n",
+    "ko": "폭력",
+    "en": "behaviour that is meant to hurt or damage people or things",
+    "nuance": "셀 수 없는 명사라 a violence나 violences라고 하지 않는다. 형용사 violent와 헷갈리지 않게 violence는 명사 자리에만 쓴다.",
+    "pattern": "violence against + 명사",
+    "examples": [
+     {
+      "en": "The film has too much violence for young children.",
+      "ko": "그 영화는 어린아이들에게 폭력적인 장면이 너무 많아.",
+      "focus": "too much violence"
+     },
+     {
+      "en": "Teachers talk to students about violence in schools.",
+      "ko": "선생님들은 학교 폭력에 대해 학생들과 이야기해.",
+      "focus": "about violence in schools"
+     }
+    ],
+    "collocations": [
+     "domestic violence",
+     "an act of violence"
+    ]
+   }
+  ],
+  "wordFamily": [
+   {
+    "form": "violent",
+    "pos": "adj",
+    "ko": "폭력적인, 격렬한"
+   }
+  ],
+  "confusables": [
+   {
+    "word": "violent",
+    "note": "violence는 명사, violent는 형용사다. '폭력적인 영화'는 a violent film이다."
+   },
+   {
+    "word": "silence",
+    "note": "끝이 -lence로 같아 헷갈린다. violence는 '폭력', silence는 '침묵'이다."
+   }
+  ]
+ },
+ {
+  "id": "minister",
+  "headword": "minister",
+  "ipa": "/ˈmɪnɪstər/",
+  "level": "MID",
+  "isCore": false,
+  "topic": "society_politics",
+  "forms": [
+   "ministers"
+  ],
+  "senses": [
+   {
+    "id": "minister-1",
+    "pos": "n",
+    "ko": "장관, 목사",
+    "en": "a senior member of a government, or a church leader",
+    "nuance": "직책 이름으로 쓰면 the Minister of Health처럼 대문자로 쓴다. 미국 정부는 minister가 아니라 secretary라고 부른다.",
+    "pattern": "the Minister of + 분야",
+    "examples": [
+     {
+      "en": "The finance minister answered questions for two hours.",
+      "ko": "재무 장관이 두 시간 동안 질문에 답했어.",
+      "focus": "The finance minister answered questions"
+     },
+     {
+      "en": "Several ministers left the meeting without saying anything.",
+      "ko": "장관 몇 명이 아무 말 없이 회의장을 떠났어.",
+      "focus": "Several ministers left the meeting"
+     }
+    ],
+    "collocations": [
+     "the prime minister",
+     "a foreign minister"
+    ]
+   }
+  ],
+  "confusables": [
+   {
+    "word": "ministry",
+    "note": "minister는 사람(장관), ministry는 기관(부처)이다. 교육부는 the Ministry of Education이다."
+   },
+   {
+    "word": "secretary",
+    "note": "미국에서는 같은 직책을 secretary라 부른다. 영국·한국 맥락에서는 minister를 쓴다."
+   }
+  ]
+ },
+ {
+  "id": "mainly",
+  "headword": "mainly",
+  "ipa": "/ˈmeɪnli/",
+  "level": "MID",
+  "isCore": false,
+  "topic": "time_quantity",
+  "senses": [
+   {
+    "id": "mainly-1",
+    "pos": "adv",
+    "ko": "주로, 대부분",
+    "en": "more than anything else, but not completely",
+    "nuance": "빈도가 아니라 비중을 말해서 '주로 ~이다'라는 뜻이다. '주로 ~한다'라는 습관은 mainly가 아니라 usually를 쓴다.",
+    "pattern": "mainly + 명사/형용사",
+    "examples": [
+     {
+      "en": "The class is mainly for people who work at night.",
+      "ko": "그 수업은 주로 야간에 일하는 사람들을 위한 거야.",
+      "focus": "mainly for people who work at night"
+     },
+     {
+      "en": "We eat mainly vegetables during the hot summer months.",
+      "ko": "더운 여름철에는 주로 채소를 먹어.",
+      "focus": "eat mainly vegetables"
+     }
+    ],
+    "collocations": [
+     "mainly because",
+     "mainly for"
+    ]
+   }
+  ],
+  "wordFamily": [
+   {
+    "form": "main",
+    "pos": "adj",
+    "ko": "주된, 주요한"
+   }
+  ],
+  "confusables": [
+   {
+    "word": "usually",
+    "note": "mainly는 '비중이 크다', usually는 '자주 그렇다'로 빈도를 말한다."
+   },
+   {
+    "word": "mostly",
+    "note": "뜻이 거의 같지만 mostly가 더 구어적이고, mainly는 이유를 말할 때 잘 어울린다."
+   }
+  ]
+ },
+ {
+  "id": "manner",
+  "headword": "manner",
+  "ipa": "/ˈmænər/",
+  "level": "MID",
+  "isCore": false,
+  "topic": "people_family",
+  "forms": [
+   "manners"
+  ],
+  "senses": [
+   {
+    "id": "manner-1",
+    "pos": "n",
+    "ko": "태도, 방식",
+    "en": "the way a person behaves or the way something is done",
+    "nuance": "단수 manner는 '태도·방식'이고 복수 manners는 '예의'라서 뜻이 달라진다. '~하는 방식'은 in a friendly manner처럼 in a와 함께 쓴다.",
+    "pattern": "in a + 형용사 + manner",
+    "examples": [
+     {
+      "en": "The nurse explained everything in a very calm manner.",
+      "ko": "간호사가 아주 차분한 태도로 다 설명해 줬어.",
+      "focus": "in a very calm manner"
+     },
+     {
+      "en": "His friendly manner makes new students feel welcome.",
+      "ko": "그의 친근한 태도가 신입생들을 편하게 해 줘.",
+      "focus": "His friendly manner"
+     }
+    ],
+    "collocations": [
+     "in this manner",
+     "a friendly manner"
+    ]
+   },
+   {
+    "id": "manner-2",
+    "pos": "n",
+    "ko": "예의, 매너",
+    "en": "polite ways of behaving around other people",
+    "nuance": "이 뜻으로는 반드시 복수 manners로 쓴다. Where are your manners?는 아이에게 '예의를 지켜라'라고 할 때 쓰는 말이다.",
+    "examples": [
+     {
+      "en": "Her kids have better table manners than mine.",
+      "ko": "그 집 애들이 우리 애들보다 식사 예절이 좋아.",
+      "focus": "better table manners"
+     }
+    ]
+   }
+  ],
+  "confusables": [
+   {
+    "word": "way",
+    "note": "일상 대화에서는 in this way가 자연스럽고, in this manner는 격식 있는 표현이다."
+   },
+   {
+    "word": "attitude",
+    "note": "attitude는 마음속 생각이나 자세, manner는 겉으로 보이는 태도와 말투다."
+   }
+  ]
+ },
+ {
+  "id": "gun",
+  "headword": "gun",
+  "ipa": "/ɡʌn/",
+  "level": "MID",
+  "isCore": false,
+  "topic": "society_politics",
+  "forms": [
+   "guns"
+  ],
+  "senses": [
+   {
+    "id": "gun-1",
+    "pos": "n",
+    "ko": "총",
+    "en": "a weapon that shoots small pieces of metal very fast",
+    "nuance": "셀 수 있는 명사라 a gun으로 쓴다. '총을 쏘다'는 shoot a gun이나 fire a gun이고, shoot이 총알 쪽 동사다.",
+    "pattern": "carry / fire a gun",
+    "examples": [
+     {
+      "en": "In the film, the officer never carries a gun.",
+      "ko": "그 영화에서 그 경관은 총을 절대 안 들고 다녀.",
+      "focus": "carries a gun"
+     },
+     {
+      "en": "New laws made it harder to buy guns here.",
+      "ko": "새 법 때문에 여기서 총을 사기가 더 어려워졌어.",
+      "focus": "harder to buy guns"
+     }
+    ],
+    "collocations": [
+     "gun control",
+     "carry a gun"
+    ]
+   }
+  ],
+  "confusables": [
+   {
+    "word": "weapon",
+    "note": "weapon은 칼·폭탄까지 포함한 무기 전체, gun은 총 종류만 가리킨다."
+   },
+   {
+    "word": "shoot",
+    "note": "gun은 명사다. '총을 쏘다'는 gun하지 않고 shoot이나 fire a gun을 쓴다."
+   }
+  ]
+ },
+ {
+  "id": "square",
+  "headword": "square",
+  "ipa": "/skwer/",
+  "level": "MID",
+  "isCore": false,
+  "topic": "description_quality",
+  "forms": [
+   "squares"
+  ],
+  "senses": [
+   {
+    "id": "square-1",
+    "pos": "n",
+    "ko": "정사각형, 광장",
+    "en": "a shape with four equal sides, or an open space in a city",
+    "nuance": "도시의 광장 이름에는 Times Square처럼 관사 없이 쓴다. 면적 단위는 명사 앞에 붙여 square meters라고 한다.",
+    "pattern": "in the square",
+    "examples": [
+     {
+      "en": "We waited for Jun in the square near city hall.",
+      "ko": "우리는 시청 근처 광장에서 준을 기다렸어.",
+      "focus": "in the square near city hall"
+     },
+     {
+      "en": "Cut the cake into nine equal squares, please.",
+      "ko": "케이크를 똑같은 정사각형 아홉 개로 잘라 줘.",
+      "focus": "into nine equal squares"
+     }
+    ],
+    "collocations": [
+     "a town square",
+     "square meters"
+    ]
+   },
+   {
+    "id": "square-2",
+    "pos": "adj",
+    "ko": "정사각형의, 네모난",
+    "en": "having four straight sides of the same length",
+    "nuance": "비교급 squarer는 거의 쓰지 않고 more square처럼 말하는 편이 안전하다. '네모난'은 square, '직사각형의'는 rectangular다.",
+    "examples": [
+     {
+      "en": "I want a square table, not a round one.",
+      "ko": "둥근 게 아니라 네모난 테이블이 좋아.",
+      "focus": "a square table"
+     }
+    ]
+   }
+  ],
+  "confusables": [
+   {
+    "word": "plaza",
+    "note": "square는 도시의 열린 광장, plaza는 상가나 호텔 앞 포장된 공간을 주로 말한다."
+   },
+   {
+    "word": "rectangle",
+    "note": "square는 네 변이 모두 같고, rectangle은 가로세로 길이가 다른 직사각형이다."
+   }
+  ]
+ },
+ {
+  "id": "occasion",
+  "headword": "occasion",
+  "ipa": "/əˈkeɪʒn/",
+  "level": "MID",
+  "isCore": false,
+  "topic": "time_quantity",
+  "forms": [
+   "occasions"
+  ],
+  "senses": [
+   {
+    "id": "occasion-1",
+    "pos": "n",
+    "ko": "때, 경우",
+    "en": "a time when something happens, or one special event",
+    "nuance": "'특별한 날'은 a special occasion, '몇 번은'은 on several occasions처럼 on을 쓴다. 기회를 말할 때는 occasion이 아니라 chance나 opportunity다.",
+    "pattern": "on + 형용사 + occasion(s)",
+    "examples": [
+     {
+      "en": "Mina only wears that dress on special occasions.",
+      "ko": "미나는 특별한 날에만 그 원피스를 입어.",
+      "focus": "on special occasions"
+     },
+     {
+      "en": "On one occasion, the train left ten minutes early.",
+      "ko": "한 번은 기차가 10분 일찍 떠난 적이 있어.",
+      "focus": "On one occasion"
+     }
+    ],
+    "collocations": [
+     "a special occasion",
+     "on several occasions"
+    ]
+   }
+  ],
+  "wordFamily": [
+   {
+    "form": "occasionally",
+    "pos": "adv",
+    "ko": "때때로, 이따금"
+   }
+  ],
+  "confusables": [
+   {
+    "word": "opportunity",
+    "note": "occasion은 '그 일이 있었던 때', opportunity는 '할 수 있는 기회'다."
+   },
+   {
+    "word": "event",
+    "note": "event는 행사 자체, occasion은 그 행사가 있었던 때나 경우를 가리킨다."
+   }
+  ]
+ },
+ {
+  "id": "familiar",
+  "headword": "familiar",
+  "ipa": "/fəˈmɪliər/",
+  "level": "MID",
+  "isCore": false,
+  "topic": "description_quality",
+  "senses": [
+   {
+    "id": "familiar-1",
+    "pos": "adj",
+    "ko": "익숙한, 낯익은",
+    "en": "easy to recognize because you have seen or heard it before",
+    "nuance": "전치사를 두 방향으로 쓴다. 사물이 주어면 familiar to me, 사람이 주어면 familiar with the rules다.",
+    "pattern": "be familiar with / to + 명사",
+    "examples": [
+     {
+      "en": "Your face looks familiar. Did we meet in Busan?",
+      "ko": "얼굴이 낯익네. 부산에서 만난 적 있나요?",
+      "focus": "looks familiar"
+     },
+     {
+      "en": "Are you familiar with this coffee machine?",
+      "ko": "이 커피 머신 사용법 알아?",
+      "focus": "familiar with this coffee machine"
+     }
+    ],
+    "collocations": [
+     "sound familiar",
+     "familiar with"
+    ]
+   }
+  ],
+  "confusables": [
+   {
+    "word": "family",
+    "note": "철자가 비슷하지만 familiar는 형용사 '익숙한', family는 명사 '가족'이다."
+   },
+   {
+    "word": "friendly",
+    "note": "friendly는 사람이 다정한 것, familiar는 전에 본 적 있어 낯익은 것이다."
+   }
+  ]
+ },
+ {
+  "id": "ignore",
+  "headword": "ignore",
+  "ipa": "/ɪɡˈnɔːr/",
+  "level": "MID",
+  "isCore": false,
+  "topic": "communication",
+  "forms": [
+   "ignored",
+   "ignores",
+   "ignoring"
+  ],
+  "senses": [
+   {
+    "id": "ignore-1",
+    "pos": "v",
+    "ko": "무시하다, 못 본 척하다",
+    "en": "to pay no attention to someone or something on purpose",
+    "nuance": "'몰랐다'가 아니라 알면서 일부러 안 본다는 뜻이다. 사람을 깔본다는 한국어 '무시하다'는 look down on이라서 다르다.",
+    "pattern": "ignore + 명사",
+    "examples": [
+     {
+      "en": "Just ignore the noise upstairs and keep studying.",
+      "ko": "위층 소음은 무시하고 계속 공부해.",
+      "focus": "ignore the noise upstairs"
+     },
+     {
+      "en": "Tom ignored my three texts about the weekend plan.",
+      "ko": "톰은 주말 계획에 대한 내 문자 세 개를 무시했어.",
+      "focus": "ignored my three texts"
+     }
+    ],
+    "collocations": [
+     "completely ignore",
+     "ignore a warning"
+    ]
+   }
+  ],
+  "confusables": [
+   {
+    "word": "neglect",
+    "note": "neglect는 돌봐야 할 것을 방치하는 것, ignore는 알면서 관심을 주지 않는 것이다."
+   },
+   {
+    "word": "look down on",
+    "note": "사람을 낮춰 본다는 뜻의 '무시하다'는 ignore가 아니라 look down on이다."
+   }
+  ]
+ },
+ {
+  "id": "destroy",
+  "headword": "destroy",
+  "ipa": "/dɪˈstrɔɪ/",
+  "level": "MID",
+  "isCore": false,
+  "topic": "movement_action",
+  "forms": [
+   "destroyed",
+   "destroying",
+   "destroys"
+  ],
+  "senses": [
+   {
+    "id": "destroy-1",
+    "pos": "v",
+    "ko": "파괴하다, 망가뜨리다",
+    "en": "to damage something so badly that it cannot be used again",
+    "nuance": "고칠 수 없을 정도로 완전히 부술 때만 쓴다. 조금 깨지거나 흠이 난 건 break나 damage다.",
+    "pattern": "destroy + 명사",
+    "examples": [
+     {
+      "en": "The fire destroyed two shops on our street.",
+      "ko": "화재로 우리 동네 가게 두 곳이 완전히 타 버렸어.",
+      "focus": "destroyed two shops"
+     },
+     {
+      "en": "Please don't destroy the photos when you clean up.",
+      "ko": "정리할 때 사진들은 없애지 말아 줘.",
+      "focus": "destroy the photos"
+     }
+    ],
+    "collocations": [
+     "completely destroy",
+     "destroy the evidence"
+    ]
+   }
+  ],
+  "wordFamily": [
+   {
+    "form": "destruction",
+    "pos": "n",
+    "ko": "파괴"
+   }
+  ],
+  "confusables": [
+   {
+    "word": "damage",
+    "note": "damage는 일부가 상한 것, destroy는 다시 못 쓸 만큼 완전히 부서진 것이다."
+   },
+   {
+    "word": "break",
+    "note": "break는 컵처럼 물건 하나가 깨지는 일상어, destroy는 훨씬 큰 규모에 쓴다."
+   }
+  ]
+ },
+ {
+  "id": "affair",
+  "headword": "affair",
+  "ipa": "/əˈfer/",
+  "level": "MID",
+  "isCore": false,
+  "topic": "abstract_general",
+  "forms": [
+   "affairs"
+  ],
+  "senses": [
+   {
+    "id": "affair-1",
+    "pos": "n",
+    "ko": "일, 사안",
+    "en": "an event or situation that people talk about or deal with",
+    "nuance": "'내 일이야'는 my affair도 되지만 일상에서는 my business가 훨씬 흔하다. 나라 사이 문제는 복수로 foreign affairs라고 쓴다.",
+    "pattern": "current / foreign affairs",
+    "examples": [
+     {
+      "en": "How I spend my money is my own affair.",
+      "ko": "내 돈을 어떻게 쓰든 내 일이야.",
+      "focus": "my own affair"
+     },
+     {
+      "en": "Emma reads about foreign affairs every Sunday morning.",
+      "ko": "엠마는 일요일 아침마다 국제 문제 기사를 읽어.",
+      "focus": "about foreign affairs"
+     }
+    ],
+    "collocations": [
+     "current affairs",
+     "foreign affairs"
+    ]
+   }
+  ],
+  "confusables": [
+   {
+    "word": "business",
+    "note": "'남의 일에 참견 말라'는 Mind your own business가 자연스럽고 affair는 격식체다."
+   },
+   {
+    "word": "afraid",
+    "note": "철자가 비슷해도 affair는 명사 '일', afraid는 형용사 '두려운'이다."
+   }
+  ]
+ },
+ {
+  "id": "civil",
+  "headword": "civil",
+  "ipa": "/ˈsɪvl/",
+  "level": "MID",
+  "isCore": false,
+  "topic": "society_politics",
+  "senses": [
+   {
+    "id": "civil-1",
+    "pos": "adj",
+    "ko": "시민의, 민간의",
+    "en": "about the people of a country rather than the army or church",
+    "nuance": "혼자 쓰기보다 civil rights, civil war, civil servant처럼 굳은 짝으로 외우는 게 낫다. '예의 있는'이라는 뜻도 있지만 polite가 더 흔하다.",
+    "pattern": "civil + 명사",
+    "examples": [
+     {
+      "en": "My aunt has been a civil servant for twelve years.",
+      "ko": "우리 이모는 12년째 공무원이야.",
+      "focus": "a civil servant"
+     },
+     {
+      "en": "The class studies how civil rights changed the country.",
+      "ko": "그 수업은 시민권이 나라를 어떻게 바꿨는지 배워.",
+      "focus": "how civil rights changed"
+     }
+    ],
+    "collocations": [
+     "civil rights",
+     "a civil servant",
+     "civil war"
+    ]
+   }
+  ],
+  "confusables": [
+   {
+    "word": "civilian",
+    "note": "civil은 형용사, civilian은 '민간인'이라는 명사다. 군인의 반대말은 a civilian이다."
+   },
+   {
+    "word": "polite",
+    "note": "'예의 있다'는 뜻은 civil보다 polite가 자연스럽다. civil은 딱딱하고 차가운 느낌이다."
+   }
+  ]
+ },
+ {
+  "id": "locate",
+  "headword": "locate",
+  "ipa": "/ˈloʊkeɪt/",
+  "level": "MID",
+  "isCore": false,
+  "topic": "travel_transport",
+  "forms": [
+   "located",
+   "locates",
+   "locating"
+  ],
+  "senses": [
+   {
+    "id": "locate-1",
+    "pos": "v",
+    "ko": "위치를 찾다, 위치하다",
+    "en": "to find exactly where something is, or to put it in a place",
+    "nuance": "'어디에 있다'는 be located in처럼 수동형으로 쓰고 locates in이라고 하지 않는다. 능동으로 쓰면 '찾아내다'라는 뜻이다.",
+    "pattern": "be located in / near + 장소",
+    "examples": [
+     {
+      "en": "The office is located right next to the subway exit.",
+      "ko": "그 사무실은 지하철 출구 바로 옆에 있어.",
+      "focus": "is located right next to the subway"
+     },
+     {
+      "en": "It took an hour to locate my lost suitcase.",
+      "ko": "잃어버린 여행 가방 위치를 찾는 데 한 시간 걸렸어.",
+      "focus": "to locate my lost suitcase"
+     }
+    ],
+    "collocations": [
+     "be located in",
+     "centrally located"
+    ]
+   }
+  ],
+  "wordFamily": [
+   {
+    "form": "location",
+    "pos": "n",
+    "ko": "위치, 장소"
+   }
+  ],
+  "confusables": [
+   {
+    "word": "find",
+    "note": "find는 무엇이든 찾는 일상어, locate는 정확한 위치를 알아낼 때 쓰는 딱딱한 말이다."
+   },
+   {
+    "word": "location",
+    "note": "locate는 동사, location은 명사다. '좋은 위치'는 a good location이다."
+   }
+  ]
+ },
+ {
+  "id": "citizen",
+  "headword": "citizen",
+  "ipa": "/ˈsɪtɪzn/",
+  "level": "MID",
+  "isCore": false,
+  "topic": "society_politics",
+  "forms": [
+   "citizens"
+  ],
+  "senses": [
+   {
+    "id": "citizen-1",
+    "pos": "n",
+    "ko": "시민, 국민",
+    "en": "a person who legally belongs to a country",
+    "nuance": "나라 소속을 말할 때 a Korean citizen처럼 나라 이름을 앞에 붙인다. 그냥 도시에 사는 사람은 citizen보다 resident가 정확하다.",
+    "pattern": "a citizen of + 나라",
+    "examples": [
+     {
+      "en": "Jun became a citizen of Canada two years ago.",
+      "ko": "준은 2년 전에 캐나다 시민이 됐어.",
+      "focus": "became a citizen of Canada"
+     },
+     {
+      "en": "Older citizens ride the city buses for free.",
+      "ko": "노년층 시민은 시내버스를 무료로 타.",
+      "focus": "Older citizens ride the city buses"
+     }
+    ],
+    "collocations": [
+     "a senior citizen",
+     "ordinary citizens"
+    ]
+   }
+  ],
+  "confusables": [
+   {
+    "word": "resident",
+    "note": "citizen은 국적이 있는 사람, resident는 국적과 상관없이 그곳에 사는 사람이다."
+   },
+   {
+    "word": "civilian",
+    "note": "citizen은 국적 기준, civilian은 군인이 아닌 민간인이라는 뜻이다."
+   }
+  ]
+ },
+ {
+  "id": "temperature",
+  "headword": "temperature",
+  "ipa": "/ˈtemprətʃər/",
+  "level": "MID",
+  "isCore": false,
+  "topic": "nature_animals",
+  "forms": [
+   "temperatures"
+  ],
+  "senses": [
+   {
+    "id": "temperature-1",
+    "pos": "n",
+    "ko": "온도, 기온",
+    "en": "how hot or cold a place, thing, or body is",
+    "nuance": "발음이 네 음절 /ˈtemprətʃər/로 줄어들어 '템퍼레이쳐'가 아니다. 열이 있다는 말은 have a temperature 또는 have a fever다.",
+    "pattern": "the temperature of / in + 명사",
+    "examples": [
+     {
+      "en": "The temperature dropped below zero during the night.",
+      "ko": "밤새 기온이 영하로 떨어졌어.",
+      "focus": "The temperature dropped below zero"
+     },
+     {
+      "en": "Check the baby's temperature before you call the doctor.",
+      "ko": "의사한테 전화하기 전에 아기 체온을 재 봐.",
+      "focus": "Check the baby's temperature"
+     }
+    ],
+    "collocations": [
+     "room temperature",
+     "high temperatures"
+    ]
+   }
+  ],
+  "confusables": [
+   {
+    "word": "fever",
+    "note": "fever는 아파서 나는 열, temperature는 온도 자체다. 체온을 재는 건 take a temperature다."
+   },
+   {
+    "word": "degree",
+    "note": "temperature는 온도라는 개념, degree는 그것을 세는 단위(20 degrees)다."
+   }
+  ]
+ },
+ {
+  "id": "domestic",
+  "headword": "domestic",
+  "ipa": "/dəˈmestɪk/",
+  "level": "MID",
+  "isCore": false,
+  "topic": "travel_transport",
+  "senses": [
+   {
+    "id": "domestic-1",
+    "pos": "adj",
+    "ko": "국내의, 집안의",
+    "en": "inside one country, or connected with the home and family",
+    "nuance": "공항에서는 '국내선'이 domestic flights, 반대는 international이다. 집 안 일을 말할 때는 domestic chores처럼 쓴다.",
+    "pattern": "domestic + 명사",
+    "examples": [
+     {
+      "en": "Domestic flights leave from the smaller terminal over there.",
+      "ko": "국내선은 저쪽 작은 터미널에서 출발해.",
+      "focus": "Domestic flights leave"
+     },
+     {
+      "en": "We share the domestic work evenly at our house.",
+      "ko": "우리 집은 집안일을 반반씩 나눠 해.",
+      "focus": "share the domestic work"
+     }
+    ],
+    "collocations": [
+     "a domestic flight",
+     "the domestic market"
+    ]
+   }
+  ],
+  "confusables": [
+   {
+    "word": "international",
+    "note": "domestic은 한 나라 안, international은 나라 사이를 오가는 것이다."
+   },
+   {
+    "word": "local",
+    "note": "local은 내가 사는 동네 범위, domestic은 나라 전체 범위를 말한다."
+   }
+  ]
+ },
+ {
+  "id": "load",
+  "headword": "load",
+  "ipa": "/loʊd/",
+  "level": "MID",
+  "isCore": false,
+  "topic": "movement_action",
+  "forms": [
+   "loaded",
+   "loading",
+   "loads"
+  ],
+  "senses": [
+   {
+    "id": "load-1",
+    "pos": "v",
+    "ko": "싣다, 채우다",
+    "en": "to put a lot of things into a vehicle or machine",
+    "nuance": "차·세탁기에 넣을 때 load the truck처럼 담는 그릇을 목적어로 쓴다. 앱이나 페이지가 뜨는 것도 The page is loading이다.",
+    "pattern": "load + 명사 (into/onto)",
+    "examples": [
+     {
+      "en": "Can you help me load these boxes into the car?",
+      "ko": "이 상자들 차에 싣는 것 좀 도와줄래?",
+      "focus": "load these boxes into the car"
+     },
+     {
+      "en": "Jun loaded the dishwasher while I made coffee.",
+      "ko": "내가 커피 내리는 동안 준이 식기세척기를 채웠어.",
+      "focus": "loaded the dishwasher"
+     }
+    ],
+    "collocations": [
+     "load the car",
+     "load the dishwasher"
+    ]
+   },
+   {
+    "id": "load-2",
+    "pos": "n",
+    "ko": "짐, 부담",
+    "en": "a heavy amount of things being carried, or a lot of work",
+    "nuance": "빨래 한 통은 a load of laundry, 일이 많다는 건 a heavy workload다. 구어로 loads of는 '엄청 많은'이라는 뜻이 된다.",
+    "examples": [
+     {
+      "en": "I still have two loads of laundry to do.",
+      "ko": "아직 빨래 두 통이나 남았어.",
+      "focus": "two loads of laundry"
+     }
+    ]
+   }
+  ],
+  "confusables": [
+   {
+    "word": "luggage",
+    "note": "luggage는 여행 가방, load는 차나 기계에 싣는 짐 전체를 말한다."
+   },
+   {
+    "word": "loud",
+    "note": "철자가 한 글자 차이다. load는 '싣다', loud는 '소리가 큰'이다."
+   }
+  ]
+ },
+ {
+  "id": "belief",
+  "headword": "belief",
+  "ipa": "/bɪˈliːf/",
+  "level": "MID",
+  "isCore": false,
+  "topic": "thinking_opinion",
+  "forms": [
+   "beliefs"
+  ],
+  "senses": [
+   {
+    "id": "belief-1",
+    "pos": "n",
+    "ko": "믿음, 신념",
+    "en": "a strong feeling that something is true or right",
+    "nuance": "복수형이 believes가 아니라 beliefs다. '~라는 믿음'은 the belief that절, '~에 대한 믿음'은 belief in으로 쓴다.",
+    "pattern": "belief in + 명사 / belief that절",
+    "examples": [
+     {
+      "en": "Her belief in hard work never really changed.",
+      "ko": "노력에 대한 그녀의 믿음은 전혀 변하지 않았어.",
+      "focus": "belief in hard work"
+     },
+     {
+      "en": "People here have different religious beliefs, and that's fine.",
+      "ko": "여기 사람들은 종교적 신념이 다양한데 그래도 괜찮아.",
+      "focus": "different religious beliefs"
+     }
+    ],
+    "collocations": [
+     "a strong belief",
+     "religious beliefs"
+    ]
+   }
+  ],
+  "wordFamily": [
+   {
+    "form": "believe",
+    "pos": "v",
+    "ko": "믿다"
+   }
+  ],
+  "confusables": [
+   {
+    "word": "believe",
+    "note": "belief는 명사(f로 끝남), believe는 동사(ve로 끝남)다. 복수는 beliefs다."
+   },
+   {
+    "word": "opinion",
+    "note": "opinion은 바뀔 수 있는 견해, belief는 잘 안 바뀌는 깊은 믿음이다."
+   }
+  ]
+ },
+ {
+  "id": "troop",
+  "headword": "troop",
+  "ipa": "/truːp/",
+  "level": "MID",
+  "isCore": false,
+  "topic": "society_politics",
+  "forms": [
+   "troops"
+  ],
+  "senses": [
+   {
+    "id": "troop-1",
+    "pos": "n",
+    "ko": "병력, 부대",
+    "en": "soldiers, especially when spoken about as a large group",
+    "nuance": "이 뜻으로는 거의 항상 복수 troops로 쓰고 a troop 하나만 쓰는 일은 드물다. 뉴스에서 '병력 500명'은 500 troops라고 센다.",
+    "pattern": "send / withdraw troops",
+    "examples": [
+     {
+      "en": "The country agreed to send troops for one year.",
+      "ko": "그 나라는 1년간 병력을 보내기로 합의했어.",
+      "focus": "send troops"
+     },
+     {
+      "en": "News said the troops would come home by spring.",
+      "ko": "뉴스에서 부대가 봄까지 귀국한다고 했어.",
+      "focus": "the troops would come home"
+     }
+    ],
+    "collocations": [
+     "send troops",
+     "withdraw troops"
+    ]
+   }
+  ],
+  "confusables": [
+   {
+    "word": "soldier",
+    "note": "soldier는 군인 한 사람, troops는 여러 병력을 묶어 세는 말이다."
+   },
+   {
+    "word": "group",
+    "note": "troop은 군대나 단체 조직에만 쓰고, 일반 무리는 group이다."
+   }
+  ]
+ },
+ {
+  "id": "technical",
+  "headword": "technical",
+  "ipa": "/ˈteknɪkl/",
+  "level": "MID",
+  "isCore": false,
+  "topic": "environment_science",
+  "senses": [
+   {
+    "id": "technical-1",
+    "pos": "adj",
+    "ko": "기술적인, 전문적인",
+    "en": "about machines, science, or the special skills of one job",
+    "nuance": "기계·전산 문제를 말할 때 a technical problem으로 쓴다. 최신 기술 전체를 말할 때는 technical이 아니라 technological이다.",
+    "pattern": "technical + 명사",
+    "examples": [
+     {
+      "en": "The show stopped early because of a technical problem.",
+      "ko": "기술적인 문제 때문에 공연이 일찍 끝났어.",
+      "focus": "a technical problem"
+     },
+     {
+      "en": "This manual is too technical for new users.",
+      "ko": "이 설명서는 새 사용자에게 너무 전문적이야.",
+      "focus": "too technical for new users"
+     }
+    ],
+    "collocations": [
+     "technical support",
+     "a technical problem"
+    ]
+   }
+  ],
+  "wordFamily": [
+   {
+    "form": "technically",
+    "pos": "adv",
+    "ko": "엄밀히 말하면"
+   },
+   {
+    "form": "technique",
+    "pos": "n",
+    "ko": "기법, 기술"
+   }
+  ],
+  "confusables": [
+   {
+    "word": "technological",
+    "note": "technical은 실무 기술·기계 쪽, technological은 기술 발전이라는 큰 흐름 쪽이다."
+   },
+   {
+    "word": "technique",
+    "note": "technical은 형용사, technique은 '기법'이라는 명사다."
+   }
+  ]
+ },
+ {
+  "id": "remind",
+  "headword": "remind",
+  "ipa": "/rɪˈmaɪnd/",
+  "level": "MID",
+  "isCore": false,
+  "topic": "communication",
+  "forms": [
+   "reminded",
+   "reminding",
+   "reminds"
+  ],
+  "senses": [
+   {
+    "id": "remind-1",
+    "pos": "v",
+    "ko": "상기시키다, 일깨우다",
+    "en": "to make someone think of something they must do or knew before",
+    "nuance": "사람 목적어가 반드시 필요해서 Remind to me는 틀리고 Remind me가 맞다. '~을 떠올리게 하다'는 remind me of, '~하라고 알려 주다'는 remind me to다.",
+    "pattern": "remind + 사람 + to / of / that",
+    "examples": [
+     {
+      "en": "Please remind me to call the dentist tomorrow morning.",
+      "ko": "내일 아침에 치과에 전화하라고 알려 줘.",
+      "focus": "remind me to call the dentist"
+     },
+     {
+      "en": "This song reminds me of my first trip abroad.",
+      "ko": "이 노래는 첫 해외여행을 떠올리게 해.",
+      "focus": "reminds me of my first trip"
+     }
+    ],
+    "collocations": [
+     "remind me of",
+     "remind me to",
+     "gently remind"
+    ]
+   }
+  ],
+  "wordFamily": [
+   {
+    "form": "reminder",
+    "pos": "n",
+    "ko": "알림, 상기시키는 것"
+   }
+  ],
+  "confusables": [
+   {
+    "word": "remember",
+    "note": "remember는 내가 스스로 기억하는 것, remind는 남이 내게 기억나게 해 주는 것이다."
+   },
+   {
+    "word": "remain",
+    "note": "철자가 비슷하지만 remind는 '상기시키다', remain은 '계속 남아 있다'다."
+   }
+  ]
+ },
+ {
+  "id": "arrangement",
+  "headword": "arrangement",
+  "ipa": "/əˈreɪndʒmənt/",
+  "level": "MID",
+  "isCore": false,
+  "topic": "work_business",
+  "forms": [
+   "arrangements"
+  ],
+  "senses": [
+   {
+    "id": "arrangement-1",
+    "pos": "n",
+    "ko": "준비, 합의",
+    "en": "a plan or deal that two people agree on before something happens",
+    "nuance": "'준비'라는 뜻으로는 보통 복수 make arrangements로 쓴다. 뒤에 for + 명사나 to부정사를 붙여 무엇을 위한 준비인지 밝힌다.",
+    "pattern": "make arrangements for + 명사",
+    "examples": [
+     {
+      "en": "We made arrangements for the flowers and the cake.",
+      "ko": "꽃과 케이크는 우리가 다 준비해 놨어.",
+      "focus": "made arrangements for the flowers"
+     },
+     {
+      "en": "I have an arrangement with my boss about Fridays.",
+      "ko": "금요일 건은 상사와 합의가 되어 있어.",
+      "focus": "an arrangement with my boss"
+     }
+    ],
+    "collocations": [
+     "make arrangements",
+     "a special arrangement"
+    ]
+   }
+  ],
+  "wordFamily": [
+   {
+    "form": "arrange",
+    "pos": "v",
+    "ko": "준비하다, 배치하다"
+   }
+  ],
+  "confusables": [
+   {
+    "word": "appointment",
+    "note": "appointment는 정해진 시각의 약속 한 건, arrangement는 준비나 합의 내용 전체다."
+   },
+   {
+    "word": "preparation",
+    "note": "preparation은 미리 해 두는 준비 작업, arrangement는 사람과 맞춰 정한 계획이다."
+   }
+  ]
+ },
+ {
+  "id": "prison",
+  "headword": "prison",
+  "ipa": "/ˈprɪzn/",
+  "level": "MID",
+  "isCore": false,
+  "topic": "society_politics",
+  "forms": [
+   "prisons"
+  ],
+  "senses": [
+   {
+    "id": "prison-1",
+    "pos": "n",
+    "ko": "교도소, 감옥",
+    "en": "a building where people are kept after breaking the law",
+    "nuance": "형을 사는 상태를 말할 때는 관사 없이 in prison, go to prison으로 쓴다. 면회처럼 건물에 가는 것이면 to the prison이라고 the를 붙인다.",
+    "pattern": "in / go to prison",
+    "examples": [
+     {
+      "en": "He spent two years in prison for stealing cars.",
+      "ko": "그는 차를 훔쳐서 2년간 복역했어.",
+      "focus": "in prison"
+     },
+     {
+      "en": "The city plans to close two old prisons.",
+      "ko": "시는 오래된 교도소 두 곳을 닫을 계획이야.",
+      "focus": "close two old prisons"
+     }
+    ],
+    "collocations": [
+     "go to prison",
+     "in prison",
+     "a prison sentence"
+    ]
+   }
+  ],
+  "confusables": [
+   {
+    "word": "jail",
+    "note": "jail은 재판 전이나 짧게 갇히는 곳, prison은 형을 받고 오래 지내는 곳이다."
+   },
+   {
+    "word": "prisoner",
+    "note": "prison은 건물, prisoner는 그 안에 있는 사람이다."
+   }
+  ]
+ },
+ {
+  "id": "switch",
+  "headword": "switch",
+  "ipa": "/swɪtʃ/",
+  "level": "MID",
+  "isCore": false,
+  "topic": "home_daily",
+  "forms": [
+   "switched",
+   "switches",
+   "switching"
+  ],
+  "senses": [
+   {
+    "id": "switch-1",
+    "pos": "v",
+    "ko": "바꾸다, 전환하다",
+    "en": "to change from one thing to another, or to change places",
+    "nuance": "'~로 바꾸다'는 switch to, '서로 바꾸다'는 switch seats처럼 쓴다. 전원은 switch on/off이고 turn on/off와 같은 뜻이다.",
+    "pattern": "switch to + 명사 / switch + 명사",
+    "examples": [
+     {
+      "en": "I switched to a cheaper phone plan last month.",
+      "ko": "지난달에 더 싼 요금제로 바꿨어.",
+      "focus": "switched to a cheaper phone plan"
+     },
+     {
+      "en": "Can we switch seats? I can't see the screen.",
+      "ko": "자리 바꿀 수 있어? 화면이 안 보여.",
+      "focus": "switch seats"
+     }
+    ],
+    "collocations": [
+     "switch to",
+     "switch seats"
+    ]
+   },
+   {
+    "id": "switch-2",
+    "pos": "n",
+    "ko": "스위치",
+    "en": "a small part you press or move to turn a machine on or off",
+    "nuance": "벽에 달린 전등 스위치는 a light switch다. 콘센트는 switch가 아니라 outlet이니 섞어 쓰지 않는다.",
+    "examples": [
+     {
+      "en": "The light switch is behind the door on your left.",
+      "ko": "전등 스위치는 왼쪽 문 뒤에 있어.",
+      "focus": "The light switch is behind the door"
+     }
+    ]
+   }
+  ],
+  "confusables": [
+   {
+    "word": "change",
+    "note": "change는 넓게 쓰는 일상어, switch는 두 가지 중 하나에서 다른 하나로 옮길 때 쓴다."
+   },
+   {
+    "word": "exchange",
+    "note": "exchange는 물건을 서로 주고받는 것, switch는 위치나 대상을 맞바꾸는 것이다."
+   }
+  ]
+ },
+ {
+  "id": "acquire",
+  "headword": "acquire",
+  "ipa": "/əˈkwaɪər/",
+  "level": "MID",
+  "isCore": false,
+  "topic": "work_business",
+  "forms": [
+   "acquired",
+   "acquires",
+   "acquiring"
+  ],
+  "senses": [
+   {
+    "id": "acquire-1",
+    "pos": "v",
+    "ko": "얻다, 습득하다",
+    "en": "to get something, especially a skill or a company, over time",
+    "nuance": "get보다 격식 있는 말이라 기사·보고서에서 많이 본다. 시간을 들여 쌓는 기술이나 회사 인수처럼 큰 일에 쓰고 사소한 물건에는 잘 쓰지 않는다.",
+    "pattern": "acquire + 명사",
+    "examples": [
+     {
+      "en": "She acquired her cooking skills from her grandmother.",
+      "ko": "그녀는 요리 실력을 할머니에게서 배웠어.",
+      "focus": "acquired her cooking skills"
+     },
+     {
+      "en": "A bigger firm acquired our company last July.",
+      "ko": "지난 7월에 더 큰 회사가 우리 회사를 인수했어.",
+      "focus": "acquired our company"
+     }
+    ],
+    "collocations": [
+     "acquire a skill",
+     "acquire a company"
+    ]
+   }
+  ],
+  "wordFamily": [
+   {
+    "form": "acquisition",
+    "pos": "n",
+    "ko": "습득, 인수"
+   }
+  ],
+  "confusables": [
+   {
+    "word": "get",
+    "note": "get은 일상 대화용, acquire는 격식체다. 물 한 잔은 acquire하지 않는다."
+   },
+   {
+    "word": "require",
+    "note": "철자가 비슷하지만 acquire는 '얻다', require는 '요구하다'다."
+   }
+  ]
+ }
+]
