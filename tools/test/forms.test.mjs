@@ -163,3 +163,9 @@ test('철자 오류와 표기 변형을 구분한다', () => {
   assert.ok(cleanForms('color', ['colour', 'colors'], ['n']).includes('colour'));
   assert.ok(cleanForms('honor', ['honour', 'honors'], ['n']).includes('honour'));
 });
+
+test('영국식 -ue 표기를 유지한다', () => {
+  // 원형보다 2자 길어 일반 변형 판정에서 빠지던 경우
+  assert.ok(cleanForms('dialog', ['dialogue', 'dialogs'], ['n']).includes('dialogue'));
+  assert.ok(cleanForms('catalog', ['catalogue', 'catalogs'], ['n']).includes('catalogue'));
+});

@@ -52,12 +52,14 @@ const NOT_A_FORM = new Set([
   'leisures', 'privacies', 'tobaccos', 'leaderships', 'ownerships',
   'employments', 'reliefs', 'intelligences', 'oppositions',
   'recognitions', 'assistances', 'entertainments', 'retails', 'welfares', 'satisfactions',
+  'alcohols', 'independences', 'efficiencies', 'poverties',
+  'resistances', 'approvals', 'involvements', 'exposures', 'significances', 'oversea',
   // 편집 거리 1 이라 표기 변형으로 오인되는 철자 오류
   'advertisment', 'advertisments', 'goverment', 'enviroment', 'recieve', 'seperate',
   'definately', 'occured', 'begining', 'writting', 'untill', 'wich', 'membership_',
   // 과거형이 원형과 같은 동사
   'quitted', 'costed', 'cutted', 'hitted', 'setted', 'letted', 'spreaded', 'shutted',
-  'casted', 'bursted', 'hurted', 'beted', 'splited', 'trafficking_',
+  'casted', 'bursted', 'hurted', 'beted', 'splited', 'bade', 'trafficking_',
   // 단복수 동형 명사 (aircraft, sheep, deer, series, species)
   'aircrafts', 'sheeps', 'deers', 'serieses', 'specieses', 'offsprings',
   'deader', 'deadest', 'falser', 'falsest', 'truer', 'truest', 'uniquer', 'uniquest',
@@ -72,6 +74,7 @@ const NOT_A_FORM = new Set([
   'squarer', 'squarest', 'wronger', 'wrongest', 'famouser', 'famousest', 'correcter', 'correctest',
   'unlikelier', 'unlikeliest', 'gayer', 'gayest', 'eagerer', 'eagerest', 'awarer', 'awarest',
   'sparer', 'sparest', 'dailyer', 'dailyest', 'finaler', 'finalest',
+  'eviler', 'evilest',
   // 형용사·부사가 주 품사인데 명사 복수로 실린 것들.
   // generals(장군들), privates(병사들)처럼 실재하는 명사 복수는 넣지 않는다 —
   // 항목이 그 명사 sense 를 쓰면 예문에 필요하다.
@@ -153,7 +156,10 @@ export function cleanForms(headword, forms, pos, usedIn = '') {
     const nounOnly = pos.length > 0 && !pos.includes('v');
     if (irr && nounOnly && (f === headword + 's' || f === headword + 'es')) return false;
     const suffix = f.startsWith(headword) ? f.slice(headword.length) : null;
-    const variant = lev(f, headword) <= 2 && Math.abs(f.length - headword.length) <= 1 && suffix === null && !headword.startsWith(f);
+    // 영국식 -ue 표기(dialog → dialogue, catalog → catalogue)는 원형보다 2자 길다
+    const ueVariant = f === headword + 'ue' || f === headword + 'ues';
+    const variant = ueVariant ||
+      (lev(f, headword) <= 2 && Math.abs(f.length - headword.length) <= 1 && suffix === null && !headword.startsWith(f));
     if (variant) return true; // spelling variants: colour, advertize
     if (hasV && isVerbish(headword, f)) return true;
     if (hasN && isPlural(headword, f)) return true;
