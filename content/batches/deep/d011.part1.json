@@ -1,0 +1,1446 @@
+[
+ {
+  "id": "chance",
+  "headword": "chance",
+  "ipa": "/tʃæns/",
+  "level": "ELEM",
+  "isCore": true,
+  "topic": "abstract_general",
+  "forms": [
+   "chances"
+  ],
+  "senses": [
+   {
+    "id": "chance-1",
+    "pos": "n",
+    "ko": "기회",
+    "en": "a time when you are able to do something you want",
+    "nuance": "opportunity보다 훨씬 구어적이고 짧은 기회를 말한다. 뒤에 to부정사를 쓰고 chance of doing이 아니라 chance to do가 기본이다.",
+    "pattern": "a chance to + 동사원형",
+    "examples": [
+     {
+      "en": "Give me one more chance to explain what happened.",
+      "ko": "무슨 일이었는지 설명할 기회 한 번만 더 줘.",
+      "focus": "one more chance to explain"
+     },
+     {
+      "en": "I never got a chance to say goodbye to her.",
+      "ko": "그 사람한테 인사할 기회조차 없었어.",
+      "focus": "got a chance to say goodbye"
+     },
+     {
+      "en": "This is your last chance to change your mind.",
+      "ko": "마음 바꿀 마지막 기회야.",
+      "focus": "your last chance"
+     }
+    ],
+    "collocations": [
+     "get a chance",
+     "give someone a chance",
+     "a second chance"
+    ]
+   },
+   {
+    "id": "chance-2",
+    "pos": "n",
+    "ko": "가능성, 확률",
+    "en": "how likely it is that something will happen",
+    "nuance": "possibility보다 훨씬 자주 쓰는 회화 표현이다. 뒤에 of + -ing나 that절을 쓰며 chance to rain은 틀리고 chance of rain이 맞다.",
+    "pattern": "a chance of + -ing / that절",
+    "examples": [
+     {
+      "en": "There's a good chance of rain this afternoon.",
+      "ko": "오후에 비 올 가능성이 꽤 높아.",
+      "focus": "a good chance of rain"
+     },
+     {
+      "en": "What are the chances she says yes?",
+      "ko": "걔가 좋다고 할 확률이 얼마나 될까?",
+      "focus": "the chances she says yes"
+     },
+     {
+      "en": "There's no chance we finish this by Friday.",
+      "ko": "금요일까지 이걸 끝낼 가능성은 없어.",
+      "focus": "no chance we finish"
+     }
+    ],
+    "collocations": [
+     "a good chance",
+     "no chance"
+    ]
+   },
+   {
+    "id": "chance-3",
+    "pos": "n",
+    "ko": "위험, 모험",
+    "en": "a risk you accept when you are not sure of the result",
+    "nuance": "take a chance는 '한번 해 보다, 모험하다'라는 굳어진 표현이다. 여기서는 take를 have나 get으로 바꿔 쓸 수 없다.",
+    "pattern": "take a chance (on + 명사)",
+    "examples": [
+     {
+      "en": "I took a chance on a small company and won.",
+      "ko": "작은 회사에 한번 걸어 봤는데 잘됐어.",
+      "focus": "took a chance on a small company"
+     },
+     {
+      "en": "Don't take any chances with your health.",
+      "ko": "건강 가지고 위험한 짓 하지 마.",
+      "focus": "take any chances"
+     }
+    ],
+    "collocations": [
+     "take a chance"
+    ]
+   },
+   {
+    "id": "chance-4",
+    "pos": "n",
+    "ko": "우연",
+    "en": "the way things happen without being planned",
+    "nuance": "by chance는 '우연히'라는 뜻으로 관사 없이 쓴다. by any chance는 조심스럽게 물을 때 '혹시'라는 뜻이 된다.",
+    "pattern": "by chance",
+    "examples": [
+     {
+      "en": "We met by chance at the airport in Busan.",
+      "ko": "우리 부산 공항에서 우연히 만났어.",
+      "focus": "by chance"
+     },
+     {
+      "en": "Do you have a charger, by any chance?",
+      "ko": "혹시 충전기 있어?",
+      "focus": "by any chance"
+     }
+    ]
+   }
+  ],
+  "confusables": [
+   {
+    "word": "opportunity",
+    "note": "opportunity는 격식 있고 큰 기회, chance는 일상 대화에서 쓰는 가벼운 기회다."
+   },
+   {
+    "word": "possibility",
+    "note": "possibility는 '그럴 수도 있다'는 논리적 가능성, chance는 확률의 높낮이를 말한다."
+   },
+   {
+    "word": "change",
+    "note": "철자가 한 글자 차이라 헷갈린다. chance는 '기회', change는 '바꾸다·잔돈'이다."
+   }
+  ]
+ },
+ {
+  "id": "wrong",
+  "headword": "wrong",
+  "ipa": "/rɔŋ/",
+  "level": "ELEM",
+  "isCore": true,
+  "topic": "description_quality",
+  "forms": [],
+  "senses": [
+   {
+    "id": "wrong-1",
+    "pos": "adj",
+    "ko": "틀린, 잘못된",
+    "en": "not correct, not true",
+    "nuance": "사람을 주어로 You are wrong이라고 하면 '네가 틀렸다'는 뜻이다. 한국어 '틀리다'를 그대로 옮겨 It is different라고 쓰면 안 된다.",
+    "pattern": "be wrong (about + 명사)",
+    "examples": [
+     {
+      "en": "Sorry, I was wrong about the meeting time.",
+      "ko": "미안, 내가 회의 시간을 잘못 알았어.",
+      "focus": "was wrong about the meeting time"
+     },
+     {
+      "en": "Two of my answers were wrong on the test.",
+      "ko": "시험에서 답 두 개가 틀렸어.",
+      "focus": "were wrong"
+     },
+     {
+      "en": "You got the wrong number, I think.",
+      "ko": "전화 잘못 거신 것 같은데요.",
+      "focus": "the wrong number"
+     }
+    ],
+    "collocations": [
+     "the wrong number",
+     "prove someone wrong"
+    ]
+   },
+   {
+    "id": "wrong-2",
+    "pos": "adj",
+    "ko": "문제가 있는, 이상한",
+    "en": "causing trouble or worry, in a bad state",
+    "nuance": "What's wrong?은 '무슨 일 있어?'라는 가장 흔한 안부 표현이다. wrong 뒤에 with를 붙여 대상을 말하고 something wrong처럼 뒤에서 꾸민다.",
+    "pattern": "something is wrong with + 명사",
+    "examples": [
+     {
+      "en": "What's wrong? You look really tired today.",
+      "ko": "무슨 일 있어? 오늘 엄청 피곤해 보여.",
+      "focus": "What's wrong"
+     },
+     {
+      "en": "Something is wrong with my laptop again.",
+      "ko": "내 노트북이 또 이상해.",
+      "focus": "wrong with my laptop"
+     },
+     {
+      "en": "There's nothing wrong with asking for help.",
+      "ko": "도움 청하는 게 잘못된 건 아니야.",
+      "focus": "nothing wrong with asking"
+     }
+    ],
+    "collocations": [
+     "What's wrong with",
+     "something wrong"
+    ]
+   },
+   {
+    "id": "wrong-3",
+    "pos": "adj",
+    "ko": "나쁜, 도덕적으로 그른",
+    "en": "morally bad, not allowed by rules",
+    "nuance": "bad가 '질이 나쁜'이라면 wrong은 '해서는 안 되는'이다. It's wrong to lie처럼 to부정사와 함께 도덕 판단을 말한다.",
+    "pattern": "It's wrong to + 동사원형",
+    "examples": [
+     {
+      "en": "It's wrong to blame her for everything.",
+      "ko": "모든 걸 그 사람 탓으로 돌리는 건 잘못됐어.",
+      "focus": "wrong to blame her"
+     },
+     {
+      "en": "He knew it was wrong but did it anyway.",
+      "ko": "걔는 잘못인 줄 알면서도 그냥 했어.",
+      "focus": "it was wrong"
+     }
+    ],
+    "collocations": [
+     "right and wrong"
+    ]
+   },
+   {
+    "id": "wrong-4",
+    "pos": "adv",
+    "ko": "잘못, 틀리게",
+    "en": "in a way that is not correct",
+    "nuance": "동사 뒤에 붙여 go wrong, get it wrong처럼 쓴다. wrongly는 격식체라 회화에서는 wrong을 그대로 부사로 쓴다.",
+    "pattern": "go wrong / get it wrong",
+    "examples": [
+     {
+      "en": "Everything went wrong on the first day.",
+      "ko": "첫날에 모든 게 꼬였어.",
+      "focus": "went wrong"
+     },
+     {
+      "en": "I read the schedule wrong and came too early.",
+      "ko": "일정을 잘못 봐서 너무 일찍 왔어.",
+      "focus": "read the schedule wrong"
+     }
+    ],
+    "collocations": [
+     "go wrong"
+    ]
+   }
+  ],
+  "wordFamily": [
+   {
+    "form": "wrongly",
+    "pos": "adv",
+    "ko": "부당하게, 잘못"
+   }
+  ],
+  "confusables": [
+   {
+    "word": "different",
+    "note": "한국어 '틀리다'를 different로 옮기는 실수가 잦다. 답이 안 맞으면 wrong, 서로 다르면 different다."
+   },
+   {
+    "word": "bad",
+    "note": "bad는 질이나 상태가 나쁜 것, wrong은 사실이 틀리거나 도덕적으로 그른 것이다."
+   },
+   {
+    "word": "false",
+    "note": "false는 사실이 아닌 진술에 주로 쓰고, 사람이 잘못 안 경우에는 wrong을 쓴다."
+   }
+  ]
+ },
+ {
+  "id": "check",
+  "headword": "check",
+  "ipa": "/tʃɛk/",
+  "level": "ELEM",
+  "isCore": true,
+  "topic": "thinking_opinion",
+  "forms": [
+   "checked",
+   "checking",
+   "checks",
+   "cheque"
+  ],
+  "senses": [
+   {
+    "id": "check-1",
+    "pos": "v",
+    "ko": "확인하다, 알아보다",
+    "en": "to look at something to make sure it is right or safe",
+    "nuance": "가장 흔한 뜻으로 뒤에 if나 whether절을 붙인다. confirm은 이미 정해진 것을 공식적으로 확정할 때 쓰고, 그냥 알아보는 건 check다.",
+    "pattern": "check + 명사 / check if절",
+    "examples": [
+     {
+      "en": "Let me check if the store is still open.",
+      "ko": "가게 아직 문 열었는지 확인해 볼게.",
+      "focus": "check if the store is still open"
+     },
+     {
+      "en": "I check my email first thing every morning.",
+      "ko": "나는 매일 아침에 제일 먼저 메일을 확인해.",
+      "focus": "check my email"
+     },
+     {
+      "en": "Did you check the price before you bought it?",
+      "ko": "사기 전에 가격 확인했어?",
+      "focus": "check the price"
+     }
+    ],
+    "collocations": [
+     "check the time",
+     "double-check"
+    ],
+    "phrasals": [
+     {
+      "phrase": "check in",
+      "ko": "체크인하다, 연락해 보다",
+      "example": {
+       "en": "We can check in at the hotel after three.",
+       "ko": "세 시 이후에 호텔에 체크인하면 돼.",
+       "focus": "check in at the hotel"
+      }
+     },
+     {
+      "phrase": "check out",
+      "ko": "나가다, 구경하다",
+      "example": {
+       "en": "You should check out that new café near school.",
+       "ko": "학교 근처 새로 생긴 카페 한번 가 봐.",
+       "focus": "check out that new café"
+      }
+     },
+     {
+      "phrase": "check on",
+      "ko": "상태를 살피다",
+      "example": {
+       "en": "Can you check on the baby while I cook?",
+       "ko": "나 요리하는 동안 아기 좀 봐 줄래?",
+       "focus": "check on the baby"
+      }
+     }
+    ]
+   },
+   {
+    "id": "check-2",
+    "pos": "v",
+    "ko": "점검하다, 살펴보다",
+    "en": "to test a machine or body part to find problems",
+    "nuance": "고장이나 이상이 있는지 전문적으로 살필 때 쓴다. 기계나 몸을 대상으로 하면 have it checked처럼 수동형을 자주 쓴다.",
+    "pattern": "have + 명사 + checked",
+    "examples": [
+     {
+      "en": "I had my eyes checked at the hospital yesterday.",
+      "ko": "어제 병원에서 눈 검사받았어.",
+      "focus": "had my eyes checked"
+     },
+     {
+      "en": "A mechanic is checking the brakes right now.",
+      "ko": "정비사가 지금 브레이크를 점검하는 중이야.",
+      "focus": "checking the brakes"
+     }
+    ],
+    "collocations": [
+     "check the engine"
+    ]
+   },
+   {
+    "id": "check-3",
+    "pos": "n",
+    "ko": "계산서",
+    "en": "the paper showing what you must pay at a restaurant",
+    "nuance": "미국식 표현이고 영국에서는 bill을 쓴다. 식당에서 계산할 때 Check, please가 가장 짧고 자연스럽다.",
+    "pattern": "the check, please",
+    "examples": [
+     {
+      "en": "Could we get the check, please?",
+      "ko": "계산서 좀 주시겠어요?",
+      "focus": "get the check"
+     },
+     {
+      "en": "Let me pay the check this time.",
+      "ko": "이번엔 내가 계산할게.",
+      "focus": "pay the check"
+     }
+    ],
+    "collocations": [
+     "pay the check"
+    ]
+   },
+   {
+    "id": "check-4",
+    "pos": "n",
+    "ko": "수표",
+    "en": "a printed paper you sign to pay money from a bank",
+    "nuance": "영국식 철자는 cheque지만 발음은 같다. 요즘 회화에서는 월급이나 집세를 말할 때 주로 나온다.",
+    "pattern": "write a check",
+    "examples": [
+     {
+      "en": "My landlord still wants a check every month.",
+      "ko": "집주인이 아직도 매달 수표를 받겠대.",
+      "focus": "a check every month"
+     },
+     {
+      "en": "She wrote a cheque for the whole amount.",
+      "ko": "그 사람이 전액을 수표로 끊었어.",
+      "focus": "wrote a cheque"
+     }
+    ]
+   },
+   {
+    "id": "check-5",
+    "pos": "n",
+    "ko": "검사, 점검",
+    "en": "a careful look to make sure nothing is wrong",
+    "nuance": "do a check나 run a check처럼 쓰고 건강검진은 checkup이다. 한국어 '체크하다'는 대부분 명사가 아니라 동사 check로 옮겨야 한다.",
+    "pattern": "do a check on + 명사",
+    "examples": [
+     {
+      "en": "The guard did a quick check of our bags.",
+      "ko": "경비원이 우리 가방을 빠르게 검사했어.",
+      "focus": "a quick check of our bags"
+     },
+     {
+      "en": "Security checks at the airport take forever now.",
+      "ko": "요즘 공항 보안 검사는 진짜 오래 걸려.",
+      "focus": "Security checks"
+     }
+    ]
+   }
+  ],
+  "confusables": [
+   {
+    "word": "confirm",
+    "note": "confirm은 이미 정해진 걸 공식적으로 확정, check는 맞는지 직접 알아보는 것이다."
+   },
+   {
+    "word": "bill",
+    "note": "식당 계산서를 미국은 check, 영국은 bill이라고 한다. 청구서 전반은 bill이다."
+   },
+   {
+    "word": "test",
+    "note": "test는 실력이나 성능을 시험하는 것, check는 이상이 없는지 확인하는 것이다."
+   }
+  ]
+ },
+ {
+  "id": "lie",
+  "headword": "lie",
+  "ipa": "/laɪ/",
+  "level": "ELEM",
+  "isCore": true,
+  "topic": "movement_action",
+  "forms": [
+   "lain",
+   "lied",
+   "lies",
+   "lying"
+  ],
+  "senses": [
+   {
+    "id": "lie-1",
+    "pos": "v",
+    "ko": "눕다, 누워 있다",
+    "en": "to put your body flat on a bed or the floor",
+    "nuance": "과거형이 lay, lain으로 변하는 자동사라 목적어를 쓰지 않는다. lie down은 되지만 lie the baby down은 틀리고 lay가 맞다.",
+    "pattern": "lie down / lie on + 장소",
+    "examples": [
+     {
+      "en": "I want to lie down for twenty minutes.",
+      "ko": "이십 분만 좀 누워 있고 싶어.",
+      "focus": "lie down"
+     },
+     {
+      "en": "The cat is lying on my keyboard again.",
+      "ko": "고양이가 또 내 키보드 위에 누워 있어.",
+      "focus": "lying on my keyboard"
+     },
+     {
+      "en": "Just lie still until the doctor comes back.",
+      "ko": "의사 선생님 오실 때까지 가만히 누워 있어.",
+      "focus": "lie still"
+     }
+    ],
+    "collocations": [
+     "lie down",
+     "lie on the floor"
+    ],
+    "phrasals": [
+     {
+      "phrase": "lie down",
+      "ko": "드러눕다, 쉬다",
+      "example": {
+       "en": "You should lie down if your head hurts.",
+       "ko": "머리 아프면 좀 누워 있어.",
+       "focus": "lie down"
+      }
+     },
+     {
+      "phrase": "lie around",
+      "ko": "빈둥거리다, 널브러져 있다",
+      "example": {
+       "en": "Don't just lie around all weekend doing nothing.",
+       "ko": "주말 내내 아무것도 안 하고 뒹굴지 마.",
+       "focus": "lie around all weekend"
+      }
+     }
+    ]
+   },
+   {
+    "id": "lie-2",
+    "pos": "v",
+    "ko": "거짓말하다",
+    "en": "to say something you know is not true",
+    "nuance": "이 뜻일 때만 과거형이 lied로 규칙 변화한다. 누구에게 거짓말했는지는 lie to me처럼 to로 붙이고 lie me는 틀린다.",
+    "pattern": "lie to + 사람 (about + 명사)",
+    "examples": [
+     {
+      "en": "Don't lie to me about where you were.",
+      "ko": "어디 있었는지 나한테 거짓말하지 마.",
+      "focus": "lie to me"
+     },
+     {
+      "en": "He lied about his age to get the job.",
+      "ko": "걔는 일자리 얻으려고 나이를 속였어.",
+      "focus": "lied about his age"
+     }
+    ],
+    "collocations": [
+     "lie to someone"
+    ]
+   },
+   {
+    "id": "lie-3",
+    "pos": "n",
+    "ko": "거짓말",
+    "en": "something said that is not true, said on purpose",
+    "nuance": "tell a lie라고 하지 say a lie라고는 하지 않는다. 선의의 거짓말은 a white lie다.",
+    "pattern": "tell a lie",
+    "examples": [
+     {
+      "en": "That was a lie and you know it.",
+      "ko": "그거 거짓말이잖아, 너도 알면서.",
+      "focus": "a lie"
+     },
+     {
+      "en": "She told a little lie to protect her friend.",
+      "ko": "그 사람은 친구를 감싸려고 작은 거짓말을 했어.",
+      "focus": "told a little lie"
+     }
+    ],
+    "collocations": [
+     "tell a lie",
+     "a white lie"
+    ]
+   },
+   {
+    "id": "lie-4",
+    "pos": "v",
+    "ko": "(~에) 있다, 위치하다",
+    "en": "to be in a certain place or position",
+    "nuance": "지도나 풍경을 설명할 때 be동사 대신 쓰는 약간 문어적인 표현이다. 사람이 아니라 마을·섬·길 같은 것이 주어로 온다.",
+    "pattern": "lie + 장소 표현",
+    "examples": [
+     {
+      "en": "The village lies between two small green hills.",
+      "ko": "그 마을은 작은 초록 언덕 두 개 사이에 있어.",
+      "focus": "lies between two small green hills"
+     },
+     {
+      "en": "A long beach lies just past the bridge.",
+      "ko": "다리 바로 너머에 긴 해변이 있어.",
+      "focus": "lies just past the bridge"
+     }
+    ]
+   }
+  ],
+  "wordFamily": [
+   {
+    "form": "liar",
+    "pos": "n",
+    "ko": "거짓말쟁이"
+   }
+  ],
+  "confusables": [
+   {
+    "word": "lay",
+    "note": "lay는 '~을 놓다'라 목적어가 필요하고, lie는 '내가 눕다'라 목적어가 없다."
+   },
+   {
+    "word": "cheat",
+    "note": "cheat는 시험이나 게임에서 속임수를 쓰는 것, lie는 말로 사실이 아닌 걸 말하는 것이다."
+   },
+   {
+    "word": "sit",
+    "note": "sit는 앉는 자세, lie는 몸을 눕히는 자세다. 소파에 기대 앉으면 sit다."
+   }
+  ]
+ },
+ {
+  "id": "pick",
+  "headword": "pick",
+  "ipa": "/pɪk/",
+  "level": "ELEM",
+  "isCore": true,
+  "topic": "movement_action",
+  "forms": [
+   "picked",
+   "picking",
+   "picks"
+  ],
+  "senses": [
+   {
+    "id": "pick-1",
+    "pos": "v",
+    "ko": "고르다, 뽑다",
+    "en": "to take one from a group because you want it",
+    "nuance": "choose보다 가볍고 빠른 선택에 쓴다. 메뉴나 팀원처럼 눈앞의 것 중에 하나 집는 느낌이라 신중한 결정에는 choose가 낫다.",
+    "pattern": "pick + 명사",
+    "examples": [
+     {
+      "en": "You pick the movie tonight, I picked last time.",
+      "ko": "오늘은 네가 영화 골라, 지난번엔 내가 골랐잖아.",
+      "focus": "pick the movie"
+     },
+     {
+      "en": "Our teacher picked me to lead the group.",
+      "ko": "선생님이 나를 조장으로 뽑으셨어.",
+      "focus": "picked me to lead"
+     },
+     {
+      "en": "Just pick one and let's go already.",
+      "ko": "그냥 하나 골라, 이제 좀 가자.",
+      "focus": "pick one"
+     }
+    ],
+    "collocations": [
+     "pick a number",
+     "pick a side"
+    ],
+    "phrasals": [
+     {
+      "phrase": "pick up",
+      "ko": "집어 들다, 데리러 가다",
+      "example": {
+       "en": "I'll pick you up at the station at seven.",
+       "ko": "일곱 시에 역으로 데리러 갈게.",
+       "focus": "pick you up at the station"
+      }
+     },
+     {
+      "phrase": "pick out",
+      "ko": "골라내다, 알아보다",
+      "example": {
+       "en": "Help me pick out a gift for Mina.",
+       "ko": "미나 선물 고르는 것 좀 도와줘.",
+       "focus": "pick out a gift"
+      }
+     },
+     {
+      "phrase": "pick on",
+      "ko": "괴롭히다, 트집 잡다",
+      "example": {
+       "en": "Why do they always pick on the new kid?",
+       "ko": "쟤네는 왜 맨날 새로 온 애를 괴롭힐까?",
+       "focus": "pick on the new kid"
+      }
+     }
+    ]
+   },
+   {
+    "id": "pick-2",
+    "pos": "v",
+    "ko": "따다, 꺾다",
+    "en": "to pull fruit or flowers off a plant with your hand",
+    "nuance": "손으로 나무나 줄기에서 떼어 내는 동작이다. 과일을 사는 게 아니라 직접 따는 것이라 농장·정원 얘기에 나온다.",
+    "pattern": "pick + 과일/꽃",
+    "examples": [
+     {
+      "en": "We picked apples at a farm near Seoul.",
+      "ko": "서울 근처 농장에서 사과를 땄어.",
+      "focus": "picked apples"
+     },
+     {
+      "en": "Please don't pick the flowers in the park.",
+      "ko": "공원에서 꽃 꺾지 마세요.",
+      "focus": "pick the flowers"
+     }
+    ],
+    "collocations": [
+     "pick flowers"
+    ]
+   },
+   {
+    "id": "pick-3",
+    "pos": "v",
+    "ko": "긁다, 후비다",
+    "en": "to pull at something small with your finger or a tool",
+    "nuance": "손톱이나 뾰족한 것으로 조금씩 뜯는 동작이다. 코를 후비거나 상처 딱지를 뜯는 상황에 쓰며 부정적인 뉘앙스가 있다.",
+    "pattern": "pick at + 명사",
+    "examples": [
+     {
+      "en": "Stop picking at that cut or it'll get worse.",
+      "ko": "그 상처 자꾸 뜯지 마, 더 심해져.",
+      "focus": "picking at that cut"
+     },
+     {
+      "en": "He was picking at his food, not really eating.",
+      "ko": "걔는 먹는 둥 마는 둥 깨작거리고 있었어.",
+      "focus": "picking at his food"
+     }
+    ]
+   },
+   {
+    "id": "pick-4",
+    "pos": "n",
+    "ko": "선택, 고른 것",
+    "en": "the person or thing that someone chose",
+    "nuance": "my pick, top pick처럼 '내가 고른 것'을 말한다. take your pick은 '마음에 드는 걸 골라'라는 굳어진 말이다.",
+    "pattern": "take your pick",
+    "examples": [
+     {
+      "en": "This coffee shop is my top pick in Busan.",
+      "ko": "이 카페가 부산에서 내 최애야.",
+      "focus": "my top pick"
+     },
+     {
+      "en": "There are three flavors left, take your pick.",
+      "ko": "맛이 세 개 남았는데 골라 봐.",
+      "focus": "take your pick"
+     }
+    ]
+   }
+  ],
+  "confusables": [
+   {
+    "word": "choose",
+    "note": "choose는 신중하게 결정하는 느낌, pick은 눈앞의 것 중 가볍게 집는 느낌이다."
+   },
+   {
+    "word": "select",
+    "note": "select는 설명서나 화면에서 쓰는 격식체다. 친구와 말할 때는 pick이 자연스럽다."
+   },
+   {
+    "word": "take",
+    "note": "take는 집어서 가져가는 것, pick은 여럿 중에 어느 것인지 고르는 데 초점이 있다."
+   }
+  ]
+ },
+ {
+  "id": "ground",
+  "headword": "ground",
+  "ipa": "/ɡraʊnd/",
+  "level": "ELEM",
+  "isCore": true,
+  "topic": "nature_animals",
+  "forms": [
+   "grounds"
+  ],
+  "senses": [
+   {
+    "id": "ground-1",
+    "pos": "n",
+    "ko": "땅, 바닥",
+    "en": "the hard surface of the earth that you walk on",
+    "nuance": "실외의 땅바닥을 말하고 실내 바닥은 floor다. 보통 the를 붙여 on the ground로 쓴다.",
+    "pattern": "on the ground",
+    "examples": [
+     {
+      "en": "My phone fell on the ground and cracked.",
+      "ko": "휴대폰이 바닥에 떨어져서 액정이 깨졌어.",
+      "focus": "on the ground"
+     },
+     {
+      "en": "The ground was still wet from last night's rain.",
+      "ko": "어젯밤 비 때문에 땅이 아직 젖어 있었어.",
+      "focus": "The ground was still wet"
+     },
+     {
+      "en": "We sat on the ground and shared some snacks.",
+      "ko": "우리는 땅바닥에 앉아서 간식을 나눠 먹었어.",
+      "focus": "sat on the ground"
+     }
+    ],
+    "collocations": [
+     "on the ground",
+     "fall to the ground"
+    ]
+   },
+   {
+    "id": "ground-2",
+    "pos": "n",
+    "ko": "흙, 토양",
+    "en": "the soil that plants grow in",
+    "nuance": "식물을 심는 흙 자체를 가리킨다. 농사나 화학 성분을 말할 때는 soil이 더 정확하고, 일상 대화에서는 ground로 충분하다.",
+    "pattern": "in the ground",
+    "examples": [
+     {
+      "en": "We put the seeds in the ground last spring.",
+      "ko": "작년 봄에 씨앗을 땅에 심었어.",
+      "focus": "in the ground"
+     },
+     {
+      "en": "The ground here is too dry for vegetables.",
+      "ko": "여기 흙은 채소 키우기엔 너무 건조해.",
+      "focus": "The ground here is too dry"
+     }
+    ],
+    "collocations": [
+     "dig in the ground"
+    ]
+   },
+   {
+    "id": "ground-3",
+    "pos": "n",
+    "ko": "운동장, 부지",
+    "en": "an open area used for a sport or around a building",
+    "nuance": "경기장은 a football ground처럼 단수, 건물 주변의 넓은 땅은 grounds처럼 복수로 쓴다. 학교 운동장은 the school grounds다.",
+    "pattern": "the grounds of + 장소",
+    "examples": [
+     {
+      "en": "The kids are playing on the school grounds.",
+      "ko": "애들이 학교 운동장에서 놀고 있어.",
+      "focus": "the school grounds"
+     },
+     {
+      "en": "We walked around the grounds of the old palace.",
+      "ko": "우리는 옛 궁궐 경내를 한 바퀴 걸었어.",
+      "focus": "the grounds of the old palace"
+     }
+    ]
+   },
+   {
+    "id": "ground-4",
+    "pos": "n",
+    "ko": "근거, 이유",
+    "en": "a good reason for doing or believing something",
+    "nuance": "이 뜻으로는 거의 항상 복수 grounds로 쓴다. on the grounds that은 공식적인 이유를 댈 때 나오는 표현이다.",
+    "pattern": "grounds for + 명사",
+    "examples": [
+     {
+      "en": "They had no real grounds for firing him.",
+      "ko": "그 사람을 해고할 만한 진짜 근거가 없었어.",
+      "focus": "no real grounds for firing"
+     },
+     {
+      "en": "She refused on the grounds that it was unfair.",
+      "ko": "그 사람은 불공평하다는 이유로 거절했어.",
+      "focus": "on the grounds that"
+     }
+    ]
+   }
+  ],
+  "confusables": [
+   {
+    "word": "floor",
+    "note": "floor는 건물 안의 바닥, ground는 바깥의 땅바닥이다. 실내에서 ground라고 하면 어색하다."
+   },
+   {
+    "word": "land",
+    "note": "land는 소유하거나 넓게 보는 땅덩어리, ground는 발이 닿는 표면이다."
+   },
+   {
+    "word": "soil",
+    "note": "soil은 식물이 자라는 흙의 성분, ground는 그 흙을 포함한 땅 전체를 말한다."
+   },
+   {
+    "word": "around",
+    "note": "철자가 비슷해 헷갈린다. around는 '주변에', ground는 '땅'이다."
+   }
+  ]
+ },
+ {
+  "id": "fight",
+  "headword": "fight",
+  "ipa": "/faɪt/",
+  "level": "ELEM",
+  "isCore": true,
+  "topic": "movement_action",
+  "forms": [
+   "fighting",
+   "fights",
+   "fought"
+  ],
+  "senses": [
+   {
+    "id": "fight-1",
+    "pos": "v",
+    "ko": "싸우다, 다투다",
+    "en": "to hit or argue with someone in an angry way",
+    "nuance": "주먹싸움과 말다툼 둘 다에 쓴다. 상대는 fight with him이나 fight him으로 쓰고, 과거형은 fought라서 fighted는 틀린다.",
+    "pattern": "fight with + 사람 (about/over + 명사)",
+    "examples": [
+     {
+      "en": "My brother and I fought about the TV again.",
+      "ko": "나랑 동생이 또 텔레비전 때문에 싸웠어.",
+      "focus": "fought about the TV"
+     },
+     {
+      "en": "Please don't fight with your sister over toys.",
+      "ko": "장난감 가지고 누나랑 싸우지 마.",
+      "focus": "fight with your sister"
+     },
+     {
+      "en": "Two dogs were fighting in the parking lot.",
+      "ko": "주차장에서 개 두 마리가 싸우고 있었어.",
+      "focus": "were fighting"
+     }
+    ],
+    "collocations": [
+     "fight with someone",
+     "fight over money"
+    ],
+    "phrasals": [
+     {
+      "phrase": "fight back",
+      "ko": "맞서 싸우다, 반격하다",
+      "example": {
+       "en": "She decided to fight back and tell the truth.",
+       "ko": "그 사람은 맞서 싸워서 사실을 말하기로 했어.",
+       "focus": "fight back"
+      }
+     },
+     {
+      "phrase": "fight off",
+      "ko": "물리치다, 이겨 내다",
+      "example": {
+       "en": "Sleep well and your body can fight off a cold.",
+       "ko": "잘 자야 몸이 감기를 이겨 낼 수 있어.",
+       "focus": "fight off a cold"
+      }
+     }
+    ]
+   },
+   {
+    "id": "fight-2",
+    "pos": "v",
+    "ko": "맞서다, 없애려 애쓰다",
+    "en": "to try hard to stop a bad thing or to win a right",
+    "nuance": "병·범죄·불공정 같은 추상적인 대상에 맞설 때 쓴다. 이때는 with를 붙이지 않고 fight cancer처럼 바로 목적어를 쓰는 게 자연스럽다.",
+    "pattern": "fight + 문제 / fight for + 명사",
+    "examples": [
+     {
+      "en": "The city is fighting air pollution with new rules.",
+      "ko": "시에서 새 규정으로 대기 오염과 싸우고 있어.",
+      "focus": "fighting air pollution"
+     },
+     {
+      "en": "They fought for years to get equal pay.",
+      "ko": "그 사람들은 동등한 임금을 받으려고 몇 년을 싸웠어.",
+      "focus": "fought for years"
+     }
+    ],
+    "collocations": [
+     "fight for your rights"
+    ]
+   },
+   {
+    "id": "fight-3",
+    "pos": "n",
+    "ko": "싸움, 다툼",
+    "en": "a short angry event where people hit or argue",
+    "nuance": "have a fight는 한 번의 다툼, get into a fight는 얽혀 들어가는 느낌이다. 오래 이어지는 말다툼은 argument가 더 맞다.",
+    "pattern": "have a fight (with + 사람)",
+    "examples": [
+     {
+      "en": "We had a big fight but made up quickly.",
+      "ko": "우리 크게 싸웠는데 금방 화해했어.",
+      "focus": "had a big fight"
+     },
+     {
+      "en": "He got into a fight outside the club.",
+      "ko": "걔 클럽 앞에서 싸움에 휘말렸어.",
+      "focus": "got into a fight"
+     }
+    ],
+    "collocations": [
+     "have a fight"
+    ]
+   },
+   {
+    "id": "fight-4",
+    "pos": "n",
+    "ko": "투쟁, 노력",
+    "en": "a long effort to stop a problem or win something",
+    "nuance": "the fight against + 문제 형태로 굳어져 있다. 뉴스나 연설에 자주 나오며 개인 간의 싸움과 달리 긍정적인 뜻으로 쓰인다.",
+    "pattern": "the fight against + 명사",
+    "examples": [
+     {
+      "en": "This money helps the fight against hunger.",
+      "ko": "이 돈은 기아 퇴치 활동에 쓰여.",
+      "focus": "the fight against hunger"
+     },
+     {
+      "en": "Her fight for clean water lasted ten years.",
+      "ko": "깨끗한 물을 위한 그 사람의 투쟁은 십 년간 이어졌어.",
+      "focus": "Her fight for clean water"
+     }
+    ]
+   }
+  ],
+  "wordFamily": [
+   {
+    "form": "fighter",
+    "pos": "n",
+    "ko": "전사, 격투 선수"
+   }
+  ],
+  "confusables": [
+   {
+    "word": "argue",
+    "note": "argue는 말로만 따지는 것, fight는 몸싸움까지 포함한다. 부부 싸움은 둘 다 쓴다."
+   },
+   {
+    "word": "flight",
+    "note": "철자가 l 하나 차이다. flight는 '비행·항공편', fight는 '싸우다'다."
+   },
+   {
+    "word": "beat",
+    "note": "beat는 이겨서 상대를 꺾는 결과, fight는 싸우는 과정 자체를 말한다."
+   }
+  ]
+ },
+ {
+  "id": "fine",
+  "headword": "fine",
+  "ipa": "/faɪn/",
+  "level": "ELEM",
+  "isCore": true,
+  "topic": "description_quality",
+  "forms": [
+   "fined",
+   "finer",
+   "fines",
+   "finest",
+   "fining"
+  ],
+  "senses": [
+   {
+    "id": "fine-1",
+    "pos": "adj",
+    "ko": "괜찮은, 문제없는",
+    "en": "healthy, happy, or good enough; not a problem",
+    "nuance": "great만큼 좋다는 뜻이 아니라 '별일 없다' 정도다. That's fine은 허락, I'm fine은 거절도 되니 상황으로 구분해야 한다.",
+    "pattern": "be fine (with + 명사)",
+    "examples": [
+     {
+      "en": "Don't worry, I'm fine after the long trip.",
+      "ko": "걱정 마, 긴 여행 뒤에도 난 괜찮아.",
+      "focus": "I'm fine"
+     },
+     {
+      "en": "Tuesday is fine with me for the meeting.",
+      "ko": "회의는 화요일도 난 괜찮아.",
+      "focus": "fine with me"
+     },
+     {
+      "en": "Would coffee instead of tea be fine?",
+      "ko": "차 대신 커피도 괜찮을까요?",
+      "focus": "be fine"
+     }
+    ],
+    "collocations": [
+     "That's fine",
+     "fine with me"
+    ]
+   },
+   {
+    "id": "fine-2",
+    "pos": "n",
+    "ko": "벌금, 과태료",
+    "en": "money you must pay for breaking a rule or law",
+    "nuance": "pay a fine, get a fine처럼 쓴다. 주차 위반이나 속도 위반에 흔하고, 회비나 요금인 fee와는 전혀 다르다.",
+    "pattern": "pay a fine",
+    "examples": [
+     {
+      "en": "I had to pay a fine for parking there.",
+      "ko": "거기 주차했다가 과태료를 물었어.",
+      "focus": "pay a fine"
+     },
+     {
+      "en": "Late books mean a small fine at this library.",
+      "ko": "이 도서관은 책 연체하면 소액 벌금이 있어.",
+      "focus": "a small fine"
+     }
+    ],
+    "collocations": [
+     "pay a fine",
+     "a heavy fine"
+    ]
+   },
+   {
+    "id": "fine-3",
+    "pos": "v",
+    "ko": "벌금을 물리다",
+    "en": "to make someone pay money for breaking a rule",
+    "nuance": "주로 수동태 be fined로 쓴다. 벌금 액수는 fined 뒤에 바로 붙여 fined 50,000 won처럼 말한다.",
+    "pattern": "be fined + 금액",
+    "examples": [
+     {
+      "en": "He was fined for driving too fast downtown.",
+      "ko": "걔는 시내에서 과속하다가 벌금 물었어.",
+      "focus": "was fined for driving too fast"
+     },
+     {
+      "en": "The company was fined a huge amount last year.",
+      "ko": "그 회사는 작년에 엄청난 액수의 벌금을 맞았어.",
+      "focus": "was fined a huge amount"
+     }
+    ]
+   },
+   {
+    "id": "fine-4",
+    "pos": "adj",
+    "ko": "훌륭한, 뛰어난",
+    "en": "of very high quality",
+    "nuance": "명사 앞에 붙으면 '괜찮은'이 아니라 '아주 좋은'이라는 칭찬이 된다. a fine dinner는 근사한 식사지 그냥 무난한 식사가 아니다.",
+    "pattern": "fine + 명사",
+    "examples": [
+     {
+      "en": "That was the finest meal I've had here.",
+      "ko": "여기서 먹어 본 것 중 제일 훌륭한 식사였어.",
+      "focus": "the finest meal"
+     },
+     {
+      "en": "He does fine work with wood and old tools.",
+      "ko": "그분은 나무랑 낡은 연장으로 멋진 작품을 만들어.",
+      "focus": "fine work"
+     }
+    ],
+    "collocations": [
+     "a fine example"
+    ]
+   },
+   {
+    "id": "fine-5",
+    "pos": "adj",
+    "ko": "가느다란, 미세한",
+    "en": "very thin or made of very small pieces",
+    "nuance": "굵기나 입자가 아주 작다는 뜻이다. 얇은 종이처럼 두께가 얇은 건 thin이고, 모래나 머리카락처럼 곱고 가는 건 fine이다.",
+    "pattern": "fine + 명사",
+    "examples": [
+     {
+      "en": "The beach here has soft, fine sand.",
+      "ko": "여기 해변은 모래가 곱고 부드러워.",
+      "focus": "fine sand"
+     },
+     {
+      "en": "Read the fine print before you sign anything.",
+      "ko": "서명하기 전에 깨알 같은 글씨까지 읽어 봐.",
+      "focus": "the fine print"
+     }
+    ]
+   }
+  ],
+  "confusables": [
+   {
+    "word": "fee",
+    "note": "fee는 서비스에 내는 정당한 요금, fine은 잘못해서 내는 벌금이다."
+   },
+   {
+    "word": "good",
+    "note": "How are you?에 fine은 '그럭저럭', good은 '좋다'에 가깝다. fine이 더 무덤덤하다."
+   },
+   {
+    "word": "thin",
+    "note": "thin은 두께가 얇은 것, fine은 굵기가 가늘거나 입자가 고운 것이다."
+   }
+  ]
+ },
+ {
+  "id": "finish",
+  "headword": "finish",
+  "ipa": "/ˈfɪnɪʃ/",
+  "level": "ELEM",
+  "isCore": true,
+  "topic": "time_quantity",
+  "forms": [
+   "finished",
+   "finishes",
+   "finishing"
+  ],
+  "senses": [
+   {
+    "id": "finish-1",
+    "pos": "v",
+    "ko": "끝내다, 마치다",
+    "en": "to come to the end of doing something",
+    "nuance": "뒤에 동사가 오면 반드시 -ing를 쓴다. finish to eat은 틀리고 finish eating이 맞다. 한국인이 자주 틀리는 부분이다.",
+    "pattern": "finish + -ing",
+    "examples": [
+     {
+      "en": "Let me finish eating and then we'll go.",
+      "ko": "다 먹고 나서 가자.",
+      "focus": "finish eating"
+     },
+     {
+      "en": "I finished my homework before dinner yesterday.",
+      "ko": "어제 저녁 먹기 전에 숙제를 끝냈어.",
+      "focus": "finished my homework"
+     },
+     {
+      "en": "She finishes work at six on Fridays.",
+      "ko": "그 사람은 금요일엔 여섯 시에 퇴근해.",
+      "focus": "finishes work"
+     }
+    ],
+    "collocations": [
+     "finish work",
+     "finish your homework"
+    ],
+    "phrasals": [
+     {
+      "phrase": "finish up",
+      "ko": "마무리하다",
+      "example": {
+       "en": "Let's finish up here and catch the last bus.",
+       "ko": "여기 마무리하고 막차 타자.",
+       "focus": "finish up here"
+      }
+     },
+     {
+      "phrase": "finish off",
+      "ko": "다 먹어 치우다, 끝장내다",
+      "example": {
+       "en": "Can you finish off the pizza in the fridge?",
+       "ko": "냉장고에 있는 피자 좀 다 먹어 줄래?",
+       "focus": "finish off the pizza"
+      }
+     }
+    ]
+   },
+   {
+    "id": "finish-2",
+    "pos": "v",
+    "ko": "다 써 버리다, 다 먹다",
+    "en": "to use or eat all of something so none is left",
+    "nuance": "음식이나 물건이 하나도 안 남게 다 쓴다는 뜻이다. 목적어가 사람이 만든 일이 아니라 소비되는 물건일 때 이 뜻이 된다.",
+    "pattern": "finish + 음식/물건",
+    "examples": [
+     {
+      "en": "Who finished the milk and didn't tell me?",
+      "ko": "누가 우유 다 마시고 말 안 했어?",
+      "focus": "finished the milk"
+     },
+     {
+      "en": "Finish your soup before it gets cold.",
+      "ko": "국 식기 전에 다 먹어.",
+      "focus": "Finish your soup"
+     }
+    ]
+   },
+   {
+    "id": "finish-3",
+    "pos": "v",
+    "ko": "(경기에서) ~위를 하다",
+    "en": "to be in a certain place at the end of a race",
+    "nuance": "경기 결과를 말할 때 finish first, finish second처럼 쓴다. 순위 앞에 전치사를 넣지 않는 것이 포인트다.",
+    "pattern": "finish + 서수",
+    "examples": [
+     {
+      "en": "Jun finished second in the school race.",
+      "ko": "준이 교내 달리기에서 2등 했어.",
+      "focus": "finished second"
+     },
+     {
+      "en": "I just want to finish, not to win.",
+      "ko": "나는 이기는 것보다 완주가 목표야.",
+      "focus": "to finish"
+     }
+    ],
+    "collocations": [
+     "finish first"
+    ]
+   },
+   {
+    "id": "finish-4",
+    "pos": "n",
+    "ko": "결승선, 끝",
+    "en": "the last part or the end point of a race",
+    "nuance": "the finish는 경주의 끝 지점을 말하고 결승선은 the finish line이다. 영화나 이야기의 결말에는 ending을 쓴다.",
+    "pattern": "the finish line",
+    "examples": [
+     {
+      "en": "She was smiling at the finish line.",
+      "ko": "그 사람은 결승선에서 웃고 있었어.",
+      "focus": "the finish line"
+     },
+     {
+      "en": "It was a close finish between the two runners.",
+      "ko": "두 선수의 막판 승부가 아슬아슬했어.",
+      "focus": "a close finish"
+     }
+    ]
+   }
+  ],
+  "confusables": [
+   {
+    "word": "end",
+    "note": "end는 저절로 끝나는 것(The movie ends), finish는 사람이 끝내는 것에 초점이 있다."
+   },
+   {
+    "word": "complete",
+    "note": "complete는 서류나 과제를 빠짐없이 완성하는 격식체, finish는 일상 대화용이다."
+   },
+   {
+    "word": "stop",
+    "note": "stop은 도중에 그만두는 것, finish는 끝까지 다 하고 마치는 것이다."
+   }
+  ]
+ },
+ {
+  "id": "fire",
+  "headword": "fire",
+  "ipa": "/ˈfaɪər/",
+  "level": "ELEM",
+  "isCore": true,
+  "topic": "nature_animals",
+  "forms": [
+   "fired",
+   "fires",
+   "firing",
+   "firings"
+  ],
+  "senses": [
+   {
+    "id": "fire-1",
+    "pos": "n",
+    "ko": "불, 화재",
+    "en": "flames that burn and destroy things",
+    "nuance": "건물에 난 화재는 a fire로 셀 수 있고, 불 자체를 뜻할 때는 관사 없이 쓴다. on fire는 '불타는 중'이라는 뜻이다.",
+    "pattern": "be on fire / put out a fire",
+    "examples": [
+     {
+      "en": "A fire broke out in the building last night.",
+      "ko": "어젯밤에 그 건물에 불이 났어.",
+      "focus": "A fire broke out"
+     },
+     {
+      "en": "The kitchen was on fire when we arrived.",
+      "ko": "우리가 도착했을 때 주방이 불타고 있었어.",
+      "focus": "on fire"
+     },
+     {
+      "en": "Firefighters put out the fire in ten minutes.",
+      "ko": "소방관들이 십 분 만에 불을 껐어.",
+      "focus": "put out the fire"
+     }
+    ],
+    "collocations": [
+     "catch fire",
+     "put out a fire",
+     "set fire to"
+    ]
+   },
+   {
+    "id": "fire-2",
+    "pos": "v",
+    "ko": "해고하다, 자르다",
+    "en": "to make someone leave their job because of a problem",
+    "nuance": "잘못해서 잘린다는 뜻이라 기분 나쁜 말이다. 회사 사정으로 그만두게 되는 건 lay off이고, 스스로 그만두는 건 quit이다.",
+    "pattern": "fire + 사람 (for + 이유)",
+    "examples": [
+     {
+      "en": "They fired him for coming in late every day.",
+      "ko": "매일 지각해서 걔를 해고했대.",
+      "focus": "fired him for coming in late"
+     },
+     {
+      "en": "If we miss this deadline, they might fire us.",
+      "ko": "이 마감 놓치면 우리 잘릴 수도 있어.",
+      "focus": "fire us"
+     }
+    ],
+    "collocations": [
+     "get fired"
+    ]
+   },
+   {
+    "id": "fire-3",
+    "pos": "n",
+    "ko": "모닥불, 난롯불",
+    "en": "a small pile of burning wood used for heat or cooking",
+    "nuance": "캠프파이어나 벽난로의 불처럼 일부러 피운 불이다. make a fire는 불을 지피는 것이고 make fire라고 관사를 빼면 어색하다.",
+    "pattern": "make / build a fire",
+    "examples": [
+     {
+      "en": "Let's make a fire and sit outside tonight.",
+      "ko": "오늘 밤엔 불 피우고 밖에 앉아 있자.",
+      "focus": "make a fire"
+     },
+     {
+      "en": "We warmed our hands by the fire.",
+      "ko": "우리는 불 옆에서 손을 녹였어.",
+      "focus": "by the fire"
+     }
+    ]
+   },
+   {
+    "id": "fire-4",
+    "pos": "v",
+    "ko": "쏘다, 발사하다",
+    "en": "to shoot a gun or send something through the air",
+    "nuance": "총을 쏠 때 shoot과 거의 같지만 fire는 발사 동작 자체에 초점이 있다. 목표물은 fire at으로 붙인다.",
+    "pattern": "fire at + 명사",
+    "examples": [
+     {
+      "en": "The soldiers were ordered not to fire.",
+      "ko": "군인들은 발포하지 말라는 명령을 받았어.",
+      "focus": "not to fire"
+     },
+     {
+      "en": "He fired at the target and missed twice.",
+      "ko": "그 사람은 표적을 향해 쐈는데 두 번 빗나갔어.",
+      "focus": "fired at the target"
+     }
+    ]
+   }
+  ],
+  "wordFamily": [
+   {
+    "form": "firefighter",
+    "pos": "n",
+    "ko": "소방관"
+   },
+   {
+    "form": "fireplace",
+    "pos": "n",
+    "ko": "벽난로"
+   },
+   {
+    "form": "fiery",
+    "pos": "adj",
+    "ko": "불타는 듯한"
+   }
+  ],
+  "confusables": [
+   {
+    "word": "flame",
+    "note": "flame은 눈에 보이는 불꽃 하나하나, fire는 타오르는 불 전체나 화재를 말한다."
+   },
+   {
+    "word": "quit",
+    "note": "quit은 본인이 그만두는 것, be fired는 회사가 자르는 것이다. 주어가 반대다."
+   },
+   {
+    "word": "burn",
+    "note": "burn은 타는 동작이나 데는 것, fire는 그 불 자체를 가리키는 명사다."
+   }
+  ]
+ }
+]

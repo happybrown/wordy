@@ -1,0 +1,1384 @@
+[
+ {
+  "id": "store",
+  "headword": "store",
+  "ipa": "/stɔr/",
+  "level": "ELEM",
+  "isCore": true,
+  "topic": "money_shopping",
+  "forms": [
+   "stored",
+   "stores",
+   "storing"
+  ],
+  "senses": [
+   {
+    "id": "store-1",
+    "pos": "n",
+    "ko": "가게, 상점",
+    "en": "a place where you buy things",
+    "nuance": "미국식 표현이고 영국에서는 shop을 쓴다. 큰 매장은 store, 작은 전문점은 shop이 자연스러워 a coffee store는 어색하다.",
+    "pattern": "go to the store",
+    "examples": [
+     {
+      "en": "I'm going to the store, need anything?",
+      "ko": "나 가게 가는데 뭐 필요한 거 있어?",
+      "focus": "going to the store"
+     },
+     {
+      "en": "That store closes at nine on weekdays.",
+      "ko": "그 가게는 평일엔 아홉 시에 닫아.",
+      "focus": "That store closes"
+     },
+     {
+      "en": "We found the same shoes cheaper at another store.",
+      "ko": "다른 가게에서 같은 신발을 더 싸게 찾았어.",
+      "focus": "at another store"
+     }
+    ],
+    "collocations": [
+     "a grocery store",
+     "a department store"
+    ]
+   },
+   {
+    "id": "store-2",
+    "pos": "v",
+    "ko": "보관하다, 저장하다",
+    "en": "to keep things in one place until you need them",
+    "nuance": "당장 쓰지 않는 것을 어딘가에 넣어 둔다는 뜻이다. 손에 들고 있는 것을 잠깐 두는 건 put이고, store는 한동안 둘 때 쓴다.",
+    "pattern": "store + 명사 + in/at + 장소",
+    "examples": [
+     {
+      "en": "We store our winter coats under the bed.",
+      "ko": "우리는 겨울 코트를 침대 밑에 넣어 둬.",
+      "focus": "store our winter coats"
+     },
+     {
+      "en": "Milk should be stored in the fridge.",
+      "ko": "우유는 냉장고에 보관해야 해.",
+      "focus": "be stored in the fridge"
+     }
+    ],
+    "collocations": [
+     "store food"
+    ]
+   },
+   {
+    "id": "store-3",
+    "pos": "v",
+    "ko": "(데이터를) 저장하다",
+    "en": "to keep information on a computer or phone",
+    "nuance": "파일이나 사진을 기기에 담아 둔다는 뜻이다. 작업 중인 문서를 저장 버튼으로 저장하는 건 save이고, 어디에 담겨 있는지를 말할 때는 store다.",
+    "pattern": "be stored on/in + 기기",
+    "examples": [
+     {
+      "en": "All my photos are stored on this old laptop.",
+      "ko": "내 사진은 전부 이 오래된 노트북에 들어 있어.",
+      "focus": "are stored on this old laptop"
+     },
+     {
+      "en": "The app stores your password safely.",
+      "ko": "그 앱이 네 비밀번호를 안전하게 저장해 줘.",
+      "focus": "stores your password"
+     }
+    ],
+    "collocations": [
+     "store data"
+    ]
+   },
+   {
+    "id": "store-4",
+    "pos": "n",
+    "ko": "비축분, 저장품",
+    "en": "an amount of something kept for later use",
+    "nuance": "a store of + 명사 꼴로 쓰는 다소 문어적인 표현이다. 창고 자체를 뜻하지는 않으니 건물을 말할 때는 warehouse를 쓴다.",
+    "pattern": "a store of + 명사",
+    "examples": [
+     {
+      "en": "The squirrel has a store of nuts for winter.",
+      "ko": "그 다람쥐는 겨울 대비해 견과류를 모아 뒀어.",
+      "focus": "a store of nuts"
+     },
+     {
+      "en": "We keep a small store of candles for blackouts.",
+      "ko": "우리는 정전 대비해서 양초를 조금 쟁여 놔.",
+      "focus": "a small store of candles"
+     }
+    ]
+   }
+  ],
+  "wordFamily": [
+   {
+    "form": "storage",
+    "pos": "n",
+    "ko": "보관, 저장 공간"
+   }
+  ],
+  "confusables": [
+   {
+    "word": "shop",
+    "note": "미국은 store, 영국은 shop을 주로 쓴다. shop은 동사로 '쇼핑하다'도 된다."
+   },
+   {
+    "word": "save",
+    "note": "save는 파일을 저장 버튼으로 저장하는 것, store는 어딘가에 담아 두는 것이다."
+   },
+   {
+    "word": "keep",
+    "note": "keep은 계속 가지고 있는 것, store는 쓰지 않는 동안 어딘가에 넣어 두는 것이다."
+   }
+  ]
+ },
+ {
+  "id": "bank",
+  "headword": "bank",
+  "ipa": "/bæŋk/",
+  "level": "ELEM",
+  "isCore": true,
+  "topic": "money_shopping",
+  "forms": [
+   "banked",
+   "banking",
+   "banks"
+  ],
+  "senses": [
+   {
+    "id": "bank-1",
+    "pos": "n",
+    "ko": "은행",
+    "en": "a place that keeps your money safe",
+    "nuance": "건물을 말할 때는 the bank, 회사로서의 은행은 a bank다. 계좌는 a bank account이고 통장이라는 뜻의 단어는 따로 잘 안 쓴다.",
+    "pattern": "go to the bank",
+    "examples": [
+     {
+      "en": "I need to go to the bank before lunch.",
+      "ko": "점심 전에 은행에 들러야 해.",
+      "focus": "go to the bank"
+     },
+     {
+      "en": "My bank charges a fee for foreign cards.",
+      "ko": "우리 은행은 외국 카드에 수수료를 매겨.",
+      "focus": "My bank charges a fee"
+     },
+     {
+      "en": "She opened a bank account in London.",
+      "ko": "그 사람은 런던에서 은행 계좌를 만들었어.",
+      "focus": "a bank account"
+     }
+    ],
+    "collocations": [
+     "a bank account",
+     "a bank transfer"
+    ]
+   },
+   {
+    "id": "bank-2",
+    "pos": "n",
+    "ko": "강둑, 강가",
+    "en": "the land along the side of a river",
+    "nuance": "강 옆의 비탈진 땅이다. 바닷가는 beach나 shore이고 강가에만 bank를 쓴다. the banks of the Han River처럼 복수로도 자주 쓴다.",
+    "pattern": "the bank of + 강 이름",
+    "examples": [
+     {
+      "en": "We walked along the bank of the river.",
+      "ko": "우리는 강둑을 따라 걸었어.",
+      "focus": "the bank of the river"
+     },
+     {
+      "en": "Kids were fishing from the opposite bank.",
+      "ko": "아이들이 건너편 강가에서 낚시하고 있었어.",
+      "focus": "the opposite bank"
+     }
+    ],
+    "collocations": [
+     "the river bank"
+    ]
+   },
+   {
+    "id": "bank-3",
+    "pos": "n",
+    "ko": "저장소, 뱅크",
+    "en": "a place where a useful thing is collected and kept",
+    "nuance": "a blood bank, a food bank처럼 모아 두는 곳을 뜻한다. 돈과 상관없지만 '필요할 때 꺼내 쓴다'는 은행의 느낌은 그대로다.",
+    "pattern": "a + 명사 + bank",
+    "examples": [
+     {
+      "en": "Our church runs a food bank every Saturday.",
+      "ko": "우리 교회는 토요일마다 푸드뱅크를 운영해.",
+      "focus": "a food bank"
+     },
+     {
+      "en": "The hospital needs more blood in its bank.",
+      "ko": "그 병원은 혈액은행에 피가 더 필요하대.",
+      "focus": "in its bank"
+     }
+    ]
+   },
+   {
+    "id": "bank-4",
+    "pos": "v",
+    "ko": "거래하다, 은행에 넣다",
+    "en": "to keep or put money in a place that holds it",
+    "nuance": "bank with + 은행 이름으로 '어느 은행을 쓴다'는 뜻이 된다. 회화에서는 이 동사보다 use나 put money in을 더 자주 쓴다.",
+    "pattern": "bank with + 은행",
+    "examples": [
+     {
+      "en": "Which bank do you bank with these days?",
+      "ko": "요즘 어느 은행 쓰고 있어?",
+      "focus": "bank with"
+     },
+     {
+      "en": "He banked the cash right after payday.",
+      "ko": "걔는 월급날 바로 현금을 은행에 넣었어.",
+      "focus": "banked the cash"
+     }
+    ],
+    "phrasals": [
+     {
+      "phrase": "bank on",
+      "ko": "믿다, 기대다",
+      "example": {
+       "en": "Don't bank on good weather for the picnic.",
+       "ko": "소풍날 날씨 좋을 거라고 기대하지 마.",
+       "focus": "bank on good weather"
+      }
+     }
+    ]
+   }
+  ],
+  "wordFamily": [
+   {
+    "form": "banker",
+    "pos": "n",
+    "ko": "은행원, 은행가"
+   },
+   {
+    "form": "banking",
+    "pos": "n",
+    "ko": "은행 업무"
+   }
+  ],
+  "confusables": [
+   {
+    "word": "shore",
+    "note": "shore는 바다나 호수의 물가, bank는 강의 둑이다. 바닷가에 bank는 안 쓴다."
+   },
+   {
+    "word": "account",
+    "note": "bank는 은행 자체, account는 그 안에 만든 계좌다. 계좌 번호는 account number다."
+   }
+  ]
+ },
+ {
+  "id": "surprise",
+  "headword": "surprise",
+  "ipa": "/sərˈpraɪz/",
+  "level": "ELEM",
+  "isCore": true,
+  "topic": "emotions_personality",
+  "forms": [
+   "surprised",
+   "surprises",
+   "surprising"
+  ],
+  "senses": [
+   {
+    "id": "surprise-1",
+    "pos": "v",
+    "ko": "놀라게 하다",
+    "en": "to make someone feel something they did not expect",
+    "nuance": "주어가 놀라는 쪽이 아니라 놀라게 하는 쪽이다. 내가 놀랐다면 I surprised가 아니라 I was surprised라고 해야 한다.",
+    "pattern": "surprise + 사람",
+    "examples": [
+     {
+      "en": "His answer really surprised everyone in the room.",
+      "ko": "그 사람 대답에 방 안 사람들이 다 놀랐어.",
+      "focus": "surprised everyone"
+     },
+     {
+      "en": "Let's surprise Mina with a cake tonight.",
+      "ko": "오늘 밤에 케이크로 미나 깜짝 놀라게 해 주자.",
+      "focus": "surprise Mina with a cake"
+     },
+     {
+      "en": "It wouldn't surprise me if they broke up.",
+      "ko": "걔네가 헤어져도 난 안 놀랄 것 같아.",
+      "focus": "surprise me"
+     }
+    ],
+    "collocations": [
+     "surprise someone with"
+    ]
+   },
+   {
+    "id": "surprise-2",
+    "pos": "adj",
+    "ko": "놀란",
+    "en": "feeling that something was not expected",
+    "nuance": "사람이 주어면 -ed, 놀라게 하는 일이 주어면 -ing다. I'm surprising은 틀리고 I'm surprised가 맞다. 뒤에는 at이나 by를 쓴다.",
+    "pattern": "be surprised at/by + 명사",
+    "examples": [
+     {
+      "en": "I was surprised by how cold it was.",
+      "ko": "날씨가 그렇게 추울 줄 몰라서 놀랐어.",
+      "focus": "was surprised by how cold"
+     },
+     {
+      "en": "Don't be surprised if she says no.",
+      "ko": "그 사람이 싫다고 해도 놀라지 마.",
+      "focus": "be surprised if she says no"
+     }
+    ],
+    "collocations": [
+     "be surprised at"
+    ]
+   },
+   {
+    "id": "surprise-3",
+    "pos": "n",
+    "ko": "놀라운 일, 뜻밖의 일",
+    "en": "an event that you did not expect at all",
+    "nuance": "It's a surprise!는 '깜짝이야'가 아니라 '비밀이야'에 가깝다. come as a surprise는 예상 못 한 소식이라는 뜻이다.",
+    "pattern": "be a surprise (to + 사람)",
+    "examples": [
+     {
+      "en": "The news came as a complete surprise to me.",
+      "ko": "그 소식은 나한테 완전히 뜻밖이었어.",
+      "focus": "a complete surprise"
+     },
+     {
+      "en": "What a nice surprise to see you here!",
+      "ko": "여기서 널 보다니 정말 반갑다!",
+      "focus": "a nice surprise"
+     }
+    ],
+    "collocations": [
+     "come as a surprise",
+     "a big surprise"
+    ]
+   },
+   {
+    "id": "surprise-4",
+    "pos": "adj",
+    "ko": "깜짝, 예고 없는",
+    "en": "planned in secret so nobody expects it",
+    "nuance": "명사 앞에 붙여 a surprise party, a surprise test처럼 쓴다. 이때 surprised로 바꾸면 안 되고 원형 그대로 써야 한다.",
+    "pattern": "surprise + 명사",
+    "examples": [
+     {
+      "en": "We're throwing a surprise party for Tom.",
+      "ko": "우리 톰한테 깜짝 파티 해 주려고.",
+      "focus": "a surprise party"
+     },
+     {
+      "en": "Our teacher gave us a surprise test today.",
+      "ko": "선생님이 오늘 우리한테 쪽지 시험을 냈어.",
+      "focus": "a surprise test"
+     }
+    ]
+   }
+  ],
+  "wordFamily": [
+   {
+    "form": "surprising",
+    "pos": "adj",
+    "ko": "놀라운"
+   },
+   {
+    "form": "surprisingly",
+    "pos": "adv",
+    "ko": "놀랍게도"
+   }
+  ],
+  "confusables": [
+   {
+    "word": "shock",
+    "note": "shock은 나쁜 소식에 충격받는 것, surprise는 좋은 일에도 쓰는 가벼운 놀람이다."
+   },
+   {
+    "word": "amaze",
+    "note": "amaze는 감탄에 가까운 큰 놀라움, surprise는 그냥 예상 밖이라는 뜻이다."
+   },
+   {
+    "word": "expect",
+    "note": "expect는 그럴 줄 알았다는 것, surprise는 예상하지 못했다는 반대 상황이다."
+   }
+  ]
+ },
+ {
+  "id": "drop",
+  "headword": "drop",
+  "ipa": "/drɑp/",
+  "level": "ELEM",
+  "isCore": true,
+  "topic": "movement_action",
+  "forms": [
+   "dropped",
+   "dropping",
+   "drops"
+  ],
+  "senses": [
+   {
+    "id": "drop-1",
+    "pos": "v",
+    "ko": "떨어뜨리다",
+    "en": "to let something fall from your hand by accident",
+    "nuance": "보통 실수로 놓쳐서 떨어뜨리는 것이다. 물건이 스스로 떨어지는 건 fall이라 The cup fell과 I dropped the cup을 구분해야 한다.",
+    "pattern": "drop + 명사",
+    "examples": [
+     {
+      "en": "I dropped my phone in the bathroom again.",
+      "ko": "화장실에서 또 휴대폰을 떨어뜨렸어.",
+      "focus": "dropped my phone"
+     },
+     {
+      "en": "Careful, don't drop the eggs on the way.",
+      "ko": "조심해, 가다가 계란 떨어뜨리지 마.",
+      "focus": "drop the eggs"
+     },
+     {
+      "en": "He dropped the ball right before the goal.",
+      "ko": "걔가 골 직전에 공을 놓쳤어.",
+      "focus": "dropped the ball"
+     }
+    ],
+    "collocations": [
+     "drop a glass"
+    ],
+    "phrasals": [
+     {
+      "phrase": "drop off",
+      "ko": "내려 주다, 갖다 주다",
+      "example": {
+       "en": "I can drop you off at the station tomorrow.",
+       "ko": "내일 역까지 데려다줄 수 있어.",
+       "focus": "drop you off at the station"
+      }
+     },
+     {
+      "phrase": "drop by",
+      "ko": "잠깐 들르다",
+      "example": {
+       "en": "Feel free to drop by my office anytime.",
+       "ko": "언제든 내 사무실에 편하게 들러.",
+       "focus": "drop by my office"
+      }
+     },
+     {
+      "phrase": "drop out",
+      "ko": "중퇴하다, 그만두다",
+      "example": {
+       "en": "He might drop out of school next year.",
+       "ko": "걔 내년에 학교 그만둘지도 몰라.",
+       "focus": "drop out of school"
+      }
+     }
+    ]
+   },
+   {
+    "id": "drop-2",
+    "pos": "v",
+    "ko": "떨어지다, 내려가다",
+    "en": "to become lower in number, level, or amount",
+    "nuance": "가격·기온·숫자가 내려갈 때 쓴다. 자동사라 목적어가 없고, 뒤에 by 5 percent나 to 10 degrees처럼 폭과 도달점을 붙인다.",
+    "pattern": "drop to / drop by + 수치",
+    "examples": [
+     {
+      "en": "The temperature dropped to five degrees last night.",
+      "ko": "어젯밤에 기온이 5도까지 떨어졌어.",
+      "focus": "dropped to five degrees"
+     },
+     {
+      "en": "Ticket prices usually drop after the holidays.",
+      "ko": "표 값은 보통 연휴 지나면 떨어져.",
+      "focus": "prices usually drop"
+     }
+    ],
+    "collocations": [
+     "prices drop",
+     "drop sharply"
+    ]
+   },
+   {
+    "id": "drop-3",
+    "pos": "v",
+    "ko": "그만두다, 빼다",
+    "en": "to stop doing or talking about something",
+    "nuance": "수업이나 화제를 도중에 놓아 버린다는 뜻이다. Drop it은 '그 얘기 그만해'라는 뜻이고, 물건을 떨어뜨리라는 말이 아니다.",
+    "pattern": "drop + 과목/화제",
+    "examples": [
+     {
+      "en": "I dropped the class after the second week.",
+      "ko": "나 둘째 주에 그 수업 뺐어.",
+      "focus": "dropped the class"
+     },
+     {
+      "en": "Can we just drop it and move on?",
+      "ko": "그 얘기 그만하고 넘어가면 안 될까?",
+      "focus": "drop it"
+     }
+    ]
+   },
+   {
+    "id": "drop-4",
+    "pos": "n",
+    "ko": "방울",
+    "en": "a very small round amount of liquid",
+    "nuance": "a drop of + 액체 꼴로 쓴다. 눈약은 eye drops처럼 복수이고, not a drop은 '한 방울도 없다'는 강조가 된다.",
+    "pattern": "a drop of + 액체",
+    "examples": [
+     {
+      "en": "Add a few drops of lemon to the sauce.",
+      "ko": "소스에 레몬즙을 몇 방울 넣어.",
+      "focus": "a few drops of lemon"
+     },
+     {
+      "en": "I felt a drop of rain on my arm.",
+      "ko": "팔에 빗방울이 하나 떨어지는 걸 느꼈어.",
+      "focus": "a drop of rain"
+     }
+    ]
+   },
+   {
+    "id": "drop-5",
+    "pos": "n",
+    "ko": "하락, 감소",
+    "en": "a fall in the level or amount of something",
+    "nuance": "a drop in + 대상 꼴로 쓴다. in 대신 of를 쓰면 어색해서 a drop in sales라고 해야 하고 a drop of sales는 틀린다.",
+    "pattern": "a drop in + 명사",
+    "examples": [
+     {
+      "en": "There was a big drop in sales last month.",
+      "ko": "지난달에 매출이 크게 떨어졌어.",
+      "focus": "a big drop in sales"
+     },
+     {
+      "en": "A sudden drop in temperature made everyone sick.",
+      "ko": "기온이 갑자기 떨어져서 다들 아팠어.",
+      "focus": "A sudden drop in temperature"
+     }
+    ]
+   }
+  ],
+  "confusables": [
+   {
+    "word": "fall",
+    "note": "fall은 물건이 스스로 떨어지는 것, drop은 사람이 떨어뜨리는 것이다."
+   },
+   {
+    "word": "decrease",
+    "note": "decrease는 보고서에 쓰는 격식체, drop은 회화에서 쓰는 말이다."
+   },
+   {
+    "word": "throw",
+    "note": "throw는 힘을 줘서 던지는 것, drop은 그냥 손에서 놓아 떨어뜨리는 것이다."
+   }
+  ]
+ },
+ {
+  "id": "miss",
+  "headword": "miss",
+  "ipa": "/mɪs/",
+  "level": "ELEM",
+  "isCore": true,
+  "topic": "emotions_personality",
+  "forms": [
+   "missed",
+   "misses",
+   "missing"
+  ],
+  "senses": [
+   {
+    "id": "miss-1",
+    "pos": "v",
+    "ko": "그리워하다, 보고 싶다",
+    "en": "to feel sad because someone or something is not here",
+    "nuance": "한국어 '보고 싶다'를 want to see로 옮기면 어색하다. I miss you가 정답이다. 뒤에 동사가 오면 miss seeing처럼 -ing를 쓴다.",
+    "pattern": "miss + 사람/명사",
+    "examples": [
+     {
+      "en": "I really miss my friends back in Busan.",
+      "ko": "부산에 있는 친구들이 너무 보고 싶어.",
+      "focus": "miss my friends"
+     },
+     {
+      "en": "She misses eating her mom's home cooking.",
+      "ko": "그 사람은 엄마 집밥이 그립대.",
+      "focus": "misses eating"
+     },
+     {
+      "en": "We'll miss you when you move to London.",
+      "ko": "너 런던 가면 우리 많이 보고 싶을 거야.",
+      "focus": "miss you"
+     }
+    ],
+    "collocations": [
+     "miss you",
+     "miss home"
+    ]
+   },
+   {
+    "id": "miss-2",
+    "pos": "v",
+    "ko": "놓치다, 못 타다",
+    "en": "to be too late for a bus, train, or plane",
+    "nuance": "시간을 못 맞춰 놓쳤을 때 쓴다. 버스를 못 탄 건 I missed the bus이고 I lost the bus는 완전히 틀린 표현이다.",
+    "pattern": "miss + 교통편/약속",
+    "examples": [
+     {
+      "en": "Hurry up or we'll miss the last train.",
+      "ko": "서둘러, 안 그러면 막차 놓쳐.",
+      "focus": "miss the last train"
+     },
+     {
+      "en": "I missed my flight because of the traffic.",
+      "ko": "차가 막혀서 비행기를 놓쳤어.",
+      "focus": "missed my flight"
+     }
+    ],
+    "collocations": [
+     "miss the bus",
+     "miss a deadline"
+    ]
+   },
+   {
+    "id": "miss-3",
+    "pos": "v",
+    "ko": "빠지다, 못 가다",
+    "en": "to not go to a class, meeting, or event",
+    "nuance": "가야 할 자리에 못 간다는 뜻이다. 아파서 결석했다면 I missed school이고, 학교를 그만둔 것이 아니다.",
+    "pattern": "miss + 수업/회의",
+    "examples": [
+     {
+      "en": "He missed three classes last week because he was sick.",
+      "ko": "걔는 아파서 지난주에 수업 세 번 빠졌어.",
+      "focus": "missed three classes"
+     },
+     {
+      "en": "Sorry, I have to miss tonight's dinner.",
+      "ko": "미안한데 오늘 저녁 모임은 못 갈 것 같아.",
+      "focus": "miss tonight's dinner"
+     }
+    ]
+   },
+   {
+    "id": "miss-4",
+    "pos": "v",
+    "ko": "빗나가다, 못 맞히다",
+    "en": "to fail to hit or catch what you aimed at",
+    "nuance": "목표를 못 맞혔을 때 쓴다. 목적어 없이 He missed만 써도 '빗나갔다'는 뜻이 되고, 스포츠 중계에 자주 나온다.",
+    "pattern": "miss + 목표물",
+    "examples": [
+     {
+      "en": "He kicked the ball hard but missed the goal.",
+      "ko": "걔가 공을 세게 찼는데 골대를 빗나갔어.",
+      "focus": "missed the goal"
+     },
+     {
+      "en": "I threw the paper at the bin and missed.",
+      "ko": "종이를 쓰레기통에 던졌는데 빗나갔어.",
+      "focus": "and missed"
+     }
+    ]
+   },
+   {
+    "id": "miss-5",
+    "pos": "v",
+    "ko": "못 보다, 놓치고 지나가다",
+    "en": "to fail to see, hear, or notice something",
+    "nuance": "눈앞에 있었는데 못 알아챘다는 뜻이다. You can't miss it은 '금방 찾을 거야'라는 길 안내 표현이다.",
+    "pattern": "miss + 명사",
+    "examples": [
+     {
+      "en": "The bakery is on the corner, you can't miss it.",
+      "ko": "빵집은 모퉁이에 있어서 금방 찾을 거야.",
+      "focus": "can't miss it"
+     },
+     {
+      "en": "Did I miss anything important in the meeting?",
+      "ko": "회의에서 중요한 거 놓친 거 있어?",
+      "focus": "miss anything important"
+     }
+    ]
+   }
+  ],
+  "wordFamily": [
+   {
+    "form": "missing",
+    "pos": "adj",
+    "ko": "없어진, 실종된"
+   }
+  ],
+  "confusables": [
+   {
+    "word": "lose",
+    "note": "lose는 물건을 잃어버리는 것, miss는 시간을 못 맞춰 놓치는 것이다. 버스는 miss다."
+   },
+   {
+    "word": "skip",
+    "note": "skip은 일부러 빠지는 것, miss는 사정이 있어 못 가는 것에 가깝다."
+   },
+   {
+    "word": "mis",
+    "note": "mis-는 '잘못'이라는 접두사(mistake), miss는 그 자체로 하나의 단어다."
+   }
+  ]
+ },
+ {
+  "id": "worry",
+  "headword": "worry",
+  "ipa": "/ˈwɜri/",
+  "level": "ELEM",
+  "isCore": true,
+  "topic": "emotions_personality",
+  "forms": [
+   "worried",
+   "worries",
+   "worrying"
+  ],
+  "senses": [
+   {
+    "id": "worry-1",
+    "pos": "v",
+    "ko": "걱정하다",
+    "en": "to keep thinking about bad things that might happen",
+    "nuance": "대상은 about으로 붙이고 worry my exam은 틀린다. Don't worry는 위로할 때 쓰는 가장 흔한 말이다.",
+    "pattern": "worry about + 명사",
+    "examples": [
+     {
+      "en": "Don't worry about the test, you studied hard.",
+      "ko": "시험 걱정하지 마, 열심히 공부했잖아.",
+      "focus": "worry about the test"
+     },
+     {
+      "en": "My mom worries every time I travel alone.",
+      "ko": "엄마는 내가 혼자 여행할 때마다 걱정하셔.",
+      "focus": "worries every time"
+     },
+     {
+      "en": "I keep worrying that I said something rude.",
+      "ko": "내가 무례한 말을 한 건 아닌지 자꾸 걱정돼.",
+      "focus": "worrying that I said something rude"
+     }
+    ],
+    "collocations": [
+     "worry about money",
+     "Don't worry"
+    ]
+   },
+   {
+    "id": "worry-2",
+    "pos": "adj",
+    "ko": "걱정하는, 걱정스러운",
+    "en": "feeling nervous because something bad may happen",
+    "nuance": "사람이 주어면 worried, 상황이 주어면 worrying이다. I'm worrying이라고 하면 어색하고 I'm worried about ~이 자연스럽다.",
+    "pattern": "be worried about + 명사",
+    "examples": [
+     {
+      "en": "You look worried, is everything okay?",
+      "ko": "걱정 있어 보이는데, 괜찮은 거야?",
+      "focus": "look worried"
+     },
+     {
+      "en": "I'm a little worried about my dad's health.",
+      "ko": "아빠 건강이 좀 걱정돼.",
+      "focus": "worried about my dad's health"
+     }
+    ],
+    "collocations": [
+     "be worried sick"
+    ]
+   },
+   {
+    "id": "worry-3",
+    "pos": "v",
+    "ko": "걱정시키다",
+    "en": "to make another person feel nervous or afraid",
+    "nuance": "내가 걱정하는 게 아니라 남을 걱정하게 만든다는 뜻이다. 목적어가 사람이면 이 뜻이라 It worries me는 '그게 신경 쓰인다'가 된다.",
+    "pattern": "worry + 사람",
+    "examples": [
+     {
+      "en": "Her silence at dinner worried all of us.",
+      "ko": "저녁 내내 말이 없어서 우리 다 걱정했어.",
+      "focus": "worried all of us"
+     },
+     {
+      "en": "What worries me is the cost, not the time.",
+      "ko": "내가 신경 쓰이는 건 시간이 아니라 비용이야.",
+      "focus": "What worries me"
+     }
+    ]
+   },
+   {
+    "id": "worry-4",
+    "pos": "n",
+    "ko": "걱정, 근심",
+    "en": "a thought that makes you feel nervous",
+    "nuance": "셀 수 있게 my biggest worry, 셀 수 없게 full of worry 둘 다 가능하다. No worries는 '괜찮아, 신경 쓰지 마'라는 대답이다.",
+    "pattern": "a worry about + 명사",
+    "examples": [
+     {
+      "en": "Money is my biggest worry these days.",
+      "ko": "요즘 내 제일 큰 걱정은 돈이야.",
+      "focus": "my biggest worry"
+     },
+     {
+      "en": "No worries, we can do it next week.",
+      "ko": "괜찮아, 다음 주에 하면 되지.",
+      "focus": "No worries"
+     }
+    ]
+   }
+  ],
+  "wordFamily": [
+   {
+    "form": "worried",
+    "pos": "adj",
+    "ko": "걱정하는"
+   },
+   {
+    "form": "worrying",
+    "pos": "adj",
+    "ko": "걱정스러운"
+   }
+  ],
+  "confusables": [
+   {
+    "word": "care",
+    "note": "care about은 아끼고 중요하게 여기는 것, worry about은 나쁜 일이 생길까 불안한 것이다."
+   },
+   {
+    "word": "afraid",
+    "note": "afraid는 무서운 감정, worry는 앞일을 자꾸 생각하며 불안한 상태다."
+   },
+   {
+    "word": "hurry",
+    "note": "철자가 비슷하지만 hurry는 '서두르다', worry는 '걱정하다'다."
+   }
+  ]
+ },
+ {
+  "id": "key",
+  "headword": "key",
+  "ipa": "/ki/",
+  "level": "ELEM",
+  "isCore": true,
+  "topic": "home_daily",
+  "forms": [
+   "keys"
+  ],
+  "senses": [
+   {
+    "id": "key-1",
+    "pos": "n",
+    "ko": "열쇠",
+    "en": "a small metal thing you use to open a lock",
+    "nuance": "차 열쇠나 집 열쇠 모두 keys처럼 복수로 자주 말한다. 어디를 여는 열쇠인지는 the key to the door처럼 to로 붙인다.",
+    "pattern": "the key to + 장소",
+    "examples": [
+     {
+      "en": "I can't find my car keys anywhere.",
+      "ko": "차 열쇠를 아무 데서도 못 찾겠어.",
+      "focus": "my car keys"
+     },
+     {
+      "en": "Leave the key under the mat for me.",
+      "ko": "나 오게 열쇠는 매트 밑에 둬.",
+      "focus": "the key under the mat"
+     },
+     {
+      "en": "This key doesn't fit the front door.",
+      "ko": "이 열쇠는 현관문에 안 맞아.",
+      "focus": "This key doesn't fit"
+     }
+    ],
+    "collocations": [
+     "a car key",
+     "a spare key"
+    ]
+   },
+   {
+    "id": "key-2",
+    "pos": "adj",
+    "ko": "핵심적인, 가장 중요한",
+    "en": "most important; needed for something to work",
+    "nuance": "명사 앞에만 쓰는 형용사라 This is key라고 쓸 때를 빼면 서술어로 잘 안 쓴다. important보다 '없으면 안 된다'는 느낌이 강하다.",
+    "pattern": "key + 명사",
+    "examples": [
+     {
+      "en": "Sleep is a key part of staying healthy.",
+      "ko": "잠은 건강 유지의 핵심이야.",
+      "focus": "a key part"
+     },
+     {
+      "en": "She played a key role in the project.",
+      "ko": "그 사람이 이 프로젝트에서 핵심 역할을 했어.",
+      "focus": "a key role"
+     }
+    ],
+    "collocations": [
+     "a key role",
+     "key point"
+    ]
+   },
+   {
+    "id": "key-3",
+    "pos": "n",
+    "ko": "비결, 해답",
+    "en": "the thing that makes it possible to do something well",
+    "nuance": "the key to success처럼 to 뒤에 명사나 -ing를 쓴다. key of success는 틀리고, 부정사 to do를 쓰지 않는 것이 핵심이다.",
+    "pattern": "the key to + -ing",
+    "examples": [
+     {
+      "en": "The key to learning English is speaking daily.",
+      "ko": "영어를 배우는 비결은 매일 말해 보는 거야.",
+      "focus": "The key to learning English"
+     },
+     {
+      "en": "Patience is the key to teaching young kids.",
+      "ko": "어린애들 가르치는 비결은 인내심이야.",
+      "focus": "the key to teaching"
+     }
+    ],
+    "collocations": [
+     "the key to success"
+    ]
+   },
+   {
+    "id": "key-4",
+    "pos": "n",
+    "ko": "(자판·건반의) 키",
+    "en": "one of the buttons you press on a piano or keyboard",
+    "nuance": "피아노 건반과 컴퓨터 자판 둘 다 key다. 키보드 전체는 keyboard이고, 키 하나를 누르는 건 press a key라고 한다.",
+    "pattern": "press a key",
+    "examples": [
+     {
+      "en": "One key on my laptop stopped working today.",
+      "ko": "오늘 노트북 자판 하나가 안 눌려.",
+      "focus": "One key on my laptop"
+     },
+     {
+      "en": "Press any key to start the game.",
+      "ko": "아무 키나 누르면 게임이 시작돼.",
+      "focus": "Press any key"
+     }
+    ]
+   }
+  ],
+  "wordFamily": [
+   {
+    "form": "keyboard",
+    "pos": "n",
+    "ko": "자판, 건반"
+   }
+  ],
+  "confusables": [
+   {
+    "word": "lock",
+    "note": "lock은 잠그는 자물쇠 쪽, key는 그것을 여는 열쇠다. 잠그는 동작도 lock이다."
+   },
+   {
+    "word": "main",
+    "note": "main은 여럿 중 가장 큰 것, key는 없으면 안 되는 결정적인 것이다."
+   },
+   {
+    "word": "answer",
+    "note": "정답지는 an answer key라고 한다. 답 자체는 answer, 문제를 푸는 비결은 key다."
+   }
+  ]
+ },
+ {
+  "id": "inside",
+  "headword": "inside",
+  "ipa": "/ɪnˈsaɪd/",
+  "level": "ELEM",
+  "isCore": true,
+  "topic": "home_daily",
+  "forms": [
+   "insides"
+  ],
+  "senses": [
+   {
+    "id": "inside-1",
+    "pos": "prep",
+    "ko": "~ 안에",
+    "en": "in the space that is surrounded by something",
+    "nuance": "뒤에 of를 붙이지 않는 것이 핵심이다. inside of the box보다 inside the box가 표준이고, 경계 안쪽임을 in보다 분명히 강조한다.",
+    "pattern": "inside + 명사",
+    "examples": [
+     {
+      "en": "Your passport is inside the blue bag.",
+      "ko": "여권은 파란 가방 안에 있어.",
+      "focus": "inside the blue bag"
+     },
+     {
+      "en": "Please wait inside the building until it stops raining.",
+      "ko": "비 그칠 때까지 건물 안에서 기다리세요.",
+      "focus": "inside the building"
+     },
+     {
+      "en": "There was a note inside the birthday card.",
+      "ko": "생일 카드 안에 쪽지가 들어 있었어.",
+      "focus": "inside the birthday card"
+     }
+    ],
+    "collocations": [
+     "inside the box",
+     "inside the house"
+    ]
+   },
+   {
+    "id": "inside-2",
+    "pos": "adv",
+    "ko": "안에서, 안으로",
+    "en": "into or in a building, not out in the open air",
+    "nuance": "뒤에 명사를 붙이지 않고 문장 끝에 그냥 쓴다. Let's go inside는 '들어가자'이고 indoors보다 훨씬 구어적이다.",
+    "pattern": "go / stay inside",
+    "examples": [
+     {
+      "en": "It's freezing out here, let's go inside.",
+      "ko": "여기 너무 추워, 안으로 들어가자.",
+      "focus": "go inside"
+     },
+     {
+      "en": "We stayed inside all day because of the rain.",
+      "ko": "비 때문에 하루 종일 집에 있었어.",
+      "focus": "stayed inside all day"
+     }
+    ],
+    "collocations": [
+     "come inside"
+    ]
+   },
+   {
+    "id": "inside-3",
+    "pos": "n",
+    "ko": "안쪽, 내부",
+    "en": "the part of something that faces in",
+    "nuance": "the inside of + 명사 꼴로 쓴다. 옷을 뒤집어 입는 건 inside out이라는 굳어진 표현이고, 반대말은 the outside다.",
+    "pattern": "the inside of + 명사",
+    "examples": [
+     {
+      "en": "The inside of the car smells like coffee.",
+      "ko": "차 안에서 커피 냄새가 나.",
+      "focus": "The inside of the car"
+     },
+     {
+      "en": "Your shirt is on inside out again.",
+      "ko": "너 셔츠 또 뒤집어 입었어.",
+      "focus": "inside out"
+     }
+    ]
+   },
+   {
+    "id": "inside-4",
+    "pos": "adj",
+    "ko": "내부의, 안쪽의",
+    "en": "on or from the part that faces in",
+    "nuance": "명사 앞에 붙여 the inside pocket처럼 쓴다. inside information은 '내부 정보'라는 뜻으로 회사나 뉴스 맥락에 자주 나온다.",
+    "pattern": "inside + 명사",
+    "examples": [
+     {
+      "en": "Keep your wallet in the inside pocket.",
+      "ko": "지갑은 안주머니에 넣어 둬.",
+      "focus": "the inside pocket"
+     },
+     {
+      "en": "He had inside information about the new job.",
+      "ko": "걔는 그 새 일자리에 대한 내부 정보를 갖고 있었어.",
+      "focus": "inside information"
+     }
+    ]
+   }
+  ],
+  "confusables": [
+   {
+    "word": "in",
+    "note": "in은 위치를 두루 말하고, inside는 경계 안쪽임을 분명히 강조한다."
+   },
+   {
+    "word": "indoors",
+    "note": "indoors는 '실내에서'라는 뜻의 부사로 격식체, inside가 회화에서 더 흔하다."
+   },
+   {
+    "word": "into",
+    "note": "into는 밖에서 안으로 들어가는 이동, inside는 이미 안에 있는 상태를 말한다."
+   }
+  ]
+ },
+ {
+  "id": "paint",
+  "headword": "paint",
+  "ipa": "/peɪnt/",
+  "level": "ELEM",
+  "isCore": true,
+  "topic": "culture_arts",
+  "forms": [
+   "painted",
+   "painting",
+   "paintings",
+   "paints"
+  ],
+  "senses": [
+   {
+    "id": "paint-1",
+    "pos": "v",
+    "ko": "칠하다",
+    "en": "to put color on a wall or object with a brush",
+    "nuance": "벽이나 가구에 색을 입히는 일이다. 색을 함께 말할 때는 paint the door white처럼 목적어 뒤에 색을 바로 붙인다.",
+    "pattern": "paint + 명사 + 색깔",
+    "examples": [
+     {
+      "en": "We painted the kitchen wall light green.",
+      "ko": "우리 주방 벽을 연두색으로 칠했어.",
+      "focus": "painted the kitchen wall light green"
+     },
+     {
+      "en": "The door is still wet, don't touch the paint.",
+      "ko": "문 아직 안 말랐어, 페인트 만지지 마.",
+      "focus": "the paint"
+     },
+     {
+      "en": "He's painting the fence this weekend.",
+      "ko": "걔는 이번 주말에 울타리를 칠할 거야.",
+      "focus": "painting the fence"
+     }
+    ],
+    "collocations": [
+     "paint the wall",
+     "wet paint"
+    ]
+   },
+   {
+    "id": "paint-2",
+    "pos": "v",
+    "ko": "그리다",
+    "en": "to make a picture using colors and a brush",
+    "nuance": "붓과 물감으로 그릴 때만 paint이고 연필로 그리면 draw다. 한국어 '그림 그리다'를 전부 draw로 옮기는 실수가 잦다.",
+    "pattern": "paint + 그림/대상",
+    "examples": [
+     {
+      "en": "She paints beautiful pictures of the sea.",
+      "ko": "그 사람은 바다 그림을 아름답게 그려.",
+      "focus": "paints beautiful pictures"
+     },
+     {
+      "en": "My daughter painted a picture of our dog.",
+      "ko": "우리 딸이 우리 개를 그림으로 그렸어.",
+      "focus": "painted a picture"
+     }
+    ],
+    "collocations": [
+     "paint a picture"
+    ]
+   },
+   {
+    "id": "paint-3",
+    "pos": "n",
+    "ko": "물감, 페인트",
+    "en": "a colored liquid you put on things with a brush",
+    "nuance": "셀 수 없는 명사라 a paint라고 하지 않는다. 종류를 말할 때만 paints로 쓰고, 물감 세트도 paints라고 부른다.",
+    "pattern": "a can / tube of paint",
+    "examples": [
+     {
+      "en": "We need one more can of white paint.",
+      "ko": "흰색 페인트 한 통 더 필요해.",
+      "focus": "one more can of white paint"
+     },
+     {
+      "en": "There's paint on your sleeve again.",
+      "ko": "너 소매에 또 물감 묻었어.",
+      "focus": "paint on your sleeve"
+     }
+    ]
+   },
+   {
+    "id": "paint-4",
+    "pos": "n",
+    "ko": "그림, 회화 작품",
+    "en": "a picture that an artist made with colors",
+    "nuance": "painting은 완성된 작품 하나를 뜻해 셀 수 있다. drawing은 연필 그림, painting은 물감 그림이라는 차이가 있다.",
+    "pattern": "a painting of + 대상",
+    "examples": [
+     {
+      "en": "That painting of the river costs too much.",
+      "ko": "저 강 그림은 너무 비싸.",
+      "focus": "That painting of the river"
+     },
+     {
+      "en": "The museum has paintings from the 1800s.",
+      "ko": "그 미술관엔 1800년대 그림들이 있어.",
+      "focus": "paintings from the 1800s"
+     }
+    ]
+   }
+  ],
+  "wordFamily": [
+   {
+    "form": "painter",
+    "pos": "n",
+    "ko": "화가, 페인트공"
+   },
+   {
+    "form": "painting",
+    "pos": "n",
+    "ko": "그림, 회화"
+   }
+  ],
+  "confusables": [
+   {
+    "word": "draw",
+    "note": "draw는 연필이나 펜으로 선을 그리는 것, paint는 물감과 붓으로 색을 칠하는 것이다."
+   },
+   {
+    "word": "color",
+    "note": "color는 색 자체나 색칠하기, paint는 물감이라는 물건과 칠하는 동작이다."
+   },
+   {
+    "word": "picture",
+    "note": "picture는 사진과 그림을 다 포함하고, painting은 물감으로 그린 그림만 말한다."
+   }
+  ]
+ },
+ {
+  "id": "hit",
+  "headword": "hit",
+  "ipa": "/hɪt/",
+  "level": "ELEM",
+  "isCore": true,
+  "topic": "movement_action",
+  "forms": [
+   "hits",
+   "hitting"
+  ],
+  "senses": [
+   {
+    "id": "hit-1",
+    "pos": "v",
+    "ko": "때리다, 치다",
+    "en": "to touch someone or something hard and quickly",
+    "nuance": "과거형도 hit라서 형태가 안 변한다. hitted는 없는 말이다. 일부러 때리는 것과 공을 치는 것 둘 다 쓴다.",
+    "pattern": "hit + 사람/사물",
+    "examples": [
+     {
+      "en": "He hit the ball over the fence yesterday.",
+      "ko": "걔가 어제 공을 담장 밖으로 넘겼어.",
+      "focus": "hit the ball"
+     },
+     {
+      "en": "Stop hitting your brother with that stick.",
+      "ko": "그 막대기로 동생 좀 때리지 마.",
+      "focus": "hitting your brother"
+     },
+     {
+      "en": "I hit my head on the low door.",
+      "ko": "낮은 문에 머리를 부딪혔어.",
+      "focus": "hit my head"
+     }
+    ],
+    "collocations": [
+     "hit the ball",
+     "hit your head"
+    ]
+   },
+   {
+    "id": "hit-2",
+    "pos": "v",
+    "ko": "부딪치다, 충돌하다",
+    "en": "to move into something with force by accident",
+    "nuance": "사고를 말할 때는 보통 수동으로 be hit by a car라고 한다. 차가 사람을 친 상황에 crash를 쓰면 어색하다.",
+    "pattern": "be hit by + 명사",
+    "examples": [
+     {
+      "en": "The car hit a tree but nobody got hurt.",
+      "ko": "차가 나무를 들이받았는데 다친 사람은 없었어.",
+      "focus": "hit a tree"
+     },
+     {
+      "en": "A cyclist was hit by a taxi this morning.",
+      "ko": "오늘 아침에 자전거 타던 사람이 택시에 치였어.",
+      "focus": "was hit by a taxi"
+     }
+    ],
+    "collocations": [
+     "get hit by a car"
+    ]
+   },
+   {
+    "id": "hit-3",
+    "pos": "v",
+    "ko": "덮치다, 닥치다",
+    "en": "to affect a place or person suddenly and badly",
+    "nuance": "태풍·위기·나쁜 소식이 갑자기 닥칠 때 쓴다. 주어가 사람이 아니라 사건이라는 점이 앞의 뜻들과 다르다.",
+    "pattern": "hit + 장소/대상",
+    "examples": [
+     {
+      "en": "A big storm hit the coast last night.",
+      "ko": "어젯밤 해안 지역에 큰 폭풍이 덮쳤어.",
+      "focus": "hit the coast"
+     },
+     {
+      "en": "The bad news hit her really hard.",
+      "ko": "그 나쁜 소식이 그 사람한테 정말 큰 충격이었어.",
+      "focus": "hit her really hard"
+     }
+    ]
+   },
+   {
+    "id": "hit-4",
+    "pos": "n",
+    "ko": "히트작, 인기작",
+    "en": "a song, movie, or show that many people love",
+    "nuance": "크게 성공한 작품을 말한다. be a hit with young people처럼 with로 인기 있는 대상을 붙이는 것이 포인트다.",
+    "pattern": "be a hit (with + 사람)",
+    "examples": [
+     {
+      "en": "That song was a huge hit ten years ago.",
+      "ko": "그 노래 십 년 전에 엄청 히트했어.",
+      "focus": "a huge hit"
+     },
+     {
+      "en": "The new show is a hit with teenagers.",
+      "ko": "그 새 프로그램이 십 대들한테 인기 많아.",
+      "focus": "a hit with teenagers"
+     }
+    ]
+   },
+   {
+    "id": "hit-5",
+    "pos": "n",
+    "ko": "타격, 한 대",
+    "en": "one strong touch that lands on something",
+    "nuance": "권투나 야구에서 한 번의 타격을 센다. take a hit은 실제 타격뿐 아니라 '손해를 입다'라는 비유로도 쓴다.",
+    "pattern": "take a hit",
+    "examples": [
+     {
+      "en": "He took a hard hit in the first round.",
+      "ko": "걔는 1라운드에서 세게 한 방 맞았어.",
+      "focus": "a hard hit"
+     },
+     {
+      "en": "Our sales took a big hit this winter.",
+      "ko": "이번 겨울에 우리 매출이 크게 타격을 입었어.",
+      "focus": "took a big hit"
+     }
+    ]
+   }
+  ],
+  "confusables": [
+   {
+    "word": "beat",
+    "note": "beat는 반복해서 때리거나 경기에서 이기는 것, hit는 한 번 치는 동작이다."
+   },
+   {
+    "word": "strike",
+    "note": "strike는 뉴스나 격식체에서 쓰는 말, hit는 일상 회화에서 쓰는 말이다."
+   },
+   {
+    "word": "crash",
+    "note": "crash는 차끼리 부딪히는 사고 전체, hit는 무엇을 들이받았는지에 초점이 있다."
+   }
+  ]
+ }
+]

@@ -1,0 +1,2834 @@
+[
+ {
+  "id": "mommy",
+  "headword": "mommy",
+  "ipa": "/ˈmɑːmi/",
+  "level": "ELEM",
+  "isCore": false,
+  "topic": "people_family",
+  "forms": [
+   "mommie",
+   "mommies"
+  ],
+  "senses": [
+   {
+    "id": "mommy-1",
+    "pos": "n",
+    "ko": "엄마",
+    "en": "a word small children use for their mother",
+    "nuance": "어린아이가 쓰는 말이라 어른이 쓰면 아기 같은 느낌이 난다. 어른은 mom, 격식 있는 자리에서는 mother를 쓴다.",
+    "pattern": "my / your mommy",
+    "examples": [
+     {
+      "en": "Mommy, can I have one more cookie, please?",
+      "ko": "엄마, 나 쿠키 하나만 더 먹어도 돼?",
+      "focus": "Mommy, can I have"
+     },
+     {
+      "en": "The little boy started crying for his mommy.",
+      "ko": "그 꼬마가 엄마를 찾으며 울기 시작했어.",
+      "focus": "crying for his mommy"
+     }
+    ],
+    "collocations": [
+     "my mommy",
+     "cry for mommy"
+    ]
+   }
+  ],
+  "confusables": [
+   {
+    "word": "mom",
+    "note": "mommy는 유치원생이 쓰는 말, mom은 나이와 상관없이 쓰는 일상어다. 어른이 mommy라고 하면 어리광처럼 들린다."
+   },
+   {
+    "word": "mum",
+    "note": "mommy·mom은 미국식, mum·mummy는 영국식이다. 섞어 쓰면 어색하니 한쪽으로 통일한다."
+   }
+  ]
+ },
+ {
+  "id": "mum",
+  "headword": "mum",
+  "ipa": "/mʌm/",
+  "level": "ELEM",
+  "isCore": false,
+  "topic": "people_family",
+  "forms": [
+   "mums"
+  ],
+  "senses": [
+   {
+    "id": "mum-1",
+    "pos": "n",
+    "ko": "엄마",
+    "en": "the British word children and adults use for their mother",
+    "nuance": "영국·호주에서 쓰는 말이라 미국 드라마에는 거의 안 나온다. 미국식으로 말할 거면 mom으로 통일한다.",
+    "pattern": "my / your mum",
+    "examples": [
+     {
+      "en": "My mum makes the best curry in our family.",
+      "ko": "우리 엄마가 우리 집에서 카레를 제일 잘 만들어.",
+      "focus": "My mum makes"
+     },
+     {
+      "en": "Emma calls her mum in London every Sunday night.",
+      "ko": "엠마는 일요일 밤마다 런던에 있는 엄마한테 전화해.",
+      "focus": "calls her mum"
+     }
+    ],
+    "collocations": [
+     "my mum",
+     "mum and dad"
+    ]
+   }
+  ],
+  "confusables": [
+   {
+    "word": "mom",
+    "note": "뜻은 같지만 mum은 영국식, mom은 미국식 철자다. 발음도 mum은 '멈', mom은 '맘'에 가깝다."
+   }
+  ]
+ },
+ {
+  "id": "noon",
+  "headword": "noon",
+  "ipa": "/nuːn/",
+  "level": "ELEM",
+  "isCore": false,
+  "topic": "time_quantity",
+  "forms": [],
+  "senses": [
+   {
+    "id": "noon-1",
+    "pos": "n",
+    "ko": "정오, 낮 12시",
+    "en": "twelve o'clock in the middle of the day",
+    "nuance": "앞에 the를 붙이지 않고 at noon이라고 한다. 점심 무렵 전체를 뜻하는 말이 아니라 딱 12시를 가리킨다.",
+    "pattern": "at noon / before noon",
+    "examples": [
+     {
+      "en": "The meeting starts at noon, so don't be late.",
+      "ko": "회의는 정오에 시작하니까 늦지 마.",
+      "focus": "at noon"
+     },
+     {
+      "en": "Jun slept until noon after his night shift.",
+      "ko": "준은 야간 근무 끝나고 낮 12시까지 잤어.",
+      "focus": "slept until noon"
+     }
+    ],
+    "collocations": [
+     "at noon",
+     "before noon"
+    ]
+   }
+  ],
+  "confusables": [
+   {
+    "word": "afternoon",
+    "note": "noon은 딱 12시 한 시점, afternoon은 12시부터 저녁까지의 시간대다. at noon과 in the afternoon으로 전치사도 다르다."
+   },
+   {
+    "word": "midnight",
+    "note": "noon은 낮 12시, midnight은 밤 12시다. 한국어 '자정'과 '정오'를 헷갈리듯 이 둘을 바꿔 쓰기 쉽다."
+   }
+  ]
+ },
+ {
+  "id": "notebook",
+  "headword": "notebook",
+  "ipa": "/ˈnoʊtbʊk/",
+  "level": "ELEM",
+  "isCore": false,
+  "topic": "school_learning",
+  "forms": [
+   "notebooks"
+  ],
+  "senses": [
+   {
+    "id": "notebook-1",
+    "pos": "n",
+    "ko": "공책, 노트",
+    "en": "a book of empty pages for writing things down",
+    "nuance": "한국어 '노트'를 note라고 하면 쪽지·메모라는 뜻이 되니 공책은 notebook이라고 한다. 노트북 컴퓨터는 laptop이다.",
+    "pattern": "in a notebook",
+    "examples": [
+     {
+      "en": "Mina writes new words in a small notebook every day.",
+      "ko": "미나는 매일 작은 공책에 새 단어를 적어.",
+      "focus": "in a small notebook"
+     },
+     {
+      "en": "I left my math notebook on the bus yesterday.",
+      "ko": "나 어제 버스에 수학 공책을 두고 내렸어.",
+      "focus": "my math notebook"
+     }
+    ],
+    "collocations": [
+     "open a notebook",
+     "in my notebook"
+    ]
+   }
+  ],
+  "confusables": [
+   {
+    "word": "laptop",
+    "note": "한국에서 말하는 '노트북 컴퓨터'는 영어로 laptop이다. notebook이라고 하면 보통 종이 공책으로 알아듣는다."
+   },
+   {
+    "word": "note",
+    "note": "note는 적어 둔 메모 한 장, notebook은 그 메모를 적는 공책 전체다."
+   }
+  ]
+ },
+ {
+  "id": "olympics",
+  "headword": "olympics",
+  "ipa": "/əˈlɪmpɪks/",
+  "level": "ELEM",
+  "isCore": false,
+  "topic": "sports_leisure",
+  "forms": [],
+  "senses": [
+   {
+    "id": "olympics-1",
+    "pos": "n",
+    "ko": "올림픽",
+    "en": "the big sports event held every four years for many countries",
+    "nuance": "항상 -s가 붙고 앞에 the를 쓴다. Olympic은 형용사라 Olympic Games, Olympic medal처럼 명사 앞에만 붙인다.",
+    "pattern": "the Olympics",
+    "examples": [
+     {
+      "en": "Did you watch the Olympics on TV last night?",
+      "ko": "어젯밤에 올림픽 봤어?",
+      "focus": "watch the Olympics"
+     },
+     {
+      "en": "Tom hopes to run in the Olympics someday.",
+      "ko": "톰은 언젠가 올림픽에 나가서 뛰고 싶어 해.",
+      "focus": "run in the Olympics"
+     }
+    ],
+    "collocations": [
+     "the Winter Olympics",
+     "at the Olympics"
+    ]
+   }
+  ],
+  "wordFamily": [
+   {
+    "form": "Olympic",
+    "pos": "adj",
+    "ko": "올림픽의"
+   }
+  ],
+  "confusables": [
+   {
+    "word": "olympic",
+    "note": "the Olympics는 대회 자체, Olympic은 Olympic medal처럼 명사를 꾸미는 형용사다. the Olympic만 쓰면 어색하다."
+   }
+  ]
+ },
+ {
+  "id": "painting",
+  "headword": "painting",
+  "ipa": "/ˈpeɪntɪŋ/",
+  "level": "ELEM",
+  "isCore": false,
+  "topic": "culture_arts",
+  "forms": [
+   "paintings"
+  ],
+  "senses": [
+   {
+    "id": "painting-1",
+    "pos": "n",
+    "ko": "그림",
+    "en": "a picture made with colors on paper or cloth",
+    "nuance": "물감으로 그린 그림만 painting이고, 연필로 그린 것은 drawing이다. 사진은 painting이 아니라 photo다.",
+    "pattern": "a painting of + 대상",
+    "examples": [
+     {
+      "en": "There's a huge painting of the sea in the lobby.",
+      "ko": "로비에 바다를 그린 커다란 그림이 걸려 있어.",
+      "focus": "a huge painting of the sea"
+     },
+     {
+      "en": "Emma sold two paintings at the school art fair.",
+      "ko": "엠마는 학교 미술 장터에서 그림 두 점을 팔았어.",
+      "focus": "sold two paintings"
+     }
+    ],
+    "collocations": [
+     "an oil painting",
+     "hang a painting"
+    ]
+   }
+  ],
+  "wordFamily": [
+   {
+    "form": "paint",
+    "pos": "v",
+    "ko": "그리다, 칠하다"
+   },
+   {
+    "form": "painter",
+    "pos": "n",
+    "ko": "화가"
+   }
+  ],
+  "confusables": [
+   {
+    "word": "drawing",
+    "note": "painting은 물감으로 칠한 그림, drawing은 연필이나 펜으로 선을 그은 그림이다."
+   }
+  ]
+ },
+ {
+  "id": "palace",
+  "headword": "palace",
+  "ipa": "/ˈpæləs/",
+  "level": "ELEM",
+  "isCore": false,
+  "topic": "travel_transport",
+  "forms": [
+   "palaces"
+  ],
+  "senses": [
+   {
+    "id": "palace-1",
+    "pos": "n",
+    "ko": "궁궐, 궁전",
+    "en": "a very large house where a king or queen lives",
+    "nuance": "경복궁처럼 이름이 붙으면 Gyeongbokgung Palace로 뒤에 붙여 쓴다. 성벽과 탑이 있는 요새 같은 건물은 castle이다.",
+    "pattern": "visit / go to a palace",
+    "examples": [
+     {
+      "en": "We walked around the palace in hanbok last Saturday.",
+      "ko": "지난 토요일에 한복 입고 궁궐을 둘러봤어.",
+      "focus": "around the palace"
+     },
+     {
+      "en": "The palace opens at nine and closes at six.",
+      "ko": "궁궐은 9시에 열고 6시에 닫아요.",
+      "focus": "The palace opens"
+     }
+    ],
+    "collocations": [
+     "visit a palace",
+     "the royal palace"
+    ]
+   }
+  ],
+  "confusables": [
+   {
+    "word": "castle",
+    "note": "palace는 왕이 사는 화려한 궁전, castle은 적을 막으려고 두꺼운 벽을 쌓은 성이다."
+   },
+   {
+    "word": "place",
+    "note": "철자가 한 글자 차이지만 palace는 '궁전', place는 '장소'다. 발음도 '팰러스'와 '플레이스'로 전혀 다르다."
+   }
+  ]
+ },
+ {
+  "id": "pants",
+  "headword": "pants",
+  "ipa": "/pænts/",
+  "level": "ELEM",
+  "isCore": false,
+  "topic": "description_quality",
+  "forms": [],
+  "senses": [
+   {
+    "id": "pants-1",
+    "pos": "n",
+    "ko": "바지",
+    "en": "clothes that cover your legs from the waist down",
+    "nuance": "다리가 둘이라 항상 복수형이고 a pants라고 하지 않는다. 한 벌을 셀 땐 a pair of pants라고 한다.",
+    "pattern": "a pair of pants",
+    "examples": [
+     {
+      "en": "These pants are too tight around the waist.",
+      "ko": "이 바지 허리가 너무 꽉 껴.",
+      "focus": "These pants are too tight"
+     },
+     {
+      "en": "Jun bought two pairs of black pants for work.",
+      "ko": "준은 회사에서 입을 검은 바지 두 벌을 샀어.",
+      "focus": "two pairs of black pants"
+     }
+    ],
+    "collocations": [
+     "a pair of pants",
+     "wear pants"
+    ]
+   }
+  ],
+  "confusables": [
+   {
+    "word": "trousers",
+    "note": "미국에서는 pants가 바지지만, 영국에서 pants는 속옷을 뜻하고 바지는 trousers라고 한다."
+   },
+   {
+    "word": "pant",
+    "note": "pants는 바지, 단수형 pant는 '헐떡이다'라는 동사다. 바지는 항상 -s를 붙여야 한다."
+   }
+  ]
+ },
+ {
+  "id": "pardon",
+  "headword": "pardon",
+  "ipa": "/ˈpɑːrdn/",
+  "level": "ELEM",
+  "isCore": false,
+  "topic": "communication",
+  "forms": [
+   "pardoned",
+   "pardoning",
+   "pardons"
+  ],
+  "senses": [
+   {
+    "id": "pardon-1",
+    "pos": "n",
+    "ko": "뭐라고요?, 용서",
+    "en": "a word you say when you did not hear someone",
+    "nuance": "못 알아들었을 때 끝을 올려 Pardon?이라고 한다. What?만 쓰면 무례하게 들리므로 처음 보는 사람에겐 이 표현이 안전하다.",
+    "pattern": "Pardon? / I beg your pardon.",
+    "examples": [
+     {
+      "en": "Pardon? Could you say the address one more time?",
+      "ko": "네? 주소 한 번만 더 말씀해 주시겠어요?",
+      "focus": "Pardon?"
+     },
+     {
+      "en": "I beg your pardon, I stepped on your foot.",
+      "ko": "죄송합니다, 제가 발을 밟았네요.",
+      "focus": "I beg your pardon"
+     }
+    ],
+    "collocations": [
+     "I beg your pardon"
+    ]
+   },
+   {
+    "id": "pardon-2",
+    "pos": "v",
+    "ko": "용서하다",
+    "en": "to officially forgive someone for something bad",
+    "nuance": "일상 대화에서 '용서하다'는 forgive를 쓰고, pardon은 법이나 공식 발표 같은 딱딱한 자리에 쓴다.",
+    "pattern": "pardon + 사람",
+    "examples": [
+     {
+      "en": "Pardon me for asking, but how old are you?",
+      "ko": "실례지만 나이가 어떻게 되세요?",
+      "focus": "Pardon me for asking"
+     },
+     {
+      "en": "The court pardoned him after twenty years in prison.",
+      "ko": "법원은 20년 복역한 그를 사면했다.",
+      "focus": "pardoned him"
+     }
+    ],
+    "collocations": [
+     "pardon me"
+    ]
+   }
+  ],
+  "confusables": [
+   {
+    "word": "excuse",
+    "note": "Excuse me는 말을 걸거나 지나갈 때, Pardon?은 상대 말을 못 알아들었을 때 쓴다."
+   },
+   {
+    "word": "forgive",
+    "note": "forgive는 마음으로 용서하는 일상어, pardon은 법적·공식적으로 죄를 없애 주는 딱딱한 말이다."
+   }
+  ]
+ },
+ {
+  "id": "pear",
+  "headword": "pear",
+  "ipa": "/per/",
+  "level": "ELEM",
+  "isCore": false,
+  "topic": "food_cooking",
+  "forms": [
+   "pears"
+  ],
+  "senses": [
+   {
+    "id": "pear-1",
+    "pos": "n",
+    "ko": "배",
+    "en": "a sweet green or yellow fruit that is wide at the bottom",
+    "nuance": "발음이 pair와 똑같은 '페어'이고 '피어'가 아니다. 한국 배는 서양 배와 모양이 달라 Korean pear라고 설명해 주면 좋다.",
+    "pattern": "a pear / pears",
+    "examples": [
+     {
+      "en": "Mina cut a pear into thin slices for dessert.",
+      "ko": "미나가 후식으로 배를 얇게 썰었어.",
+      "focus": "cut a pear"
+     },
+     {
+      "en": "These pears are still hard, so wait a few days.",
+      "ko": "이 배들은 아직 단단하니까 며칠 더 기다려.",
+      "focus": "These pears are still hard"
+     }
+    ],
+    "collocations": [
+     "a ripe pear",
+     "peel a pear"
+    ]
+   }
+  ],
+  "confusables": [
+   {
+    "word": "pair",
+    "note": "발음이 똑같아서 소리만으로는 구별이 안 된다. pear는 과일 배, pair는 짝·한 쌍이다."
+   },
+   {
+    "word": "bear",
+    "note": "철자가 비슷해 보이지만 pear는 '페어', bear는 '베어'다. 뜻도 배와 곰으로 전혀 다르다."
+   }
+  ]
+ },
+ {
+  "id": "pet",
+  "headword": "pet",
+  "ipa": "/pet/",
+  "level": "ELEM",
+  "isCore": false,
+  "topic": "nature_animals",
+  "forms": [
+   "pets"
+  ],
+  "senses": [
+   {
+    "id": "pet-1",
+    "pos": "n",
+    "ko": "반려동물",
+    "en": "an animal you keep at home for company",
+    "nuance": "동물 종류가 아니라 '집에서 기르는 동물'이라는 역할을 뜻한다. 기른다고 할 때 grow a pet이 아니라 have나 keep a pet을 쓴다.",
+    "pattern": "have / keep a pet",
+    "examples": [
+     {
+      "en": "Do you have any pets at home right now?",
+      "ko": "지금 집에 반려동물 키우는 거 있어?",
+      "focus": "have any pets"
+     },
+     {
+      "en": "Our building doesn't allow pets bigger than a cat.",
+      "ko": "우리 건물은 고양이보다 큰 반려동물은 못 키우게 해.",
+      "focus": "allow pets"
+     }
+    ],
+    "collocations": [
+     "keep a pet",
+     "a pet dog"
+    ]
+   }
+  ],
+  "confusables": [
+   {
+    "word": "animal",
+    "note": "animal은 동물 전체, pet은 그중 사람이 집에서 함께 사는 동물이다. 동물원의 사자는 animal이지 pet이 아니다."
+   }
+  ],
+  "memoryHook": "pet은 손으로 쓰다듬는다는 뜻도 있어서, 쓰다듬어 주는 동물이라고 기억하면 쉽다."
+ },
+ {
+  "id": "picnic",
+  "headword": "picnic",
+  "ipa": "/ˈpɪknɪk/",
+  "level": "ELEM",
+  "isCore": false,
+  "topic": "sports_leisure",
+  "forms": [
+   "picnics"
+  ],
+  "senses": [
+   {
+    "id": "picnic-1",
+    "pos": "n",
+    "ko": "소풍",
+    "en": "a meal you eat outside, usually sitting on the grass",
+    "nuance": "'소풍 가다'는 go to picnic이 아니라 go on a picnic 또는 have a picnic이다. 밖에서 먹는 식사가 핵심이라 그냥 산책은 picnic이 아니다.",
+    "pattern": "go on a picnic",
+    "examples": [
+     {
+      "en": "Let's go on a picnic by the river this Sunday.",
+      "ko": "이번 일요일에 강가로 소풍 가자.",
+      "focus": "go on a picnic"
+     },
+     {
+      "en": "We had a picnic under the cherry trees last spring.",
+      "ko": "지난봄에 벚나무 아래에서 소풍을 했어.",
+      "focus": "had a picnic"
+     }
+    ],
+    "collocations": [
+     "go on a picnic",
+     "a picnic lunch"
+    ]
+   }
+  ],
+  "confusables": [
+   {
+    "word": "camping",
+    "note": "picnic은 밖에서 밥 먹고 그날 돌아오는 소풍, camping은 텐트를 치고 자고 오는 것이다."
+   }
+  ]
+ },
+ {
+  "id": "poster",
+  "headword": "poster",
+  "ipa": "/ˈpoʊstər/",
+  "level": "ELEM",
+  "isCore": false,
+  "topic": "culture_arts",
+  "forms": [
+   "posters"
+  ],
+  "senses": [
+   {
+    "id": "poster-1",
+    "pos": "n",
+    "ko": "포스터",
+    "en": "a large printed sheet you put on a wall",
+    "nuance": "벽에 붙이는 것이라 put up a poster나 hang a poster라고 한다. 사람에게 알리는 안내문은 notice, 작은 광고지는 flyer다.",
+    "pattern": "put up a poster",
+    "examples": [
+     {
+      "en": "Tom put up a poster for the concert near the door.",
+      "ko": "톰이 문 근처에 콘서트 포스터를 붙였어.",
+      "focus": "put up a poster"
+     },
+     {
+      "en": "Her room is covered with movie posters from the nineties.",
+      "ko": "그 애 방은 90년대 영화 포스터로 도배돼 있어.",
+      "focus": "covered with movie posters"
+     }
+    ],
+    "collocations": [
+     "a movie poster",
+     "put up posters"
+    ]
+   }
+  ],
+  "confusables": [
+   {
+    "word": "flyer",
+    "note": "poster는 벽에 붙이는 큰 종이, flyer는 손에 나눠 주는 작은 광고 전단이다."
+   }
+  ]
+ },
+ {
+  "id": "prince",
+  "headword": "prince",
+  "ipa": "/prɪns/",
+  "level": "ELEM",
+  "isCore": false,
+  "topic": "people_family",
+  "forms": [
+   "princes"
+  ],
+  "senses": [
+   {
+    "id": "prince-1",
+    "pos": "n",
+    "ko": "왕자",
+    "en": "the son of a king or queen",
+    "nuance": "발음이 price(값)와 헷갈리기 쉬우니 가운데 n 소리를 꼭 낸다. 여자 형태는 princess로, 철자에 -ess가 붙는다.",
+    "pattern": "a / the prince",
+    "examples": [
+     {
+      "en": "In the story, the prince gets lost in the forest.",
+      "ko": "그 이야기에서 왕자는 숲에서 길을 잃어.",
+      "focus": "the prince gets lost"
+     },
+     {
+      "en": "My niece wants to be a princess, not a prince.",
+      "ko": "우리 조카는 왕자 말고 공주가 되고 싶대.",
+      "focus": "not a prince"
+     }
+    ],
+    "collocations": [
+     "a young prince"
+    ]
+   }
+  ],
+  "wordFamily": [
+   {
+    "form": "princess",
+    "pos": "n",
+    "ko": "공주"
+   }
+  ],
+  "confusables": [
+   {
+    "word": "price",
+    "note": "prince는 '프린스'로 n 소리가 들어가고, price는 '프라이스'로 모음부터 다르다. 뜻도 왕자와 가격이다."
+   },
+   {
+    "word": "principal",
+    "note": "prince는 왕자, principal은 학교 교장이다. 앞부분 철자만 같을 뿐 전혀 다른 단어다."
+   }
+  ]
+ },
+ {
+  "id": "puppy",
+  "headword": "puppy",
+  "ipa": "/ˈpʌpi/",
+  "level": "ELEM",
+  "isCore": false,
+  "topic": "nature_animals",
+  "forms": [
+   "puppies"
+  ],
+  "senses": [
+   {
+    "id": "puppy-1",
+    "pos": "n",
+    "ko": "강아지",
+    "en": "a very young dog",
+    "nuance": "다 자란 개는 puppy가 아니라 dog다. 복수는 puppys가 아니라 puppies로 y를 i로 바꾼다.",
+    "pattern": "a puppy / puppies",
+    "examples": [
+     {
+      "en": "Their dog had five puppies last Thursday night.",
+      "ko": "그 집 개가 지난 목요일 밤에 강아지 다섯 마리를 낳았어.",
+      "focus": "five puppies"
+     },
+     {
+      "en": "The puppy chewed my shoe while I was out.",
+      "ko": "내가 나간 사이에 강아지가 내 신발을 물어뜯었어.",
+      "focus": "The puppy chewed"
+     }
+    ],
+    "collocations": [
+     "a cute puppy",
+     "raise a puppy"
+    ]
+   }
+  ],
+  "confusables": [
+   {
+    "word": "pupil",
+    "note": "puppy는 강아지, pupil은 학생이나 눈동자다. 철자가 비슷해 보여도 뜻이 전혀 다르다."
+   }
+  ]
+ },
+ {
+  "id": "puzzle",
+  "headword": "puzzle",
+  "ipa": "/ˈpʌzl/",
+  "level": "ELEM",
+  "isCore": false,
+  "topic": "sports_leisure",
+  "forms": [
+   "puzzles"
+  ],
+  "senses": [
+   {
+    "id": "puzzle-1",
+    "pos": "n",
+    "ko": "퍼즐, 수수께끼",
+    "en": "a game or question that is hard to work out",
+    "nuance": "조각 맞추기는 jigsaw puzzle, 머리 쓰는 문제도 puzzle이다. '퍼즐을 풀다'는 open이 아니라 do a puzzle이나 solve a puzzle이다.",
+    "pattern": "do / solve a puzzle",
+    "examples": [
+     {
+      "en": "Mina does a crossword puzzle on the train every morning.",
+      "ko": "미나는 매일 아침 기차에서 십자말풀이를 해.",
+      "focus": "does a crossword puzzle"
+     },
+     {
+      "en": "This puzzle has a thousand pieces and no picture.",
+      "ko": "이 퍼즐은 천 조각인데 그림도 안 보고 맞춰야 해.",
+      "focus": "This puzzle has a thousand pieces"
+     }
+    ],
+    "collocations": [
+     "solve a puzzle",
+     "a jigsaw puzzle"
+    ]
+   }
+  ],
+  "wordFamily": [
+   {
+    "form": "puzzled",
+    "pos": "adj",
+    "ko": "어리둥절한"
+   }
+  ],
+  "confusables": [
+   {
+    "word": "quiz",
+    "note": "puzzle은 머리를 써서 맞춰 가는 문제, quiz는 아는지 확인하려고 내는 짧은 시험이다."
+   }
+  ]
+ },
+ {
+  "id": "rainbow",
+  "headword": "rainbow",
+  "ipa": "/ˈreɪnboʊ/",
+  "level": "ELEM",
+  "isCore": false,
+  "topic": "nature_animals",
+  "forms": [
+   "rainbows"
+  ],
+  "senses": [
+   {
+    "id": "rainbow-1",
+    "pos": "n",
+    "ko": "무지개",
+    "en": "a curve of colors in the sky after it rains",
+    "nuance": "하늘에 뜬 무지개는 in the sky에 있다고 하고 on이라고 하지 않는다. 여러 색이 섞인 것을 꾸밀 땐 rainbow colors처럼 쓴다.",
+    "pattern": "see a rainbow",
+    "examples": [
+     {
+      "en": "Look, there's a rainbow over the mountain!",
+      "ko": "봐, 산 위에 무지개 떴어!",
+      "focus": "there's a rainbow"
+     },
+     {
+      "en": "We saw a double rainbow on the way home.",
+      "ko": "집에 오는 길에 쌍무지개를 봤어.",
+      "focus": "a double rainbow"
+     }
+    ],
+    "collocations": [
+     "see a rainbow",
+     "rainbow colors"
+    ]
+   }
+  ],
+  "confusables": [
+   {
+    "word": "bow",
+    "note": "rainbow의 bow는 '활처럼 굽은 것'이라 '보우'로 읽는다. 인사로 허리를 굽히는 bow와 철자만 같다."
+   }
+  ],
+  "memoryHook": "rain(비) + bow(활 모양)이 합쳐진 말이라 '비 온 뒤의 활'로 기억하면 쉽다."
+ },
+ {
+  "id": "rainy",
+  "headword": "rainy",
+  "ipa": "/ˈreɪni/",
+  "level": "ELEM",
+  "isCore": false,
+  "topic": "nature_animals",
+  "forms": [
+   "rainier"
+  ],
+  "senses": [
+   {
+    "id": "rainy-1",
+    "pos": "adj",
+    "ko": "비 오는",
+    "en": "having a lot of wet weather",
+    "nuance": "날씨를 말할 땐 주어를 it으로 써서 It's rainy today라고 한다. 지금 내리는 중이면 It's raining이 더 자연스럽다.",
+    "pattern": "It's rainy / a rainy day",
+    "examples": [
+     {
+      "en": "It's rainy again, so let's stay in and cook.",
+      "ko": "또 비 오네, 그냥 집에서 요리해 먹자.",
+      "focus": "It's rainy again"
+     },
+     {
+      "en": "Emma hates driving to work on rainy mornings.",
+      "ko": "엠마는 비 오는 아침에 운전해서 출근하는 걸 싫어해.",
+      "focus": "on rainy mornings"
+     }
+    ],
+    "collocations": [
+     "a rainy day",
+     "the rainy season"
+    ]
+   }
+  ],
+  "wordFamily": [
+   {
+    "form": "rain",
+    "pos": "n",
+    "ko": "비"
+   }
+  ],
+  "confusables": [
+   {
+    "word": "raining",
+    "note": "rainy는 '비가 잦은' 성질을 말하고, raining은 지금 비가 내리는 중이라는 뜻이다. It's rainy와 It's raining은 시점이 다르다."
+   }
+  ]
+ },
+ {
+  "id": "reading",
+  "headword": "reading",
+  "ipa": "/ˈriːdɪŋ/",
+  "level": "ELEM",
+  "isCore": false,
+  "topic": "school_learning",
+  "forms": [],
+  "senses": [
+   {
+    "id": "reading-1",
+    "pos": "n",
+    "ko": "독서, 읽기",
+    "en": "the activity of looking at words and understanding them",
+    "nuance": "셀 수 없는 명사라 a reading이나 readings로 쓰지 않는다. 취미를 말할 땐 My hobby is reading처럼 그대로 쓴다.",
+    "pattern": "reading + 명사 / 취미 표현",
+    "examples": [
+     {
+      "en": "Reading before bed helps me fall asleep faster.",
+      "ko": "자기 전에 책을 읽으면 더 빨리 잠들어.",
+      "focus": "Reading before bed"
+     },
+     {
+      "en": "The reading test was much harder than the listening one.",
+      "ko": "독해 시험이 듣기보다 훨씬 어려웠어.",
+      "focus": "The reading test"
+     }
+    ],
+    "collocations": [
+     "a reading test",
+     "do some reading"
+    ]
+   }
+  ],
+  "wordFamily": [
+   {
+    "form": "read",
+    "pos": "v",
+    "ko": "읽다"
+   },
+   {
+    "form": "reader",
+    "pos": "n",
+    "ko": "독자"
+   }
+  ],
+  "confusables": [
+   {
+    "word": "wedding",
+    "note": "reading은 '리딩', wedding은 '웨딩'으로 첫소리가 다르다. 철자 끝만 같을 뿐 뜻은 독서와 결혼식이다."
+   }
+  ]
+ },
+ {
+  "id": "restroom",
+  "headword": "restroom",
+  "ipa": "/ˈrestruːm/",
+  "level": "ELEM",
+  "isCore": false,
+  "topic": "travel_transport",
+  "forms": [
+   "restrooms"
+  ],
+  "senses": [
+   {
+    "id": "restroom-1",
+    "pos": "n",
+    "ko": "화장실",
+    "en": "a public room with toilets, in a shop or station",
+    "nuance": "미국에서 공공 화장실을 점잖게 부르는 말이다. '쉬는 방'이 아니니 rest room이라고 띄워 쓰거나 휴게실로 오해하면 안 된다.",
+    "pattern": "go to the restroom",
+    "examples": [
+     {
+      "en": "Excuse me, where's the restroom on this floor?",
+      "ko": "실례합니다, 이 층 화장실이 어디예요?",
+      "focus": "where's the restroom"
+     },
+     {
+      "en": "Wait here while I use the restroom, okay?",
+      "ko": "나 화장실 좀 다녀올 동안 여기서 기다려, 알았지?",
+      "focus": "use the restroom"
+     }
+    ],
+    "collocations": [
+     "the men's restroom",
+     "use the restroom"
+    ]
+   }
+  ],
+  "confusables": [
+   {
+    "word": "toilet",
+    "note": "미국에서 toilet은 변기 자체를 가리켜 직설적으로 들린다. 밖에서 화장실을 찾을 땐 restroom이나 bathroom을 쓴다."
+   }
+  ]
+ },
+ {
+  "id": "ribbon",
+  "headword": "ribbon",
+  "ipa": "/ˈrɪbən/",
+  "level": "ELEM",
+  "isCore": false,
+  "topic": "description_quality",
+  "forms": [
+   "ribbons"
+  ],
+  "senses": [
+   {
+    "id": "ribbon-1",
+    "pos": "n",
+    "ko": "리본, 띠",
+    "en": "a long narrow piece of cloth used to tie or decorate",
+    "nuance": "리본을 묶는 동작은 tie a ribbon, 푸는 것은 untie다. 머리를 묶는 고무줄은 ribbon이 아니라 hair tie다.",
+    "pattern": "tie a ribbon",
+    "examples": [
+     {
+      "en": "Tie a red ribbon around the box before you wrap it.",
+      "ko": "포장하기 전에 상자에 빨간 리본을 묶어.",
+      "focus": "Tie a red ribbon"
+     },
+     {
+      "en": "The winners got small ribbons instead of medals.",
+      "ko": "우승자들은 메달 대신 작은 리본을 받았어.",
+      "focus": "got small ribbons"
+     }
+    ],
+    "collocations": [
+     "tie a ribbon",
+     "a silk ribbon"
+    ]
+   }
+  ],
+  "confusables": [
+   {
+    "word": "bow",
+    "note": "ribbon은 띠 재료 자체, bow는 그 띠를 묶어 만든 나비 모양 매듭이다."
+   }
+  ]
+ },
+ {
+  "id": "rude",
+  "headword": "rude",
+  "ipa": "/ruːd/",
+  "level": "ELEM",
+  "isCore": false,
+  "topic": "emotions_personality",
+  "forms": [
+   "ruder",
+   "rudest"
+  ],
+  "senses": [
+   {
+    "id": "rude-1",
+    "pos": "adj",
+    "ko": "무례한, 버릇없는",
+    "en": "not polite; speaking or acting in a way that upsets others",
+    "nuance": "누구에게 무례했는지 말할 땐 rude to me처럼 to를 쓰고 rude for me라고 하지 않는다. 사람과 행동 둘 다 꾸밀 수 있다.",
+    "pattern": "be rude to + 사람",
+    "examples": [
+     {
+      "en": "It's rude to check your phone during dinner.",
+      "ko": "밥 먹는 중에 휴대폰 보는 건 실례야.",
+      "focus": "rude to check your phone"
+     },
+     {
+      "en": "Sorry if that sounded rude, I didn't mean it.",
+      "ko": "그렇게 들렸다면 미안해, 그런 뜻은 아니었어.",
+      "focus": "sounded rude"
+     }
+    ],
+    "collocations": [
+     "rude to someone",
+     "a rude question"
+    ]
+   }
+  ],
+  "wordFamily": [
+   {
+    "form": "rudely",
+    "pos": "adv",
+    "ko": "무례하게"
+   }
+  ],
+  "confusables": [
+   {
+    "word": "impolite",
+    "note": "뜻은 비슷하지만 rude가 훨씬 세고 직설적이다. impolite는 조심스럽게 지적할 때 쓰는 점잖은 말이다."
+   }
+  ]
+ },
+ {
+  "id": "ruler",
+  "headword": "ruler",
+  "ipa": "/ˈruːlər/",
+  "level": "ELEM",
+  "isCore": false,
+  "topic": "school_learning",
+  "forms": [
+   "rulers"
+  ],
+  "senses": [
+   {
+    "id": "ruler-1",
+    "pos": "n",
+    "ko": "자",
+    "en": "a flat stick with numbers, used to measure or draw lines",
+    "nuance": "길이를 재는 도구는 ruler이고, 줄자는 tape measure다. measure는 동사라 '자 좀 줘'를 give me a measure라고 하면 안 된다.",
+    "pattern": "with a ruler",
+    "examples": [
+     {
+      "en": "Draw the line with a ruler, not by hand.",
+      "ko": "손으로 그리지 말고 자로 선을 그어.",
+      "focus": "with a ruler"
+     },
+     {
+      "en": "Can I borrow your ruler for the math test?",
+      "ko": "수학 시험 때 네 자 좀 빌릴 수 있을까?",
+      "focus": "borrow your ruler"
+     }
+    ],
+    "collocations": [
+     "use a ruler",
+     "a plastic ruler"
+    ]
+   }
+  ],
+  "wordFamily": [
+   {
+    "form": "rule",
+    "pos": "v",
+    "ko": "다스리다"
+   }
+  ],
+  "confusables": [
+   {
+    "word": "rubber",
+    "note": "ruler는 선을 긋는 자, rubber는 고무다. 발음도 '룰러'와 '러버'로 첫 모음부터 다르다."
+   }
+  ]
+ },
+ {
+  "id": "sailor",
+  "headword": "sailor",
+  "ipa": "/ˈseɪlər/",
+  "level": "ELEM",
+  "isCore": false,
+  "topic": "work_business",
+  "forms": [
+   "sailors"
+  ],
+  "senses": [
+   {
+    "id": "sailor-1",
+    "pos": "n",
+    "ko": "선원, 뱃사람",
+    "en": "a person who works on a ship or sails a boat",
+    "nuance": "배에서 일하는 사람 전반을 뜻하고, 배를 모는 책임자는 captain이다. 철자가 -er이 아니라 -or로 끝나는 데 주의한다.",
+    "pattern": "a sailor on + 배",
+    "examples": [
+     {
+      "en": "My grandfather was a sailor for almost thirty years.",
+      "ko": "우리 할아버지는 거의 30년 동안 선원이셨어.",
+      "focus": "was a sailor"
+     },
+     {
+      "en": "The sailors tied the boat to the dock quickly.",
+      "ko": "선원들이 배를 재빨리 부두에 묶었어.",
+      "focus": "The sailors tied the boat"
+     }
+    ],
+    "collocations": [
+     "an old sailor",
+     "a sailor on a ship"
+    ]
+   }
+  ],
+  "wordFamily": [
+   {
+    "form": "sail",
+    "pos": "v",
+    "ko": "항해하다"
+   }
+  ],
+  "confusables": [
+   {
+    "word": "captain",
+    "note": "sailor는 배에서 일하는 선원, captain은 그 배 전체를 책임지는 선장이다."
+   }
+  ]
+ },
+ {
+  "id": "sandwich",
+  "headword": "sandwich",
+  "ipa": "/ˈsænwɪtʃ/",
+  "level": "ELEM",
+  "isCore": false,
+  "topic": "food_cooking",
+  "forms": [
+   "sandwiches"
+  ],
+  "senses": [
+   {
+    "id": "sandwich-1",
+    "pos": "n",
+    "ko": "샌드위치",
+    "en": "two pieces of bread with meat or cheese between them",
+    "nuance": "복수는 sandwichs가 아니라 sandwiches다. 속재료를 말할 땐 a sandwich with cheese나 a cheese sandwich라고 한다.",
+    "pattern": "a … sandwich",
+    "examples": [
+     {
+      "en": "I made a tuna sandwich for lunch this morning.",
+      "ko": "오늘 아침에 점심으로 참치 샌드위치를 만들었어.",
+      "focus": "a tuna sandwich"
+     },
+     {
+      "en": "Two egg sandwiches and a coffee, please.",
+      "ko": "달걀 샌드위치 두 개랑 커피 하나 주세요.",
+      "focus": "Two egg sandwiches"
+     }
+    ],
+    "collocations": [
+     "make a sandwich",
+     "a ham sandwich"
+    ]
+   }
+  ],
+  "confusables": [
+   {
+    "word": "toast",
+    "note": "sandwich는 빵 사이에 속을 넣은 것, toast는 그냥 구운 빵이다. toast는 셀 수 없어 a toast라고 하지 않는다."
+   }
+  ]
+ },
+ {
+  "id": "saw",
+  "headword": "saw",
+  "ipa": "/sɔː/",
+  "level": "ELEM",
+  "isCore": false,
+  "topic": "home_daily",
+  "forms": [
+   "saws"
+  ],
+  "senses": [
+   {
+    "id": "saw-1",
+    "pos": "n",
+    "ko": "톱",
+    "en": "a tool with sharp teeth for cutting wood",
+    "nuance": "see의 과거형 saw와 철자·발음이 똑같지만 도구를 뜻할 땐 a saw처럼 관사를 붙인다. 앞에 a나 the가 있으면 톱이다.",
+    "pattern": "a saw / cut with a saw",
+    "examples": [
+     {
+      "en": "Dad cut the board in half with a saw.",
+      "ko": "아빠가 톱으로 판자를 반으로 잘랐어.",
+      "focus": "with a saw"
+     },
+     {
+      "en": "Be careful, that saw is much sharper than it looks.",
+      "ko": "조심해, 그 톱 보기보다 훨씬 날카로워.",
+      "focus": "that saw is much sharper"
+     }
+    ],
+    "collocations": [
+     "use a saw",
+     "an electric saw"
+    ]
+   }
+  ],
+  "confusables": [
+   {
+    "word": "see",
+    "note": "see의 과거형도 saw라서 헷갈린다. I saw him은 '봤다', I need a saw는 '톱이 필요하다'로 관사가 힌트다."
+   },
+   {
+    "word": "sew",
+    "note": "saw는 '소', sew는 '소우'로 발음되고 뜻은 톱질과 바느질이다. 철자가 비슷해 자주 뒤바뀐다."
+   }
+  ]
+ },
+ {
+  "id": "scissors",
+  "headword": "scissors",
+  "ipa": "/ˈsɪzərz/",
+  "level": "ELEM",
+  "isCore": false,
+  "topic": "home_daily",
+  "forms": [],
+  "senses": [
+   {
+    "id": "scissors-1",
+    "pos": "n",
+    "ko": "가위",
+    "en": "a tool with two blades, used for cutting paper or cloth",
+    "nuance": "날이 두 개라 항상 복수형이고 a scissor라고 하지 않는다. 하나를 셀 땐 a pair of scissors라고 한다.",
+    "pattern": "a pair of scissors",
+    "examples": [
+     {
+      "en": "Pass me the scissors, I need to cut this tape.",
+      "ko": "가위 좀 줘, 이 테이프 좀 잘라야 해.",
+      "focus": "Pass me the scissors"
+     },
+     {
+      "en": "These scissors are too dull to cut thick paper.",
+      "ko": "이 가위는 무뎌서 두꺼운 종이는 안 잘려.",
+      "focus": "These scissors are too dull"
+     }
+    ],
+    "collocations": [
+     "a pair of scissors",
+     "cut with scissors"
+    ]
+   }
+  ],
+  "confusables": [
+   {
+    "word": "knife",
+    "note": "scissors는 날 두 개로 집어서 자르는 가위, knife는 날 하나로 베는 칼이다. 단복수 처리도 서로 다르다."
+   }
+  ]
+ },
+ {
+  "id": "shopping",
+  "headword": "shopping",
+  "ipa": "/ˈʃɑːpɪŋ/",
+  "level": "ELEM",
+  "isCore": false,
+  "topic": "money_shopping",
+  "forms": [],
+  "senses": [
+   {
+    "id": "shopping-1",
+    "pos": "n",
+    "ko": "쇼핑, 장보기",
+    "en": "the activity of buying things in stores",
+    "nuance": "'쇼핑하러 가다'는 go to shopping이 아니라 go shopping이다. 셀 수 없는 명사라 shoppings로 쓰지 않는다.",
+    "pattern": "go shopping / do the shopping",
+    "examples": [
+     {
+      "en": "Let's go shopping after we finish these reports.",
+      "ko": "이 보고서 끝내고 쇼핑하러 가자.",
+      "focus": "go shopping"
+     },
+     {
+      "en": "Mina does the shopping for her family on Fridays.",
+      "ko": "미나는 금요일마다 가족 장을 봐.",
+      "focus": "does the shopping"
+     }
+    ],
+    "collocations": [
+     "go shopping",
+     "a shopping bag"
+    ]
+   }
+  ],
+  "wordFamily": [
+   {
+    "form": "shop",
+    "pos": "v",
+    "ko": "쇼핑하다"
+   }
+  ],
+  "confusables": [
+   {
+    "word": "shop",
+    "note": "shop은 가게 또는 물건을 사는 행동, shopping은 그 행동 전체를 가리키는 명사다. go shopping에서 shop을 쓰면 틀린다."
+   }
+  ]
+ },
+ {
+  "id": "shy",
+  "headword": "shy",
+  "ipa": "/ʃaɪ/",
+  "level": "ELEM",
+  "isCore": false,
+  "topic": "emotions_personality",
+  "forms": [
+   "shyer",
+   "shyest"
+  ],
+  "senses": [
+   {
+    "id": "shy-1",
+    "pos": "adj",
+    "ko": "수줍은, 낯을 가리는",
+    "en": "uneasy about meeting or talking to new people",
+    "nuance": "성격이 원래 그렇다는 뜻이라 '부끄럽다'는 감정과 다르다. 창피한 순간에는 shy가 아니라 embarrassed를 쓴다.",
+    "pattern": "be shy about / around + 사람",
+    "examples": [
+     {
+      "en": "Tom is too shy to order food in English.",
+      "ko": "톰은 낯을 가려서 영어로 음식 주문을 못 해.",
+      "focus": "too shy to order"
+     },
+     {
+      "en": "She was shy around strangers when she was little.",
+      "ko": "걔는 어릴 때 낯선 사람 앞에서 수줍음을 탔어.",
+      "focus": "shy around strangers"
+     }
+    ],
+    "collocations": [
+     "a shy smile",
+     "feel shy"
+    ]
+   }
+  ],
+  "confusables": [
+   {
+    "word": "embarrassed",
+    "note": "shy는 원래 낯을 가리는 성격, embarrassed는 실수해서 얼굴이 화끈거리는 순간의 감정이다."
+   }
+  ]
+ },
+ {
+  "id": "smith",
+  "headword": "smith",
+  "ipa": "/smɪθ/",
+  "level": "ELEM",
+  "isCore": false,
+  "topic": "work_business",
+  "forms": [
+   "smiths"
+  ],
+  "senses": [
+   {
+    "id": "smith-1",
+    "pos": "n",
+    "ko": "대장장이",
+    "en": "a person who makes things from metal by hand",
+    "nuance": "혼자 쓰기보다 blacksmith, goldsmith처럼 금속 이름과 붙여 쓴다. 대문자 Smith는 영어권에서 가장 흔한 성이다.",
+    "pattern": "black / gold + smith",
+    "examples": [
+     {
+      "en": "The village smith made all the tools by hand.",
+      "ko": "그 마을 대장장이는 연장을 전부 손으로 만들었어.",
+      "focus": "The village smith"
+     },
+     {
+      "en": "Old smiths worked with fire from morning to night.",
+      "ko": "옛날 대장장이들은 아침부터 밤까지 불 앞에서 일했어.",
+      "focus": "Old smiths worked"
+     }
+    ],
+    "collocations": [
+     "a village smith"
+    ]
+   }
+  ],
+  "confusables": [
+   {
+    "word": "blacksmith",
+    "note": "smith만 쓰면 요즘은 잘 안 쓰는 옛말처럼 들린다. 쇠를 다루는 대장장이는 보통 blacksmith라고 한다."
+   }
+  ],
+  "memoryHook": "gold + smith는 금세공사, black + smith는 검은 쇠를 다루는 대장장이로 묶어 외운다."
+ },
+ {
+  "id": "smoking",
+  "headword": "smoking",
+  "ipa": "/ˈsmoʊkɪŋ/",
+  "level": "ELEM",
+  "isCore": false,
+  "topic": "body_health",
+  "forms": [],
+  "senses": [
+   {
+    "id": "smoking-1",
+    "pos": "n",
+    "ko": "흡연",
+    "en": "the habit of breathing in the gas from burning tobacco",
+    "nuance": "셀 수 없는 명사라 a smoking이라고 하지 않는다. 금연 안내판은 Don't smoking이 아니라 No smoking으로 쓴다.",
+    "pattern": "No smoking / quit smoking",
+    "examples": [
+     {
+      "en": "Smoking is not allowed anywhere inside this building.",
+      "ko": "이 건물 안에서는 어디서도 흡연이 안 됩니다.",
+      "focus": "Smoking is not allowed"
+     },
+     {
+      "en": "My uncle quit smoking after his doctor warned him.",
+      "ko": "우리 삼촌은 의사한테 경고를 듣고 담배를 끊었어.",
+      "focus": "quit smoking"
+     }
+    ],
+    "collocations": [
+     "no smoking",
+     "quit smoking"
+    ]
+   }
+  ],
+  "wordFamily": [
+   {
+    "form": "smoke",
+    "pos": "v",
+    "ko": "담배를 피우다"
+   }
+  ],
+  "confusables": [
+   {
+    "word": "smoke",
+    "note": "smoke는 연기나 담배를 피우는 동작, smoking은 그 행위 전체를 가리키는 명사다. 안내판에는 No smoking을 쓴다."
+   }
+  ]
+ },
+ {
+  "id": "snowy",
+  "headword": "snowy",
+  "ipa": "/ˈsnoʊi/",
+  "level": "ELEM",
+  "isCore": false,
+  "topic": "nature_animals",
+  "forms": [
+   "snowier"
+  ],
+  "senses": [
+   {
+    "id": "snowy-1",
+    "pos": "adj",
+    "ko": "눈 오는, 눈 덮인",
+    "en": "with a lot of white flakes falling or lying on the ground",
+    "nuance": "날씨를 말할 땐 주어를 it으로 써서 It's snowy라고 한다. 지금 내리는 중이면 It's snowing이 자연스럽다.",
+    "pattern": "It's snowy / a snowy day",
+    "examples": [
+     {
+      "en": "It's snowy outside, so wear your boots today.",
+      "ko": "밖에 눈 오니까 오늘은 부츠 신어.",
+      "focus": "It's snowy outside"
+     },
+     {
+      "en": "We drove very slowly along the snowy mountain road.",
+      "ko": "우리는 눈 덮인 산길을 아주 천천히 달렸어.",
+      "focus": "the snowy mountain road"
+     }
+    ],
+    "collocations": [
+     "a snowy day",
+     "snowy weather"
+    ]
+   }
+  ],
+  "wordFamily": [
+   {
+    "form": "snow",
+    "pos": "n",
+    "ko": "눈"
+   }
+  ],
+  "confusables": [
+   {
+    "word": "snowing",
+    "note": "snowy는 눈이 많은 날씨나 눈 덮인 상태, snowing은 지금 눈이 내리는 중이라는 뜻이다."
+   }
+  ]
+ },
+ {
+  "id": "soccer",
+  "headword": "soccer",
+  "ipa": "/ˈsɑːkər/",
+  "level": "ELEM",
+  "isCore": false,
+  "topic": "sports_leisure",
+  "forms": [],
+  "senses": [
+   {
+    "id": "soccer-1",
+    "pos": "n",
+    "ko": "축구",
+    "en": "a game where two teams kick a ball into a goal",
+    "nuance": "운동 이름 앞에는 the를 붙이지 않아 play soccer라고 한다. 미국에서는 soccer, 영국에서는 football이라고 부른다.",
+    "pattern": "play soccer",
+    "examples": [
+     {
+      "en": "Jun plays soccer with his coworkers every Saturday.",
+      "ko": "준은 토요일마다 회사 동료들이랑 축구를 해.",
+      "focus": "plays soccer"
+     },
+     {
+      "en": "The soccer game was canceled because of the rain.",
+      "ko": "비 때문에 축구 경기가 취소됐어.",
+      "focus": "The soccer game"
+     }
+    ],
+    "collocations": [
+     "play soccer",
+     "a soccer field"
+    ]
+   }
+  ],
+  "confusables": [
+   {
+    "word": "football",
+    "note": "미국에서 football은 미식축구라 우리가 아는 축구는 soccer다. 영국에서는 football이 곧 축구다."
+   }
+  ]
+ },
+ {
+  "id": "sock",
+  "headword": "sock",
+  "ipa": "/sɑːk/",
+  "level": "ELEM",
+  "isCore": false,
+  "topic": "description_quality",
+  "forms": [
+   "socks"
+  ],
+  "senses": [
+   {
+    "id": "sock-1",
+    "pos": "n",
+    "ko": "양말",
+    "en": "a soft piece of clothing you wear on your foot",
+    "nuance": "발이 둘이라 보통 socks로 말하고, 한 켤레는 a pair of socks다. '양말을 신다'는 put on socks이고 wear는 신고 있는 상태다.",
+    "pattern": "a pair of socks",
+    "examples": [
+     {
+      "en": "I can only find one sock again this morning.",
+      "ko": "오늘 아침에도 양말 한 짝만 찾았어.",
+      "focus": "one sock"
+     },
+     {
+      "en": "Put on thick socks before we go out in the snow.",
+      "ko": "눈길에 나가기 전에 두꺼운 양말 신어.",
+      "focus": "Put on thick socks"
+     }
+    ],
+    "collocations": [
+     "a pair of socks",
+     "put on socks"
+    ]
+   }
+  ],
+  "confusables": [
+   {
+    "word": "stocking",
+    "note": "sock은 발목이나 종아리까지 오는 양말, stocking은 허벅지까지 오는 얇은 스타킹이다."
+   }
+  ]
+ },
+ {
+  "id": "sofa",
+  "headword": "sofa",
+  "ipa": "/ˈsoʊfə/",
+  "level": "ELEM",
+  "isCore": false,
+  "topic": "home_daily",
+  "forms": [
+   "sofas"
+  ],
+  "senses": [
+   {
+    "id": "sofa-1",
+    "pos": "n",
+    "ko": "소파",
+    "en": "a long soft seat for two or more people",
+    "nuance": "소파에 앉을 땐 in이 아니라 on the sofa라고 한다. 미국에서는 couch라는 말을 더 자주 쓴다.",
+    "pattern": "on the sofa",
+    "examples": [
+     {
+      "en": "Emma fell asleep on the sofa watching a movie.",
+      "ko": "엠마는 영화 보다가 소파에서 잠들었어.",
+      "focus": "on the sofa"
+     },
+     {
+      "en": "Our new sofa doesn't fit through the front door.",
+      "ko": "새로 산 소파가 현관문으로 안 들어가.",
+      "focus": "Our new sofa"
+     }
+    ],
+    "collocations": [
+     "sit on the sofa",
+     "a leather sofa"
+    ]
+   }
+  ],
+  "confusables": [
+   {
+    "word": "couch",
+    "note": "뜻은 거의 같지만 미국 구어에서는 couch, 영국이나 가구점 표현으로는 sofa를 더 자주 쓴다."
+   }
+  ]
+ },
+ {
+  "id": "sour",
+  "headword": "sour",
+  "ipa": "/ˈsaʊər/",
+  "level": "ELEM",
+  "isCore": false,
+  "topic": "food_cooking",
+  "forms": [
+   "sourer"
+  ],
+  "senses": [
+   {
+    "id": "sour-1",
+    "pos": "adj",
+    "ko": "신, 시큼한",
+    "en": "having a sharp taste like a lemon",
+    "nuance": "레몬처럼 원래 신맛은 sour이고, 상해서 시어진 것도 sour다. 매운맛은 sour가 아니라 spicy나 hot이다.",
+    "pattern": "taste / go sour",
+    "examples": [
+     {
+      "en": "This kimchi tastes a bit sour, but I like it.",
+      "ko": "이 김치 좀 시큼한데 난 그게 좋아.",
+      "focus": "tastes a bit sour"
+     },
+     {
+      "en": "The milk went sour because we left it out.",
+      "ko": "우유를 밖에 뒀더니 상해서 시어졌어.",
+      "focus": "went sour"
+     }
+    ],
+    "collocations": [
+     "taste sour",
+     "go sour"
+    ]
+   }
+  ],
+  "confusables": [
+   {
+    "word": "bitter",
+    "note": "sour는 레몬처럼 새콤한 맛, bitter는 커피나 한약처럼 쓴맛이다. 한국어 '시다'와 '쓰다'를 그대로 구분하면 된다."
+   },
+   {
+    "word": "salty",
+    "note": "sour는 신맛, salty는 짠맛이다. 소금이 많이 들어간 음식에 sour를 쓰면 전혀 다른 뜻이 된다."
+   }
+  ]
+ },
+ {
+  "id": "spoon",
+  "headword": "spoon",
+  "ipa": "/spuːn/",
+  "level": "ELEM",
+  "isCore": false,
+  "topic": "food_cooking",
+  "forms": [
+   "spoons"
+  ],
+  "senses": [
+   {
+    "id": "spoon-1",
+    "pos": "n",
+    "ko": "숟가락",
+    "en": "a tool with a small round bowl, used for eating soup",
+    "nuance": "요리법에서 양을 말할 땐 a spoon of가 아니라 a spoonful of나 a tablespoon of라고 한다. 밥 한 술도 a spoonful이다.",
+    "pattern": "with a spoon",
+    "examples": [
+     {
+      "en": "Eat the soup with a spoon, not with chopsticks.",
+      "ko": "국은 젓가락 말고 숟가락으로 먹어.",
+      "focus": "with a spoon"
+     },
+     {
+      "en": "Could you bring two more spoons from the kitchen?",
+      "ko": "주방에서 숟가락 두 개만 더 가져다줄래?",
+      "focus": "two more spoons"
+     }
+    ],
+    "collocations": [
+     "a wooden spoon",
+     "eat with a spoon"
+    ]
+   }
+  ],
+  "wordFamily": [
+   {
+    "form": "spoonful",
+    "pos": "n",
+    "ko": "한 숟갈"
+   }
+  ],
+  "confusables": [
+   {
+    "word": "fork",
+    "note": "spoon은 국물이나 밥을 떠먹는 숟가락, fork는 찍어 먹는 포크다. 양식에서는 둘을 함께 놓는다."
+   }
+  ]
+ },
+ {
+  "id": "spy",
+  "headword": "spy",
+  "ipa": "/spaɪ/",
+  "level": "ELEM",
+  "isCore": false,
+  "topic": "society_politics",
+  "forms": [
+   "spies"
+  ],
+  "senses": [
+   {
+    "id": "spy-1",
+    "pos": "n",
+    "ko": "스파이, 첩자",
+    "en": "a person who secretly gets information about another country",
+    "nuance": "복수는 spys가 아니라 spies로 y를 i로 바꾼다. 몰래 지켜보는 행위는 명사 spy가 아니라 spy on을 쓴다.",
+    "pattern": "a spy for + 나라",
+    "examples": [
+     {
+      "en": "The movie is about a spy who loses his memory.",
+      "ko": "그 영화는 기억을 잃은 스파이 이야기야.",
+      "focus": "a spy who loses his memory"
+     },
+     {
+      "en": "Two spies were caught at the border last winter.",
+      "ko": "지난겨울 국경에서 첩자 두 명이 붙잡혔어.",
+      "focus": "Two spies were caught"
+     }
+    ],
+    "collocations": [
+     "a spy movie",
+     "a spy for a country"
+    ]
+   }
+  ],
+  "confusables": [
+   {
+    "word": "detective",
+    "note": "spy는 국가 비밀을 몰래 빼내는 첩자, detective는 사건을 조사하는 형사나 탐정이다."
+   }
+  ]
+ },
+ {
+  "id": "strawberry",
+  "headword": "strawberry",
+  "ipa": "/ˈstrɔːberi/",
+  "level": "ELEM",
+  "isCore": false,
+  "topic": "food_cooking",
+  "forms": [
+   "strawberries"
+  ],
+  "senses": [
+   {
+    "id": "strawberry-1",
+    "pos": "n",
+    "ko": "딸기",
+    "en": "a small soft red fruit with tiny seeds outside",
+    "nuance": "복수는 strawberrys가 아니라 strawberries다. 맛이나 향을 말할 땐 strawberry milk처럼 단수로 앞에 붙인다.",
+    "pattern": "strawberry + 명사",
+    "examples": [
+     {
+      "en": "These strawberries are sweeter than the ones we bought yesterday.",
+      "ko": "이 딸기가 어제 산 것보다 더 달아.",
+      "focus": "These strawberries are sweeter"
+     },
+     {
+      "en": "Mina ordered a strawberry cake for her mom's birthday.",
+      "ko": "미나는 엄마 생일에 딸기 케이크를 주문했어.",
+      "focus": "a strawberry cake"
+     }
+    ],
+    "collocations": [
+     "fresh strawberries",
+     "strawberry jam"
+    ]
+   }
+  ],
+  "confusables": [
+   {
+    "word": "berry",
+    "note": "berry는 작고 둥근 열매를 통틀어 부르는 말이고, strawberry는 그중 한 종류다."
+   }
+  ]
+ },
+ {
+  "id": "subway",
+  "headword": "subway",
+  "ipa": "/ˈsʌbweɪ/",
+  "level": "ELEM",
+  "isCore": false,
+  "topic": "travel_transport",
+  "forms": [
+   "subways"
+  ],
+  "senses": [
+   {
+    "id": "subway-1",
+    "pos": "n",
+    "ko": "지하철",
+    "en": "a train system that runs under a big city",
+    "nuance": "'지하철을 타고 가다'는 by subway나 take the subway라고 한다. 영국에서는 underground나 tube라고 부른다.",
+    "pattern": "take the subway",
+    "examples": [
+     {
+      "en": "Take the subway to City Hall and walk five minutes.",
+      "ko": "시청역까지 지하철 타고 가서 5분 걸어.",
+      "focus": "Take the subway"
+     },
+     {
+      "en": "The subway is much faster than the bus at rush hour.",
+      "ko": "출퇴근 시간엔 지하철이 버스보다 훨씬 빨라.",
+      "focus": "The subway is much faster"
+     }
+    ],
+    "collocations": [
+     "take the subway",
+     "a subway station"
+    ]
+   }
+  ],
+  "confusables": [
+   {
+    "word": "underground",
+    "note": "미국에서는 subway, 런던에서는 underground나 tube라고 한다. 영국에서 subway는 지하도를 뜻하기도 한다."
+   }
+  ]
+ },
+ {
+  "id": "sunny",
+  "headword": "sunny",
+  "ipa": "/ˈsʌni/",
+  "level": "ELEM",
+  "isCore": false,
+  "topic": "nature_animals",
+  "forms": [
+   "sunnier"
+  ],
+  "senses": [
+   {
+    "id": "sunny-1",
+    "pos": "adj",
+    "ko": "화창한, 햇살 좋은",
+    "en": "with bright light from the sky and few clouds",
+    "nuance": "날씨를 말할 땐 주어를 it으로 써서 It's sunny라고 한다. 사람 성격에 쓰면 '밝고 명랑한'이라는 칭찬이 된다.",
+    "pattern": "It's sunny / a sunny day",
+    "examples": [
+     {
+      "en": "It's sunny today, so let's eat lunch outside.",
+      "ko": "오늘 화창하니까 밖에서 점심 먹자.",
+      "focus": "It's sunny today"
+     },
+     {
+      "en": "We chose a sunny table by the window.",
+      "ko": "우리는 창가의 햇살 드는 자리를 골랐어.",
+      "focus": "a sunny table"
+     }
+    ],
+    "collocations": [
+     "a sunny day",
+     "a sunny room"
+    ]
+   }
+  ],
+  "wordFamily": [
+   {
+    "form": "sun",
+    "pos": "n",
+    "ko": "태양"
+   }
+  ],
+  "confusables": [
+   {
+    "word": "sunshine",
+    "note": "sunny는 '햇빛이 드는'이라는 형용사, sunshine은 햇빛 자체를 가리키는 명사다. It's sunshine이라고 하면 틀린다."
+   }
+  ]
+ },
+ {
+  "id": "sunshine",
+  "headword": "sunshine",
+  "ipa": "/ˈsʌnʃaɪn/",
+  "level": "ELEM",
+  "isCore": false,
+  "topic": "nature_animals",
+  "forms": [],
+  "senses": [
+   {
+    "id": "sunshine-1",
+    "pos": "n",
+    "ko": "햇빛, 햇살",
+    "en": "the warm bright light that comes from the sky",
+    "nuance": "셀 수 없는 명사라 a sunshine이나 sunshines로 쓰지 않는다. 날씨를 말할 땐 It's sunshine이 아니라 It's sunny다.",
+    "pattern": "in the sunshine",
+    "examples": [
+     {
+      "en": "The cat slept in the sunshine all afternoon.",
+      "ko": "고양이가 오후 내내 햇살 아래서 잤어.",
+      "focus": "in the sunshine"
+     },
+     {
+      "en": "After a week of rain, we finally got some sunshine.",
+      "ko": "일주일 내리 비가 오다가 드디어 햇빛이 났어.",
+      "focus": "got some sunshine"
+     }
+    ],
+    "collocations": [
+     "in the sunshine",
+     "bright sunshine"
+    ]
+   }
+  ],
+  "wordFamily": [
+   {
+    "form": "sunny",
+    "pos": "adj",
+    "ko": "화창한"
+   }
+  ],
+  "confusables": [
+   {
+    "word": "sunlight",
+    "note": "뜻은 비슷하지만 sunshine은 따뜻하고 기분 좋은 느낌, sunlight는 과학적으로 중립적인 '태양광'에 가깝다."
+   }
+  ]
+ },
+ {
+  "id": "super",
+  "headword": "super",
+  "ipa": "/ˈsuːpər/",
+  "level": "ELEM",
+  "isCore": false,
+  "topic": "description_quality",
+  "forms": [],
+  "senses": [
+   {
+    "id": "super-1",
+    "pos": "adj",
+    "ko": "아주 좋은, 최고인",
+    "en": "very good or very nice",
+    "nuance": "친구끼리 쓰는 가벼운 칭찬이라 보고서나 회의에는 어울리지 않는다. 형용사 앞에 붙여 super tired처럼 '엄청'이라는 뜻으로도 쓴다.",
+    "pattern": "super + 형용사",
+    "examples": [
+     {
+      "en": "That was super helpful, thanks for explaining it twice.",
+      "ko": "진짜 큰 도움 됐어, 두 번이나 설명해 줘서 고마워.",
+      "focus": "super helpful"
+     },
+     {
+      "en": "The new coffee place near the office is super.",
+      "ko": "사무실 근처에 새로 생긴 커피집 완전 좋아.",
+      "focus": "is super"
+     }
+    ],
+    "collocations": [
+     "super easy",
+     "super tired"
+    ]
+   }
+  ],
+  "confusables": [
+   {
+    "word": "superb",
+    "note": "super는 친구끼리 쓰는 가벼운 말, superb는 '훌륭한'이라는 격식 있는 칭찬이다. 발음도 '수퍼'와 '수퍼브'로 다르다."
+   },
+   {
+    "word": "supper",
+    "note": "super는 '수퍼'로 p 하나, supper는 '서퍼'로 p 두 개다. 뜻도 최고와 저녁밥으로 완전히 다르다."
+   }
+  ]
+ },
+ {
+  "id": "supermarket",
+  "headword": "supermarket",
+  "ipa": "/ˈsuːpərmɑːrkɪt/",
+  "level": "ELEM",
+  "isCore": false,
+  "topic": "money_shopping",
+  "forms": [
+   "supermarkets"
+  ],
+  "senses": [
+   {
+    "id": "supermarket-1",
+    "pos": "n",
+    "ko": "슈퍼마켓, 마트",
+    "en": "a large store that sells food and things for the house",
+    "nuance": "한국에서 말하는 '마트'가 영어로는 supermarket이다. mart는 브랜드 이름에 붙는 말이라 I went to the mart는 어색하다.",
+    "pattern": "at / to the supermarket",
+    "examples": [
+     {
+      "en": "I'll stop at the supermarket on my way home.",
+      "ko": "집에 가는 길에 마트 들를게.",
+      "focus": "at the supermarket"
+     },
+     {
+      "en": "The supermarket near us closes at eleven every night.",
+      "ko": "우리 동네 마트는 매일 밤 11시에 닫아.",
+      "focus": "The supermarket near us closes"
+     }
+    ],
+    "collocations": [
+     "go to the supermarket",
+     "a local supermarket"
+    ]
+   }
+  ],
+  "confusables": [
+   {
+    "word": "market",
+    "note": "supermarket은 실내 대형 매장, market은 노점이 늘어선 재래시장에 가깝다. 남대문시장은 market이다."
+   },
+   {
+    "word": "convenience store",
+    "note": "supermarket은 장을 보는 큰 가게, 편의점은 convenience store다. 24시라고 해서 supermarket이라고 하지 않는다."
+   }
+  ]
+ },
+ {
+  "id": "supper",
+  "headword": "supper",
+  "ipa": "/ˈsʌpər/",
+  "level": "ELEM",
+  "isCore": false,
+  "topic": "food_cooking",
+  "forms": [
+   "suppers"
+  ],
+  "senses": [
+   {
+    "id": "supper-1",
+    "pos": "n",
+    "ko": "저녁 식사",
+    "en": "the last meal of the day, often light and at home",
+    "nuance": "집에서 편하게 먹는 저녁이라는 느낌이라 식당 약속에는 dinner를 쓴다. 식사 이름 앞에는 the를 붙이지 않는다.",
+    "pattern": "have supper",
+    "examples": [
+     {
+      "en": "We usually have supper around seven in our house.",
+      "ko": "우리 집은 보통 7시쯤 저녁을 먹어.",
+      "focus": "have supper"
+     },
+     {
+      "en": "Come over after work and stay for supper.",
+      "ko": "퇴근하고 우리 집 와서 저녁까지 먹고 가.",
+      "focus": "stay for supper"
+     }
+    ],
+    "collocations": [
+     "have supper",
+     "after supper"
+    ]
+   }
+  ],
+  "confusables": [
+   {
+    "word": "dinner",
+    "note": "dinner는 하루 중 가장 잘 차린 식사, supper는 집에서 가볍게 먹는 저녁이다. 요즘은 dinner를 훨씬 자주 쓴다."
+   },
+   {
+    "word": "super",
+    "note": "supper는 p가 두 개인 '서퍼', super는 p가 하나인 '수퍼'다. 철자 하나로 저녁밥과 최고가 갈린다."
+   }
+  ]
+ },
+ {
+  "id": "surf",
+  "headword": "surf",
+  "ipa": "/sɜːrf/",
+  "level": "ELEM",
+  "isCore": false,
+  "topic": "sports_leisure",
+  "forms": [
+   "surfed",
+   "surfing",
+   "surfs"
+  ],
+  "senses": [
+   {
+    "id": "surf-1",
+    "pos": "v",
+    "ko": "파도를 타다",
+    "en": "to ride on waves standing on a long board",
+    "nuance": "취미를 말할 땐 go surf가 아니라 go surfing이라고 한다. 파도가 아니라 보드를 타는 동작 전체를 뜻한다.",
+    "pattern": "go surfing",
+    "examples": [
+     {
+      "en": "Tom learned to surf during his trip to Jeju.",
+      "ko": "톰은 제주 여행 가서 서핑을 배웠어.",
+      "focus": "learned to surf"
+     },
+     {
+      "en": "They go surfing every summer weekend if the waves are good.",
+      "ko": "걔들은 파도만 좋으면 여름 주말마다 서핑하러 가.",
+      "focus": "go surfing"
+     }
+    ],
+    "collocations": [
+     "go surfing",
+     "learn to surf"
+    ]
+   },
+   {
+    "id": "surf-2",
+    "pos": "v",
+    "ko": "인터넷을 돌아다니다",
+    "en": "to move from one web page to another for fun",
+    "nuance": "목적 없이 이것저것 훑어볼 때 쓰고, 찾는 게 있으면 search를 쓴다. 뒤에 the web이나 the internet을 붙인다.",
+    "pattern": "surf the web / the internet",
+    "examples": [
+     {
+      "en": "I surfed the web for an hour and found nothing.",
+      "ko": "한 시간이나 인터넷을 뒤졌는데 아무것도 못 찾았어.",
+      "focus": "surfed the web"
+     },
+     {
+      "en": "Stop surfing the internet and finish your homework.",
+      "ko": "인터넷 그만 보고 숙제 끝내.",
+      "focus": "surfing the internet"
+     }
+    ],
+    "collocations": [
+     "surf the internet"
+    ]
+   }
+  ],
+  "wordFamily": [
+   {
+    "form": "surfer",
+    "pos": "n",
+    "ko": "서핑하는 사람"
+   }
+  ],
+  "confusables": [
+   {
+    "word": "search",
+    "note": "surf는 정처 없이 훑어보는 것, search는 특정한 걸 찾아보는 것이다. 자료를 찾을 땐 search를 쓴다."
+   },
+   {
+    "word": "swim",
+    "note": "surf는 보드 위에 서서 파도를 타는 것, swim은 물속에서 헤엄치는 것이다."
+   }
+  ]
+ },
+ {
+  "id": "swimming",
+  "headword": "swimming",
+  "ipa": "/ˈswɪmɪŋ/",
+  "level": "ELEM",
+  "isCore": false,
+  "topic": "sports_leisure",
+  "forms": [],
+  "senses": [
+   {
+    "id": "swimming-1",
+    "pos": "n",
+    "ko": "수영",
+    "en": "the sport of moving through water with your arms and legs",
+    "nuance": "'수영하러 가다'는 go to swimming이 아니라 go swimming이다. 셀 수 없는 명사라 swimmings로 쓰지 않는다.",
+    "pattern": "go swimming",
+    "examples": [
+     {
+      "en": "Swimming is the only exercise my knees can handle.",
+      "ko": "수영이 내 무릎이 버틸 수 있는 유일한 운동이야.",
+      "focus": "Swimming is the only exercise"
+     },
+     {
+      "en": "Let's go swimming early before the pool gets crowded.",
+      "ko": "수영장 붐비기 전에 일찍 수영하러 가자.",
+      "focus": "go swimming"
+     }
+    ],
+    "collocations": [
+     "go swimming",
+     "a swimming lesson"
+    ]
+   }
+  ],
+  "wordFamily": [
+   {
+    "form": "swim",
+    "pos": "v",
+    "ko": "수영하다"
+   },
+   {
+    "form": "swimmer",
+    "pos": "n",
+    "ko": "수영 선수"
+   }
+  ],
+  "confusables": [
+   {
+    "word": "swim",
+    "note": "swim은 동사, swimming은 활동을 가리키는 명사다. go 뒤에는 go swim이 아니라 go swimming을 쓴다."
+   }
+  ]
+ },
+ {
+  "id": "swimming-pool",
+  "headword": "swimming pool",
+  "ipa": "/ˈswɪmɪŋ puːl/",
+  "level": "ELEM",
+  "isCore": false,
+  "topic": "sports_leisure",
+  "forms": [
+   "swimming pools"
+  ],
+  "senses": [
+   {
+    "id": "swimming-pool-1",
+    "pos": "n",
+    "ko": "수영장",
+    "en": "a large hole filled with water where people swim",
+    "nuance": "두 단어를 띄어 쓰고, 말할 땐 보통 pool로 줄인다. 수영장 '안에서'는 in the pool, 옆에 있으면 by the pool이다.",
+    "pattern": "at / in the swimming pool",
+    "examples": [
+     {
+      "en": "The hotel has a small swimming pool on the roof.",
+      "ko": "그 호텔은 옥상에 작은 수영장이 있어.",
+      "focus": "a small swimming pool"
+     },
+     {
+      "en": "Kids under seven can't use this swimming pool alone.",
+      "ko": "일곱 살 미만은 이 수영장을 혼자 못 써요.",
+      "focus": "use this swimming pool"
+     }
+    ],
+    "collocations": [
+     "an indoor swimming pool"
+    ]
+   }
+  ],
+  "confusables": [
+   {
+    "word": "pool",
+    "note": "일상 대화에서는 swimming pool을 그냥 pool이라고 줄여 쓴다. 다만 pool에는 당구라는 뜻도 있어 문맥을 봐야 한다."
+   }
+  ]
+ },
+ {
+  "id": "t-shirt",
+  "headword": "t-shirt",
+  "ipa": "/ˈtiː ʃɜːrt/",
+  "level": "ELEM",
+  "isCore": false,
+  "topic": "description_quality",
+  "forms": [
+   "t-shirts"
+  ],
+  "senses": [
+   {
+    "id": "t-shirt-1",
+    "pos": "n",
+    "ko": "티셔츠",
+    "en": "a simple cotton top with short sleeves and no buttons",
+    "nuance": "펼치면 T자 모양이라 붙은 이름이고 하이픈을 넣어 쓴다. 단추와 깃이 있는 옷은 t-shirt가 아니라 shirt다.",
+    "pattern": "wear a t-shirt",
+    "examples": [
+     {
+      "en": "Jun wore a plain white t-shirt to the concert.",
+      "ko": "준은 콘서트에 하얀 무지 티셔츠를 입고 갔어.",
+      "focus": "a plain white t-shirt"
+     },
+     {
+      "en": "I bought three t-shirts because they were on sale.",
+      "ko": "세일해서 티셔츠 세 장을 샀어.",
+      "focus": "three t-shirts"
+     }
+    ],
+    "collocations": [
+     "wear a t-shirt",
+     "a cotton t-shirt"
+    ]
+   }
+  ],
+  "confusables": [
+   {
+    "word": "shirt",
+    "note": "shirt는 단추와 깃이 있는 셔츠, t-shirt는 목이 둥글고 단추가 없는 면 티다."
+   }
+  ],
+  "memoryHook": "두 팔을 펼치면 알파벳 T 모양이 되어서 t-shirt라고 부른다."
+ },
+ {
+  "id": "teen",
+  "headword": "teen",
+  "ipa": "/tiːn/",
+  "level": "ELEM",
+  "isCore": false,
+  "topic": "people_family",
+  "forms": [
+   "teens"
+  ],
+  "senses": [
+   {
+    "id": "teen-1",
+    "pos": "n",
+    "ko": "십 대",
+    "en": "a young person between thirteen and nineteen years old",
+    "nuance": "열세 살부터 열아홉 살까지만 가리켜서 열두 살은 teen이 아니다. 나이대를 말할 땐 in her teens처럼 복수로 쓴다.",
+    "pattern": "in one's teens",
+    "examples": [
+     {
+      "en": "This app is really popular with teens these days.",
+      "ko": "이 앱은 요즘 십 대들한테 엄청 인기야.",
+      "focus": "popular with teens"
+     },
+     {
+      "en": "Emma started playing guitar in her early teens.",
+      "ko": "엠마는 십 대 초반에 기타를 치기 시작했어.",
+      "focus": "in her early teens"
+     }
+    ],
+    "collocations": [
+     "in her teens",
+     "a teen movie"
+    ]
+   }
+  ],
+  "wordFamily": [
+   {
+    "form": "teenager",
+    "pos": "n",
+    "ko": "십 대 청소년"
+   }
+  ],
+  "confusables": [
+   {
+    "word": "teenager",
+    "note": "teen은 짧고 가벼운 구어, teenager는 사람 한 명을 가리키는 기본 단어다. 뜻은 같지만 teenager가 더 무난하다."
+   }
+  ]
+ },
+ {
+  "id": "temple",
+  "headword": "temple",
+  "ipa": "/ˈtempl/",
+  "level": "ELEM",
+  "isCore": false,
+  "topic": "travel_transport",
+  "forms": [
+   "temples"
+  ],
+  "senses": [
+   {
+    "id": "temple-1",
+    "pos": "n",
+    "ko": "절, 사원",
+    "en": "a building where people pray, often Buddhist or Hindu",
+    "nuance": "불교 절은 temple, 기독교 교회는 church로 구분한다. 절 이름은 Bulguksa Temple처럼 뒤에 붙여 쓴다.",
+    "pattern": "visit a temple",
+    "examples": [
+     {
+      "en": "We hiked up to an old temple in the mountains.",
+      "ko": "우리는 산속에 있는 오래된 절까지 걸어 올라갔어.",
+      "focus": "an old temple"
+     },
+     {
+      "en": "The temple is quiet early in the morning.",
+      "ko": "그 절은 이른 아침엔 아주 조용해.",
+      "focus": "The temple is quiet"
+     }
+    ],
+    "collocations": [
+     "visit a temple",
+     "an ancient temple"
+    ]
+   }
+  ],
+  "confusables": [
+   {
+    "word": "church",
+    "note": "temple은 불교나 힌두교 사원, church는 기독교 교회다. 한국의 절을 church라고 하면 안 된다."
+   }
+  ]
+ },
+ {
+  "id": "textbook",
+  "headword": "textbook",
+  "ipa": "/ˈtekstbʊk/",
+  "level": "ELEM",
+  "isCore": false,
+  "topic": "school_learning",
+  "forms": [
+   "textbooks"
+  ],
+  "senses": [
+   {
+    "id": "textbook-1",
+    "pos": "n",
+    "ko": "교과서",
+    "en": "a book used for studying a subject at school",
+    "nuance": "학교나 수업에서 쓰는 책만 textbook이다. 문제집은 workbook, 그냥 읽는 책은 book이라고 한다.",
+    "pattern": "open / a … textbook",
+    "examples": [
+     {
+      "en": "Open your textbook to page forty-two, everyone.",
+      "ko": "다들 교과서 42쪽 펴세요.",
+      "focus": "Open your textbook"
+     },
+     {
+      "en": "These textbooks cost more than my monthly phone bill.",
+      "ko": "이 교과서들이 내 한 달 통신비보다 비싸.",
+      "focus": "These textbooks cost more"
+     }
+    ],
+    "collocations": [
+     "an English textbook",
+     "open a textbook"
+    ]
+   }
+  ],
+  "confusables": [
+   {
+    "word": "workbook",
+    "note": "textbook은 내용을 배우는 교과서, workbook은 직접 풀어 보는 문제집이다."
+   }
+  ]
+ },
+ {
+  "id": "thanks",
+  "headword": "thanks",
+  "ipa": "/θæŋks/",
+  "level": "ELEM",
+  "isCore": false,
+  "topic": "communication",
+  "forms": [],
+  "senses": [
+   {
+    "id": "thanks-1",
+    "pos": "n",
+    "ko": "고마워, 감사",
+    "en": "a short friendly way of telling someone you are grateful",
+    "nuance": "항상 -s를 붙이고 Thank라고 하지 않는다. Thank you보다 가벼운 말이라 윗사람에게는 Thank you를 쓰는 게 안전하다.",
+    "pattern": "Thanks for + 명사/-ing",
+    "examples": [
+     {
+      "en": "Thanks for waiting, the table is ready now.",
+      "ko": "기다려 주셔서 감사합니다, 자리 준비됐어요.",
+      "focus": "Thanks for waiting"
+     },
+     {
+      "en": "Thanks a lot, I couldn't have finished this alone.",
+      "ko": "정말 고마워, 나 혼자서는 못 끝냈을 거야.",
+      "focus": "Thanks a lot"
+     }
+    ],
+    "collocations": [
+     "thanks a lot",
+     "thanks for your help"
+    ]
+   }
+  ],
+  "wordFamily": [
+   {
+    "form": "thank",
+    "pos": "v",
+    "ko": "감사하다"
+   }
+  ],
+  "confusables": [
+   {
+    "word": "thank",
+    "note": "인사로 쓸 땐 반드시 Thanks처럼 -s가 붙는다. thank는 동사라 Thank you 형태로만 쓴다."
+   },
+   {
+    "word": "think",
+    "note": "thanks는 '땡스', think는 '띵크'로 모음이 다르다. 한국인에게 둘 다 어려운 th 발음이라 자주 섞인다."
+   }
+  ]
+ },
+ {
+  "id": "toilet",
+  "headword": "toilet",
+  "ipa": "/ˈtɔɪlət/",
+  "level": "ELEM",
+  "isCore": false,
+  "topic": "home_daily",
+  "forms": [
+   "toilets"
+  ],
+  "senses": [
+   {
+    "id": "toilet-1",
+    "pos": "n",
+    "ko": "변기, 화장실",
+    "en": "the bowl you sit on to get rid of body waste",
+    "nuance": "미국에서 toilet은 변기 자체라 식당에서 물어보면 직설적으로 들린다. 화장실을 찾을 땐 restroom이나 bathroom을 쓴다.",
+    "pattern": "flush the toilet",
+    "examples": [
+     {
+      "en": "Please don't throw paper towels in the toilet.",
+      "ko": "종이 타월은 변기에 버리지 마세요.",
+      "focus": "in the toilet"
+     },
+     {
+      "en": "The toilet in the hallway is broken again.",
+      "ko": "복도에 있는 변기가 또 고장 났어.",
+      "focus": "The toilet in the hallway"
+     }
+    ],
+    "collocations": [
+     "flush the toilet",
+     "toilet paper"
+    ]
+   }
+  ],
+  "confusables": [
+   {
+    "word": "bathroom",
+    "note": "bathroom은 세면대와 변기가 있는 방 전체, toilet은 그 안의 변기다. 미국에서 화장실을 물을 땐 bathroom이 안전하다."
+   }
+  ]
+ },
+ {
+  "id": "tomato",
+  "headword": "tomato",
+  "ipa": "/təˈmeɪtoʊ/",
+  "level": "ELEM",
+  "isCore": false,
+  "topic": "food_cooking",
+  "forms": [
+   "tomatoes"
+  ],
+  "senses": [
+   {
+    "id": "tomato-1",
+    "pos": "n",
+    "ko": "토마토",
+    "en": "a soft round red fruit used in salads and sauces",
+    "nuance": "복수는 tomatos가 아니라 tomatoes로 -es를 붙인다. 발음도 '토마토'가 아니라 '터메이토'에 가깝다.",
+    "pattern": "a tomato / tomatoes",
+    "examples": [
+     {
+      "en": "Cut two tomatoes and put them in the salad.",
+      "ko": "토마토 두 개 썰어서 샐러드에 넣어.",
+      "focus": "two tomatoes"
+     },
+     {
+      "en": "This sauce tastes better with fresh tomato instead of canned.",
+      "ko": "이 소스는 캔 말고 생토마토를 쓰면 더 맛있어.",
+      "focus": "with fresh tomato"
+     }
+    ],
+    "collocations": [
+     "cherry tomatoes",
+     "tomato sauce"
+    ]
+   }
+  ],
+  "confusables": [
+   {
+    "word": "potato",
+    "note": "둘 다 복수에 -es가 붙어 potatoes, tomatoes가 된다. 다만 감자는 땅속, 토마토는 줄기에 열린다."
+   }
+  ]
+ },
+ {
+  "id": "triangle",
+  "headword": "triangle",
+  "ipa": "/ˈtraɪæŋɡl/",
+  "level": "ELEM",
+  "isCore": false,
+  "topic": "description_quality",
+  "forms": [
+   "triangles"
+  ],
+  "senses": [
+   {
+    "id": "triangle-1",
+    "pos": "n",
+    "ko": "삼각형",
+    "en": "a flat shape with three straight sides",
+    "nuance": "'삼각형 모양의'라고 할 땐 triangle shape보다 triangular나 in the shape of a triangle이 자연스럽다.",
+    "pattern": "in a triangle / a … triangle",
+    "examples": [
+     {
+      "en": "Cut the sandwich into two triangles, not squares.",
+      "ko": "샌드위치를 네모 말고 삼각형 두 개로 잘라.",
+      "focus": "into two triangles"
+     },
+     {
+      "en": "Draw a triangle with three equal sides here.",
+      "ko": "여기에 세 변이 같은 삼각형을 그려 봐.",
+      "focus": "Draw a triangle"
+     }
+    ],
+    "collocations": [
+     "draw a triangle",
+     "a right triangle"
+    ]
+   }
+  ],
+  "wordFamily": [
+   {
+    "form": "triangular",
+    "pos": "adj",
+    "ko": "삼각형의"
+   }
+  ],
+  "confusables": [
+   {
+    "word": "rectangle",
+    "note": "triangle은 변이 세 개인 삼각형, rectangle은 네 개인 직사각형이다. 앞의 tri-가 3을 뜻한다."
+   }
+  ],
+  "memoryHook": "tri-는 3을 뜻해서 tricycle(세발자전거)처럼 '세 개'가 들어간 말이라고 묶어 외운다."
+ },
+ {
+  "id": "umbrella",
+  "headword": "umbrella",
+  "ipa": "/ʌmˈbrelə/",
+  "level": "ELEM",
+  "isCore": false,
+  "topic": "home_daily",
+  "forms": [
+   "umbrellas"
+  ],
+  "senses": [
+   {
+    "id": "umbrella-1",
+    "pos": "n",
+    "ko": "우산",
+    "en": "a round cover on a stick that keeps rain off you",
+    "nuance": "'우산을 쓰다'는 wear가 아니라 take나 bring an umbrella라고 한다. 펴는 것은 open, 접는 것은 close다.",
+    "pattern": "take / bring an umbrella",
+    "examples": [
+     {
+      "en": "Take an umbrella, it's supposed to rain later.",
+      "ko": "우산 챙겨, 이따 비 온대.",
+      "focus": "Take an umbrella"
+     },
+     {
+      "en": "Mina left her umbrella on the subway again.",
+      "ko": "미나가 또 지하철에 우산을 두고 내렸어.",
+      "focus": "left her umbrella"
+     }
+    ],
+    "collocations": [
+     "open an umbrella",
+     "under an umbrella"
+    ]
+   }
+  ],
+  "confusables": [
+   {
+    "word": "parasol",
+    "note": "umbrella는 비를 막는 우산, parasol은 햇빛을 가리는 양산이다. 요즘은 양산도 sun umbrella라고 많이 한다."
+   }
+  ]
+ },
+ {
+  "id": "vacation",
+  "headword": "vacation",
+  "ipa": "/veɪˈkeɪʃn/",
+  "level": "ELEM",
+  "isCore": false,
+  "topic": "travel_transport",
+  "forms": [
+   "vacations"
+  ],
+  "senses": [
+   {
+    "id": "vacation-1",
+    "pos": "n",
+    "ko": "휴가, 방학",
+    "en": "time away from work or school for rest or travel",
+    "nuance": "휴가 중이라는 말은 in vacation이 아니라 on vacation이다. 미국에서는 vacation, 영국에서는 holiday를 쓴다.",
+    "pattern": "on vacation / go on vacation",
+    "examples": [
+     {
+      "en": "Emma is on vacation until the end of next week.",
+      "ko": "엠마는 다음 주말까지 휴가야.",
+      "focus": "on vacation"
+     },
+     {
+      "en": "We're going on vacation to Busan for five days.",
+      "ko": "우리 부산으로 5일 휴가 가.",
+      "focus": "going on vacation"
+     }
+    ],
+    "collocations": [
+     "on vacation",
+     "a summer vacation"
+    ]
+   }
+  ],
+  "confusables": [
+   {
+    "word": "holiday",
+    "note": "미국에서 holiday는 설이나 추석 같은 공휴일 하루, vacation은 며칠 이상 쉬는 휴가다. 영국에서는 holiday가 휴가를 뜻한다."
+   }
+  ]
+ },
+ {
+  "id": "watermelon",
+  "headword": "watermelon",
+  "ipa": "/ˈwɔːtərmelən/",
+  "level": "ELEM",
+  "isCore": false,
+  "topic": "food_cooking",
+  "forms": [
+   "watermelons"
+  ],
+  "senses": [
+   {
+    "id": "watermelon-1",
+    "pos": "n",
+    "ko": "수박",
+    "en": "a very large green fruit that is red and sweet inside",
+    "nuance": "통째로 셀 땐 a watermelon, 잘라 놓은 조각은 a slice of watermelon이라고 한다. 두 단어로 띄어 쓰지 않는다.",
+    "pattern": "a slice of watermelon",
+    "examples": [
+     {
+      "en": "Nothing beats cold watermelon on a hot August afternoon.",
+      "ko": "무더운 8월 오후엔 차가운 수박이 최고지.",
+      "focus": "cold watermelon"
+     },
+     {
+      "en": "Can you carry the watermelon? It's heavier than it looks.",
+      "ko": "수박 좀 들어 줄래? 보기보다 무거워.",
+      "focus": "carry the watermelon"
+     }
+    ],
+    "collocations": [
+     "a slice of watermelon",
+     "cut a watermelon"
+    ]
+   }
+  ],
+  "confusables": [
+   {
+    "word": "melon",
+    "note": "melon은 참외·멜론처럼 속이 노랗거나 연두색인 과일이고, watermelon은 속이 빨간 수박이다."
+   }
+  ]
+ },
+ {
+  "id": "wedding",
+  "headword": "wedding",
+  "ipa": "/ˈwedɪŋ/",
+  "level": "ELEM",
+  "isCore": false,
+  "topic": "people_family",
+  "forms": [
+   "weddings"
+  ],
+  "senses": [
+   {
+    "id": "wedding-1",
+    "pos": "n",
+    "ko": "결혼식",
+    "en": "the ceremony where two people get married",
+    "nuance": "결혼식 행사 자체를 뜻하고, 결혼 생활이나 결혼이라는 사실은 marriage다. 결혼식에 가는 것은 go to a wedding이다.",
+    "pattern": "go to / at a wedding",
+    "examples": [
+     {
+      "en": "We're going to Jun's wedding in Seoul next month.",
+      "ko": "다음 달에 서울에서 하는 준이 결혼식에 가.",
+      "focus": "Jun's wedding"
+     },
+     {
+      "en": "The wedding was small, just family and close friends.",
+      "ko": "결혼식은 가족이랑 친한 친구들만 부른 작은 식이었어.",
+      "focus": "The wedding was small"
+     }
+    ],
+    "collocations": [
+     "a wedding ceremony",
+     "go to a wedding"
+    ]
+   }
+  ],
+  "wordFamily": [
+   {
+    "form": "wed",
+    "pos": "v",
+    "ko": "결혼하다"
+   }
+  ],
+  "confusables": [
+   {
+    "word": "marriage",
+    "note": "wedding은 하루짜리 결혼식 행사, marriage는 결혼한 상태와 결혼 생활 전체를 뜻한다."
+   }
+  ]
+ }
+]
