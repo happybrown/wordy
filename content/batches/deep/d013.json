@@ -9,7 +9,6 @@
   "forms": [
    "posted",
    "posting",
-   "postings",
    "posts"
   ],
   "senses": [
@@ -98,7 +97,7 @@
     "examples": [
      {
       "en": "The dog was tied to a wooden post outside.",
-      "ko": "개가 밖에 있는 나무 기둥에 밢여 있었어.",
+      "ko": "개가 밖에 있는 나무 기둥에 매여 있었어.",
       "focus": "tied to a wooden post"
      },
      {
@@ -527,9 +526,9 @@
       "phrase": "dream up",
       "ko": "지어내다, 생각해 내다",
       "example": {
-       "en": "Who did dream up this ridiculous rule?",
-       "ko": "이 말도 안 되는 규칙 누가 만들어 낸 거야?",
-       "focus": "dream up this ridiculous rule"
+       "en": "Who could dream up a rule this ridiculous?",
+       "ko": "이렇게 말도 안 되는 규칙을 누가 만들어 낼 수 있지?",
+       "focus": "dream up a rule"
       }
      }
     ]
@@ -591,8 +590,7 @@
   "forms": [
    "fixed",
    "fixes",
-   "fixing",
-   "fixings"
+   "fixing"
   ],
   "senses": [
    {
@@ -754,8 +752,7 @@
   "forms": [
    "crossed",
    "crosses",
-   "crossing",
-   "crossings"
+   "crossing"
   ],
   "senses": [
    {
@@ -1036,14 +1033,14 @@
    {
     "id": "judge-1",
     "pos": "v",
-    "ko": "함부로 판단하다",
+    "ko": "쉽게 재단하다",
     "en": "to form a bad opinion about someone too quickly",
     "nuance": "Don't judge me처럼 '내 사정도 모르면서 평가하지 마'라는 뜻으로 가장 많이 쓴다. 이 뜻에는 부정적 어감이 강하게 깔려 있다.",
     "pattern": "judge + 사람 + by/for",
     "examples": [
      {
       "en": "Don't judge me until you hear my side.",
-      "ko": "내 얘기 들어 보기 전엔 함부로 판단하지 마.",
+      "ko": "내 얘기 들어 보기 전엔 멋대로 판단하지 마.",
       "focus": "judge me"
      },
      {
@@ -1353,9 +1350,9 @@
    {
     "id": "block-4",
     "pos": "n",
-    "ko": "덩어리, 토막",
+    "ko": "덩어리, 조각",
     "en": "a solid piece of wood, stone, or ice with flat sides",
-    "nuance": "네모반듯한 덩어리를 말한다. 아이들 장난감 블록도 blocks라 하고, 아파트 한 동을 a block of flats라고 부르는 것도 여기서 왔다.",
+    "nuance": "면이 평평하고 모서리가 반듯한 덩어리를 말한다. 아이들 장난감 블록도 blocks라 하고, 아파트 한 동을 a block of flats라고 부르는 것도 여기서 왔다.",
     "examples": [
      {
       "en": "She cut the cheese into small blocks.",
@@ -1439,7 +1436,7 @@
     "pos": "adj",
     "ko": "따뜻한, 다정한",
     "en": "friendly and kind in a way that makes people comfortable",
-    "nuance": "성격이나 분위기가 다정하다는 뜻이다. 사람에게 hot을 쓰면 외모 얘기가 되니 마음이 따뜻하다는 말은 반드시 warm을 쓴다.",
+    "nuance": "성격이나 분위기가 다정하다는 뜻이다. 사람에게 hot을 쓰면 겉모습 얘기가 되니 마음이 따뜻하다는 말은 반드시 warm을 쓴다.",
     "pattern": "a warm + 사람/분위기",
     "examples": [
      {
@@ -1828,9 +1825,9 @@
    {
     "id": "copy-2",
     "pos": "v",
-    "ko": "따라 하다, 흉내 내다",
+    "ko": "따라 하다, 모방하다",
     "en": "to do the same thing as another person on purpose",
-    "nuance": "남의 행동이나 말투를 따라 하는 뜻이다. 목소리나 몸짓을 우스꽝스럽게 흉내 낼 때는 imitate나 mimic이 더 정확하다.",
+    "nuance": "남의 행동이나 말투를 그대로 따라 하는 뜻이다. 목소리나 몸짓을 우스꽝스럽게 모방할 때는 imitate나 mimic이 더 정확하다.",
     "pattern": "copy + 사람",
     "examples": [
      {
@@ -1908,7 +1905,7 @@
    },
    {
     "word": "imitate",
-    "note": "imitate는 흉내 내는 행동, copy는 똑같이 만들거나 그대로 따라 하는 것이다."
+    "note": "imitate는 모방하는 행동, copy는 똑같이 만들거나 그대로 따라 하는 것이다."
    },
    {
     "word": "print",
@@ -1958,7 +1955,7 @@
     "pos": "v",
     "ko": "스트레스를 주다",
     "en": "to make someone feel worried and tired",
-    "nuance": "주로 수동형 be stressed로 써서 \"스트레스 받았다\"를 나타낸다. I am stressful은 \"내가 남을 힘들게 한다\"는 뜻이 되니 stressed를 써야 한다.",
+    "nuance": "주로 수동형 be stressed로 써서 '스트레스 받았다'를 나타낸다. I am stressful은 '내가 남을 힘들게 한다'는 뜻이 되니 stressed를 써야 한다.",
     "pattern": "be stressed about + 명사",
     "examples": [
      {
@@ -2461,7 +2458,6 @@
   "forms": [
    "hanged",
    "hanging",
-   "hangings",
    "hangs",
    "hung"
   ],
