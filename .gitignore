@@ -25,3 +25,7 @@ content/sources/*
 # On-device AI models (never commit)
 *.litertlm
 *.task
+
+# 서명 키 (개인용)
+keystore.properties
+*.keystore

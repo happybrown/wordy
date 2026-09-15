@@ -1,9 +1,20 @@
+import java.util.Properties
+
 plugins {
     alias(libs.plugins.android.application)
     alias(libs.plugins.kotlin.compose)
     alias(libs.plugins.kotlin.serialization)
     alias(libs.plugins.ksp)
     alias(libs.plugins.room)
+}
+
+/**
+ * 릴리스 서명 정보는 keystore.properties 에 두고 git 에는 올리지 않는다.
+ * 파일이 없으면(다른 기기에서 클론했을 때) 릴리스는 서명 없이 빌드된다.
+ */
+val keystoreProps = Properties().apply {
+    val f = rootProject.file("keystore.properties")
+    if (f.exists()) f.inputStream().use { load(it) }
 }
 
 android {
@@ -19,8 +30,20 @@ android {
         testInstrumentationRunner = "androidx.test.runner.AndroidJUnitRunner"
     }
 
+    signingConfigs {
+        if (keystoreProps.isNotEmpty()) {
+            create("release") {
+                storeFile = file(keystoreProps.getProperty("storeFile"))
+                storePassword = keystoreProps.getProperty("storePassword")
+                keyAlias = keystoreProps.getProperty("keyAlias")
+                keyPassword = keystoreProps.getProperty("keyPassword")
+            }
+        }
+    }
+
     buildTypes {
         release {
+            signingConfig = signingConfigs.findByName("release")
             isMinifyEnabled = true
             isShrinkResources = true
             proguardFiles(getDefaultProguardFile("proguard-android-optimize.txt"), "proguard-rules.pro")
