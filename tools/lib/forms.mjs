@@ -50,7 +50,8 @@ const NOT_A_FORM = new Set([
   'prides', 'destructions', 'logics', 'wisdoms', 'braveries', 'honesties',
   'legislations', 'hells', 'childhoods', 'literatures', 'evidences',
   'leisures', 'privacies', 'tobaccos', 'leaderships', 'ownerships',
-  'employments', 'reliefs', 'intelligences', 'oppositions', 'membership_',
+  'employments', 'reliefs', 'intelligences', 'oppositions',
+  'recognitions', 'assistances', 'entertainments', 'retails', 'membership_',
   // 과거형이 원형과 같은 동사
   'quitted', 'costed', 'cutted', 'hitted', 'setted', 'letted', 'spreaded', 'shutted',
   'casted', 'bursted', 'hurted', 'beted', 'splited', 'trafficking_',
@@ -66,6 +67,7 @@ const NOT_A_FORM = new Set([
   'meaned', 'dealed', 'holded', 'selled', 'telled', 'finded', 'standed', 'teached',
   'catched', 'buyed', 'bringed', 'thinked', 'fighted', 'payed',
   'squarer', 'squarest', 'wronger', 'wrongest', 'famouser', 'famousest', 'correcter', 'correctest',
+  'unlikelier', 'unlikeliest', 'gayer', 'gayest', 'eagerer', 'eagerest', 'awarer', 'awarest',
   // 형용사·부사가 주 품사인데 명사 복수로 실린 것들.
   // generals(장군들), privates(병사들)처럼 실재하는 명사 복수는 넣지 않는다 —
   // 항목이 그 명사 sense 를 쓰면 예문에 필요하다.
