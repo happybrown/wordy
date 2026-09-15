@@ -78,6 +78,9 @@ export function cleanForms(headword, forms, pos, usedIn = '') {
     if (f === headword + 'es' && !/(s|x|z|ch|sh|o)$/.test(headword)) return false;
     if (/[.]/.test(f) && !/[.]/.test(headword)) return false; // "dr." for doctor
     if (SLANG.has(f) || NOT_A_FORM.has(f)) return false;
+    // 동명사의 복수(scorings, filings, meetings 아님 — meeting 은 headword 자체)는
+    // 동사 변화형도 명사 복수도 아니라 학습 카드에 넣을 이유가 없다.
+    if (/ings$/.test(f) && f !== headword && !headword.endsWith('ing')) return false;
     if (used(f)) return true;
     const irr = IRREGULAR.get(headword);
     if (irr?.includes(f)) return true;

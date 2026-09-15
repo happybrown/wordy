@@ -41,3 +41,12 @@ test('예문에 실제로 쓰인 형태는 품사와 무관하게 유지한다',
 test('철자 변형은 유지한다', () => {
   assert.ok(cleanForms('color', ['colour', 'colors'], ['n']).includes('colour'));
 });
+
+test('동명사의 복수는 학습 변화형이 아니다', () => {
+  // score/file 의 동사 sense 를 써도 scorings/filings 는 넣지 않는다
+  assert.deepEqual(cleanForms('score', ['scored', 'scores', 'scoring', 'scorings'], ['n', 'v']), ['scored', 'scores', 'scoring']);
+  assert.ok(!cleanForms('file', ['filed', 'filing', 'filings'], ['n', 'v']).includes('filings'));
+  // 다만 headword 자체가 -ing 으로 끝나는 명사의 복수는 정상이다
+  assert.deepEqual(cleanForms('meeting', ['meetings'], ['n']), ['meetings']);
+  assert.deepEqual(cleanForms('building', ['buildings'], ['n']), ['buildings']);
+});
