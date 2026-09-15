@@ -50,15 +50,23 @@ class ExerciseGenerator(private val words: WordRepository, private val random: R
         return Exercise.Recall(card, word, glosses, word.primarySense.en, listen)
     }
 
+    /**
+     * 연어 짝 맞추기. 오른쪽 보기(단어)는 반드시 서로 달라야 한다 — 같은 단어가 두 번 나오면
+     * 어느 빈칸에 어느 것을 넣어야 할지 구분할 수 없어 문제가 성립하지 않는다.
+     * 따라서 대상 단어는 연어 하나만 쓰고, 나머지는 서로 다른 단어에서 하나씩 가져온다.
+     */
     suspend fun collocationMatch(card: Card, word: Word): Exercise.CollocationMatch? {
-        val own = word.allCollocations.shuffled(random).mapNotNull { c -> blankOut(c, c, word.allForms)?.let { it.first to word.headword } }.take(2)
-        if (own.isEmpty()) return null
-        val others = words.words(words.distractorSenses(word, word.primarySense.pos, 6).map { it.wordId })
-            .filter { it.id != word.id && it.allCollocations.isNotEmpty() }
+        val own = word.allCollocations.shuffled(random)
+            .firstNotNullOfOrNull { c -> blankOut(c, c, word.allForms)?.let { it.first to word.headword } }
+            ?: return null
+        val others = words.words(words.distractorSenses(word, word.primarySense.pos, 8).map { it.wordId })
+            .filter { it.id != word.id && it.headword != word.headword && it.allCollocations.isNotEmpty() }
+            .distinctBy { it.headword }
             .mapNotNull { w -> val c = w.allCollocations.random(random); blankOut(c, c, w.allForms)?.let { it.first to w.headword } }
-            .distinctBy { it.second }.take(4 - own.size)
-        val pairs = (own + others).take(4)
-        return if (pairs.size >= 3) Exercise.CollocationMatch(card, word, pairs) else null
+            .distinctBy { it.second }
+            .take(3)
+        val pairs = (listOf(own) + others)
+        return if (pairs.size >= 3 && pairs.map { it.second }.distinct().size == pairs.size) Exercise.CollocationMatch(card, word, pairs.shuffled(random)) else null
     }
 
     fun sentenceScramble(card: Card, word: Word): Exercise.SentenceScramble {
