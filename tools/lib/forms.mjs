@@ -49,6 +49,10 @@ const NOT_A_FORM = new Set([
   'deader', 'deadest', 'falser', 'falsest', 'truer', 'truest', 'uniquer', 'uniquest',
   'perfecter', 'perfectest', 'mainer', 'mainest', 'onlier', 'onliest', 'wholer', 'wholest',
   'baddest', 'badder', 'gooder', 'goodest', 'worser', 'littler', 'littlest', 'farer', 'farest',
+  // 불규칙 동사에 실린 가짜 규칙 과거형. bended 는 'on bended knee' 화석 표현에만 남았다.
+  'bended', 'leaved', 'builded', 'sended', 'spended', 'sleeped', 'keeped', 'feeled',
+  'meaned', 'dealed', 'holded', 'selled', 'telled', 'finded', 'standed', 'teached',
+  'catched', 'buyed', 'bringed', 'thinked', 'fighted', 'payed',
   'squarer', 'squarest', 'wronger', 'wrongest', 'famouser', 'famousest', 'correcter', 'correctest',
   // 형용사·부사가 주 품사인데 명사 복수로 실린 것들.
   // generals(장군들), privates(병사들)처럼 실재하는 명사 복수는 넣지 않는다 —

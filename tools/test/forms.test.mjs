@@ -108,3 +108,12 @@ test('약어는 변화형이 아니다', () => {
   // math 가 원형일 때 maths 는 영국식 표기 변형이므로 유지
   assert.deepEqual(cleanForms('math', ['maths'], ['n']), ['maths']);
 });
+
+test('불규칙 동사에 실린 가짜 규칙 과거형을 거른다', () => {
+  // bended 는 'on bended knee' 화석 표현에만 남은 고어형
+  assert.deepEqual(cleanForms('bend', ['bended', 'bends', 'bending', 'bent'], ['v']),
+    ['bending', 'bends', 'bent']);
+  assert.ok(!cleanForms('leave', ['leaved', 'left', 'leaves'], ['v']).includes('leaved'));
+  // heard 는 hear 의 정상 과거형이므로 유지
+  assert.ok(cleanForms('hear', ['heard', 'hears'], ['v']).includes('heard'));
+});
