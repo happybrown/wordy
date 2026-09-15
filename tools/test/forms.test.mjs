@@ -155,3 +155,11 @@ test('추상 불가산명사 복수 (추가)', () => {
   // belief 는 가산이므로 유지
   assert.deepEqual(cleanForms('belief', ['beliefs'], ['n']), ['beliefs']);
 });
+
+test('철자 오류와 표기 변형을 구분한다', () => {
+  // advertisment 는 편집 거리 1 이지만 영국식 변형이 아니라 오타다
+  assert.deepEqual(cleanForms('advertisement', ['advertisment', 'advertisements'], ['n']), ['advertisements']);
+  // colour, honour 같은 진짜 영국식 표기는 유지
+  assert.ok(cleanForms('color', ['colour', 'colors'], ['n']).includes('colour'));
+  assert.ok(cleanForms('honor', ['honour', 'honors'], ['n']).includes('honour'));
+});

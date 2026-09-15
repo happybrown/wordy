@@ -51,7 +51,10 @@ const NOT_A_FORM = new Set([
   'legislations', 'hells', 'childhoods', 'literatures', 'evidences',
   'leisures', 'privacies', 'tobaccos', 'leaderships', 'ownerships',
   'employments', 'reliefs', 'intelligences', 'oppositions',
-  'recognitions', 'assistances', 'entertainments', 'retails', 'membership_',
+  'recognitions', 'assistances', 'entertainments', 'retails',
+  // 편집 거리 1 이라 표기 변형으로 오인되는 철자 오류
+  'advertisment', 'advertisments', 'goverment', 'enviroment', 'recieve', 'seperate',
+  'definately', 'occured', 'begining', 'writting', 'untill', 'wich', 'membership_',
   // 과거형이 원형과 같은 동사
   'quitted', 'costed', 'cutted', 'hitted', 'setted', 'letted', 'spreaded', 'shutted',
   'casted', 'bursted', 'hurted', 'beted', 'splited', 'trafficking_',
