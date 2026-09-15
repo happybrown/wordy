@@ -413,8 +413,8 @@
       "phrase": "leave behind",
       "ko": "두고 오다",
       "example": {
-       "en": "Don't leave your umbrella behind again.",
-       "ko": "우산 또 두고 오지 마.",
+       "en": "Please don't leave your umbrella behind at the café again.",
+       "ko": "카페에 우산 또 두고 오지 마.",
        "focus": "leave your umbrella behind"
       }
      },
@@ -1447,6 +1447,1231 @@
    {
     "word": "catch",
     "note": "catch는 날아오는 걸 잡는 순간이고, hold는 잡은 뒤 놓지 않는 것이다."
+   }
+  ]
+ },
+ {
+  "id": "love",
+  "headword": "love",
+  "ipa": "/lʌv/",
+  "level": "ELEM",
+  "isCore": true,
+  "topic": "emotions_personality",
+  "forms": [
+   "loved",
+   "loves",
+   "loving"
+  ],
+  "senses": [
+   {
+    "id": "love-1",
+    "pos": "v",
+    "ko": "아주 좋아하다",
+    "en": "to enjoy something very much",
+    "nuance": "사물·활동에 쓰면 '너무 좋다'는 가벼운 말이다. 한국어 '사랑하다'처럼 무겁지 않아서 음식·영화에도 편하게 쓴다.",
+    "pattern": "love + 명사 / -ing",
+    "examples": [
+     {
+      "en": "I love walking by the river at night.",
+      "ko": "나 밤에 강가 걷는 거 너무 좋아해.",
+      "focus": "love walking by the river"
+     },
+     {
+      "en": "She loves that little coffee shop near work.",
+      "ko": "걔 회사 근처 그 작은 카페 엄청 좋아해.",
+      "focus": "loves that little coffee shop"
+     },
+     {
+      "en": "I'd love to join you, but I'm busy.",
+      "ko": "나도 같이 가고 싶은데 바빠.",
+      "focus": "love to join you"
+     }
+    ],
+    "collocations": [
+     "love doing",
+     "would love to"
+    ]
+   },
+   {
+    "id": "love-2",
+    "pos": "v",
+    "ko": "사랑하다",
+    "en": "to care about a person deeply",
+    "nuance": "가족에게도 연인에게도 쓴다. 한국인은 부담스러워 잘 안 쓰지만 영어권에서는 부모·자식 사이에 I love you가 일상 인사에 가깝다.",
+    "pattern": "love + 사람",
+    "examples": [
+     {
+      "en": "I love you, and I'll call you tonight.",
+      "ko": "사랑해, 오늘 밤에 전화할게.",
+      "focus": "love you"
+     },
+     {
+      "en": "He has loved her since high school.",
+      "ko": "걔는 고등학교 때부터 그 애를 좋아했어.",
+      "focus": "loved her"
+     }
+    ]
+   },
+   {
+    "id": "love-3",
+    "pos": "n",
+    "ko": "사랑",
+    "en": "a strong feeling of caring for someone",
+    "nuance": "fall in love는 '사랑에 빠지다', be in love는 '사랑하고 있다'로 뜻이 다르다. 셀 수 없는 명사라 a love라고 잘 쓰지 않는다.",
+    "pattern": "fall in love with + 사람",
+    "examples": [
+     {
+      "en": "They fell in love during their first year abroad.",
+      "ko": "걔네 외국 나간 첫해에 사랑에 빠졌어.",
+      "focus": "fell in love"
+     },
+     {
+      "en": "You can feel the love in her letters.",
+      "ko": "걔 편지에서 사랑이 느껴져.",
+      "focus": "the love in her letters"
+     }
+    ],
+    "collocations": [
+     "fall in love with",
+     "in love"
+    ]
+   },
+   {
+    "id": "love-4",
+    "pos": "n",
+    "ko": "아주 좋아하는 것",
+    "en": "a thing you enjoy more than almost anything else",
+    "nuance": "취미·관심사를 가리킬 때 my love for music처럼 for를 쓴다. 사람에게 쓰면 연인이라는 뜻이 되니 구분해야 한다.",
+    "pattern": "love for + 명사",
+    "examples": [
+     {
+      "en": "Her love for old films started in college.",
+      "ko": "걔의 옛날 영화 사랑은 대학 때 시작됐어.",
+      "focus": "love for old films"
+     },
+     {
+      "en": "Cooking has been my greatest love for years.",
+      "ko": "요리는 몇 년째 내가 제일 좋아하는 일이야.",
+      "focus": "my greatest love"
+     }
+    ]
+   }
+  ],
+  "wordFamily": [
+   {
+    "form": "lovely",
+    "pos": "adj",
+    "ko": "사랑스러운, 멋진"
+   },
+   {
+    "form": "lover",
+    "pos": "n",
+    "ko": "애호가, 연인"
+   },
+   {
+    "form": "loving",
+    "pos": "adj",
+    "ko": "애정 어린"
+   }
+  ],
+  "confusables": [
+   {
+    "word": "like",
+    "note": "like는 그냥 좋다, love는 훨씬 강하다. 회화에서는 사물에도 love를 가볍게 쓴다."
+   },
+   {
+    "word": "enjoy",
+    "note": "enjoy는 그 순간 즐긴다는 뜻이라 뒤에 -ing만 온다. love는 to부정사도 된다."
+   },
+   {
+    "word": "lovely",
+    "note": "lovely는 형용사로 '멋진, 좋은'이다. 사람에게만 쓰는 말이 아니다."
+   }
+  ]
+ },
+ {
+  "id": "plan",
+  "headword": "plan",
+  "ipa": "/plæn/",
+  "level": "ELEM",
+  "isCore": true,
+  "topic": "thinking_opinion",
+  "forms": [
+   "planned",
+   "planning",
+   "plans"
+  ],
+  "senses": [
+   {
+    "id": "plan-1",
+    "pos": "n",
+    "ko": "계획, 약속",
+    "en": "an idea about what you will do later",
+    "nuance": "주말 약속을 물을 때는 plans처럼 복수로 쓴다. Do you have a plan?이라고 하면 '대책 있어?'처럼 들린다.",
+    "pattern": "have plans / make a plan",
+    "examples": [
+     {
+      "en": "Do you have any plans for this weekend?",
+      "ko": "이번 주말에 약속 있어?",
+      "focus": "any plans"
+     },
+     {
+      "en": "Our plan is to leave around eight tomorrow.",
+      "ko": "우리 계획은 내일 여덟 시쯤 출발하는 거야.",
+      "focus": "Our plan is to leave"
+     },
+     {
+      "en": "My plans changed, so I can meet you.",
+      "ko": "계획이 바뀌어서 너 만날 수 있어.",
+      "focus": "My plans changed"
+     }
+    ],
+    "collocations": [
+     "make a plan",
+     "change your plans",
+     "have plans"
+    ]
+   },
+   {
+    "id": "plan-2",
+    "pos": "v",
+    "ko": "~할 작정이다",
+    "en": "to intend to do something in the future",
+    "nuance": "plan 뒤에는 to부정사가 온다. plan -ing는 틀리고, 마음속 계획이라 상대와 약속했다는 뜻은 없다.",
+    "pattern": "plan to + 동사원형",
+    "examples": [
+     {
+      "en": "I plan to study English again this winter.",
+      "ko": "나 이번 겨울에 영어 다시 공부할 생각이야.",
+      "focus": "plan to study English"
+     },
+     {
+      "en": "We planned to walk, but it started raining.",
+      "ko": "걸으려고 했는데 비가 오기 시작했어.",
+      "focus": "planned to walk"
+     }
+    ],
+    "collocations": [
+     "plan to go"
+    ]
+   },
+   {
+    "id": "plan-3",
+    "pos": "v",
+    "ko": "준비하다, 짜다",
+    "en": "to think carefully about how to arrange an event",
+    "nuance": "여행·결혼식처럼 준비할 게 많은 일을 짤 때 쓴다. 이때는 plan the trip처럼 목적어를 바로 붙인다.",
+    "pattern": "plan + 행사/여행",
+    "examples": [
+     {
+      "en": "Mina is planning her sister's wedding right now.",
+      "ko": "미나는 지금 언니 결혼식을 준비하고 있어.",
+      "focus": "planning her sister's wedding"
+     },
+     {
+      "en": "Let's plan the trip together this weekend.",
+      "ko": "이번 주말에 같이 여행 계획 짜자.",
+      "focus": "plan the trip"
+     }
+    ],
+    "phrasals": [
+     {
+      "phrase": "plan ahead",
+      "ko": "미리 계획하다",
+      "example": {
+       "en": "You should plan ahead if you want cheap tickets.",
+       "ko": "싼 표 사려면 미리 계획해야 해.",
+       "focus": "plan ahead"
+      }
+     },
+     {
+      "phrase": "plan on",
+      "ko": "~할 예정이다",
+      "example": {
+       "en": "Do you plan on staying in Seoul long?",
+       "ko": "서울에 오래 있을 생각이야?",
+       "focus": "plan on staying"
+      }
+     }
+    ]
+   },
+   {
+    "id": "plan-4",
+    "pos": "n",
+    "ko": "요금제, 상품",
+    "en": "an agreement with a company about what you pay",
+    "nuance": "휴대폰 요금제나 보험 상품에 쓴다. 한국어 '요금제'를 그대로 옮기면 안 되고 phone plan, data plan이라고 한다.",
+    "pattern": "a phone / data plan",
+    "examples": [
+     {
+      "en": "I changed to a cheaper phone plan last month.",
+      "ko": "나 지난달에 더 싼 요금제로 바꿨어.",
+      "focus": "a cheaper phone plan"
+     },
+     {
+      "en": "Does your new plan include international calls and texts?",
+      "ko": "새 요금제에 국제 전화랑 문자 포함돼 있어?",
+      "focus": "your new plan"
+     }
+    ]
+   }
+  ],
+  "wordFamily": [
+   {
+    "form": "planner",
+    "pos": "n",
+    "ko": "계획표, 기획자"
+   },
+   {
+    "form": "planning",
+    "pos": "n",
+    "ko": "기획, 계획 수립"
+   }
+  ],
+  "confusables": [
+   {
+    "word": "schedule",
+    "note": "schedule은 시간이 적힌 일정표, plan은 무엇을 할지에 대한 생각이다."
+   },
+   {
+    "word": "project",
+    "note": "project는 실제로 진행하는 일 덩어리, plan은 그걸 어떻게 할지 짠 생각이다."
+   },
+   {
+    "word": "intention",
+    "note": "intention은 마음속 의도, plan은 구체적인 단계까지 정한 것이다."
+   }
+  ]
+ },
+ {
+  "id": "result",
+  "headword": "result",
+  "ipa": "/rɪˈzʌlt/",
+  "level": "ELEM",
+  "isCore": true,
+  "topic": "thinking_opinion",
+  "forms": [
+   "resulted",
+   "resulting",
+   "results"
+  ],
+  "senses": [
+   {
+    "id": "result-1",
+    "pos": "n",
+    "ko": "결과",
+    "en": "what happens because of something else",
+    "nuance": "원인 때문에 생긴 결말이다. 시험·경기의 성적도 보통 복수 results로 말하고, 발표를 기다린다고 할 때 자주 쓴다.",
+    "pattern": "the result of + 명사",
+    "examples": [
+     {
+      "en": "I'm still waiting for my test results.",
+      "ko": "나 아직 시험 결과 기다리는 중이야.",
+      "focus": "my test results"
+     },
+     {
+      "en": "The result of the game surprised everyone.",
+      "ko": "그 경기 결과가 다들 놀라게 했어.",
+      "focus": "The result of the game"
+     },
+     {
+      "en": "What were the results of your health check?",
+      "ko": "건강검진 결과 어떻게 나왔어?",
+      "focus": "the results of your health check"
+     }
+    ],
+    "collocations": [
+     "the result of",
+     "test results",
+     "get good results"
+    ]
+   },
+   {
+    "id": "result-2",
+    "pos": "n",
+    "ko": "~ 때문에",
+    "en": "used to say what caused a situation",
+    "nuance": "as a result of는 '~의 결과로'라는 연결 표현이다. 문장 앞에서 As a result,만 쓰면 '그래서'라는 뜻이 된다.",
+    "pattern": "as a result (of + 명사)",
+    "examples": [
+     {
+      "en": "The road closed as a result of the heavy snow.",
+      "ko": "폭설 때문에 길이 막혔어.",
+      "focus": "as a result of the heavy snow"
+     },
+     {
+      "en": "I slept late, and as a result I missed class.",
+      "ko": "늦게 자서 결국 수업을 빼먹었어.",
+      "focus": "as a result"
+     }
+    ],
+    "collocations": [
+     "as a result of"
+    ]
+   },
+   {
+    "id": "result-3",
+    "pos": "v",
+    "ko": "~에서 비롯되다",
+    "en": "to happen because of a certain cause",
+    "nuance": "result from은 '~ 때문에 생기다', result in은 '~라는 결과를 낳다'로 전치사에 따라 방향이 완전히 뒤집힌다.",
+    "pattern": "result from / result in + 명사",
+    "examples": [
+     {
+      "en": "His back pain resulted from sitting all day.",
+      "ko": "걔 허리 통증은 하루 종일 앉아 있어서 생긴 거야.",
+      "focus": "resulted from sitting"
+     },
+     {
+      "en": "One small mistake resulted in a big delay.",
+      "ko": "작은 실수 하나가 큰 지연으로 이어졌어.",
+      "focus": "resulted in a big delay"
+     }
+    ],
+    "collocations": [
+     "result in"
+    ]
+   }
+  ],
+  "confusables": [
+   {
+    "word": "effect",
+    "note": "effect는 어떤 일이 준 영향, result는 그래서 나온 최종 결과다."
+   },
+   {
+    "word": "cause",
+    "note": "cause는 원인, result는 결과로 방향이 반대다."
+   },
+   {
+    "word": "outcome",
+    "note": "outcome은 긴 과정 끝의 결말로 글말 느낌이고, result가 더 일상적이다."
+   },
+   {
+    "word": "resume",
+    "note": "철자가 비슷하지만 resume은 '다시 시작하다' 또는 이력서다."
+   }
+  ]
+ },
+ {
+  "id": "away",
+  "headword": "away",
+  "ipa": "/əˈweɪ/",
+  "level": "ELEM",
+  "isCore": true,
+  "topic": "movement_action",
+  "forms": [],
+  "senses": [
+   {
+    "id": "away-1",
+    "pos": "adv",
+    "ko": "떨어져, 다른 데로",
+    "en": "to a different place, or in another direction",
+    "nuance": "여기서 멀어지는 방향을 나타낸다. 동사 뒤에 붙여 go away, run away, walk away처럼 쓰는 게 가장 흔하다.",
+    "pattern": "동사 + away",
+    "examples": [
+     {
+      "en": "Please go away, I need to study now.",
+      "ko": "저리 좀 가, 나 지금 공부해야 돼.",
+      "focus": "go away"
+     },
+     {
+      "en": "The dog ran away as soon as we shouted.",
+      "ko": "우리가 소리치자마자 개가 도망갔어.",
+      "focus": "ran away"
+     },
+     {
+      "en": "He just walked away without saying anything.",
+      "ko": "걔는 아무 말도 없이 그냥 가 버렸어.",
+      "focus": "walked away"
+     }
+    ],
+    "collocations": [
+     "go away",
+     "run away",
+     "get away from"
+    ]
+   },
+   {
+    "id": "away-2",
+    "pos": "adv",
+    "ko": "떨어진 거리에",
+    "en": "at a certain distance from a place",
+    "nuance": "거리를 말할 때 숫자 뒤에 붙인다. 한국인이 자주 빼먹는데 The station is ten minutes.가 아니라 ten minutes away라고 해야 한다.",
+    "pattern": "숫자 + away (from)",
+    "examples": [
+     {
+      "en": "The station is only five minutes away on foot.",
+      "ko": "역은 걸어서 오 분밖에 안 걸려.",
+      "focus": "five minutes away"
+     },
+     {
+      "en": "My office is two stops away from here.",
+      "ko": "우리 사무실은 여기서 두 정거장 거리야.",
+      "focus": "two stops away"
+     }
+    ]
+   },
+   {
+    "id": "away-3",
+    "pos": "adv",
+    "ko": "자리에 없는",
+    "en": "not at home or not at work for a time",
+    "nuance": "출장·여행으로 자리를 비웠다는 뜻이다. be away가 통째로 '없다'는 뜻이라 뒤에 장소를 안 붙여도 통한다.",
+    "pattern": "be away (for + 기간)",
+    "examples": [
+     {
+      "en": "I'll be away next week for a work trip.",
+      "ko": "나 다음 주에 출장 때문에 자리 비워.",
+      "focus": "be away next week"
+     },
+     {
+      "en": "Emma is away until Thursday, so email her.",
+      "ko": "엠마 목요일까지 자리 비우니까 메일로 연락해.",
+      "focus": "is away until Thursday"
+     }
+    ]
+   },
+   {
+    "id": "away-4",
+    "pos": "adv",
+    "ko": "없어지게, 치워서",
+    "en": "so that something is gone or put in its place",
+    "nuance": "put away(치우다), throw away(버리다)처럼 '사라지게 한다'는 느낌을 더한다. 이 away를 빼면 뜻이 완전히 달라진다.",
+    "pattern": "put / throw + 명사 + away",
+    "examples": [
+     {
+      "en": "Can you put your clothes away before dinner?",
+      "ko": "저녁 전에 옷 좀 치워 줄래?",
+      "focus": "put your clothes away"
+     },
+     {
+      "en": "Don't throw that box away, I still need it.",
+      "ko": "그 상자 버리지 마, 나 아직 필요해.",
+      "focus": "throw that box away"
+     }
+    ],
+    "collocations": [
+     "put away",
+     "throw away"
+    ]
+   }
+  ],
+  "confusables": [
+   {
+    "word": "off",
+    "note": "off는 붙어 있던 것에서 떨어지는 것, away는 이 자리에서 멀어지는 것이다."
+   },
+   {
+    "word": "out",
+    "note": "be out은 잠깐 나가 있는 것, be away는 며칠씩 자리를 비우는 것이다."
+   },
+   {
+    "word": "far",
+    "note": "거리 숫자 뒤에는 away를 쓴다. far는 숫자와 같이 쓰지 않는다."
+   }
+  ]
+ },
+ {
+  "id": "happen",
+  "headword": "happen",
+  "ipa": "/ˈhæpən/",
+  "level": "ELEM",
+  "isCore": true,
+  "topic": "abstract_general",
+  "forms": [
+   "happened",
+   "happening",
+   "happenings",
+   "happens"
+  ],
+  "senses": [
+   {
+    "id": "happen-1",
+    "pos": "v",
+    "ko": "일어나다, 생기다",
+    "en": "to take place, usually without being planned",
+    "nuance": "계획 없이 저절로 벌어진 일에 쓴다. 사람이 주어가 될 수 없어서 I happened an accident 같은 문장은 틀리다.",
+    "pattern": "사물/사건 + happen",
+    "examples": [
+     {
+      "en": "What happened to your phone screen? It looks cracked.",
+      "ko": "네 폰 화면 왜 이래? 금 간 것 같은데.",
+      "focus": "happened to your phone screen"
+     },
+     {
+      "en": "Tell me exactly what happened last night.",
+      "ko": "어젯밤에 무슨 일이었는지 정확히 말해 봐.",
+      "focus": "what happened last night"
+     },
+     {
+      "en": "Accidents happen when you're in a hurry.",
+      "ko": "서두르다 보면 사고가 나기 마련이야.",
+      "focus": "Accidents happen"
+     }
+    ],
+    "collocations": [
+     "what happened",
+     "happen to someone",
+     "it happens"
+    ]
+   },
+   {
+    "id": "happen-2",
+    "pos": "v",
+    "ko": "우연히 ~하다",
+    "en": "to do something by chance, not on purpose",
+    "nuance": "happen to 뒤에 동사원형을 붙이면 '어쩌다 보니'라는 뜻이다. Do you happen to know…?는 부드럽게 묻는 아주 흔한 표현이다.",
+    "pattern": "happen to + 동사원형",
+    "examples": [
+     {
+      "en": "Do you happen to know where Jun went?",
+      "ko": "혹시 준이 어디 갔는지 알아?",
+      "focus": "happen to know"
+     },
+     {
+      "en": "I happened to see her at the bus stop.",
+      "ko": "버스 정류장에서 우연히 걔를 봤어.",
+      "focus": "happened to see her"
+     }
+    ]
+   },
+   {
+    "id": "happen-3",
+    "pos": "v",
+    "ko": "~에게 닥치다",
+    "en": "to affect a person, often in a bad way",
+    "nuance": "happen to 뒤에 사람이 오면 '그 사람에게 일이 생겼다'는 뜻이다. 나쁜 소식을 조심스럽게 물을 때 자주 쓴다.",
+    "pattern": "happen to + 사람",
+    "examples": [
+     {
+      "en": "Something strange happened to me this morning.",
+      "ko": "오늘 아침에 이상한 일이 나한테 있었어.",
+      "focus": "happened to me"
+     },
+     {
+      "en": "Nothing bad will happen to you, I promise.",
+      "ko": "너한테 나쁜 일 안 생길 거야, 약속해.",
+      "focus": "happen to you"
+     }
+    ]
+   }
+  ],
+  "confusables": [
+   {
+    "word": "occur",
+    "note": "occur는 뉴스·보고서에 쓰는 딱딱한 말이고, 회화에서는 happen을 쓴다."
+   },
+   {
+    "word": "appear",
+    "note": "appear는 눈앞에 나타나는 것, happen은 사건이 벌어지는 것이다."
+   },
+   {
+    "word": "happy",
+    "note": "철자가 비슷하지만 전혀 다른 말이다. happen은 동사, happy는 형용사다."
+   }
+  ]
+ },
+ {
+  "id": "program",
+  "headword": "program",
+  "ipa": "/ˈproʊɡræm/",
+  "level": "ELEM",
+  "isCore": true,
+  "topic": "culture_arts",
+  "forms": [
+   "programed",
+   "programing",
+   "programme",
+   "programmed",
+   "programmes",
+   "programming",
+   "programs"
+  ],
+  "senses": [
+   {
+    "id": "program-1",
+    "pos": "n",
+    "ko": "방송 프로그램",
+    "en": "a show on television or radio",
+    "nuance": "TV·라디오 방송 한 편을 가리킨다. 미국은 program, 영국은 programme으로 철자가 다르니 둘 다 알아 두면 좋다.",
+    "pattern": "a TV / radio program",
+    "examples": [
+     {
+      "en": "There's a good cooking program on tonight.",
+      "ko": "오늘 밤에 괜찮은 요리 프로그램 해.",
+      "focus": "a good cooking program"
+     },
+     {
+      "en": "I watched that program about animals with Mina.",
+      "ko": "미나랑 그 동물 프로그램 봤어.",
+      "focus": "that program about animals"
+     },
+     {
+      "en": "Which programs do you usually watch after work?",
+      "ko": "너 퇴근하고 보통 무슨 프로그램 봐?",
+      "focus": "Which programs"
+     }
+    ],
+    "collocations": [
+     "a TV program",
+     "watch a program"
+    ]
+   },
+   {
+    "id": "program-2",
+    "pos": "n",
+    "ko": "과정, 프로그램",
+    "en": "a set of classes or activities planned for a purpose",
+    "nuance": "학교나 기관이 운영하는 교육 과정이다. 학과 하나는 course고, program은 여러 수업을 묶은 더 큰 단위다.",
+    "pattern": "a training / exchange program",
+    "examples": [
+     {
+      "en": "She joined a summer program in London.",
+      "ko": "걔 런던에서 하는 여름 프로그램에 들어갔어.",
+      "focus": "a summer program"
+     },
+     {
+      "en": "Our company runs a training program every spring.",
+      "ko": "우리 회사는 매년 봄에 연수 프로그램을 해.",
+      "focus": "a training program"
+     }
+    ],
+    "collocations": [
+     "a training program"
+    ]
+   },
+   {
+    "id": "program-3",
+    "pos": "n",
+    "ko": "소프트웨어, 앱",
+    "en": "a set of orders that tells a computer what to do",
+    "nuance": "컴퓨터에 설치하는 프로그램이다. 이 뜻은 영국에서도 programme이 아니라 program으로 쓴다.",
+    "pattern": "install / run a program",
+    "examples": [
+     {
+      "en": "This program keeps crashing on my old laptop.",
+      "ko": "이 프로그램이 내 낡은 노트북에서 자꾸 멈춰.",
+      "focus": "This program keeps crashing"
+     },
+     {
+      "en": "Can you install the program on my computer?",
+      "ko": "내 컴퓨터에 그 프로그램 좀 깔아 줄래?",
+      "focus": "install the program"
+     }
+    ]
+   },
+   {
+    "id": "program-4",
+    "pos": "v",
+    "ko": "설정하다, 프로그래밍하다",
+    "en": "to give a machine orders about what it should do",
+    "nuance": "코딩뿐 아니라 에어컨·세탁기에 동작을 입력하는 것도 program이다. 과거형은 보통 programmed로 m을 두 번 쓴다.",
+    "pattern": "program + 기기 + to + 동사원형",
+    "examples": [
+     {
+      "en": "I programmed the heater to turn on at seven.",
+      "ko": "난방이 일곱 시에 켜지게 맞춰 놨어.",
+      "focus": "programmed the heater"
+     },
+     {
+      "en": "Can you program this remote for the new TV?",
+      "ko": "이 리모컨 새 티브이에 맞게 설정해 줄래?",
+      "focus": "program this remote"
+     }
+    ]
+   }
+  ],
+  "wordFamily": [
+   {
+    "form": "programmer",
+    "pos": "n",
+    "ko": "프로그래머"
+   },
+   {
+    "form": "programming",
+    "pos": "n",
+    "ko": "프로그래밍, 편성"
+   }
+  ],
+  "confusables": [
+   {
+    "word": "progress",
+    "note": "progress는 '진전, 나아감'이라는 뜻이라 program과 전혀 다르다."
+   },
+   {
+    "word": "course",
+    "note": "course는 수업 하나, program은 여러 수업을 묶은 과정 전체다."
+   },
+   {
+    "word": "software",
+    "note": "software는 셀 수 없는 전체 개념, program은 그중 한 개를 가리킨다."
+   }
+  ]
+ },
+ {
+  "id": "far",
+  "headword": "far",
+  "ipa": "/fɑːr/",
+  "level": "ELEM",
+  "isCore": true,
+  "topic": "time_quantity",
+  "forms": [
+   "farther",
+   "farthest"
+  ],
+  "senses": [
+   {
+    "id": "far-1",
+    "pos": "adv",
+    "ko": "멀리",
+    "en": "at or to a long distance",
+    "nuance": "긍정문에서 혼자 쓰면 어색하다. '멀다'는 It's far away나 It's a long way로 말하고, far는 주로 의문·부정문에서 쓴다.",
+    "pattern": "How far / not far from",
+    "examples": [
+     {
+      "en": "How far is the beach from your house?",
+      "ko": "너희 집에서 바다까지 얼마나 멀어?",
+      "focus": "How far is the beach"
+     },
+     {
+      "en": "The store isn't far from the subway station.",
+      "ko": "그 가게 지하철역에서 멀지 않아.",
+      "focus": "isn't far from"
+     },
+     {
+      "en": "We walked too far and got really tired.",
+      "ko": "너무 멀리 걸어서 진짜 피곤해졌어.",
+      "focus": "walked too far"
+     }
+    ],
+    "collocations": [
+     "how far",
+     "far from",
+     "far away"
+    ]
+   },
+   {
+    "id": "far-2",
+    "pos": "adv",
+    "ko": "훨씬",
+    "en": "by a very large amount, before a comparative word",
+    "nuance": "비교급을 세게 만들 때 쓴다. far better는 '훨씬 낫다'이고, 원급 앞에는 쓰지 못한다.",
+    "pattern": "far + 비교급",
+    "examples": [
+     {
+      "en": "This café is far better than the one downstairs.",
+      "ko": "이 카페가 아래층 카페보다 훨씬 나아.",
+      "focus": "far better"
+     },
+     {
+      "en": "Your Korean is far more natural than mine.",
+      "ko": "네 한국어가 내 것보다 훨씬 자연스러워.",
+      "focus": "far more natural"
+     }
+    ]
+   },
+   {
+    "id": "far-3",
+    "pos": "adv",
+    "ko": "지금까지",
+    "en": "used with so to talk about up to this moment",
+    "nuance": "so far는 '지금까지는'이라는 뜻으로 현재완료와 잘 어울린다. 거리와는 상관없는 시간 표현이다.",
+    "pattern": "so far",
+    "examples": [
+     {
+      "en": "So far the new job is going really well.",
+      "ko": "지금까지는 새 일이 아주 잘 되고 있어.",
+      "focus": "So far"
+     },
+     {
+      "en": "How many pages have you read so far?",
+      "ko": "지금까지 몇 쪽이나 읽었어?",
+      "focus": "so far"
+     }
+    ],
+    "collocations": [
+     "so far"
+    ]
+   },
+   {
+    "id": "far-4",
+    "pos": "adj",
+    "ko": "먼 쪽의",
+    "en": "on the opposite side of a space or room",
+    "nuance": "the far end처럼 the와 함께 '저 끝'을 가리킨다. 이 뜻은 명사 앞에서만 쓰고 be동사 뒤에는 오지 않는다.",
+    "pattern": "the far side / end of",
+    "examples": [
+     {
+      "en": "Emma is sitting at the far end of the room.",
+      "ko": "엠마는 방 저쪽 끝에 앉아 있어.",
+      "focus": "the far end of the room"
+     },
+     {
+      "en": "The bathroom is on the far side of the floor.",
+      "ko": "화장실은 이 층 저쪽 끝에 있어.",
+      "focus": "the far side"
+     }
+    ]
+   }
+  ],
+  "confusables": [
+   {
+    "word": "away",
+    "note": "숫자와 함께 쓰는 거리는 ten minutes away처럼 away를 쓴다. far는 숫자와 안 붙는다."
+   },
+   {
+    "word": "distant",
+    "note": "distant는 글말이고 사람 사이가 서먹하다는 뜻으로도 쓴다. 회화는 far다."
+   },
+   {
+    "word": "long",
+    "note": "It's a long way는 자연스럽지만 It's far alone은 어색하다. 긍정문에서는 a long way를 쓴다."
+   }
+  ]
+ },
+ {
+  "id": "today",
+  "headword": "today",
+  "ipa": "/təˈdeɪ/",
+  "level": "ELEM",
+  "isCore": true,
+  "topic": "time_quantity",
+  "forms": [],
+  "senses": [
+   {
+    "id": "today-1",
+    "pos": "adv",
+    "ko": "오늘",
+    "en": "on this day, the one we are in now",
+    "nuance": "앞에 전치사를 붙이지 않는다. on today, in today는 틀리고 그냥 today라고만 쓴다.",
+    "pattern": "동사 + today",
+    "examples": [
+     {
+      "en": "I have to finish this report today.",
+      "ko": "나 오늘 이 보고서 끝내야 해.",
+      "focus": "this report today"
+     },
+     {
+      "en": "Are you going to the gym today?",
+      "ko": "오늘 헬스장 가?",
+      "focus": "the gym today"
+     },
+     {
+      "en": "Today I woke up before my alarm rang.",
+      "ko": "오늘은 알람 울리기 전에 깼어.",
+      "focus": "Today I woke up"
+     }
+    ],
+    "collocations": [
+     "later today",
+     "earlier today"
+    ]
+   },
+   {
+    "id": "today-2",
+    "pos": "n",
+    "ko": "오늘이라는 날",
+    "en": "this day, used as a thing you talk about",
+    "nuance": "today's meeting처럼 소유격을 붙여 '오늘의 ~'라고 쓴다. 명사로 쓸 때는 주어 자리에도 올 수 있다.",
+    "pattern": "today's + 명사",
+    "examples": [
+     {
+      "en": "Today is my last day at this company.",
+      "ko": "오늘이 이 회사에서 마지막 날이야.",
+      "focus": "Today is my last day"
+     },
+     {
+      "en": "Did you check today's weather forecast before going out?",
+      "ko": "나가기 전에 오늘 일기예보 확인했어?",
+      "focus": "today's weather forecast"
+     }
+    ],
+    "collocations": [
+     "today's date"
+    ]
+   },
+   {
+    "id": "today-3",
+    "pos": "adv",
+    "ko": "요즘, 오늘날",
+    "en": "in the present time, compared with the past",
+    "nuance": "옛날과 비교해 '요즘에는'이라는 뜻이다. these days보다 글말 느낌이고 문장 끝에 붙이는 경우가 많다.",
+    "pattern": "명사 + today",
+    "examples": [
+     {
+      "en": "Most students today study with their phones.",
+      "ko": "요즘 학생들은 대부분 폰으로 공부해.",
+      "focus": "students today"
+     },
+     {
+      "en": "Life today is much faster than before.",
+      "ko": "요즘 생활은 예전보다 훨씬 빨라.",
+      "focus": "Life today"
+     }
+    ]
+   }
+  ],
+  "confusables": [
+   {
+    "word": "tonight",
+    "note": "today는 하루 전체, tonight은 오늘 밤 시간대만 가리킨다."
+   },
+   {
+    "word": "now",
+    "note": "now는 바로 지금 이 순간, today는 오늘 하루 안 어느 때든 된다."
+   },
+   {
+    "word": "nowadays",
+    "note": "'요즘'이라는 뜻일 때는 today와 nowadays가 비슷하다. nowadays가 더 회화적이다."
+   }
+  ],
+  "memoryHook": "to + day, 즉 '이 날에'라는 뜻이라 앞에 전치사를 또 붙이지 않는다."
+ },
+ {
+  "id": "hope",
+  "headword": "hope",
+  "ipa": "/hoʊp/",
+  "level": "ELEM",
+  "isCore": true,
+  "topic": "emotions_personality",
+  "forms": [
+   "hoped",
+   "hopes",
+   "hoping"
+  ],
+  "senses": [
+   {
+    "id": "hope-1",
+    "pos": "v",
+    "ko": "바라다, ~면 좋겠다",
+    "en": "to want something to be true and think it might be",
+    "nuance": "가능성이 있는 일에 쓴다. I hope 뒤에는 미래 일이라도 현재형을 자주 써서 I hope it rains tomorrow처럼 말한다.",
+    "pattern": "hope (that) + 문장",
+    "examples": [
+     {
+      "en": "I hope you feel better before the weekend.",
+      "ko": "주말 전에 나았으면 좋겠어.",
+      "focus": "hope you feel better"
+     },
+     {
+      "en": "I hope the train isn't late again today.",
+      "ko": "오늘은 기차가 안 늦었으면 좋겠다.",
+      "focus": "hope the train isn't late"
+     },
+     {
+      "en": "We were hoping you could join us tonight.",
+      "ko": "오늘 밤에 너도 같이 갔으면 했는데.",
+      "focus": "hoping you could join us"
+     }
+    ],
+    "collocations": [
+     "hope so",
+     "hope not",
+     "let's hope"
+    ]
+   },
+   {
+    "id": "hope-2",
+    "pos": "v",
+    "ko": "~하기를 바라다",
+    "en": "to want to do something yourself in the future",
+    "nuance": "내가 직접 할 일은 hope to + 동사원형으로 쓴다. want보다 조심스럽고, 확실하지 않을 때 어울린다.",
+    "pattern": "hope to + 동사원형",
+    "examples": [
+     {
+      "en": "I hope to visit London again next spring.",
+      "ko": "내년 봄에 런던 또 가고 싶어.",
+      "focus": "hope to visit London"
+     },
+     {
+      "en": "Jun hopes to start his own café someday.",
+      "ko": "준은 언젠가 자기 카페를 차리고 싶어 해.",
+      "focus": "hopes to start his own café"
+     }
+    ]
+   },
+   {
+    "id": "hope-3",
+    "pos": "n",
+    "ko": "희망, 기대",
+    "en": "the feeling that something good may happen",
+    "nuance": "give up hope는 '희망을 버리다'로 굳어진 표현이다. 구체적인 바람을 말할 때는 hopes처럼 복수로 쓰기도 한다.",
+    "pattern": "have / give up hope",
+    "examples": [
+     {
+      "en": "Don't give up hope, the results aren't out yet.",
+      "ko": "희망 버리지 마, 결과 아직 안 나왔어.",
+      "focus": "give up hope"
+     },
+     {
+      "en": "There's still some hope of finding a room.",
+      "ko": "방 구할 희망이 아직은 좀 있어.",
+      "focus": "some hope of finding"
+     }
+    ]
+   }
+  ],
+  "wordFamily": [
+   {
+    "form": "hopeful",
+    "pos": "adj",
+    "ko": "희망에 찬"
+   },
+   {
+    "form": "hopefully",
+    "pos": "adv",
+    "ko": "바라건대"
+   },
+   {
+    "form": "hopeless",
+    "pos": "adj",
+    "ko": "가망 없는"
+   }
+  ],
+  "confusables": [
+   {
+    "word": "wish",
+    "note": "hope는 이뤄질 수 있는 일, wish는 이루기 힘든 일에 쓴다. I wish I were rich."
+   },
+   {
+    "word": "expect",
+    "note": "expect는 그럴 거라고 예상하는 것, hope는 그러기를 바라는 마음이다."
+   },
+   {
+    "word": "want",
+    "note": "want는 직접적인 욕구, hope는 결과가 내 손 밖에 있을 때 쓴다."
+   }
+  ]
+ },
+ {
+  "id": "cost",
+  "headword": "cost",
+  "ipa": "/kɔːst/",
+  "level": "ELEM",
+  "isCore": true,
+  "topic": "money_shopping",
+  "forms": [
+   "costing",
+   "costs"
+  ],
+  "senses": [
+   {
+    "id": "cost-1",
+    "pos": "v",
+    "ko": "(값이) ~이다",
+    "en": "to have a certain price when you buy it",
+    "nuance": "주어가 물건이라 It costs 20,000 won이라고 한다. I cost처럼 사람을 주어로 쓰면 안 되고, 과거형도 cost 그대로다.",
+    "pattern": "물건 + cost + 금액",
+    "examples": [
+     {
+      "en": "How much does this jacket cost in your size?",
+      "ko": "이 재킷 네 사이즈로는 얼마야?",
+      "focus": "does this jacket cost"
+     },
+     {
+      "en": "The tickets cost about forty dollars each.",
+      "ko": "표가 한 장에 사십 달러쯤 해.",
+      "focus": "cost about forty dollars"
+     },
+     {
+      "en": "My phone cost less than I expected.",
+      "ko": "내 폰 생각보다 싸게 샀어.",
+      "focus": "cost less"
+     }
+    ],
+    "collocations": [
+     "cost a lot",
+     "how much does it cost"
+    ]
+   },
+   {
+    "id": "cost-2",
+    "pos": "n",
+    "ko": "비용, 드는 돈",
+    "en": "the money you need to pay for or to make something",
+    "nuance": "price는 가게가 붙인 가격표, cost는 실제로 들어가는 비용 전체다. 수리비·생활비처럼 합계 느낌일 때 cost를 쓴다.",
+    "pattern": "the cost of + 명사",
+    "examples": [
+     {
+      "en": "The cost of living in Seoul keeps going up.",
+      "ko": "서울 생활비가 계속 오르네.",
+      "focus": "The cost of living"
+     },
+     {
+      "en": "What's the cost of fixing this laptop?",
+      "ko": "이 노트북 고치는 데 얼마나 들어?",
+      "focus": "the cost of fixing"
+     }
+    ],
+    "collocations": [
+     "the cost of living",
+     "at no extra cost"
+    ]
+   },
+   {
+    "id": "cost-3",
+    "pos": "n",
+    "ko": "비용, 경비",
+    "en": "the money a company pays to run its business",
+    "nuance": "회사 경비를 말할 때는 항상 복수 costs로 쓴다. cut costs는 '비용을 줄이다'로 회사에서 자주 듣는 표현이다.",
+    "pattern": "cut / reduce costs",
+    "examples": [
+     {
+      "en": "Our team is trying to cut costs this year.",
+      "ko": "우리 팀은 올해 비용을 줄이려고 해요.",
+      "focus": "cut costs"
+     },
+     {
+      "en": "Travel costs went up after the new rule.",
+      "ko": "새 규정 이후로 출장비가 올랐어요.",
+      "focus": "Travel costs"
+     }
+    ]
+   },
+   {
+    "id": "cost-4",
+    "pos": "v",
+    "ko": "잃게 하다, 대가를 치르게 하다",
+    "en": "to make someone lose something important",
+    "nuance": "돈이 아니라 시간·기회·일자리를 잃게 한다는 뜻이다. That mistake cost him his job처럼 목적어를 두 개 쓴다.",
+    "pattern": "cost + 사람 + 잃은 것",
+    "examples": [
+     {
+      "en": "That one mistake cost him his job.",
+      "ko": "그 실수 하나로 걔가 일자리를 잃었어.",
+      "focus": "cost him his job"
+     },
+     {
+      "en": "Waiting too long could cost us the tickets.",
+      "ko": "너무 오래 기다리면 표를 놓칠 수도 있어.",
+      "focus": "cost us the tickets"
+     }
+    ]
+   }
+  ],
+  "wordFamily": [
+   {
+    "form": "costly",
+    "pos": "adj",
+    "ko": "비용이 많이 드는"
+   }
+  ],
+  "confusables": [
+   {
+    "word": "price",
+    "note": "price는 가격표에 적힌 값, cost는 실제로 나가는 돈 전체다."
+   },
+   {
+    "word": "pay",
+    "note": "cost의 주어는 물건, pay의 주어는 사람이다. It costs / I pay."
+   },
+   {
+    "word": "spend",
+    "note": "spend는 내가 돈을 쓰는 것, cost는 물건이 돈을 들게 하는 것이다."
+   },
+   {
+    "word": "expensive",
+    "note": "expensive는 형용사라 It's expensive, cost는 동사라 It costs a lot이다."
    }
   ]
  }
