@@ -19,7 +19,8 @@
 
 ## 2. 필드 규칙
 - `id`: manifest의 id 그대로. `senses[].id`는 `"<id>-1"`, `"<id>-2"` … 순번.
-- `headword`: manifest 그대로(소문자). `forms`: manifest의 forms를 **최소 기준**으로 삼아 그대로 포함하고, 예문·연어에서 쓴 변화형이 빠졌으면 **추가한다**(manifest 가 비어 있어도 마찬가지). 불규칙 과거·복수·-ing·비교급, 철자 변형(colour) 포함. 쓰지 않는 다른 품사의 형태는 넣지 않는다. 동명사의 복수(`scorings`, `findings`)는 학습 변화형이 아니므로 manifest 에 있어도 빼도 된다(검증기가 요구하지 않는다).
+- `headword`: manifest 그대로(소문자). `forms`: manifest의 forms를 **최소 기준**으로 삼아 그대로 포함하고, 예문·연어에서 쓴 변화형이 빠졌으면 **추가한다**(manifest 가 비어 있어도 마찬가지). 불규칙 과거·복수·-ing·비교급, 철자 변형(colour) 포함. 쓰지 않는 다른 품사의 형태는 넣지 않는다. 동명사의 복수(`scorings`, `findings`), 불가산명사의 가짜 복수(`safeties`), 약어(`professor` → `prof`)는 학습 변화형이 아니므로 manifest 에 있어도 뺀다(검증기가 요구하지 않는다).
+  - 검증기는 manifest 가 아니라 **원본 목록을 항목이 쓴 품사로 거른 결과**와 비교한다. 그래서 manifest 에 없던 변화형이 필요해질 수 있다 — 동사 sense 를 새로 쓰면 그 품사의 변화형이 요구된다.
 - `level`, `isCore`: manifest 그대로.
 - `topic`: `topics.json`의 key 중 **첫 번째 sense 기준** 가장 잘 맞는 하나. 애매하면 `abstract_general`이 아니라 가장 가까운 구체 주제를 고른다.
 - `ipa`: 미국식, 슬래시 포함 `"/ɡet/"`.

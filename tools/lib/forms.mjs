@@ -88,6 +88,9 @@ const IRREGULAR = new Map([
   ['knife', ['knives']], ['wife', ['wives']], ['shelf', ['shelves']], ['thief', ['thieves']],
 ]);
 
+/** 약어는 변화형이 아니라 별개 단어다. 학습 카드의 '변화형' 줄에 넣지 않는다. */
+const ABBREVIATION = new Set(['math', 'prof', 'lab', 'gym', 'sculpt', 'exam', 'fridge', 'flu', 'app']);
+
 const SLANG = new Set(['gotta', 'gettin', 'gonna', 'wanna', 'dunno', 'kinda', 'sorta', 'lemme', 'gimme', "ain't", 'em', 'ya', 'yeah', 'cuz', 'til']);
 const badS = (h) => /(s|x|z|ch|sh)$/.test(h) || /[^aeiou]y$/.test(h); // marchs, storys are not words
 const isPlural = (h, f) => (IRREGULAR_PLURAL[h] ? IRREGULAR_PLURAL[h] === f : (f === h + 's' && !badS(h)) || f === h + 'es' || (h.endsWith('y') && f === h.slice(0, -1) + 'ies') || (h.endsWith('f') && f === h.slice(0, -1) + 'ves') || (h.endsWith('fe') && f === h.slice(0, -2) + 'ves'));
@@ -113,6 +116,7 @@ export function cleanForms(headword, forms, pos, usedIn = '') {
     if (f === headword + 'es' && !/(s|x|z|ch|sh|o)$/.test(headword)) return false;
     if (/[.]/.test(f) && !/[.]/.test(headword)) return false; // "dr." for doctor
     if (SLANG.has(f)) return false;
+    if (ABBREVIATION.has(f) && f !== headword) return false;
     // 불가산 가짜 복수·비표준 비교급. 동사 sense 가 있으면 -s 는 3인칭 단수일 수 있어 살린다.
     if (NOT_A_FORM.has(f) && !(pos.includes('v') && (f === headword + 's' || f === headword + 'es'))) return false;
     if (isMisspelledDouble(headword, f)) return false;

@@ -100,3 +100,11 @@ test('실제로 쓰지 않는 비교급은 거른다', () => {
   assert.deepEqual(cleanForms('square', ['squarer', 'squarest', 'squares'], ['n', 'adj']), ['squares']);
   assert.ok(!cleanForms('wrong', ['wronger', 'wrongest'], ['adj']).includes('wronger'));
 });
+
+test('약어는 변화형이 아니다', () => {
+  assert.deepEqual(cleanForms('professor', ['prof', 'professors'], ['n']), ['professors']);
+  assert.deepEqual(cleanForms('mathematics', ['math', 'maths'], ['n']), []);
+  assert.deepEqual(cleanForms('laboratory', ['lab', 'laboratories'], ['n']), ['laboratories']);
+  // math 가 원형일 때 maths 는 영국식 표기 변형이므로 유지
+  assert.deepEqual(cleanForms('math', ['maths'], ['n']), ['maths']);
+});
