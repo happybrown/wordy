@@ -58,6 +58,8 @@ const NOT_A_FORM = new Set([
   'carbons', 'concretes', 'determinations', 'fictions', 'confusions', 'transportations', 'storages',
   'survivals', 'compensations', 'inflations', 'imaginations',
   'excitements', 'attendances', 'immigrations', 'hungers', 'thirsts',
+  // 과목명은 복수를 만들지 않는다
+  'biologies', 'chemistries', 'physicses', 'geographies', 'historys',
   // 스포츠 이름은 복수를 만들지 않는다
   'golfs', 'soccers', 'tenniss', 'chesses', 'boxings',
   // 편집 거리 1 이라 표기 변형으로 오인되는 철자 오류
@@ -82,7 +84,7 @@ const NOT_A_FORM = new Set([
   'squarer', 'squarest', 'wronger', 'wrongest', 'famouser', 'famousest', 'correcter', 'correctest',
   'unlikelier', 'unlikeliest', 'gayer', 'gayest', 'eagerer', 'eagerest', 'awarer', 'awarest',
   'sparer', 'sparest', 'dailyer', 'dailyest', 'finaler', 'finalest',
-  'eviler', 'evilest',
+  'eviler', 'evilest', 'bitterer', 'bitterest', 'acutest', 'acuter',
   // 형용사·부사가 주 품사인데 명사 복수로 실린 것들.
   // generals(장군들), privates(병사들)처럼 실재하는 명사 복수는 넣지 않는다 —
   // 항목이 그 명사 sense 를 쓰면 예문에 필요하다.
