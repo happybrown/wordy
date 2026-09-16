@@ -20,6 +20,8 @@ import androidx.compose.runtime.Composable
 import androidx.compose.ui.Alignment
 import androidx.compose.ui.Modifier
 import androidx.compose.ui.draw.clip
+import androidx.compose.ui.semantics.contentDescription
+import androidx.compose.ui.semantics.semantics
 import androidx.compose.ui.text.font.FontWeight
 import androidx.compose.ui.text.style.TextAlign
 import androidx.compose.ui.unit.dp
@@ -38,9 +40,19 @@ fun EmptyMessage(text: String, modifier: Modifier = Modifier) {
     }
 }
 
+/**
+ * 숙달 단계 점. 색으로만 단계를 나타내므로 옆에 글자가 없는 자리에서는
+ * [describe] 를 켜서 스크린 리더가 읽을 수 있게 한다.
+ */
 @Composable
-fun MasteryDot(mastery: Mastery, modifier: Modifier = Modifier, size: Int = 10) {
-    Box(modifier.size(size.dp).clip(CircleShape).background(MasteryColors[mastery.level]))
+fun MasteryDot(mastery: Mastery, modifier: Modifier = Modifier, size: Int = 10, describe: Boolean = false) {
+    Box(
+        modifier
+            .size(size.dp)
+            .clip(CircleShape)
+            .background(MasteryColors[mastery.level])
+            .then(if (describe) Modifier.semantics { contentDescription = mastery.ko } else Modifier)
+    )
 }
 
 @Composable

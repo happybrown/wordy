@@ -120,7 +120,7 @@ private fun formatStability(days: Double): String = when {
 @Composable
 private fun DayChart(days: List<DayBar>) {
     val max = days.maxOfOrNull { it.reviewed + it.newLearned } ?: 0
-    Surface(shape = MaterialTheme.shapes.medium, color = MaterialTheme.colorScheme.surfaceContainer) {
+    Surface(Modifier.fillMaxWidth(), shape = MaterialTheme.shapes.medium, color = MaterialTheme.colorScheme.surfaceContainer) {
         Column(Modifier.padding(14.dp)) {
             if (max == 0) {
                 Text("아직 학습 기록이 없습니다.", style = MaterialTheme.typography.bodyMedium, color = MaterialTheme.colorScheme.onSurfaceVariant)

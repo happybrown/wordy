@@ -90,7 +90,7 @@ fun WordList(rows: List<WordRow>, onOpenWord: (String) -> Unit, emptyText: Strin
                 Modifier.fillMaxWidth().clickable { onOpenWord(r.word.id) }.padding(horizontal = 20.dp, vertical = 10.dp),
                 verticalAlignment = Alignment.CenterVertically, horizontalArrangement = Arrangement.spacedBy(12.dp),
             ) {
-                MasteryDot(r.mastery)
+                MasteryDot(r.mastery, describe = true)
                 Column(Modifier.weight(1f)) {
                     Row(horizontalArrangement = Arrangement.spacedBy(8.dp), verticalAlignment = Alignment.CenterVertically) {
                         Text(r.word.headword, style = MaterialTheme.typography.titleMedium, fontWeight = FontWeight.SemiBold)
@@ -99,7 +99,8 @@ fun WordList(rows: List<WordRow>, onOpenWord: (String) -> Unit, emptyText: Strin
                     }
                     Text(r.word.senses.take(3).joinToString(" · ") { it.ko }, style = MaterialTheme.typography.bodyMedium, color = MaterialTheme.colorScheme.onSurfaceVariant, maxLines = 1)
                 }
-                if (r.bookmarked) Icon(Icons.Default.Bookmark, null, tint = MaterialTheme.colorScheme.primary)
+                // 북마크 여부가 아이콘으로만 표시되므로 설명이 없으면 스크린 리더로는 구분할 수 없다
+                if (r.bookmarked) Icon(Icons.Default.Bookmark, "북마크함", tint = MaterialTheme.colorScheme.primary)
             }
         }
     }
