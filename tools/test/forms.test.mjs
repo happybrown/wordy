@@ -192,3 +192,16 @@ test('학술·비즈니스 불가산 명사의 가짜 복수를 거른다', () =
   // 동사 consent 의 3인칭 단수도 살아 있어야 한다
   assert.ok(cleanForms('consent', ['consents', 'consented'], ['v']).includes('consents'));
 });
+
+test('접두사가 붙은 불규칙 동사의 가짜 규칙 과거형을 거른다', () => {
+  assert.ok(!cleanForms('rewrite', ['rewrited', 'rewrote', 'rewritten'], ['v']).includes('rewrited'));
+  assert.ok(cleanForms('rewrite', ['rewrited', 'rewrote', 'rewritten'], ['v']).includes('rewrote'));
+  assert.ok(!cleanForms('overcome', ['overcomed', 'overcame'], ['v']).includes('overcomed'));
+});
+
+test('3음절 이상 형용사의 -er/-est 비교급을 거른다', () => {
+  // profound 는 more profound 를 쓴다
+  assert.deepEqual(cleanForms('profound', ['profounder', 'profoundest'], ['adj']), []);
+  // 1음절 형용사의 비교급은 유지
+  assert.deepEqual(cleanForms('deep', ['deeper', 'deepest'], ['adj']), ['deeper', 'deepest']);
+});

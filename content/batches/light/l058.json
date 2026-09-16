@@ -1,0 +1,3101 @@
+[
+ {
+  "id": "payable",
+  "headword": "payable",
+  "ipa": "/ˈpeɪəbl/",
+  "level": "ADV",
+  "isCore": false,
+  "topic": "money_shopping",
+  "senses": [
+   {
+    "id": "payable-1",
+    "pos": "adj",
+    "ko": "지불해야 하는",
+    "en": "that must be paid, or that should be paid to a named person",
+    "nuance": "명사 앞에 쓰지 않고 be payable to/on처럼 서술어로 쓴다. 수표에 이름을 쓸 때 '~ 앞으로'는 payable to Mina이고 payable for Mina가 아니다.",
+    "pattern": "be payable to/on + 명사",
+    "examples": [
+     {
+      "en": "Please make the check payable to our Seoul branch office.",
+      "ko": "수표를 저희 서울 지점 앞으로 발행해 주세요.",
+      "focus": "make the check payable to our Seoul branch"
+     },
+     {
+      "en": "The full amount is payable within thirty days of delivery.",
+      "ko": "전액은 납품 후 30일 이내에 지불하셔야 합니다.",
+      "focus": "is payable within thirty days"
+     }
+    ],
+    "collocations": [
+     "payable to the company",
+     "payable on delivery",
+     "accounts payable"
+    ]
+   }
+  ],
+  "wordFamily": [
+   {
+    "form": "pay",
+    "pos": "v",
+    "ko": "지불하다"
+   },
+   {
+    "form": "payment",
+    "pos": "n",
+    "ko": "지불, 대금"
+   }
+  ],
+  "confusables": [
+   {
+    "word": "taxable",
+    "note": "taxable은 세금을 매길 수 있는 대상, payable은 돈을 내야 할 의무가 생긴 금액이다."
+   },
+   {
+    "word": "receivable",
+    "note": "회사 입장에서 payable은 우리가 낼 돈(미지급금), receivable은 우리가 받을 돈(미수금)이다."
+   }
+  ]
+ },
+ {
+  "id": "payoff",
+  "headword": "payoff",
+  "ipa": "/ˈpeɪɔf/",
+  "level": "ADV",
+  "isCore": false,
+  "topic": "work_business",
+  "forms": [
+   "payoffs"
+  ],
+  "senses": [
+   {
+    "id": "payoff-1",
+    "pos": "n",
+    "ko": "성과, 보상",
+    "en": "the good result you finally get from effort, time, or money you spent",
+    "nuance": "노력 끝에 돌아오는 '보람·수익'을 뜻하는 가산 명사라 the payoff처럼 관사를 붙인다. 회사가 주는 '월급'은 payoff가 아니라 pay나 salary다.",
+    "pattern": "the payoff from/of + 명사",
+    "examples": [
+     {
+      "en": "The payoff from our training program showed up two quarters later.",
+      "ko": "교육 프로그램의 성과는 두 분기 뒤에 드러났어요.",
+      "focus": "The payoff from our training program"
+     },
+     {
+      "en": "Long hours now, but the payoff could be a promotion.",
+      "ko": "지금은 야근이지만 보상은 승진일 수도 있어요.",
+      "focus": "the payoff could be a promotion"
+     }
+    ],
+    "collocations": [
+     "a big payoff",
+     "the payoff from an investment",
+     "a long-term payoff"
+    ]
+   }
+  ],
+  "confusables": [
+   {
+    "word": "profit",
+    "note": "profit은 매출에서 비용을 뺀 돈 자체, payoff는 투자한 노력에 돌아온 보람 전반을 가리킨다."
+   }
+  ]
+ },
+ {
+  "id": "payroll",
+  "headword": "payroll",
+  "ipa": "/ˈpeɪroʊl/",
+  "level": "ADV",
+  "isCore": false,
+  "topic": "work_business",
+  "forms": [
+   "payrolls"
+  ],
+  "senses": [
+   {
+    "id": "payroll-1",
+    "pos": "n",
+    "ko": "급여 대장, 급여 업무",
+    "en": "the list of people a company pays, or the money it pays them",
+    "nuance": "'우리 회사 직원이다'는 be on the payroll이고 in the payroll이 아니다. 개인이 받는 '월급'은 payroll이 아니라 salary나 paycheck다.",
+    "pattern": "be on the payroll",
+    "examples": [
+     {
+      "en": "We now have forty designers on the payroll in Busan.",
+      "ko": "지금 부산에 디자이너 마흔 명이 정직원으로 있어요.",
+      "focus": "forty designers on the payroll"
+     },
+     {
+      "en": "Payroll closes on the twentieth, so submit your hours today.",
+      "ko": "급여 마감이 20일이니 오늘 근무 시간 제출하세요.",
+      "focus": "Payroll closes on the twentieth"
+     }
+    ],
+    "collocations": [
+     "on the payroll",
+     "cut the payroll",
+     "payroll costs"
+    ]
+   }
+  ],
+  "confusables": [
+   {
+    "word": "salary",
+    "note": "salary는 한 사람이 받는 연봉·월급, payroll은 회사가 전 직원에게 나가는 급여 전체나 그 명단이다."
+   },
+   {
+    "word": "patrol",
+    "note": "철자가 비슷하지만 patrol은 순찰, payroll은 급여 대장이다. 강세도 payroll은 앞에 있다."
+   }
+  ]
+ },
+ {
+  "id": "peasant",
+  "headword": "peasant",
+  "ipa": "/ˈpeznt/",
+  "level": "ADV",
+  "isCore": false,
+  "topic": "society_politics",
+  "forms": [
+   "peasants"
+  ],
+  "senses": [
+   {
+    "id": "peasant-1",
+    "pos": "n",
+    "ko": "소작농, 농민",
+    "en": "a poor person who worked on a small piece of land in the past",
+    "nuance": "역사·개발도상국 맥락의 가난한 농민을 가리키는 말이라 오늘날 한국 농부는 farmer라고 해야 한다. 현대인에게 쓰면 '촌놈' 같은 모욕이 된다.",
+    "pattern": "poor/landless + peasants",
+    "examples": [
+     {
+      "en": "Her thesis examines how peasants lost land during that century.",
+      "ko": "그녀의 논문은 그 세기에 농민들이 어떻게 땅을 잃었는지 다뤄요.",
+      "focus": "how peasants lost land"
+     }
+    ],
+    "collocations": [
+     "poor peasants",
+     "a peasant farmer",
+     "peasant families"
+    ]
+   }
+  ],
+  "confusables": [
+   {
+    "word": "farmer",
+    "note": "farmer는 시대와 무관한 중립적인 '농부', peasant는 옛날 가난한 소작농이라 현대인에게 쓰면 실례다."
+   },
+   {
+    "word": "pleasant",
+    "note": "철자가 한 글자 차이지만 pleasant는 '기분 좋은'이라는 형용사다. 발음도 peasant는 '페전트'다."
+   }
+  ]
+ },
+ {
+  "id": "persist",
+  "headword": "persist",
+  "ipa": "/pərˈsɪst/",
+  "level": "ADV",
+  "isCore": false,
+  "topic": "abstract_general",
+  "forms": [
+   "persisted",
+   "persisting",
+   "persists"
+  ],
+  "senses": [
+   {
+    "id": "persist-1",
+    "pos": "v",
+    "ko": "계속되다, 지속되다",
+    "en": "to continue to exist or happen, especially longer than you want",
+    "nuance": "문제·증상처럼 사라지길 바라는 것이 안 없어질 때 쓴다. 뒤에 목적어를 두지 않는 자동사라 persist the problem은 틀리고 the problem persists로 쓴다.",
+    "pattern": "문제/증상 + persists",
+    "examples": [
+     {
+      "en": "If the error persists, send the log file to support.",
+      "ko": "오류가 계속되면 로그 파일을 기술지원팀에 보내세요.",
+      "focus": "If the error persists"
+     },
+     {
+      "en": "Supply delays persisted through the whole second quarter.",
+      "ko": "공급 지연이 2분기 내내 계속됐어요.",
+      "focus": "Supply delays persisted through the whole second quarter"
+     }
+    ],
+    "collocations": [
+     "the problem persists",
+     "symptoms persist",
+     "persist for weeks"
+    ]
+   },
+   {
+    "id": "persist-2",
+    "pos": "v",
+    "ko": "고집하다, 계속하다",
+    "en": "to keep doing something although others object or it is hard",
+    "nuance": "뒤에 in + -ing를 붙이며 persist to do는 틀린 형태다. 고집스럽다는 부정적 어감이 있어 칭찬에는 keep trying이 자연스럽다.",
+    "pattern": "persist in + -ing",
+    "examples": [
+     {
+      "en": "He persisted in asking questions until the numbers made sense.",
+      "ko": "그는 숫자가 이해될 때까지 끈질기게 질문했어요.",
+      "focus": "persisted in asking questions"
+     }
+    ]
+   }
+  ],
+  "wordFamily": [
+   {
+    "form": "persistent",
+    "pos": "adj",
+    "ko": "끈질긴, 지속적인"
+   },
+   {
+    "form": "persistence",
+    "pos": "n",
+    "ko": "끈기, 지속"
+   }
+  ],
+  "confusables": [
+   {
+    "word": "insist",
+    "note": "insist는 말로 강하게 주장하는 것, persist는 행동이나 상태가 사라지지 않고 이어지는 것이다."
+   },
+   {
+    "word": "resist",
+    "note": "resist는 밀고 들어오는 것을 막아내는 것, persist는 스스로 계속 이어가거나 이어지는 것이다."
+   }
+  ]
+ },
+ {
+  "id": "philosopher",
+  "headword": "philosopher",
+  "ipa": "/fɪˈlɑsəfər/",
+  "level": "ADV",
+  "isCore": false,
+  "topic": "academic",
+  "forms": [
+   "philosophers"
+  ],
+  "senses": [
+   {
+    "id": "philosopher-1",
+    "pos": "n",
+    "ko": "철학자",
+    "en": "a person who studies deep questions about life, knowledge, and right or wrong",
+    "nuance": "사람을 가리키는 가산 명사라 a philosopher처럼 관사가 필요하고, 학문 자체는 philosophy다. 강세는 두 번째 음절 -los-에 있다.",
+    "pattern": "a Greek/moral + philosopher",
+    "examples": [
+     {
+      "en": "The lecture compares two philosophers who disagreed about free will.",
+      "ko": "그 강의는 자유의지를 두고 맞선 철학자 두 명을 비교해요.",
+      "focus": "two philosophers who disagreed"
+     },
+     {
+      "en": "Jun quoted a Greek philosopher in his opening slide.",
+      "ko": "준은 첫 슬라이드에 그리스 철학자 말을 인용했어요.",
+      "focus": "quoted a Greek philosopher"
+     }
+    ],
+    "collocations": [
+     "a Greek philosopher",
+     "a moral philosopher",
+     "quote a philosopher"
+    ]
+   }
+  ],
+  "wordFamily": [
+   {
+    "form": "philosophy",
+    "pos": "n",
+    "ko": "철학"
+   },
+   {
+    "form": "philosophical",
+    "pos": "adj",
+    "ko": "철학적인"
+   }
+  ],
+  "confusables": [
+   {
+    "word": "philosophy",
+    "note": "philosophy는 학문이나 생각의 체계, philosopher는 그 일을 하는 사람이다. 회사 '경영 철학'도 philosophy다."
+   }
+  ]
+ },
+ {
+  "id": "physically",
+  "headword": "physically",
+  "ipa": "/ˈfɪzɪkli/",
+  "level": "ADV",
+  "isCore": false,
+  "topic": "body_health",
+  "senses": [
+   {
+    "id": "physically-1",
+    "pos": "adv",
+    "ko": "신체적으로, 물리적으로",
+    "en": "in a way that relates to the body, or to real objects and space",
+    "nuance": "정신적 상태와 대비할 때 mentally와 짝으로 쓴다. 회의에 '직접 참석한다'는 physically attend보다 attend in person이 자연스럽다.",
+    "pattern": "physically + 형용사/과거분사",
+    "examples": [
+     {
+      "en": "The training is physically demanding, so pace yourself at first.",
+      "ko": "그 훈련은 체력 소모가 크니 처음엔 속도를 조절하세요.",
+      "focus": "physically demanding"
+     },
+     {
+      "en": "Our servers are physically located in two separate buildings.",
+      "ko": "저희 서버는 물리적으로 서로 다른 두 건물에 있어요.",
+      "focus": "physically located in two separate buildings"
+     }
+    ],
+    "collocations": [
+     "physically demanding",
+     "physically impossible",
+     "physically and mentally"
+    ]
+   }
+  ],
+  "wordFamily": [
+   {
+    "form": "physical",
+    "pos": "adj",
+    "ko": "신체의, 물리적인"
+   }
+  ],
+  "confusables": [
+   {
+    "word": "mentally",
+    "note": "mentally는 머리·정신 쪽, physically는 몸이나 실제 공간 쪽이다. 두 단어를 나란히 붙여 쓰는 일이 많다."
+   }
+  ]
+ },
+ {
+  "id": "pinch",
+  "headword": "pinch",
+  "ipa": "/pɪntʃ/",
+  "level": "ADV",
+  "isCore": false,
+  "topic": "food_cooking",
+  "forms": [
+   "pinched",
+   "pinches",
+   "pinching"
+  ],
+  "senses": [
+   {
+    "id": "pinch-1",
+    "pos": "n",
+    "ko": "꼬집, 조금",
+    "en": "a small amount of salt or spice that you hold between two fingers",
+    "nuance": "요리법에서 소금·후추 양을 셀 때 a pinch of처럼 쓰고 a little salt보다 구체적이다. 남의 말을 걸러 들으라는 관용구 take it with a pinch of salt도 흔하다.",
+    "pattern": "a pinch of + 명사",
+    "examples": [
+     {
+      "en": "Add a pinch of salt before you pour the batter.",
+      "ko": "반죽을 붓기 전에 소금 한 꼬집 넣어.",
+      "focus": "a pinch of salt"
+     },
+     {
+      "en": "Take his sales forecast with a pinch of salt.",
+      "ko": "그 사람 매출 전망은 좀 걸러 들어.",
+      "focus": "with a pinch of salt"
+     }
+    ],
+    "collocations": [
+     "a pinch of salt",
+     "a pinch of pepper"
+    ]
+   },
+   {
+    "id": "pinch-2",
+    "pos": "v",
+    "ko": "꼬집다, 끼이다",
+    "en": "to press skin tightly between your thumb and finger, causing small pain",
+    "nuance": "손가락으로 짧게 집는 동작이라 계속 누르는 press와 다르다. 신발이 '조여서 아프다'도 my shoes pinch로 쓴다.",
+    "pattern": "pinch + 사람/신체 부위",
+    "examples": [
+     {
+      "en": "These new shoes pinch my toes after about an hour.",
+      "ko": "이 새 신발은 한 시간쯤 지나면 발가락이 끼어 아파.",
+      "focus": "pinch my toes"
+     }
+    ]
+   }
+  ],
+  "confusables": [
+   {
+    "word": "squeeze",
+    "note": "squeeze는 손 전체로 꽉 쥐어 짜는 것, pinch는 손가락 두 개로 살짝 집는 것이다."
+   }
+  ]
+ },
+ {
+  "id": "plaintiff",
+  "headword": "plaintiff",
+  "ipa": "/ˈpleɪntɪf/",
+  "level": "ADV",
+  "isCore": false,
+  "topic": "society_politics",
+  "forms": [
+   "plaintiffs"
+  ],
+  "senses": [
+   {
+    "id": "plaintiff-1",
+    "pos": "n",
+    "ko": "원고, 고소인",
+    "en": "the person or company that starts a legal case against someone in court",
+    "nuance": "민사 소송을 건 쪽이 plaintiff, 당하는 쪽이 defendant다. 형사 사건에서 고소한 쪽은 plaintiff가 아니라 prosecution이라고 한다.",
+    "pattern": "the plaintiff in + 사건",
+    "examples": [
+     {
+      "en": "The plaintiff asked the court for damages and legal costs.",
+      "ko": "원고는 법원에 손해배상과 소송 비용을 청구했습니다.",
+      "focus": "The plaintiff asked the court for damages"
+     },
+     {
+      "en": "Our client is the plaintiff in this contract dispute.",
+      "ko": "저희 의뢰인이 이번 계약 분쟁의 원고입니다.",
+      "focus": "the plaintiff in this contract dispute"
+     }
+    ],
+    "collocations": [
+     "the plaintiff in the case",
+     "represent the plaintiff"
+    ]
+   }
+  ],
+  "confusables": [
+   {
+    "word": "defendant",
+    "note": "plaintiff는 소송을 제기한 원고, defendant는 소송을 당한 피고다. 한 사건에 반드시 양쪽이 있다."
+   }
+  ]
+ },
+ {
+  "id": "pledge",
+  "headword": "pledge",
+  "ipa": "/pledʒ/",
+  "level": "ADV",
+  "isCore": false,
+  "topic": "communication",
+  "forms": [
+   "pledged",
+   "pledges",
+   "pledging"
+  ],
+  "senses": [
+   {
+    "id": "pledge-1",
+    "pos": "n",
+    "ko": "약속, 서약",
+    "en": "a serious public promise, often about money or future action",
+    "nuance": "공개적이고 무거운 약속이라 친구끼리의 약속은 promise를 쓴다. '약속을 지키다'는 keep a pledge, '어기다'는 break a pledge다.",
+    "pattern": "a pledge to + 동사원형",
+    "examples": [
+     {
+      "en": "The company made a pledge to cut emissions by half.",
+      "ko": "그 회사는 배출량을 절반으로 줄이겠다고 공개 약속했어요.",
+      "focus": "made a pledge to cut emissions"
+     }
+    ],
+    "collocations": [
+     "make a pledge",
+     "keep a pledge",
+     "a campaign pledge"
+    ]
+   },
+   {
+    "id": "pledge-2",
+    "pos": "v",
+    "ko": "약속하다, 서약하다",
+    "en": "to promise seriously and publicly that you will give or do something",
+    "nuance": "pledge to do 또는 pledge + 금액 형태로 쓰며 pledge for는 어색하다. 기부 약정 맥락에서 특히 자주 보인다.",
+    "pattern": "pledge to + 동사원형",
+    "examples": [
+     {
+      "en": "Three partners pledged funding for the research center yesterday.",
+      "ko": "어제 파트너사 세 곳이 연구 센터 자금 지원을 약속했어요.",
+      "focus": "pledged funding for the research center"
+     }
+    ]
+   }
+  ],
+  "confusables": [
+   {
+    "word": "promise",
+    "note": "promise는 일상 약속까지 폭넓게 쓰고, pledge는 공개적·공식적인 무거운 약속에만 쓴다."
+   }
+  ]
+ },
+ {
+  "id": "plug",
+  "headword": "plug",
+  "ipa": "/plʌɡ/",
+  "level": "ADV",
+  "isCore": false,
+  "topic": "environment_science",
+  "forms": [
+   "plugged",
+   "plugging",
+   "plugs"
+  ],
+  "senses": [
+   {
+    "id": "plug-1",
+    "pos": "n",
+    "ko": "플러그, 콘센트 마개",
+    "en": "the part at the end of a wire that you push into a wall socket",
+    "nuance": "벽에 붙은 '콘센트'는 plug가 아니라 outlet 또는 socket이다. 콩글리시로 콘센트를 consent라고 하면 전혀 다른 뜻이 된다.",
+    "pattern": "pull out/put in the plug",
+    "examples": [
+     {
+      "en": "Pull the plug out before you move the printer.",
+      "ko": "프린터 옮기기 전에 플러그 뽑으세요.",
+      "focus": "Pull the plug out"
+     },
+     {
+      "en": "This laptop came with a European plug, not a Korean one.",
+      "ko": "이 노트북은 한국식이 아니라 유럽식 플러그가 들어 있었어요.",
+      "focus": "a European plug"
+     }
+    ],
+    "collocations": [
+     "pull the plug",
+     "a three-pin plug"
+    ]
+   },
+   {
+    "id": "plug-2",
+    "pos": "v",
+    "ko": "막다, 메우다",
+    "en": "to fill or block a hole or a gap so nothing gets through",
+    "nuance": "구멍·틈을 막는다는 뜻이고 회의에서 plug a gap처럼 비유로도 쓴다. '플러그를 꽂다'는 plug가 아니라 plug in을 쓴다.",
+    "pattern": "plug + 명사",
+    "examples": [
+     {
+      "en": "This hire should plug the gap in our analytics team.",
+      "ko": "이번 채용이 분석팀의 공백을 메워 줄 거예요.",
+      "focus": "plug the gap in our analytics team"
+     }
+    ]
+   }
+  ],
+  "confusables": [
+   {
+    "word": "outlet",
+    "note": "outlet(socket)은 벽에 붙은 콘센트, plug는 전선 끝에서 거기에 꽂는 부분이다."
+   }
+  ]
+ },
+ {
+  "id": "plural",
+  "headword": "plural",
+  "ipa": "/ˈplʊrəl/",
+  "level": "ADV",
+  "isCore": false,
+  "topic": "school_learning",
+  "forms": [
+   "plurals"
+  ],
+  "senses": [
+   {
+    "id": "plural-1",
+    "pos": "adj",
+    "ko": "복수의, 복수형의",
+    "en": "showing that you mean more than one person or thing",
+    "nuance": "문법 용어라 '여러 개의'라는 일반 뜻으로는 쓰지 않고 그때는 multiple을 쓴다. 반대말은 singular다.",
+    "pattern": "a plural + 명사",
+    "examples": [
+     {
+      "en": "Use a plural verb when the subject is a list.",
+      "ko": "주어가 여러 개 나열되면 복수 동사를 쓰세요.",
+      "focus": "Use a plural verb"
+     }
+    ],
+    "collocations": [
+     "a plural form",
+     "a plural noun"
+    ]
+   },
+   {
+    "id": "plural-2",
+    "pos": "n",
+    "ko": "복수형",
+    "en": "the form of a word used for more than one thing",
+    "nuance": "in the plural처럼 the와 함께 쓰는 문법 명사다. 특정 단어의 복수형을 말할 때는 the plural of + 단어로 표현한다.",
+    "pattern": "the plural of + 단어",
+    "examples": [
+     {
+      "en": "The plural of analysis is analyses, not analysises.",
+      "ko": "analysis의 복수형은 analyses이지 analysises가 아니에요.",
+      "focus": "The plural of analysis"
+     }
+    ]
+   }
+  ],
+  "confusables": [
+   {
+    "word": "singular",
+    "note": "singular는 하나를 가리키는 단수형, plural은 둘 이상을 가리키는 복수형이다."
+   }
+  ]
+ },
+ {
+  "id": "polish",
+  "headword": "polish",
+  "ipa": "/ˈpɑlɪʃ/",
+  "level": "ADV",
+  "isCore": false,
+  "topic": "home_daily",
+  "forms": [
+   "polished",
+   "polishes",
+   "polishing"
+  ],
+  "senses": [
+   {
+    "id": "polish-1",
+    "pos": "v",
+    "ko": "다듬다, 광내다",
+    "en": "to rub something until it shines, or to improve small details of work",
+    "nuance": "표면을 문질러 윤내는 동작에서 출발해 '문서·발표를 손보다'로도 쓴다. 완전히 새로 쓰는 것은 polish가 아니라 rewrite다.",
+    "pattern": "polish + 명사",
+    "examples": [
+     {
+      "en": "I'll polish the slides tonight and send them tomorrow morning.",
+      "ko": "오늘 밤에 슬라이드 다듬어서 내일 아침에 보낼게요.",
+      "focus": "polish the slides tonight"
+     },
+     {
+      "en": "She polished her English pronunciation before the client presentation.",
+      "ko": "그녀는 고객 발표 전에 영어 발음을 다듬었어요.",
+      "focus": "polished her English pronunciation"
+     }
+    ],
+    "collocations": [
+     "polish the final draft",
+     "polish your skills"
+    ]
+   },
+   {
+    "id": "polish-2",
+    "pos": "n",
+    "ko": "광택제, 세련미",
+    "en": "a cream used to make surfaces shine, or a quality of being well finished",
+    "nuance": "제품을 뜻할 땐 불가산이라 a polish로 잘 쓰지 않는다. 대문자 Polish는 '폴란드의'라는 전혀 다른 단어이고 발음도 다르다.",
+    "pattern": "shoe/nail + polish",
+    "examples": [
+     {
+      "en": "His report has good data but needs a little polish.",
+      "ko": "그 사람 보고서는 데이터는 좋은데 다듬을 데가 좀 있어요.",
+      "focus": "needs a little polish"
+     }
+    ]
+   }
+  ],
+  "confusables": [
+   {
+    "word": "punish",
+    "note": "철자가 비슷하지만 punish는 벌을 주다, polish는 문질러 광내거나 다듬다는 뜻이다."
+   },
+   {
+    "word": "shine",
+    "note": "shine은 빛이 나는 상태나 현상, polish는 그렇게 되도록 문질러 손보는 행동이다."
+   }
+  ]
+ },
+ {
+  "id": "pope",
+  "headword": "pope",
+  "ipa": "/poʊp/",
+  "level": "ADV",
+  "isCore": false,
+  "topic": "society_politics",
+  "forms": [
+   "popes"
+  ],
+  "senses": [
+   {
+    "id": "pope-1",
+    "pos": "n",
+    "ko": "교황",
+    "en": "the leader of the Roman Catholic Church, who lives in Rome",
+    "nuance": "특정 인물을 가리킬 때 the Pope처럼 the와 대문자를 쓴다. 이름과 붙이면 Pope Francis처럼 관사 없이 쓴다.",
+    "pattern": "the Pope / Pope + 이름",
+    "examples": [
+     {
+      "en": "The Pope met world leaders to discuss climate policy.",
+      "ko": "교황이 기후 정책을 논의하려고 세계 지도자들을 만났습니다.",
+      "focus": "The Pope met world leaders"
+     }
+    ],
+    "collocations": [
+     "the Pope",
+     "elect a new pope"
+    ]
+   }
+  ],
+  "confusables": [
+   {
+    "word": "priest",
+    "note": "priest는 동네 성당의 신부, pope는 가톨릭 교회 전체의 최고 지도자 한 사람이다."
+   }
+  ]
+ },
+ {
+  "id": "positively",
+  "headword": "positively",
+  "ipa": "/ˈpɑzətɪvli/",
+  "level": "ADV",
+  "isCore": false,
+  "topic": "thinking_opinion",
+  "senses": [
+   {
+    "id": "positively-1",
+    "pos": "adv",
+    "ko": "긍정적으로, 좋게",
+    "en": "in a hopeful or approving way, or with a good effect",
+    "nuance": "respond/react/contribute 같은 동사 뒤에 붙는다. '확실히'라는 강조 용법도 있지만 비즈니스 글에서는 definitely가 더 안전하다.",
+    "pattern": "respond/react + positively",
+    "examples": [
+     {
+      "en": "Users responded positively to the new checkout screen.",
+      "ko": "사용자들이 새 결제 화면에 긍정적으로 반응했어요.",
+      "focus": "responded positively to the new checkout screen"
+     },
+     {
+      "en": "Flexible hours affect team morale positively, our survey shows.",
+      "ko": "설문에 따르면 탄력 근무가 팀 사기에 긍정적으로 작용해요.",
+      "focus": "affect team morale positively"
+     }
+    ],
+    "collocations": [
+     "respond positively",
+     "contribute positively",
+     "think positively"
+    ]
+   }
+  ],
+  "wordFamily": [
+   {
+    "form": "positive",
+    "pos": "adj",
+    "ko": "긍정적인"
+   }
+  ],
+  "confusables": [
+   {
+    "word": "negatively",
+    "note": "negatively는 나쁜 쪽으로 작용하거나 반응하는 것, positively는 좋은 쪽이다. 문형은 똑같이 쓴다."
+   }
+  ]
+ },
+ {
+  "id": "preach",
+  "headword": "preach",
+  "ipa": "/pritʃ/",
+  "level": "ADV",
+  "isCore": false,
+  "topic": "communication",
+  "forms": [
+   "preached",
+   "preaches",
+   "preaching"
+  ],
+  "senses": [
+   {
+    "id": "preach-1",
+    "pos": "v",
+    "ko": "설교하다, 훈계하다",
+    "en": "to give a religious talk, or to tell others how they should behave",
+    "nuance": "종교적 설교 말고 일상에서는 '잔소리하듯 훈계한다'는 부정적 뜻으로 쓴다. 뒤에 사람을 바로 두지 않고 preach to someone으로 쓴다.",
+    "pattern": "preach to + 사람 / preach about",
+    "examples": [
+     {
+      "en": "Don't preach to the team about deadlines you missed yourself.",
+      "ko": "본인이 놓친 마감 가지고 팀한테 훈계하지 마세요.",
+      "focus": "preach to the team about deadlines"
+     },
+     {
+      "en": "The report preaches transparency but hides the actual numbers.",
+      "ko": "그 보고서는 투명성을 설파하면서 실제 수치는 감추고 있어요.",
+      "focus": "preaches transparency"
+     }
+    ],
+    "collocations": [
+     "preach to the choir",
+     "preach about honesty"
+    ]
+   }
+  ],
+  "confusables": [
+   {
+    "word": "teach",
+    "note": "teach는 지식을 가르치는 중립적인 말, preach는 도덕을 일방적으로 설파해 듣기 거북한 느낌이다."
+   },
+   {
+    "word": "breach",
+    "note": "발음이 비슷하지만 breach는 계약·규정 위반이라는 명사·동사다."
+   }
+  ]
+ },
+ {
+  "id": "precede",
+  "headword": "precede",
+  "ipa": "/prɪˈsid/",
+  "level": "ADV",
+  "isCore": false,
+  "topic": "time_quantity",
+  "forms": [
+   "preceded",
+   "precedes",
+   "preceding"
+  ],
+  "senses": [
+   {
+    "id": "precede-1",
+    "pos": "v",
+    "ko": "앞서다, 먼저 오다",
+    "en": "to happen or come just before something else in time or order",
+    "nuance": "뒤에 전치사 없이 바로 목적어를 두므로 precede before는 틀리다. 격식체라 회화에서는 come before를 쓴다.",
+    "pattern": "A precedes B",
+    "examples": [
+     {
+      "en": "A short briefing precedes every quarterly review in our team.",
+      "ko": "저희 팀은 분기 리뷰마다 짧은 브리핑이 먼저 있어요.",
+      "focus": "precedes every quarterly review"
+     },
+     {
+      "en": "Two failed pilots preceded the version we launched last year.",
+      "ko": "작년에 출시한 버전 앞에 실패한 시범 사업이 두 번 있었어요.",
+      "focus": "preceded the version we launched"
+     }
+    ],
+    "collocations": [
+     "immediately precede",
+     "the preceding year",
+     "the preceding section"
+    ]
+   }
+  ],
+  "wordFamily": [
+   {
+    "form": "preceding",
+    "pos": "adj",
+    "ko": "앞선, 이전의"
+   },
+   {
+    "form": "precedent",
+    "pos": "n",
+    "ko": "선례"
+   }
+  ],
+  "confusables": [
+   {
+    "word": "proceed",
+    "note": "발음과 철자가 비슷하지만 proceed는 '계속 진행하다', precede는 '시간상 앞서다'로 뜻이 전혀 다르다."
+   },
+   {
+    "word": "follow",
+    "note": "follow는 뒤에 오는 것, precede는 앞에 오는 것이다. A precedes B = B follows A."
+   }
+  ]
+ },
+ {
+  "id": "predator",
+  "headword": "predator",
+  "ipa": "/ˈpredətər/",
+  "level": "ADV",
+  "isCore": false,
+  "topic": "nature_animals",
+  "forms": [
+   "predators"
+  ],
+  "senses": [
+   {
+    "id": "predator-1",
+    "pos": "n",
+    "ko": "포식자, 천적",
+    "en": "an animal that hunts and eats other animals to live",
+    "nuance": "잡아먹는 쪽이 predator, 잡아먹히는 쪽이 prey다. 경영 기사에서 다른 회사를 노리는 기업을 가리키는 비유로도 쓴다.",
+    "pattern": "a natural predator",
+    "examples": [
+     {
+      "en": "Wolves are the main predators of deer in this region.",
+      "ko": "이 지역에서 사슴의 주요 포식자는 늑대예요.",
+      "focus": "the main predators of deer"
+     },
+     {
+      "en": "The island has no natural predator, so the birds multiplied.",
+      "ko": "그 섬에는 천적이 없어서 새들이 크게 늘었어요.",
+      "focus": "no natural predator"
+     }
+    ],
+    "collocations": [
+     "a natural predator",
+     "a top predator",
+     "predators and prey"
+    ]
+   }
+  ],
+  "confusables": [
+   {
+    "word": "prey",
+    "note": "prey는 잡아먹히는 먹잇감이고 복수형이 따로 없다. predator는 잡아먹는 쪽이다."
+   }
+  ]
+ },
+ {
+  "id": "predecessor",
+  "headword": "predecessor",
+  "ipa": "/ˈpredəsesər/",
+  "level": "ADV",
+  "isCore": false,
+  "topic": "work_business",
+  "forms": [
+   "predecessors"
+  ],
+  "senses": [
+   {
+    "id": "predecessor-1",
+    "pos": "n",
+    "ko": "전임자, 이전 모델",
+    "en": "the person or thing that had a job or role before the current one",
+    "nuance": "사람뿐 아니라 이전 제품·모델에도 쓴다. 뒤를 잇는 사람은 successor이고, '선배'라는 뜻의 senior와는 다르다.",
+    "pattern": "my/its predecessor",
+    "examples": [
+     {
+      "en": "My predecessor left detailed notes on every client account.",
+      "ko": "전임자가 고객사별로 자세한 인수인계 메모를 남겨 뒀어요.",
+      "focus": "My predecessor left detailed notes"
+     },
+     {
+      "en": "This model charges twice as fast as its predecessor.",
+      "ko": "이 모델은 이전 모델보다 두 배 빠르게 충전돼요.",
+      "focus": "twice as fast as its predecessor"
+     }
+    ],
+    "collocations": [
+     "my predecessor",
+     "its predecessor",
+     "replace a predecessor"
+    ]
+   }
+  ],
+  "confusables": [
+   {
+    "word": "successor",
+    "note": "predecessor는 나보다 먼저 그 자리에 있던 사람, successor는 내 뒤를 이을 사람이다."
+   },
+   {
+    "word": "ancestor",
+    "note": "ancestor는 핏줄로 이어진 조상, predecessor는 같은 자리나 역할을 먼저 맡았던 사람이다."
+   }
+  ]
+ },
+ {
+  "id": "prediction",
+  "headword": "prediction",
+  "ipa": "/prɪˈdɪkʃn/",
+  "level": "ADV",
+  "isCore": false,
+  "topic": "thinking_opinion",
+  "forms": [
+   "predictions"
+  ],
+  "senses": [
+   {
+    "id": "prediction-1",
+    "pos": "n",
+    "ko": "예측, 예상",
+    "en": "a statement about what you think will happen in the future",
+    "nuance": "가산 명사라 make a prediction처럼 쓰고 do a prediction은 틀리다. 날씨 예보는 prediction이 아니라 forecast가 자연스럽다.",
+    "pattern": "make a prediction about + 명사",
+    "examples": [
+     {
+      "en": "Our model's prediction was off by about ten percent.",
+      "ko": "저희 모델 예측이 10퍼센트쯤 빗나갔어요.",
+      "focus": "Our model's prediction was off"
+     },
+     {
+      "en": "Nobody wants to make a prediction about next year's budget.",
+      "ko": "아무도 내년 예산에 대해 예측하고 싶어 하지 않아요.",
+      "focus": "make a prediction about next year's budget"
+     }
+    ],
+    "collocations": [
+     "make a prediction",
+     "an accurate prediction",
+     "predictions about the market"
+    ]
+   }
+  ],
+  "wordFamily": [
+   {
+    "form": "predict",
+    "pos": "v",
+    "ko": "예측하다"
+   },
+   {
+    "form": "predictable",
+    "pos": "adj",
+    "ko": "예측 가능한"
+   }
+  ],
+  "confusables": [
+   {
+    "word": "forecast",
+    "note": "forecast는 데이터로 계산한 날씨·매출 전망, prediction은 근거가 느슨해도 되는 개인의 예상까지 포함한다."
+   }
+  ]
+ },
+ {
+  "id": "prejudice",
+  "headword": "prejudice",
+  "ipa": "/ˈpredʒədɪs/",
+  "level": "ADV",
+  "isCore": false,
+  "topic": "society_politics",
+  "forms": [
+   "prejudices"
+  ],
+  "senses": [
+   {
+    "id": "prejudice-1",
+    "pos": "n",
+    "ko": "편견",
+    "en": "an unfair opinion about a group that is not based on facts",
+    "nuance": "전체를 말할 땐 불가산으로 쓰고 개별 편견 여러 개를 셀 땐 prejudices가 된다. 뒤 전치사는 to가 아니라 against다.",
+    "pattern": "prejudice against + 집단",
+    "examples": [
+     {
+      "en": "The study measured prejudice against older job applicants.",
+      "ko": "그 연구는 나이 많은 지원자에 대한 편견을 측정했어요.",
+      "focus": "prejudice against older job applicants"
+     },
+     {
+      "en": "Good hiring panels check their own prejudices first.",
+      "ko": "좋은 채용 위원회는 자기 편견부터 점검해요.",
+      "focus": "check their own prejudices"
+     }
+    ],
+    "collocations": [
+     "prejudice against women",
+     "racial prejudice",
+     "overcome prejudice"
+    ]
+   }
+  ],
+  "wordFamily": [
+   {
+    "form": "prejudiced",
+    "pos": "adj",
+    "ko": "편견을 가진"
+   }
+  ],
+  "confusables": [
+   {
+    "word": "bias",
+    "note": "bias는 한쪽으로 기운 경향 전반을 가리키는 중립적인 말, prejudice는 집단을 향한 부당한 편견이라 더 부정적이다."
+   },
+   {
+    "word": "discrimination",
+    "note": "prejudice는 머릿속 생각, discrimination은 그 생각이 차별 행동으로 나타난 것이다."
+   }
+  ]
+ },
+ {
+  "id": "premier",
+  "headword": "premier",
+  "ipa": "/prɪˈmɪr/",
+  "level": "ADV",
+  "isCore": false,
+  "topic": "description_quality",
+  "forms": [
+   "premiers"
+  ],
+  "senses": [
+   {
+    "id": "premier-1",
+    "pos": "adj",
+    "ko": "최고의, 일류의",
+    "en": "best or most important of its kind",
+    "nuance": "명사 앞에서만 쓰고 This is premier처럼 서술어로는 쓰지 않는다. 광고·소개문에 어울리는 격식 있는 칭찬어다.",
+    "pattern": "the premier + 명사",
+    "examples": [
+     {
+      "en": "Seoul hosts the premier design conference in the region.",
+      "ko": "서울이 이 지역 최고의 디자인 콘퍼런스를 개최해요.",
+      "focus": "the premier design conference"
+     }
+    ],
+    "collocations": [
+     "the premier event",
+     "a premier supplier"
+    ]
+   },
+   {
+    "id": "premier-2",
+    "pos": "n",
+    "ko": "총리",
+    "en": "the leader of a national or state government in some countries",
+    "nuance": "prime minister의 다른 이름이라 신문 제목에서 자주 쓴다. 영화 '시사회'는 premier가 아니라 premiere이니 철자에 주의한다.",
+    "pattern": "the premier of + 나라",
+    "examples": [
+     {
+      "en": "The premier announced a new plan for rural hospitals.",
+      "ko": "총리가 지방 병원에 대한 새 계획을 발표했습니다.",
+      "focus": "The premier announced a new plan"
+     }
+    ]
+   }
+  ],
+  "confusables": [
+   {
+    "word": "premiere",
+    "note": "premiere는 영화·공연의 첫 상영, premier는 '최고의' 또는 '총리'다. 끝의 e 하나가 갈라 놓는다."
+   },
+   {
+    "word": "premium",
+    "note": "premium은 추가 요금이나 보험료, premier는 '최고의'라는 형용사다."
+   }
+  ]
+ },
+ {
+  "id": "premium",
+  "headword": "premium",
+  "ipa": "/ˈprimiəm/",
+  "level": "ADV",
+  "isCore": false,
+  "topic": "money_shopping",
+  "forms": [
+   "premiums"
+  ],
+  "senses": [
+   {
+    "id": "premium-1",
+    "pos": "n",
+    "ko": "웃돈, 보험료",
+    "en": "extra money you pay above the normal price, or a regular insurance payment",
+    "nuance": "'웃돈을 주고 사다'는 pay a premium for처럼 관사와 for를 함께 쓴다. 한국어 '프리미엄 제품'처럼 좋다는 뜻으로 명사만 던지면 어색하다.",
+    "pattern": "pay a premium for + 명사",
+    "examples": [
+     {
+      "en": "Buyers pay a premium for units near the new station.",
+      "ko": "새 역 근처 세대는 사는 사람들이 웃돈을 내요.",
+      "focus": "pay a premium for units"
+     },
+     {
+      "en": "Our insurance premiums went up again this year.",
+      "ko": "올해 보험료가 또 올랐어요.",
+      "focus": "Our insurance premiums went up"
+     }
+    ],
+    "collocations": [
+     "pay a premium",
+     "an insurance premium",
+     "a premium price"
+    ]
+   }
+  ],
+  "confusables": [
+   {
+    "word": "bonus",
+    "note": "bonus는 받는 추가 돈, premium은 보통 내가 더 내는 웃돈이나 보험료다."
+   }
+  ]
+ },
+ {
+  "id": "presidency",
+  "headword": "presidency",
+  "ipa": "/ˈprezɪdənsi/",
+  "level": "ADV",
+  "isCore": false,
+  "topic": "society_politics",
+  "forms": [
+   "presidencies"
+  ],
+  "senses": [
+   {
+    "id": "presidency-1",
+    "pos": "n",
+    "ko": "대통령직, 임기",
+    "en": "the job of being a national leader, or the time someone holds it",
+    "nuance": "사람이 아니라 '자리'나 '재임 기간'을 가리킨다. 사람을 말할 땐 president이므로 during his presidency와 the president를 구분해 쓴다.",
+    "pattern": "during his/her presidency",
+    "examples": [
+     {
+      "en": "Trade policy changed sharply during her presidency.",
+      "ko": "그녀의 재임 기간에 무역 정책이 크게 바뀌었습니다.",
+      "focus": "during her presidency"
+     },
+     {
+      "en": "He won the presidency of the industry association last spring.",
+      "ko": "그는 지난봄에 업계 협회장 자리를 차지했어요.",
+      "focus": "won the presidency of the industry association"
+     }
+    ],
+    "collocations": [
+     "win the presidency",
+     "during his presidency",
+     "run for the presidency"
+    ]
+   }
+  ],
+  "wordFamily": [
+   {
+    "form": "president",
+    "pos": "n",
+    "ko": "대통령, 회장"
+   },
+   {
+    "form": "presidential",
+    "pos": "adj",
+    "ko": "대통령의"
+   }
+  ],
+  "confusables": [
+   {
+    "word": "president",
+    "note": "president는 그 자리에 있는 사람, presidency는 자리 자체나 그 사람이 일한 기간이다."
+   }
+  ]
+ },
+ {
+  "id": "presume",
+  "headword": "presume",
+  "ipa": "/prɪˈzum/",
+  "level": "ADV",
+  "isCore": false,
+  "topic": "thinking_opinion",
+  "forms": [
+   "presumed",
+   "presumes",
+   "presuming"
+  ],
+  "senses": [
+   {
+    "id": "presume-1",
+    "pos": "v",
+    "ko": "추정하다, 여기다",
+    "en": "to think something is true because it seems likely, without checking",
+    "nuance": "assume보다 격식이 높고 근거가 조금 더 있다는 느낌이다. that절을 이끌거나 be presumed to be 형태로 쓰며 presume about은 어색하다.",
+    "pattern": "presume (that) + 절",
+    "examples": [
+     {
+      "en": "I presume the client already approved the revised timeline.",
+      "ko": "고객이 수정된 일정을 이미 승인했다고 봅니다.",
+      "focus": "I presume the client already approved"
+     },
+     {
+      "en": "The files were presumed lost until the backup turned up.",
+      "ko": "백업이 나오기 전까지 그 파일들은 분실된 걸로 여겨졌어요.",
+      "focus": "were presumed lost"
+     }
+    ],
+    "collocations": [
+     "presume innocence",
+     "be presumed dead",
+     "I presume so"
+    ]
+   }
+  ],
+  "wordFamily": [
+   {
+    "form": "presumably",
+    "pos": "adv",
+    "ko": "아마도, 짐작건대"
+   }
+  ],
+  "confusables": [
+   {
+    "word": "assume",
+    "note": "assume은 근거 없이 그냥 가정하는 것, presume은 정황상 그럴 법해서 그렇게 여기는 것이다."
+   },
+   {
+    "word": "resume",
+    "note": "철자가 한 글자 차이지만 resume은 '재개하다'이고 발음 강세도 다르다."
+   }
+  ]
+ },
+ {
+  "id": "prevail",
+  "headword": "prevail",
+  "ipa": "/prɪˈveɪl/",
+  "level": "ADV",
+  "isCore": false,
+  "topic": "abstract_general",
+  "forms": [
+   "prevailed",
+   "prevailing",
+   "prevails"
+  ],
+  "senses": [
+   {
+    "id": "prevail-1",
+    "pos": "v",
+    "ko": "이기다, 우세하다",
+    "en": "to win in the end, or to be stronger than other ideas or forces",
+    "nuance": "격식체라 논문·연설에서 '결국 이겼다'는 뜻으로 쓴다. 상대를 이겼다고 할 때는 prevail over/against를 쓰고 prevail someone은 틀리다.",
+    "pattern": "prevail over/against + 명사",
+    "examples": [
+     {
+      "en": "Common sense prevailed and the board delayed the launch.",
+      "ko": "결국 상식이 이겨서 이사회가 출시를 미뤘어요.",
+      "focus": "Common sense prevailed"
+     },
+     {
+      "en": "Our team prevailed over two larger firms in the bid.",
+      "ko": "저희 팀이 입찰에서 더 큰 회사 두 곳을 이겼어요.",
+      "focus": "prevailed over two larger firms"
+     }
+    ],
+    "collocations": [
+     "prevail over rivals",
+     "common sense prevails",
+     "the prevailing view"
+    ]
+   }
+  ],
+  "wordFamily": [
+   {
+    "form": "prevailing",
+    "pos": "adj",
+    "ko": "우세한, 지배적인"
+   },
+   {
+    "form": "prevalent",
+    "pos": "adj",
+    "ko": "널리 퍼진"
+   }
+  ],
+  "confusables": [
+   {
+    "word": "win",
+    "note": "win은 경기·상 등 구체적인 승리, prevail은 격식 있게 '결국 우위를 차지하다'라는 느낌이다."
+   }
+  ]
+ },
+ {
+  "id": "privatization",
+  "headword": "privatization",
+  "ipa": "/ˌpraɪvətəˈzeɪʃn/",
+  "level": "ADV",
+  "isCore": false,
+  "topic": "society_politics",
+  "forms": [
+   "privatisation",
+   "privatisations",
+   "privatizations"
+  ],
+  "senses": [
+   {
+    "id": "privatization-1",
+    "pos": "n",
+    "ko": "민영화",
+    "en": "the act of selling a public service or company to private owners",
+    "nuance": "정책 전반을 말할 땐 관사 없이 쓰고 개별 사례를 셀 땐 privatizations가 된다. 영국식 철자는 z 대신 s를 써 privatisation이다.",
+    "pattern": "the privatization of + 기관",
+    "examples": [
+     {
+      "en": "The paper compares railway privatization in three European countries.",
+      "ko": "그 논문은 유럽 세 나라의 철도 민영화를 비교해요.",
+      "focus": "railway privatization in three European countries"
+     },
+     {
+      "en": "Privatization of the water system remains politically sensitive here.",
+      "ko": "상수도 민영화는 이곳에서 여전히 정치적으로 민감합니다.",
+      "focus": "Privatization of the water system"
+     }
+    ],
+    "collocations": [
+     "the privatization of railways",
+     "full privatization"
+    ]
+   }
+  ],
+  "wordFamily": [
+   {
+    "form": "privatize",
+    "pos": "v",
+    "ko": "민영화하다"
+   }
+  ],
+  "confusables": [
+   {
+    "word": "privacy",
+    "note": "privacy는 사생활 보호, privatization은 공기업을 민간에 파는 정책이다. 철자만 비슷하다."
+   }
+  ]
+ },
+ {
+  "id": "productive",
+  "headword": "productive",
+  "ipa": "/prəˈdʌktɪv/",
+  "level": "ADV",
+  "isCore": false,
+  "topic": "work_business",
+  "senses": [
+   {
+    "id": "productive-1",
+    "pos": "adj",
+    "ko": "생산적인, 알찬",
+    "en": "making a lot of good results, goods, or useful work in the time given",
+    "nuance": "회의·하루처럼 결과가 남는 시간에 쓴다. 사람이 '부지런하다'는 뜻으로는 productive보다 hardworking이 정확하다.",
+    "pattern": "a productive + 명사",
+    "examples": [
+     {
+      "en": "That was the most productive meeting we've had this month.",
+      "ko": "이번 달 회의 중에 제일 알찼어요.",
+      "focus": "the most productive meeting"
+     },
+     {
+      "en": "Short breaks actually make the afternoon more productive.",
+      "ko": "짧은 휴식이 오히려 오후를 더 생산적으로 만들어요.",
+      "focus": "make the afternoon more productive"
+     }
+    ],
+    "collocations": [
+     "a productive meeting",
+     "a productive day",
+     "highly productive"
+    ]
+   }
+  ],
+  "wordFamily": [
+   {
+    "form": "productivity",
+    "pos": "n",
+    "ko": "생산성"
+   },
+   {
+    "form": "produce",
+    "pos": "v",
+    "ko": "생산하다"
+   }
+  ],
+  "confusables": [
+   {
+    "word": "efficient",
+    "note": "efficient는 낭비 없이 하는 것, productive는 실제로 결과물이 많이 나오는 것이다."
+   }
+  ]
+ },
+ {
+  "id": "profitability",
+  "headword": "profitability",
+  "ipa": "/ˌprɑfɪtəˈbɪləti/",
+  "level": "ADV",
+  "isCore": false,
+  "topic": "money_shopping",
+  "senses": [
+   {
+    "id": "profitability-1",
+    "pos": "n",
+    "ko": "수익성",
+    "en": "how much money a business is able to make after paying its costs",
+    "nuance": "정도를 나타내는 불가산 명사라 a profitability나 profitabilities라고 쓰지 않는다. 돈의 액수 자체는 profit이고 profitability는 그 비율·능력이다.",
+    "pattern": "improve/hurt + profitability",
+    "examples": [
+     {
+      "en": "Rising shipping costs are hurting profitability across the whole industry.",
+      "ko": "운송비 상승이 업계 전반의 수익성을 갉아먹고 있어요.",
+      "focus": "hurting profitability across the whole industry"
+     },
+     {
+      "en": "We need to improve profitability before we open new stores.",
+      "ko": "매장을 더 열기 전에 수익성부터 개선해야 해요.",
+      "focus": "improve profitability"
+     }
+    ],
+    "collocations": [
+     "improve profitability",
+     "long-term profitability",
+     "return to profitability"
+    ]
+   }
+  ],
+  "wordFamily": [
+   {
+    "form": "profitable",
+    "pos": "adj",
+    "ko": "수익성 있는"
+   },
+   {
+    "form": "profit",
+    "pos": "n",
+    "ko": "이익"
+   }
+  ],
+  "confusables": [
+   {
+    "word": "profit",
+    "note": "profit은 실제로 남은 금액, profitability는 얼마나 잘 남기는지를 나타내는 정도다."
+   }
+  ]
+ },
+ {
+  "id": "profitable",
+  "headword": "profitable",
+  "ipa": "/ˈprɑfɪtəbl/",
+  "level": "ADV",
+  "isCore": false,
+  "topic": "money_shopping",
+  "senses": [
+   {
+    "id": "profitable-1",
+    "pos": "adj",
+    "ko": "수익성 있는",
+    "en": "making more money than it costs to run",
+    "nuance": "돈이 남는다는 뜻이라 '매출이 크다'와 다르다. 매출만 크고 적자면 profitable이 아니므로 그때는 high revenue라고 해야 한다.",
+    "pattern": "be profitable",
+    "examples": [
+     {
+      "en": "The Busan branch became profitable in its second year.",
+      "ko": "부산 지점은 2년 차에 흑자로 돌아섰어요.",
+      "focus": "became profitable in its second year"
+     },
+     {
+      "en": "Subscriptions are our most profitable product line right now.",
+      "ko": "지금은 구독이 저희 제품군 중 수익성이 가장 좋아요.",
+      "focus": "our most profitable product line"
+     }
+    ],
+    "collocations": [
+     "a profitable business",
+     "become profitable",
+     "highly profitable"
+    ]
+   }
+  ],
+  "wordFamily": [
+   {
+    "form": "profit",
+    "pos": "n",
+    "ko": "이익"
+   },
+   {
+    "form": "profitability",
+    "pos": "n",
+    "ko": "수익성"
+   }
+  ],
+  "confusables": [
+   {
+    "word": "beneficial",
+    "note": "beneficial은 돈과 무관하게 이로운 것, profitable은 실제로 돈이 남는 것이다."
+   }
+  ]
+ },
+ {
+  "id": "profound",
+  "headword": "profound",
+  "ipa": "/prəˈfaʊnd/",
+  "level": "ADV",
+  "isCore": false,
+  "topic": "description_quality",
+  "senses": [
+   {
+    "id": "profound-1",
+    "pos": "adj",
+    "ko": "깊은, 지대한",
+    "en": "very great, or showing serious thought that reaches below the surface",
+    "nuance": "영향·변화·통찰처럼 추상적인 것에만 쓰고 물리적인 깊이는 deep이다. a profound river는 틀리고 a deep river라고 해야 한다.",
+    "pattern": "a profound + 추상 명사",
+    "examples": [
+     {
+      "en": "Remote work had a profound effect on our office culture.",
+      "ko": "원격 근무가 저희 사무실 문화에 지대한 영향을 미쳤어요.",
+      "focus": "a profound effect on our office culture"
+     },
+     {
+      "en": "Her closing remarks raised a profound question about ownership.",
+      "ko": "그녀의 마무리 발언은 소유권에 대한 깊은 질문을 던졌어요.",
+      "focus": "a profound question about ownership"
+     }
+    ],
+    "collocations": [
+     "a profound effect",
+     "a profound impact",
+     "profound changes"
+    ]
+   }
+  ],
+  "wordFamily": [
+   {
+    "form": "profoundly",
+    "pos": "adv",
+    "ko": "깊이, 크게"
+   }
+  ],
+  "confusables": [
+   {
+    "word": "deep",
+    "note": "deep은 물리적 깊이와 추상 둘 다 되지만 profound는 추상적인 것에만 쓰는 격식어다."
+   }
+  ]
+ },
+ {
+  "id": "progressive",
+  "headword": "progressive",
+  "ipa": "/prəˈɡresɪv/",
+  "level": "ADV",
+  "isCore": false,
+  "topic": "society_politics",
+  "senses": [
+   {
+    "id": "progressive-1",
+    "pos": "adj",
+    "ko": "진보적인, 개혁적인",
+    "en": "in favor of new ideas and social change rather than old ways",
+    "nuance": "정치·제도에서 변화를 지지한다는 뜻이고, 개인이 '발전 중'이라는 의미는 없다. 그건 improving이나 developing을 쓴다.",
+    "pattern": "a progressive + 명사",
+    "examples": [
+     {
+      "en": "The firm has a progressive policy on parental leave.",
+      "ko": "그 회사는 육아 휴직에 대해 진보적인 제도를 두고 있어요.",
+      "focus": "a progressive policy on parental leave"
+     }
+    ],
+    "collocations": [
+     "a progressive policy",
+     "progressive reforms"
+    ]
+   },
+   {
+    "id": "progressive-2",
+    "pos": "adj",
+    "ko": "점진적인",
+    "en": "happening slowly and steadily over a period of time",
+    "nuance": "의학·기술 보고서에서 '조금씩 진행되는'이라는 뜻으로 쓰며 보통 나쁜 방향이다. 갑작스러운 변화는 sudden이다.",
+    "pattern": "progressive + 변화 명사",
+    "examples": [
+     {
+      "en": "The data shows a progressive decline in weekend traffic.",
+      "ko": "데이터를 보면 주말 방문자가 점진적으로 줄고 있어요.",
+      "focus": "a progressive decline in weekend traffic"
+     }
+    ]
+   }
+  ],
+  "confusables": [
+   {
+    "word": "conservative",
+    "note": "conservative는 기존 방식을 지키려는 쪽, progressive는 바꾸려는 쪽이다."
+   }
+  ]
+ },
+ {
+  "id": "prohibit",
+  "headword": "prohibit",
+  "ipa": "/proʊˈhɪbɪt/",
+  "level": "ADV",
+  "isCore": false,
+  "topic": "society_politics",
+  "forms": [
+   "prohibited",
+   "prohibiting",
+   "prohibits"
+  ],
+  "senses": [
+   {
+    "id": "prohibit-1",
+    "pos": "v",
+    "ko": "금지하다",
+    "en": "to officially say by law or rule that something must not be done",
+    "nuance": "규정·법이 주어가 되는 격식어라 안내문에서 자주 보인다. 사람이 못 하게 막을 땐 prohibit somebody from + -ing를 쓰고 prohibit to do는 틀리다.",
+    "pattern": "prohibit + 사람 + from + -ing",
+    "examples": [
+     {
+      "en": "Company policy prohibits sharing client data with outside vendors.",
+      "ko": "회사 방침상 고객 데이터를 외부 업체와 공유하는 건 금지됩니다.",
+      "focus": "prohibits sharing client data"
+     },
+     {
+      "en": "The contract prohibits us from hiring their staff directly.",
+      "ko": "계약상 저희가 그쪽 직원을 직접 채용하는 건 금지돼 있어요.",
+      "focus": "prohibits us from hiring their staff"
+     }
+    ],
+    "collocations": [
+     "strictly prohibited",
+     "prohibit the sale of",
+     "prohibit smoking"
+    ]
+   }
+  ],
+  "wordFamily": [
+   {
+    "form": "prohibition",
+    "pos": "n",
+    "ko": "금지"
+   }
+  ],
+  "confusables": [
+   {
+    "word": "ban",
+    "note": "ban은 짧고 일상적인 '금지', prohibit은 법률·규정 문서에 어울리는 격식체다."
+   },
+   {
+    "word": "prevent",
+    "note": "prevent는 실제로 못 하게 막는 것, prohibit은 규정으로 하지 말라고 정하는 것이다."
+   }
+  ]
+ },
+ {
+  "id": "prominent",
+  "headword": "prominent",
+  "ipa": "/ˈprɑmɪnənt/",
+  "level": "ADV",
+  "isCore": false,
+  "topic": "description_quality",
+  "senses": [
+   {
+    "id": "prominent-1",
+    "pos": "adj",
+    "ko": "저명한, 눈에 띄는",
+    "en": "important and well known, or easy to see because it stands out",
+    "nuance": "사람에게 쓰면 '유명하고 존경받는'이라 famous보다 격식 있다. 나쁜 일로 유명한 사람에게 쓰면 어색하고 그때는 notorious다.",
+    "pattern": "a prominent + 명사",
+    "examples": [
+     {
+      "en": "Two prominent economists will join the panel next week.",
+      "ko": "다음 주 토론에 저명한 경제학자 두 분이 참여합니다.",
+      "focus": "Two prominent economists"
+     },
+     {
+      "en": "Put the refund policy in a prominent place on the page.",
+      "ko": "환불 정책을 페이지에서 눈에 잘 띄는 곳에 넣어 주세요.",
+      "focus": "in a prominent place"
+     }
+    ],
+    "collocations": [
+     "a prominent role",
+     "a prominent figure",
+     "prominent position"
+    ]
+   }
+  ],
+  "wordFamily": [
+   {
+    "form": "prominence",
+    "pos": "n",
+    "ko": "명성, 두드러짐"
+   }
+  ],
+  "confusables": [
+   {
+    "word": "famous",
+    "note": "famous는 그냥 널리 알려진 것, prominent는 그 분야에서 중요하고 영향력 있다는 쪽에 무게가 있다."
+   }
+  ]
+ },
+ {
+  "id": "prosper",
+  "headword": "prosper",
+  "ipa": "/ˈprɑspər/",
+  "level": "ADV",
+  "isCore": false,
+  "topic": "money_shopping",
+  "forms": [
+   "prospered",
+   "prospering",
+   "prospers"
+  ],
+  "senses": [
+   {
+    "id": "prosper-1",
+    "pos": "v",
+    "ko": "번영하다, 잘되다",
+    "en": "to become successful, especially by earning more money over time",
+    "nuance": "목적어를 두지 않는 자동사라 prosper the business는 틀리고 the business prospers로 쓴다. 회사·도시처럼 긴 기간의 성장에 어울린다.",
+    "pattern": "회사/지역 + prospers",
+    "examples": [
+     {
+      "en": "Small exporters prospered after the trade rules were simplified.",
+      "ko": "무역 규정이 간소화된 뒤 소규모 수출업체들이 번창했어요.",
+      "focus": "Small exporters prospered"
+     },
+     {
+      "en": "No supplier can prosper without steady orders from big clients.",
+      "ko": "대형 고객사의 꾸준한 주문 없이 잘되는 협력사는 없어요.",
+      "focus": "prosper without steady orders"
+     }
+    ],
+    "collocations": [
+     "businesses prosper",
+     "prosper under new leadership"
+    ]
+   }
+  ],
+  "wordFamily": [
+   {
+    "form": "prosperity",
+    "pos": "n",
+    "ko": "번영"
+   },
+   {
+    "form": "prosperous",
+    "pos": "adj",
+    "ko": "번영하는, 부유한"
+   }
+  ],
+  "confusables": [
+   {
+    "word": "succeed",
+    "note": "succeed는 목표 하나를 이루는 것, prosper는 오랫동안 돈과 규모가 함께 커지는 것이다."
+   }
+  ]
+ },
+ {
+  "id": "provider",
+  "headword": "provider",
+  "ipa": "/prəˈvaɪdər/",
+  "level": "ADV",
+  "isCore": false,
+  "topic": "work_business",
+  "forms": [
+   "providers"
+  ],
+  "senses": [
+   {
+    "id": "provider-1",
+    "pos": "n",
+    "ko": "제공업체, 공급자",
+    "en": "a company or person that supplies a service to customers",
+    "nuance": "물건보다 서비스를 대는 쪽에 쓰고 물건을 대면 supplier가 자연스럽다. 통신사는 phone company 말고 service provider라고도 한다.",
+    "pattern": "a provider of + 서비스",
+    "examples": [
+     {
+      "en": "We're switching cloud providers to cut our monthly costs.",
+      "ko": "월 비용을 줄이려고 클라우드 업체를 바꾸는 중이에요.",
+      "focus": "switching cloud providers"
+     },
+     {
+      "en": "Ask your internet provider to check the line first.",
+      "ko": "먼저 인터넷 회사에 회선 점검을 요청해 보세요.",
+      "focus": "Ask your internet provider"
+     }
+    ],
+    "collocations": [
+     "a service provider",
+     "an internet provider",
+     "a healthcare provider"
+    ]
+   }
+  ],
+  "wordFamily": [
+   {
+    "form": "provide",
+    "pos": "v",
+    "ko": "제공하다"
+   }
+  ],
+  "confusables": [
+   {
+    "word": "supplier",
+    "note": "supplier는 부품·물건을 대는 곳, provider는 인터넷·의료처럼 서비스를 대는 곳에 주로 쓴다."
+   }
+  ]
+ },
+ {
+  "id": "provoke",
+  "headword": "provoke",
+  "ipa": "/prəˈvoʊk/",
+  "level": "ADV",
+  "isCore": false,
+  "topic": "emotions_personality",
+  "forms": [
+   "provoked",
+   "provokes",
+   "provoking"
+  ],
+  "senses": [
+   {
+    "id": "provoke-1",
+    "pos": "v",
+    "ko": "불러일으키다, 자극하다",
+    "en": "to cause a strong reaction such as anger, debate, or criticism",
+    "nuance": "주로 화·논쟁처럼 강한 반응을 끌어낼 때 쓴다. 좋은 결과를 낳는다는 뜻은 없으므로 그때는 cause나 lead to가 맞다.",
+    "pattern": "provoke + 반응 명사",
+    "examples": [
+     {
+      "en": "The new fee provoked complaints from nearly every long-term client.",
+      "ko": "새 수수료가 장기 고객 거의 전원의 항의를 불렀어요.",
+      "focus": "provoked complaints from nearly every long-term client"
+     },
+     {
+      "en": "Don't provoke him during the negotiation; just present the numbers.",
+      "ko": "협상 중에 그 사람 자극하지 말고 숫자만 보여 주세요.",
+      "focus": "Don't provoke him during the negotiation"
+     }
+    ],
+    "collocations": [
+     "provoke anger",
+     "provoke a reaction",
+     "provoke debate"
+    ]
+   }
+  ],
+  "wordFamily": [
+   {
+    "form": "provocative",
+    "pos": "adj",
+    "ko": "도발적인"
+   }
+  ],
+  "confusables": [
+   {
+    "word": "cause",
+    "note": "cause는 중립적으로 '일으키다', provoke는 화나 논란 같은 격한 반응을 끌어낼 때 쓴다."
+   }
+  ]
+ },
+ {
+  "id": "psychologist",
+  "headword": "psychologist",
+  "ipa": "/saɪˈkɑlədʒɪst/",
+  "level": "ADV",
+  "isCore": false,
+  "topic": "academic",
+  "forms": [
+   "psychologists"
+  ],
+  "senses": [
+   {
+    "id": "psychologist-1",
+    "pos": "n",
+    "ko": "심리학자, 심리 상담사",
+    "en": "a person trained to study how the mind works and to help people",
+    "nuance": "앞의 p는 소리 나지 않아 '사이콜러지스트'로 읽는다. 약을 처방하는 정신과 의사는 psychologist가 아니라 psychiatrist다.",
+    "pattern": "see/consult a psychologist",
+    "examples": [
+     {
+      "en": "A psychologist on our panel explained why teams avoid conflict.",
+      "ko": "패널로 오신 심리학자가 팀이 갈등을 피하는 이유를 설명했어요.",
+      "focus": "A psychologist on our panel"
+     },
+     {
+      "en": "Two psychologists designed the survey used in this study.",
+      "ko": "이 연구에 쓰인 설문은 심리학자 두 명이 설계했어요.",
+      "focus": "Two psychologists designed the survey"
+     }
+    ],
+    "collocations": [
+     "a clinical psychologist",
+     "see a psychologist"
+    ]
+   }
+  ],
+  "wordFamily": [
+   {
+    "form": "psychology",
+    "pos": "n",
+    "ko": "심리학"
+   },
+   {
+    "form": "psychological",
+    "pos": "adj",
+    "ko": "심리적인"
+   }
+  ],
+  "confusables": [
+   {
+    "word": "psychiatrist",
+    "note": "psychiatrist는 약을 처방할 수 있는 의사, psychologist는 상담과 검사를 하는 심리 전문가다."
+   }
+  ]
+ },
+ {
+  "id": "publicly",
+  "headword": "publicly",
+  "ipa": "/ˈpʌblɪkli/",
+  "level": "ADV",
+  "isCore": false,
+  "topic": "communication",
+  "senses": [
+   {
+    "id": "publicly-1",
+    "pos": "adv",
+    "ko": "공개적으로",
+    "en": "in a way that anyone can see or hear, not in private",
+    "nuance": "철자에 e가 없어 publically는 오타로 취급된다. 주식시장 상장 회사는 publicly traded company라는 굳은 표현을 쓴다.",
+    "pattern": "publicly + 과거분사/동사",
+    "examples": [
+     {
+      "en": "The CEO publicly apologized for the delay at yesterday's briefing.",
+      "ko": "대표가 어제 브리핑에서 지연에 대해 공개 사과했어요.",
+      "focus": "publicly apologized for the delay"
+     },
+     {
+      "en": "These figures aren't publicly available until the audit finishes.",
+      "ko": "이 수치는 감사가 끝나기 전까지는 공개되지 않아요.",
+      "focus": "aren't publicly available"
+     }
+    ],
+    "collocations": [
+     "publicly available",
+     "publicly traded",
+     "publicly criticize"
+    ]
+   }
+  ],
+  "wordFamily": [
+   {
+    "form": "public",
+    "pos": "adj",
+    "ko": "공공의, 공개된"
+   }
+  ],
+  "confusables": [
+   {
+    "word": "openly",
+    "note": "openly는 숨기지 않고 솔직하게, publicly는 여러 사람이 볼 수 있는 자리에서라는 뜻이다."
+   }
+  ]
+ },
+ {
+  "id": "punishment",
+  "headword": "punishment",
+  "ipa": "/ˈpʌnɪʃmənt/",
+  "level": "ADV",
+  "isCore": false,
+  "topic": "society_politics",
+  "forms": [
+   "punishments"
+  ],
+  "senses": [
+   {
+    "id": "punishment-1",
+    "pos": "n",
+    "ko": "처벌, 벌",
+    "en": "something bad done to a person because they broke a rule or law",
+    "nuance": "개별 처벌을 셀 땐 가산이지만 제도 전반을 말할 땐 관사 없이 쓴다. '벌을 주다'는 give a punishment보다 punish someone이 자연스럽다.",
+    "pattern": "a punishment for + 잘못",
+    "examples": [
+     {
+      "en": "The report asks whether harsh punishment actually reduces repeat offenses.",
+      "ko": "그 보고서는 엄벌이 실제로 재범을 줄이는지 묻습니다.",
+      "focus": "whether harsh punishment actually reduces repeat offenses"
+     },
+     {
+      "en": "Losing the client felt like punishment enough for that mistake.",
+      "ko": "그 고객을 잃은 것만으로도 그 실수에 대한 벌은 충분했어요.",
+      "focus": "felt like punishment enough"
+     }
+    ],
+    "collocations": [
+     "severe punishment",
+     "capital punishment",
+     "a punishment for the crime"
+    ]
+   }
+  ],
+  "wordFamily": [
+   {
+    "form": "punish",
+    "pos": "v",
+    "ko": "처벌하다"
+   }
+  ],
+  "confusables": [
+   {
+    "word": "penalty",
+    "note": "penalty는 벌금·감점처럼 정해진 대가, punishment는 벌 전반을 가리키는 넓은 말이다."
+   }
+  ]
+ },
+ {
+  "id": "purchaser",
+  "headword": "purchaser",
+  "ipa": "/ˈpɜrtʃəsər/",
+  "level": "ADV",
+  "isCore": false,
+  "topic": "money_shopping",
+  "forms": [
+   "purchasers"
+  ],
+  "senses": [
+   {
+    "id": "purchaser-1",
+    "pos": "n",
+    "ko": "구매자, 매수인",
+    "en": "the person or company that buys something, especially in a formal deal",
+    "nuance": "계약서·부동산 문서에 쓰는 격식어라 마트 손님에게는 customer나 shopper를 쓴다. 회사에서 구매 담당자는 buyer라고 부르는 편이다.",
+    "pattern": "the purchaser of + 명사",
+    "examples": [
+     {
+      "en": "The purchaser pays all transfer fees under this contract.",
+      "ko": "이 계약에서는 매수인이 모든 이전 비용을 부담합니다.",
+      "focus": "The purchaser pays all transfer fees"
+     },
+     {
+      "en": "We sent the warranty terms to every purchaser last month.",
+      "ko": "지난달에 모든 구매자에게 보증 조건을 보냈어요.",
+      "focus": "to every purchaser"
+     }
+    ],
+    "collocations": [
+     "the purchaser of the property",
+     "a potential purchaser"
+    ]
+   }
+  ],
+  "wordFamily": [
+   {
+    "form": "purchase",
+    "pos": "v",
+    "ko": "구매하다"
+   }
+  ],
+  "confusables": [
+   {
+    "word": "customer",
+    "note": "customer는 가게를 이용하는 손님 전반, purchaser는 계약서에서 물건을 사는 당사자를 가리키는 법률·격식어다."
+   }
+  ]
+ },
+ {
+  "id": "quarterly",
+  "headword": "quarterly",
+  "ipa": "/ˈkwɔrtərli/",
+  "level": "ADV",
+  "isCore": false,
+  "topic": "work_business",
+  "senses": [
+   {
+    "id": "quarterly-1",
+    "pos": "adj",
+    "ko": "분기별의",
+    "en": "happening or produced once every three months",
+    "nuance": "회사에서 1년을 넷으로 나눈 '분기' 단위를 말한다. -ly로 끝나지만 명사 앞에 오면 형용사이므로 a quarterly report처럼 쓴다.",
+    "pattern": "a quarterly + 명사",
+    "examples": [
+     {
+      "en": "Our quarterly report goes to the board next Thursday.",
+      "ko": "분기 보고서는 다음 주 목요일에 이사회로 올라가요.",
+      "focus": "Our quarterly report"
+     },
+     {
+      "en": "She missed the quarterly review because of a client trip.",
+      "ko": "그녀는 고객 출장 때문에 분기 리뷰에 못 왔어요.",
+      "focus": "the quarterly review"
+     }
+    ],
+    "collocations": [
+     "a quarterly report",
+     "quarterly results",
+     "a quarterly meeting"
+    ]
+   },
+   {
+    "id": "quarterly-2",
+    "pos": "adv",
+    "ko": "분기마다",
+    "en": "four times a year, at equal times apart",
+    "nuance": "동사 뒤에 붙여 '분기마다'라는 빈도를 나타낸다. every quarter와 같은 뜻이지만 문서에서는 quarterly 한 단어가 더 깔끔하다.",
+    "pattern": "동사 + quarterly",
+    "examples": [
+     {
+      "en": "We review the budget quarterly instead of every single month.",
+      "ko": "예산은 매달이 아니라 분기마다 검토해요.",
+      "focus": "review the budget quarterly"
+     }
+    ]
+   }
+  ],
+  "confusables": [
+   {
+    "word": "quarter",
+    "note": "quarter는 3개월짜리 분기 하나, quarterly는 '분기마다 되풀이되는'이라는 형용사·부사다."
+   }
+  ]
+ },
+ {
+  "id": "query",
+  "headword": "query",
+  "ipa": "/ˈkwɪri/",
+  "level": "ADV",
+  "isCore": false,
+  "topic": "communication",
+  "forms": [
+   "queries"
+  ],
+  "senses": [
+   {
+    "id": "query-1",
+    "pos": "n",
+    "ko": "문의, 질의",
+    "en": "a formal question, often asking for details or to check something",
+    "nuance": "고객 문의·업무 질의처럼 격식 있는 질문에 쓰고 수업 중 질문은 question이다. 복수는 y가 ies로 바뀌어 queries다.",
+    "pattern": "a query about + 명사",
+    "examples": [
+     {
+      "en": "Send any queries about the invoice to our finance team.",
+      "ko": "청구서 관련 문의는 저희 재무팀으로 보내 주세요.",
+      "focus": "any queries about the invoice"
+     },
+     {
+      "en": "Her query about shipping dates is still waiting for an answer.",
+      "ko": "배송일에 대한 그분 문의가 아직 답변을 못 받았어요.",
+      "focus": "Her query about shipping dates"
+     }
+    ],
+    "collocations": [
+     "answer a query",
+     "a customer query",
+     "raise a query"
+    ]
+   }
+  ],
+  "confusables": [
+   {
+    "word": "question",
+    "note": "question은 일상 질문 전반, query는 업무·고객 응대에서 쓰는 격식 있는 문의다."
+   },
+   {
+    "word": "inquiry",
+    "note": "inquiry는 공식 조사까지 뜻할 수 있지만, query는 답만 들으면 끝나는 단순 문의다."
+   }
+  ]
+ },
+ {
+  "id": "questionnaire",
+  "headword": "questionnaire",
+  "ipa": "/ˌkwestʃəˈner/",
+  "level": "ADV",
+  "isCore": false,
+  "topic": "academic",
+  "forms": [
+   "questionnaires"
+  ],
+  "senses": [
+   {
+    "id": "questionnaire-1",
+    "pos": "n",
+    "ko": "설문지",
+    "en": "a printed or online set of questions used to collect information",
+    "nuance": "종이나 화면에 적힌 '설문지' 자체를 말하고, 조사 활동 전체는 survey다. n이 두 개라 questionaire로 쓰면 철자 오류다.",
+    "pattern": "fill out/complete a questionnaire",
+    "examples": [
+     {
+      "en": "Please fill out the questionnaire before you leave the session.",
+      "ko": "세션 끝나기 전에 설문지 작성해 주세요.",
+      "focus": "fill out the questionnaire"
+     },
+     {
+      "en": "We sent the questionnaire to two hundred product managers.",
+      "ko": "설문지를 제품 매니저 200명에게 보냈어요.",
+      "focus": "sent the questionnaire to two hundred product managers"
+     }
+    ],
+    "collocations": [
+     "complete a questionnaire",
+     "an online questionnaire",
+     "design a questionnaire"
+    ]
+   }
+  ],
+  "confusables": [
+   {
+    "word": "survey",
+    "note": "survey는 조사 자체나 그 결과까지 가리키고, questionnaire는 사람들이 답을 적는 설문지 문서다."
+   }
+  ]
+ },
+ {
+  "id": "quiz",
+  "headword": "quiz",
+  "ipa": "/kwɪz/",
+  "level": "ADV",
+  "isCore": false,
+  "topic": "school_learning",
+  "forms": [
+   "quizzes"
+  ],
+  "senses": [
+   {
+    "id": "quiz-1",
+    "pos": "n",
+    "ko": "쪽지시험, 퀴즈",
+    "en": "a short test or a game where you answer questions for fun",
+    "nuance": "복수는 z를 겹쳐 quizzes로 쓴다. 정식 시험은 quiz가 아니라 exam이나 test이고, quiz는 짧고 가벼운 쪽이다.",
+    "pattern": "take/give a quiz",
+    "examples": [
+     {
+      "en": "The trainer gives a short quiz at the end of each module.",
+      "ko": "강사가 모듈마다 끝에 짧은 퀴즈를 내요.",
+      "focus": "gives a short quiz"
+     },
+     {
+      "en": "Our team won the office quiz for the third year.",
+      "ko": "우리 팀이 3년 연속 사내 퀴즈에서 우승했어요.",
+      "focus": "won the office quiz"
+     }
+    ],
+    "collocations": [
+     "take a quiz",
+     "a pop quiz",
+     "a quiz show"
+    ]
+   }
+  ],
+  "confusables": [
+   {
+    "word": "exam",
+    "note": "exam은 성적에 반영되는 정식 시험, quiz는 짧게 보는 쪽지시험이나 오락용 퀴즈다."
+   }
+  ]
+ },
+ {
+  "id": "radiation",
+  "headword": "radiation",
+  "ipa": "/ˌreɪdiˈeɪʃn/",
+  "level": "ADV",
+  "isCore": false,
+  "topic": "environment_science",
+  "senses": [
+   {
+    "id": "radiation-1",
+    "pos": "n",
+    "ko": "방사선, 복사",
+    "en": "energy that travels through space as waves or very small particles",
+    "nuance": "보통 불가산이라 a radiation이나 radiations로 쓰지 않는다. 암 치료를 뜻할 때도 관사 없이 have radiation처럼 쓴다.",
+    "pattern": "exposure to radiation",
+    "examples": [
+     {
+      "en": "Workers wear badges that measure their exposure to radiation.",
+      "ko": "작업자들은 방사선 노출량을 재는 배지를 착용해요.",
+      "focus": "their exposure to radiation"
+     },
+     {
+      "en": "The study tracked how much radiation the soil still holds.",
+      "ko": "그 연구는 토양에 방사선이 얼마나 남아 있는지 추적했어요.",
+      "focus": "how much radiation the soil still holds"
+     }
+    ],
+    "collocations": [
+     "exposure to radiation",
+     "radiation levels",
+     "radiation treatment"
+    ]
+   }
+  ],
+  "wordFamily": [
+   {
+    "form": "radioactive",
+    "pos": "adj",
+    "ko": "방사성의"
+   }
+  ],
+  "confusables": [
+   {
+    "word": "radiator",
+    "note": "radiator는 난방기나 자동차 냉각 장치, radiation은 퍼져 나가는 에너지·방사선이다."
+   }
+  ]
+ },
+ {
+  "id": "rage",
+  "headword": "rage",
+  "ipa": "/reɪdʒ/",
+  "level": "ADV",
+  "isCore": false,
+  "topic": "emotions_personality",
+  "senses": [
+   {
+    "id": "rage-1",
+    "pos": "n",
+    "ko": "격노, 분노",
+    "en": "a very strong feeling of anger that is hard to control",
+    "nuance": "anger보다 훨씬 세고 통제 불가능한 감정이라 사소한 짜증에는 쓰지 않는다. '격분해서'는 in rage가 아니라 in a rage다.",
+    "pattern": "in a rage / fly into a rage",
+    "examples": [
+     {
+      "en": "He left the meeting in a rage over the budget cut.",
+      "ko": "그는 예산 삭감에 격분해서 회의실을 나갔어요.",
+      "focus": "in a rage over the budget cut"
+     },
+     {
+      "en": "The article explains what causes road rage during long commutes.",
+      "ko": "그 기사는 긴 통근길에 난폭 운전 분노가 왜 생기는지 설명해요.",
+      "focus": "what causes road rage"
+     }
+    ],
+    "collocations": [
+     "fly into a rage",
+     "road rage",
+     "in a rage"
+    ]
+   }
+  ],
+  "confusables": [
+   {
+    "word": "anger",
+    "note": "anger는 화 전반을 가리키는 보통 말, rage는 자제가 안 될 만큼 격한 분노다."
+   }
+  ]
+ },
+ {
+  "id": "railway",
+  "headword": "railway",
+  "ipa": "/ˈreɪlweɪ/",
+  "level": "ADV",
+  "isCore": false,
+  "topic": "travel_transport",
+  "forms": [
+   "railways"
+  ],
+  "senses": [
+   {
+    "id": "railway-1",
+    "pos": "n",
+    "ko": "철도",
+    "en": "the metal tracks trains run on, or the whole system of train travel",
+    "nuance": "영국식 표현이고 미국에서는 railroad를 쓴다. '기차역'은 railway station이며 train station이 더 일상적이다.",
+    "pattern": "the railway between A and B",
+    "examples": [
+     {
+      "en": "The new railway will cut travel time to Busan sharply.",
+      "ko": "새 철도가 부산까지 이동 시간을 크게 줄여 줄 거예요.",
+      "focus": "The new railway will cut travel time"
+     },
+     {
+      "en": "Our report compares railways in Japan and France.",
+      "ko": "저희 보고서는 일본과 프랑스의 철도를 비교합니다.",
+      "focus": "compares railways in Japan and France"
+     }
+    ],
+    "collocations": [
+     "a railway station",
+     "build a railway",
+     "the railway network"
+    ]
+   }
+  ],
+  "confusables": [
+   {
+    "word": "railroad",
+    "note": "뜻은 같지만 railroad는 미국식, railway는 영국식이다. 한 문서에서는 한쪽으로 통일한다."
+   }
+  ]
+ },
+ {
+  "id": "rainfall",
+  "headword": "rainfall",
+  "ipa": "/ˈreɪnfɔl/",
+  "level": "ADV",
+  "isCore": false,
+  "topic": "nature_animals",
+  "senses": [
+   {
+    "id": "rainfall-1",
+    "pos": "n",
+    "ko": "강수량",
+    "en": "the amount of water that falls from the sky over a period of time",
+    "nuance": "양을 재는 불가산 명사라 a rainfall이나 rainfalls로 쓰지 않는다. 지금 내리는 비 자체는 rainfall이 아니라 rain이다.",
+    "pattern": "heavy/annual + rainfall",
+    "examples": [
+     {
+      "en": "Annual rainfall here has dropped for five straight years.",
+      "ko": "이곳 연간 강수량이 5년 연속 줄었어요.",
+      "focus": "Annual rainfall here has dropped"
+     },
+     {
+      "en": "Heavy rainfall delayed construction at the northern site.",
+      "ko": "폭우로 북쪽 현장 공사가 지연됐어요.",
+      "focus": "Heavy rainfall delayed construction"
+     }
+    ],
+    "collocations": [
+     "heavy rainfall",
+     "annual rainfall",
+     "average rainfall"
+    ]
+   }
+  ],
+  "confusables": [
+   {
+    "word": "rain",
+    "note": "rain은 내리는 비 자체, rainfall은 일정 기간에 얼마나 내렸는지를 재는 양이다."
+   }
+  ]
+ },
+ {
+  "id": "rally",
+  "headword": "rally",
+  "ipa": "/ˈræli/",
+  "level": "ADV",
+  "isCore": false,
+  "topic": "society_politics",
+  "forms": [
+   "rallies"
+  ],
+  "senses": [
+   {
+    "id": "rally-1",
+    "pos": "n",
+    "ko": "집회, 대회",
+    "en": "a large public meeting where people show support for something",
+    "nuance": "정치·사회적 지지를 보이려고 모이는 집회라 회사 회의와는 다르다. 복수는 rallies이고 '집회에 가다'는 go to a rally다.",
+    "pattern": "hold/attend a rally",
+    "examples": [
+     {
+      "en": "Thousands joined the rally outside the city hall yesterday.",
+      "ko": "어제 시청 앞 집회에 수천 명이 모였습니다.",
+      "focus": "joined the rally outside the city hall"
+     },
+     {
+      "en": "Campaign rallies are scheduled in six cities next month.",
+      "ko": "다음 달 여섯 개 도시에서 유세 집회가 예정돼 있어요.",
+      "focus": "Campaign rallies are scheduled"
+     }
+    ],
+    "collocations": [
+     "hold a rally",
+     "a campaign rally",
+     "attend a rally"
+    ]
+   },
+   {
+    "id": "rally-2",
+    "pos": "n",
+    "ko": "반등, 회복세",
+    "en": "a rise in prices or value after a period of falling",
+    "nuance": "금융 기사에서 주가가 떨어졌다 오를 때 쓰는 말이다. 처음부터 계속 오르는 것은 rally가 아니라 growth라고 해야 한다.",
+    "pattern": "a rally in + 시장/주가",
+    "examples": [
+     {
+      "en": "A late rally pushed the index back above yesterday's close.",
+      "ko": "장 후반 반등으로 지수가 어제 종가 위로 올라섰습니다.",
+      "focus": "A late rally pushed the index"
+     }
+    ]
+   }
+  ],
+  "confusables": [
+   {
+    "word": "protest",
+    "note": "protest는 반대하려고 모이는 시위, rally는 지지를 보이려고 모이는 집회에 가깝다."
+   }
+  ]
+ },
+ {
+  "id": "rational",
+  "headword": "rational",
+  "ipa": "/ˈræʃənl/",
+  "level": "ADV",
+  "isCore": false,
+  "topic": "thinking_opinion",
+  "senses": [
+   {
+    "id": "rational-1",
+    "pos": "adj",
+    "ko": "합리적인, 이성적인",
+    "en": "based on clear thinking and facts rather than feelings",
+    "nuance": "감정이 아니라 근거로 판단한다는 뜻이다. 가격이 '합리적이다'는 rational이 아니라 reasonable price라고 해야 한다.",
+    "pattern": "a rational + 명사",
+    "examples": [
+     {
+      "en": "We need a rational explanation before we change the pricing.",
+      "ko": "가격을 바꾸기 전에 납득할 만한 근거가 필요해요.",
+      "focus": "a rational explanation"
+     },
+     {
+      "en": "Try to stay rational when the client raises his voice.",
+      "ko": "고객이 언성을 높여도 이성을 유지하려고 해 보세요.",
+      "focus": "stay rational"
+     }
+    ],
+    "collocations": [
+     "a rational decision",
+     "a rational explanation",
+     "rational thinking"
+    ]
+   }
+  ],
+  "wordFamily": [
+   {
+    "form": "rationally",
+    "pos": "adv",
+    "ko": "합리적으로"
+   },
+   {
+    "form": "irrational",
+    "pos": "adj",
+    "ko": "비이성적인"
+   }
+  ],
+  "confusables": [
+   {
+    "word": "reasonable",
+    "note": "reasonable은 가격·요구가 무리 없다는 뜻까지 되지만, rational은 감정 아닌 논리로 생각한다는 뜻뿐이다."
+   }
+  ]
+ },
+ {
+  "id": "ray",
+  "headword": "ray",
+  "ipa": "/reɪ/",
+  "level": "ADV",
+  "isCore": false,
+  "topic": "environment_science",
+  "forms": [
+   "rays"
+  ],
+  "senses": [
+   {
+    "id": "ray-1",
+    "pos": "n",
+    "ko": "광선, 빛줄기",
+    "en": "a narrow line of light or energy moving from one place",
+    "nuance": "가늘고 방향이 있는 빛줄기라 보통 복수 rays로 쓴다. 넓게 퍼진 '빛'은 ray가 아니라 light다.",
+    "pattern": "the sun's rays / UV rays",
+    "examples": [
+     {
+      "en": "This coating blocks most of the sun's harmful rays.",
+      "ko": "이 코팅이 해로운 자외선 대부분을 막아 줘요.",
+      "focus": "the sun's harmful rays"
+     },
+     {
+      "en": "A thin ray of light came through the office blinds.",
+      "ko": "사무실 블라인드 사이로 가느다란 빛줄기가 들어왔어요.",
+      "focus": "A thin ray of light"
+     }
+    ],
+    "collocations": [
+     "the sun's rays",
+     "UV rays",
+     "a ray of hope"
+    ]
+   }
+  ],
+  "confusables": [
+   {
+    "word": "beam",
+    "note": "beam은 손전등처럼 굵게 뻗는 빛, ray는 가늘게 뻗는 한 줄기 빛이다."
+   }
+  ]
+ },
+ {
+  "id": "realistic",
+  "headword": "realistic",
+  "ipa": "/ˌriəˈlɪstɪk/",
+  "level": "ADV",
+  "isCore": false,
+  "topic": "thinking_opinion",
+  "senses": [
+   {
+    "id": "realistic-1",
+    "pos": "adj",
+    "ko": "현실적인",
+    "en": "sensible about what can actually happen or be done",
+    "nuance": "계획·목표가 실제로 가능하다는 뜻이다. '사실적으로 보인다'는 그림·CG 이야기이고 그때도 realistic을 쓰지만 real과 혼동하면 안 된다.",
+    "pattern": "be realistic about + 명사",
+    "examples": [
+     {
+      "en": "Let's be realistic about what two engineers can finish.",
+      "ko": "엔지니어 두 명이 끝낼 수 있는 양을 현실적으로 보죠.",
+      "focus": "be realistic about what two engineers can finish"
+     },
+     {
+      "en": "A realistic deadline is early June, not next week.",
+      "ko": "현실적인 마감은 다음 주가 아니라 6월 초예요.",
+      "focus": "A realistic deadline"
+     }
+    ],
+    "collocations": [
+     "be realistic about costs",
+     "a realistic goal",
+     "a realistic estimate"
+    ]
+   }
+  ],
+  "wordFamily": [
+   {
+    "form": "reality",
+    "pos": "n",
+    "ko": "현실"
+   },
+   {
+    "form": "unrealistic",
+    "pos": "adj",
+    "ko": "비현실적인"
+   }
+  ],
+  "confusables": [
+   {
+    "word": "real",
+    "note": "real은 진짜로 존재한다는 뜻, realistic은 실제로 가능하거나 진짜처럼 보인다는 뜻이다."
+   }
+  ]
+ },
+ {
+  "id": "rebel",
+  "headword": "rebel",
+  "ipa": "/ˈrebl/",
+  "level": "ADV",
+  "isCore": false,
+  "topic": "society_politics",
+  "forms": [
+   "rebelled",
+   "rebelling",
+   "rebels"
+  ],
+  "senses": [
+   {
+    "id": "rebel-1",
+    "pos": "n",
+    "ko": "반란군, 반항아",
+    "en": "someone who fights against a government, or who refuses to follow rules",
+    "nuance": "명사일 때는 앞 음절에 강세가 와 REB-el로 읽고, 동사일 때는 re-BEL로 뒤에 온다. 같은 철자지만 강세가 뜻을 가른다.",
+    "pattern": "a rebel against + 명사",
+    "examples": [
+     {
+      "en": "The documentary follows rebels who took control of two provinces.",
+      "ko": "그 다큐멘터리는 두 개 주를 장악한 반군을 따라갑니다.",
+      "focus": "follows rebels who took control"
+     },
+     {
+      "en": "Mina was the rebel on a very cautious design team.",
+      "ko": "미나는 아주 보수적인 디자인 팀에서 반항아 같은 존재였어요.",
+      "focus": "was the rebel on a very cautious design team"
+     }
+    ],
+    "collocations": [
+     "rebel forces",
+     "a rebel leader"
+    ]
+   },
+   {
+    "id": "rebel-2",
+    "pos": "v",
+    "ko": "반항하다, 저항하다",
+    "en": "to refuse to obey people in power, sometimes by fighting them",
+    "nuance": "뒤에 against를 붙이며 rebel to는 틀린 형태다. 과거형은 l을 겹쳐 rebelled로 쓴다.",
+    "pattern": "rebel against + 명사",
+    "examples": [
+     {
+      "en": "Staff rebelled against the new rule about weekend emails.",
+      "ko": "직원들이 주말 이메일 관련 새 규정에 반발했어요.",
+      "focus": "rebelled against the new rule"
+     }
+    ]
+   }
+  ],
+  "confusables": [
+   {
+    "word": "protest",
+    "note": "protest는 반대 의사를 드러내는 것, rebel은 권위 자체를 거부하고 따르지 않는 것이다."
+   }
+  ]
+ },
+ {
+  "id": "receivable",
+  "headword": "receivable",
+  "ipa": "/rɪˈsivəbl/",
+  "level": "ADV",
+  "isCore": false,
+  "topic": "money_shopping",
+  "forms": [
+   "receivables"
+  ],
+  "senses": [
+   {
+    "id": "receivable-1",
+    "pos": "adj",
+    "ko": "받을, 미수의",
+    "en": "describing money that a business is owed but has not been paid yet",
+    "nuance": "회계 용어라 accounts receivable처럼 명사 뒤에 붙는 어순이 굳어 있다. receivable accounts라고 쓰지 않는다.",
+    "pattern": "accounts receivable",
+    "examples": [
+     {
+      "en": "Accounts receivable rose sharply after we extended payment terms.",
+      "ko": "결제 기한을 늘린 뒤 미수금이 크게 늘었어요.",
+      "focus": "Accounts receivable rose sharply"
+     }
+    ],
+    "collocations": [
+     "accounts receivable",
+     "notes receivable"
+    ]
+   },
+   {
+    "id": "receivable-2",
+    "pos": "n",
+    "ko": "미수금",
+    "en": "amounts of money that customers still owe a company",
+    "nuance": "이 뜻으로는 보통 복수 receivables로 쓴다. 우리가 낼 돈인 payables와 짝을 이루는 말이다.",
+    "pattern": "collect/manage receivables",
+    "examples": [
+     {
+      "en": "Finance wants to collect old receivables before the quarter closes.",
+      "ko": "재무팀이 분기 마감 전에 묵은 미수금을 회수하고 싶어 해요.",
+      "focus": "collect old receivables"
+     }
+    ]
+   }
+  ],
+  "confusables": [
+   {
+    "word": "payable",
+    "note": "receivable은 우리가 받을 돈, payable은 우리가 내야 할 돈이다. 회계 장부의 양쪽 기둥이다."
+   },
+   {
+    "word": "receipt",
+    "note": "receipt는 결제하고 받는 영수증, receivable은 아직 못 받은 돈을 가리키는 회계 용어다."
+   }
+  ]
+ },
+ {
+  "id": "recession",
+  "headword": "recession",
+  "ipa": "/rɪˈseʃn/",
+  "level": "ADV",
+  "isCore": false,
+  "topic": "money_shopping",
+  "forms": [
+   "recessions"
+  ],
+  "senses": [
+   {
+    "id": "recession-1",
+    "pos": "n",
+    "ko": "경기 침체",
+    "en": "a period when business activity and jobs go down across a country",
+    "nuance": "'경기 침체기에'는 in a recession 또는 during the recession이며 가산 명사다. 한 회사 매출이 준 것은 recession이 아니라 downturn이다.",
+    "pattern": "go into / come out of a recession",
+    "examples": [
+     {
+      "en": "Hiring froze across the sector during the last recession.",
+      "ko": "지난 경기 침체 때 업계 전반에서 채용이 멈췄어요.",
+      "focus": "during the last recession"
+     },
+     {
+      "en": "Economists warn the country could enter a recession next year.",
+      "ko": "경제학자들은 내년에 경기 침체에 들어갈 수 있다고 경고합니다.",
+      "focus": "could enter a recession"
+     }
+    ],
+    "collocations": [
+     "a deep recession",
+     "enter a recession",
+     "during the recession"
+    ]
+   }
+  ],
+  "confusables": [
+   {
+    "word": "depression",
+    "note": "depression은 훨씬 길고 심각한 대공황급 침체, recession은 보통 몇 분기 정도의 경기 후퇴다."
+   },
+   {
+    "word": "reception",
+    "note": "철자가 비슷하지만 reception은 접수처·환영 행사, recession은 경기 침체다."
+   }
+  ]
+ },
+ {
+  "id": "referendum",
+  "headword": "referendum",
+  "ipa": "/ˌrefəˈrendəm/",
+  "level": "ADV",
+  "isCore": false,
+  "topic": "society_politics",
+  "forms": [
+   "referenda",
+   "referendums"
+  ],
+  "senses": [
+   {
+    "id": "referendum-1",
+    "pos": "n",
+    "ko": "국민투표",
+    "en": "a vote in which everyone decides one important public question",
+    "nuance": "대표를 뽑는 election과 달리 하나의 안건에 찬반을 묻는 투표다. 복수는 referendums가 흔하고 referenda는 격식체다.",
+    "pattern": "hold a referendum on + 안건",
+    "examples": [
+     {
+      "en": "The city will hold a referendum on the new stadium.",
+      "ko": "시는 새 경기장 건립에 대해 주민투표를 실시할 예정입니다.",
+      "focus": "hold a referendum on the new stadium"
+     },
+     {
+      "en": "Two referendums on the same issue failed within five years.",
+      "ko": "같은 사안을 두고 5년 안에 국민투표가 두 번 부결됐어요.",
+      "focus": "Two referendums on the same issue"
+     }
+    ],
+    "collocations": [
+     "hold a referendum",
+     "a national referendum",
+     "a referendum on membership"
+    ]
+   }
+  ],
+  "confusables": [
+   {
+    "word": "election",
+    "note": "election은 사람을 뽑는 선거, referendum은 정책이나 안건 하나에 찬반을 묻는 투표다."
+   }
+  ]
+ },
+ {
+  "id": "refine",
+  "headword": "refine",
+  "ipa": "/rɪˈfaɪn/",
+  "level": "ADV",
+  "isCore": false,
+  "topic": "thinking_opinion",
+  "forms": [
+   "refined",
+   "refines",
+   "refining"
+  ],
+  "senses": [
+   {
+    "id": "refine-1",
+    "pos": "v",
+    "ko": "다듬다, 개선하다",
+    "en": "to make a plan, method, or idea better by small careful changes",
+    "nuance": "이미 있는 것을 조금씩 손보는 것이라 완전히 새로 만드는 redesign과 다르다. 기업 보고서에서 refine the process가 굳은 표현이다.",
+    "pattern": "refine + 명사",
+    "examples": [
+     {
+      "en": "We refined the survey questions after the first pilot round.",
+      "ko": "1차 시범 조사 뒤에 설문 문항을 다듬었어요.",
+      "focus": "refined the survey questions"
+     },
+     {
+      "en": "Let's refine the model before showing it to the client.",
+      "ko": "고객에게 보여 주기 전에 모델을 좀 더 다듬죠.",
+      "focus": "refine the model"
+     }
+    ],
+    "collocations": [
+     "refine the process",
+     "refine a strategy",
+     "refine the design"
+    ]
+   }
+  ],
+  "wordFamily": [
+   {
+    "form": "refinement",
+    "pos": "n",
+    "ko": "개선, 정교화"
+   }
+  ],
+  "confusables": [
+   {
+    "word": "define",
+    "note": "철자가 비슷하지만 define은 뜻을 정하는 것, refine은 이미 있는 것을 더 낫게 다듬는 것이다."
+   },
+   {
+    "word": "improve",
+    "note": "improve는 크든 작든 나아지게 하는 것, refine은 세부를 조금씩 손봐 정교하게 만드는 것이다."
+   }
+  ]
+ },
+ {
+  "id": "regulator",
+  "headword": "regulator",
+  "ipa": "/ˈreɡjuleɪtər/",
+  "level": "ADV",
+  "isCore": false,
+  "topic": "society_politics",
+  "forms": [
+   "regulators"
+  ],
+  "senses": [
+   {
+    "id": "regulator-1",
+    "pos": "n",
+    "ko": "규제 기관, 감독 당국",
+    "en": "an official body that checks whether companies follow the rules",
+    "nuance": "사람보다 기관을 가리키는 경우가 많고 기사에서는 복수 regulators로 자주 쓴다. 규칙 자체는 regulation이다.",
+    "pattern": "the financial/industry + regulator",
+    "examples": [
+     {
+      "en": "The financial regulator asked both banks for more documents.",
+      "ko": "금융 감독 당국이 두 은행에 추가 자료를 요청했습니다.",
+      "focus": "The financial regulator asked both banks"
+     },
+     {
+      "en": "Regulators approved the merger after a nine-month review.",
+      "ko": "규제 당국이 9개월 심사 끝에 합병을 승인했어요.",
+      "focus": "Regulators approved the merger"
+     }
+    ],
+    "collocations": [
+     "the financial regulator",
+     "industry regulators",
+     "approval from regulators"
+    ]
+   }
+  ],
+  "wordFamily": [
+   {
+    "form": "regulate",
+    "pos": "v",
+    "ko": "규제하다"
+   },
+   {
+    "form": "regulation",
+    "pos": "n",
+    "ko": "규정, 규제"
+   }
+  ],
+  "confusables": [
+   {
+    "word": "regulation",
+    "note": "regulation은 지켜야 할 규정 자체, regulator는 그 규정을 집행하고 감독하는 기관이다."
+   }
+  ]
+ },
+ {
+  "id": "regulatory",
+  "headword": "regulatory",
+  "ipa": "/ˈreɡjələtɔri/",
+  "level": "ADV",
+  "isCore": false,
+  "topic": "society_politics",
+  "senses": [
+   {
+    "id": "regulatory-1",
+    "pos": "adj",
+    "ko": "규제의, 감독의",
+    "en": "relating to official rules that control how an industry works",
+    "nuance": "명사 앞에만 쓰는 형용사라 This is regulatory처럼 서술어로 쓰지 않는다. '규제 승인'은 regulation approval이 아니라 regulatory approval이다.",
+    "pattern": "regulatory + 명사",
+    "examples": [
+     {
+      "en": "We still need regulatory approval before the product ships.",
+      "ko": "제품 출하 전에 아직 규제 승인이 필요해요.",
+      "focus": "regulatory approval"
+     },
+     {
+      "en": "Regulatory requirements differ a lot between Korea and Europe.",
+      "ko": "규제 요건이 한국과 유럽 사이에 많이 달라요.",
+      "focus": "Regulatory requirements differ"
+     }
+    ],
+    "collocations": [
+     "regulatory approval",
+     "regulatory requirements",
+     "a regulatory framework"
+    ]
+   }
+  ],
+  "confusables": [
+   {
+    "word": "regular",
+    "note": "regular는 '정기적인, 보통의'라는 전혀 다른 말이다. regulatory는 규제 기관·규정과 관련된다는 뜻이다."
+   }
+  ]
+ }
+]

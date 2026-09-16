@@ -86,10 +86,14 @@ const NOT_A_FORM = new Set([
   'bended', 'leaved', 'builded', 'sended', 'spended', 'sleeped', 'keeped', 'feeled',
   'meaned', 'dealed', 'holded', 'selled', 'telled', 'finded', 'standed', 'teached',
   'catched', 'buyed', 'bringed', 'thinked', 'fighted', 'payed',
+  // 접두사가 붙어도 불규칙은 그대로다 (rewrite -> rewrote/rewritten)
+  'rewrited', 'rewrit', 'overcomed', 'understanded', 'withdrawed', 'rebuilded',
+  'foreseed', 'undoed', 'redoed', 'outgrowed', 'misunderstanded',
   'squarer', 'squarest', 'wronger', 'wrongest', 'famouser', 'famousest', 'correcter', 'correctest',
   'unlikelier', 'unlikeliest', 'gayer', 'gayest', 'eagerer', 'eagerest', 'awarer', 'awarest',
   'sparer', 'sparest', 'dailyer', 'dailyest', 'finaler', 'finalest',
   'eviler', 'evilest', 'bitterer', 'bitterest', 'acutest', 'acuter', 'corrupter', 'corruptest',
+  'profounder', 'profoundest', 'absoluter', 'absolutest', 'immenser', 'immensest',
   // 형용사·부사가 주 품사인데 명사 복수로 실린 것들.
   // generals(장군들), privates(병사들)처럼 실재하는 명사 복수는 넣지 않는다 —
   // 항목이 그 명사 sense 를 쓰면 예문에 필요하다.
@@ -103,6 +107,9 @@ const NOT_A_FORM = new Set([
   'merchandises', 'merchandize', 'merchandized', 'merchandizes',
   // 기체·물질명. maturities(만기일)는 금융에서 실재하므로 넣지 않는다.
   'oxygens', 'hydrogens', 'nitrogens',
+  // 기상·물리 측정 불가산 명사. rage 는 격노의 뜻일 때 불가산
+  // ('유행' 뜻의 all the rage 도 복수를 만들지 않는다).
+  'radiations', 'rainfalls', 'rages',
 ]);
 /**
  * 불규칙 변화형. 어간이 크게 바뀌어 편집 거리·접미사 규칙으로는 잡히지 않는다.
