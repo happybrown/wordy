@@ -65,6 +65,8 @@ const NOT_A_FORM = new Set([
   'sympathies', 'wheats', 'acceptances', 'toxics', 'ultimates', 
   // 스포츠 이름은 복수를 만들지 않는다
   'golfs', 'soccers', 'tenniss', 'chesses', 'boxings',
+  // 장르명도 복수를 만들지 않는다
+  'jazzes',
   // 편집 거리 1 이라 표기 변형으로 오인되는 철자 오류
   'advertisment', 'advertisments', 'goverment', 'enviroment', 'recieve', 'seperate',
   'definately', 'occured', 'begining', 'writting', 'untill', 'wich', 
@@ -97,6 +99,7 @@ const NOT_A_FORM = new Set([
   // 전문 분야에서 실재하는 복수는 넣지 않는다.
   'compliances', 'conservations', 'consumptions', 'collaterals',
   'expertises', 'governances',
+  'liquidities',
 ]);
 /**
  * 불규칙 변화형. 어간이 크게 바뀌어 편집 거리·접미사 규칙으로는 잡히지 않는다.
