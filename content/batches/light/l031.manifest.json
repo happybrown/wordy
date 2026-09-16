@@ -7,30 +7,6 @@
   "count": 60,
   "entries": [
     {
-      "id": "revise",
-      "headword": "revise",
-      "level": "MID",
-      "isCore": false,
-      "pos_hint": [
-        "v"
-      ],
-      "forms": [
-        "revised",
-        "revises",
-        "revising"
-      ],
-      "cefr": "B1",
-      "freqRank": 2688,
-      "confusable_candidates": [
-        "advise",
-        "device",
-        "devise",
-        "precise",
-        "premise",
-        "raise"
-      ]
-    },
-    {
       "id": "liquid",
       "headword": "liquid",
       "level": "MID",
@@ -321,9 +297,7 @@
       "pos_hint": [
         "n"
       ],
-      "forms": [
-        "leathers"
-      ],
+      "forms": [],
       "cefr": "A2",
       "freqRank": 2733,
       "confusable_candidates": [
@@ -722,9 +696,7 @@
       "pos_hint": [
         "n"
       ],
-      "forms": [
-        "agricultures"
-      ],
+      "forms": [],
       "cefr": "B1",
       "freqRank": null,
       "confusable_candidates": [
@@ -892,9 +864,7 @@
       "pos_hint": [
         "n"
       ],
-      "forms": [
-        "cautions"
-      ],
+      "forms": [],
       "cefr": "B1",
       "freqRank": null,
       "confusable_candidates": [
@@ -1221,6 +1191,22 @@
         "injure",
         "insure",
         "venture"
+      ]
+    },
+    {
+      "id": "evident",
+      "headword": "evident",
+      "level": "MID",
+      "isCore": false,
+      "pos_hint": [
+        "adj"
+      ],
+      "forms": [],
+      "cefr": "B1",
+      "freqRank": null,
+      "confusable_candidates": [
+        "evidence",
+        "resident"
       ]
     }
   ]

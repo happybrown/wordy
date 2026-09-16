@@ -7,30 +7,6 @@
   "count": 60,
   "entries": [
     {
-      "id": "burden",
-      "headword": "burden",
-      "level": "MID",
-      "isCore": false,
-      "pos_hint": [
-        "n",
-        "v"
-      ],
-      "forms": [
-        "burdened",
-        "burdening",
-        "burdens"
-      ],
-      "cefr": "B1",
-      "freqRank": 2286,
-      "confusable_candidates": [
-        "border",
-        "burger",
-        "garden",
-        "murder",
-        "sudden"
-      ]
-    },
-    {
       "id": "desert",
       "headword": "desert",
       "level": "MID",
@@ -301,7 +277,6 @@
       "forms": [
         "mounted",
         "mounting",
-        "mountings",
         "mounts"
       ],
       "cefr": "B1",
@@ -327,7 +302,6 @@
       "forms": [
         "wrapped",
         "wrapping",
-        "wrappings",
         "wraps"
       ],
       "cefr": "B1",
@@ -1181,9 +1155,7 @@
       "pos_hint": [
         "n"
       ],
-      "forms": [
-        "dusts"
-      ],
+      "forms": [],
       "cefr": "A2",
       "freqRank": 2448,
       "confusable_candidates": [
@@ -1256,6 +1228,19 @@
       ],
       "cefr": "B1",
       "freqRank": 2464,
+      "confusable_candidates": []
+    },
+    {
+      "id": "aggressive",
+      "headword": "aggressive",
+      "level": "MID",
+      "isCore": false,
+      "pos_hint": [
+        "adj"
+      ],
+      "forms": [],
+      "cefr": "B1",
+      "freqRank": 2467,
       "confusable_candidates": []
     }
   ]

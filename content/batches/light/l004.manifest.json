@@ -85,7 +85,9 @@
       "pos_hint": [
         "n"
       ],
-      "forms": [],
+      "forms": [
+        "lives"
+      ],
       "cefr": "A1",
       "freqRank": 111,
       "confusable_candidates": [
@@ -172,7 +174,6 @@
       "forms": [
         "heard",
         "hearing",
-        "hearings",
         "hears"
       ],
       "cefr": "A1",
@@ -342,7 +343,6 @@
       ],
       "forms": [
         "understanding",
-        "understandings",
         "understands",
         "understood"
       ],
@@ -518,7 +518,9 @@
       "pos_hint": [
         "n"
       ],
-      "forms": [],
+      "forms": [
+        "people"
+      ],
       "cefr": "A1",
       "freqRank": 263,
       "confusable_candidates": [

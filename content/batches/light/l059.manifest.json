@@ -7,57 +7,6 @@
   "count": 60,
   "entries": [
     {
-      "id": "reinforce",
-      "headword": "reinforce",
-      "level": "ADV",
-      "isCore": false,
-      "pos_hint": [
-        "v"
-      ],
-      "forms": [
-        "reinforced",
-        "reinforces",
-        "reinforcing"
-      ],
-      "cefr": "B2",
-      "freqRank": null,
-      "confusable_candidates": []
-    },
-    {
-      "id": "reluctant",
-      "headword": "reluctant",
-      "level": "ADV",
-      "isCore": false,
-      "pos_hint": [
-        "adj"
-      ],
-      "forms": [],
-      "cefr": "B2",
-      "freqRank": null,
-      "confusable_candidates": []
-    },
-    {
-      "id": "rental",
-      "headword": "rental",
-      "level": "ADV",
-      "isCore": false,
-      "pos_hint": [
-        "n"
-      ],
-      "forms": [
-        "rentals"
-      ],
-      "cefr": "B2",
-      "freqRank": null,
-      "confusable_candidates": [
-        "central",
-        "mental",
-        "metal",
-        "retail",
-        "reveal"
-      ]
-    },
-    {
       "id": "repay",
       "headword": "repay",
       "level": "ADV",
@@ -178,8 +127,7 @@
       "forms": [
         "restructured",
         "restructures",
-        "restructuring",
-        "restructurings"
+        "restructuring"
       ],
       "cefr": null,
       "freqRank": null,
@@ -278,8 +226,6 @@
         "v"
       ],
       "forms": [
-        "rewrit",
-        "rewrited",
         "rewrites",
         "rewriting",
         "rewritten",
@@ -419,7 +365,6 @@
       "forms": [
         "sacked",
         "sacking",
-        "sackings",
         "sacks"
       ],
       "cefr": "B2",
@@ -485,7 +430,6 @@
       "forms": [
         "scattered",
         "scattering",
-        "scatterings",
         "scatters"
       ],
       "cefr": "B1",
@@ -1115,6 +1059,70 @@
       "freqRank": null,
       "confusable_candidates": [
         "spectacle"
+      ]
+    },
+    {
+      "id": "sphere",
+      "headword": "sphere",
+      "level": "ADV",
+      "isCore": false,
+      "pos_hint": [
+        "n"
+      ],
+      "forms": [
+        "spheres"
+      ],
+      "cefr": "B1",
+      "freqRank": null,
+      "confusable_candidates": [
+        "scheme",
+        "severe",
+        "share",
+        "shore",
+        "spare"
+      ]
+    },
+    {
+      "id": "spill",
+      "headword": "spill",
+      "level": "ADV",
+      "isCore": false,
+      "pos_hint": [
+        "v"
+      ],
+      "forms": [
+        "spilled",
+        "spilling",
+        "spills",
+        "spilt"
+      ],
+      "cefr": "A2",
+      "freqRank": null,
+      "confusable_candidates": [
+        "bill",
+        "chill",
+        "fill",
+        "hill",
+        "kill",
+        "mill"
+      ]
+    },
+    {
+      "id": "spit",
+      "headword": "spit",
+      "level": "ADV",
+      "isCore": false,
+      "pos_hint": [],
+      "forms": [],
+      "cefr": null,
+      "freqRank": null,
+      "confusable_candidates": [
+        "bit",
+        "edit",
+        "emit",
+        "exit",
+        "fit",
+        "hit"
       ]
     }
   ]

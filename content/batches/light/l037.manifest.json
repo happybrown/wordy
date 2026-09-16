@@ -7,27 +7,6 @@
   "count": 60,
   "entries": [
     {
-      "id": "profile",
-      "headword": "profile",
-      "level": "HIGH",
-      "isCore": false,
-      "pos_hint": [
-        "n"
-      ],
-      "forms": [
-        "profiles"
-      ],
-      "cefr": "B2",
-      "freqRank": 2065,
-      "confusable_candidates": [
-        "profit",
-        "profitability",
-        "profitable",
-        "promise",
-        "provide"
-      ]
-    },
-    {
       "id": "crack",
       "headword": "crack",
       "level": "HIGH",
@@ -247,9 +226,7 @@
       "pos_hint": [
         "n"
       ],
-      "forms": [
-        "welfares"
-      ],
+      "forms": [],
       "cefr": "B2",
       "freqRank": 2086,
       "confusable_candidates": []
@@ -645,9 +622,7 @@
       ],
       "forms": [
         "spared",
-        "sparer",
         "spares",
-        "sparest",
         "sparing"
       ],
       "cefr": "B2",
@@ -747,9 +722,7 @@
       "pos_hint": [
         "n"
       ],
-      "forms": [
-        "satisfactions"
-      ],
+      "forms": [],
       "cefr": "B1",
       "freqRank": 2133,
       "confusable_candidates": [
@@ -781,7 +754,6 @@
       ],
       "forms": [
         "sweeping",
-        "sweepings",
         "sweeps",
         "swept"
       ],
@@ -1133,6 +1105,23 @@
       "freqRank": 2168,
       "confusable_candidates": [
         "department"
+      ]
+    },
+    {
+      "id": "demonstration",
+      "headword": "demonstration",
+      "level": "HIGH",
+      "isCore": false,
+      "pos_hint": [
+        "n"
+      ],
+      "forms": [
+        "demonstrations"
+      ],
+      "cefr": "B1",
+      "freqRank": 2169,
+      "confusable_candidates": [
+        "demonstrate"
       ]
     }
   ]

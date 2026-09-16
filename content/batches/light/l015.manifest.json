@@ -2,24 +2,10 @@
   "batch": "l015",
   "kind": "light",
   "levels": [
-    "ELEM",
     "MID"
   ],
   "count": 60,
   "entries": [
-    {
-      "id": "zebra",
-      "headword": "zebra",
-      "level": "ELEM",
-      "isCore": false,
-      "pos_hint": [
-        "n"
-      ],
-      "forms": [],
-      "cefr": "B2",
-      "freqRank": null,
-      "confusable_candidates": []
-    },
     {
       "id": "include",
       "headword": "include",
@@ -876,8 +862,7 @@
       "forms": [
         "raised",
         "raises",
-        "raising",
-        "raisings"
+        "raising"
       ],
       "cefr": "A2",
       "freqRank": 486,
@@ -1117,8 +1102,7 @@
       "forms": [
         "served",
         "serves",
-        "serving",
-        "servings"
+        "serving"
       ],
       "cefr": "A2",
       "freqRank": 534,
@@ -1164,6 +1148,22 @@
       "freqRank": 536,
       "confusable_candidates": [
         "certain"
+      ]
+    },
+    {
+      "id": "national",
+      "headword": "national",
+      "level": "MID",
+      "isCore": false,
+      "pos_hint": [
+        "adj"
+      ],
+      "forms": [],
+      "cefr": "A2",
+      "freqRank": 537,
+      "confusable_candidates": [
+        "nation",
+        "rational"
       ]
     }
   ]

@@ -88,6 +88,14 @@ const NOT_A_FORM = new Set([
   'catched', 'buyed', 'bringed', 'thinked', 'fighted', 'payed',
   // 접두사가 붙어도 불규칙은 그대로다 (rewrite -> rewrote/rewritten)
   'rewrited', 'rewrit', 'overcomed', 'understanded', 'withdrawed', 'rebuilded',
+  // 명사로만 쓰는 항목에 딸려 온 동사 과거형. spring 은 '봄·용수철' 뜻만 쓰므로
+  // sprang/sprung 은 학습 대상이 아니다. stiller/stillest 는 부사가 주 용법인
+  // still 에 붙은 비교급으로 실제로 거의 쓰이지 않는다.
+  'sprang', 'sprung', 'stiller', 'stillest',
+  // 구어 축약 표기. 사전에 없어 학습 변화형으로는 쓰지 않는다.
+  // 주의: 've, hadn, didn 같은 축약 조각은 여기 넣지 않는다. 검증기가
+  // "I've never been" 같은 예문을 인정하려면 그 조각이 forms 에 있어야 한다.
+  'gonna', 'gotta', 'wanna', 'lemme', 'gimme', 'kinda', 'sorta', 'outta', 'dunno',
   'foreseed', 'undoed', 'redoed', 'outgrowed', 'misunderstanded',
   'weaved',
   'squarer', 'squarest', 'wronger', 'wrongest', 'famouser', 'famousest', 'correcter', 'correctest',

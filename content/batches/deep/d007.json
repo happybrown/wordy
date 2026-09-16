@@ -129,10 +129,7 @@
   "level": "ELEM",
   "isCore": true,
   "topic": "time_quantity",
-  "forms": [
-   "stiller",
-   "stillest"
-  ],
+  "forms": [],
   "senses": [
    {
     "id": "still-1",
@@ -217,9 +214,9 @@
     "pattern": "still + 비교급",
     "examples": [
      {
-      "en": "Tomorrow will be still colder than today.",
-      "ko": "내일은 오늘보다 더 추울 거야.",
-      "focus": "still colder"
+      "en": "It was cold yesterday, and today is colder still.",
+      "ko": "어제도 추웠는데 오늘은 더 춥네.",
+      "focus": "colder still"
      },
      {
       "en": "Her second book was still better than the first.",
@@ -645,9 +642,9 @@
       "focus": "own your mistake"
      },
      {
-      "en": "Nobody wanted to own the broken window.",
+      "en": "Nobody wanted to own up to breaking the window.",
       "ko": "깨진 창문을 아무도 자기가 그랬다고 안 했어.",
-      "focus": "own the broken window"
+      "focus": "own up to breaking"
      }
     ],
     "phrasals": [

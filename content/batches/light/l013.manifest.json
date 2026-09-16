@@ -486,26 +486,6 @@
       ]
     },
     {
-      "id": "grey",
-      "headword": "grey",
-      "level": "ELEM",
-      "isCore": false,
-      "pos_hint": [],
-      "forms": [
-        "gray"
-      ],
-      "cefr": null,
-      "freqRank": null,
-      "confusable_candidates": [
-        "agree",
-        "area",
-        "army",
-        "brew",
-        "crew",
-        "cry"
-      ]
-    },
-    {
       "id": "haircut",
       "headword": "haircut",
       "level": "ELEM",
@@ -858,7 +838,7 @@
         "n"
       ],
       "forms": [
-        "leafs"
+        "leaves"
       ],
       "cefr": "A1",
       "freqRank": null,
@@ -1013,6 +993,24 @@
       "freqRank": null,
       "confusable_candidates": [
         "mobile"
+      ]
+    },
+    {
+      "id": "mommy",
+      "headword": "mommy",
+      "level": "ELEM",
+      "isCore": false,
+      "pos_hint": [
+        "n"
+      ],
+      "forms": [
+        "mommie"
+      ],
+      "cefr": "A1",
+      "freqRank": null,
+      "confusable_candidates": [
+        "comma",
+        "money"
       ]
     }
   ]

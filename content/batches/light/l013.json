@@ -1316,49 +1316,6 @@
   ]
  },
  {
-  "id": "grey",
-  "headword": "grey",
-  "ipa": "/ɡreɪ/",
-  "level": "ELEM",
-  "isCore": false,
-  "topic": "description_quality",
-  "forms": [
-   "gray"
-  ],
-  "senses": [
-   {
-    "id": "grey-1",
-    "pos": "adj",
-    "ko": "회색의",
-    "en": "having the color between black and white",
-    "nuance": "미국에서는 gray, 영국에서는 grey로 쓰지만 뜻은 같다. 머리가 센 것도 grey hair라고 하고 white hair는 잘 안 쓴다.",
-    "pattern": "grey + 명사",
-    "examples": [
-     {
-      "en": "Jun wore a grey coat to the interview yesterday.",
-      "ko": "준은 어제 면접에 회색 코트를 입고 갔어.",
-      "focus": "a grey coat"
-     },
-     {
-      "en": "The sky turned grey, so we left the beach.",
-      "ko": "하늘이 흐려져서 우리는 해변에서 나왔어.",
-      "focus": "turned grey"
-     }
-    ],
-    "collocations": [
-     "grey hair",
-     "a grey sky"
-    ]
-   }
-  ],
-  "confusables": [
-   {
-    "word": "gray",
-    "note": "같은 단어의 철자 차이다. 미국식 글에는 gray, 영국식 글에는 grey를 쓰면 된다."
-   }
-  ]
- },
- {
   "id": "haircut",
   "headword": "haircut",
   "ipa": "/ˈherkʌt/",

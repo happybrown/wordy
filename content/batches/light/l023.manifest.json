@@ -7,27 +7,6 @@
   "count": 60,
   "entries": [
     {
-      "id": "opposite",
-      "headword": "opposite",
-      "level": "MID",
-      "isCore": false,
-      "pos_hint": [
-        "adj",
-        "adv",
-        "n",
-        "prep"
-      ],
-      "forms": [
-        "opposites"
-      ],
-      "cefr": "A2",
-      "freqRank": 1373,
-      "confusable_candidates": [
-        "oppose",
-        "opposition"
-      ]
-    },
-    {
       "id": "murder",
       "headword": "murder",
       "level": "MID",
@@ -100,8 +79,7 @@
       "forms": [
         "financed",
         "finances",
-        "financing",
-        "financings"
+        "financing"
       ],
       "cefr": "B1",
       "freqRank": 1379,
@@ -270,9 +248,7 @@
       "pos_hint": [
         "n"
       ],
-      "forms": [
-        "freedoms"
-      ],
+      "forms": [],
       "cefr": "A2",
       "freqRank": 1399,
       "confusable_candidates": []
@@ -446,7 +422,6 @@
       "forms": [
         "belonged",
         "belonging",
-        "belongings",
         "belongs"
       ],
       "cefr": "A2",
@@ -777,9 +752,7 @@
         "n"
       ],
       "forms": [
-        "squarer",
-        "squares",
-        "squarest"
+        "squares"
       ],
       "cefr": "A2",
       "freqRank": 1443,
@@ -1146,6 +1119,22 @@
         "acquisition",
         "inquire",
         "require"
+      ]
+    },
+    {
+      "id": "corporate",
+      "headword": "corporate",
+      "level": "MID",
+      "isCore": false,
+      "pos_hint": [
+        "adj"
+      ],
+      "forms": [],
+      "cefr": "B2",
+      "freqRank": 1465,
+      "confusable_candidates": [
+        "cooperate",
+        "corporation"
       ]
     }
   ]

@@ -7,42 +7,6 @@
   "count": 60,
   "entries": [
     {
-      "id": "passport",
-      "headword": "passport",
-      "level": "HIGH",
-      "isCore": false,
-      "pos_hint": [
-        "n"
-      ],
-      "forms": [
-        "passports"
-      ],
-      "cefr": "B1",
-      "freqRank": null,
-      "confusable_candidates": []
-    },
-    {
-      "id": "peel",
-      "headword": "peel",
-      "level": "HIGH",
-      "isCore": false,
-      "pos_hint": [
-        "n",
-        "v"
-      ],
-      "forms": [],
-      "cefr": "B2",
-      "freqRank": null,
-      "confusable_candidates": [
-        "bee",
-        "beef",
-        "beer",
-        "bell",
-        "cell",
-        "deal"
-      ]
-    },
-    {
       "id": "pepper",
       "headword": "pepper",
       "level": "HIGH",
@@ -183,7 +147,6 @@
       "forms": [
         "poisoned",
         "poisoning",
-        "poisonings",
         "poisons"
       ],
       "cefr": "B1",
@@ -380,9 +343,7 @@
       "pos_hint": [
         "n"
       ],
-      "forms": [
-        "preys"
-      ],
+      "forms": [],
       "cefr": null,
       "freqRank": null,
       "confusable_candidates": [
@@ -451,9 +412,7 @@
       "pos_hint": [
         "n"
       ],
-      "forms": [
-        "psychologies"
-      ],
+      "forms": [],
       "cefr": "B2",
       "freqRank": null,
       "confusable_candidates": [
@@ -699,7 +658,6 @@
       "forms": [
         "rubbed",
         "rubbing",
-        "rubbings",
         "rubs"
       ],
       "cefr": "B2",
@@ -1117,6 +1075,48 @@
         "care",
         "code",
         "coke"
+      ]
+    },
+    {
+      "id": "spark",
+      "headword": "spark",
+      "level": "HIGH",
+      "isCore": false,
+      "pos_hint": [
+        "n"
+      ],
+      "forms": [
+        "sparks"
+      ],
+      "cefr": "B2",
+      "freqRank": null,
+      "confusable_candidates": [
+        "apart",
+        "bark",
+        "dark",
+        "mark",
+        "pack",
+        "park"
+      ]
+    },
+    {
+      "id": "spoil",
+      "headword": "spoil",
+      "level": "HIGH",
+      "isCore": false,
+      "pos_hint": [
+        "v"
+      ],
+      "forms": [],
+      "cefr": "B1",
+      "freqRank": null,
+      "confusable_candidates": [
+        "april",
+        "boil",
+        "poll",
+        "pool",
+        "sail",
+        "soil"
       ]
     }
   ]

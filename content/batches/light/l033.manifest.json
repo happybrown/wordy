@@ -7,23 +7,6 @@
   "count": 60,
   "entries": [
     {
-      "id": "combination",
-      "headword": "combination",
-      "level": "HIGH",
-      "isCore": false,
-      "pos_hint": [
-        "n"
-      ],
-      "forms": [
-        "combinations"
-      ],
-      "cefr": "B1",
-      "freqRank": 1552,
-      "confusable_candidates": [
-        "combine"
-      ]
-    },
-    {
       "id": "abuse",
       "headword": "abuse",
       "level": "HIGH",
@@ -146,7 +129,6 @@
       "forms": [
         "wedded",
         "wedding",
-        "weddings",
         "weds"
       ],
       "cefr": "B2",
@@ -488,9 +470,7 @@
       "pos_hint": [
         "n"
       ],
-      "forms": [
-        "employments"
-      ],
+      "forms": [],
       "cefr": "B1",
       "freqRank": 1607,
       "confusable_candidates": [
@@ -587,9 +567,7 @@
         "v"
       ],
       "forms": [
-        "casted",
         "casting",
-        "castings",
         "casts"
       ],
       "cefr": "B2",
@@ -653,9 +631,7 @@
       "pos_hint": [
         "n"
       ],
-      "forms": [
-        "oppositions"
-      ],
+      "forms": [],
       "cefr": "B1",
       "freqRank": 1622,
       "confusable_candidates": [
@@ -672,9 +648,7 @@
       "pos_hint": [
         "n"
       ],
-      "forms": [
-        "reliefs"
-      ],
+      "forms": [],
       "cefr": "B2",
       "freqRank": 1623,
       "confusable_candidates": [
@@ -969,9 +943,7 @@
       "pos_hint": [
         "n"
       ],
-      "forms": [
-        "intelligences"
-      ],
+      "forms": [],
       "cefr": "A2",
       "freqRank": 1673,
       "confusable_candidates": [
@@ -1155,6 +1127,24 @@
       "cefr": "B1",
       "freqRank": 1692,
       "confusable_candidates": []
+    },
+    {
+      "id": "neighborhood",
+      "headword": "neighborhood",
+      "level": "HIGH",
+      "isCore": false,
+      "pos_hint": [
+        "n"
+      ],
+      "forms": [
+        "neighborhoods",
+        "neighbourhood"
+      ],
+      "cefr": "B1",
+      "freqRank": 1694,
+      "confusable_candidates": [
+        "neighbor"
+      ]
     }
   ]
 }

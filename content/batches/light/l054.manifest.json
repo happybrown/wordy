@@ -7,62 +7,6 @@
   "count": 60,
   "entries": [
     {
-      "id": "costly",
-      "headword": "costly",
-      "level": "ADV",
-      "isCore": false,
-      "pos_hint": [
-        "adj"
-      ],
-      "forms": [
-        "costlier",
-        "costliest"
-      ],
-      "cefr": "B2",
-      "freqRank": null,
-      "confusable_candidates": [
-        "castle",
-        "closely",
-        "mostly"
-      ]
-    },
-    {
-      "id": "counterpart",
-      "headword": "counterpart",
-      "level": "ADV",
-      "isCore": false,
-      "pos_hint": [],
-      "forms": [
-        "counterparts"
-      ],
-      "cefr": null,
-      "freqRank": null,
-      "confusable_candidates": [
-        "counter",
-        "country",
-        "countryside",
-        "county"
-      ]
-    },
-    {
-      "id": "coupon",
-      "headword": "coupon",
-      "level": "ADV",
-      "isCore": false,
-      "pos_hint": [],
-      "forms": [
-        "coupons"
-      ],
-      "cefr": null,
-      "freqRank": null,
-      "confusable_candidates": [
-        "common",
-        "cotton",
-        "couple",
-        "cousin"
-      ]
-    },
-    {
       "id": "creditor",
       "headword": "creditor",
       "level": "ADV",
@@ -1072,6 +1016,62 @@
         "ecological",
         "economy",
         "geology"
+      ]
+    },
+    {
+      "id": "elaborate",
+      "headword": "elaborate",
+      "level": "ADV",
+      "isCore": false,
+      "pos_hint": [
+        "adj"
+      ],
+      "forms": [],
+      "cefr": null,
+      "freqRank": null,
+      "confusable_candidates": []
+    },
+    {
+      "id": "electron",
+      "headword": "electron",
+      "level": "ADV",
+      "isCore": false,
+      "pos_hint": [
+        "n"
+      ],
+      "forms": [
+        "electrons"
+      ],
+      "cefr": "B1",
+      "freqRank": null,
+      "confusable_candidates": [
+        "election",
+        "electric",
+        "electricity",
+        "electronic",
+        "selection"
+      ]
+    },
+    {
+      "id": "emit",
+      "headword": "emit",
+      "level": "ADV",
+      "isCore": false,
+      "pos_hint": [],
+      "forms": [
+        "emits",
+        "emitted",
+        "emitting"
+      ],
+      "cefr": null,
+      "freqRank": null,
+      "confusable_candidates": [
+        "admit",
+        "bit",
+        "debit",
+        "east",
+        "eat",
+        "edit"
       ]
     }
   ]

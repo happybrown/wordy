@@ -7,63 +7,6 @@
   "count": 60,
   "entries": [
     {
-      "id": "brew",
-      "headword": "brew",
-      "level": "ADV",
-      "isCore": false,
-      "pos_hint": [],
-      "forms": [],
-      "cefr": null,
-      "freqRank": null,
-      "confusable_candidates": [
-        "area",
-        "bare",
-        "bed",
-        "bee",
-        "beef",
-        "beer"
-      ]
-    },
-    {
-      "id": "broker",
-      "headword": "broker",
-      "level": "ADV",
-      "isCore": false,
-      "pos_hint": [],
-      "forms": [
-        "brokered",
-        "brokering",
-        "brokers"
-      ],
-      "cefr": null,
-      "freqRank": null,
-      "confusable_candidates": [
-        "banker",
-        "brake",
-        "broken",
-        "brother",
-        "proper"
-      ]
-    },
-    {
-      "id": "brute",
-      "headword": "brute",
-      "level": "ADV",
-      "isCore": false,
-      "pos_hint": [],
-      "forms": [],
-      "cefr": null,
-      "freqRank": null,
-      "confusable_candidates": [
-        "acute",
-        "bite",
-        "blue",
-        "brake",
-        "brave",
-        "bride"
-      ]
-    },
-    {
       "id": "bulk",
       "headword": "bulk",
       "level": "ADV",
@@ -223,7 +166,6 @@
       "forms": [
         "catered",
         "catering",
-        "caterings",
         "caters"
       ],
       "cefr": null,
@@ -404,9 +346,7 @@
       "level": "ADV",
       "isCore": false,
       "pos_hint": [],
-      "forms": [
-        "collaterals"
-      ],
+      "forms": [],
       "cefr": null,
       "freqRank": null,
       "confusable_candidates": [
@@ -629,9 +569,7 @@
       "level": "ADV",
       "isCore": false,
       "pos_hint": [],
-      "forms": [
-        "compliances"
-      ],
+      "forms": [],
       "cefr": null,
       "freqRank": null,
       "confusable_candidates": [
@@ -810,9 +748,7 @@
       "pos_hint": [
         "n"
       ],
-      "forms": [
-        "conservations"
-      ],
+      "forms": [],
       "cefr": "B1",
       "freqRank": null,
       "confusable_candidates": [
@@ -973,9 +909,7 @@
       "pos_hint": [
         "n"
       ],
-      "forms": [
-        "consumptions"
-      ],
+      "forms": [],
       "cefr": "B1",
       "freqRank": null,
       "confusable_candidates": [
@@ -1178,6 +1112,62 @@
       "cefr": "B2",
       "freqRank": null,
       "confusable_candidates": []
+    },
+    {
+      "id": "costly",
+      "headword": "costly",
+      "level": "ADV",
+      "isCore": false,
+      "pos_hint": [
+        "adj"
+      ],
+      "forms": [
+        "costlier",
+        "costliest"
+      ],
+      "cefr": "B2",
+      "freqRank": null,
+      "confusable_candidates": [
+        "castle",
+        "closely",
+        "mostly"
+      ]
+    },
+    {
+      "id": "counterpart",
+      "headword": "counterpart",
+      "level": "ADV",
+      "isCore": false,
+      "pos_hint": [],
+      "forms": [
+        "counterparts"
+      ],
+      "cefr": null,
+      "freqRank": null,
+      "confusable_candidates": [
+        "counter",
+        "country",
+        "countryside",
+        "county"
+      ]
+    },
+    {
+      "id": "coupon",
+      "headword": "coupon",
+      "level": "ADV",
+      "isCore": false,
+      "pos_hint": [],
+      "forms": [
+        "coupons"
+      ],
+      "cefr": null,
+      "freqRank": null,
+      "confusable_candidates": [
+        "common",
+        "cotton",
+        "couple",
+        "cousin"
+      ]
     }
   ]
 }

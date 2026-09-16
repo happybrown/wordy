@@ -4,64 +4,8 @@
   "levels": [
     "ADV"
   ],
-  "count": 54,
+  "count": 51,
   "entries": [
-    {
-      "id": "trader",
-      "headword": "trader",
-      "level": "ADV",
-      "isCore": false,
-      "pos_hint": [
-        "n"
-      ],
-      "forms": [
-        "traders"
-      ],
-      "cefr": "B2",
-      "freqRank": null,
-      "confusable_candidates": [
-        "drawer",
-        "eraser",
-        "grade",
-        "leader",
-        "order",
-        "reader"
-      ]
-    },
-    {
-      "id": "traditionally",
-      "headword": "traditionally",
-      "level": "ADV",
-      "isCore": false,
-      "pos_hint": [
-        "adv"
-      ],
-      "forms": [],
-      "cefr": "B1",
-      "freqRank": null,
-      "confusable_candidates": [
-        "tradition",
-        "traditional"
-      ]
-    },
-    {
-      "id": "transact",
-      "headword": "transact",
-      "level": "ADV",
-      "isCore": false,
-      "pos_hint": [],
-      "forms": [],
-      "cefr": null,
-      "freqRank": null,
-      "confusable_candidates": [
-        "transfer",
-        "transform",
-        "transformation",
-        "transition",
-        "translate",
-        "transmit"
-      ]
-    },
     {
       "id": "transformation",
       "headword": "transformation",
@@ -603,9 +547,7 @@
       "level": "ADV",
       "isCore": false,
       "pos_hint": [],
-      "forms": [
-        "volatilities"
-      ],
+      "forms": [],
       "cefr": null,
       "freqRank": null,
       "confusable_candidates": []
@@ -860,9 +802,7 @@
       "pos_hint": [
         "n"
       ],
-      "forms": [
-        "wisdoms"
-      ],
+      "forms": [],
       "cefr": "A2",
       "freqRank": null,
       "confusable_candidates": [

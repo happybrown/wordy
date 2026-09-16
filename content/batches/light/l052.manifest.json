@@ -7,51 +7,6 @@
   "count": 60,
   "entries": [
     {
-      "id": "accuracy",
-      "headword": "accuracy",
-      "level": "ADV",
-      "isCore": false,
-      "pos_hint": [
-        "n"
-      ],
-      "forms": [
-        "accuracies"
-      ],
-      "cefr": "B1",
-      "freqRank": null,
-      "confusable_candidates": [
-        "accurate",
-        "accurately"
-      ]
-    },
-    {
-      "id": "accurately",
-      "headword": "accurately",
-      "level": "ADV",
-      "isCore": false,
-      "pos_hint": [
-        "adv"
-      ],
-      "forms": [],
-      "cefr": "B1",
-      "freqRank": null,
-      "confusable_candidates": [
-        "accuracy",
-        "accurate"
-      ]
-    },
-    {
-      "id": "acquaint",
-      "headword": "acquaint",
-      "level": "ADV",
-      "isCore": false,
-      "pos_hint": [],
-      "forms": [],
-      "cefr": null,
-      "freqRank": null,
-      "confusable_candidates": []
-    },
-    {
       "id": "actively",
       "headword": "actively",
       "level": "ADV",
@@ -117,7 +72,6 @@
       "confusable_candidates": [
         "advertise",
         "advertisement",
-        "advertize",
         "advise",
         "diverse",
         "reverse"
@@ -919,7 +873,6 @@
       ],
       "forms": [
         "bled",
-        "bleedin",
         "bleeding",
         "bleeds"
       ],
@@ -1032,6 +985,63 @@
         "break",
         "breast",
         "breath"
+      ]
+    },
+    {
+      "id": "brew",
+      "headword": "brew",
+      "level": "ADV",
+      "isCore": false,
+      "pos_hint": [],
+      "forms": [],
+      "cefr": null,
+      "freqRank": null,
+      "confusable_candidates": [
+        "area",
+        "bare",
+        "bed",
+        "bee",
+        "beef",
+        "beer"
+      ]
+    },
+    {
+      "id": "broker",
+      "headword": "broker",
+      "level": "ADV",
+      "isCore": false,
+      "pos_hint": [],
+      "forms": [
+        "brokered",
+        "brokering",
+        "brokers"
+      ],
+      "cefr": null,
+      "freqRank": null,
+      "confusable_candidates": [
+        "banker",
+        "brake",
+        "broken",
+        "brother",
+        "proper"
+      ]
+    },
+    {
+      "id": "brute",
+      "headword": "brute",
+      "level": "ADV",
+      "isCore": false,
+      "pos_hint": [],
+      "forms": [],
+      "cefr": null,
+      "freqRank": null,
+      "confusable_candidates": [
+        "acute",
+        "bite",
+        "blue",
+        "brake",
+        "brave",
+        "bride"
       ]
     }
   ]

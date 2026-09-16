@@ -7,19 +7,6 @@
   "count": 60,
   "entries": [
     {
-      "id": "aggressive",
-      "headword": "aggressive",
-      "level": "MID",
-      "isCore": false,
-      "pos_hint": [
-        "adj"
-      ],
-      "forms": [],
-      "cefr": "B1",
-      "freqRank": 2467,
-      "confusable_candidates": []
-    },
-    {
       "id": "chest",
       "headword": "chest",
       "level": "MID",
@@ -666,9 +653,7 @@
       "pos_hint": [
         "n"
       ],
-      "forms": [
-        "prides"
-      ],
+      "forms": [],
       "cefr": "A2",
       "freqRank": 2563,
       "confusable_candidates": [
@@ -801,7 +786,6 @@
         "n"
       ],
       "forms": [
-        "gaol",
         "jails"
       ],
       "cefr": "B1",
@@ -823,9 +807,7 @@
       "pos_hint": [
         "n"
       ],
-      "forms": [
-        "destructions"
-      ],
+      "forms": [],
       "cefr": "B1",
       "freqRank": 2588,
       "confusable_candidates": [
@@ -846,7 +828,6 @@
       "forms": [
         "whispered",
         "whispering",
-        "whisperings",
         "whispers"
       ],
       "cefr": "B1",
@@ -864,9 +845,7 @@
       "forms": [
         "blessed",
         "blesses",
-        "blessing",
-        "blessings",
-        "blest"
+        "blessing"
       ],
       "cefr": "B1",
       "freqRank": 2601,
@@ -1215,9 +1194,7 @@
       "pos_hint": [
         "n"
       ],
-      "forms": [
-        "logics"
-      ],
+      "forms": [],
       "cefr": "B1",
       "freqRank": 2684,
       "confusable_candidates": [
@@ -1241,6 +1218,30 @@
       "cefr": "A2",
       "freqRank": 2686,
       "confusable_candidates": []
+    },
+    {
+      "id": "revise",
+      "headword": "revise",
+      "level": "MID",
+      "isCore": false,
+      "pos_hint": [
+        "v"
+      ],
+      "forms": [
+        "revised",
+        "revises",
+        "revising"
+      ],
+      "cefr": "B1",
+      "freqRank": 2688,
+      "confusable_candidates": [
+        "advise",
+        "device",
+        "devise",
+        "precise",
+        "premise",
+        "raise"
+      ]
     }
   ]
 }

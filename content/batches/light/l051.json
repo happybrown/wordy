@@ -182,47 +182,6 @@
   ]
  },
  {
-  "id": "stairs",
-  "headword": "stairs",
-  "ipa": "/sterz/",
-  "level": "HIGH",
-  "isCore": false,
-  "topic": "home_daily",
-  "senses": [
-   {
-    "id": "stairs-1",
-    "pos": "n",
-    "ko": "계단",
-    "en": "a set of steps inside a building going up or down",
-    "nuance": "건물 안 계단은 거의 항상 복수 stairs로 쓰고 a stair라고 하지 않는다. 야외 돌계단은 steps, 에스컬레이터 옆 비상계단은 stairway가 자연스럽다.",
-    "pattern": "go up / down the stairs",
-    "examples": [
-     {
-      "en": "Let's take the stairs, the elevator is really slow.",
-      "ko": "계단으로 가자, 엘리베이터 너무 느려.",
-      "focus": "take the stairs"
-     },
-     {
-      "en": "Tom carried the box up the stairs by himself.",
-      "ko": "톰이 혼자서 상자를 계단 위로 날랐어.",
-      "focus": "up the stairs"
-     }
-    ],
-    "collocations": [
-     "take the stairs",
-     "climb the stairs",
-     "down the stairs"
-    ]
-   }
-  ],
-  "confusables": [
-   {
-    "word": "stare",
-    "note": "stare는 '빤히 쳐다보다'라는 동사로 발음도 뜻도 계단과 전혀 다르다."
-   }
-  ]
- },
- {
   "id": "statue",
   "headword": "statue",
   "ipa": "/ˈstætʃuː/",

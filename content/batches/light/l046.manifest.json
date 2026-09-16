@@ -7,49 +7,6 @@
   "count": 60,
   "entries": [
     {
-      "id": "conceal",
-      "headword": "conceal",
-      "level": "HIGH",
-      "isCore": false,
-      "pos_hint": [
-        "v"
-      ],
-      "forms": [
-        "concealed",
-        "concealing",
-        "conceals"
-      ],
-      "cefr": "B2",
-      "freqRank": null,
-      "confusable_candidates": [
-        "cancel",
-        "conceive",
-        "concentrate",
-        "concentration",
-        "concept",
-        "concern"
-      ]
-    },
-    {
-      "id": "confess",
-      "headword": "confess",
-      "level": "HIGH",
-      "isCore": false,
-      "pos_hint": [
-        "v"
-      ],
-      "forms": [],
-      "cefr": "B2",
-      "freqRank": null,
-      "confusable_candidates": [
-        "confer",
-        "conference",
-        "confuse",
-        "congress",
-        "contest"
-      ]
-    },
-    {
       "id": "confine",
       "headword": "confine",
       "level": "HIGH",
@@ -244,9 +201,7 @@
       "pos_hint": [
         "adj"
       ],
-      "forms": [
-        "corrupter"
-      ],
+      "forms": [],
       "cefr": "B2",
       "freqRank": null,
       "confusable_candidates": [
@@ -838,9 +793,7 @@
       "pos_hint": [
         "n"
       ],
-      "forms": [
-        "dependences"
-      ],
+      "forms": [],
       "cefr": null,
       "freqRank": null,
       "confusable_candidates": [
@@ -1092,6 +1045,46 @@
         "distribute",
         "distribution",
         "district"
+      ]
+    },
+    {
+      "id": "dive",
+      "headword": "dive",
+      "level": "HIGH",
+      "isCore": false,
+      "pos_hint": [
+        "n",
+        "v"
+      ],
+      "forms": [],
+      "cefr": "B1",
+      "freqRank": null,
+      "confusable_candidates": [
+        "alive",
+        "bike",
+        "bite",
+        "cave",
+        "cite",
+        "dare"
+      ]
+    },
+    {
+      "id": "domain",
+      "headword": "domain",
+      "level": "HIGH",
+      "isCore": false,
+      "pos_hint": [
+        "n"
+      ],
+      "forms": [
+        "domains"
+      ],
+      "cefr": null,
+      "freqRank": null,
+      "confusable_candidates": [
+        "drain",
+        "remain",
+        "woman"
       ]
     }
   ]

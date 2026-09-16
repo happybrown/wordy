@@ -8,22 +8,6 @@
   "count": 60,
   "entries": [
     {
-      "id": "evident",
-      "headword": "evident",
-      "level": "MID",
-      "isCore": false,
-      "pos_hint": [
-        "adj"
-      ],
-      "forms": [],
-      "cefr": "B1",
-      "freqRank": null,
-      "confusable_candidates": [
-        "evidence",
-        "resident"
-      ]
-    },
-    {
       "id": "fare",
       "headword": "fare",
       "level": "MID",
@@ -277,9 +261,7 @@
       "pos_hint": [
         "n"
       ],
-      "forms": [
-        "leisures"
-      ],
+      "forms": [],
       "cefr": "A2",
       "freqRank": null,
       "confusable_candidates": [
@@ -455,9 +437,7 @@
       "pos_hint": [
         "n"
       ],
-      "forms": [
-        "privacies"
-      ],
+      "forms": [],
       "cefr": "B1",
       "freqRank": null,
       "confusable_candidates": [
@@ -525,7 +505,6 @@
       ],
       "forms": [
         "quits",
-        "quitted",
         "quitting"
       ],
       "cefr": "A2",
@@ -710,9 +689,7 @@
       "pos_hint": [
         "n"
       ],
-      "forms": [
-        "tobaccos"
-      ],
+      "forms": [],
       "cefr": "B1",
       "freqRank": null,
       "confusable_candidates": []
@@ -807,9 +784,7 @@
       "pos_hint": [
         "n"
       ],
-      "forms": [
-        "leaderships"
-      ],
+      "forms": [],
       "cefr": "B1",
       "freqRank": 1506,
       "confusable_candidates": [
@@ -1118,6 +1093,23 @@
       "freqRank": 1545,
       "confusable_candidates": [
         "strong"
+      ]
+    },
+    {
+      "id": "combination",
+      "headword": "combination",
+      "level": "HIGH",
+      "isCore": false,
+      "pos_hint": [
+        "n"
+      ],
+      "forms": [
+        "combinations"
+      ],
+      "cefr": "B1",
+      "freqRank": 1552,
+      "confusable_candidates": [
+        "combine"
       ]
     }
   ]

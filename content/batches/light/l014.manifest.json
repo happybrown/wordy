@@ -7,24 +7,6 @@
   "count": 60,
   "entries": [
     {
-      "id": "mommy",
-      "headword": "mommy",
-      "level": "ELEM",
-      "isCore": false,
-      "pos_hint": [
-        "n"
-      ],
-      "forms": [
-        "mommie"
-      ],
-      "cefr": "A1",
-      "freqRank": null,
-      "confusable_candidates": [
-        "comma",
-        "money"
-      ]
-    },
-    {
       "id": "mum",
       "headword": "mum",
       "level": "ELEM",
@@ -1001,6 +983,19 @@
       "confusable_candidates": [
         "reading"
       ]
+    },
+    {
+      "id": "zebra",
+      "headword": "zebra",
+      "level": "ELEM",
+      "isCore": false,
+      "pos_hint": [
+        "n"
+      ],
+      "forms": [],
+      "cefr": "B2",
+      "freqRank": null,
+      "confusable_candidates": []
     }
   ]
 }

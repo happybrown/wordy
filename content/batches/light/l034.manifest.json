@@ -7,24 +7,6 @@
   "count": 60,
   "entries": [
     {
-      "id": "neighborhood",
-      "headword": "neighborhood",
-      "level": "HIGH",
-      "isCore": false,
-      "pos_hint": [
-        "n"
-      ],
-      "forms": [
-        "neighborhoods",
-        "neighbourhood"
-      ],
-      "cefr": "B1",
-      "freqRank": 1694,
-      "confusable_candidates": [
-        "neighbor"
-      ]
-    },
-    {
       "id": "phase",
       "headword": "phase",
       "level": "HIGH",
@@ -308,9 +290,7 @@
       "pos_hint": [
         "n"
       ],
-      "forms": [
-        "legislations"
-      ],
+      "forms": [],
       "cefr": "B2",
       "freqRank": 1735,
       "confusable_candidates": [
@@ -428,9 +408,7 @@
       "pos_hint": [
         "n"
       ],
-      "forms": [
-        "hells"
-      ],
+      "forms": [],
       "cefr": "B2",
       "freqRank": 1743,
       "confusable_candidates": [
@@ -865,9 +843,7 @@
       "pos_hint": [
         "n"
       ],
-      "forms": [
-        "childhoods"
-      ],
+      "forms": [],
       "cefr": "A2",
       "freqRank": 1808,
       "confusable_candidates": []
@@ -1115,11 +1091,24 @@
       "pos_hint": [
         "n"
       ],
-      "forms": [
-        "aircrafts"
-      ],
+      "forms": [],
       "cefr": "B2",
       "freqRank": 1832,
+      "confusable_candidates": []
+    },
+    {
+      "id": "existence",
+      "headword": "existence",
+      "level": "HIGH",
+      "isCore": false,
+      "pos_hint": [
+        "n"
+      ],
+      "forms": [
+        "existences"
+      ],
+      "cefr": "B1",
+      "freqRank": 1835,
       "confusable_candidates": []
     }
   ]

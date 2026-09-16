@@ -7,28 +7,6 @@
   "count": 60,
   "entries": [
     {
-      "id": "image",
-      "headword": "image",
-      "level": "MID",
-      "isCore": false,
-      "pos_hint": [
-        "n"
-      ],
-      "forms": [
-        "images"
-      ],
-      "cefr": "A2",
-      "freqRank": 704,
-      "confusable_candidates": [
-        "amaze",
-        "cage",
-        "damage",
-        "make",
-        "male",
-        "mate"
-      ]
-    },
-    {
       "id": "behavior",
       "headword": "behavior",
       "level": "MID",
@@ -1153,6 +1131,28 @@
         "emerge",
         "enemy",
         "entry"
+      ]
+    },
+    {
+      "id": "relation",
+      "headword": "relation",
+      "level": "MID",
+      "isCore": false,
+      "pos_hint": [
+        "n"
+      ],
+      "forms": [
+        "relations"
+      ],
+      "cefr": "B1",
+      "freqRank": 833,
+      "confusable_candidates": [
+        "creation",
+        "reaction",
+        "relate",
+        "relationship",
+        "relative",
+        "relatively"
       ]
     }
   ]

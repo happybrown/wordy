@@ -7,26 +7,6 @@
   "count": 60,
   "entries": [
     {
-      "id": "reality",
-      "headword": "reality",
-      "level": "MID",
-      "isCore": false,
-      "pos_hint": [
-        "n"
-      ],
-      "forms": [
-        "realities"
-      ],
-      "cefr": "B1",
-      "freqRank": 1181,
-      "confusable_candidates": [
-        "quality",
-        "realistic",
-        "realize",
-        "really"
-      ]
-    },
-    {
       "id": "photograph",
       "headword": "photograph",
       "level": "MID",
@@ -853,8 +833,6 @@
       "forms": [
         "equaled",
         "equaling",
-        "equalled",
-        "equalling",
         "equals"
       ],
       "cefr": "B1",
@@ -1192,6 +1170,28 @@
       "confusable_candidates": [
         "chamber",
         "charter"
+      ]
+    },
+    {
+      "id": "secret",
+      "headword": "secret",
+      "level": "MID",
+      "isCore": false,
+      "pos_hint": [
+        "adj",
+        "n"
+      ],
+      "forms": [
+        "secrets"
+      ],
+      "cefr": "A2",
+      "freqRank": 1276,
+      "confusable_candidates": [
+        "regret",
+        "sacred",
+        "screw",
+        "secretary",
+        "secure"
       ]
     }
   ]

@@ -7,28 +7,6 @@
   "count": 60,
   "entries": [
     {
-      "id": "relation",
-      "headword": "relation",
-      "level": "MID",
-      "isCore": false,
-      "pos_hint": [
-        "n"
-      ],
-      "forms": [
-        "relations"
-      ],
-      "cefr": "B1",
-      "freqRank": 833,
-      "confusable_candidates": [
-        "creation",
-        "reaction",
-        "relate",
-        "relationship",
-        "relative",
-        "relatively"
-      ]
-    },
-    {
       "id": "suffer",
       "headword": "suffer",
       "level": "MID",
@@ -39,8 +17,6 @@
       "forms": [
         "suffered",
         "suffering",
-        "sufferred",
-        "sufferring",
         "suffers"
       ],
       "cefr": "B1",
@@ -360,8 +336,6 @@
         "v"
       ],
       "forms": [
-        "refered",
-        "refering",
         "referred",
         "referring",
         "refers"
@@ -896,7 +870,6 @@
       "forms": [
         "earned",
         "earning",
-        "earnings",
         "earns"
       ],
       "cefr": "A2",
@@ -1064,8 +1037,6 @@
         "v"
       ],
       "forms": [
-        "prefered",
-        "prefering",
         "preferred",
         "preferring",
         "prefers"
@@ -1193,6 +1164,26 @@
         "complete",
         "completion",
         "complex"
+      ]
+    },
+    {
+      "id": "responsibility",
+      "headword": "responsibility",
+      "level": "MID",
+      "isCore": false,
+      "pos_hint": [
+        "n"
+      ],
+      "forms": [
+        "responsibilities"
+      ],
+      "cefr": "B1",
+      "freqRank": 962,
+      "confusable_candidates": [
+        "respond",
+        "respondent",
+        "response",
+        "responsible"
       ]
     }
   ]

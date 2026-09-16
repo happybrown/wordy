@@ -7,22 +7,6 @@
   "count": 60,
   "entries": [
     {
-      "id": "national",
-      "headword": "national",
-      "level": "MID",
-      "isCore": false,
-      "pos_hint": [
-        "adj"
-      ],
-      "forms": [],
-      "cefr": "A2",
-      "freqRank": 537,
-      "confusable_candidates": [
-        "nation",
-        "rational"
-      ]
-    },
-    {
       "id": "security",
       "headword": "security",
       "level": "MID",
@@ -339,9 +323,7 @@
       "pos_hint": [
         "n"
       ],
-      "forms": [
-        "evidences"
-      ],
+      "forms": [],
       "cefr": "A2",
       "freqRank": 592,
       "confusable_candidates": [
@@ -1153,6 +1135,28 @@
       "confusable_candidates": [
         "ecology",
         "economic"
+      ]
+    },
+    {
+      "id": "image",
+      "headword": "image",
+      "level": "MID",
+      "isCore": false,
+      "pos_hint": [
+        "n"
+      ],
+      "forms": [
+        "images"
+      ],
+      "cefr": "A2",
+      "freqRank": 704,
+      "confusable_candidates": [
+        "amaze",
+        "cage",
+        "damage",
+        "make",
+        "male",
+        "mate"
       ]
     }
   ]

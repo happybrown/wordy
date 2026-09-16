@@ -7,29 +7,6 @@
   "count": 60,
   "entries": [
     {
-      "id": "proud",
-      "headword": "proud",
-      "level": "MID",
-      "isCore": false,
-      "pos_hint": [
-        "adj"
-      ],
-      "forms": [
-        "prouder",
-        "proudest"
-      ],
-      "cefr": "B1",
-      "freqRank": 1890,
-      "confusable_candidates": [
-        "aloud",
-        "around",
-        "broad",
-        "cloud",
-        "crowd",
-        "fraud"
-      ]
-    },
-    {
       "id": "emergency",
       "headword": "emergency",
       "level": "MID",
@@ -522,7 +499,6 @@
         "leaner",
         "leanest",
         "leaning",
-        "leanings",
         "leans",
         "leant"
       ],
@@ -939,8 +915,7 @@
       "forms": [
         "wired",
         "wires",
-        "wiring",
-        "wirings"
+        "wiring"
       ],
       "cefr": "B1",
       "freqRank": 2038,
@@ -987,8 +962,7 @@
       "forms": [
         "traced",
         "traces",
-        "tracing",
-        "tracings"
+        "tracing"
       ],
       "cefr": "B1",
       "freqRank": 2047,
@@ -1221,6 +1195,23 @@
         "stain",
         "strain"
       ]
+    },
+    {
+      "id": "persuade",
+      "headword": "persuade",
+      "level": "MID",
+      "isCore": false,
+      "pos_hint": [
+        "v"
+      ],
+      "forms": [
+        "persuaded",
+        "persuades",
+        "persuading"
+      ],
+      "cefr": "B1",
+      "freqRank": 2091,
+      "confusable_candidates": []
     }
   ]
 }

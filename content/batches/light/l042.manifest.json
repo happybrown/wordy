@@ -7,28 +7,6 @@
   "count": 60,
   "entries": [
     {
-      "id": "composition",
-      "headword": "composition",
-      "level": "HIGH",
-      "isCore": false,
-      "pos_hint": [
-        "n"
-      ],
-      "forms": [
-        "compositions"
-      ],
-      "cefr": "B1",
-      "freqRank": 2608,
-      "confusable_candidates": [
-        "competition",
-        "component",
-        "compose",
-        "composer",
-        "compound",
-        "opposition"
-      ]
-    },
-    {
       "id": "regardless",
       "headword": "regardless",
       "level": "HIGH",
@@ -469,7 +447,9 @@
         "n"
       ],
       "forms": [
-        "catalogs"
+        "catalogs",
+        "catalogue",
+        "catalogues"
       ],
       "cefr": "B2",
       "freqRank": 2651,
@@ -742,9 +722,7 @@
       "pos_hint": [
         "n"
       ],
-      "forms": [
-        "determinations"
-      ],
+      "forms": [],
       "cefr": "B1",
       "freqRank": 2677,
       "confusable_candidates": [
@@ -759,9 +737,7 @@
       "pos_hint": [
         "n"
       ],
-      "forms": [
-        "fictions"
-      ],
+      "forms": [],
       "cefr": "A2",
       "freqRank": 2679,
       "confusable_candidates": [
@@ -818,9 +794,7 @@
       "pos_hint": [
         "n"
       ],
-      "forms": [
-        "confusions"
-      ],
+      "forms": [],
       "cefr": "B1",
       "freqRank": 2682,
       "confusable_candidates": [
@@ -1013,9 +987,7 @@
       "pos_hint": [
         "n"
       ],
-      "forms": [
-        "transportations"
-      ],
+      "forms": [],
       "cefr": "B1",
       "freqRank": 2703,
       "confusable_candidates": [
@@ -1035,9 +1007,7 @@
       "pos_hint": [
         "n"
       ],
-      "forms": [
-        "storages"
-      ],
+      "forms": [],
       "cefr": "B1",
       "freqRank": 2707,
       "confusable_candidates": [
@@ -1102,6 +1072,24 @@
         "substance",
         "substantial",
         "substantially"
+      ]
+    },
+    {
+      "id": "supplement",
+      "headword": "supplement",
+      "level": "HIGH",
+      "isCore": false,
+      "pos_hint": [
+        "n"
+      ],
+      "forms": [
+        "supplements"
+      ],
+      "cefr": "B2",
+      "freqRank": 2716,
+      "confusable_candidates": [
+        "supplier",
+        "supply"
       ]
     }
   ]

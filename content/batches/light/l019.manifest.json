@@ -7,26 +7,6 @@
   "count": 60,
   "entries": [
     {
-      "id": "responsibility",
-      "headword": "responsibility",
-      "level": "MID",
-      "isCore": false,
-      "pos_hint": [
-        "n"
-      ],
-      "forms": [
-        "responsibilities"
-      ],
-      "cefr": "B1",
-      "freqRank": 962,
-      "confusable_candidates": [
-        "respond",
-        "respondent",
-        "response",
-        "responsible"
-      ]
-    },
-    {
       "id": "university",
       "headword": "university",
       "level": "MID",
@@ -328,7 +308,6 @@
       ],
       "forms": [
         "shooting",
-        "shootings",
         "shoots"
       ],
       "cefr": "A2",
@@ -1127,6 +1106,28 @@
       "freqRank": 1094,
       "confusable_candidates": [
         "altitude"
+      ]
+    },
+    {
+      "id": "observe",
+      "headword": "observe",
+      "level": "MID",
+      "isCore": false,
+      "pos_hint": [
+        "v"
+      ],
+      "forms": [
+        "observed",
+        "observes",
+        "observing"
+      ],
+      "cefr": "B1",
+      "freqRank": 1098,
+      "confusable_candidates": [
+        "conserve",
+        "deserve",
+        "observation",
+        "reserve"
       ]
     }
   ]

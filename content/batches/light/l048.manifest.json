@@ -7,39 +7,6 @@
   "count": 60,
   "entries": [
     {
-      "id": "gorgeous",
-      "headword": "gorgeous",
-      "level": "HIGH",
-      "isCore": false,
-      "pos_hint": [
-        "adj"
-      ],
-      "forms": [],
-      "cefr": "B1",
-      "freqRank": null,
-      "confusable_candidates": []
-    },
-    {
-      "id": "grace",
-      "headword": "grace",
-      "level": "HIGH",
-      "isCore": false,
-      "pos_hint": [
-        "n"
-      ],
-      "forms": [],
-      "cefr": "A2",
-      "freqRank": null,
-      "confusable_candidates": [
-        "brake",
-        "brave",
-        "crack",
-        "face",
-        "frame",
-        "game"
-      ]
-    },
-    {
       "id": "gradual",
       "headword": "gradual",
       "level": "HIGH",
@@ -125,7 +92,7 @@
         "greed",
         "green",
         "greet",
-        "grey"
+        "grin"
       ]
     },
     {
@@ -1062,6 +1029,49 @@
         "dawn",
         "down",
         "earn"
+      ]
+    },
+    {
+      "id": "leak",
+      "headword": "leak",
+      "level": "HIGH",
+      "isCore": false,
+      "pos_hint": [
+        "n",
+        "v"
+      ],
+      "forms": [
+        "leaked",
+        "leaking",
+        "leaks"
+      ],
+      "cefr": "B2",
+      "freqRank": null,
+      "confusable_candidates": [
+        "beam",
+        "bean",
+        "bear",
+        "beat",
+        "break",
+        "clean"
+      ]
+    },
+    {
+      "id": "legend",
+      "headword": "legend",
+      "level": "HIGH",
+      "isCore": false,
+      "pos_hint": [
+        "n"
+      ],
+      "forms": [
+        "legends"
+      ],
+      "cefr": "B2",
+      "freqRank": null,
+      "confusable_candidates": [
+        "defend",
+        "depend"
       ]
     }
   ]

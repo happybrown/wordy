@@ -7,28 +7,6 @@
   "count": 60,
   "entries": [
     {
-      "id": "observe",
-      "headword": "observe",
-      "level": "MID",
-      "isCore": false,
-      "pos_hint": [
-        "v"
-      ],
-      "forms": [
-        "observed",
-        "observes",
-        "observing"
-      ],
-      "cefr": "B1",
-      "freqRank": 1098,
-      "confusable_candidates": [
-        "conserve",
-        "deserve",
-        "observation",
-        "reserve"
-      ]
-    },
-    {
       "id": "progress",
       "headword": "progress",
       "level": "MID",
@@ -181,7 +159,6 @@
         "v"
       ],
       "forms": [
-        "transfering",
         "transferred",
         "transferring",
         "transfers"
@@ -418,8 +395,6 @@
       "forms": [
         "revealed",
         "revealing",
-        "revealled",
-        "revealling",
         "reveals"
       ],
       "cefr": "A2",
@@ -463,7 +438,6 @@
       "cefr": "B1",
       "freqRank": 1127,
       "confusable_candidates": [
-        "stairs",
         "state",
         "statue",
         "statute"
@@ -569,7 +543,6 @@
       "forms": [
         "warned",
         "warning",
-        "warnings",
         "warns"
       ],
       "cefr": "B1",
@@ -1125,7 +1098,6 @@
       "forms": [
         "surrounded",
         "surrounding",
-        "surroundings",
         "surrounds"
       ],
       "cefr": "B1",
@@ -1236,6 +1208,26 @@
         "boil",
         "bold",
         "bowl"
+      ]
+    },
+    {
+      "id": "reality",
+      "headword": "reality",
+      "level": "MID",
+      "isCore": false,
+      "pos_hint": [
+        "n"
+      ],
+      "forms": [
+        "realities"
+      ],
+      "cefr": "B1",
+      "freqRank": 1181,
+      "confusable_candidates": [
+        "quality",
+        "realistic",
+        "realize",
+        "really"
       ]
     }
   ]

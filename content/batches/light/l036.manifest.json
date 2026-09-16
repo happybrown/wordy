@@ -7,28 +7,6 @@
   "count": 60,
   "entries": [
     {
-      "id": "convention",
-      "headword": "convention",
-      "level": "HIGH",
-      "isCore": false,
-      "pos_hint": [
-        "n"
-      ],
-      "forms": [
-        "conventions"
-      ],
-      "cefr": "B2",
-      "freqRank": 1957,
-      "confusable_candidates": [
-        "connection",
-        "convenient",
-        "conventional",
-        "conversation",
-        "conversion",
-        "convert"
-      ]
-    },
-    {
       "id": "retain",
       "headword": "retain",
       "level": "HIGH",
@@ -533,9 +511,7 @@
       "pos_hint": [
         "n"
       ],
-      "forms": [
-        "recognitions"
-      ],
+      "forms": [],
       "cefr": "B2",
       "freqRank": 2013,
       "confusable_candidates": [
@@ -568,9 +544,7 @@
       "pos_hint": [
         "n"
       ],
-      "forms": [
-        "assistances"
-      ],
+      "forms": [],
       "cefr": "B1",
       "freqRank": 2015,
       "confusable_candidates": [
@@ -725,9 +699,7 @@
       "pos_hint": [
         "n"
       ],
-      "forms": [
-        "entertainments"
-      ],
+      "forms": [],
       "cefr": "A2",
       "freqRank": 2034,
       "confusable_candidates": [
@@ -747,7 +719,6 @@
         "undertaken",
         "undertakes",
         "undertaking",
-        "undertakings",
         "undertook"
       ],
       "cefr": "B2",
@@ -768,9 +739,7 @@
       "pos_hint": [
         "n"
       ],
-      "forms": [
-        "retails"
-      ],
+      "forms": [],
       "cefr": "B1",
       "freqRank": 2037,
       "confusable_candidates": [
@@ -790,10 +759,7 @@
       "pos_hint": [
         "adj"
       ],
-      "forms": [
-        "unlikelier",
-        "unlikeliest"
-      ],
+      "forms": [],
       "cefr": "B1",
       "freqRank": 2039,
       "confusable_candidates": [
@@ -808,10 +774,7 @@
       "pos_hint": [
         "adj"
       ],
-      "forms": [
-        "gayer",
-        "gayest"
-      ],
+      "forms": [],
       "cefr": "B1",
       "freqRank": 2040,
       "confusable_candidates": []
@@ -1127,6 +1090,27 @@
         "assume",
         "ensure",
         "insure"
+      ]
+    },
+    {
+      "id": "profile",
+      "headword": "profile",
+      "level": "HIGH",
+      "isCore": false,
+      "pos_hint": [
+        "n"
+      ],
+      "forms": [
+        "profiles"
+      ],
+      "cefr": "B2",
+      "freqRank": 2065,
+      "confusable_candidates": [
+        "profit",
+        "profitability",
+        "profitable",
+        "promise",
+        "provide"
       ]
     }
   ]

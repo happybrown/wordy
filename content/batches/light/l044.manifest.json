@@ -7,26 +7,6 @@
   "count": 60,
   "entries": [
     {
-      "id": "aboard",
-      "headword": "aboard",
-      "level": "HIGH",
-      "isCore": false,
-      "pos_hint": [
-        "adv"
-      ],
-      "forms": [],
-      "cefr": "B1",
-      "freqRank": null,
-      "confusable_candidates": [
-        "abort",
-        "abroad",
-        "absurd",
-        "award",
-        "beard",
-        "board"
-      ]
-    },
-    {
       "id": "absent",
       "headword": "absent",
       "level": "HIGH",
@@ -143,9 +123,7 @@
       "pos_hint": [
         "adj"
       ],
-      "forms": [
-        "acutest"
-      ],
+      "forms": [],
       "cefr": "B2",
       "freqRank": null,
       "confusable_candidates": [
@@ -221,22 +199,6 @@
       "cefr": null,
       "freqRank": null,
       "confusable_candidates": []
-    },
-    {
-      "id": "advertize",
-      "headword": "advertize",
-      "level": "HIGH",
-      "isCore": false,
-      "pos_hint": [],
-      "forms": [
-        "advertise"
-      ],
-      "cefr": null,
-      "freqRank": null,
-      "confusable_candidates": [
-        "adverse",
-        "advertisement"
-      ]
     },
     {
       "id": "affection",
@@ -1016,9 +978,7 @@
       "pos_hint": [
         "n"
       ],
-      "forms": [
-        "biologies"
-      ],
+      "forms": [],
       "cefr": "B1",
       "freqRank": null,
       "confusable_candidates": [
@@ -1036,10 +996,7 @@
       "pos_hint": [
         "adj"
       ],
-      "forms": [
-        "bitterer",
-        "bitterest"
-      ],
+      "forms": [],
       "cefr": "B1",
       "freqRank": null,
       "confusable_candidates": [
@@ -1112,6 +1069,46 @@
         "blank",
         "blend",
         "blind"
+      ]
+    },
+    {
+      "id": "blonde",
+      "headword": "blonde",
+      "level": "HIGH",
+      "isCore": false,
+      "pos_hint": [
+        "adj"
+      ],
+      "forms": [],
+      "cefr": "A2",
+      "freqRank": null,
+      "confusable_candidates": [
+        "alone",
+        "blend",
+        "blind",
+        "blood",
+        "bloody",
+        "clone"
+      ]
+    },
+    {
+      "id": "bloom",
+      "headword": "bloom",
+      "level": "HIGH",
+      "isCore": false,
+      "pos_hint": [
+        "n"
+      ],
+      "forms": [],
+      "cefr": "A2",
+      "freqRank": null,
+      "confusable_candidates": [
+        "block",
+        "blog",
+        "blood",
+        "bloody",
+        "blow",
+        "book"
       ]
     }
   ]

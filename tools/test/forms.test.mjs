@@ -205,3 +205,14 @@ test('3음절 이상 형용사의 -er/-est 비교급을 거른다', () => {
   // 1음절 형용사의 비교급은 유지
   assert.deepEqual(cleanForms('deep', ['deeper', 'deepest'], ['adj']), ['deeper', 'deepest']);
 });
+
+test('구어 축약 표기를 거른다', () => {
+  // gonna/wanna 는 사전에 없어 학습 변화형이 아니다
+  assert.ok(!cleanForms('go', ['gonna', 'going', 'goes'], ['v']).includes('gonna'));
+  assert.ok(!cleanForms('want', ['wanna', 'wanted', 'wants'], ['v']).includes('wanna'));
+  // 단, 've / hadn 같은 축약 조각은 거르지 않는다. 검증기가
+  // "I've never been" 같은 예문을 인정하려면 forms 에 남아 있어야 한다.
+  assert.ok(cleanForms('have', ['ve', 'has', 'had'], ['v']).includes('ve'));
+  // won 은 win 의 과거형이라 살아야 한다
+  assert.ok(cleanForms('win', ['won', 'winning', 'wins'], ['v']).includes('won'));
+});

@@ -8,48 +8,6 @@
   "count": 60,
   "entries": [
     {
-      "id": "spark",
-      "headword": "spark",
-      "level": "HIGH",
-      "isCore": false,
-      "pos_hint": [
-        "n"
-      ],
-      "forms": [
-        "sparks"
-      ],
-      "cefr": "B2",
-      "freqRank": null,
-      "confusable_candidates": [
-        "apart",
-        "bark",
-        "dark",
-        "mark",
-        "pack",
-        "park"
-      ]
-    },
-    {
-      "id": "spoil",
-      "headword": "spoil",
-      "level": "HIGH",
-      "isCore": false,
-      "pos_hint": [
-        "v"
-      ],
-      "forms": [],
-      "cefr": "B1",
-      "freqRank": null,
-      "confusable_candidates": [
-        "april",
-        "boil",
-        "poll",
-        "pool",
-        "sail",
-        "soil"
-      ]
-    },
-    {
       "id": "squeeze",
       "headword": "squeeze",
       "level": "HIGH",
@@ -66,23 +24,6 @@
       "freqRank": null,
       "confusable_candidates": [
         "sneeze"
-      ]
-    },
-    {
-      "id": "stairs",
-      "headword": "stairs",
-      "level": "HIGH",
-      "isCore": false,
-      "pos_hint": [],
-      "forms": [],
-      "cefr": null,
-      "freqRank": null,
-      "confusable_candidates": [
-        "stain",
-        "stair",
-        "stare",
-        "start",
-        "status"
       ]
     },
     {
@@ -285,9 +226,7 @@
       "pos_hint": [
         "n"
       ],
-      "forms": [
-        "sympathies"
-      ],
+      "forms": [],
       "cefr": "B1",
       "freqRank": null,
       "confusable_candidates": []
@@ -396,7 +335,9 @@
       "pos_hint": [
         "n"
       ],
-      "forms": [],
+      "forms": [
+        "thieves"
+      ],
       "cefr": "A2",
       "freqRank": null,
       "confusable_candidates": [
@@ -864,9 +805,7 @@
       "pos_hint": [
         "n"
       ],
-      "forms": [
-        "wheats"
-      ],
+      "forms": [],
       "cefr": "B2",
       "freqRank": null,
       "confusable_candidates": [
@@ -1004,9 +943,7 @@
       "pos_hint": [
         "n"
       ],
-      "forms": [
-        "acceptances"
-      ],
+      "forms": [],
       "cefr": "B1",
       "freqRank": null,
       "confusable_candidates": [
@@ -1058,6 +995,51 @@
         "accumulating"
       ],
       "cefr": "B2",
+      "freqRank": null,
+      "confusable_candidates": []
+    },
+    {
+      "id": "accuracy",
+      "headword": "accuracy",
+      "level": "ADV",
+      "isCore": false,
+      "pos_hint": [
+        "n"
+      ],
+      "forms": [
+        "accuracies"
+      ],
+      "cefr": "B1",
+      "freqRank": null,
+      "confusable_candidates": [
+        "accurate",
+        "accurately"
+      ]
+    },
+    {
+      "id": "accurately",
+      "headword": "accurately",
+      "level": "ADV",
+      "isCore": false,
+      "pos_hint": [
+        "adv"
+      ],
+      "forms": [],
+      "cefr": "B1",
+      "freqRank": null,
+      "confusable_candidates": [
+        "accuracy",
+        "accurate"
+      ]
+    },
+    {
+      "id": "acquaint",
+      "headword": "acquaint",
+      "level": "ADV",
+      "isCore": false,
+      "pos_hint": [],
+      "forms": [],
+      "cefr": null,
       "freqRank": null,
       "confusable_candidates": []
     }

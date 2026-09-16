@@ -7,46 +7,6 @@
   "count": 60,
   "entries": [
     {
-      "id": "dive",
-      "headword": "dive",
-      "level": "HIGH",
-      "isCore": false,
-      "pos_hint": [
-        "n",
-        "v"
-      ],
-      "forms": [],
-      "cefr": "B1",
-      "freqRank": null,
-      "confusable_candidates": [
-        "alive",
-        "bike",
-        "bite",
-        "cave",
-        "cite",
-        "dare"
-      ]
-    },
-    {
-      "id": "domain",
-      "headword": "domain",
-      "level": "HIGH",
-      "isCore": false,
-      "pos_hint": [
-        "n"
-      ],
-      "forms": [
-        "domains"
-      ],
-      "cefr": null,
-      "freqRank": null,
-      "confusable_candidates": [
-        "drain",
-        "remain",
-        "woman"
-      ]
-    },
-    {
       "id": "donate",
       "headword": "donate",
       "level": "HIGH",
@@ -629,9 +589,7 @@
       "pos_hint": [
         "n"
       ],
-      "forms": [
-        "fleshes"
-      ],
+      "forms": [],
       "cefr": "B2",
       "freqRank": null,
       "confusable_candidates": [
@@ -733,7 +691,6 @@
         "n"
       ],
       "forms": [
-        "fora",
         "forums"
       ],
       "cefr": null,
@@ -975,9 +932,7 @@
       "pos_hint": [
         "n"
       ],
-      "forms": [
-        "geographies"
-      ],
+      "forms": [],
       "cefr": "B1",
       "freqRank": null,
       "confusable_candidates": [
@@ -1060,6 +1015,39 @@
         "boot",
         "cat",
         "chat"
+      ]
+    },
+    {
+      "id": "gorgeous",
+      "headword": "gorgeous",
+      "level": "HIGH",
+      "isCore": false,
+      "pos_hint": [
+        "adj"
+      ],
+      "forms": [],
+      "cefr": "B1",
+      "freqRank": null,
+      "confusable_candidates": []
+    },
+    {
+      "id": "grace",
+      "headword": "grace",
+      "level": "HIGH",
+      "isCore": false,
+      "pos_hint": [
+        "n"
+      ],
+      "forms": [],
+      "cefr": "A2",
+      "freqRank": null,
+      "confusable_candidates": [
+        "brake",
+        "brave",
+        "crack",
+        "face",
+        "frame",
+        "game"
       ]
     }
   ]

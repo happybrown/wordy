@@ -7,23 +7,6 @@
   "count": 60,
   "entries": [
     {
-      "id": "demonstration",
-      "headword": "demonstration",
-      "level": "HIGH",
-      "isCore": false,
-      "pos_hint": [
-        "n"
-      ],
-      "forms": [
-        "demonstrations"
-      ],
-      "cefr": "B1",
-      "freqRank": 2169,
-      "confusable_candidates": [
-        "demonstrate"
-      ]
-    },
-    {
       "id": "analyst",
       "headword": "analyst",
       "level": "HIGH",
@@ -217,8 +200,6 @@
         "n"
       ],
       "forms": [
-        "eviler",
-        "evilest",
         "evils"
       ],
       "cefr": "B2",
@@ -315,7 +296,6 @@
         "v"
       ],
       "forms": [
-        "bade",
         "bidding",
         "bids"
       ],
@@ -511,9 +491,7 @@
       "pos_hint": [
         "n"
       ],
-      "forms": [
-        "alcohols"
-      ],
+      "forms": [],
       "cefr": "B1",
       "freqRank": 2214,
       "confusable_candidates": []
@@ -660,9 +638,7 @@
       "pos_hint": [
         "n"
       ],
-      "forms": [
-        "independences"
-      ],
+      "forms": [],
       "cefr": "A2",
       "freqRank": 2233,
       "confusable_candidates": [
@@ -868,9 +844,7 @@
       "pos_hint": [
         "n"
       ],
-      "forms": [
-        "efficiencies"
-      ],
+      "forms": [],
       "cefr": "B1",
       "freqRank": 2254,
       "confusable_candidates": [
@@ -1159,6 +1133,28 @@
         "leader",
         "reader",
         "seller"
+      ]
+    },
+    {
+      "id": "mate",
+      "headword": "mate",
+      "level": "HIGH",
+      "isCore": false,
+      "pos_hint": [
+        "n"
+      ],
+      "forms": [
+        "mates"
+      ],
+      "cefr": "B2",
+      "freqRank": 2288,
+      "confusable_candidates": [
+        "age",
+        "amaze",
+        "bake",
+        "bare",
+        "base",
+        "bat"
       ]
     }
   ]

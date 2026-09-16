@@ -7,61 +7,6 @@
   "count": 60,
   "entries": [
     {
-      "id": "heir",
-      "headword": "heir",
-      "level": "ADV",
-      "isCore": false,
-      "pos_hint": [],
-      "forms": [
-        "heirs"
-      ],
-      "cefr": null,
-      "freqRank": null,
-      "confusable_candidates": [
-        "air",
-        "bear",
-        "beer",
-        "chair",
-        "cheer",
-        "choir"
-      ]
-    },
-    {
-      "id": "heritage",
-      "headword": "heritage",
-      "level": "ADV",
-      "isCore": false,
-      "pos_hint": [
-        "n"
-      ],
-      "forms": [],
-      "cefr": "B2",
-      "freqRank": null,
-      "confusable_candidates": [
-        "hesitate"
-      ]
-    },
-    {
-      "id": "horn",
-      "headword": "horn",
-      "level": "ADV",
-      "isCore": false,
-      "pos_hint": [
-        "n"
-      ],
-      "forms": [],
-      "cefr": "B1",
-      "freqRank": null,
-      "confusable_candidates": [
-        "barn",
-        "bore",
-        "burn",
-        "coin",
-        "con",
-        "cord"
-      ]
-    },
-    {
       "id": "hostage",
       "headword": "hostage",
       "level": "ADV",
@@ -604,9 +549,7 @@
       "pos_hint": [
         "n"
       ],
-      "forms": [
-        "jazzes"
-      ],
+      "forms": [],
       "cefr": "B1",
       "freqRank": null,
       "confusable_candidates": [
@@ -844,9 +787,7 @@
       "level": "ADV",
       "isCore": false,
       "pos_hint": [],
-      "forms": [
-        "liquidities"
-      ],
+      "forms": [],
       "cefr": null,
       "freqRank": null,
       "confusable_candidates": [
@@ -1060,6 +1001,49 @@
         "bull",
         "call"
       ]
+    },
+    {
+      "id": "managerial",
+      "headword": "managerial",
+      "level": "ADV",
+      "isCore": false,
+      "pos_hint": [],
+      "forms": [],
+      "cefr": null,
+      "freqRank": null,
+      "confusable_candidates": [
+        "manage",
+        "management",
+        "manager"
+      ]
+    },
+    {
+      "id": "manifest",
+      "headword": "manifest",
+      "level": "ADV",
+      "isCore": false,
+      "pos_hint": [],
+      "forms": [],
+      "cefr": null,
+      "freqRank": null,
+      "confusable_candidates": []
+    },
+    {
+      "id": "manipulate",
+      "headword": "manipulate",
+      "level": "ADV",
+      "isCore": false,
+      "pos_hint": [
+        "v"
+      ],
+      "forms": [
+        "manipulated",
+        "manipulates",
+        "manipulating"
+      ],
+      "cefr": "B2",
+      "freqRank": null,
+      "confusable_candidates": []
     }
   ]
 }

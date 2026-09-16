@@ -7,22 +7,6 @@
   "count": 60,
   "entries": [
     {
-      "id": "corporate",
-      "headword": "corporate",
-      "level": "MID",
-      "isCore": false,
-      "pos_hint": [
-        "adj"
-      ],
-      "forms": [],
-      "cefr": "B2",
-      "freqRank": 1465,
-      "confusable_candidates": [
-        "cooperate",
-        "corporation"
-      ]
-    },
-    {
       "id": "fairly",
       "headword": "fairly",
       "level": "MID",
@@ -704,9 +688,7 @@
       "pos_hint": [
         "n"
       ],
-      "forms": [
-        "literatures"
-      ],
+      "forms": [],
       "cefr": "B1",
       "freqRank": 1519,
       "confusable_candidates": [
@@ -1227,6 +1209,26 @@
         "cell",
         "delay",
         "deny"
+      ]
+    },
+    {
+      "id": "narrow",
+      "headword": "narrow",
+      "level": "MID",
+      "isCore": false,
+      "pos_hint": [
+        "adj"
+      ],
+      "forms": [
+        "narrower",
+        "narrowest"
+      ],
+      "cefr": "B1",
+      "freqRank": 1585,
+      "confusable_candidates": [
+        "arrow",
+        "borrow",
+        "carrot"
       ]
     }
   ]

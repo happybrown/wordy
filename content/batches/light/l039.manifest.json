@@ -7,28 +7,6 @@
   "count": 60,
   "entries": [
     {
-      "id": "mate",
-      "headword": "mate",
-      "level": "HIGH",
-      "isCore": false,
-      "pos_hint": [
-        "n"
-      ],
-      "forms": [
-        "mates"
-      ],
-      "cefr": "B2",
-      "freqRank": 2288,
-      "confusable_candidates": [
-        "age",
-        "amaze",
-        "bake",
-        "bare",
-        "base",
-        "bat"
-      ]
-    },
-    {
       "id": "occasionally",
       "headword": "occasionally",
       "level": "HIGH",
@@ -85,9 +63,7 @@
       "pos_hint": [
         "n"
       ],
-      "forms": [
-        "resistances"
-      ],
+      "forms": [],
       "cefr": "B2",
       "freqRank": 2293,
       "confusable_candidates": [
@@ -162,9 +138,7 @@
       "pos_hint": [
         "n"
       ],
-      "forms": [
-        "approvals"
-      ],
+      "forms": [],
       "cefr": "B1",
       "freqRank": 2302,
       "confusable_candidates": [
@@ -202,9 +176,7 @@
       "pos_hint": [
         "n"
       ],
-      "forms": [
-        "involvements"
-      ],
+      "forms": [],
       "cefr": "B2",
       "freqRank": 2306,
       "confusable_candidates": [
@@ -217,9 +189,7 @@
       "level": "HIGH",
       "isCore": false,
       "pos_hint": [],
-      "forms": [
-        "exposures"
-      ],
+      "forms": [],
       "cefr": null,
       "freqRank": 2307,
       "confusable_candidates": [
@@ -727,9 +697,7 @@
       "pos_hint": [
         "n"
       ],
-      "forms": [
-        "significances"
-      ],
+      "forms": [],
       "cefr": "B1",
       "freqRank": 2351,
       "confusable_candidates": [
@@ -958,7 +926,6 @@
       "forms": [
         "prompted",
         "prompting",
-        "promptings",
         "prompts"
       ],
       "cefr": "B2",
@@ -1089,7 +1056,9 @@
         "n"
       ],
       "forms": [
-        "dialogs"
+        "dialogs",
+        "dialogue",
+        "dialogues"
       ],
       "cefr": "B1",
       "freqRank": 2387,
@@ -1132,6 +1101,23 @@
         "magic",
         "marine",
         "virgin"
+      ]
+    },
+    {
+      "id": "opponent",
+      "headword": "opponent",
+      "level": "HIGH",
+      "isCore": false,
+      "pos_hint": [
+        "n"
+      ],
+      "forms": [
+        "opponents"
+      ],
+      "cefr": "B2",
+      "freqRank": 2395,
+      "confusable_candidates": [
+        "component"
       ]
     }
   ]

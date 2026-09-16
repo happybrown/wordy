@@ -598,61 +598,6 @@
   ]
  },
  {
-  "id": "advertize",
-  "headword": "advertize",
-  "ipa": "/ˈædvərtaɪz/",
-  "level": "HIGH",
-  "isCore": false,
-  "topic": "work_business",
-  "forms": [
-   "advertise"
-  ],
-  "senses": [
-   {
-    "id": "advertize-1",
-    "pos": "v",
-    "ko": "광고하다, 알리다",
-    "en": "to tell the public about a product or job so they notice it",
-    "nuance": "미국·영국 모두 advertise 철자가 표준이고 advertize는 드물게만 보인다. 한국어 '광고'를 줄인 CM·PR 같은 표현은 영어로 통하지 않으니 advertise를 쓴다.",
-    "pattern": "advertise + 명사 / advertise for + 명사",
-    "examples": [
-     {
-      "en": "They advertise the job on three different websites every month.",
-      "ko": "그쪽은 매달 세 군데 사이트에 그 일자리를 광고해.",
-      "focus": "advertise the job"
-     },
-     {
-      "en": "The cafe doesn't advertise much, but it's always full.",
-      "ko": "그 카페는 광고를 별로 안 하는데도 늘 만석이야.",
-      "focus": "doesn't advertise much"
-     }
-    ],
-    "collocations": [
-     "advertise a job",
-     "advertise on TV"
-    ]
-   }
-  ],
-  "wordFamily": [
-   {
-    "form": "advertisement",
-    "pos": "n",
-    "ko": "광고"
-   },
-   {
-    "form": "advertising",
-    "pos": "n",
-    "ko": "광고업, 광고 활동"
-   }
-  ],
-  "confusables": [
-   {
-    "word": "announce",
-    "note": "announce는 소식을 공식적으로 '발표', advertise는 팔려고 '선전'하는 것이다."
-   }
-  ]
- },
- {
   "id": "affection",
   "headword": "affection",
   "ipa": "/əˈfekʃn/",

@@ -7,26 +7,6 @@
   "count": 60,
   "entries": [
     {
-      "id": "narrow",
-      "headword": "narrow",
-      "level": "MID",
-      "isCore": false,
-      "pos_hint": [
-        "adj"
-      ],
-      "forms": [
-        "narrower",
-        "narrowest"
-      ],
-      "cefr": "B1",
-      "freqRank": 1585,
-      "confusable_candidates": [
-        "arrow",
-        "borrow",
-        "carrot"
-      ]
-    },
-    {
       "id": "succeed",
       "headword": "succeed",
       "level": "MID",
@@ -1248,6 +1228,19 @@
       "forms": [],
       "cefr": "A2",
       "freqRank": 1729,
+      "confusable_candidates": []
+    },
+    {
+      "id": "via",
+      "headword": "via",
+      "level": "MID",
+      "isCore": false,
+      "pos_hint": [
+        "prep"
+      ],
+      "forms": [],
+      "cefr": "B1",
+      "freqRank": 1734,
       "confusable_candidates": []
     }
   ]

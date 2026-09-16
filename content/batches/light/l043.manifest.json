@@ -7,24 +7,6 @@
   "count": 60,
   "entries": [
     {
-      "id": "supplement",
-      "headword": "supplement",
-      "level": "HIGH",
-      "isCore": false,
-      "pos_hint": [
-        "n"
-      ],
-      "forms": [
-        "supplements"
-      ],
-      "cefr": "B2",
-      "freqRank": 2716,
-      "confusable_candidates": [
-        "supplier",
-        "supply"
-      ]
-    },
-    {
       "id": "adjustment",
       "headword": "adjustment",
       "level": "HIGH",
@@ -318,7 +300,6 @@
       "forms": [
         "stirred",
         "stirring",
-        "stirrings",
         "stirs"
       ],
       "cefr": "B1",
@@ -340,9 +321,7 @@
       "pos_hint": [
         "n"
       ],
-      "forms": [
-        "excitements"
-      ],
+      "forms": [],
       "cefr": "B1",
       "freqRank": 2741,
       "confusable_candidates": [
@@ -411,7 +390,6 @@
       "forms": [
         "wandered",
         "wandering",
-        "wanderings",
         "wanders"
       ],
       "cefr": "A2",
@@ -446,9 +424,7 @@
       "pos_hint": [
         "n"
       ],
-      "forms": [
-        "attendances"
-      ],
+      "forms": [],
       "cefr": "B2",
       "freqRank": 2751,
       "confusable_candidates": [
@@ -462,9 +438,7 @@
       "level": "HIGH",
       "isCore": false,
       "pos_hint": [],
-      "forms": [
-        "ownerships"
-      ],
+      "forms": [],
       "cefr": null,
       "freqRank": 2752,
       "confusable_candidates": []
@@ -823,9 +797,7 @@
       "pos_hint": [
         "n"
       ],
-      "forms": [
-        "immigrations"
-      ],
+      "forms": [],
       "cefr": "B1",
       "freqRank": 2786,
       "confusable_candidates": [
@@ -1009,9 +981,7 @@
       "pos_hint": [
         "n"
       ],
-      "forms": [
-        "hungers"
-      ],
+      "forms": [],
       "cefr": "B1",
       "freqRank": 2804,
       "confusable_candidates": [
@@ -1102,6 +1072,26 @@
         "big",
         "block",
         "blood"
+      ]
+    },
+    {
+      "id": "aboard",
+      "headword": "aboard",
+      "level": "HIGH",
+      "isCore": false,
+      "pos_hint": [
+        "adv"
+      ],
+      "forms": [],
+      "cefr": "B1",
+      "freqRank": null,
+      "confusable_candidates": [
+        "abort",
+        "abroad",
+        "absurd",
+        "award",
+        "beard",
+        "board"
       ]
     }
   ]

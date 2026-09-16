@@ -7,49 +7,6 @@
   "count": 60,
   "entries": [
     {
-      "id": "managerial",
-      "headword": "managerial",
-      "level": "ADV",
-      "isCore": false,
-      "pos_hint": [],
-      "forms": [],
-      "cefr": null,
-      "freqRank": null,
-      "confusable_candidates": [
-        "manage",
-        "management",
-        "manager"
-      ]
-    },
-    {
-      "id": "manifest",
-      "headword": "manifest",
-      "level": "ADV",
-      "isCore": false,
-      "pos_hint": [],
-      "forms": [],
-      "cefr": null,
-      "freqRank": null,
-      "confusable_candidates": []
-    },
-    {
-      "id": "manipulate",
-      "headword": "manipulate",
-      "level": "ADV",
-      "isCore": false,
-      "pos_hint": [
-        "v"
-      ],
-      "forms": [
-        "manipulated",
-        "manipulates",
-        "manipulating"
-      ],
-      "cefr": "B2",
-      "freqRank": null,
-      "confusable_candidates": []
-    },
-    {
       "id": "marble",
       "headword": "marble",
       "level": "ADV",
@@ -179,12 +136,7 @@
       "pos_hint": [
         "n"
       ],
-      "forms": [
-        "merchandises",
-        "merchandize",
-        "merchandized",
-        "merchandizes"
-      ],
+      "forms": [],
       "cefr": "B2",
       "freqRank": null,
       "confusable_candidates": [
@@ -202,8 +154,7 @@
       "forms": [
         "merged",
         "merges",
-        "merging",
-        "mergings"
+        "merging"
       ],
       "cefr": "B2",
       "freqRank": null,
@@ -809,8 +760,7 @@
       "forms": [
         "outsourced",
         "outsources",
-        "outsourcing",
-        "outsourcings"
+        "outsourcing"
       ],
       "cefr": null,
       "freqRank": null,
@@ -841,9 +791,7 @@
       "pos_hint": [
         "n"
       ],
-      "forms": [
-        "oxygens"
-      ],
+      "forms": [],
       "cefr": "B1",
       "freqRank": null,
       "confusable_candidates": []
@@ -1056,6 +1004,50 @@
         "base",
         "brave",
         "cafe"
+      ]
+    },
+    {
+      "id": "payable",
+      "headword": "payable",
+      "level": "ADV",
+      "isCore": false,
+      "pos_hint": [],
+      "forms": [
+        "payables"
+      ],
+      "cefr": null,
+      "freqRank": null,
+      "confusable_candidates": [
+        "capable",
+        "taxable"
+      ]
+    },
+    {
+      "id": "payoff",
+      "headword": "payoff",
+      "level": "ADV",
+      "isCore": false,
+      "pos_hint": [],
+      "forms": [
+        "payoffs"
+      ],
+      "cefr": null,
+      "freqRank": null,
+      "confusable_candidates": []
+    },
+    {
+      "id": "payroll",
+      "headword": "payroll",
+      "level": "ADV",
+      "isCore": false,
+      "pos_hint": [],
+      "forms": [
+        "payrolls"
+      ],
+      "cefr": null,
+      "freqRank": null,
+      "confusable_candidates": [
+        "patrol"
       ]
     }
   ]

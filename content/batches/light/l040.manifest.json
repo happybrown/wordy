@@ -7,23 +7,6 @@
   "count": 60,
   "entries": [
     {
-      "id": "opponent",
-      "headword": "opponent",
-      "level": "HIGH",
-      "isCore": false,
-      "pos_hint": [
-        "n"
-      ],
-      "forms": [
-        "opponents"
-      ],
-      "cefr": "B2",
-      "freqRank": 2395,
-      "confusable_candidates": [
-        "component"
-      ]
-    },
-    {
       "id": "capability",
       "headword": "capability",
       "level": "HIGH",
@@ -113,7 +96,6 @@
         "v"
       ],
       "forms": [
-        "ridded",
         "ridding",
         "rids"
       ],
@@ -209,9 +191,7 @@
       "pos_hint": [
         "n"
       ],
-      "forms": [
-        "survivals"
-      ],
+      "forms": [],
       "cefr": "B1",
       "freqRank": 2411,
       "confusable_candidates": [
@@ -555,8 +535,6 @@
       ],
       "forms": [
         "fulfil",
-        "fulfiled",
-        "fulfiling",
         "fulfilled",
         "fulfilling",
         "fulfills",
@@ -786,9 +764,7 @@
       "pos_hint": [
         "n"
       ],
-      "forms": [
-        "golfs"
-      ],
+      "forms": [],
       "cefr": "A2",
       "freqRank": 2478,
       "confusable_candidates": [
@@ -808,9 +784,7 @@
       "pos_hint": [
         "n"
       ],
-      "forms": [
-        "compensations"
-      ],
+      "forms": [],
       "cefr": "B2",
       "freqRank": 2479,
       "confusable_candidates": [
@@ -953,9 +927,7 @@
       "pos_hint": [
         "n"
       ],
-      "forms": [
-        "inflations"
-      ],
+      "forms": [],
       "cefr": "B2",
       "freqRank": 2494,
       "confusable_candidates": [
@@ -1021,9 +993,7 @@
       "pos_hint": [
         "n"
       ],
-      "forms": [
-        "imaginations"
-      ],
+      "forms": [],
       "cefr": "A2",
       "freqRank": 2502,
       "confusable_candidates": [
@@ -1089,6 +1059,22 @@
         "excess",
         "excited",
         "extend"
+      ]
+    },
+    {
+      "id": "expenditure",
+      "headword": "expenditure",
+      "level": "HIGH",
+      "isCore": false,
+      "pos_hint": [],
+      "forms": [
+        "expenditures"
+      ],
+      "cefr": null,
+      "freqRank": 2509,
+      "confusable_candidates": [
+        "expense",
+        "expensive"
       ]
     }
   ]

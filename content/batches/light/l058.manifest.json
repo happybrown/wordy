@@ -7,50 +7,6 @@
   "count": 60,
   "entries": [
     {
-      "id": "payable",
-      "headword": "payable",
-      "level": "ADV",
-      "isCore": false,
-      "pos_hint": [],
-      "forms": [
-        "payables"
-      ],
-      "cefr": null,
-      "freqRank": null,
-      "confusable_candidates": [
-        "capable",
-        "taxable"
-      ]
-    },
-    {
-      "id": "payoff",
-      "headword": "payoff",
-      "level": "ADV",
-      "isCore": false,
-      "pos_hint": [],
-      "forms": [
-        "payoffs"
-      ],
-      "cefr": null,
-      "freqRank": null,
-      "confusable_candidates": []
-    },
-    {
-      "id": "payroll",
-      "headword": "payroll",
-      "level": "ADV",
-      "isCore": false,
-      "pos_hint": [],
-      "forms": [
-        "payrolls"
-      ],
-      "cefr": null,
-      "freqRank": null,
-      "confusable_candidates": [
-        "patrol"
-      ]
-    },
-    {
       "id": "peasant",
       "headword": "peasant",
       "level": "ADV",
@@ -533,10 +489,7 @@
       "pos_hint": [
         "adj"
       ],
-      "forms": [
-        "profounder",
-        "profoundest"
-      ],
+      "forms": [],
       "cefr": null,
       "freqRank": null,
       "confusable_candidates": []
@@ -793,9 +746,7 @@
       "pos_hint": [
         "n"
       ],
-      "forms": [
-        "radiations"
-      ],
+      "forms": [],
       "cefr": "B1",
       "freqRank": null,
       "confusable_candidates": [
@@ -811,9 +762,7 @@
       "pos_hint": [
         "n"
       ],
-      "forms": [
-        "rages"
-      ],
+      "forms": [],
       "cefr": "B1",
       "freqRank": null,
       "confusable_candidates": [
@@ -848,9 +797,7 @@
       "pos_hint": [
         "n"
       ],
-      "forms": [
-        "rainfalls"
-      ],
+      "forms": [],
       "cefr": "B1",
       "freqRank": null,
       "confusable_candidates": []
@@ -1054,6 +1001,57 @@
         "regulate",
         "regulation",
         "regulator"
+      ]
+    },
+    {
+      "id": "reinforce",
+      "headword": "reinforce",
+      "level": "ADV",
+      "isCore": false,
+      "pos_hint": [
+        "v"
+      ],
+      "forms": [
+        "reinforced",
+        "reinforces",
+        "reinforcing"
+      ],
+      "cefr": "B2",
+      "freqRank": null,
+      "confusable_candidates": []
+    },
+    {
+      "id": "reluctant",
+      "headword": "reluctant",
+      "level": "ADV",
+      "isCore": false,
+      "pos_hint": [
+        "adj"
+      ],
+      "forms": [],
+      "cefr": "B2",
+      "freqRank": null,
+      "confusable_candidates": []
+    },
+    {
+      "id": "rental",
+      "headword": "rental",
+      "level": "ADV",
+      "isCore": false,
+      "pos_hint": [
+        "n"
+      ],
+      "forms": [
+        "rentals"
+      ],
+      "cefr": "B2",
+      "freqRank": null,
+      "confusable_candidates": [
+        "central",
+        "mental",
+        "metal",
+        "retail",
+        "reveal"
       ]
     }
   ]

@@ -7,22 +7,6 @@
   "count": 60,
   "entries": [
     {
-      "id": "expenditure",
-      "headword": "expenditure",
-      "level": "HIGH",
-      "isCore": false,
-      "pos_hint": [],
-      "forms": [
-        "expenditures"
-      ],
-      "cefr": null,
-      "freqRank": 2509,
-      "confusable_candidates": [
-        "expense",
-        "expensive"
-      ]
-    },
-    {
       "id": "reliable",
       "headword": "reliable",
       "level": "HIGH",
@@ -69,7 +53,6 @@
       "forms": [
         "clicked",
         "clicking",
-        "clickings",
         "clicks"
       ],
       "cefr": "A2",
@@ -211,9 +194,7 @@
       "pos_hint": [
         "n"
       ],
-      "forms": [
-        "participations"
-      ],
+      "forms": [],
       "cefr": "B2",
       "freqRank": 2528,
       "confusable_candidates": [
@@ -289,9 +270,7 @@
       "pos_hint": [
         "n"
       ],
-      "forms": [
-        "poetries"
-      ],
+      "forms": [],
       "cefr": "B1",
       "freqRank": 2533,
       "confusable_candidates": [
@@ -342,9 +321,7 @@
       "pos_hint": [
         "n"
       ],
-      "forms": [
-        "sakes"
-      ],
+      "forms": [],
       "cefr": "A2",
       "freqRank": 2537,
       "confusable_candidates": [
@@ -453,9 +430,7 @@
       "pos_hint": [
         "n"
       ],
-      "forms": [
-        "maintenances"
-      ],
+      "forms": [],
       "cefr": "B1",
       "freqRank": 2548,
       "confusable_candidates": [
@@ -601,9 +576,7 @@
       "level": "HIGH",
       "isCore": false,
       "pos_hint": [],
-      "forms": [
-        "diversities"
-      ],
+      "forms": [],
       "cefr": null,
       "freqRank": 2561,
       "confusable_candidates": [
@@ -680,9 +653,7 @@
         "adj",
         "n"
       ],
-      "forms": [
-        "concretes"
-      ],
+      "forms": [],
       "cefr": "B2",
       "freqRank": 2569,
       "confusable_candidates": []
@@ -766,9 +737,7 @@
       "pos_hint": [
         "n"
       ],
-      "forms": [
-        "stabilities"
-      ],
+      "forms": [],
       "cefr": "B2",
       "freqRank": 2576,
       "confusable_candidates": [
@@ -841,9 +810,7 @@
       "pos_hint": [
         "n"
       ],
-      "forms": [
-        "carbons"
-      ],
+      "forms": [],
       "cefr": "B2",
       "freqRank": 2583,
       "confusable_candidates": [
@@ -1111,6 +1078,28 @@
       "freqRank": 2607,
       "confusable_candidates": [
         "civilization"
+      ]
+    },
+    {
+      "id": "composition",
+      "headword": "composition",
+      "level": "HIGH",
+      "isCore": false,
+      "pos_hint": [
+        "n"
+      ],
+      "forms": [
+        "compositions"
+      ],
+      "cefr": "B1",
+      "freqRank": 2608,
+      "confusable_candidates": [
+        "competition",
+        "component",
+        "compose",
+        "composer",
+        "compound",
+        "opposition"
       ]
     }
   ]

@@ -7,21 +7,6 @@
   "count": 60,
   "entries": [
     {
-      "id": "existence",
-      "headword": "existence",
-      "level": "HIGH",
-      "isCore": false,
-      "pos_hint": [
-        "n"
-      ],
-      "forms": [
-        "existences"
-      ],
-      "cefr": "B1",
-      "freqRank": 1835,
-      "confusable_candidates": []
-    },
-    {
       "id": "panel",
       "headword": "panel",
       "level": "HIGH",
@@ -928,16 +913,13 @@
         "n"
       ],
       "forms": [
-        "advertisements",
-        "advertisment",
-        "advertisments"
+        "advertisements"
       ],
       "cefr": "A2",
       "freqRank": 1941,
       "confusable_candidates": [
         "adverse",
-        "advertise",
-        "advertize"
+        "advertise"
       ]
     },
     {
@@ -1093,6 +1075,28 @@
         "critic",
         "critical",
         "criticize"
+      ]
+    },
+    {
+      "id": "convention",
+      "headword": "convention",
+      "level": "HIGH",
+      "isCore": false,
+      "pos_hint": [
+        "n"
+      ],
+      "forms": [
+        "conventions"
+      ],
+      "cefr": "B2",
+      "freqRank": 1957,
+      "confusable_candidates": [
+        "connection",
+        "convenient",
+        "conventional",
+        "conversation",
+        "conversion",
+        "convert"
       ]
     }
   ]

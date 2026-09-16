@@ -7,46 +7,6 @@
   "count": 60,
   "entries": [
     {
-      "id": "blonde",
-      "headword": "blonde",
-      "level": "HIGH",
-      "isCore": false,
-      "pos_hint": [
-        "adj"
-      ],
-      "forms": [],
-      "cefr": "A2",
-      "freqRank": null,
-      "confusable_candidates": [
-        "alone",
-        "blend",
-        "blind",
-        "blood",
-        "bloody",
-        "clone"
-      ]
-    },
-    {
-      "id": "bloom",
-      "headword": "bloom",
-      "level": "HIGH",
-      "isCore": false,
-      "pos_hint": [
-        "n"
-      ],
-      "forms": [],
-      "cefr": "A2",
-      "freqRank": null,
-      "confusable_candidates": [
-        "block",
-        "blog",
-        "blood",
-        "bloody",
-        "blow",
-        "book"
-      ]
-    },
-    {
       "id": "blossom",
       "headword": "blossom",
       "level": "HIGH",
@@ -636,9 +596,7 @@
       "pos_hint": [
         "n"
       ],
-      "forms": [
-        "chemistries"
-      ],
+      "forms": [],
       "cefr": "B1",
       "freqRank": null,
       "confusable_candidates": [
@@ -842,9 +800,7 @@
       "pos_hint": [
         "n"
       ],
-      "forms": [
-        "clays"
-      ],
+      "forms": [],
       "cefr": null,
       "freqRank": null,
       "confusable_candidates": [
@@ -1138,6 +1094,49 @@
         "complete",
         "completely",
         "completion"
+      ]
+    },
+    {
+      "id": "conceal",
+      "headword": "conceal",
+      "level": "HIGH",
+      "isCore": false,
+      "pos_hint": [
+        "v"
+      ],
+      "forms": [
+        "concealed",
+        "concealing",
+        "conceals"
+      ],
+      "cefr": "B2",
+      "freqRank": null,
+      "confusable_candidates": [
+        "cancel",
+        "conceive",
+        "concentrate",
+        "concentration",
+        "concept",
+        "concern"
+      ]
+    },
+    {
+      "id": "confess",
+      "headword": "confess",
+      "level": "HIGH",
+      "isCore": false,
+      "pos_hint": [
+        "v"
+      ],
+      "forms": [],
+      "cefr": "B2",
+      "freqRank": null,
+      "confusable_candidates": [
+        "confer",
+        "conference",
+        "confuse",
+        "congress",
+        "contest"
       ]
     }
   ]

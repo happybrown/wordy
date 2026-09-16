@@ -7,23 +7,6 @@
   "count": 60,
   "entries": [
     {
-      "id": "persuade",
-      "headword": "persuade",
-      "level": "MID",
-      "isCore": false,
-      "pos_hint": [
-        "v"
-      ],
-      "forms": [
-        "persuaded",
-        "persuades",
-        "persuading"
-      ],
-      "cefr": "B1",
-      "freqRank": 2091,
-      "confusable_candidates": []
-    },
-    {
       "id": "inspire",
       "headword": "inspire",
       "level": "MID",
@@ -501,9 +484,7 @@
       "pos_hint": [
         "n"
       ],
-      "forms": [
-        "steels"
-      ],
+      "forms": [],
       "cefr": "B1",
       "freqRank": 2172,
       "confusable_candidates": [
@@ -1111,7 +1092,6 @@
         "v"
       ],
       "forms": [
-        "bended",
         "bending",
         "bends",
         "bent"
@@ -1208,6 +1188,30 @@
       "confusable_candidates": [
         "accuracy",
         "accurately"
+      ]
+    },
+    {
+      "id": "burden",
+      "headword": "burden",
+      "level": "MID",
+      "isCore": false,
+      "pos_hint": [
+        "n",
+        "v"
+      ],
+      "forms": [
+        "burdened",
+        "burdening",
+        "burdens"
+      ],
+      "cefr": "B1",
+      "freqRank": 2286,
+      "confusable_candidates": [
+        "border",
+        "burger",
+        "garden",
+        "murder",
+        "sudden"
       ]
     }
   ]

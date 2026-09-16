@@ -7,19 +7,6 @@
   "count": 60,
   "entries": [
     {
-      "id": "via",
-      "headword": "via",
-      "level": "MID",
-      "isCore": false,
-      "pos_hint": [
-        "prep"
-      ],
-      "forms": [],
-      "cefr": "B1",
-      "freqRank": 1734,
-      "confusable_candidates": []
-    },
-    {
       "id": "attach",
       "headword": "attach",
       "level": "MID",
@@ -490,8 +477,7 @@
       "forms": [
         "urged",
         "urges",
-        "urging",
-        "urgings"
+        "urging"
       ],
       "cefr": "B1",
       "freqRank": 1786,
@@ -1237,6 +1223,29 @@
         "desert",
         "detect",
         "repeat"
+      ]
+    },
+    {
+      "id": "proud",
+      "headword": "proud",
+      "level": "MID",
+      "isCore": false,
+      "pos_hint": [
+        "adj"
+      ],
+      "forms": [
+        "prouder",
+        "proudest"
+      ],
+      "cefr": "B1",
+      "freqRank": 1890,
+      "confusable_candidates": [
+        "aloud",
+        "around",
+        "broad",
+        "cloud",
+        "crowd",
+        "fraud"
       ]
     }
   ]
