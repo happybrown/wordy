@@ -434,7 +434,7 @@
      }
     ],
     "collocations": [
-     "What a pity!",
+     "such a pity",
      "It's a pity that"
     ]
    },
@@ -1462,6 +1462,1465 @@
    {
     "word": "democracy",
     "note": "republic은 왕이 없는 국가 형태, democracy는 국민이 결정권을 가진 제도를 뜻한다."
+   }
+  ]
+ },
+ {
+  "id": "resemble",
+  "headword": "resemble",
+  "ipa": "/rɪˈzembəl/",
+  "level": "HIGH",
+  "isCore": false,
+  "topic": "description_quality",
+  "forms": [
+   "resembled",
+   "resembles",
+   "resembling"
+  ],
+  "senses": [
+   {
+    "id": "resemble-1",
+    "pos": "v",
+    "ko": "닮다, 비슷하다",
+    "en": "to look or be similar to another person or thing",
+    "nuance": "전치사를 붙이지 않고 resemble her처럼 바로 목적어를 쓴다. resemble with나 resemble to는 틀린 표현이고, 진행형으로도 잘 쓰지 않는다.",
+    "pattern": "resemble + 명사 (전치사 없음)",
+    "examples": [
+     {
+      "en": "Jun really resembles his father around the eyes.",
+      "ko": "준이는 눈매가 아버지를 정말 닮았어.",
+      "focus": "resembles his father"
+     },
+     {
+      "en": "This case closely resembles one we handled last spring.",
+      "ko": "이 건은 지난봄에 처리한 건과 아주 비슷해요.",
+      "focus": "closely resembles one we handled"
+     }
+    ],
+    "collocations": [
+     "closely resemble",
+     "resemble each other"
+    ]
+   }
+  ],
+  "wordFamily": [
+   {
+    "form": "resemblance",
+    "pos": "n",
+    "ko": "닮음, 유사점"
+   }
+  ],
+  "confusables": [
+   {
+    "word": "assemble",
+    "note": "assemble은 '조립하다·모이다', resemble은 '닮다'다. 앞 두 글자만 다르니 조심한다."
+   },
+   {
+    "word": "look like",
+    "note": "look like는 회화체, resemble은 글이나 격식 있는 말에서 쓰는 딱딱한 표현이다."
+   }
+  ]
+ },
+ {
+  "id": "revive",
+  "headword": "revive",
+  "ipa": "/rɪˈvaɪv/",
+  "level": "HIGH",
+  "isCore": false,
+  "topic": "work_business",
+  "forms": [
+   "revived",
+   "revives",
+   "reviving"
+  ],
+  "senses": [
+   {
+    "id": "revive-1",
+    "pos": "v",
+    "ko": "되살리다, 회복시키다",
+    "en": "to make something active, strong, or popular again",
+    "nuance": "한 번 죽거나 사라졌던 것을 다시 살린다는 뜻이라 처음 만드는 것에는 쓰지 않는다. 경제·전통·계획처럼 추상적인 대상에 특히 잘 붙는다.",
+    "pattern": "revive + 명사",
+    "examples": [
+     {
+      "en": "The new manager is trying to revive the old brand.",
+      "ko": "새 팀장이 옛 브랜드를 되살리려고 하고 있어요.",
+      "focus": "revive the old brand"
+     },
+     {
+      "en": "A strong coffee revived me before the afternoon meeting.",
+      "ko": "오후 회의 전에 진한 커피가 나를 되살려 놨어.",
+      "focus": "revived me"
+     }
+    ],
+    "collocations": [
+     "revive the economy",
+     "revive interest in"
+    ]
+   }
+  ],
+  "wordFamily": [
+   {
+    "form": "revival",
+    "pos": "n",
+    "ko": "부활, 재유행"
+   }
+  ],
+  "confusables": [
+   {
+    "word": "recover",
+    "note": "recover는 아픈 사람이 스스로 나아지는 것, revive는 밖에서 다시 살려 내는 것이다."
+   }
+  ]
+ },
+ {
+  "id": "rhythm",
+  "headword": "rhythm",
+  "ipa": "/ˈrɪðəm/",
+  "level": "HIGH",
+  "isCore": false,
+  "topic": "culture_arts",
+  "forms": [
+   "rhythms"
+  ],
+  "senses": [
+   {
+    "id": "rhythm-1",
+    "pos": "n",
+    "ko": "리듬, 박자",
+    "en": "a regular pattern of sounds, beats, or repeated events",
+    "nuance": "음악뿐 아니라 생활 패턴에도 써서 the rhythm of daily life라고 한다. 모음이 하나뿐이라 rhythem으로 잘못 쓰기 쉽고 th를 [ð]로 낸다.",
+    "pattern": "the rhythm of + 명사",
+    "examples": [
+     {
+      "en": "I can't dance because I have no sense of rhythm.",
+      "ko": "나는 박자 감각이 없어서 춤을 못 춰.",
+      "focus": "no sense of rhythm"
+     },
+     {
+      "en": "After a week I got used to the rhythm of the office.",
+      "ko": "일주일 지나니 사무실 리듬에 적응이 됐어요.",
+      "focus": "the rhythm of the office"
+     }
+    ],
+    "collocations": [
+     "a sense of rhythm",
+     "keep the rhythm"
+    ]
+   }
+  ],
+  "confusables": [
+   {
+    "word": "beat",
+    "note": "beat는 하나하나의 박, rhythm은 그 박들이 반복되며 만드는 전체 패턴이다."
+   }
+  ]
+ },
+ {
+  "id": "roast",
+  "headword": "roast",
+  "ipa": "/roʊst/",
+  "level": "HIGH",
+  "isCore": false,
+  "topic": "food_cooking",
+  "forms": [
+   "roasted",
+   "roasting",
+   "roasts"
+  ],
+  "senses": [
+   {
+    "id": "roast-1",
+    "pos": "v",
+    "ko": "굽다, 볶다",
+    "en": "to cook meat or vegetables in an oven with dry heat",
+    "nuance": "오븐이나 불에 통째로 익히는 것이라 프라이팬은 fry, 석쇠는 grill을 쓴다. 커피 원두를 볶는 것도 roast라고 한다.",
+    "pattern": "roast + 음식",
+    "examples": [
+     {
+      "en": "Let's roast some vegetables instead of frying them tonight.",
+      "ko": "오늘 저녁은 볶지 말고 채소를 오븐에 구워 먹자.",
+      "focus": "roast some vegetables"
+     },
+     {
+      "en": "They roast their own beans in the back of the shop.",
+      "ko": "저 가게는 매장 뒤에서 직접 원두를 볶아요.",
+      "focus": "roast their own beans"
+     }
+    ],
+    "collocations": [
+     "roast a chicken",
+     "roast coffee beans"
+    ]
+   },
+   {
+    "id": "roast-2",
+    "pos": "adj",
+    "ko": "구운",
+    "en": "cooked in an oven, used before a food word",
+    "nuance": "명사 앞에 붙을 때는 roasted가 아니라 roast beef, roast chicken처럼 원형을 쓰는 관용 표현이 있다. 채소에는 보통 roasted를 쓴다.",
+    "examples": [
+     {
+      "en": "We ordered roast beef and a bowl of soup.",
+      "ko": "우리는 로스트비프랑 수프 한 그릇을 시켰어.",
+      "focus": "ordered roast beef"
+     }
+    ]
+   }
+  ],
+  "confusables": [
+   {
+    "word": "bake",
+    "note": "bake는 빵·과자를 오븐에 굽는 것, roast는 고기·채소를 오븐이나 불에 굽는 것이다."
+   }
+  ]
+ },
+ {
+  "id": "rob",
+  "headword": "rob",
+  "ipa": "/rɑːb/",
+  "level": "HIGH",
+  "isCore": false,
+  "topic": "society_politics",
+  "forms": [
+   "robbed",
+   "robbing",
+   "robs"
+  ],
+  "senses": [
+   {
+    "id": "rob-1",
+    "pos": "v",
+    "ko": "털다, 강탈하다",
+    "en": "to take money or things from a person or place by force",
+    "nuance": "목적어가 '사람·장소'라는 점이 핵심이라 They robbed my bag은 틀리고 They robbed me가 맞다. 물건이 목적어면 steal을 쓴다.",
+    "pattern": "rob + 사람·장소 (+ of + 물건)",
+    "examples": [
+     {
+      "en": "Someone robbed the convenience store near the station last night.",
+      "ko": "어젯밤에 누가 역 근처 편의점을 털었대.",
+      "focus": "robbed the convenience store"
+     },
+     {
+      "en": "He was robbed on his way home from work.",
+      "ko": "그는 퇴근길에 강도를 당했어요.",
+      "focus": "was robbed on his way home"
+     }
+    ],
+    "collocations": [
+     "rob a bank",
+     "be robbed of"
+    ]
+   }
+  ],
+  "wordFamily": [
+   {
+    "form": "robbery",
+    "pos": "n",
+    "ko": "강도 사건"
+   },
+   {
+    "form": "robber",
+    "pos": "n",
+    "ko": "강도"
+   }
+  ],
+  "confusables": [
+   {
+    "word": "steal",
+    "note": "steal은 '물건'을 훔치고, rob은 '사람·장소'를 턴다. steal my wallet / rob me."
+   }
+  ]
+ },
+ {
+  "id": "rope",
+  "headword": "rope",
+  "ipa": "/roʊp/",
+  "level": "HIGH",
+  "isCore": false,
+  "topic": "home_daily",
+  "forms": [
+   "ropes"
+  ],
+  "senses": [
+   {
+    "id": "rope-1",
+    "pos": "n",
+    "ko": "밧줄, 로프",
+    "en": "very thick strong cord made by twisting threads together",
+    "nuance": "굵기 순서로 rope > string > thread라고 기억하면 좋다. 줄넘기는 a jump rope, 줄넘기를 하다는 jump rope라고 한다.",
+    "pattern": "tie / pull a rope",
+    "examples": [
+     {
+      "en": "Tie the boxes with a rope so they don't slide.",
+      "ko": "상자들 안 미끄러지게 밧줄로 묶어.",
+      "focus": "with a rope"
+     },
+     {
+      "en": "The climbers checked their ropes before starting the descent.",
+      "ko": "등반가들은 하산을 시작하기 전에 로프를 점검했어요.",
+      "focus": "checked their ropes"
+     }
+    ],
+    "collocations": [
+     "tie a rope",
+     "a jump rope"
+    ]
+   }
+  ],
+  "confusables": [
+   {
+    "word": "string",
+    "note": "string은 선물 포장용처럼 가는 끈, rope는 사람을 매달 수 있을 만큼 굵은 밧줄이다."
+   }
+  ]
+ },
+ {
+  "id": "rub",
+  "headword": "rub",
+  "ipa": "/rʌb/",
+  "level": "HIGH",
+  "isCore": false,
+  "topic": "movement_action",
+  "forms": [
+   "rubbed",
+   "rubbing",
+   "rubs"
+  ],
+  "senses": [
+   {
+    "id": "rub-1",
+    "pos": "v",
+    "ko": "문지르다, 비비다",
+    "en": "to move your hand or a cloth back and forth over a surface",
+    "nuance": "한 방향으로 쓰는 wipe와 달리 앞뒤로 반복해 문지르는 동작이다. b를 겹쳐 rubbed, rubbing으로 쓰는 것을 자주 빠뜨린다.",
+    "pattern": "rub + 신체 부위 / 표면",
+    "examples": [
+     {
+      "en": "Stop rubbing your eyes; you'll make them worse.",
+      "ko": "눈 그만 비벼, 더 심해져.",
+      "focus": "rubbing your eyes"
+     },
+     {
+      "en": "She rubbed some cream into her hands before bed.",
+      "ko": "그녀는 자기 전에 손에 크림을 문질러 발랐어.",
+      "focus": "rubbed some cream into her hands"
+     }
+    ],
+    "collocations": [
+     "rub your eyes",
+     "rub your hands together"
+    ]
+   }
+  ],
+  "confusables": [
+   {
+    "word": "wipe",
+    "note": "wipe는 닦아서 없애는 것, rub은 앞뒤로 문지르는 동작 자체에 초점이 있다."
+   }
+  ]
+ },
+ {
+  "id": "rubber",
+  "headword": "rubber",
+  "ipa": "/ˈrʌbər/",
+  "level": "HIGH",
+  "isCore": false,
+  "topic": "environment_science",
+  "forms": [],
+  "senses": [
+   {
+    "id": "rubber-1",
+    "pos": "n",
+    "ko": "고무",
+    "en": "a soft material that bends easily, used for tires and boots",
+    "nuance": "재료를 뜻할 때는 불가산이라 a rubber라고 하지 않고 made of rubber라고 한다. 한국에서 말하는 '고무장갑'은 rubber gloves다.",
+    "pattern": "made of rubber",
+    "examples": [
+     {
+      "en": "These boots are made of rubber, so your feet stay dry.",
+      "ko": "이 장화는 고무라서 발이 안 젖어.",
+      "focus": "made of rubber"
+     },
+     {
+      "en": "Wear rubber gloves when you use that cleaner.",
+      "ko": "그 세제 쓸 때는 고무장갑 끼세요.",
+      "focus": "Wear rubber gloves"
+     }
+    ],
+    "collocations": [
+     "rubber gloves",
+     "a rubber band"
+    ]
+   }
+  ],
+  "confusables": [
+   {
+    "word": "eraser",
+    "note": "미국식에서 지우개는 eraser다. 영국식에서만 rubber가 지우개를 뜻한다."
+   }
+  ]
+ },
+ {
+  "id": "sacred",
+  "headword": "sacred",
+  "ipa": "/ˈseɪkrɪd/",
+  "level": "HIGH",
+  "isCore": false,
+  "topic": "society_politics",
+  "forms": [],
+  "senses": [
+   {
+    "id": "sacred-1",
+    "pos": "adj",
+    "ko": "신성한, 소중한",
+    "en": "connected with religion, or treated with great respect",
+    "nuance": "종교적 대상뿐 아니라 '절대 건드리면 안 되는 것'에도 농담처럼 쓴다. -ed로 끝나지만 동사 과거형이 아니라 [세이크리드]로 두 음절을 다 읽는다.",
+    "pattern": "sacred + 명사",
+    "examples": [
+     {
+      "en": "This mountain is a sacred place for the local people.",
+      "ko": "이 산은 이 지역 사람들에게 신성한 곳이에요.",
+      "focus": "a sacred place"
+     },
+     {
+      "en": "Sunday mornings are sacred to me, so no meetings.",
+      "ko": "일요일 아침은 나한테 신성한 시간이라 회의는 안 돼.",
+      "focus": "are sacred to me"
+     }
+    ],
+    "collocations": [
+     "a sacred place",
+     "sacred to someone"
+    ]
+   }
+  ],
+  "confusables": [
+   {
+    "word": "secret",
+    "note": "sacred는 '신성한', secret은 '비밀의'다. 철자 순서가 c와 r만 뒤바뀐다."
+   }
+  ]
+ },
+ {
+  "id": "sacrifice",
+  "headword": "sacrifice",
+  "ipa": "/ˈsækrɪfaɪs/",
+  "level": "HIGH",
+  "isCore": false,
+  "topic": "emotions_personality",
+  "forms": [
+   "sacrificed",
+   "sacrifices",
+   "sacrificing"
+  ],
+  "senses": [
+   {
+    "id": "sacrifice-1",
+    "pos": "v",
+    "ko": "희생하다, 포기하다",
+    "en": "to give up something valuable to get something more important",
+    "nuance": "더 중요한 것을 위해 포기한다는 목적이 있어야 하고, 그냥 잃는 것은 lose다. 목적을 말할 때 sacrifice A for B 형태로 쓴다.",
+    "pattern": "sacrifice + 명사 + for + 명사",
+    "examples": [
+     {
+      "en": "She sacrificed her weekends to finish the certification course.",
+      "ko": "그분은 자격증 과정을 끝내려고 주말을 희생했어요.",
+      "focus": "sacrificed her weekends"
+     },
+     {
+      "en": "I'm not willing to sacrifice quality for speed.",
+      "ko": "속도 때문에 품질을 포기할 생각은 없어요.",
+      "focus": "sacrifice quality for speed"
+     }
+    ],
+    "collocations": [
+     "sacrifice time",
+     "make a sacrifice"
+    ]
+   },
+   {
+    "id": "sacrifice-2",
+    "pos": "n",
+    "ko": "희생",
+    "en": "the act of giving up something important for another purpose",
+    "nuance": "동사 do가 아니라 make와 붙어 make a sacrifice라고 한다. 부모의 헌신을 말할 때 자주 등장하는 단어다.",
+    "examples": [
+     {
+      "en": "My parents made huge sacrifices so I could study abroad.",
+      "ko": "부모님은 내가 유학할 수 있게 큰 희생을 하셨어.",
+      "focus": "made huge sacrifices"
+     }
+    ]
+   }
+  ],
+  "confusables": [
+   {
+    "word": "give up",
+    "note": "give up은 그냥 그만두는 것, sacrifice는 더 중요한 목적을 위해 포기하는 것이다."
+   }
+  ]
+ },
+ {
+  "id": "scandal",
+  "headword": "scandal",
+  "ipa": "/ˈskændəl/",
+  "level": "HIGH",
+  "isCore": false,
+  "topic": "society_politics",
+  "forms": [
+   "scandals"
+  ],
+  "senses": [
+   {
+    "id": "scandal-1",
+    "pos": "n",
+    "ko": "스캔들, 추문",
+    "en": "an event that shocks the public because it seems very wrong",
+    "nuance": "한국어 '스캔들'은 주로 연애 소문이지만 영어에서는 부정·비리 사건에 더 많이 쓴다. 강세는 첫 음절이라 [스캔들]로 뒤를 약하게 흘린다.",
+    "pattern": "a + 분야 + scandal",
+    "examples": [
+     {
+      "en": "The company never recovered from the accounting scandal.",
+      "ko": "그 회사는 회계 스캔들에서 끝내 회복하지 못했어요.",
+      "focus": "the accounting scandal"
+     },
+     {
+      "en": "Two more scandals broke before the election ended.",
+      "ko": "선거가 끝나기 전에 스캔들이 두 건 더 터졌어요.",
+      "focus": "Two more scandals broke"
+     }
+    ],
+    "collocations": [
+     "a corruption scandal",
+     "cause a scandal"
+    ]
+   }
+  ],
+  "confusables": [
+   {
+    "word": "rumor",
+    "note": "rumor는 사실인지 모르는 소문, scandal은 드러나서 공분을 산 실제 사건이다."
+   }
+  ]
+ },
+ {
+  "id": "scold",
+  "headword": "scold",
+  "ipa": "/skoʊld/",
+  "level": "HIGH",
+  "isCore": false,
+  "topic": "communication",
+  "forms": [
+   "scolded",
+   "scolding",
+   "scolds"
+  ],
+  "senses": [
+   {
+    "id": "scold-1",
+    "pos": "v",
+    "ko": "혼내다, 꾸짖다",
+    "en": "to speak angrily to someone because they did something wrong",
+    "nuance": "주로 어른이 아이를 나무랄 때 쓰고 어른끼리는 조금 딱딱하게 들린다. '혼났다'는 I was scolded보다 I got in trouble이 회화에서 더 흔하다.",
+    "pattern": "scold + 사람 + for + -ing",
+    "examples": [
+     {
+      "en": "The teacher scolded him for being late again.",
+      "ko": "선생님이 또 늦었다고 그를 혼냈어.",
+      "focus": "scolded him for being late"
+     },
+     {
+      "en": "Please don't scold her; it was really my mistake.",
+      "ko": "그 애 혼내지 마세요, 사실 제 실수였어요.",
+      "focus": "don't scold her"
+     }
+    ],
+    "collocations": [
+     "scold a child",
+     "get scolded for"
+    ]
+   }
+  ],
+  "confusables": [
+   {
+    "word": "blame",
+    "note": "blame은 '네 탓이다'라고 책임을 돌리는 것, scold는 화내며 말로 꾸짖는 것이다."
+   }
+  ]
+ },
+ {
+  "id": "scramble",
+  "headword": "scramble",
+  "ipa": "/ˈskræmbəl/",
+  "level": "HIGH",
+  "isCore": false,
+  "topic": "movement_action",
+  "forms": [
+   "scrambled",
+   "scrambles",
+   "scrambling"
+  ],
+  "senses": [
+   {
+    "id": "scramble-1",
+    "pos": "v",
+    "ko": "허둥지둥 움직이다",
+    "en": "to move or act quickly and in a messy, hurried way",
+    "nuance": "급하고 어수선한 느낌이 핵심이라 차분히 서두르는 hurry와 다르다. 손발을 써서 기어오를 때도 scramble up the hill이라고 쓴다.",
+    "pattern": "scramble to + 동사원형",
+    "examples": [
+     {
+      "en": "We scrambled to finish the report before the client arrived.",
+      "ko": "고객이 오기 전에 보고서를 끝내려고 허둥댔어요.",
+      "focus": "scrambled to finish the report"
+     },
+     {
+      "en": "Everyone scrambled for shelter when the rain started.",
+      "ko": "비가 오기 시작하자 다들 비 피할 데로 몰려갔어.",
+      "focus": "scrambled for shelter"
+     }
+    ],
+    "collocations": [
+     "scramble to finish",
+     "scrambled eggs"
+    ]
+   }
+  ],
+  "confusables": [
+   {
+    "word": "hurry",
+    "note": "hurry는 그냥 서두르는 것, scramble은 정신없이 뒤엉켜 서두르는 모습을 그린다."
+   }
+  ]
+ },
+ {
+  "id": "scratch",
+  "headword": "scratch",
+  "ipa": "/skrætʃ/",
+  "level": "HIGH",
+  "isCore": false,
+  "topic": "body_health",
+  "forms": [
+   "scratched",
+   "scratches",
+   "scratching"
+  ],
+  "senses": [
+   {
+    "id": "scratch-1",
+    "pos": "v",
+    "ko": "긁다",
+    "en": "to rub your skin with your nails, or to mark a surface",
+    "nuance": "가려워서 긁는 것과 표면에 흠집을 내는 것 둘 다에 쓴다. 부드럽게 문지르는 rub과 달리 손톱·날카로운 것이 닿는다는 점이 다르다.",
+    "pattern": "scratch + 신체 부위 / 표면",
+    "examples": [
+     {
+      "en": "Try not to scratch the bite or it'll get infected.",
+      "ko": "물린 데 긁지 마, 안 그러면 덧나.",
+      "focus": "scratch the bite"
+     },
+     {
+      "en": "I scratched my new phone on the first day.",
+      "ko": "새 폰을 산 첫날에 긁어 버렸어.",
+      "focus": "scratched my new phone"
+     }
+    ],
+    "collocations": [
+     "scratch your head",
+     "scratch the surface"
+    ]
+   },
+   {
+    "id": "scratch-2",
+    "pos": "n",
+    "ko": "긁힌 자국, 흠집",
+    "en": "a thin mark or small cut made by something sharp",
+    "nuance": "'처음부터'라는 from scratch도 통째로 외워 둘 만한 표현이다. 작은 상처는 a scratch, 깊게 베인 것은 a cut이다.",
+    "examples": [
+     {
+      "en": "There's a long scratch on the side of the car.",
+      "ko": "차 옆면에 긴 흠집이 나 있어.",
+      "focus": "a long scratch on the side"
+     }
+    ]
+   }
+  ],
+  "confusables": [
+   {
+    "word": "stretch",
+    "note": "stretch는 '늘이다·스트레칭하다', scratch는 '긁다'다. 모음 a와 e만 다르다."
+   }
+  ]
+ },
+ {
+  "id": "sensation",
+  "headword": "sensation",
+  "ipa": "/senˈseɪʃən/",
+  "level": "HIGH",
+  "isCore": false,
+  "topic": "body_health",
+  "forms": [
+   "sensations"
+  ],
+  "senses": [
+   {
+    "id": "sensation-1",
+    "pos": "n",
+    "ko": "감각, 느낌",
+    "en": "a physical feeling in your body, such as heat or pain",
+    "nuance": "몸으로 느끼는 감각이라 기분·감정은 feeling이나 emotion을 쓴다. 병원에서 a burning sensation처럼 증상을 설명할 때 특히 유용하다.",
+    "pattern": "a + 형용사 + sensation",
+    "examples": [
+     {
+      "en": "I feel a burning sensation in my throat when I swallow.",
+      "ko": "삼킬 때 목이 타는 듯한 느낌이 들어요.",
+      "focus": "a burning sensation in my throat"
+     },
+     {
+      "en": "He lost all sensation in his fingers from the cold.",
+      "ko": "추워서 손가락 감각이 완전히 사라졌어.",
+      "focus": "lost all sensation in his fingers"
+     }
+    ],
+    "collocations": [
+     "a burning sensation",
+     "lose sensation"
+    ]
+   },
+   {
+    "id": "sensation-2",
+    "pos": "n",
+    "ko": "큰 화제, 돌풍",
+    "en": "someone or something that causes great public excitement",
+    "nuance": "갑자기 폭발적인 인기를 끌 때 a global sensation처럼 쓴다. 이때는 반드시 a를 붙이고 cause a sensation이라는 형태도 흔하다.",
+    "examples": [
+     {
+      "en": "That small bakery became a sensation after one viral video.",
+      "ko": "그 작은 빵집은 영상 하나 뜨고 나서 화제가 됐어.",
+      "focus": "became a sensation"
+     }
+    ]
+   }
+  ],
+  "confusables": [
+   {
+    "word": "feeling",
+    "note": "feeling은 감정·기분까지 포괄하고, sensation은 몸이 느끼는 물리적 감각에 한정된다."
+   }
+  ]
+ },
+ {
+  "id": "sensible",
+  "headword": "sensible",
+  "ipa": "/ˈsensəbəl/",
+  "level": "HIGH",
+  "isCore": false,
+  "topic": "thinking_opinion",
+  "forms": [],
+  "senses": [
+   {
+    "id": "sensible-1",
+    "pos": "adj",
+    "ko": "분별 있는, 현명한",
+    "en": "showing good judgment and making practical choices",
+    "nuance": "sensitive(예민한)와 뜻이 정반대에 가까워 한국 학습자가 가장 많이 바꿔 쓰는 짝이다. 사람뿐 아니라 결정·선택에도 a sensible choice로 쓴다.",
+    "pattern": "It's sensible to + 동사원형",
+    "examples": [
+     {
+      "en": "Taking the early train was the sensible choice.",
+      "ko": "이른 기차를 탄 게 현명한 선택이었어.",
+      "focus": "the sensible choice"
+     },
+     {
+      "en": "It's sensible to book the hotel before prices go up.",
+      "ko": "값 오르기 전에 호텔을 예약하는 게 현명해요.",
+      "focus": "It's sensible to book the hotel"
+     }
+    ],
+    "collocations": [
+     "a sensible decision",
+     "be sensible about money"
+    ]
+   }
+  ],
+  "confusables": [
+   {
+    "word": "sensitive",
+    "note": "sensible은 '판단이 현명한', sensitive는 '작은 것에도 민감한'이다. 뜻이 전혀 다르다."
+   }
+  ]
+ },
+ {
+  "id": "sew",
+  "headword": "sew",
+  "ipa": "/soʊ/",
+  "level": "HIGH",
+  "isCore": false,
+  "topic": "home_daily",
+  "forms": [
+   "sewed",
+   "sewing",
+   "sewn",
+   "sews"
+  ],
+  "senses": [
+   {
+    "id": "sew-1",
+    "pos": "v",
+    "ko": "바느질하다, 꿰매다",
+    "en": "to join cloth together using a needle and thread",
+    "nuance": "철자는 few와 닮았지만 발음은 so와 똑같은 [soʊ]다. 과거분사가 sewn이라 The button was sewn on처럼 쓴다.",
+    "pattern": "sew + 명사 + on / together",
+    "examples": [
+     {
+      "en": "Could you sew this button back on for me?",
+      "ko": "이 단추 좀 다시 달아 줄 수 있어?",
+      "focus": "sew this button back on"
+     },
+     {
+      "en": "My grandmother sewed all our winter coats herself.",
+      "ko": "할머니가 우리 겨울 코트를 전부 직접 지으셨어.",
+      "focus": "sewed all our winter coats"
+     }
+    ],
+    "collocations": [
+     "sew a button on",
+     "sew by hand"
+    ]
+   }
+  ],
+  "confusables": [
+   {
+    "word": "sow",
+    "note": "sew는 '꿰매다', sow는 '씨를 뿌리다'다. 발음이 같아 문맥으로만 구분된다."
+   }
+  ]
+ },
+ {
+  "id": "shallow",
+  "headword": "shallow",
+  "ipa": "/ˈʃæloʊ/",
+  "level": "HIGH",
+  "isCore": false,
+  "topic": "description_quality",
+  "forms": [
+   "shallower",
+   "shallowest"
+  ],
+  "senses": [
+   {
+    "id": "shallow-1",
+    "pos": "adj",
+    "ko": "얕은",
+    "en": "not going down far from the top to the bottom",
+    "nuance": "물·그릇처럼 깊이가 낮은 것에 쓰고 low와 헷갈리기 쉬운데 low는 높이가 낮은 것이다. 비교급은 shallower로 more를 붙이지 않는다.",
+    "pattern": "shallow + 명사",
+    "examples": [
+     {
+      "en": "Stay in the shallow end until you can swim better.",
+      "ko": "수영이 좀 늘 때까지 얕은 쪽에 있어.",
+      "focus": "the shallow end"
+     },
+     {
+      "en": "This side of the river is shallower than it looks.",
+      "ko": "강 이쪽은 보기보다 얕아.",
+      "focus": "is shallower than it looks"
+     }
+    ],
+    "collocations": [
+     "shallow water",
+     "the shallow end"
+    ]
+   },
+   {
+    "id": "shallow-2",
+    "pos": "adj",
+    "ko": "피상적인, 깊이 없는",
+    "en": "not serious, and only interested in unimportant things",
+    "nuance": "사람이나 생각을 평가할 때 쓰면 꽤 무례하게 들리니 조심한다. 대화·분석이 깊이 없다고 할 때 a shallow analysis처럼 쓴다.",
+    "examples": [
+     {
+      "en": "The article was interesting but a bit shallow.",
+      "ko": "그 기사는 흥미롭긴 했는데 좀 얕았어.",
+      "focus": "a bit shallow"
+     }
+    ]
+   }
+  ],
+  "confusables": [
+   {
+    "word": "swallow",
+    "note": "swallow는 '삼키다'라는 동사, shallow는 '얕은'이라는 형용사다. 철자가 한 글자 차이다."
+   }
+  ]
+ },
+ {
+  "id": "shame",
+  "headword": "shame",
+  "ipa": "/ʃeɪm/",
+  "level": "HIGH",
+  "isCore": false,
+  "topic": "emotions_personality",
+  "forms": [],
+  "senses": [
+   {
+    "id": "shame-1",
+    "pos": "n",
+    "ko": "아쉬운 일, 유감",
+    "en": "a situation that makes you feel sorry or disappointed",
+    "nuance": "It's a shame은 '창피하다'가 아니라 '아쉽다'라는 뜻이라 한국 학습자가 가장 많이 오해한다. 이 뜻에서는 반드시 a를 붙인다.",
+    "pattern": "It's a shame (that) + 절",
+    "examples": [
+     {
+      "en": "It's a shame the exhibition closes this weekend.",
+      "ko": "전시가 이번 주말에 끝난다니 아쉽네요.",
+      "focus": "It's a shame the exhibition closes"
+     },
+     {
+      "en": "What a shame you missed the last train!",
+      "ko": "막차를 놓쳤다니 안됐다!",
+      "focus": "What a shame you missed"
+     }
+    ],
+    "collocations": [
+     "such a shame",
+     "It's a shame that"
+    ]
+   },
+   {
+    "id": "shame-2",
+    "pos": "n",
+    "ko": "수치심, 부끄러움",
+    "en": "the bad feeling you get after doing something wrong",
+    "nuance": "이 뜻일 때는 관사 없이 feel shame, in shame으로 쓴다. 실수로 민망한 정도는 shame이 아니라 embarrassment가 알맞다.",
+    "examples": [
+     {
+      "en": "He lowered his head in shame after admitting the mistake.",
+      "ko": "그는 실수를 인정한 뒤 부끄러워 고개를 숙였어요.",
+      "focus": "in shame"
+     }
+    ]
+   }
+  ],
+  "confusables": [
+   {
+    "word": "embarrassment",
+    "note": "embarrassment는 잠깐 민망한 것, shame은 잘못에 대한 무거운 수치심이다."
+   }
+  ]
+ },
+ {
+  "id": "shave",
+  "headword": "shave",
+  "ipa": "/ʃeɪv/",
+  "level": "HIGH",
+  "isCore": false,
+  "topic": "body_health",
+  "forms": [
+   "shaved",
+   "shaves",
+   "shaving"
+  ],
+  "senses": [
+   {
+    "id": "shave-1",
+    "pos": "v",
+    "ko": "면도하다, 밀다",
+    "en": "to cut hair off the skin using a blade",
+    "nuance": "얼굴을 면도할 때는 목적어 없이 I shave every morning이라고 해도 된다. 머리를 밀 때는 shave my head라고 하고 cut은 가위질을 뜻한다.",
+    "pattern": "shave + 신체 부위",
+    "examples": [
+     {
+      "en": "I shave every morning before I leave for work.",
+      "ko": "나는 출근 전에 매일 아침 면도해.",
+      "focus": "shave every morning"
+     },
+     {
+      "en": "He shaved his head before the marathon in Seoul.",
+      "ko": "그는 서울 마라톤 전에 머리를 밀었어.",
+      "focus": "shaved his head"
+     }
+    ],
+    "collocations": [
+     "shave your face",
+     "shaving cream"
+    ]
+   }
+  ],
+  "confusables": [
+   {
+    "word": "cut",
+    "note": "cut은 가위로 자르는 것, shave는 면도날로 피부에 붙여 밀어 내는 것이다."
+   }
+  ]
+ },
+ {
+  "id": "silk",
+  "headword": "silk",
+  "ipa": "/sɪlk/",
+  "level": "HIGH",
+  "isCore": false,
+  "topic": "description_quality",
+  "forms": [],
+  "senses": [
+   {
+    "id": "silk-1",
+    "pos": "n",
+    "ko": "비단, 실크",
+    "en": "a soft shiny cloth made from threads produced by insects",
+    "nuance": "재료라서 불가산이고 a silk가 아니라 made of silk, a silk scarf처럼 쓴다. 한국어 '실크'와 발음이 달라 [실크]에서 l을 흘리지 않고 또렷이 낸다.",
+    "pattern": "made of silk / a silk + 명사",
+    "examples": [
+     {
+      "en": "This scarf is real silk, so wash it carefully.",
+      "ko": "이 스카프는 진짜 실크라서 조심해서 빨아야 해.",
+      "focus": "real silk"
+     },
+     {
+      "en": "She wore a silk dress to the wedding in London.",
+      "ko": "그녀는 런던 결혼식에 실크 드레스를 입고 갔어.",
+      "focus": "a silk dress"
+     }
+    ],
+    "collocations": [
+     "made of silk",
+     "a silk scarf"
+    ]
+   }
+  ],
+  "confusables": [
+   {
+    "word": "silky",
+    "note": "silk는 재료를 뜻하는 명사, silky는 '실크처럼 부드러운'이라는 형용사다."
+   }
+  ]
+ },
+ {
+  "id": "sin",
+  "headword": "sin",
+  "ipa": "/sɪn/",
+  "level": "HIGH",
+  "isCore": false,
+  "topic": "society_politics",
+  "forms": [
+   "sins"
+  ],
+  "senses": [
+   {
+    "id": "sin-1",
+    "pos": "n",
+    "ko": "죄",
+    "en": "an action that breaks a religious or moral rule",
+    "nuance": "법을 어긴 범죄는 crime이고 sin은 종교·도덕상의 죄다. 가볍게 농담할 때 It's a sin to waste food처럼도 쓴다.",
+    "pattern": "commit a sin",
+    "examples": [
+     {
+      "en": "In that story, lying is treated as a serious sin.",
+      "ko": "그 이야기에서 거짓말은 큰 죄로 다뤄져.",
+      "focus": "a serious sin"
+     },
+     {
+      "en": "It's a sin to throw away food this good.",
+      "ko": "이렇게 맛있는 음식을 버리는 건 죄야.",
+      "focus": "It's a sin to throw away food"
+     }
+    ],
+    "collocations": [
+     "commit a sin",
+     "forgive someone's sins"
+    ]
+   }
+  ],
+  "confusables": [
+   {
+    "word": "crime",
+    "note": "crime은 법을 어긴 범죄로 경찰이 다루고, sin은 종교·양심의 죄다."
+   }
+  ]
+ },
+ {
+  "id": "skip",
+  "headword": "skip",
+  "ipa": "/skɪp/",
+  "level": "HIGH",
+  "isCore": false,
+  "topic": "home_daily",
+  "forms": [
+   "skipped",
+   "skipping",
+   "skips"
+  ],
+  "senses": [
+   {
+    "id": "skip-1",
+    "pos": "v",
+    "ko": "거르다, 건너뛰다",
+    "en": "to not do something that you usually do or should do",
+    "nuance": "식사·수업·순서를 빼먹을 때 두루 쓰는 회화 필수 동사다. p를 겹쳐 skipped, skipping으로 쓰는 걸 자주 빠뜨린다.",
+    "pattern": "skip + 명사 / -ing",
+    "examples": [
+     {
+      "en": "I skipped lunch because the meeting ran too long.",
+      "ko": "회의가 너무 길어져서 점심을 걸렀어.",
+      "focus": "skipped lunch"
+     },
+     {
+      "en": "Let's skip the introduction and go straight to the numbers.",
+      "ko": "서론은 건너뛰고 바로 수치로 갑시다.",
+      "focus": "skip the introduction"
+     }
+    ],
+    "collocations": [
+     "skip breakfast",
+     "skip a class"
+    ]
+   }
+  ],
+  "confusables": [
+   {
+    "word": "miss",
+    "note": "miss는 어쩔 수 없이 놓친 것, skip은 내가 일부러 건너뛴 것이다."
+   }
+  ]
+ },
+ {
+  "id": "slim",
+  "headword": "slim",
+  "ipa": "/slɪm/",
+  "level": "HIGH",
+  "isCore": false,
+  "topic": "description_quality",
+  "forms": [
+   "slimmer",
+   "slimmest"
+  ],
+  "senses": [
+   {
+    "id": "slim-1",
+    "pos": "adj",
+    "ko": "날씬한",
+    "en": "thin in an attractive and healthy way",
+    "nuance": "thin은 마른 것을 지적하는 느낌이 있지만 slim은 칭찬에 가깝다. 비교급은 m을 겹쳐 slimmer로 쓴다.",
+    "pattern": "slim + 명사",
+    "examples": [
+     {
+      "en": "He looks slimmer since he started cycling to work.",
+      "ko": "그는 자전거로 출퇴근하고 나서 더 날씬해 보여.",
+      "focus": "looks slimmer"
+     },
+     {
+      "en": "This laptop has a slim design that fits my bag.",
+      "ko": "이 노트북은 얇은 디자인이라 내 가방에 들어가.",
+      "focus": "a slim design"
+     }
+    ],
+    "collocations": [
+     "stay slim",
+     "a slim figure"
+    ]
+   },
+   {
+    "id": "slim-2",
+    "pos": "adj",
+    "ko": "희박한, 아주 적은",
+    "en": "very small in amount, so that success is unlikely",
+    "nuance": "가능성·기회에 붙여 a slim chance라고 쓰며 small chance보다 '거의 없다'는 느낌이 강하다. 사람에게 쓰는 '날씬한'과 혼동하지 않는다.",
+    "examples": [
+     {
+      "en": "There's only a slim chance the flight leaves on time.",
+      "ko": "비행기가 정시에 뜰 가능성은 아주 희박해.",
+      "focus": "a slim chance"
+     }
+    ]
+   }
+  ],
+  "confusables": [
+   {
+    "word": "thin",
+    "note": "thin은 말랐다는 중립적·부정적 뉘앙스, slim은 보기 좋게 날씬하다는 칭찬이다."
+   }
+  ]
+ },
+ {
+  "id": "smash",
+  "headword": "smash",
+  "ipa": "/smæʃ/",
+  "level": "HIGH",
+  "isCore": false,
+  "topic": "movement_action",
+  "forms": [
+   "smashed",
+   "smashes",
+   "smashing"
+  ],
+  "senses": [
+   {
+    "id": "smash-1",
+    "pos": "v",
+    "ko": "박살 내다, 부수다",
+    "en": "to break something into many pieces with great force",
+    "nuance": "break보다 훨씬 세고 소리까지 나는 파괴라 유리·접시에 잘 어울린다. 수동형 be smashed로 피해 상황을 설명하는 일이 많다.",
+    "pattern": "smash + 명사",
+    "examples": [
+     {
+      "en": "The storm smashed every window on that side.",
+      "ko": "폭풍이 그쪽 창문을 전부 박살 냈어요.",
+      "focus": "smashed every window"
+     },
+     {
+      "en": "I dropped the bowl and it smashed on the floor.",
+      "ko": "그릇을 떨어뜨렸더니 바닥에서 산산조각 났어.",
+      "focus": "it smashed on the floor"
+     }
+    ],
+    "collocations": [
+     "smash a window",
+     "smash into pieces"
+    ]
+   }
+  ],
+  "confusables": [
+   {
+    "word": "crash",
+    "note": "crash는 부딪히는 충돌 사건, smash는 부딪혀 산산조각 내는 동작에 초점이 있다."
+   }
+  ]
+ },
+ {
+  "id": "soak",
+  "headword": "soak",
+  "ipa": "/soʊk/",
+  "level": "HIGH",
+  "isCore": false,
+  "topic": "home_daily",
+  "forms": [
+   "soaked",
+   "soaking",
+   "soaks"
+  ],
+  "senses": [
+   {
+    "id": "soak-1",
+    "pos": "v",
+    "ko": "담그다, 불리다",
+    "en": "to leave something in water for a while, or to make it very wet",
+    "nuance": "빨래·콩을 물에 '담가 두는' 시간의 길이가 핵심이라 잠깐 적시는 wet과 다르다. 비 맞아 흠뻑 젖은 것은 be soaked라고 한다.",
+    "pattern": "soak + 명사 + in + 물",
+    "examples": [
+     {
+      "en": "Soak the beans in cold water overnight before cooking.",
+      "ko": "요리하기 전에 콩을 찬물에 밤새 불려 둬.",
+      "focus": "Soak the beans in cold water"
+     },
+     {
+      "en": "I got soaked walking home without an umbrella.",
+      "ko": "우산 없이 걸어오다가 흠뻑 젖었어.",
+      "focus": "got soaked walking home"
+     }
+    ],
+    "collocations": [
+     "soak in water",
+     "get soaked"
+    ]
+   }
+  ],
+  "confusables": [
+   {
+    "word": "wet",
+    "note": "wet은 표면이 젖은 상태, soak은 물속에 담가 속까지 스며들게 하는 동작이다."
+   }
+  ]
+ },
+ {
+  "id": "soap",
+  "headword": "soap",
+  "ipa": "/soʊp/",
+  "level": "HIGH",
+  "isCore": false,
+  "topic": "home_daily",
+  "forms": [],
+  "senses": [
+   {
+    "id": "soap-1",
+    "pos": "n",
+    "ko": "비누",
+    "en": "something you use with water to wash your body or clothes",
+    "nuance": "불가산이라 a soap라고 하지 않고 한 개를 셀 때는 a bar of soap라고 한다. 발음이 soup와 헷갈리기 쉬운데 soap는 [소웁]에 가깝다.",
+    "pattern": "a bar of soap",
+    "examples": [
+     {
+      "en": "Wash your hands with soap for twenty seconds.",
+      "ko": "비누로 20초 동안 손을 씻으세요.",
+      "focus": "with soap"
+     },
+     {
+      "en": "Could you buy another bar of soap on your way back?",
+      "ko": "돌아오는 길에 비누 하나만 더 사다 줄래?",
+      "focus": "another bar of soap"
+     }
+    ],
+    "collocations": [
+     "a bar of soap",
+     "wash with soap"
+    ]
+   }
+  ],
+  "confusables": [
+   {
+    "word": "shampoo",
+    "note": "soap는 몸·손을 씻는 비누, shampoo는 머리를 감는 것이다. 영어에서는 구분해 쓴다."
+   }
+  ]
+ },
+ {
+  "id": "sociology",
+  "headword": "sociology",
+  "ipa": "/ˌsoʊsiˈɑːlədʒi/",
+  "level": "HIGH",
+  "isCore": false,
+  "topic": "school_learning",
+  "forms": [],
+  "senses": [
+   {
+    "id": "sociology-1",
+    "pos": "n",
+    "ko": "사회학",
+    "en": "the study of how people live together in groups",
+    "nuance": "학문 이름이라 불가산이고 관사 없이 study sociology라고 쓴다. 사회 전반을 뜻하는 society와 달리 그것을 연구하는 학문이라는 점이 다르다.",
+    "pattern": "study / major in sociology",
+    "examples": [
+     {
+      "en": "Emma took a sociology course to understand social change.",
+      "ko": "엠마는 사회 변화를 이해하려고 사회학 수업을 들었어.",
+      "focus": "a sociology course"
+     },
+     {
+      "en": "Sociology looks at why groups behave the way they do.",
+      "ko": "사회학은 집단이 왜 그렇게 행동하는지를 봅니다.",
+      "focus": "Sociology looks at why groups behave"
+     }
+    ],
+    "collocations": [
+     "study sociology",
+     "a sociology professor"
+    ]
+   }
+  ],
+  "wordFamily": [
+   {
+    "form": "sociologist",
+    "pos": "n",
+    "ko": "사회학자"
+   },
+   {
+    "form": "social",
+    "pos": "adj",
+    "ko": "사회의, 사교의"
+   }
+  ],
+  "confusables": [
+   {
+    "word": "society",
+    "note": "society는 사회 그 자체, sociology는 그 사회를 연구하는 학문이다."
+   }
+  ]
+ },
+ {
+  "id": "solo",
+  "headword": "solo",
+  "ipa": "/ˈsoʊloʊ/",
+  "level": "HIGH",
+  "isCore": false,
+  "topic": "culture_arts",
+  "forms": [
+   "solos"
+  ],
+  "senses": [
+   {
+    "id": "solo-1",
+    "pos": "adj",
+    "ko": "혼자 하는, 단독의",
+    "en": "done by one person alone, without any help",
+    "nuance": "명사 앞에 붙여 a solo trip, a solo album처럼 쓴다. 한국에서 '솔로'는 애인이 없다는 뜻으로 쓰지만 영어 solo에는 그런 뜻이 없어 single이라고 해야 한다.",
+    "pattern": "a solo + 명사",
+    "examples": [
+     {
+      "en": "She took a solo trip to Jeju for five days.",
+      "ko": "그녀는 5일 동안 제주로 혼자 여행을 다녀왔어.",
+      "focus": "a solo trip"
+     },
+     {
+      "en": "His solo album came out three years after the group split.",
+      "ko": "그의 솔로 앨범은 그룹 해체 3년 뒤에 나왔어요.",
+      "focus": "His solo album"
+     }
+    ],
+    "collocations": [
+     "a solo trip",
+     "a solo performance"
+    ]
+   },
+   {
+    "id": "solo-2",
+    "pos": "n",
+    "ko": "독주, 독창",
+    "en": "a part of a song or piece played by just one performer",
+    "nuance": "공연에서 한 사람이 맡는 부분을 가리켜 play a solo, sing a solo라고 한다. 복수는 solos로 e를 넣지 않는다.",
+    "examples": [
+     {
+      "en": "Tom played a short guitar solo at the end.",
+      "ko": "톰이 마지막에 짧은 기타 솔로를 연주했어.",
+      "focus": "a short guitar solo"
+     }
+    ]
+   }
+  ],
+  "confusables": [
+   {
+    "word": "single",
+    "note": "애인이 없다는 뜻은 single이다. 영어 solo는 '혼자 하는'이라는 뜻뿐이다."
+   }
+  ]
+ },
+ {
+  "id": "sore",
+  "headword": "sore",
+  "ipa": "/sɔːr/",
+  "level": "HIGH",
+  "isCore": false,
+  "topic": "body_health",
+  "forms": [],
+  "senses": [
+   {
+    "id": "sore-1",
+    "pos": "adj",
+    "ko": "아픈, 쓰린",
+    "en": "painful, especially because of illness or too much exercise",
+    "nuance": "목감기·근육통처럼 은근히 욱신거리는 아픔에 쓴다. 한국 학습자가 '목이 아프다'를 My throat is sick이라고 하기 쉬운데 I have a sore throat가 맞다.",
+    "pattern": "a sore + 신체 부위",
+    "examples": [
+     {
+      "en": "I've had a sore throat since the weekend.",
+      "ko": "주말부터 목이 계속 아파.",
+      "focus": "a sore throat"
+     },
+     {
+      "en": "My legs are still sore from yesterday's hike.",
+      "ko": "어제 등산 때문에 다리가 아직도 욱신거려.",
+      "focus": "My legs are still sore"
+     }
+    ],
+    "collocations": [
+     "a sore throat",
+     "sore muscles"
+    ]
+   }
+  ],
+  "confusables": [
+   {
+    "word": "painful",
+    "note": "painful은 날카롭게 아픈 것 전반, sore는 근육통·인후통처럼 은근히 욱신거리는 아픔이다."
    }
   ]
  }

@@ -59,7 +59,7 @@ const NOT_A_FORM = new Set([
   'survivals', 'compensations', 'inflations', 'imaginations',
   'excitements', 'attendances', 'immigrations', 'hungers', 'thirsts',
   // 과목명은 복수를 만들지 않는다
-  'biologies', 'chemistries', 'physicses', 'geographies', 'historys',
+  'biologies', 'chemistries', 'physicses', 'geographies', 'historys', 'psychologies', 'economicses',
   'clays', 'muds', 'dusts', 'steels', 'cottons', 'dependences', 'courages', 'despairs',
   'fleshes', 'fora', 'fames', 'minimals', 
   // 스포츠 이름은 복수를 만들지 않는다
