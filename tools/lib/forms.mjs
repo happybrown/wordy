@@ -57,6 +57,7 @@ const NOT_A_FORM = new Set([
   'participations', 'poetries', 'sakes', 'maintenances', 'diversities', 'stabilities',
   'carbons', 'concretes', 'determinations', 'fictions', 'confusions', 'transportations', 'storages',
   'survivals', 'compensations', 'inflations', 'imaginations',
+  'excitements', 'attendances', 'immigrations', 'hungers', 'thirsts',
   // 스포츠 이름은 복수를 만들지 않는다
   'golfs', 'soccers', 'tenniss', 'chesses', 'boxings',
   // 편집 거리 1 이라 표기 변형으로 오인되는 철자 오류
