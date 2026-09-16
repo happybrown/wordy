@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!--
-  런처 아이콘 배경. Bloom 의 분홍 → 자주 → 보라 그라데이션을 대각선으로 깐다.
+  런처 아이콘 배경. 앱 히어로 카드와 같은 보라 그라데이션을 대각선으로 깐다.
   단색 배경보다 앱 목록에서 눈에 띄고, 앱 안의 히어로 카드와 같은 색이라
   아이콘과 첫 화면이 이어져 보인다.
 -->
@@ -15,9 +15,9 @@
                 android:startX="14" android:startY="8"
                 android:endX="94" android:endY="100"
                 android:type="linear">
-                <item android:offset="0" android:color="#FF6FA0" />
-                <item android:offset="0.55" android:color="#C0568E" />
-                <item android:offset="1" android:color="#7B4194" />
+                <item android:offset="0" android:color="#8B7CF6" />
+                <item android:offset="0.55" android:color="#6D5AE0" />
+                <item android:offset="1" android:color="#4B3CB8" />
             </gradient>
         </aapt:attr>
     </path>

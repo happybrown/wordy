@@ -1,16 +1,13 @@
 package dev.brown.wordy.ui.theme
 
-import androidx.compose.foundation.isSystemInDarkTheme
 import androidx.compose.foundation.shape.RoundedCornerShape
 import androidx.compose.material3.MaterialTheme
 import androidx.compose.material3.Shapes
 import androidx.compose.material3.darkColorScheme
 import androidx.compose.material3.lightColorScheme
 import androidx.compose.runtime.Composable
-import androidx.compose.runtime.ReadOnlyComposable
 import androidx.compose.ui.graphics.Brush
 import androidx.compose.ui.graphics.Color
-import androidx.compose.ui.graphics.luminance
 import androidx.compose.ui.unit.dp
 
 private val LightColors = lightColorScheme(
@@ -85,46 +82,38 @@ private val AppShapes = Shapes(
     extraLarge = RoundedCornerShape(32.dp),
 )
 
+/**
+ * 앱 테마.
+ *
+ * **시스템 다크 모드를 따라가지 않고 항상 밝은 화면으로 고정한다.**
+ * 밝고 흰 바탕이 이 앱이 목표한 인상이고, 다크로 뒤집으면 파스텔 타일과
+ * 그라데이션이 전부 탁해져 다른 앱처럼 보인다. 기기 설정이 다크여도
+ * 여기서는 라이트 팔레트만 쓴다.
+ *
+ * 다이나믹 컬러(기기 배경화면 색)도 쓰지 않는다. 기기마다 색이 달라지면
+ * "파랑 하나만 강조색" 이라는 규칙이 무너진다.
+ */
 @Composable
-fun WordyTheme(
-    darkTheme: Boolean = isSystemInDarkTheme(),
-    content: @Composable () -> Unit,
-) {
-    // 다이나믹 컬러를 쓰지 않는다. 기기 배경화면 색을 따라가면 앱마다 달라져
-    // 강조색 하나로 통일한다는 규칙이 무너진다.
+fun WordyTheme(content: @Composable () -> Unit) {
     MaterialTheme(
-        colorScheme = if (darkTheme) DarkColors else LightColors,
+        colorScheme = LightColors,
         shapes = AppShapes,
         typography = Typography,
         content = content,
     )
 }
 
-private val isDark: Boolean
-    @Composable @ReadOnlyComposable
-    get() = MaterialTheme.colorScheme.background.luminance() < 0.5f
+// 팔레트를 라이트로 고정했으므로 아래 접근자들은 항상 라이트 값을 준다.
+// DarkColors 와 *Dark 색 목록은 나중에 다크 테마를 되살릴 때를 위해 남겨 둔다.
+private const val isDark = false
 
-val masteryColors: List<Color>
-    @Composable @ReadOnlyComposable
-    get() = if (isDark) MasteryColorsDark else MasteryColors
+val masteryColors: List<Color> get() = MasteryColors
 
-val tileBackgrounds: List<Color>
-    @Composable @ReadOnlyComposable
-    get() = if (isDark) TileBackgroundsDark else TileBackgrounds
+val tileBackgrounds: List<Color> get() = TileBackgrounds
 
-val tileForegrounds: List<Color>
-    @Composable @ReadOnlyComposable
-    get() = if (isDark) TileForegroundsDark else TileForegrounds
+val tileForegrounds: List<Color> get() = TileForegrounds
 
 /** 히어로 카드 그라데이션. 화면당 한 곳에만 쓴다. */
-val heroGradient: Brush
-    @Composable @ReadOnlyComposable
-    get() = if (isDark) {
-        Brush.linearGradient(listOf(HeroStartDark, HeroEndDark))
-    } else {
-        Brush.linearGradient(listOf(HeroStart, HeroEnd))
-    }
+val heroGradient: Brush get() = Brush.linearGradient(listOf(HeroStart, HeroEnd))
 
-val onHeroGradient: Color
-    @Composable @ReadOnlyComposable
-    get() = Color.White
+val onHeroGradient: Color get() = Color.White
