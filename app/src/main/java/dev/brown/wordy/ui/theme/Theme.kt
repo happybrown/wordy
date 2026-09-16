@@ -16,16 +16,16 @@ import androidx.compose.ui.unit.dp
 private val LightColors = lightColorScheme(
     primary = BloomPrimary,
     onPrimary = Color.White,
-    primaryContainer = Color(0xFFFDE2EC),
-    onPrimaryContainer = Color(0xFF4A1733),
+    primaryContainer = Color(0xFFE4EAFF),
+    onPrimaryContainer = Color(0xFF16205C),
     secondary = BloomSecondary,
     onSecondary = Color.White,
-    secondaryContainer = Color(0xFFEDE2F7),
-    onSecondaryContainer = Color(0xFF32224A),
+    secondaryContainer = Color(0xFFEAE4FF),
+    onSecondaryContainer = Color(0xFF241B4D),
     tertiary = BloomTertiary,
     onTertiary = Color.White,
-    tertiaryContainer = Color(0xFFFFE3CC),
-    onTertiaryContainer = Color(0xFF4D2A0C),
+    tertiaryContainer = Color(0xFFFFE6D9),
+    onTertiaryContainer = Color(0xFF52210C),
     background = BloomBackground,
     onBackground = BloomOnSurface,
     surface = BloomSurface,
@@ -36,7 +36,7 @@ private val LightColors = lightColorScheme(
     surfaceVariant = BloomContainerHigh,
     onSurfaceVariant = BloomOnSurfaceVariant,
     outline = BloomOutline,
-    outlineVariant = Color(0xFFEEDFE5),
+    outlineVariant = Color(0xFFE7ECF7),
     error = Color(0xFFC0392B),
     onError = Color.White,
     errorContainer = Color(0xFFFFE0DC),
@@ -45,17 +45,17 @@ private val LightColors = lightColorScheme(
 
 private val DarkColors = darkColorScheme(
     primary = BloomPrimaryDark,
-    onPrimary = Color(0xFF4A1733),
-    primaryContainer = Color(0xFF522742),
-    onPrimaryContainer = Color(0xFFFFD9E6),
+    onPrimary = Color(0xFF16205C),
+    primaryContainer = Color(0xFF2B3778),
+    onPrimaryContainer = Color(0xFFDCE3FF),
     secondary = BloomSecondaryDark,
-    onSecondary = Color(0xFF32224A),
-    secondaryContainer = Color(0xFF453258),
-    onSecondaryContainer = Color(0xFFEADDF7),
+    onSecondary = Color(0xFF241B4D),
+    secondaryContainer = Color(0xFF3A3170),
+    onSecondaryContainer = Color(0xFFE4DEFF),
     tertiary = BloomTertiaryDark,
-    onTertiary = Color(0xFF4D2A0C),
-    tertiaryContainer = Color(0xFF5C3A1C),
-    onTertiaryContainer = Color(0xFFFFDDBF),
+    onTertiary = Color(0xFF52210C),
+    tertiaryContainer = Color(0xFF5E3520),
+    onTertiaryContainer = Color(0xFFFFDCC9),
     background = BloomBackgroundDark,
     onBackground = BloomOnSurfaceDark,
     surface = BloomSurfaceDark,
@@ -66,7 +66,7 @@ private val DarkColors = darkColorScheme(
     surfaceVariant = BloomContainerHighDark,
     onSurfaceVariant = BloomOnSurfaceVariantDark,
     outline = BloomOutlineDark,
-    outlineVariant = Color(0xFF3A2F37),
+    outlineVariant = Color(0xFF2E3348),
     error = Color(0xFFFF9C8F),
     onError = Color(0xFF5C1710),
     errorContainer = Color(0xFF6B2A22),
@@ -112,12 +112,22 @@ val masteryColors: List<Color>
 val bloomGradient: Brush
     @Composable @ReadOnlyComposable
     get() = if (MaterialTheme.colorScheme.background.luminance() < 0.5f) {
-        Brush.linearGradient(listOf(BloomPinkDark, BloomMidDark, BloomPurpleDark))
+        Brush.linearGradient(listOf(BloomBlueDark, BloomIndigoDark, BloomVioletDark))
     } else {
-        Brush.linearGradient(listOf(BloomPink, BloomMid, BloomPurple))
+        Brush.linearGradient(listOf(BloomBlue, BloomIndigo, BloomViolet))
     }
 
 /** 그라데이션 위에 얹는 글자색. 라이트와 다크 모두 흰색이 맞다. */
 val onBloomGradient: Color
     @Composable @ReadOnlyComposable
     get() = Color.White
+
+/** 현재 테마에 맞는 과목 타일 배경색. */
+val tileBackgrounds: List<Color>
+    @Composable @ReadOnlyComposable
+    get() = if (MaterialTheme.colorScheme.background.luminance() < 0.5f) TileBackgroundsDark else TileBackgrounds
+
+/** 현재 테마에 맞는 과목 타일 아이콘·글자색. */
+val tileForegrounds: List<Color>
+    @Composable @ReadOnlyComposable
+    get() = if (MaterialTheme.colorScheme.background.luminance() < 0.5f) TileForegroundsDark else TileForegrounds

@@ -2,8 +2,10 @@ package dev.brown.wordy.ui.home
 
 import androidx.compose.animation.core.animateFloatAsState
 import androidx.compose.animation.core.spring
+import androidx.compose.foundation.BorderStroke
 import androidx.compose.foundation.background
 import androidx.compose.foundation.layout.Arrangement
+import androidx.compose.foundation.layout.aspectRatio
 import androidx.compose.foundation.layout.Box
 import androidx.compose.foundation.layout.Column
 import androidx.compose.foundation.layout.Row
@@ -38,6 +40,8 @@ import dev.brown.wordy.ui.components.appViewModel
 import dev.brown.wordy.ui.theme.bloomGradient
 import dev.brown.wordy.ui.theme.masteryColors
 import dev.brown.wordy.ui.theme.onBloomGradient
+import dev.brown.wordy.ui.theme.tileBackgrounds
+import dev.brown.wordy.ui.theme.tileForegrounds
 
 @Composable
 fun HomeScreen(onStartSession: (extraNew: Int) -> Unit, onOpenCore: () -> Unit, onOpenLevel: (Level) -> Unit) {
@@ -83,26 +87,31 @@ fun HomeScreen(onStartSession: (extraNew: Int) -> Unit, onOpenCore: () -> Unit, 
             onClick = onOpenCore,
         )
 
-        VSpace(22)
-        Text("레벨별 진행", style = MaterialTheme.typography.titleMedium)
-        VSpace(10)
-        Surface(
-            Modifier.fillMaxWidth(),
-            shape = MaterialTheme.shapes.medium,
-            color = MaterialTheme.colorScheme.surfaceContainer,
-            shadowElevation = 1.dp,
-        ) {
-            Column(Modifier.padding(horizontal = 16.dp)) {
-                s.levels.forEachIndexed { i, lp ->
-                    LevelRow(
-                        name = lp.level.ko,
-                        isCurrent = lp.level == s.currentLevel,
-                        familiar = lp.familiar,
-                        total = lp.total,
-                        last = i == s.levels.lastIndex,
-                        onClick = { onOpenLevel(lp.level) },
-                    )
-                }
+        VSpace(24)
+        Row(Modifier.fillMaxWidth(), horizontalArrangement = Arrangement.SpaceBetween, verticalAlignment = Alignment.Bottom) {
+            Column {
+                Text("레벨", style = MaterialTheme.typography.titleMedium)
+                Text(
+                    "쉬운 단계부터 차례로",
+                    style = MaterialTheme.typography.bodySmall,
+                    color = MaterialTheme.colorScheme.onSurfaceVariant,
+                )
+            }
+        }
+        VSpace(12)
+        // 첨부 이미지의 과목 타일처럼 파스텔 사각형을 가로로 늘어놓는다.
+        // 레벨이 5개뿐이라 가로 스크롤 없이 한 줄에 들어간다.
+        Row(Modifier.fillMaxWidth(), horizontalArrangement = Arrangement.spacedBy(9.dp)) {
+            s.levels.forEachIndexed { i, lp ->
+                LevelTile(
+                    name = lp.level.shortKo,
+                    familiar = lp.familiar,
+                    total = lp.total,
+                    isCurrent = lp.level == s.currentLevel,
+                    index = i,
+                    modifier = Modifier.weight(1f),
+                    onClick = { onOpenLevel(lp.level) },
+                )
             }
         }
 
@@ -277,56 +286,83 @@ private fun CoreCard(total: Int, familiar: Int, met: Int, onClick: () -> Unit) {
     }
 }
 
+/**
+ * 레벨 타일. 파스텔 배경에 레벨 머리글자를 크게 둔 정사각형.
+ * 진행률은 아래 얇은 막대로만 보여 준다. 타일이 작아 숫자를 넣으면 빽빽해진다.
+ */
 @Composable
-private fun LevelRow(
+private fun LevelTile(
     name: String,
-    isCurrent: Boolean,
     familiar: Int,
     total: Int,
-    last: Boolean,
+    isCurrent: Boolean,
+    index: Int,
+    modifier: Modifier = Modifier,
     onClick: () -> Unit,
 ) {
-    Column(Modifier.fillMaxWidth()) {
+    val bg = tileBackgrounds[index % tileBackgrounds.size]
+    val fg = tileForegrounds[index % tileForegrounds.size]
+    Column(modifier, horizontalAlignment = Alignment.CenterHorizontally) {
         Surface(
             onClick = onClick,
-            color = Color.Transparent,
-            shape = MaterialTheme.shapes.extraSmall,
+            modifier = Modifier.fillMaxWidth().aspectRatio(1f),
+            shape = MaterialTheme.shapes.small,
+            color = bg,
+            border = if (isCurrent) BorderStroke(2.dp, fg) else null,
         ) {
-            Row(
-                Modifier.fillMaxWidth().padding(vertical = 13.dp),
-                verticalAlignment = Alignment.CenterVertically,
+            Column(
+                Modifier.padding(6.dp),
+                verticalArrangement = Arrangement.Center,
+                horizontalAlignment = Alignment.CenterHorizontally,
             ) {
-                Column(Modifier.weight(1f)) {
-                    Row(verticalAlignment = Alignment.CenterVertically, horizontalArrangement = Arrangement.spacedBy(7.dp)) {
-                        Text(name, style = MaterialTheme.typography.titleSmall)
-                        if (isCurrent) {
-                            Surface(shape = CircleShape, color = MaterialTheme.colorScheme.primaryContainer) {
-                                Text(
-                                    "학습 중",
-                                    Modifier.padding(horizontal = 8.dp, vertical = 2.dp),
-                                    style = MaterialTheme.typography.labelSmall,
-                                    color = MaterialTheme.colorScheme.onPrimaryContainer,
-                                )
-                            }
-                        }
+                // 타일 안에는 난이도를 나타내는 계단 막대를 그린다.
+                // 레벨 이름을 넣으면 바로 아래 라벨과 같은 글자가 두 번 나온다.
+                DifficultyGlyph(step = index, color = fg)
+                VSpace(6)
+                Box(
+                    Modifier
+                        .fillMaxWidth(0.62f)
+                        .height(4.dp)
+                        .clip(CircleShape)
+                        .background(fg.copy(alpha = 0.22f))
+                ) {
+                    val p = if (total == 0) 0f else familiar.toFloat() / total
+                    if (p > 0f) {
+                        Box(Modifier.fillMaxWidth(p).fillMaxHeight().clip(CircleShape).background(fg))
                     }
-                    VSpace(7)
-                    SoftBar(if (total == 0) 0f else familiar.toFloat() / total, MaterialTheme.colorScheme.primary, height = 5)
                 }
-                Spacer(Modifier.width(14.dp))
-                Text(
-                    "$familiar/$total",
-                    style = MaterialTheme.typography.labelMedium,
-                    color = MaterialTheme.colorScheme.onSurfaceVariant,
-                )
             }
         }
-        if (!last) {
+        VSpace(6)
+        Text(
+            name,
+            style = MaterialTheme.typography.labelSmall,
+            color = if (isCurrent) fg else MaterialTheme.colorScheme.onSurfaceVariant,
+            textAlign = TextAlign.Center,
+            maxLines = 1,
+        )
+    }
+}
+
+/**
+ * 난이도 글리프. 막대 4개 중 [step]+1 개를 채워 레벨이 올라갈수록 높아지는 계단을 만든다.
+ * 글자 대신 도형을 쓰면 타일이 작아도 답답하지 않고, 레벨 순서가 한눈에 읽힌다.
+ */
+@Composable
+private fun DifficultyGlyph(step: Int, color: Color) {
+    Row(
+        Modifier.height(20.dp),
+        horizontalArrangement = Arrangement.spacedBy(3.dp),
+        verticalAlignment = Alignment.Bottom,
+    ) {
+        repeat(5) { i ->
+            val on = i <= step
             Box(
                 Modifier
-                    .fillMaxWidth()
-                    .height(1.dp)
-                    .background(MaterialTheme.colorScheme.outlineVariant)
+                    .width(4.dp)
+                    .fillMaxHeight(0.32f + 0.17f * i)
+                    .clip(CircleShape)
+                    .background(if (on) color else color.copy(alpha = 0.22f))
             )
         }
     }

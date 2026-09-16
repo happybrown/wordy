@@ -3,67 +3,103 @@ package dev.brown.wordy.ui.theme
 import androidx.compose.ui.graphics.Color
 
 /*
- * Bloom 팔레트.
+ * Bloom Light 팔레트.
  *
- * 분홍에서 보라로 넘어가는 그라데이션이 이 디자인의 중심이다. 나머지 색은
- * 전부 그 뒤로 물러나야 하므로 채도를 낮추고 분홍기가 살짝 도는 중성색을 쓴다.
- * 순회색을 쓰면 그라데이션만 붕 떠 보인다.
+ * 바탕을 거의 흰색으로 비우고 색은 히어로 카드와 아이콘 타일에만 넣는다.
+ * 앞선 분홍 버전은 바탕까지 분홍기가 돌아 전체가 무거웠다. 여기서는
+ * 바탕이 비어 있어야 카드의 색이 살아난다.
  */
 
-// 그라데이션 3점. 위에서 아래로 분홍 → 자주 → 보라.
-val BloomPink = Color(0xFFF2789E)
-val BloomMid = Color(0xFFC0568E)
-val BloomPurple = Color(0xFF8C4A96)
+// 히어로 그라데이션. 파랑 → 보라. 분홍 계열보다 밝고 시원하다.
+val BloomBlue = Color(0xFF6C8BFF)
+val BloomIndigo = Color(0xFF7B6CF6)
+val BloomViolet = Color(0xFF9B6BE8)
 
-// 다크용 그라데이션. 같은 색을 어두운 바닥에 얹으면 눈이 아파서 명도를 내리고
-// 채도도 함께 낮춘다. 밤에 보는 화면이라는 점을 고려했다.
-val BloomPinkDark = Color(0xFFB8496B)
-val BloomMidDark = Color(0xFF8E3A66)
-val BloomPurpleDark = Color(0xFF63336B)
+// 다크용. 명도를 낮추되 색상은 유지해 같은 앱으로 읽히게 한다.
+val BloomBlueDark = Color(0xFF4257B8)
+val BloomIndigoDark = Color(0xFF4E43A8)
+val BloomVioletDark = Color(0xFF63459B)
 
-val BloomPrimary = Color(0xFFB5518A)
-val BloomPrimaryDark = Color(0xFFF7A8C8)
-val BloomSecondary = Color(0xFF7A5B9E)
-val BloomSecondaryDark = Color(0xFFCBB4E8)
-val BloomTertiary = Color(0xFFC77D4A)
-val BloomTertiaryDark = Color(0xFFFFB877)
+val BloomPrimary = Color(0xFF3D5AFE)
+val BloomPrimaryDark = Color(0xFFAEBDFF)
+val BloomSecondary = Color(0xFF7B6CF6)
+val BloomSecondaryDark = Color(0xFFCBC2FF)
+val BloomTertiary = Color(0xFFE8734A)
+val BloomTertiaryDark = Color(0xFFFFB292)
 
-// 라이트: 분홍기가 아주 옅게 도는 흰 바닥. 순백이면 카드가 안 떠 보인다.
-val BloomBackground = Color(0xFFFDF6F8)
+// 라이트: 거의 흰색. 카드가 흰색으로 떠 보이도록 바탕만 아주 살짝 푸르게 둔다.
+val BloomBackground = Color(0xFFF7F9FE)
 val BloomSurface = Color(0xFFFFFFFF)
 val BloomContainer = Color(0xFFFFFFFF)
-val BloomContainerHigh = Color(0xFFF9EDF2)
-val BloomOnSurface = Color(0xFF2E1F26)
-val BloomOnSurfaceVariant = Color(0xFF9B8189)
-val BloomOutline = Color(0xFFD9C4CD)
+val BloomContainerHigh = Color(0xFFEEF2FB)
+val BloomOnSurface = Color(0xFF1B1D28)
+val BloomOnSurfaceVariant = Color(0xFF8A90A6)
+val BloomOutline = Color(0xFFD5DBEA)
 
-// 다크: 검정 대신 자주기가 도는 먹색. 분홍 그라데이션과 같은 계열이라 겉돌지 않는다.
-val BloomBackgroundDark = Color(0xFF171216)
-val BloomSurfaceDark = Color(0xFF171216)
-val BloomContainerDark = Color(0xFF231C22)
-val BloomContainerHighDark = Color(0xFF2E252D)
-val BloomOnSurfaceDark = Color(0xFFF2E7EC)
-val BloomOnSurfaceVariantDark = Color(0xFFB09AA5)
-val BloomOutlineDark = Color(0xFF473A44)
+// 다크: 푸른기가 도는 먹색.
+val BloomBackgroundDark = Color(0xFF121420)
+val BloomSurfaceDark = Color(0xFF121420)
+val BloomContainerDark = Color(0xFF1C1F2E)
+val BloomContainerHighDark = Color(0xFF262A3B)
+val BloomOnSurfaceDark = Color(0xFFE9EBF4)
+val BloomOnSurfaceVariantDark = Color(0xFF9BA2B8)
+val BloomOutlineDark = Color(0xFF39405A)
 
 /**
- * 숙달 단계(0~4) 색상.
- * 분홍 팔레트 안에서 회색 → 분홍 → 초록으로 간다. 마지막 두 단계만 초록으로
- * 빼서 "다 익혔다" 는 신호가 그라데이션과 구분되게 했다.
+ * 과목 타일 색. 첨부 이미지의 파스텔 타일처럼 배경은 아주 옅게, 아이콘은 진하게.
+ * 레벨 5개와 Core 에 하나씩 배정한다.
  */
-val MasteryColors = listOf(
-    Color(0xFFD9D2D5), // 0 새 단어
-    Color(0xFFF2B8CE), // 1 만남
-    Color(0xFFE07BA6), // 2 학습 중
-    Color(0xFF6BBF8A), // 3 익숙
-    Color(0xFF3D9970), // 4 숙달
+val TileBackgrounds = listOf(
+    Color(0xFFE8EDFF), // 파랑
+    Color(0xFFFFE9EC), // 분홍
+    Color(0xFFFFF2DC), // 주황
+    Color(0xFFE4F7EC), // 초록
+    Color(0xFFF0E9FF), // 보라
+    Color(0xFFE2F5FA), // 하늘
+)
+val TileForegrounds = listOf(
+    Color(0xFF3D5AFE),
+    Color(0xFFE8567A),
+    Color(0xFFE0891F),
+    Color(0xFF2FA96B),
+    Color(0xFF7B4FD6),
+    Color(0xFF2596BE),
 )
 
-/** 다크 모드용 숙달 색. 어두운 바닥에서 라이트 색을 그대로 쓰면 탁해 보인다. */
+/** 다크용 타일. 옅은 파스텔을 그대로 쓰면 어두운 바닥에서 눈이 부시다. */
+val TileBackgroundsDark = listOf(
+    Color(0xFF232A45),
+    Color(0xFF3A2430),
+    Color(0xFF3A2E1C),
+    Color(0xFF1D3328),
+    Color(0xFF2C2440),
+    Color(0xFF1C2F38),
+)
+val TileForegroundsDark = listOf(
+    Color(0xFF9DB0FF),
+    Color(0xFFFF93AC),
+    Color(0xFFFFC069),
+    Color(0xFF6ED3A0),
+    Color(0xFFBC9BFF),
+    Color(0xFF74CDEA),
+)
+
+/**
+ * 숙달 단계(0~4) 색상. 회색 → 파랑 → 초록.
+ * 색과 함께 명도도 올라가 색각 이상에서도 단계가 구분된다.
+ */
+val MasteryColors = listOf(
+    Color(0xFFCED4E4),
+    Color(0xFFA9BCFF),
+    Color(0xFF6C8BFF),
+    Color(0xFF45C88A),
+    Color(0xFF229A66),
+)
+
 val MasteryColorsDark = listOf(
-    Color(0xFF5C4E56),
-    Color(0xFFB8788F),
-    Color(0xFFD97FA8),
-    Color(0xFF6FC796),
-    Color(0xFF8FDCB0),
+    Color(0xFF4A5170),
+    Color(0xFF7D8FE0),
+    Color(0xFF8AA3FF),
+    Color(0xFF5CCB96),
+    Color(0xFF84E0B4),
 )
