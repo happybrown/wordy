@@ -169,3 +169,14 @@ test('영국식 -ue 표기를 유지한다', () => {
   assert.ok(cleanForms('dialog', ['dialogue', 'dialogs'], ['n']).includes('dialogue'));
   assert.ok(cleanForms('catalog', ['catalogue', 'catalogs'], ['n']).includes('catalogue'));
 });
+
+test('스포츠 이름과 영국식 철자 오적용을 거른다', () => {
+  assert.deepEqual(cleanForms('golf', ['golfs'], ['n']), []);
+  // fulfil 의 영국식 과거형은 fulfilled 이지 fulfiled 가 아니다
+  assert.ok(!cleanForms('fulfill', ['fulfiled', 'fulfilled'], ['v']).includes('fulfiled'));
+  assert.ok(cleanForms('fulfill', ['fulfiled', 'fulfilled'], ['v']).includes('fulfilled'));
+  // rid 는 과거형도 rid
+  assert.ok(!cleanForms('rid', ['ridded', 'rids'], ['v']).includes('ridded'));
+  // 일반 명사 복수는 유지
+  assert.deepEqual(cleanForms('goal', ['goals'], ['n']), ['goals']);
+});
