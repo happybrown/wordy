@@ -14,6 +14,7 @@ import androidx.compose.material3.Card
 import androidx.compose.material3.CardDefaults
 import androidx.compose.material3.MaterialTheme
 import androidx.compose.material3.Slider
+import androidx.compose.material3.OutlinedButton
 import androidx.compose.material3.Switch
 import androidx.compose.material3.Text
 import androidx.compose.runtime.Composable
@@ -47,6 +48,16 @@ fun OnboardingScreen(onDone: () -> Unit) {
     var level by remember { mutableStateOf(Level.ELEM) }
     var goal by remember { mutableFloatStateOf(10f) }
     var core by remember { mutableStateOf(true) }
+    var showPlacement by remember { mutableStateOf(false) }
+    var placedBy by remember { mutableStateOf<String?>(null) }
+
+    if (showPlacement) {
+        PlacementScreen(onDone = { recommended ->
+            if (recommended != null) { level = recommended; placedBy = "진단 결과" }
+            showPlacement = false
+        })
+        return
+    }
 
     Column(Modifier.fillMaxSize().verticalScroll(rememberScrollState()).padding(24.dp)) {
         VSpace(24)
@@ -56,10 +67,18 @@ fun OnboardingScreen(onDone: () -> Unit) {
         Text("시작 레벨", style = MaterialTheme.typography.titleMedium, fontWeight = FontWeight.SemiBold)
         Text("언제든 설정에서 바꿀 수 있어요. 낮은 레벨부터 빠르게 훑는 것도 좋습니다.", style = MaterialTheme.typography.bodySmall, color = MaterialTheme.colorScheme.onSurfaceVariant)
         VSpace(8)
+        OutlinedButton(onClick = { showPlacement = true }, modifier = Modifier.fillMaxWidth()) {
+            Text(if (placedBy == null) "30문제로 내 레벨 진단하기" else "다시 진단하기")
+        }
+        placedBy?.let {
+            VSpace(4)
+            Text("$it: ${level.ko}", style = MaterialTheme.typography.bodySmall, color = MaterialTheme.colorScheme.primary)
+        }
+        VSpace(8)
         Level.entries.forEach { lvl ->
             val selected = lvl == level
             Card(
-                onClick = { level = lvl }, modifier = Modifier.fillMaxWidth().padding(vertical = 4.dp),
+                onClick = { level = lvl; placedBy = null }, modifier = Modifier.fillMaxWidth().padding(vertical = 4.dp),
                 colors = CardDefaults.cardColors(containerColor = if (selected) MaterialTheme.colorScheme.primaryContainer else MaterialTheme.colorScheme.surfaceContainer),
             ) {
                 Column(Modifier.padding(14.dp)) {
