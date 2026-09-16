@@ -530,6 +530,10 @@
       "ko": "호텔은 작았어. 그래도 방은 아주 깨끗했어.",
       "focus": "However, the room"
      }
+    ],
+    "collocations": [
+     "however, most people",
+     "however, the price"
     ]
    }
   ]
@@ -1152,7 +1156,9 @@
   "level": "ELEM",
   "isCore": false,
   "topic": "people_family",
-  "forms": [],
+  "forms": [
+   "people"
+  ],
   "senses": [
    {
     "id": "person-1",

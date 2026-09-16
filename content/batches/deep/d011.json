@@ -2588,8 +2588,7 @@
      }
     ],
     "collocations": [
-     "paint the wall",
-     "wet paint"
+     "paint the wall"
     ]
    },
    {
@@ -2633,26 +2632,10 @@
       "ko": "너 소매에 또 물감 묻었어, 가서 씻어.",
       "focus": "paint on your sleeve"
      }
-    ]
-   },
-   {
-    "id": "paint-4",
-    "pos": "n",
-    "ko": "그림, 회화 작품",
-    "en": "a picture that an artist made with colors",
-    "nuance": "painting은 완성된 작품 하나를 뜻해 셀 수 있다. drawing은 연필 그림, painting은 물감 그림이라는 차이가 있다.",
-    "pattern": "a painting of + 대상",
-    "examples": [
-     {
-      "en": "That painting of the river costs too much.",
-      "ko": "저 강 그림은 너무 비싸.",
-      "focus": "That painting of the river"
-     },
-     {
-      "en": "The museum has paintings from the 1800s.",
-      "ko": "그 미술관엔 1800년대 그림들이 있어.",
-      "focus": "paintings from the 1800s"
-     }
+    ],
+    "collocations": [
+     "a can of paint",
+     "wet paint"
     ]
    }
   ],
