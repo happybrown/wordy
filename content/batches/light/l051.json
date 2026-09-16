@@ -1427,5 +1427,1394 @@
     "note": "throw는 힘껏 멀리 던지는 것, toss는 가까이 툭 던지는 가벼운 동작이다."
    }
   ]
+ },
+ {
+  "id": "toxic",
+  "headword": "toxic",
+  "ipa": "/ˈtɑːksɪk/",
+  "level": "HIGH",
+  "isCore": false,
+  "topic": "environment_science",
+  "senses": [
+   {
+    "id": "toxic-1",
+    "pos": "adj",
+    "ko": "유독한, 독성의",
+    "en": "containing poison; able to harm health or the environment",
+    "nuance": "poisonous보다 화학·산업 문맥에서 자주 쓰여 기사나 보고서에 잘 나온다. 물질이 대상이라 '독이 있는 뱀'은 toxic이 아니라 venomous다.",
+    "pattern": "toxic + 명사",
+    "examples": [
+     {
+      "en": "The factory released toxic chemicals into the river.",
+      "ko": "그 공장이 유독 화학물질을 강에 흘려보냈어요.",
+      "focus": "toxic chemicals"
+     }
+    ],
+    "collocations": [
+     "toxic chemicals",
+     "toxic waste"
+    ]
+   },
+   {
+    "id": "toxic-2",
+    "pos": "adj",
+    "ko": "해로운, 유해한 (관계)",
+    "en": "very unpleasant and harmful to the people involved",
+    "nuance": "요즘 회화에서 사람·직장·관계에 대해 아주 흔하게 쓴다. 한국어 '독한 사람'과 달리 대상의 성격이 남을 망친다는 뜻이다.",
+    "examples": [
+     {
+      "en": "She left because the work environment had become toxic.",
+      "ko": "그분은 직장 분위기가 너무 유해해져서 그만뒀어요.",
+      "focus": "had become toxic"
+     }
+    ]
+   }
+  ],
+  "confusables": [
+   {
+    "word": "topic",
+    "note": "철자 순서만 다를 뿐 topic은 '주제', toxic은 '유독한'으로 완전히 다른 단어다."
+   }
+  ]
+ },
+ {
+  "id": "tragic",
+  "headword": "tragic",
+  "ipa": "/ˈtrædʒɪk/",
+  "level": "HIGH",
+  "isCore": false,
+  "topic": "emotions_personality",
+  "senses": [
+   {
+    "id": "tragic-1",
+    "pos": "adj",
+    "ko": "비극적인, 참혹한",
+    "en": "extremely sad, usually because someone died or suffered",
+    "nuance": "단순히 슬픈 sad와 달리 죽음·사고처럼 무거운 일에만 쓴다. 시험을 망친 정도에 tragic을 쓰면 과장으로 들린다.",
+    "pattern": "a tragic + 명사",
+    "examples": [
+     {
+      "en": "The news reported a tragic accident on the coastal road.",
+      "ko": "뉴스에서 해안도로의 비극적인 사고를 전했어요.",
+      "focus": "a tragic accident"
+     },
+     {
+      "en": "It's tragic that the old theater is closing down.",
+      "ko": "그 오래된 극장이 문을 닫는다니 참 안타까워요.",
+      "focus": "It's tragic that"
+     }
+    ],
+    "collocations": [
+     "a tragic accident",
+     "a tragic death"
+    ]
+   }
+  ],
+  "wordFamily": [
+   {
+    "form": "tragedy",
+    "pos": "n",
+    "ko": "비극, 참사"
+   }
+  ],
+  "confusables": [
+   {
+    "word": "sad",
+    "note": "sad는 가벼운 슬픔까지 다 쓰지만 tragic은 죽음·재난급의 일에만 쓴다."
+   }
+  ]
+ },
+ {
+  "id": "tray",
+  "headword": "tray",
+  "ipa": "/treɪ/",
+  "level": "HIGH",
+  "isCore": false,
+  "topic": "food_cooking",
+  "forms": [
+   "trays"
+  ],
+  "senses": [
+   {
+    "id": "tray-1",
+    "pos": "n",
+    "ko": "쟁반, 트레이",
+    "en": "a flat piece of plastic or metal for carrying food",
+    "nuance": "가산명사라 a tray로 세고, 위에 올려 둔 것은 on the tray처럼 on을 쓴다. 얼음 얼리는 틀도 an ice tray라고 한다.",
+    "pattern": "a tray of + 음식",
+    "examples": [
+     {
+      "en": "Please return your tray to the counter when you finish.",
+      "ko": "다 드시면 쟁반을 반납대에 갖다 놓아 주세요.",
+      "focus": "return your tray"
+     },
+     {
+      "en": "Emma carried a tray of coffee to the meeting room.",
+      "ko": "엠마가 커피가 담긴 쟁반을 회의실로 가져갔어요.",
+      "focus": "a tray of coffee"
+     }
+    ],
+    "collocations": [
+     "a tray of food",
+     "carry a tray"
+    ]
+   }
+  ],
+  "confusables": [
+   {
+    "word": "plate",
+    "note": "plate는 음식을 직접 담는 접시, tray는 그 접시들을 올려 나르는 판이다."
+   }
+  ]
+ },
+ {
+  "id": "treasure",
+  "headword": "treasure",
+  "ipa": "/ˈtreʒər/",
+  "level": "HIGH",
+  "isCore": false,
+  "topic": "abstract_general",
+  "forms": [
+   "treasured",
+   "treasures",
+   "treasuring"
+  ],
+  "senses": [
+   {
+    "id": "treasure-1",
+    "pos": "n",
+    "ko": "보물, 귀중품",
+    "en": "gold, jewels, or anything valued very highly",
+    "nuance": "보물 전체를 뭉뚱그릴 때는 불가산이라 buried treasure처럼 a를 붙이지 않는다. 사람에게 소중한 물건은 a family treasure처럼 셀 수 있다.",
+    "pattern": "buried treasure",
+    "examples": [
+     {
+      "en": "The divers found buried treasure near the old shipwreck.",
+      "ko": "잠수부들이 오래된 난파선 근처에서 묻힌 보물을 찾았어요.",
+      "focus": "found buried treasure"
+     },
+     {
+      "en": "That watch is a family treasure, so handle it carefully.",
+      "ko": "그 시계는 집안 보물이니까 조심해서 다뤄.",
+      "focus": "a family treasure"
+     }
+    ],
+    "collocations": [
+     "buried treasure",
+     "a treasure hunt"
+    ]
+   }
+  ],
+  "confusables": [
+   {
+    "word": "measure",
+    "note": "철자와 발음이 비슷하지만 measure는 '측정하다·조치', treasure는 '보물'이다."
+   }
+  ]
+ },
+ {
+  "id": "tribe",
+  "headword": "tribe",
+  "ipa": "/traɪb/",
+  "level": "HIGH",
+  "isCore": false,
+  "topic": "society_politics",
+  "forms": [
+   "tribes"
+  ],
+  "senses": [
+   {
+    "id": "tribe-1",
+    "pos": "n",
+    "ko": "부족, 종족",
+    "en": "a group of people of the same origin living together",
+    "nuance": "혈연·전통으로 묶인 집단이라 나라 단위인 nation과 다르다. 현대 사회 집단에 함부로 쓰면 무례하게 들릴 수 있어 역사·인류학 맥락에서 쓴다.",
+    "pattern": "a tribe of + 사람",
+    "examples": [
+     {
+      "en": "The museum explains how each tribe made its tools.",
+      "ko": "박물관에서 각 부족이 도구를 어떻게 만들었는지 설명해 줘요.",
+      "focus": "how each tribe made its tools"
+     },
+     {
+      "en": "Several tribes have lived in that valley for centuries.",
+      "ko": "여러 부족이 그 계곡에서 수백 년간 살아왔어요.",
+      "focus": "Several tribes have lived"
+     }
+    ],
+    "collocations": [
+     "a local tribe",
+     "tribes in the region"
+    ]
+   }
+  ],
+  "wordFamily": [
+   {
+    "form": "tribal",
+    "pos": "adj",
+    "ko": "부족의"
+   }
+  ],
+  "confusables": [
+   {
+    "word": "race",
+    "note": "race는 피부색 등 신체 특징으로 나눈 인종, tribe는 전통과 혈연으로 묶인 집단이다."
+   }
+  ]
+ },
+ {
+  "id": "triumph",
+  "headword": "triumph",
+  "ipa": "/ˈtraɪʌmf/",
+  "level": "HIGH",
+  "isCore": false,
+  "topic": "sports_leisure",
+  "forms": [
+   "triumphs"
+  ],
+  "senses": [
+   {
+    "id": "triumph-1",
+    "pos": "n",
+    "ko": "큰 승리, 대성공",
+    "en": "an important victory or success after a hard effort",
+    "nuance": "win보다 훨씬 무겁고 격식 있는 말이라 축구 한 경기보다 긴 고생 끝의 성과에 쓴다. 성공의 주체는 for를 붙여 a triumph for the team이라고 한다.",
+    "pattern": "a triumph for + 사람/집단",
+    "examples": [
+     {
+      "en": "Finishing the project on time was a real triumph.",
+      "ko": "프로젝트를 제때 끝낸 건 정말 큰 성과였어요.",
+      "focus": "a real triumph"
+     },
+     {
+      "en": "The show was a triumph for the young director.",
+      "ko": "그 공연은 젊은 연출가에게 대성공이었어요.",
+      "focus": "a triumph for the young director"
+     }
+    ],
+    "collocations": [
+     "a great triumph",
+     "a triumph for"
+    ]
+   }
+  ],
+  "confusables": [
+   {
+    "word": "victory",
+    "note": "victory는 경기·전투의 승리 전반, triumph는 어렵게 이룬 특별한 승리를 강조한다."
+   }
+  ]
+ },
+ {
+  "id": "trophy",
+  "headword": "trophy",
+  "ipa": "/ˈtroʊfi/",
+  "level": "HIGH",
+  "isCore": false,
+  "topic": "sports_leisure",
+  "forms": [
+   "trophies"
+  ],
+  "senses": [
+   {
+    "id": "trophy-1",
+    "pos": "n",
+    "ko": "우승컵, 트로피",
+    "en": "a cup or prize given to the winner of a contest",
+    "nuance": "복수형이 trophys가 아니라 trophies라는 점을 자주 틀린다. 상 자체를 말하는 prize와 달리 눈에 보이는 물건을 가리킨다.",
+    "pattern": "win a trophy",
+    "examples": [
+     {
+      "en": "Our team finally won the trophy after three years.",
+      "ko": "우리 팀이 삼 년 만에 드디어 우승컵을 들었어.",
+      "focus": "won the trophy"
+     },
+     {
+      "en": "His old trophies are still on the living room shelf.",
+      "ko": "그 사람 옛날 트로피들이 아직 거실 선반에 있어.",
+      "focus": "His old trophies"
+     }
+    ],
+    "collocations": [
+     "win a trophy",
+     "lift the trophy"
+    ]
+   }
+  ],
+  "confusables": [
+   {
+    "word": "prize",
+    "note": "prize는 상금·상품을 포함한 상 전체, trophy는 그중 컵 모양 기념품이다."
+   }
+  ]
+ },
+ {
+  "id": "trouser",
+  "headword": "trouser",
+  "ipa": "/ˈtraʊzər/",
+  "level": "HIGH",
+  "isCore": false,
+  "topic": "description_quality",
+  "forms": [
+   "trousers"
+  ],
+  "senses": [
+   {
+    "id": "trouser-1",
+    "pos": "n",
+    "ko": "바지",
+    "en": "a piece of clothing covering both legs from the waist",
+    "nuance": "항상 복수 trousers로 쓰고 a trouser라고 하지 않으며, 한 벌은 a pair of trousers다. 영국식이고 미국에서는 pants를 쓴다.",
+    "pattern": "a pair of trousers",
+    "examples": [
+     {
+      "en": "I need a new pair of trousers for the interview.",
+      "ko": "면접 보러 갈 새 바지가 한 벌 필요해.",
+      "focus": "a new pair of trousers"
+     },
+     {
+      "en": "These trousers are too long around the ankles.",
+      "ko": "이 바지는 발목 쪽이 너무 길어.",
+      "focus": "These trousers are too long"
+     }
+    ],
+    "collocations": [
+     "a pair of trousers",
+     "wear trousers"
+    ]
+   }
+  ],
+  "confusables": [
+   {
+    "word": "pants",
+    "note": "미국에서는 pants가 바지지만 영국에서는 속옷을 뜻해 trousers를 쓴다."
+   }
+  ]
+ },
+ {
+  "id": "trunk",
+  "headword": "trunk",
+  "ipa": "/trʌŋk/",
+  "level": "HIGH",
+  "isCore": false,
+  "topic": "nature_animals",
+  "forms": [
+   "trunks"
+  ],
+  "senses": [
+   {
+    "id": "trunk-1",
+    "pos": "n",
+    "ko": "나무줄기",
+    "en": "the thick main stem of a tree that branches grow from",
+    "nuance": "가지 branch, 뿌리 root와 짝을 이루는 부분 이름이다. 코끼리 코도 같은 단어를 써서 an elephant's trunk라고 한다.",
+    "pattern": "the trunk of a tree",
+    "examples": [
+     {
+      "en": "Someone had carved two names into the tree trunk.",
+      "ko": "누가 나무줄기에 이름 두 개를 새겨 놨더라.",
+      "focus": "into the tree trunk"
+     }
+    ],
+    "collocations": [
+     "a tree trunk"
+    ]
+   },
+   {
+    "id": "trunk-2",
+    "pos": "n",
+    "ko": "자동차 트렁크",
+    "en": "the space at the back of a car for bags and boxes",
+    "nuance": "미국식 표현이고 영국에서는 boot라고 한다. 짐을 넣는다고 할 때 in the trunk로 in을 쓴다.",
+    "examples": [
+     {
+      "en": "Put the suitcases in the trunk, there's plenty of room.",
+      "ko": "캐리어는 트렁크에 넣어, 자리 충분해.",
+      "focus": "in the trunk"
+     }
+    ]
+   }
+  ],
+  "confusables": [
+   {
+    "word": "branch",
+    "note": "branch는 줄기에서 갈라진 가지, trunk는 땅에서 곧게 올라온 굵은 몸통이다."
+   }
+  ]
+ },
+ {
+  "id": "tunnel",
+  "headword": "tunnel",
+  "ipa": "/ˈtʌnl/",
+  "level": "HIGH",
+  "isCore": false,
+  "topic": "travel_transport",
+  "forms": [
+   "tunnels"
+  ],
+  "senses": [
+   {
+    "id": "tunnel-1",
+    "pos": "n",
+    "ko": "터널, 굴",
+    "en": "a long passage dug under the ground or through a hill",
+    "nuance": "통과한다고 할 때 through the tunnel을 쓰고 in을 쓰면 안에 머문다는 뜻이 된다. 다리 bridge가 위로 건너는 것이라면 tunnel은 아래로 지난다.",
+    "pattern": "go through the tunnel",
+    "examples": [
+     {
+      "en": "My phone always loses signal inside that long tunnel.",
+      "ko": "그 긴 터널 안에서는 내 휴대폰 신호가 항상 끊겨.",
+      "focus": "inside that long tunnel"
+     },
+     {
+      "en": "The train goes through three tunnels before Busan.",
+      "ko": "그 기차는 부산 전에 터널 세 개를 지나가.",
+      "focus": "through three tunnels"
+     }
+    ],
+    "collocations": [
+     "go through a tunnel",
+     "dig a tunnel"
+    ]
+   }
+  ],
+  "confusables": [
+   {
+    "word": "bridge",
+    "note": "bridge는 위로 건너는 다리, tunnel은 산이나 땅 아래로 뚫은 길이다."
+   }
+  ]
+ },
+ {
+  "id": "tutor",
+  "headword": "tutor",
+  "ipa": "/ˈtuːtər/",
+  "level": "HIGH",
+  "isCore": false,
+  "topic": "school_learning",
+  "forms": [
+   "tutored",
+   "tutoring",
+   "tutors"
+  ],
+  "senses": [
+   {
+    "id": "tutor-1",
+    "pos": "n",
+    "ko": "개인 교사, 과외 선생님",
+    "en": "someone paid to teach one student or a very small group",
+    "nuance": "학교에서 반 전체를 가르치는 teacher와 달리 일대일 지도를 뜻한다. '과외를 받다'는 have a tutor 또는 take private lessons라고 한다.",
+    "pattern": "a tutor for + 과목",
+    "examples": [
+     {
+      "en": "We hired a math tutor for our daughter last month.",
+      "ko": "지난달에 딸아이 수학 과외 선생님을 구했어요.",
+      "focus": "a math tutor"
+     },
+     {
+      "en": "My tutor gives me homework every single week.",
+      "ko": "우리 과외 선생님은 매주 꼬박꼬박 숙제를 내 줘.",
+      "focus": "My tutor gives me homework"
+     }
+    ],
+    "collocations": [
+     "a private tutor",
+     "hire a tutor"
+    ]
+   }
+  ],
+  "confusables": [
+   {
+    "word": "teacher",
+    "note": "teacher는 학교에서 여러 학생을 가르치고, tutor는 한두 명을 따로 지도한다."
+   }
+  ]
+ },
+ {
+  "id": "ultimate",
+  "headword": "ultimate",
+  "ipa": "/ˈʌltɪmət/",
+  "level": "HIGH",
+  "isCore": false,
+  "topic": "thinking_opinion",
+  "senses": [
+   {
+    "id": "ultimate-1",
+    "pos": "adj",
+    "ko": "궁극적인, 최종적인",
+    "en": "happening at the end of a long process; most important",
+    "nuance": "'최고의'가 아니라 '맨 마지막·근본적인'이 기본 뜻이라 the ultimate goal은 최종 목표다. 명사 앞에 the를 붙여 쓰는 경우가 대부분이다.",
+    "pattern": "the ultimate + 명사",
+    "examples": [
+     {
+      "en": "Our ultimate goal is to open a second store.",
+      "ko": "저희 최종 목표는 두 번째 매장을 여는 겁니다.",
+      "focus": "Our ultimate goal"
+     },
+     {
+      "en": "The manager takes ultimate responsibility for these decisions.",
+      "ko": "이 결정들에 대한 최종 책임은 관리자가 집니다.",
+      "focus": "ultimate responsibility"
+     }
+    ],
+    "collocations": [
+     "the ultimate goal",
+     "ultimate responsibility"
+    ]
+   }
+  ],
+  "wordFamily": [
+   {
+    "form": "ultimately",
+    "pos": "adv",
+    "ko": "결국, 궁극적으로"
+   }
+  ],
+  "confusables": [
+   {
+    "word": "final",
+    "note": "final은 순서상 마지막, ultimate는 모든 과정 끝의 근본적인 것이라는 뉘앙스다."
+   }
+  ]
+ },
+ {
+  "id": "unify",
+  "headword": "unify",
+  "ipa": "/ˈjuːnɪfaɪ/",
+  "level": "HIGH",
+  "isCore": false,
+  "topic": "society_politics",
+  "forms": [
+   "unified",
+   "unifies",
+   "unifying"
+  ],
+  "senses": [
+   {
+    "id": "unify-1",
+    "pos": "v",
+    "ko": "통합하다, 하나로 만들다",
+    "en": "to join separate parts or groups into a single whole",
+    "nuance": "여러 개를 하나의 체계로 묶는다는 뜻이라 조직·제도·국가에 쓴다. 사람들이 함께 모이는 것은 unite가 더 자연스럽다.",
+    "pattern": "unify + 명사",
+    "examples": [
+     {
+      "en": "We need to unify the two teams' reporting systems.",
+      "ko": "두 팀의 보고 체계를 하나로 통합해야 합니다.",
+      "focus": "unify the two teams' reporting systems"
+     },
+     {
+      "en": "A unified design makes every page look consistent.",
+      "ko": "통일된 디자인이 모든 페이지를 일관돼 보이게 합니다.",
+      "focus": "A unified design"
+     }
+    ],
+    "collocations": [
+     "unify the system",
+     "a unified approach"
+    ]
+   }
+  ],
+  "wordFamily": [
+   {
+    "form": "unity",
+    "pos": "n",
+    "ko": "통일, 단결"
+   }
+  ],
+  "confusables": [
+   {
+    "word": "unite",
+    "note": "unite는 사람·나라가 힘을 합치는 것, unify는 서로 다른 것을 하나의 체계로 만드는 것이다."
+   }
+  ]
+ },
+ {
+  "id": "urgent",
+  "headword": "urgent",
+  "ipa": "/ˈɜːrdʒənt/",
+  "level": "HIGH",
+  "isCore": false,
+  "topic": "work_business",
+  "senses": [
+   {
+    "id": "urgent-1",
+    "pos": "adj",
+    "ko": "긴급한, 급한",
+    "en": "needing to be dealt with right away",
+    "nuance": "important는 '중요한'이고 urgent는 '지금 당장'이라 다르다. 메일 제목에 Urgent를 붙이면 즉시 처리해 달라는 신호다.",
+    "pattern": "an urgent + 명사",
+    "examples": [
+     {
+      "en": "Sorry, I have to take this urgent call from a client.",
+      "ko": "죄송한데 고객에게 온 급한 전화를 받아야 해요.",
+      "focus": "this urgent call"
+     },
+     {
+      "en": "Is it urgent, or can it wait until tomorrow?",
+      "ko": "급한 거예요, 아니면 내일까지 기다려도 돼요?",
+      "focus": "Is it urgent"
+     }
+    ],
+    "collocations": [
+     "an urgent matter",
+     "urgent care"
+    ]
+   }
+  ],
+  "wordFamily": [
+   {
+    "form": "urgency",
+    "pos": "n",
+    "ko": "긴급함, 시급성"
+   }
+  ],
+  "confusables": [
+   {
+    "word": "important",
+    "note": "important는 중요도, urgent는 시간이 없다는 뜻이라 중요하지만 안 급한 일도 있다."
+   }
+  ]
+ },
+ {
+  "id": "vacuum",
+  "headword": "vacuum",
+  "ipa": "/ˈvækjuːm/",
+  "level": "HIGH",
+  "isCore": false,
+  "topic": "home_daily",
+  "forms": [
+   "vacuumed",
+   "vacuuming",
+   "vacuums"
+  ],
+  "senses": [
+   {
+    "id": "vacuum-1",
+    "pos": "n",
+    "ko": "진공청소기",
+    "en": "a machine that sucks dust from floors and carpets",
+    "nuance": "정식 명칭은 a vacuum cleaner지만 회화에서는 그냥 vacuum이라고 줄여 쓴다. u가 두 개인 철자를 자주 틀린다.",
+    "pattern": "a vacuum cleaner",
+    "examples": [
+     {
+      "en": "Our vacuum broke, so I swept the floor instead.",
+      "ko": "청소기가 고장 나서 대신 빗자루로 쓸었어.",
+      "focus": "Our vacuum broke"
+     }
+    ],
+    "collocations": [
+     "a vacuum cleaner"
+    ]
+   },
+   {
+    "id": "vacuum-2",
+    "pos": "v",
+    "ko": "청소기로 청소하다",
+    "en": "to clean a floor using that machine",
+    "nuance": "'청소기를 돌리다'를 do a vacuum이라고 하지 않고 동사 하나로 vacuum the floor라고 한다. 목적어는 청소하는 바닥이나 방이다.",
+    "examples": [
+     {
+      "en": "I'll vacuum the living room before the guests arrive.",
+      "ko": "손님 오시기 전에 거실 청소기 돌릴게.",
+      "focus": "vacuum the living room"
+     }
+    ]
+   }
+  ],
+  "confusables": [
+   {
+    "word": "sweep",
+    "note": "sweep은 빗자루로 쓰는 것, vacuum은 전기 청소기로 빨아들이는 것이다."
+   }
+  ]
+ },
+ {
+  "id": "vocabulary",
+  "headword": "vocabulary",
+  "ipa": "/voʊˈkæbjəleri/",
+  "level": "HIGH",
+  "isCore": false,
+  "topic": "school_learning",
+  "forms": [
+   "vocabularies"
+  ],
+  "senses": [
+   {
+    "id": "vocabulary-1",
+    "pos": "n",
+    "ko": "어휘, 어휘력",
+    "en": "all the words a person knows or uses in a language",
+    "nuance": "단어 하나하나가 아니라 아는 단어 전체를 뜻해서 I learned five vocabularies는 틀리고 five words라고 해야 한다. 보통 a wide vocabulary처럼 단수로 쓴다.",
+    "pattern": "a wide vocabulary",
+    "examples": [
+     {
+      "en": "Reading novels really helped my English vocabulary grow.",
+      "ko": "소설을 읽은 게 내 영어 어휘력을 키우는 데 정말 도움이 됐어.",
+      "focus": "my English vocabulary"
+     },
+     {
+      "en": "She has a wide vocabulary for someone her age.",
+      "ko": "그 아이는 또래치고 어휘력이 아주 풍부해.",
+      "focus": "a wide vocabulary"
+     }
+    ],
+    "collocations": [
+     "build your vocabulary",
+     "a wide vocabulary"
+    ]
+   }
+  ],
+  "confusables": [
+   {
+    "word": "word",
+    "note": "단어 하나는 a word이고 vocabulary는 아는 단어 전체를 가리키는 말이다."
+   }
+  ]
+ },
+ {
+  "id": "voyage",
+  "headword": "voyage",
+  "ipa": "/ˈvɔɪɪdʒ/",
+  "level": "HIGH",
+  "isCore": false,
+  "topic": "travel_transport",
+  "forms": [
+   "voyages"
+  ],
+  "senses": [
+   {
+    "id": "voyage-1",
+    "pos": "n",
+    "ko": "항해, 긴 여정",
+    "en": "a long journey by ship or through space",
+    "nuance": "배나 우주선으로 가는 긴 여정에만 쓰고 일반 여행은 trip이다. 격식 있고 문어적이라 일상 회화에서는 잘 쓰지 않는다.",
+    "pattern": "a voyage to + 장소",
+    "examples": [
+     {
+      "en": "The ship began its long voyage across the Pacific.",
+      "ko": "그 배는 태평양을 건너는 긴 항해를 시작했어요.",
+      "focus": "its long voyage"
+     },
+     {
+      "en": "His book describes a voyage to the Arctic in 1910.",
+      "ko": "그 책은 1910년 북극으로 간 항해를 다루고 있어요.",
+      "focus": "a voyage to the Arctic"
+     }
+    ],
+    "collocations": [
+     "a long voyage",
+     "a sea voyage"
+    ]
+   }
+  ],
+  "confusables": [
+   {
+    "word": "trip",
+    "note": "trip은 짧은 일반 여행, voyage는 배나 우주선으로 가는 길고 격식 있는 여정이다."
+   }
+  ]
+ },
+ {
+  "id": "whale",
+  "headword": "whale",
+  "ipa": "/weɪl/",
+  "level": "HIGH",
+  "isCore": false,
+  "topic": "nature_animals",
+  "forms": [
+   "whales"
+  ],
+  "senses": [
+   {
+    "id": "whale-1",
+    "pos": "n",
+    "ko": "고래",
+    "en": "a very large sea animal that breathes air through a hole",
+    "nuance": "물고기처럼 보이지만 fish가 아니라 포유류라서 영어로도 sea mammal이라고 한다. 고래 보러 가는 관광은 whale watching이라는 한 덩어리 표현이다.",
+    "pattern": "a blue whale",
+    "examples": [
+     {
+      "en": "We went whale watching off the coast last summer.",
+      "ko": "작년 여름에 해안에서 고래 관찰 투어를 갔어.",
+      "focus": "whale watching"
+     },
+     {
+      "en": "Blue whales are the largest animals on the planet.",
+      "ko": "흰수염고래는 지구에서 가장 큰 동물이야.",
+      "focus": "Blue whales"
+     }
+    ],
+    "collocations": [
+     "whale watching",
+     "a blue whale"
+    ]
+   }
+  ],
+  "confusables": [
+   {
+    "word": "shark",
+    "note": "shark는 이빨이 있는 물고기, whale은 숨을 쉬러 올라오는 포유류다."
+   }
+  ]
+ },
+ {
+  "id": "wheat",
+  "headword": "wheat",
+  "ipa": "/wiːt/",
+  "level": "HIGH",
+  "isCore": false,
+  "topic": "food_cooking",
+  "senses": [
+   {
+    "id": "wheat-1",
+    "pos": "n",
+    "ko": "밀",
+    "en": "the grain that flour and bread are made from",
+    "nuance": "불가산명사라 a wheat이나 wheats라고 하지 않고 늘 wheat 그대로 쓴다. 곡물 자체가 wheat이고 갈아 만든 가루는 flour다.",
+    "pattern": "whole wheat + 명사",
+    "examples": [
+     {
+      "en": "I usually buy whole wheat bread instead of white.",
+      "ko": "나는 흰 빵 대신 보통 통밀빵을 사.",
+      "focus": "whole wheat bread"
+     },
+     {
+      "en": "Most of the wheat here comes from overseas farms.",
+      "ko": "여기 밀은 대부분 해외 농장에서 들어와요.",
+      "focus": "the wheat here"
+     }
+    ],
+    "collocations": [
+     "whole wheat bread",
+     "grow wheat"
+    ]
+   }
+  ],
+  "confusables": [
+   {
+    "word": "flour",
+    "note": "wheat는 밭에서 나는 밀 알곡, flour는 그것을 빻은 밀가루다."
+   }
+  ]
+ },
+ {
+  "id": "whistle",
+  "headword": "whistle",
+  "ipa": "/ˈwɪsl/",
+  "level": "HIGH",
+  "isCore": false,
+  "topic": "sports_leisure",
+  "forms": [
+   "whistled",
+   "whistles",
+   "whistling"
+  ],
+  "senses": [
+   {
+    "id": "whistle-1",
+    "pos": "n",
+    "ko": "호루라기, 휘파람 소리",
+    "en": "a small device that makes a high sound when you blow it",
+    "nuance": "t는 소리 내지 않아 /ˈwɪsl/로 발음한다. 심판이 부는 동작은 blow the whistle이고 play를 쓰지 않는다.",
+    "pattern": "blow the whistle",
+    "examples": [
+     {
+      "en": "The referee blew the whistle to stop the game.",
+      "ko": "심판이 경기를 멈추려고 호루라기를 불었어.",
+      "focus": "blew the whistle"
+     }
+    ],
+    "collocations": [
+     "blow the whistle",
+     "a final whistle"
+    ]
+   },
+   {
+    "id": "whistle-2",
+    "pos": "v",
+    "ko": "휘파람을 불다",
+    "en": "to make a musical sound by blowing air through your lips",
+    "nuance": "입술로 소리 내는 동작이라 '휘파람 불다'를 blow a whistle이라고 하면 호루라기를 분다는 뜻이 된다. 곡을 흥얼거릴 때도 쓴다.",
+    "examples": [
+     {
+      "en": "He whistles the same tune every morning in the kitchen.",
+      "ko": "그 사람은 매일 아침 주방에서 같은 곡을 휘파람으로 불어.",
+      "focus": "whistles the same tune"
+     }
+    ]
+   }
+  ],
+  "confusables": [
+   {
+    "word": "shout",
+    "note": "shout는 목소리로 크게 외치는 것, whistle은 입술이나 호루라기로 소리를 내는 것이다."
+   }
+  ]
+ },
+ {
+  "id": "wit",
+  "headword": "wit",
+  "ipa": "/wɪt/",
+  "level": "HIGH",
+  "isCore": false,
+  "topic": "emotions_personality",
+  "senses": [
+   {
+    "id": "wit-1",
+    "pos": "n",
+    "ko": "재치, 기지",
+    "en": "the ability to say clever and funny things quickly",
+    "nuance": "불가산이라 a wit을 '재치'라는 뜻으로 쓰지 않는다. 그냥 웃긴 것이 아니라 머리 회전이 빨라서 나오는 말솜씨를 뜻한다.",
+    "pattern": "have a quick wit",
+    "examples": [
+     {
+      "en": "Her dry wit always makes the whole team laugh.",
+      "ko": "그분의 담백한 재치는 늘 팀 전체를 웃게 만들어요.",
+      "focus": "Her dry wit"
+     },
+     {
+      "en": "He answered with such wit that nobody felt offended.",
+      "ko": "그 사람이 워낙 재치 있게 답해서 아무도 기분 상하지 않았어.",
+      "focus": "with such wit"
+     }
+    ],
+    "collocations": [
+     "a quick wit",
+     "dry wit"
+    ]
+   }
+  ],
+  "wordFamily": [
+   {
+    "form": "witty",
+    "pos": "adj",
+    "ko": "재치 있는"
+   }
+  ],
+  "confusables": [
+   {
+    "word": "humor",
+    "note": "humor는 웃기는 성질 전반, wit은 순발력 있고 똑똑한 말재주를 가리킨다."
+   }
+  ]
+ },
+ {
+  "id": "wool",
+  "headword": "wool",
+  "ipa": "/wʊl/",
+  "level": "HIGH",
+  "isCore": false,
+  "topic": "description_quality",
+  "senses": [
+   {
+    "id": "wool-1",
+    "pos": "n",
+    "ko": "양털, 모직",
+    "en": "the soft hair of sheep, or cloth made from it",
+    "nuance": "불가산이라 wools라고 하지 않고 재료를 말할 땐 made of wool이라고 한다. 옷을 수식할 땐 a wool coat처럼 앞에 그대로 붙인다.",
+    "pattern": "made of wool",
+    "examples": [
+     {
+      "en": "This sweater is made of wool, so wash it carefully.",
+      "ko": "이 스웨터는 모직이라서 조심해서 세탁해야 해.",
+      "focus": "made of wool"
+     },
+     {
+      "en": "I bought a thick wool scarf for the winter.",
+      "ko": "겨울용으로 두꺼운 모직 목도리를 하나 샀어.",
+      "focus": "a thick wool scarf"
+     }
+    ],
+    "collocations": [
+     "made of wool",
+     "a wool sweater"
+    ]
+   }
+  ],
+  "wordFamily": [
+   {
+    "form": "woolen",
+    "pos": "adj",
+    "ko": "모직의"
+   }
+  ],
+  "confusables": [
+   {
+    "word": "cotton",
+    "note": "cotton은 목화에서 나온 면, wool은 양에서 얻은 털이라 재료가 다르다."
+   }
+  ]
+ },
+ {
+  "id": "worship",
+  "headword": "worship",
+  "ipa": "/ˈwɜːrʃɪp/",
+  "level": "HIGH",
+  "isCore": false,
+  "topic": "society_politics",
+  "senses": [
+   {
+    "id": "worship-1",
+    "pos": "n",
+    "ko": "예배, 숭배",
+    "en": "the act of showing deep respect to a god",
+    "nuance": "불가산이라 a worship이라고 하지 않고 장소는 a place of worship이라고 한다. workshop(작업장·워크숍)과 철자를 헷갈리기 쉽다.",
+    "pattern": "a place of worship",
+    "examples": [
+     {
+      "en": "The old building is still used as a place of worship.",
+      "ko": "그 오래된 건물은 지금도 예배 장소로 쓰여요.",
+      "focus": "a place of worship"
+     },
+     {
+      "en": "Morning worship starts at eight on Sundays.",
+      "ko": "일요일 아침 예배는 여덟 시에 시작해요.",
+      "focus": "Morning worship starts"
+     }
+    ],
+    "collocations": [
+     "a place of worship",
+     "morning worship"
+    ]
+   }
+  ],
+  "confusables": [
+   {
+    "word": "workshop",
+    "note": "workshop은 작업장이나 실습 강좌이고 worship은 종교적 예배를 뜻한다."
+   }
+  ]
+ },
+ {
+  "id": "yell",
+  "headword": "yell",
+  "ipa": "/jel/",
+  "level": "HIGH",
+  "isCore": false,
+  "topic": "communication",
+  "forms": [
+   "yelled",
+   "yelling",
+   "yells"
+  ],
+  "senses": [
+   {
+    "id": "yell-1",
+    "pos": "v",
+    "ko": "소리 지르다, 고함치다",
+    "en": "to shout very loudly, often in anger or excitement",
+    "nuance": "누구에게 화내며 소리치면 yell at me처럼 at을 쓰고, 멀리 있는 사람을 부를 땐 yell to me라고 한다. shout보다 거칠고 감정적이다.",
+    "pattern": "yell at + 사람",
+    "examples": [
+     {
+      "en": "Please don't yell at me, I can hear you fine.",
+      "ko": "나한테 소리 지르지 마, 다 들려.",
+      "focus": "yell at me"
+     },
+     {
+      "en": "Someone yelled from the street that the bus was leaving.",
+      "ko": "누가 길에서 버스 떠난다고 소리쳤어.",
+      "focus": "yelled from the street"
+     }
+    ],
+    "collocations": [
+     "yell at someone",
+     "yell for help"
+    ]
+   }
+  ],
+  "confusables": [
+   {
+    "word": "shout",
+    "note": "shout는 그냥 크게 말하는 것도 되지만 yell은 화나거나 다급한 느낌이 강하다."
+   }
+  ]
+ },
+ {
+  "id": "abort",
+  "headword": "abort",
+  "ipa": "/əˈbɔːrt/",
+  "level": "ADV",
+  "isCore": false,
+  "topic": "work_business",
+  "forms": [
+   "aborted",
+   "aborting",
+   "aborts"
+  ],
+  "senses": [
+   {
+    "id": "abort-1",
+    "pos": "v",
+    "ko": "중단하다, 중지시키다",
+    "en": "to stop a plan or process before it is finished",
+    "nuance": "계획·발사·프로그램처럼 진행 중인 절차를 도중에 끊는다는 뜻이라 회의를 미룰 때는 쓰지 않는다. 컴퓨터가 작업을 멈출 때 화면에 자주 나오는 단어다.",
+    "pattern": "abort + 명사(작업·계획)",
+    "examples": [
+     {
+      "en": "They had to abort the launch because of bad weather.",
+      "ko": "기상 악화로 발사를 중단해야 했습니다.",
+      "focus": "abort the launch"
+     },
+     {
+      "en": "The upload was aborted halfway, so please try again.",
+      "ko": "업로드가 중간에 중단되었으니 다시 시도해 주세요.",
+      "focus": "was aborted halfway"
+     }
+    ],
+    "collocations": [
+     "abort the mission",
+     "abort the process"
+    ]
+   }
+  ],
+  "confusables": [
+   {
+    "word": "cancel",
+    "note": "cancel은 시작 전에 없던 일로 하는 것, abort는 이미 진행 중인 것을 도중에 끊는 것이다."
+   }
+  ]
+ },
+ {
+  "id": "absurd",
+  "headword": "absurd",
+  "ipa": "/əbˈsɜːrd/",
+  "level": "ADV",
+  "isCore": false,
+  "topic": "thinking_opinion",
+  "senses": [
+   {
+    "id": "absurd-1",
+    "pos": "adj",
+    "ko": "터무니없는, 어이없는",
+    "en": "so unreasonable that it seems silly or impossible to believe",
+    "nuance": "강한 비판이라 상대의 주장이나 가격·규정에 쓰고 사람에게 직접 대면 무례하게 들린다. 격식 있는 글에서도 쓰이는 강한 부정 평가다.",
+    "pattern": "It's absurd that + 절",
+    "examples": [
+     {
+      "en": "It's absurd that we pay this much for parking.",
+      "ko": "주차비를 이만큼이나 내는 건 말이 안 돼요.",
+      "focus": "It's absurd that we pay"
+     },
+     {
+      "en": "The whole rule sounds completely absurd to our team.",
+      "ko": "그 규정 전체가 저희 팀에는 완전히 터무니없게 들려요.",
+      "focus": "completely absurd"
+     }
+    ],
+    "collocations": [
+     "completely absurd",
+     "an absurd idea"
+    ]
+   }
+  ],
+  "wordFamily": [
+   {
+    "form": "absurdity",
+    "pos": "n",
+    "ko": "부조리, 터무니없음"
+   }
+  ],
+  "confusables": [
+   {
+    "word": "ridiculous",
+    "note": "ridiculous가 좀 더 구어적이고, absurd는 논리적으로 말이 안 된다는 점을 짚는다."
+   }
+  ]
+ },
+ {
+  "id": "acceptance",
+  "headword": "acceptance",
+  "ipa": "/əkˈseptəns/",
+  "level": "ADV",
+  "isCore": false,
+  "topic": "work_business",
+  "senses": [
+   {
+    "id": "acceptance-1",
+    "pos": "n",
+    "ko": "수락, 받아들임",
+    "en": "the act of agreeing to take or believe something offered",
+    "nuance": "보통 불가산으로 쓰고 acceptances라고 복수로 만들지 않는다. 대상은 of를 붙여 acceptance of the offer라고 하며 for를 쓰지 않는다.",
+    "pattern": "acceptance of + 명사",
+    "examples": [
+     {
+      "en": "We're still waiting for her acceptance of the offer.",
+      "ko": "그분이 제안을 수락할지 아직 기다리는 중이에요.",
+      "focus": "her acceptance of the offer"
+     },
+     {
+      "en": "Jun got his acceptance letter from the university yesterday.",
+      "ko": "준은 어제 대학에서 합격 통지서를 받았어.",
+      "focus": "his acceptance letter"
+     }
+    ],
+    "collocations": [
+     "acceptance of the offer",
+     "an acceptance letter"
+    ]
+   }
+  ],
+  "wordFamily": [
+   {
+    "form": "accept",
+    "pos": "v",
+    "ko": "받아들이다, 수락하다"
+   },
+   {
+    "form": "acceptable",
+    "pos": "adj",
+    "ko": "받아들일 만한"
+   }
+  ],
+  "confusables": [
+   {
+    "word": "approval",
+    "note": "approval은 '좋다고 승인함', acceptance는 주어진 것을 '받아들임'에 초점이 있다."
+   }
+  ]
+ },
+ {
+  "id": "accordance",
+  "headword": "accordance",
+  "ipa": "/əˈkɔːrdns/",
+  "level": "ADV",
+  "isCore": false,
+  "topic": "work_business",
+  "senses": [
+   {
+    "id": "accordance-1",
+    "pos": "n",
+    "ko": "일치, 합치",
+    "en": "the state of following a rule or agreement exactly",
+    "nuance": "거의 언제나 in accordance with라는 덩어리로만 쓰고 단독으로는 쓰지 않는다. 계약서·규정 안내에 나오는 격식체로 회화의 according to보다 딱딱하다.",
+    "pattern": "in accordance with + 명사",
+    "examples": [
+     {
+      "en": "We handled the refund in accordance with company policy.",
+      "ko": "회사 방침에 따라 환불을 처리했습니다.",
+      "focus": "in accordance with company policy"
+     },
+     {
+      "en": "Everything was done in accordance with the signed contract.",
+      "ko": "모든 절차는 체결된 계약에 따라 진행되었습니다.",
+      "focus": "in accordance with the signed contract"
+     }
+    ],
+    "collocations": [
+     "in accordance with the law",
+     "in accordance with policy"
+    ]
+   }
+  ],
+  "confusables": [
+   {
+    "word": "according",
+    "note": "according to는 '~에 따르면'으로 출처를 말하고, in accordance with는 '규정대로'라는 뜻이다."
+   }
+  ]
+ },
+ {
+  "id": "accountant",
+  "headword": "accountant",
+  "ipa": "/əˈkaʊntənt/",
+  "level": "ADV",
+  "isCore": false,
+  "topic": "work_business",
+  "forms": [
+   "accountants"
+  ],
+  "senses": [
+   {
+    "id": "accountant-1",
+    "pos": "n",
+    "ko": "회계사, 경리",
+    "en": "a person whose job is keeping and checking money records",
+    "nuance": "직업을 말할 땐 관사가 필요해서 I'm an accountant라고 해야 한다. 자격증이 있는 공인회계사는 a certified public accountant라고 구분한다.",
+    "pattern": "an accountant at + 회사",
+    "examples": [
+     {
+      "en": "Our accountant says we should file the report by Friday.",
+      "ko": "회계사님이 보고서를 금요일까지 제출하라고 하시네요.",
+      "focus": "Our accountant says"
+     },
+     {
+      "en": "Emma works as an accountant at a small firm.",
+      "ko": "엠마는 작은 회사에서 회계사로 일해요.",
+      "focus": "as an accountant"
+     }
+    ],
+    "collocations": [
+     "a certified accountant",
+     "work as an accountant"
+    ]
+   }
+  ],
+  "wordFamily": [
+   {
+    "form": "accounting",
+    "pos": "n",
+    "ko": "회계"
+   }
+  ],
+  "confusables": [
+   {
+    "word": "account",
+    "note": "account는 계좌·설명을 뜻하는 명사이고 accountant는 그 일을 하는 사람이다."
+   }
+  ]
+ },
+ {
+  "id": "accumulate",
+  "headword": "accumulate",
+  "ipa": "/əˈkjuːmjəleɪt/",
+  "level": "ADV",
+  "isCore": false,
+  "topic": "money_shopping",
+  "forms": [
+   "accumulated",
+   "accumulates",
+   "accumulating"
+  ],
+  "senses": [
+   {
+    "id": "accumulate-1",
+    "pos": "v",
+    "ko": "쌓이다, 모으다",
+    "en": "to gather more and more of something over a long time",
+    "nuance": "시간이 지나며 조금씩 불어난다는 뜻이라 하루에 몰아 모으는 것에는 쓰지 않는다. collect가 의도적으로 모으는 것이라면 accumulate는 저절로 쌓이기도 한다.",
+    "pattern": "accumulate + 명사",
+    "examples": [
+     {
+      "en": "Dust accumulates on the shelves if nobody cleans them.",
+      "ko": "아무도 안 닦으면 선반에 먼지가 쌓여요.",
+      "focus": "Dust accumulates on the shelves"
+     },
+     {
+      "en": "She accumulated enough points for a free flight.",
+      "ko": "그분은 무료 항공권을 받을 만큼 포인트를 모았어요.",
+      "focus": "accumulated enough points"
+     }
+    ],
+    "collocations": [
+     "accumulate wealth",
+     "accumulate experience"
+    ]
+   }
+  ],
+  "wordFamily": [
+   {
+    "form": "accumulation",
+    "pos": "n",
+    "ko": "축적, 누적"
+   }
+  ],
+  "confusables": [
+   {
+    "word": "collect",
+    "note": "collect는 일부러 하나씩 모으는 것, accumulate는 시간이 지나며 저절로 쌓이기도 한다."
+   }
+  ]
  }
 ]

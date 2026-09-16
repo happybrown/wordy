@@ -1,0 +1,1562 @@
+[
+ {
+  "id": "accuracy",
+  "headword": "accuracy",
+  "ipa": "/ˈækjərəsi/",
+  "level": "ADV",
+  "isCore": false,
+  "topic": "thinking_opinion",
+  "forms": [
+   "accuracies"
+  ],
+  "senses": [
+   {
+    "id": "accuracy-1",
+    "pos": "n",
+    "ko": "정확도, 정확성",
+    "en": "the quality of being exactly right, with no mistakes",
+    "nuance": "보통 불가산이라 an accuracy라고 하지 않고 the accuracy of the data처럼 쓴다. '정확하게'는 with accuracy 또는 accurately이고, exactly는 뜻이 다르다.",
+    "pattern": "the accuracy of + 명사",
+    "examples": [
+     {
+      "en": "Please double-check the accuracy of these sales numbers before Monday.",
+      "ko": "월요일 전에 이 매출 숫자들이 정확한지 다시 확인해 주세요.",
+      "focus": "the accuracy of these sales numbers"
+     },
+     {
+      "en": "Our model predicts demand with surprising accuracy these days.",
+      "ko": "요즘 우리 모델은 수요를 놀라울 만큼 정확하게 예측해요.",
+      "focus": "with surprising accuracy"
+     }
+    ],
+    "collocations": [
+     "the accuracy of the data",
+     "with accuracy",
+     "improve accuracy"
+    ]
+   }
+  ],
+  "wordFamily": [
+   {
+    "form": "accurate",
+    "pos": "adj",
+    "ko": "정확한"
+   },
+   {
+    "form": "accurately",
+    "pos": "adv",
+    "ko": "정확하게"
+   }
+  ],
+  "confusables": [
+   {
+    "word": "precision",
+    "note": "accuracy는 정답에 얼마나 가까운지, precision은 얼마나 세밀하고 일관되게 재는지를 말한다."
+   }
+  ]
+ },
+ {
+  "id": "accurately",
+  "headword": "accurately",
+  "ipa": "/ˈækjərətli/",
+  "level": "ADV",
+  "isCore": false,
+  "topic": "thinking_opinion",
+  "senses": [
+   {
+    "id": "accurately-1",
+    "pos": "adv",
+    "ko": "정확하게, 틀림없이",
+    "en": "in a way that is exactly right and free of mistakes",
+    "nuance": "동사를 꾸미는 부사라 '정확한 수치'처럼 명사 앞에는 accurate를 쓴다. correctly는 '답이 맞다', accurately는 '실제와 일치한다'에 가깝다.",
+    "pattern": "동사 + accurately",
+    "examples": [
+     {
+      "en": "Can you describe accurately what you saw at the station?",
+      "ko": "역에서 본 걸 정확하게 설명해 주실 수 있을까요?",
+      "focus": "describe accurately what you saw"
+     },
+     {
+      "en": "The survey accurately reflects what our younger customers want.",
+      "ko": "그 설문은 젊은 고객들이 원하는 걸 정확하게 보여 줍니다.",
+      "focus": "accurately reflects what our younger customers want"
+     }
+    ],
+    "collocations": [
+     "accurately describe",
+     "accurately reflect",
+     "accurately predict"
+    ]
+   }
+  ],
+  "wordFamily": [
+   {
+    "form": "accurate",
+    "pos": "adj",
+    "ko": "정확한"
+   },
+   {
+    "form": "accuracy",
+    "pos": "n",
+    "ko": "정확도"
+   }
+  ],
+  "confusables": [
+   {
+    "word": "correctly",
+    "note": "correctly는 규칙·정답에 맞다는 뜻, accurately는 실제 사실과 어긋남이 없다는 쪽이다."
+   }
+  ]
+ },
+ {
+  "id": "acquaint",
+  "headword": "acquaint",
+  "ipa": "/əˈkweɪnt/",
+  "level": "ADV",
+  "isCore": false,
+  "topic": "communication",
+  "forms": [
+   "acquainted",
+   "acquainting",
+   "acquaints"
+  ],
+  "senses": [
+   {
+    "id": "acquaint-1",
+    "pos": "v",
+    "ko": "익히게 하다, 알게 하다",
+    "en": "to make someone know about something, or learn about it",
+    "nuance": "거의 언제나 acquaint yourself with나 be acquainted with 형태로 쓰는 격식체다. 그냥 '알다'는 know이고, acquaint 뒤 전치사는 to가 아니라 with다.",
+    "pattern": "acquaint + 목적어 + with + 명사",
+    "examples": [
+     {
+      "en": "Please acquaint yourself with the safety rules before Monday's training.",
+      "ko": "월요일 교육 전에 안전 수칙을 미리 익혀 두세요.",
+      "focus": "acquaint yourself with the safety rules"
+     },
+     {
+      "en": "I'm not acquainted with the new billing system yet.",
+      "ko": "저는 아직 새 청구 시스템을 잘 몰라요.",
+      "focus": "not acquainted with the new billing system"
+     }
+    ],
+    "collocations": [
+     "acquaint yourself with",
+     "be acquainted with"
+    ]
+   }
+  ],
+  "wordFamily": [
+   {
+    "form": "acquaintance",
+    "pos": "n",
+    "ko": "아는 사람, 지인"
+   }
+  ],
+  "confusables": [
+   {
+    "word": "know",
+    "note": "know는 일상어, acquaint는 '미리 알아 두게 하다'라는 격식 동사라 안내문·업무 메일에 쓴다."
+   }
+  ]
+ },
+ {
+  "id": "actively",
+  "headword": "actively",
+  "ipa": "/ˈæktɪvli/",
+  "level": "ADV",
+  "isCore": false,
+  "topic": "work_business",
+  "senses": [
+   {
+    "id": "actively-1",
+    "pos": "adv",
+    "ko": "적극적으로, 활발히",
+    "en": "in a way that involves real effort, not just waiting",
+    "nuance": "가만히 있지 않고 직접 나서서 한다는 뜻이라 be동사 뒤 -ing 앞에 자주 온다. '활동적인 사람'은 actively가 아니라 an active person이다.",
+    "pattern": "be actively + -ing",
+    "examples": [
+     {
+      "en": "We're actively looking for a designer who can start soon.",
+      "ko": "저희는 곧 합류할 수 있는 디자이너를 적극적으로 찾고 있어요.",
+      "focus": "actively looking for a designer"
+     },
+     {
+      "en": "Jun actively participates in every team meeting, which really helps.",
+      "ko": "준은 팀 회의마다 적극적으로 참여해서 정말 큰 도움이 돼요.",
+      "focus": "actively participates in every team meeting"
+     }
+    ],
+    "collocations": [
+     "actively looking for",
+     "actively participate",
+     "actively involved in"
+    ]
+   }
+  ],
+  "wordFamily": [
+   {
+    "form": "active",
+    "pos": "adj",
+    "ko": "활동적인, 적극적인"
+   },
+   {
+    "form": "activity",
+    "pos": "n",
+    "ko": "활동"
+   }
+  ],
+  "confusables": [
+   {
+    "word": "positively",
+    "note": "한국어 '적극적으로'를 positively로 옮기면 '긍정적으로'가 되어 뜻이 달라진다. 행동에는 actively를 쓴다."
+   }
+  ]
+ },
+ {
+  "id": "activist",
+  "headword": "activist",
+  "ipa": "/ˈæktɪvɪst/",
+  "level": "ADV",
+  "isCore": false,
+  "topic": "society_politics",
+  "forms": [
+   "activists"
+  ],
+  "senses": [
+   {
+    "id": "activist-1",
+    "pos": "n",
+    "ko": "운동가, 활동가",
+    "en": "a person who works hard to cause social or political change",
+    "nuance": "환경·인권처럼 분야를 앞에 붙여 an environmental activist로 쓰는 가산 명사다. 시민단체 직원 전반은 activist가 아니라 an NGO worker다.",
+    "pattern": "a/an + 분야 + activist",
+    "examples": [
+     {
+      "en": "Emma became a climate activist right after finishing graduate school.",
+      "ko": "엠마는 대학원을 마치자마자 기후 운동가가 됐어요.",
+      "focus": "became a climate activist"
+     },
+     {
+      "en": "Local activists gathered outside city hall to present their petition.",
+      "ko": "지역 활동가들이 청원서를 내려고 시청 앞에 모였어요.",
+      "focus": "Local activists gathered outside city hall"
+     }
+    ],
+    "collocations": [
+     "a climate activist",
+     "a human rights activist",
+     "local activists"
+    ]
+   }
+  ],
+  "wordFamily": [
+   {
+    "form": "activism",
+    "pos": "n",
+    "ko": "사회 운동, 행동주의"
+   }
+  ],
+  "confusables": [
+   {
+    "word": "volunteer",
+    "note": "volunteer는 무보수로 돕는 사람, activist는 사회를 바꾸려고 목소리를 내는 사람이다."
+   }
+  ]
+ },
+ {
+  "id": "administrative",
+  "headword": "administrative",
+  "ipa": "/ədˈmɪnɪstreɪtɪv/",
+  "level": "ADV",
+  "isCore": false,
+  "topic": "work_business",
+  "senses": [
+   {
+    "id": "administrative-1",
+    "pos": "adj",
+    "ko": "행정의, 관리 업무의",
+    "en": "related to managing an office, a school, or a government body",
+    "nuance": "서류·일정·기록 같은 사무 업무를 가리키며 명사 앞에서 주로 쓴다. 회사의 '경영진'은 administrative가 아니라 management다.",
+    "pattern": "administrative + 명사(work, staff)",
+    "examples": [
+     {
+      "en": "Most of my week goes to administrative work, not actual design.",
+      "ko": "제 한 주는 실제 디자인보다 행정 업무에 거의 다 들어가요.",
+      "focus": "goes to administrative work"
+     },
+     {
+      "en": "Ask the administrative staff on the third floor about parking passes.",
+      "ko": "주차권은 3층 행정 직원분들에게 물어보세요.",
+      "focus": "the administrative staff on the third floor"
+     }
+    ],
+    "collocations": [
+     "administrative work",
+     "administrative staff",
+     "an administrative error"
+    ]
+   }
+  ],
+  "wordFamily": [
+   {
+    "form": "administration",
+    "pos": "n",
+    "ko": "행정, 관리"
+   },
+   {
+    "form": "administrator",
+    "pos": "n",
+    "ko": "관리자, 행정 담당자"
+   }
+  ],
+  "confusables": [
+   {
+    "word": "managerial",
+    "note": "managerial은 사람과 성과를 이끄는 관리, administrative는 서류·절차를 처리하는 사무 쪽이다."
+   }
+  ]
+ },
+ {
+  "id": "adverse",
+  "headword": "adverse",
+  "ipa": "/ædˈvɜːrs/",
+  "level": "ADV",
+  "isCore": false,
+  "topic": "description_quality",
+  "senses": [
+   {
+    "id": "adverse-1",
+    "pos": "adj",
+    "ko": "부정적인, 불리한",
+    "en": "having a harmful or unwanted result",
+    "nuance": "약 부작용·악천후·경기 악화처럼 격식 있는 맥락에서 명사 앞에 붙인다. 사람이 뭔가를 싫어할 때는 adverse가 아니라 averse to를 쓴다.",
+    "pattern": "adverse + 명사(effect, weather)",
+    "examples": [
+     {
+      "en": "The medicine worked well, with no adverse effects at all.",
+      "ko": "그 약은 부작용 하나 없이 잘 들었어요.",
+      "focus": "no adverse effects"
+     },
+     {
+      "en": "Our flight was delayed because of adverse weather over Busan.",
+      "ko": "부산 쪽 기상 악화 때문에 우리 비행기가 지연됐어.",
+      "focus": "because of adverse weather"
+     }
+    ],
+    "collocations": [
+     "an adverse effect",
+     "adverse weather",
+     "an adverse impact"
+    ]
+   }
+  ],
+  "wordFamily": [
+   {
+    "form": "adversely",
+    "pos": "adv",
+    "ko": "불리하게, 부정적으로"
+   }
+  ],
+  "confusables": [
+   {
+    "word": "averse",
+    "note": "철자가 한 글자 차이다. averse는 be averse to로 '~을 꺼리다', adverse는 '해로운'이다."
+   },
+   {
+    "word": "negative",
+    "note": "negative는 일상 회화에도 쓰는 일반어, adverse는 보고서·의학 문서 같은 격식 문맥 전용에 가깝다."
+   }
+  ]
+ },
+ {
+  "id": "aesthetic",
+  "headword": "aesthetic",
+  "ipa": "/esˈθetɪk/",
+  "level": "ADV",
+  "isCore": false,
+  "topic": "culture_arts",
+  "forms": [
+   "esthetic",
+   "esthetics",
+   "aesthetics"
+  ],
+  "senses": [
+   {
+    "id": "aesthetic-1",
+    "pos": "adj",
+    "ko": "미적인, 미감의",
+    "en": "connected with beauty and how something looks",
+    "nuance": "기능이 아니라 보기에 어떤가를 따질 때 쓴다. 한국에서 말하는 '에스테틱(피부 관리실)'은 영어로 a skin care clinic이고 aesthetic이 아니다.",
+    "pattern": "aesthetic + 명사(value, appeal)",
+    "examples": [
+     {
+      "en": "We chose the wooden desk for aesthetic reasons, not comfort.",
+      "ko": "그 나무 책상은 편해서가 아니라 보기 좋아서 골랐어.",
+      "focus": "for aesthetic reasons"
+     },
+     {
+      "en": "The building has real aesthetic appeal, but the heating is terrible.",
+      "ko": "그 건물은 보기엔 정말 근사한데 난방이 최악이야.",
+      "focus": "real aesthetic appeal"
+     }
+    ],
+    "collocations": [
+     "aesthetic appeal",
+     "for aesthetic reasons",
+     "aesthetic value"
+    ]
+   }
+  ],
+  "confusables": [
+   {
+    "word": "cosmetic",
+    "note": "cosmetic은 겉만 손본다는 부정적 어감이 섞이고, aesthetic은 아름다움 자체를 따지는 중립어다."
+   }
+  ]
+ },
+ {
+  "id": "affiliate",
+  "headword": "affiliate",
+  "ipa": "/əˈfɪlieɪt/",
+  "level": "ADV",
+  "isCore": false,
+  "topic": "work_business",
+  "forms": [
+   "affiliated",
+   "affiliates",
+   "affiliating"
+  ],
+  "senses": [
+   {
+    "id": "affiliate-1",
+    "pos": "v",
+    "ko": "제휴하다, 소속되다",
+    "en": "to officially join or connect with a larger group",
+    "nuance": "실제 회화에서는 be affiliated with 수동형이 압도적으로 많다. 뒤에 to가 아니라 with를 쓰고, 단순 협업은 work with라고 한다.",
+    "pattern": "be affiliated with + 기관",
+    "examples": [
+     {
+      "en": "Our lab is affiliated with a university hospital in Seoul.",
+      "ko": "저희 연구실은 서울의 대학 병원과 제휴되어 있습니다.",
+      "focus": "is affiliated with a university hospital"
+     },
+     {
+      "en": "The clinic affiliates with several insurance companies to lower costs.",
+      "ko": "그 병원은 비용을 낮추려고 보험사 여러 곳과 제휴합니다.",
+      "focus": "affiliates with several insurance companies"
+     }
+    ],
+    "collocations": [
+     "be affiliated with",
+     "affiliated companies"
+    ]
+   }
+  ],
+  "wordFamily": [
+   {
+    "form": "affiliation",
+    "pos": "n",
+    "ko": "소속, 제휴"
+   }
+  ],
+  "confusables": [
+   {
+    "word": "associate",
+    "note": "associate with는 사람과 어울리는 것까지 포함하지만, affiliate는 조직끼리의 공식 제휴에 쓴다."
+   }
+  ]
+ },
+ {
+  "id": "afterward",
+  "headword": "afterward",
+  "ipa": "/ˈæftərwərd/",
+  "level": "ADV",
+  "isCore": false,
+  "topic": "time_quantity",
+  "forms": [
+   "afterwards"
+  ],
+  "senses": [
+   {
+    "id": "afterward-1",
+    "pos": "adv",
+    "ko": "그 후에, 나중에",
+    "en": "after the event or time already mentioned",
+    "nuance": "뒤에 명사를 붙이지 못하는 부사라 afterward the meeting은 틀리고 after the meeting이라고 해야 한다. 미국식은 afterward, 영국식은 afterwards다.",
+    "pattern": "…, and afterward + 절",
+    "examples": [
+     {
+      "en": "We'll finish the presentation and grab coffee afterward.",
+      "ko": "발표 끝내고 나서 커피 한잔하자.",
+      "focus": "grab coffee afterward"
+     },
+     {
+      "en": "Tom seemed fine during dinner, but afterwards he looked exhausted.",
+      "ko": "톰은 저녁 먹을 땐 괜찮아 보였는데 그 후엔 완전 지쳐 보였어.",
+      "focus": "but afterwards he looked exhausted"
+     }
+    ],
+    "collocations": [
+     "shortly afterward",
+     "soon afterward"
+    ]
+   }
+  ],
+  "confusables": [
+   {
+    "word": "after",
+    "note": "after는 뒤에 명사·절이 오는 전치사·접속사, afterward는 혼자 쓰는 부사라 뒤에 명사를 못 붙인다."
+   },
+   {
+    "word": "later",
+    "note": "later는 그냥 '나중에', afterward는 '앞서 말한 그 일 다음에'라는 순서를 분명히 한다."
+   }
+  ]
+ },
+ {
+  "id": "alliance",
+  "headword": "alliance",
+  "ipa": "/əˈlaɪəns/",
+  "level": "ADV",
+  "isCore": false,
+  "topic": "society_politics",
+  "forms": [
+   "alliances"
+  ],
+  "senses": [
+   {
+    "id": "alliance-1",
+    "pos": "n",
+    "ko": "동맹, 연합",
+    "en": "an agreement between countries or groups to help each other",
+    "nuance": "국가·정당·기업처럼 조직끼리 맺는 공식 관계를 가리키는 가산 명사다. 전치사는 between 또는 with를 쓰고 '동맹을 맺다'는 form an alliance다.",
+    "pattern": "an alliance between/with + 명사",
+    "examples": [
+     {
+      "en": "The two airlines formed an alliance to share routes last year.",
+      "ko": "그 두 항공사는 작년에 노선을 공유하려고 동맹을 맺었어요.",
+      "focus": "formed an alliance to share routes"
+     },
+     {
+      "en": "Small alliances between local shops helped them survive the downturn.",
+      "ko": "동네 가게들끼리 맺은 작은 연합이 불황을 버티는 데 도움이 됐어요.",
+      "focus": "Small alliances between local shops"
+     }
+    ],
+    "collocations": [
+     "form an alliance",
+     "a strategic alliance",
+     "an alliance between"
+    ]
+   }
+  ],
+  "wordFamily": [
+   {
+    "form": "ally",
+    "pos": "n",
+    "ko": "동맹국, 협력자"
+   }
+  ],
+  "confusables": [
+   {
+    "word": "allowance",
+    "note": "철자가 비슷하지만 allowance는 '허용량·용돈'이고 alliance는 '동맹'이다."
+   },
+   {
+    "word": "partnership",
+    "note": "partnership은 사업상의 동업, alliance는 공동의 목표를 위해 힘을 합치는 더 넓은 연합이다."
+   }
+  ]
+ },
+ {
+  "id": "allocate",
+  "headword": "allocate",
+  "ipa": "/ˈæləkeɪt/",
+  "level": "ADV",
+  "isCore": false,
+  "topic": "work_business",
+  "forms": [
+   "allocated",
+   "allocates",
+   "allocating"
+  ],
+  "senses": [
+   {
+    "id": "allocate-1",
+    "pos": "v",
+    "ko": "배정하다, 할당하다",
+    "en": "to give money, time, or space to a particular purpose",
+    "nuance": "예산·인원·시간을 목적에 맞게 나눠 주는 격식 동사로 뒤에 to나 for가 온다. 그냥 '주다'는 give이고 allocate는 계획에 따른 배분이라는 느낌이 강하다.",
+    "pattern": "allocate + 명사 + to/for + 명사",
+    "examples": [
+     {
+      "en": "We allocated most of the budget to marketing this quarter.",
+      "ko": "이번 분기에는 예산 대부분을 마케팅에 배정했습니다.",
+      "focus": "allocated most of the budget to marketing"
+     },
+     {
+      "en": "Try allocating two hours a week for language practice.",
+      "ko": "일주일에 두 시간을 어학 연습에 할당해 보세요.",
+      "focus": "allocating two hours a week"
+     }
+    ],
+    "collocations": [
+     "allocate a budget",
+     "allocate resources",
+     "allocate time to"
+    ]
+   }
+  ],
+  "wordFamily": [
+   {
+    "form": "allocation",
+    "pos": "n",
+    "ko": "배정, 할당"
+   }
+  ],
+  "confusables": [
+   {
+    "word": "assign",
+    "note": "assign은 사람에게 일을 맡기는 쪽, allocate는 돈·자원·시간을 나눠 배분하는 쪽에 쓴다."
+   }
+  ]
+ },
+ {
+  "id": "allowance",
+  "headword": "allowance",
+  "ipa": "/əˈlaʊəns/",
+  "level": "ADV",
+  "isCore": false,
+  "topic": "money_shopping",
+  "forms": [
+   "allowances"
+  ],
+  "senses": [
+   {
+    "id": "allowance-1",
+    "pos": "n",
+    "ko": "수당, 용돈",
+    "en": "money given regularly to someone for a certain purpose",
+    "nuance": "회사가 주는 주거·식대 수당이나 부모가 주는 용돈 모두 가산 명사로 쓴다. '용돈'을 pocket money라고 하면 아이에게 주는 잔돈 느낌이 강하다.",
+    "pattern": "a + 종류 + allowance",
+    "examples": [
+     {
+      "en": "My company pays a monthly housing allowance for staff in Seoul.",
+      "ko": "우리 회사는 서울 근무 직원에게 매달 주거 수당을 줍니다.",
+      "focus": "a monthly housing allowance"
+     },
+     {
+      "en": "Check your baggage allowance before you pack that extra bag.",
+      "ko": "가방 하나 더 싸기 전에 수하물 허용량부터 확인해.",
+      "focus": "your baggage allowance"
+     }
+    ],
+    "collocations": [
+     "a housing allowance",
+     "a baggage allowance",
+     "a monthly allowance"
+    ]
+   }
+  ],
+  "wordFamily": [
+   {
+    "form": "allow",
+    "pos": "v",
+    "ko": "허용하다"
+   }
+  ],
+  "confusables": [
+   {
+    "word": "salary",
+    "note": "salary는 일한 대가인 기본급, allowance는 그 위에 특정 목적으로 얹어 주는 돈이다."
+   },
+   {
+    "word": "alliance",
+    "note": "철자가 헷갈린다. alliance는 '동맹'으로 뜻이 전혀 다르다."
+   }
+  ]
+ },
+ {
+  "id": "altitude",
+  "headword": "altitude",
+  "ipa": "/ˈæltɪtuːd/",
+  "level": "ADV",
+  "isCore": false,
+  "topic": "travel_transport",
+  "forms": [
+   "altitudes"
+  ],
+  "senses": [
+   {
+    "id": "altitude-1",
+    "pos": "n",
+    "ko": "고도, 해발 높이",
+    "en": "the height of something above sea level",
+    "nuance": "비행기나 산처럼 해수면 기준 높이에 쓰고, 건물·사람 키에는 height를 쓴다. attitude(태도)와 철자가 비슷하니 특히 조심한다.",
+    "pattern": "at an altitude of + 숫자",
+    "examples": [
+     {
+      "en": "We're cruising at an altitude of about ten thousand meters.",
+      "ko": "지금 고도 약 1만 미터로 순항 중입니다.",
+      "focus": "at an altitude of about ten thousand meters"
+     },
+     {
+      "en": "Mina got a headache at high altitudes during the hiking trip.",
+      "ko": "미나는 등산 여행 중에 높은 고도에서 두통이 생겼어.",
+      "focus": "at high altitudes"
+     }
+    ],
+    "collocations": [
+     "at high altitude",
+     "gain altitude",
+     "an altitude of"
+    ]
+   }
+  ],
+  "confusables": [
+   {
+    "word": "attitude",
+    "note": "한 글자 차이지만 attitude는 '태도', altitude는 '고도'다. 발음도 앞부분이 다르다."
+   },
+   {
+    "word": "height",
+    "note": "height는 바닥부터 잰 일반적 높이, altitude는 해수면 기준이라 비행·등산에 쓴다."
+   }
+  ]
+ },
+ {
+  "id": "aluminum",
+  "headword": "aluminum",
+  "ipa": "/əˈluːmɪnəm/",
+  "level": "ADV",
+  "isCore": false,
+  "topic": "environment_science",
+  "forms": [
+   "aluminium"
+  ],
+  "senses": [
+   {
+    "id": "aluminum-1",
+    "pos": "n",
+    "ko": "알루미늄",
+    "en": "a light silver-colored metal used for cans and foil",
+    "nuance": "불가산 명사라 an aluminum이나 aluminums라고 하지 않고 aluminum cans처럼 쓴다. 미국식은 aluminum, 영국식은 aluminium이고 발음도 다르다.",
+    "pattern": "aluminum + 명사(can, foil)",
+    "examples": [
+     {
+      "en": "Please rinse the aluminum cans before you put them out.",
+      "ko": "알루미늄 캔은 내놓기 전에 헹궈 주세요.",
+      "focus": "rinse the aluminum cans"
+     },
+     {
+      "en": "This laptop case is aluminium, so it feels cold in winter.",
+      "ko": "이 노트북 케이스는 알루미늄이라 겨울엔 차갑게 느껴져.",
+      "focus": "case is aluminium"
+     }
+    ],
+    "collocations": [
+     "aluminum foil",
+     "an aluminum can"
+    ]
+   }
+  ],
+  "confusables": [
+   {
+    "word": "tin",
+    "note": "한국어로 둘 다 '깡통 재질'처럼 뭉뚱그리지만 음료 캔과 호일은 aluminum이 맞다."
+   }
+  ]
+ },
+ {
+  "id": "amongst",
+  "headword": "amongst",
+  "ipa": "/əˈmʌŋst/",
+  "level": "ADV",
+  "isCore": false,
+  "topic": "abstract_general",
+  "senses": [
+   {
+    "id": "amongst-1",
+    "pos": "prep",
+    "ko": "~ 사이에서",
+    "en": "in the middle of a group of people or things",
+    "nuance": "among과 뜻이 같고 영국식·격식 글에서 선호되는 형태다. 둘 사이일 때는 between을 쓰고, 셋 이상 섞인 무리에 amongst를 쓴다.",
+    "pattern": "amongst + 복수명사",
+    "examples": [
+     {
+      "en": "This model is still popular amongst students in their twenties.",
+      "ko": "이 모델은 20대 학생들 사이에서 여전히 인기가 많아요.",
+      "focus": "popular amongst students"
+     },
+     {
+      "en": "She found the old photo amongst her grandmother's letters.",
+      "ko": "그분은 할머니 편지들 사이에서 그 오래된 사진을 찾았어요.",
+      "focus": "amongst her grandmother's letters"
+     }
+    ],
+    "collocations": [
+     "popular amongst",
+     "amongst others"
+    ]
+   }
+  ],
+  "confusables": [
+   {
+    "word": "between",
+    "note": "between은 둘(또는 각각 구분되는 대상) 사이, amongst는 셋 이상이 섞인 무리 속이다."
+   },
+   {
+    "word": "among",
+    "note": "뜻은 같다. 미국식 일상 글은 among, 영국식·격식 문서는 amongst를 더 많이 쓴다."
+   }
+  ]
+ },
+ {
+  "id": "amplify",
+  "headword": "amplify",
+  "ipa": "/ˈæmplɪfaɪ/",
+  "level": "ADV",
+  "isCore": false,
+  "topic": "communication",
+  "forms": [
+   "amplified",
+   "amplifies",
+   "amplifying"
+  ],
+  "senses": [
+   {
+    "id": "amplify-1",
+    "pos": "v",
+    "ko": "증폭시키다, 키우다",
+    "en": "to make a sound, feeling, or effect much stronger",
+    "nuance": "소리뿐 아니라 문제·효과·목소리(의견)를 키운다는 비유로도 자주 쓴다. -y로 끝나므로 amplifyed가 아니라 amplified로 쓴다.",
+    "pattern": "amplify + 명사",
+    "examples": [
+     {
+      "en": "Social media amplified a small complaint into a national story.",
+      "ko": "SNS가 작은 불만 하나를 전국적인 이슈로 키웠어요.",
+      "focus": "amplified a small complaint"
+     },
+     {
+      "en": "The speakers amplify her voice so the back rows hear.",
+      "ko": "스피커가 그분 목소리를 키워 줘서 뒷줄에서도 들려요.",
+      "focus": "amplify her voice"
+     }
+    ],
+    "collocations": [
+     "amplify a sound",
+     "amplify the effect",
+     "amplify voices"
+    ]
+   }
+  ],
+  "wordFamily": [
+   {
+    "form": "amplifier",
+    "pos": "n",
+    "ko": "앰프, 증폭기"
+   }
+  ],
+  "confusables": [
+   {
+    "word": "simplify",
+    "note": "철자가 비슷하지만 simplify는 '단순하게 만들다', amplify는 '더 크게 만들다'로 정반대에 가깝다."
+   }
+  ]
+ },
+ {
+  "id": "analogy",
+  "headword": "analogy",
+  "ipa": "/əˈnælədʒi/",
+  "level": "ADV",
+  "isCore": false,
+  "topic": "thinking_opinion",
+  "forms": [
+   "analogies"
+  ],
+  "senses": [
+   {
+    "id": "analogy-1",
+    "pos": "n",
+    "ko": "비유, 유추",
+    "en": "a comparison that explains one thing by describing a similar thing",
+    "nuance": "설명을 쉽게 하려고 드는 비유로 draw an analogy, use an analogy처럼 쓴다. 문학적 표현의 '비유'는 metaphor 쪽이 더 맞다.",
+    "pattern": "draw an analogy between A and B",
+    "examples": [
+     {
+      "en": "He used a cooking analogy to explain how the algorithm works.",
+      "ko": "그분은 요리에 빗대어 그 알고리즘이 어떻게 돌아가는지 설명했어요.",
+      "focus": "used a cooking analogy"
+     },
+     {
+      "en": "Simple analogies help beginners understand difficult ideas much faster.",
+      "ko": "쉬운 비유는 초보자가 어려운 개념을 훨씬 빨리 이해하게 해 줘요.",
+      "focus": "Simple analogies help beginners"
+     }
+    ],
+    "collocations": [
+     "draw an analogy",
+     "use an analogy",
+     "a useful analogy"
+    ]
+   }
+  ],
+  "confusables": [
+   {
+    "word": "apology",
+    "note": "철자가 비슷해 자주 헷갈린다. apology는 '사과', analogy는 '비유'다."
+   },
+   {
+    "word": "example",
+    "note": "example은 실제 사례 하나, analogy는 다른 분야의 비슷한 것에 빗대어 설명하는 방식이다."
+   }
+  ]
+ },
+ {
+  "id": "ancestor",
+  "headword": "ancestor",
+  "ipa": "/ˈænsestər/",
+  "level": "ADV",
+  "isCore": false,
+  "topic": "people_family",
+  "forms": [
+   "ancestors"
+  ],
+  "senses": [
+   {
+    "id": "ancestor-1",
+    "pos": "n",
+    "ko": "조상, 선조",
+    "en": "a family member who lived a long time before you",
+    "nuance": "보통 복수 ancestors로 먼 윗대를 가리킨다. 할아버지·할머니 정도는 ancestor가 아니라 grandparents라고 해야 자연스럽다.",
+    "pattern": "one's ancestors",
+    "examples": [
+     {
+      "en": "My ancestors farmed rice in a small village near Busan.",
+      "ko": "우리 조상들은 부산 근처 작은 마을에서 벼농사를 지었어.",
+      "focus": "My ancestors farmed rice"
+     },
+     {
+      "en": "Emma traced her ancestors back to eighteenth-century London.",
+      "ko": "엠마는 자기 조상을 18세기 런던까지 거슬러 올라가 찾아냈어.",
+      "focus": "traced her ancestors back"
+     }
+    ],
+    "collocations": [
+     "distant ancestors",
+     "trace one's ancestors",
+     "a common ancestor"
+    ]
+   }
+  ],
+  "wordFamily": [
+   {
+    "form": "ancestral",
+    "pos": "adj",
+    "ko": "조상의, 선조 대대의"
+   }
+  ],
+  "confusables": [
+   {
+    "word": "descendant",
+    "note": "방향이 반대다. ancestor는 나보다 앞선 윗대, descendant는 나보다 뒤에 오는 후손이다."
+   }
+  ]
+ },
+ {
+  "id": "annually",
+  "headword": "annually",
+  "ipa": "/ˈænjuəli/",
+  "level": "ADV",
+  "isCore": false,
+  "topic": "time_quantity",
+  "senses": [
+   {
+    "id": "annually-1",
+    "pos": "adv",
+    "ko": "해마다, 연간",
+    "en": "once each year, or measured by the year",
+    "nuance": "계약·보고서에서 every year 대신 쓰는 격식체이고 보통 문장 끝에 놓는다. actually(사실은)와 철자·발음이 비슷하니 헷갈리지 않게 조심한다.",
+    "pattern": "동사 + annually / 금액 + annually",
+    "examples": [
+     {
+      "en": "The membership fee is charged annually, not every month.",
+      "ko": "회비는 매달이 아니라 연 단위로 청구됩니다.",
+      "focus": "charged annually"
+     },
+     {
+      "en": "Our team reviews these safety rules annually with the whole staff.",
+      "ko": "저희 팀은 이 안전 수칙을 해마다 전 직원과 함께 점검합니다.",
+      "focus": "reviews these safety rules annually"
+     }
+    ],
+    "collocations": [
+     "charged annually",
+     "paid annually",
+     "held annually"
+    ]
+   }
+  ],
+  "wordFamily": [
+   {
+    "form": "annual",
+    "pos": "adj",
+    "ko": "연간의, 매년의"
+   }
+  ],
+  "confusables": [
+   {
+    "word": "actually",
+    "note": "철자가 비슷하지만 actually는 '사실은'이라는 뜻이라 시간과 아무 관계가 없다."
+   },
+   {
+    "word": "yearly",
+    "note": "뜻은 같지만 yearly가 더 일상적이고, 계약서·재무 문서에서는 annually를 쓴다."
+   }
+  ]
+ },
+ {
+  "id": "annuity",
+  "headword": "annuity",
+  "ipa": "/əˈnuːəti/",
+  "level": "ADV",
+  "isCore": false,
+  "topic": "money_shopping",
+  "forms": [
+   "annuities"
+  ],
+  "senses": [
+   {
+    "id": "annuity-1",
+    "pos": "n",
+    "ko": "연금, 연금 상품",
+    "en": "a plan that pays you a fixed sum every year for life",
+    "nuance": "보험사에서 사는 금융 상품을 뜻하는 가산 명사다. 국민연금 같은 공적 연금은 annuity가 아니라 pension이라고 해야 한다.",
+    "pattern": "buy/take out an annuity",
+    "examples": [
+     {
+      "en": "My father bought an annuity that pays him every March.",
+      "ko": "아버지는 매년 3월에 돈이 나오는 연금 상품에 가입하셨어.",
+      "focus": "bought an annuity"
+     },
+     {
+      "en": "Most annuities look safe, but the fees deserve a careful look.",
+      "ko": "연금 상품 대부분이 안전해 보이지만 수수료는 꼼꼼히 봐야 해요.",
+      "focus": "Most annuities look safe"
+     }
+    ],
+    "collocations": [
+     "buy an annuity",
+     "an annuity payment"
+    ]
+   }
+  ],
+  "confusables": [
+   {
+    "word": "pension",
+    "note": "pension은 회사·국가가 퇴직자에게 주는 연금, annuity는 개인이 돈을 넣고 사는 금융 상품이다."
+   }
+  ]
+ },
+ {
+  "id": "anti",
+  "headword": "anti",
+  "ipa": "/ˈæntaɪ/",
+  "level": "ADV",
+  "isCore": false,
+  "topic": "thinking_opinion",
+  "senses": [
+   {
+    "id": "anti-1",
+    "pos": "adj",
+    "ko": "반대하는",
+    "en": "opposed to a plan, group, or idea",
+    "nuance": "혼자 쓰면 be동사 뒤에서 '반대다'라는 구어체 형용사가 된다. 명사 앞에 붙일 때는 anti-smoking처럼 하이픈을 넣어 한 단어로 만든다.",
+    "pattern": "be anti + (명사)",
+    "examples": [
+     {
+      "en": "I'm not anti technology; I just prefer paper notebooks.",
+      "ko": "기술을 반대하는 건 아니고, 그냥 종이 공책이 좋을 뿐이야.",
+      "focus": "not anti technology"
+     },
+     {
+      "en": "Half the team was anti from the very first meeting.",
+      "ko": "팀의 절반은 첫 회의 때부터 반대였어요.",
+      "focus": "was anti from the very first meeting"
+     }
+    ],
+    "collocations": [
+     "be anti"
+    ]
+   }
+  ],
+  "confusables": [
+   {
+    "word": "against",
+    "note": "일상 회화에서 '나는 반대야'는 I'm against it이 훨씬 흔하고, anti 단독 사용은 캐주얼한 편이다."
+   },
+   {
+    "word": "ant",
+    "note": "철자가 한 글자 차이다. ant는 '개미'이고 발음도 anti /ˈæntaɪ/와 다르다."
+   }
+  ]
+ },
+ {
+  "id": "applause",
+  "headword": "applause",
+  "ipa": "/əˈplɔːz/",
+  "level": "ADV",
+  "isCore": false,
+  "topic": "culture_arts",
+  "senses": [
+   {
+    "id": "applause-1",
+    "pos": "n",
+    "ko": "박수, 갈채",
+    "en": "the sound of people hitting their hands together to show they like something",
+    "nuance": "불가산 명사라 an applause나 applauses라고 하지 않고 loud applause라고 한다. '박수 쳐 주세요'는 Give her a big hand가 자연스럽다.",
+    "pattern": "loud/warm + applause",
+    "examples": [
+     {
+      "en": "The band walked off to loud applause from the whole hall.",
+      "ko": "밴드는 홀 전체의 큰 박수를 받으며 무대를 내려갔어.",
+      "focus": "to loud applause"
+     },
+     {
+      "en": "There was warm applause when Mina finished her speech.",
+      "ko": "미나가 연설을 마치자 따뜻한 박수가 나왔어요.",
+      "focus": "warm applause"
+     }
+    ],
+    "collocations": [
+     "loud applause",
+     "a round of applause",
+     "break into applause"
+    ]
+   }
+  ],
+  "wordFamily": [
+   {
+    "form": "applaud",
+    "pos": "v",
+    "ko": "박수를 치다"
+   }
+  ],
+  "confusables": [
+   {
+    "word": "clap",
+    "note": "clap은 손뼉을 치는 동작(동사), applause는 그 소리 전체를 가리키는 불가산 명사다."
+   }
+  ]
+ },
+ {
+  "id": "applicable",
+  "headword": "applicable",
+  "ipa": "/ˈæplɪkəbl/",
+  "level": "ADV",
+  "isCore": false,
+  "topic": "work_business",
+  "senses": [
+   {
+    "id": "applicable-1",
+    "pos": "adj",
+    "ko": "해당되는, 적용되는",
+    "en": "able to be used in a particular situation, or relevant to it",
+    "nuance": "서류에서 '해당 없음'을 not applicable(N/A)로 쓰는 게 가장 흔하다. 전치사는 for가 아니라 to이고, 지원 자격은 applicable이 아니라 eligible이다.",
+    "pattern": "be applicable to + 명사",
+    "examples": [
+     {
+      "en": "This discount is only applicable to orders over fifty dollars.",
+      "ko": "이 할인은 50달러가 넘는 주문에만 적용됩니다.",
+      "focus": "only applicable to orders"
+     },
+     {
+      "en": "Write not applicable if the question doesn't fit your case.",
+      "ko": "질문이 본인 상황과 안 맞으면 해당 없음이라고 적으세요.",
+      "focus": "Write not applicable"
+     }
+    ],
+    "collocations": [
+     "applicable to",
+     "not applicable",
+     "applicable law"
+    ]
+   }
+  ],
+  "wordFamily": [
+   {
+    "form": "apply",
+    "pos": "v",
+    "ko": "적용되다, 지원하다"
+   }
+  ],
+  "confusables": [
+   {
+    "word": "eligible",
+    "note": "eligible은 사람이 자격을 갖춘 것, applicable은 규칙·할인이 그 상황에 들어맞는 것이다."
+   },
+   {
+    "word": "applicant",
+    "note": "applicant는 '지원자'라는 사람 명사다. 철자가 비슷해도 품사와 뜻이 다르다."
+   }
+  ]
+ },
+ {
+  "id": "arbitrage",
+  "headword": "arbitrage",
+  "ipa": "/ˈɑːrbɪtrɑːʒ/",
+  "level": "ADV",
+  "isCore": false,
+  "topic": "money_shopping",
+  "senses": [
+   {
+    "id": "arbitrage-1",
+    "pos": "n",
+    "ko": "차익 거래",
+    "en": "buying in one market and selling in another to profit from price gaps",
+    "nuance": "보통 불가산으로 쓰고 crypto arbitrage처럼 앞에 분야를 붙인다. arbitration(중재)과 뿌리는 같지만 뜻이 전혀 달라 혼동하기 쉽다.",
+    "pattern": "arbitrage + 명사 / 분야 + arbitrage",
+    "examples": [
+     {
+      "en": "He made a small profit through simple currency arbitrage last year.",
+      "ko": "그는 작년에 단순한 환차익 거래로 소소한 이익을 냈어요.",
+      "focus": "through simple currency arbitrage"
+     },
+     {
+      "en": "Fast trading software has made arbitrage much harder for individuals.",
+      "ko": "빠른 거래 소프트웨어 때문에 개인이 차익 거래를 하기가 훨씬 어려워졌어요.",
+      "focus": "made arbitrage much harder"
+     }
+    ],
+    "collocations": [
+     "currency arbitrage",
+     "an arbitrage opportunity"
+    ]
+   }
+  ],
+  "confusables": [
+   {
+    "word": "arbitration",
+    "note": "arbitration은 분쟁을 제3자가 중재하는 것이고, arbitrage는 가격 차이를 노린 거래다."
+   }
+  ]
+ },
+ {
+  "id": "archive",
+  "headword": "archive",
+  "ipa": "/ˈɑːrkaɪv/",
+  "level": "ADV",
+  "isCore": false,
+  "topic": "communication",
+  "forms": [
+   "archives",
+   "archived",
+   "archiving"
+  ],
+  "senses": [
+   {
+    "id": "archive-1",
+    "pos": "n",
+    "ko": "기록 보관소, 자료실",
+    "en": "a place or collection that keeps old records and documents",
+    "nuance": "보통 복수 archives로 기관의 자료 전체를 가리킨다. 이메일·채팅에서 '보관함'도 the archive라고 하고, 압축 파일을 뜻하기도 한다.",
+    "pattern": "in the archives",
+    "examples": [
+     {
+      "en": "You'll find the 1980s photos in the city archives downtown.",
+      "ko": "1980년대 사진은 시내 시립 기록 보관소에 있어요.",
+      "focus": "in the city archives"
+     },
+     {
+      "en": "The whole archive is searchable online now, which saves hours.",
+      "ko": "이제 자료실 전체를 온라인에서 검색할 수 있어서 시간이 많이 절약돼요.",
+      "focus": "The whole archive is searchable"
+     }
+    ],
+    "collocations": [
+     "the city archives",
+     "a digital archive"
+    ]
+   },
+   {
+    "id": "archive-2",
+    "pos": "v",
+    "ko": "보관하다, 아카이브하다",
+    "en": "to move old files somewhere safe instead of deleting them",
+    "nuance": "메일·메신저에서 지우지 않고 목록에서 치우는 동작을 말한다. delete와 달리 내용은 남아 있으니 '삭제'로 옮기면 오해가 생긴다.",
+    "pattern": "archive + 명사",
+    "examples": [
+     {
+      "en": "I archived that thread instead of deleting it, just in case.",
+      "ko": "혹시 몰라서 그 대화는 삭제하지 않고 보관해 뒀어.",
+      "focus": "archived that thread"
+     }
+    ]
+   }
+  ],
+  "confusables": [
+   {
+    "word": "achieve",
+    "note": "철자 순서만 다르고 뜻은 전혀 다르다. achieve는 '이루다', archive는 '보관하다'다."
+   },
+   {
+    "word": "delete",
+    "note": "delete는 완전히 지우는 것, archive는 목록에서만 치우고 자료는 그대로 남기는 것이다."
+   }
+  ]
+ },
+ {
+  "id": "articulate",
+  "headword": "articulate",
+  "ipa": "/ɑːrˈtɪkjuleɪt/",
+  "level": "ADV",
+  "isCore": false,
+  "topic": "communication",
+  "forms": [
+   "articulated",
+   "articulates",
+   "articulating"
+  ],
+  "senses": [
+   {
+    "id": "articulate-1",
+    "pos": "v",
+    "ko": "분명히 말하다, 표현하다",
+    "en": "to express your thoughts in clear, well-organized words",
+    "nuance": "머릿속의 막연한 생각을 또렷한 말로 풀어낸다는 뜻이라 회의·면접에서 자주 쓴다. 단순히 '말하다'는 say이고 articulate는 명료함을 칭찬하는 어감이다.",
+    "pattern": "articulate + 명사(idea, concern)",
+    "examples": [
+     {
+      "en": "Jun articulated his concerns clearly without upsetting anyone on the team.",
+      "ko": "준은 팀의 누구도 불편하게 하지 않으면서 우려를 분명히 전했어요.",
+      "focus": "articulated his concerns clearly"
+     },
+     {
+      "en": "I couldn't articulate why the design felt wrong to me.",
+      "ko": "그 디자인이 왜 어색하게 느껴지는지 말로 설명할 수가 없었어.",
+      "focus": "couldn't articulate why the design felt wrong"
+     }
+    ],
+    "collocations": [
+     "articulate an idea",
+     "clearly articulate",
+     "articulate concerns"
+    ]
+   }
+  ],
+  "confusables": [
+   {
+    "word": "article",
+    "note": "철자가 비슷하지만 article은 '기사·관사'라는 명사로 품사부터 다르다."
+   },
+   {
+    "word": "pronounce",
+    "note": "pronounce는 소리를 정확히 내는 것, articulate는 생각을 조리 있게 표현하는 것이다."
+   }
+  ]
+ },
+ {
+  "id": "artistic",
+  "headword": "artistic",
+  "ipa": "/ɑːrˈtɪstɪk/",
+  "level": "ADV",
+  "isCore": false,
+  "topic": "culture_arts",
+  "senses": [
+   {
+    "id": "artistic-1",
+    "pos": "adj",
+    "ko": "예술적인, 예술 감각이 있는",
+    "en": "showing skill or taste in painting, music, or design",
+    "nuance": "사람의 재능과 작품의 성격 모두에 쓰는 형용사다. 사람을 가리킬 때 He is an artistic이라고 쓰면 틀리고 He is artistic 또는 an artist라고 해야 한다.",
+    "pattern": "be artistic / artistic + 명사",
+    "examples": [
+     {
+      "en": "Emma is far more artistic than anyone else in our family.",
+      "ko": "엠마는 우리 가족 중에 누구보다 예술 감각이 뛰어나.",
+      "focus": "far more artistic"
+     },
+     {
+      "en": "The café owner gave the menu a nice artistic touch.",
+      "ko": "그 카페 사장님이 메뉴판에 예술적인 느낌을 살짝 더했어.",
+      "focus": "a nice artistic touch"
+     }
+    ],
+    "collocations": [
+     "artistic talent",
+     "an artistic touch",
+     "artistic freedom"
+    ]
+   }
+  ],
+  "wordFamily": [
+   {
+    "form": "artist",
+    "pos": "n",
+    "ko": "예술가"
+   },
+   {
+    "form": "artistically",
+    "pos": "adv",
+    "ko": "예술적으로"
+   }
+  ],
+  "confusables": [
+   {
+    "word": "artificial",
+    "note": "앞부분만 비슷하다. artificial은 '인공의'로 예술과 전혀 관계가 없다."
+   }
+  ]
+ },
+ {
+  "id": "assault",
+  "headword": "assault",
+  "ipa": "/əˈsɔːlt/",
+  "level": "ADV",
+  "isCore": false,
+  "topic": "society_politics",
+  "forms": [
+   "assaults"
+  ],
+  "senses": [
+   {
+    "id": "assault-1",
+    "pos": "n",
+    "ko": "폭행, 공격",
+    "en": "a sudden violent attack on a person, or the crime of attacking",
+    "nuance": "법률 용어로 뉴스·경찰 보고서에 자주 나오는 가산 명사다. 말로 몰아붙이는 '언어 폭력'은 a verbal assault라고 표현한다.",
+    "pattern": "an assault on + 명사",
+    "examples": [
+     {
+      "en": "The report described a verbal assault on a subway worker.",
+      "ko": "그 보고서는 지하철 직원에 대한 언어 폭력을 다뤘어요.",
+      "focus": "a verbal assault on a subway worker"
+     },
+     {
+      "en": "Police said assaults in the area dropped sharply last year.",
+      "ko": "경찰은 작년에 그 지역 폭행 사건이 크게 줄었다고 밝혔어요.",
+      "focus": "assaults in the area dropped sharply"
+     }
+    ],
+    "collocations": [
+     "a verbal assault",
+     "an assault on",
+     "a physical assault"
+    ]
+   }
+  ],
+  "confusables": [
+   {
+    "word": "attack",
+    "note": "attack은 넓게 쓰는 일반어, assault는 사람을 대상으로 한 범죄를 가리키는 법률적 표현이다."
+   }
+  ]
+ },
+ {
+  "id": "assembly",
+  "headword": "assembly",
+  "ipa": "/əˈsembli/",
+  "level": "ADV",
+  "isCore": false,
+  "topic": "society_politics",
+  "forms": [
+   "assemblies"
+  ],
+  "senses": [
+   {
+    "id": "assembly-1",
+    "pos": "n",
+    "ko": "의회, 집회",
+    "en": "a group of people who meet officially to make decisions",
+    "nuance": "국회(the National Assembly)나 학교 조회처럼 공식적으로 모인 자리를 뜻하는 가산 명사다. 친구들 모임은 assembly가 아니라 a get-together다.",
+    "pattern": "the + 명사 + Assembly",
+    "examples": [
+     {
+      "en": "The National Assembly will vote on the housing bill tomorrow.",
+      "ko": "국회는 내일 주택 법안을 표결할 예정입니다.",
+      "focus": "The National Assembly will vote"
+     },
+     {
+      "en": "School assemblies used to bore me completely when I was ten.",
+      "ko": "열 살 때는 학교 조회가 정말 지루했어.",
+      "focus": "School assemblies used to bore me"
+     }
+    ],
+    "collocations": [
+     "the National Assembly",
+     "a school assembly",
+     "an assembly line"
+    ]
+   }
+  ],
+  "wordFamily": [
+   {
+    "form": "assemble",
+    "pos": "v",
+    "ko": "모으다, 조립하다"
+   }
+  ],
+  "confusables": [
+   {
+    "word": "meeting",
+    "note": "meeting은 소규모 업무 회의, assembly는 의회·전교생처럼 공식적으로 소집된 큰 모임이다."
+   }
+  ]
+ },
+ {
+  "id": "assignment",
+  "headword": "assignment",
+  "ipa": "/əˈsaɪnmənt/",
+  "level": "ADV",
+  "isCore": false,
+  "topic": "school_learning",
+  "forms": [
+   "assignments"
+  ],
+  "senses": [
+   {
+    "id": "assignment-1",
+    "pos": "n",
+    "ko": "과제, 맡은 일",
+    "en": "a piece of work given to a student or worker to finish",
+    "nuance": "가산 명사라 three assignments처럼 세지만, homework는 불가산이라 homeworks라고 쓰면 틀린다. 직장에서는 '배정된 업무'라는 뜻으로도 쓴다.",
+    "pattern": "hand in / turn in an assignment",
+    "examples": [
+     {
+      "en": "I still have two assignments to hand in by Friday.",
+      "ko": "금요일까지 내야 할 과제가 아직 두 개 남았어.",
+      "focus": "two assignments to hand in"
+     },
+     {
+      "en": "Tom took an overseas assignment in London for six months.",
+      "ko": "톰은 런던에서 6개월짜리 해외 파견 업무를 맡았어요.",
+      "focus": "took an overseas assignment"
+     }
+    ],
+    "collocations": [
+     "hand in an assignment",
+     "a written assignment",
+     "an overseas assignment"
+    ]
+   }
+  ],
+  "wordFamily": [
+   {
+    "form": "assign",
+    "pos": "v",
+    "ko": "배정하다, 맡기다"
+   }
+  ],
+  "confusables": [
+   {
+    "word": "homework",
+    "note": "homework는 불가산이라 수를 못 세지만 assignment는 an assignment, assignments로 셀 수 있다."
+   },
+   {
+    "word": "task",
+    "note": "task는 크기와 상관없는 할 일 전반, assignment는 누군가가 공식적으로 맡긴 일이다."
+   }
+  ]
+ }
+]
