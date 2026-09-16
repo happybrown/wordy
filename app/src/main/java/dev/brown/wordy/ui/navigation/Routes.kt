@@ -5,6 +5,7 @@ import kotlinx.serialization.Serializable
 @Serializable object OnboardingRoute
 @Serializable object HomeRoute
 @Serializable object BrowseRoute
+@Serializable object StatsRoute
 @Serializable object SettingsRoute
 @Serializable data class SessionRoute(val extraNew: Int = 0)
 @Serializable data class UnitRoute(val unitId: String, val title: String)

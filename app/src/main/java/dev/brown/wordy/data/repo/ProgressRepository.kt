@@ -64,6 +64,10 @@ class ProgressRepository(private val db: ProgressDatabase) {
         upsertStatus(cur.copy(note = note?.takeIf { it.isNotBlank() }), now)
     }
 
+    /** 약한 단어. 같은 단어의 카드가 여러 장이면 가장 약한 것만 남긴다. */
+    suspend fun weakCards(limit: Int): List<Card> =
+        cards.weakest(limit * 3).map { it.toDomain() }.distinctBy { it.wordId }.take(limit)
+
     suspend fun recentLogs(wordId: String, limit: Int = 20) = logs.byWord(wordId, limit)
     suspend fun logsSince(since: Long) = logs.since(since)
     suspend fun totalReviews() = logs.count()

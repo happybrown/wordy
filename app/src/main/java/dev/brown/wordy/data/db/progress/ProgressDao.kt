@@ -46,6 +46,13 @@ interface CardDao {
     suspend fun all(): List<CardEntity>
 
     /**
+     * 약한 단어. lapses(잊은 횟수)가 많고 stability(기억 유지 기간)가 짧은 순.
+     * 아직 한 번도 복습하지 않은 NEW 카드는 "약하다"고 할 근거가 없어 제외한다.
+     */
+    @Query("SELECT * FROM card WHERE lapses > 0 AND state != 'NEW' ORDER BY lapses DESC, stability ASC LIMIT :limit")
+    suspend fun weakest(limit: Int): List<CardEntity>
+
+    /**
      * 복원 전용. insertAll 은 IGNORE 라 (wordId, senseId, skill) 유니크 제약에 걸리면 조용히 버린다.
      * 그 동작은 단어를 두 번 도입해도 카드가 안 늘어나게 하려는 것이라 복원에는 맞지 않는다.
      */

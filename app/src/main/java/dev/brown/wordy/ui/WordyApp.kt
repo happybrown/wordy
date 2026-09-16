@@ -3,6 +3,7 @@ package dev.brown.wordy.ui
 import androidx.compose.foundation.layout.padding
 import androidx.compose.material.icons.Icons
 import androidx.compose.material.icons.automirrored.filled.MenuBook
+import androidx.compose.material.icons.filled.BarChart
 import androidx.compose.material.icons.filled.Home
 import androidx.compose.material.icons.filled.Settings
 import androidx.compose.material3.Icon
@@ -39,11 +40,13 @@ import dev.brown.wordy.ui.navigation.PracticeRoute
 import dev.brown.wordy.ui.practice.PracticeScreen
 import dev.brown.wordy.ui.navigation.SessionRoute
 import dev.brown.wordy.ui.navigation.SettingsRoute
+import dev.brown.wordy.ui.navigation.StatsRoute
 import dev.brown.wordy.ui.navigation.UnitRoute
 import dev.brown.wordy.ui.navigation.WordRoute
 import dev.brown.wordy.ui.onboarding.OnboardingScreen
 import dev.brown.wordy.ui.session.SessionScreen
 import dev.brown.wordy.ui.settings.SettingsScreen
+import dev.brown.wordy.ui.stats.StatsScreen
 import dev.brown.wordy.ui.word.WordDetailScreen
 import kotlinx.coroutines.flow.first
 
@@ -57,13 +60,15 @@ fun WordyApp(container: AppContainer) {
         val nav = rememberNavController()
         val backStack by nav.currentBackStackEntryAsState()
         val dest = backStack?.destination
-        val showBar = dest?.hasRoute(HomeRoute::class) == true || dest?.hasRoute(BrowseRoute::class) == true || dest?.hasRoute(SettingsRoute::class) == true
+        val showBar = dest?.hasRoute(HomeRoute::class) == true || dest?.hasRoute(BrowseRoute::class) == true ||
+            dest?.hasRoute(StatsRoute::class) == true || dest?.hasRoute(SettingsRoute::class) == true
         var browseLevel by remember { mutableStateOf<Level?>(null) }
 
         Scaffold(bottomBar = {
             if (showBar) NavigationBar {
                 NavigationBarItem(selected = dest?.hasRoute(HomeRoute::class) == true, onClick = { nav.navigateTab(HomeRoute) }, icon = { Icon(Icons.Default.Home, null) }, label = { Text("홈") })
                 NavigationBarItem(selected = dest?.hasRoute(BrowseRoute::class) == true, onClick = { browseLevel = null; nav.navigateTab(BrowseRoute) }, icon = { Icon(Icons.AutoMirrored.Filled.MenuBook, null) }, label = { Text("단어장") })
+                NavigationBarItem(selected = dest?.hasRoute(StatsRoute::class) == true, onClick = { nav.navigateTab(StatsRoute) }, icon = { Icon(Icons.Default.BarChart, null) }, label = { Text("통계") })
                 NavigationBarItem(selected = dest?.hasRoute(SettingsRoute::class) == true, onClick = { nav.navigateTab(SettingsRoute) }, icon = { Icon(Icons.Default.Settings, null) }, label = { Text("설정") })
             }
         }) { padding ->
@@ -77,6 +82,7 @@ fun WordyApp(container: AppContainer) {
                     )
                 }
                 composable<BrowseRoute> { BrowseScreen(initialLevel = browseLevel, onOpenUnit = { id, title -> nav.navigate(UnitRoute(id, title)) }, onOpenWord = { nav.navigate(WordRoute(it)) }) }
+                composable<StatsRoute> { StatsScreen(onWord = { nav.navigate(WordRoute(it)) }) }
                 composable<SettingsRoute> { SettingsScreen() }
                 composable<SessionRoute> { entry -> SessionScreen(extraNew = entry.toRoute<SessionRoute>().extraNew, onExit = { nav.popBackStack() }, onOpenWord = { nav.navigate(WordRoute(it)) }) }
                 composable<UnitRoute> { entry -> val r = entry.toRoute<UnitRoute>(); UnitScreen(r.unitId, r.title, onBack = { nav.popBackStack() }, onOpenWord = { nav.navigate(WordRoute(it)) }) }
