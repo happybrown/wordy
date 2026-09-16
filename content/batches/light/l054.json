@@ -1541,5 +1541,1522 @@
     "note": "direct는 방향을 안내하거나 지휘하는 것이고 dictate는 조건 자체를 강제하는 쪽이다."
    }
   ]
+ },
+ {
+  "id": "dignity",
+  "headword": "dignity",
+  "ipa": "/ˈdɪɡnəti/",
+  "level": "ADV",
+  "isCore": false,
+  "topic": "emotions_personality",
+  "senses": [
+   {
+    "id": "dignity-1",
+    "pos": "n",
+    "ko": "존엄, 품위",
+    "en": "the right to be respected, or calm and serious behavior",
+    "nuance": "불가산 명사라 a dignity, dignities라고 하지 않는다. '품위 있게'는 dignifiedly가 아니라 with dignity라고 쓰는 것이 자연스럽다.",
+    "pattern": "with dignity / treat with dignity",
+    "examples": [
+     {
+      "en": "Every patient deserves to be treated with dignity.",
+      "ko": "모든 환자는 존엄하게 대우받을 자격이 있어요.",
+      "focus": "treated with dignity"
+     },
+     {
+      "en": "She lost the election but accepted the result with dignity.",
+      "ko": "그분은 선거에서 졌지만 결과를 품위 있게 받아들였어요.",
+      "focus": "accepted the result with dignity"
+     }
+    ],
+    "collocations": [
+     "with dignity",
+     "human dignity",
+     "treat someone with dignity"
+    ]
+   }
+  ],
+  "wordFamily": [
+   {
+    "form": "dignified",
+    "pos": "adj",
+    "ko": "품위 있는"
+   }
+  ],
+  "confusables": [
+   {
+    "word": "pride",
+    "note": "pride는 스스로 느끼는 자부심, dignity는 남에게도 존중받아야 할 사람으로서의 가치다."
+   },
+   {
+    "word": "honor",
+    "note": "honor는 명예나 공로에 대한 인정, dignity는 누구에게나 있는 기본적 존엄이다."
+   }
+  ]
+ },
+ {
+  "id": "dine",
+  "headword": "dine",
+  "ipa": "/daɪn/",
+  "level": "ADV",
+  "isCore": false,
+  "topic": "food_cooking",
+  "forms": [
+   "dined",
+   "dines",
+   "dining"
+  ],
+  "senses": [
+   {
+    "id": "dine-1",
+    "pos": "v",
+    "ko": "식사하다, 만찬을 들다",
+    "en": "to eat a full evening meal, usually in a formal way",
+    "nuance": "격식 있는 저녁 식사를 뜻해서 일상 대화에서는 have dinner를 쓴다. dine out(외식하다)과 dining room처럼 굳어진 표현으로 가장 자주 만난다.",
+    "pattern": "dine at/with + 명사",
+    "examples": [
+     {
+      "en": "We dined with the client at a small place near the office.",
+      "ko": "우리는 사무실 근처 작은 식당에서 고객과 식사했어요.",
+      "focus": "dined with the client"
+     },
+     {
+      "en": "Guests may dine in the main hall until nine.",
+      "ko": "투숙객은 9시까지 메인 홀에서 식사하실 수 있습니다.",
+      "focus": "dine in the main hall"
+     }
+    ],
+    "collocations": [
+     "dine out",
+     "dine with a client",
+     "a dining room"
+    ]
+   }
+  ],
+  "wordFamily": [
+   {
+    "form": "diner",
+    "pos": "n",
+    "ko": "식사하는 손님, 간이식당"
+   }
+  ],
+  "confusables": [
+   {
+    "word": "eat",
+    "note": "eat은 어떤 음식이든 먹는 일반 동사, dine은 제대로 차린 저녁 식사에 쓰는 격식체다."
+   },
+   {
+    "word": "dinner",
+    "note": "dinner는 명사 '저녁 식사'이고 dine은 동사라 have dinner = dine으로 바꿔 쓸 수 있다."
+   }
+  ]
+ },
+ {
+  "id": "dioxide",
+  "headword": "dioxide",
+  "ipa": "/daɪˈɑːksaɪd/",
+  "level": "ADV",
+  "isCore": false,
+  "topic": "environment_science",
+  "forms": [
+   "dioxides"
+  ],
+  "senses": [
+   {
+    "id": "dioxide-1",
+    "pos": "n",
+    "ko": "이산화물",
+    "en": "a gas made of one atom of a substance and two of oxygen",
+    "nuance": "혼자 쓰기보다 carbon dioxide처럼 앞 원소와 붙여 쓰는 화학 용어다. 이 뜻일 때는 불가산이라 carbon dioxides라고 복수로 만들지 않는다.",
+    "pattern": "carbon dioxide + 명사",
+    "examples": [
+     {
+      "en": "Forests absorb carbon dioxide and release oxygen.",
+      "ko": "숲은 이산화탄소를 흡수하고 산소를 내보내요.",
+      "focus": "absorb carbon dioxide"
+     },
+     {
+      "en": "The factory cut its carbon dioxide emissions by a third.",
+      "ko": "그 공장은 이산화탄소 배출을 3분의 1 줄였어요.",
+      "focus": "carbon dioxide emissions"
+     }
+    ],
+    "collocations": [
+     "carbon dioxide",
+     "carbon dioxide emissions"
+    ]
+   }
+  ],
+  "confusables": [
+   {
+    "word": "monoxide",
+    "note": "mono는 산소 하나(일산화), di는 산소 둘(이산화)이라 carbon monoxide는 독성 가스다."
+   },
+   {
+    "word": "divide",
+    "note": "divide는 '나누다'라는 동사로 철자만 비슷하고 화학과 관련이 없다."
+   }
+  ]
+ },
+ {
+  "id": "disability",
+  "headword": "disability",
+  "ipa": "/ˌdɪsəˈbɪləti/",
+  "level": "ADV",
+  "isCore": false,
+  "topic": "society_politics",
+  "forms": [
+   "disabilities"
+  ],
+  "senses": [
+   {
+    "id": "disability-1",
+    "pos": "n",
+    "ko": "장애",
+    "en": "a condition that makes some daily activities harder for someone",
+    "nuance": "사람을 가리킬 때는 the disabled보다 people with disabilities처럼 사람을 앞에 두는 표현이 정중하다. handicapped는 요즘 영어에서 실례가 되므로 쓰지 않는다.",
+    "pattern": "people with disabilities",
+    "examples": [
+     {
+      "en": "The new entrance makes the building easier for people with disabilities.",
+      "ko": "새 출입구 덕분에 장애가 있는 분들이 건물을 이용하기 쉬워졌어요.",
+      "focus": "people with disabilities"
+     },
+     {
+      "en": "He receives a small monthly payment for a hearing disability.",
+      "ko": "그분은 청각 장애로 매달 소액의 지원금을 받아요.",
+      "focus": "a hearing disability"
+     }
+    ],
+    "collocations": [
+     "people with disabilities",
+     "a learning disability"
+    ]
+   }
+  ],
+  "confusables": [
+   {
+    "word": "liability",
+    "note": "liability는 법적 책임이나 빚을 뜻해서 disability의 '장애'와 전혀 다르다."
+   },
+   {
+    "word": "inability",
+    "note": "inability는 특정 일을 못 하는 상태 일반, disability는 신체·인지 상태로서의 장애다."
+   }
+  ]
+ },
+ {
+  "id": "discharge",
+  "headword": "discharge",
+  "ipa": "/ˈdɪstʃɑːrdʒ/",
+  "level": "ADV",
+  "isCore": false,
+  "topic": "body_health",
+  "forms": [
+   "discharged",
+   "discharges",
+   "discharging"
+  ],
+  "senses": [
+   {
+    "id": "discharge-1",
+    "pos": "n",
+    "ko": "퇴원, 방출",
+    "en": "the act of letting someone leave hospital, or releasing liquid or gas",
+    "nuance": "명사는 앞 음절에, 동사는 뒤 음절에 강세가 온다. 병원 서류의 discharge는 '퇴원'이고 환경 보고서의 discharge는 폐수·가스 '배출'이라 문맥으로 갈린다.",
+    "pattern": "discharge from + 병원/시설",
+    "examples": [
+     {
+      "en": "Her discharge from the hospital is scheduled for Friday.",
+      "ko": "그분 퇴원은 금요일로 잡혀 있어요.",
+      "focus": "Her discharge from the hospital"
+     },
+     {
+      "en": "The plant must report any discharge into the river.",
+      "ko": "그 공장은 강으로 나가는 배출을 전부 신고해야 해요.",
+      "focus": "any discharge into the river"
+     }
+    ],
+    "collocations": [
+     "discharge from hospital",
+     "waste discharge"
+    ]
+   },
+   {
+    "id": "discharge-2",
+    "pos": "v",
+    "ko": "퇴원시키다, 내보내다",
+    "en": "to officially allow a patient to leave, or to send something out",
+    "nuance": "환자가 주어면 거의 항상 수동형 be discharged로 쓰고 discharge oneself라고 하지 않는다. 직원을 '해고하다'라는 뜻도 있지만 격식이 세서 회화에서는 let go를 쓴다.",
+    "pattern": "be discharged from + 병원",
+    "examples": [
+     {
+      "en": "Jun was discharged two days after the operation.",
+      "ko": "준은 수술 이틀 뒤에 퇴원했어.",
+      "focus": "was discharged two days after"
+     }
+    ]
+   }
+  ],
+  "confusables": [
+   {
+    "word": "release",
+    "note": "release가 더 일반적인 '풀어 주다'이고 discharge는 병원·군대·공장처럼 공식 절차에 쓴다."
+   }
+  ]
+ },
+ {
+  "id": "disclosure",
+  "headword": "disclosure",
+  "ipa": "/dɪsˈkloʊʒər/",
+  "level": "ADV",
+  "isCore": false,
+  "topic": "work_business",
+  "forms": [
+   "disclosures"
+  ],
+  "senses": [
+   {
+    "id": "disclosure-1",
+    "pos": "n",
+    "ko": "공개, 정보 제공",
+    "en": "the act of making private facts known to others",
+    "nuance": "기업·법률에서 숨길 수도 있었던 정보를 밝히는 행위를 뜻한다. 제품 '출시 공개'는 disclosure가 아니라 release나 announcement를 쓴다.",
+    "pattern": "disclosure of + 정보",
+    "examples": [
+     {
+      "en": "Full disclosure of the risks is required before signing.",
+      "ko": "서명 전에 위험 요소를 전부 공개해야 합니다.",
+      "focus": "Full disclosure of the risks"
+     },
+     {
+      "en": "The company faced questions after several late disclosures.",
+      "ko": "그 회사는 늑장 공시가 몇 건 있고 나서 질문 공세를 받았어요.",
+      "focus": "several late disclosures"
+     }
+    ],
+    "collocations": [
+     "full disclosure",
+     "disclosure of information"
+    ]
+   }
+  ],
+  "wordFamily": [
+   {
+    "form": "disclose",
+    "pos": "v",
+    "ko": "공개하다, 밝히다"
+   }
+  ],
+  "confusables": [
+   {
+    "word": "announcement",
+    "note": "announcement는 알리려고 준비한 발표, disclosure는 의무나 압박으로 밝히는 공개다."
+   }
+  ]
+ },
+ {
+  "id": "discourse",
+  "headword": "discourse",
+  "ipa": "/ˈdɪskɔːrs/",
+  "level": "ADV",
+  "isCore": false,
+  "topic": "academic",
+  "forms": [
+   "discourses"
+  ],
+  "senses": [
+   {
+    "id": "discourse-1",
+    "pos": "n",
+    "ko": "담론, 논의",
+    "en": "serious talk or writing about a subject in a society",
+    "nuance": "학술·언론에서 사회 전체의 '논의 방식'을 가리키며 public discourse가 대표 표현이다. 두 사람이 나누는 일상 대화는 discourse가 아니라 conversation이다.",
+    "pattern": "public/academic + discourse",
+    "examples": [
+     {
+      "en": "Social media has changed public discourse about climate change.",
+      "ko": "소셜미디어가 기후 변화에 관한 공론의 방식을 바꿔 놨어요.",
+      "focus": "changed public discourse"
+     },
+     {
+      "en": "Her paper analyzes political discourses from the 1990s.",
+      "ko": "그분 논문은 1990년대 정치 담론들을 분석해요.",
+      "focus": "political discourses from the 1990s"
+     }
+    ],
+    "collocations": [
+     "public discourse",
+     "academic discourse"
+    ]
+   }
+  ],
+  "confusables": [
+   {
+    "word": "conversation",
+    "note": "conversation은 개인 간 대화, discourse는 사회·학계에서 오가는 논의 전체를 뜻한다."
+   },
+   {
+    "word": "discount",
+    "note": "철자가 비슷하지만 discount는 '할인'이라 논의와 전혀 관련이 없다."
+   }
+  ]
+ },
+ {
+  "id": "discriminate",
+  "headword": "discriminate",
+  "ipa": "/dɪˈskrɪmɪneɪt/",
+  "level": "ADV",
+  "isCore": false,
+  "topic": "society_politics",
+  "forms": [
+   "discriminated",
+   "discriminates",
+   "discriminating"
+  ],
+  "senses": [
+   {
+    "id": "discriminate-1",
+    "pos": "v",
+    "ko": "차별하다",
+    "en": "to treat one group worse than another for unfair reasons",
+    "nuance": "목적어를 바로 받지 않고 discriminate against someone처럼 against를 꼭 붙인다. '구별하다'라는 중립적 뜻도 있지만 그때는 between A and B를 쓴다.",
+    "pattern": "discriminate against + 사람/집단",
+    "examples": [
+     {
+      "en": "The policy discriminates against workers with young children.",
+      "ko": "그 정책은 어린 자녀가 있는 직원을 차별해요.",
+      "focus": "discriminates against workers"
+     },
+     {
+      "en": "No company should discriminate based on age or gender.",
+      "ko": "어떤 회사도 나이나 성별로 차별해선 안 됩니다.",
+      "focus": "discriminate based on age"
+     }
+    ],
+    "collocations": [
+     "discriminate against someone",
+     "discriminate between two things"
+    ]
+   }
+  ],
+  "confusables": [
+   {
+    "word": "distinguish",
+    "note": "distinguish는 두 가지를 구별하는 중립적 뜻이고, discriminate는 불공평한 대우 쪽으로 더 자주 쓴다."
+   }
+  ]
+ },
+ {
+  "id": "discrimination",
+  "headword": "discrimination",
+  "ipa": "/dɪˌskrɪmɪˈneɪʃn/",
+  "level": "ADV",
+  "isCore": false,
+  "topic": "society_politics",
+  "forms": [
+   "discriminations"
+  ],
+  "senses": [
+   {
+    "id": "discrimination-1",
+    "pos": "n",
+    "ko": "차별",
+    "en": "unfair treatment of people because of race, age, or gender",
+    "nuance": "이 뜻으로는 불가산이라 a discrimination이나 discriminations로 쓰지 않는다. 대상은 against로, 이유는 on the basis of로 연결한다.",
+    "pattern": "discrimination against + 집단",
+    "examples": [
+     {
+      "en": "The report found clear discrimination against older applicants.",
+      "ko": "보고서는 나이 많은 지원자에 대한 명백한 차별을 확인했어요.",
+      "focus": "discrimination against older applicants"
+     },
+     {
+      "en": "Our training covers how to report workplace discrimination.",
+      "ko": "우리 교육에는 직장 내 차별을 신고하는 방법이 들어 있어요.",
+      "focus": "report workplace discrimination"
+     }
+    ],
+    "collocations": [
+     "racial discrimination",
+     "discrimination against women",
+     "age discrimination"
+    ]
+   }
+  ],
+  "confusables": [
+   {
+    "word": "prejudice",
+    "note": "prejudice는 마음속 편견, discrimination은 그 편견이 실제 행동과 대우로 나타난 것이다."
+   },
+   {
+    "word": "discriminate",
+    "note": "discriminate는 동사, discrimination은 그 행위를 가리키는 명사다."
+   }
+  ]
+ },
+ {
+  "id": "displace",
+  "headword": "displace",
+  "ipa": "/dɪsˈpleɪs/",
+  "level": "ADV",
+  "isCore": false,
+  "topic": "society_politics",
+  "forms": [
+   "displaced",
+   "displaces",
+   "displacing"
+  ],
+  "senses": [
+   {
+    "id": "displace-1",
+    "pos": "v",
+    "ko": "쫓아내다, 밀어내다",
+    "en": "to force people or things out of their usual place",
+    "nuance": "재해·전쟁으로 사람이 집을 잃는 상황과 신기술이 기존 방식을 밀어내는 상황에 모두 쓴다. display(전시하다)와 철자가 한 글자 차이라 자주 헷갈린다.",
+    "pattern": "displace + 사람/사물",
+    "examples": [
+     {
+      "en": "The flood displaced hundreds of families last summer.",
+      "ko": "지난여름 홍수로 수백 가구가 집을 잃었어요.",
+      "focus": "displaced hundreds of families"
+     },
+     {
+      "en": "Automation may displace some routine office jobs.",
+      "ko": "자동화가 일부 단순 사무직을 밀어낼 수도 있어요.",
+      "focus": "displace some routine office jobs"
+     }
+    ],
+    "collocations": [
+     "displace workers",
+     "displaced families"
+    ]
+   }
+  ],
+  "wordFamily": [
+   {
+    "form": "displacement",
+    "pos": "n",
+    "ko": "이동, 강제 이주"
+   }
+  ],
+  "confusables": [
+   {
+    "word": "display",
+    "note": "display는 '전시하다, 보여 주다'이고 displace는 원래 자리에서 밀어내는 것이다."
+   },
+   {
+    "word": "replace",
+    "note": "replace는 대신 그 자리를 채우는 것, displace는 원래 있던 것을 내보내는 데 초점이 있다."
+   }
+  ]
+ },
+ {
+  "id": "disposal",
+  "headword": "disposal",
+  "ipa": "/dɪˈspoʊzl/",
+  "level": "ADV",
+  "isCore": false,
+  "topic": "environment_science",
+  "forms": [
+   "disposals"
+  ],
+  "senses": [
+   {
+    "id": "disposal-1",
+    "pos": "n",
+    "ko": "처리, 폐기",
+    "en": "the act of getting rid of waste or unwanted things",
+    "nuance": "쓰레기·폐기물 처리에 주로 쓰는 불가산 명사라 보통 waste disposal처럼 앞에 대상을 붙인다. at your disposal은 '마음대로 쓸 수 있는'이라는 전혀 다른 굳은 표현이다.",
+    "pattern": "the disposal of + 명사",
+    "examples": [
+     {
+      "en": "The city charges a fee for the disposal of old furniture.",
+      "ko": "시에서는 헌 가구 처리에 수수료를 받아요.",
+      "focus": "the disposal of old furniture"
+     },
+     {
+      "en": "A car and driver are at your disposal all week.",
+      "ko": "차와 기사가 한 주 내내 마음대로 쓰실 수 있게 준비돼 있습니다.",
+      "focus": "at your disposal"
+     }
+    ],
+    "collocations": [
+     "waste disposal",
+     "at someone's disposal"
+    ]
+   }
+  ],
+  "wordFamily": [
+   {
+    "form": "dispose",
+    "pos": "v",
+    "ko": "처분하다, 버리다"
+   }
+  ],
+  "confusables": [
+   {
+    "word": "disposable",
+    "note": "disposable은 '일회용의'라는 형용사이고 disposal은 버리는 행위를 가리키는 명사다."
+   }
+  ]
+ },
+ {
+  "id": "disrupt",
+  "headword": "disrupt",
+  "ipa": "/dɪsˈrʌpt/",
+  "level": "ADV",
+  "isCore": false,
+  "topic": "work_business",
+  "forms": [
+   "disrupted",
+   "disrupting",
+   "disrupts"
+  ],
+  "senses": [
+   {
+    "id": "disrupt-1",
+    "pos": "v",
+    "ko": "중단시키다, 뒤흔들다",
+    "en": "to stop an activity or system from continuing as normal",
+    "nuance": "진행 중인 일정·공급망·수업을 멈추게 한다는 뜻이고, IT 업계에서는 기존 시장을 뒤엎는다는 긍정적 어감으로도 쓴다. 사람에게 '방해하다'는 disturb나 interrupt가 맞다.",
+    "pattern": "disrupt + 명사(service, supply)",
+    "examples": [
+     {
+      "en": "The storm disrupted deliveries across the whole region.",
+      "ko": "폭풍 때문에 그 지역 전체 배송이 중단됐어요.",
+      "focus": "disrupted deliveries"
+     },
+     {
+      "en": "Cheap streaming services disrupted the old rental business.",
+      "ko": "값싼 스트리밍 서비스가 기존 대여 사업을 뒤흔들었어요.",
+      "focus": "disrupted the old rental business"
+     }
+    ],
+    "collocations": [
+     "disrupt the supply chain",
+     "disrupt a service"
+    ]
+   }
+  ],
+  "wordFamily": [
+   {
+    "form": "disruption",
+    "pos": "n",
+    "ko": "중단, 혼란"
+   }
+  ],
+  "confusables": [
+   {
+    "word": "interrupt",
+    "note": "interrupt는 말하는 사람을 잠깐 끊는 것, disrupt는 시스템이나 일정 전체를 멈추게 하는 것이다."
+   },
+   {
+    "word": "disturb",
+    "note": "disturb는 사람의 집중·휴식을 방해하는 것이고 disrupt는 활동 자체를 못 하게 만든다."
+   }
+  ]
+ },
+ {
+  "id": "dissolve",
+  "headword": "dissolve",
+  "ipa": "/dɪˈzɑːlv/",
+  "level": "ADV",
+  "isCore": false,
+  "topic": "environment_science",
+  "forms": [
+   "dissolved",
+   "dissolves",
+   "dissolving"
+  ],
+  "senses": [
+   {
+    "id": "dissolve-1",
+    "pos": "v",
+    "ko": "녹다, 녹이다",
+    "en": "to mix into a liquid until it can no longer be seen",
+    "nuance": "액체에 섞여 사라지는 것이라 열로 형태가 바뀌는 melt와 다르다. ss는 /z/ 소리라 '디졸브'에 가깝게 발음한다.",
+    "pattern": "dissolve in/into + 액체",
+    "examples": [
+     {
+      "en": "Stir until the powder completely dissolves in warm water.",
+      "ko": "가루가 미지근한 물에 완전히 녹을 때까지 저어 주세요.",
+      "focus": "dissolves in warm water"
+     },
+     {
+      "en": "The board voted to dissolve the committee next month.",
+      "ko": "이사회는 다음 달에 그 위원회를 해산하기로 의결했어요.",
+      "focus": "dissolve the committee"
+     }
+    ],
+    "collocations": [
+     "dissolve in water",
+     "dissolve a company"
+    ]
+   }
+  ],
+  "confusables": [
+   {
+    "word": "melt",
+    "note": "melt는 얼음·초콜릿이 열로 액체가 되는 것, dissolve는 액체 속에 섞여 보이지 않게 되는 것이다."
+   },
+   {
+    "word": "solve",
+    "note": "solve는 문제를 '풀다'라서 철자만 겹칠 뿐 녹는다는 뜻이 없다."
+   }
+  ]
+ },
+ {
+  "id": "distort",
+  "headword": "distort",
+  "ipa": "/dɪˈstɔːrt/",
+  "level": "ADV",
+  "isCore": false,
+  "topic": "communication",
+  "forms": [
+   "distorted",
+   "distorting",
+   "distorts"
+  ],
+  "senses": [
+   {
+    "id": "distort-1",
+    "pos": "v",
+    "ko": "왜곡하다, 일그러뜨리다",
+    "en": "to change facts or shapes so they are no longer true or correct",
+    "nuance": "사실·통계를 비틀 때와 소리·이미지가 일그러질 때 모두 쓴다. 단순한 '틀린 정보'는 wrong이고 distort는 원래 모습을 의도적·구조적으로 바꾼다는 어감이 있다.",
+    "pattern": "distort + 명사(facts, image)",
+    "examples": [
+     {
+      "en": "Those charts distort the data by hiding the baseline.",
+      "ko": "그 그래프들은 기준선을 감춰서 데이터를 왜곡해요.",
+      "focus": "distort the data"
+     },
+     {
+      "en": "The recording sounded distorted, so we redid the interview.",
+      "ko": "녹음이 일그러져서 인터뷰를 다시 했어요.",
+      "focus": "sounded distorted"
+     }
+    ],
+    "collocations": [
+     "distort the facts",
+     "distort the data"
+    ]
+   }
+  ],
+  "wordFamily": [
+   {
+    "form": "distortion",
+    "pos": "n",
+    "ko": "왜곡, 찌그러짐"
+   }
+  ],
+  "confusables": [
+   {
+    "word": "disturb",
+    "note": "disturb는 편안함을 방해하는 것이고 distort는 모양이나 사실을 비틀어 놓는 것이다."
+   },
+   {
+    "word": "exaggerate",
+    "note": "exaggerate는 실제보다 부풀리는 것, distort는 방향 자체를 틀어 사실과 다르게 만드는 것이다."
+   }
+  ]
+ },
+ {
+  "id": "distribution",
+  "headword": "distribution",
+  "ipa": "/ˌdɪstrɪˈbjuːʃn/",
+  "level": "ADV",
+  "isCore": false,
+  "topic": "work_business",
+  "forms": [
+   "distributions"
+  ],
+  "senses": [
+   {
+    "id": "distribution-1",
+    "pos": "n",
+    "ko": "유통, 분포",
+    "en": "the way goods are delivered, or how things are spread out",
+    "nuance": "물류에서는 '유통', 통계에서는 '분포'로 쓰이며 뒤에 오는 말로 구분된다. 유통 자체를 뜻할 때는 불가산이라 a distribution이라고 하지 않는다.",
+    "pattern": "the distribution of + 명사",
+    "examples": [
+     {
+      "en": "We changed our distribution network to reach smaller cities.",
+      "ko": "중소 도시까지 닿으려고 유통망을 바꿨어요.",
+      "focus": "our distribution network"
+     },
+     {
+      "en": "The chart shows the age distribution of our customers.",
+      "ko": "이 그래프는 우리 고객의 연령 분포를 보여 줍니다.",
+      "focus": "the age distribution of our customers"
+     }
+    ],
+    "collocations": [
+     "a distribution network",
+     "the distribution of income"
+    ]
+   }
+  ],
+  "wordFamily": [
+   {
+    "form": "distribute",
+    "pos": "v",
+    "ko": "나눠 주다, 유통하다"
+   }
+  ],
+  "confusables": [
+   {
+    "word": "delivery",
+    "note": "delivery는 한 건의 배달 행위, distribution은 상품을 시장 전체로 퍼뜨리는 체계다."
+   },
+   {
+    "word": "district",
+    "note": "district는 '구역, 지구'라는 장소 단어로 유통과 관련이 없다."
+   }
+  ]
+ },
+ {
+  "id": "disturbance",
+  "headword": "disturbance",
+  "ipa": "/dɪˈstɜːrbəns/",
+  "level": "ADV",
+  "isCore": false,
+  "topic": "society_politics",
+  "forms": [
+   "disturbances"
+  ],
+  "senses": [
+   {
+    "id": "disturbance-1",
+    "pos": "n",
+    "ko": "소란, 방해",
+    "en": "noise or trouble that stops things from staying calm",
+    "nuance": "가산 명사로 쓰면 구체적인 소동 한 건이고, 불가산으로 쓰면 '방해받음'이라는 상태다. 소음 민원에서는 cause a disturbance가 굳은 표현이다.",
+    "pattern": "cause a disturbance",
+    "examples": [
+     {
+      "en": "Two guests caused a disturbance in the lobby last night.",
+      "ko": "어젯밤 투숙객 두 명이 로비에서 소란을 피웠어요.",
+      "focus": "caused a disturbance in the lobby"
+     },
+     {
+      "en": "Construction disturbances near the office finally stopped this week.",
+      "ko": "사무실 근처 공사 소음이 이번 주에 드디어 멈췄어요.",
+      "focus": "Construction disturbances near the office"
+     }
+    ],
+    "collocations": [
+     "cause a disturbance",
+     "a public disturbance"
+    ]
+   }
+  ],
+  "wordFamily": [
+   {
+    "form": "disturb",
+    "pos": "v",
+    "ko": "방해하다, 어지럽히다"
+   }
+  ],
+  "confusables": [
+   {
+    "word": "noise",
+    "note": "noise는 그냥 시끄러운 소리, disturbance는 남의 평온을 깨뜨린 사건이라는 뜻까지 담는다."
+   }
+  ]
+ },
+ {
+  "id": "diversification",
+  "headword": "diversification",
+  "ipa": "/daɪˌvɜːrsɪfɪˈkeɪʃn/",
+  "level": "ADV",
+  "isCore": false,
+  "topic": "work_business",
+  "forms": [
+   "diversifications"
+  ],
+  "senses": [
+   {
+    "id": "diversification-1",
+    "pos": "n",
+    "ko": "다각화, 분산",
+    "en": "the act of adding more types of products or investments",
+    "nuance": "사업·투자에서 위험을 나누려고 종류를 늘리는 전략을 뜻하는 불가산 명사다. 구성원의 다양성은 diversification이 아니라 diversity라고 해야 한다.",
+    "pattern": "diversification into + 분야",
+    "examples": [
+     {
+      "en": "Diversification into software reduced our reliance on hardware sales.",
+      "ko": "소프트웨어로 사업을 다각화해서 하드웨어 매출 의존도를 낮췄어요.",
+      "focus": "Diversification into software"
+     },
+     {
+      "en": "Our advisor recommends diversification across several markets.",
+      "ko": "저희 자문가는 여러 시장에 분산 투자할 것을 권합니다.",
+      "focus": "recommends diversification across several markets"
+     }
+    ],
+    "collocations": [
+     "portfolio diversification",
+     "diversification into new markets"
+    ]
+   }
+  ],
+  "confusables": [
+   {
+    "word": "diversity",
+    "note": "diversity는 이미 다양한 상태나 구성, diversification은 다양하게 만들어 가는 과정이다."
+   }
+  ]
+ },
+ {
+  "id": "diversify",
+  "headword": "diversify",
+  "ipa": "/daɪˈvɜːrsɪfaɪ/",
+  "level": "ADV",
+  "isCore": false,
+  "topic": "work_business",
+  "forms": [
+   "diversified",
+   "diversifies",
+   "diversifying"
+  ],
+  "senses": [
+   {
+    "id": "diversify-1",
+    "pos": "v",
+    "ko": "다각화하다, 분산하다",
+    "en": "to start selling or investing in more different things",
+    "nuance": "y로 끝나 diversifies, diversified로 변하는 철자에 주의한다. 새 분야로 넓힐 때는 diversify into로 쓰고, 목적어 없이 자동사로도 자주 쓴다.",
+    "pattern": "diversify into + 분야",
+    "examples": [
+     {
+      "en": "The company diversified into health products after the pandemic.",
+      "ko": "그 회사는 팬데믹 이후 건강 제품으로 사업을 넓혔어요.",
+      "focus": "diversified into health products"
+     },
+     {
+      "en": "Small farms diversify to survive a bad harvest year.",
+      "ko": "소규모 농가는 흉년을 버티려고 작목을 다양화해요.",
+      "focus": "diversify to survive a bad harvest"
+     }
+    ],
+    "collocations": [
+     "diversify into new markets",
+     "diversify a portfolio"
+    ]
+   }
+  ],
+  "confusables": [
+   {
+    "word": "expand",
+    "note": "expand는 하던 일의 규모를 키우는 것, diversify는 종류 자체를 늘려 위험을 나누는 것이다."
+   }
+  ]
+ },
+ {
+  "id": "dividend",
+  "headword": "dividend",
+  "ipa": "/ˈdɪvɪdend/",
+  "level": "ADV",
+  "isCore": false,
+  "topic": "money_shopping",
+  "forms": [
+   "dividends"
+  ],
+  "senses": [
+   {
+    "id": "dividend-1",
+    "pos": "n",
+    "ko": "배당금",
+    "en": "part of a company's profit paid to people who own shares",
+    "nuance": "가산 명사라 보통 복수 dividends로 쓰고 '배당을 주다'는 pay a dividend다. 회사가 나눠 주는 돈이라 개인이 받는 '이자'인 interest와는 다르다.",
+    "pattern": "pay/receive + a dividend",
+    "examples": [
+     {
+      "en": "The board decided to pay a dividend for the first time.",
+      "ko": "이사회가 처음으로 배당금을 지급하기로 했어요.",
+      "focus": "pay a dividend"
+     },
+     {
+      "en": "Her dividends barely covered the account fees last year.",
+      "ko": "작년에 그분 배당금은 계좌 수수료를 겨우 메울 정도였어요.",
+      "focus": "Her dividends barely covered"
+     }
+    ],
+    "collocations": [
+     "pay a dividend",
+     "an annual dividend"
+    ]
+   }
+  ],
+  "confusables": [
+   {
+    "word": "interest",
+    "note": "interest는 예금·대출에 붙는 이자, dividend는 주주에게 나눠 주는 회사 이익이다."
+   },
+   {
+    "word": "divide",
+    "note": "divide는 '나누다'라는 동사이고 dividend는 나눠 받는 돈이라는 명사다."
+   }
+  ]
+ },
+ {
+  "id": "divine",
+  "headword": "divine",
+  "ipa": "/dɪˈvaɪn/",
+  "level": "ADV",
+  "isCore": false,
+  "topic": "culture_arts",
+  "senses": [
+   {
+    "id": "divine-1",
+    "pos": "adj",
+    "ko": "신의, 신성한",
+    "en": "coming from a god, or like a god in power",
+    "nuance": "강세가 뒤에 있어 '디바인'으로 읽으며 define, divide와 구별한다. 명사 앞에 붙여 divine power, divine right처럼 쓰고 '신'을 가리키는 명사로는 쓰지 않는다.",
+    "pattern": "divine + 명사(power, right)",
+    "examples": [
+     {
+      "en": "The old text describes the king's divine right to rule.",
+      "ko": "그 옛 문헌은 왕이 다스릴 신성한 권리를 설명해요.",
+      "focus": "the king's divine right"
+     },
+     {
+      "en": "Many myths explain storms as divine anger.",
+      "ko": "많은 신화가 폭풍을 신의 분노로 설명해요.",
+      "focus": "as divine anger"
+     }
+    ],
+    "collocations": [
+     "divine power",
+     "divine intervention"
+    ]
+   }
+  ],
+  "confusables": [
+   {
+    "word": "define",
+    "note": "define은 '정의하다'라는 동사라 철자만 비슷할 뿐 신성함과 관련이 없다."
+   },
+   {
+    "word": "holy",
+    "note": "holy는 종교적으로 거룩하다는 넓은 말, divine은 특히 신에게서 나왔다는 뜻이 핵심이다."
+   }
+  ]
+ },
+ {
+  "id": "dominant",
+  "headword": "dominant",
+  "ipa": "/ˈdɑːmɪnənt/",
+  "level": "ADV",
+  "isCore": false,
+  "topic": "work_business",
+  "senses": [
+   {
+    "id": "dominant-1",
+    "pos": "adj",
+    "ko": "지배적인, 우세한",
+    "en": "stronger, larger, or more important than all the others",
+    "nuance": "시장 점유율·주된 요인처럼 '가장 큰 영향력'을 말할 때 쓴다. 사람 성격에 쓰면 남을 누르려 든다는 부정적 뜻이 되니 '주도적인'은 proactive가 낫다.",
+    "pattern": "the dominant + 명사(player, factor)",
+    "examples": [
+     {
+      "en": "That brand is still dominant in the local market.",
+      "ko": "그 브랜드는 아직도 국내 시장에서 지배적이에요.",
+      "focus": "still dominant in the local market"
+     },
+     {
+      "en": "Price was the dominant factor in their decision.",
+      "ko": "그들의 결정에서 가장 큰 요인은 가격이었어요.",
+      "focus": "the dominant factor"
+     }
+    ],
+    "collocations": [
+     "a dominant position",
+     "the dominant factor",
+     "a dominant player"
+    ]
+   }
+  ],
+  "wordFamily": [
+   {
+    "form": "dominate",
+    "pos": "v",
+    "ko": "지배하다, 압도하다"
+   }
+  ],
+  "confusables": [
+   {
+    "word": "main",
+    "note": "main은 단순히 '주된'이고 dominant는 다른 것들을 누를 만큼 힘이 세다는 뜻이다."
+   },
+   {
+    "word": "dominate",
+    "note": "dominate는 동사라 The brand dominates처럼 쓰고, dominant는 형용사다."
+   }
+  ]
+ },
+ {
+  "id": "dose",
+  "headword": "dose",
+  "ipa": "/doʊs/",
+  "level": "ADV",
+  "isCore": false,
+  "topic": "body_health",
+  "forms": [
+   "doses"
+  ],
+  "senses": [
+   {
+    "id": "dose-1",
+    "pos": "n",
+    "ko": "복용량, 1회분",
+    "en": "the amount of medicine you take at one time",
+    "nuance": "가산 명사라 a dose, two doses로 세고 s는 /s/로 발음한다. 복용량이 너무 많은 것은 overdose이고, '약을 먹다'는 take a dose다.",
+    "pattern": "take/miss + a dose",
+    "examples": [
+     {
+      "en": "Take one dose after breakfast and one before bed.",
+      "ko": "아침 식사 후에 한 번, 자기 전에 한 번 드세요.",
+      "focus": "Take one dose after breakfast"
+     },
+     {
+      "en": "She missed two doses while traveling last week.",
+      "ko": "그분은 지난주 여행 중에 두 번 복용을 걸렀어요.",
+      "focus": "missed two doses"
+     }
+    ],
+    "collocations": [
+     "take a dose",
+     "a daily dose",
+     "a high dose"
+    ]
+   }
+  ],
+  "confusables": [
+   {
+    "word": "doze",
+    "note": "doze는 /doʊz/로 '깜빡 졸다'라는 동사라 발음과 뜻이 모두 다르다."
+   },
+   {
+    "word": "prescription",
+    "note": "prescription은 의사가 써 준 처방전, dose는 한 번에 먹는 약의 양이다."
+   }
+  ]
+ },
+ {
+  "id": "download",
+  "headword": "download",
+  "ipa": "/ˈdaʊnloʊd/",
+  "level": "ADV",
+  "isCore": false,
+  "topic": "environment_science",
+  "forms": [
+   "downloaded",
+   "downloading",
+   "downloads"
+  ],
+  "senses": [
+   {
+    "id": "download-1",
+    "pos": "v",
+    "ko": "내려받다",
+    "en": "to copy a file from the internet onto your own device",
+    "nuance": "download A from B가 기본 형태라 파일 출처에는 from을 쓴다. 한국어로 '다운받다'라고 해서 receive를 붙이지 않고 download 하나로 끝낸다.",
+    "pattern": "download + 파일 + from + 출처",
+    "examples": [
+     {
+      "en": "Download the report from the shared folder before the meeting.",
+      "ko": "회의 전에 공유 폴더에서 보고서를 내려받으세요.",
+      "focus": "Download the report from the shared folder"
+     },
+     {
+      "en": "I downloaded the wrong version and wasted an hour.",
+      "ko": "잘못된 버전을 받아서 한 시간을 날렸어.",
+      "focus": "downloaded the wrong version"
+     }
+    ],
+    "collocations": [
+     "download a file",
+     "download an app"
+    ]
+   },
+   {
+    "id": "download-2",
+    "pos": "n",
+    "ko": "내려받기, 다운로드 수",
+    "en": "a file copied from the internet, or the number of such copies",
+    "nuance": "명사로 쓰면 가산이라 a download, a million downloads처럼 센다. 앱 성과를 말할 때 downloads 수치를 쓰는 표현이 업무에서 흔하다.",
+    "pattern": "숫자 + downloads",
+    "examples": [
+     {
+      "en": "The app passed one million downloads in just three weeks.",
+      "ko": "그 앱은 3주 만에 다운로드 100만 건을 넘겼어요.",
+      "focus": "one million downloads"
+     }
+    ]
+   }
+  ],
+  "confusables": [
+   {
+    "word": "upload",
+    "note": "upload는 내 기기에서 인터넷으로 올리는 것, download는 반대로 내려받는 것이다."
+   }
+  ]
+ },
+ {
+  "id": "downturn",
+  "headword": "downturn",
+  "ipa": "/ˈdaʊntɜːrn/",
+  "level": "ADV",
+  "isCore": false,
+  "topic": "money_shopping",
+  "forms": [
+   "downturns"
+  ],
+  "senses": [
+   {
+    "id": "downturn-1",
+    "pos": "n",
+    "ko": "경기 하강, 침체",
+    "en": "a period when business or the economy becomes weaker",
+    "nuance": "가산 명사라 a downturn으로 쓰고 무엇이 나빠졌는지는 in으로 붙인다. recession만큼 심각하다는 뜻은 아니어서 뉴스에서 조금 완곡하게 쓰는 말이다.",
+    "pattern": "a downturn in + 분야",
+    "examples": [
+     {
+      "en": "Hiring slowed during the downturn in the housing market.",
+      "ko": "주택 시장이 가라앉는 동안 채용이 느려졌어요.",
+      "focus": "the downturn in the housing market"
+     },
+     {
+      "en": "Our team survived two downturns without any layoffs.",
+      "ko": "우리 팀은 두 번의 침체기를 해고 없이 버텼어요.",
+      "focus": "survived two downturns"
+     }
+    ],
+    "collocations": [
+     "an economic downturn",
+     "a downturn in sales"
+    ]
+   }
+  ],
+  "confusables": [
+   {
+    "word": "recession",
+    "note": "recession은 경제가 공식 기준만큼 위축된 상태, downturn은 그보다 넓고 부드러운 '하강세'다."
+   }
+  ]
+ },
+ {
+  "id": "drain",
+  "headword": "drain",
+  "ipa": "/dreɪn/",
+  "level": "ADV",
+  "isCore": false,
+  "topic": "home_daily",
+  "forms": [
+   "drained",
+   "draining",
+   "drains"
+  ],
+  "senses": [
+   {
+    "id": "drain-1",
+    "pos": "v",
+    "ko": "물을 빼다, 빠지다",
+    "en": "to let liquid flow away, or to slowly empty something",
+    "nuance": "물·자원이 빠져나가는 상황에 두루 쓰고, 사람이 목적어면 '기운을 다 빼놓다'가 된다. 피곤할 때 I'm drained는 매우 자연스러운 표현이다.",
+    "pattern": "drain + 명사 / be drained",
+    "examples": [
+     {
+      "en": "Drain the pasta and rinse it with cold water.",
+      "ko": "파스타 물을 빼고 찬물에 헹궈.",
+      "focus": "Drain the pasta"
+     },
+     {
+      "en": "Back-to-back client meetings completely drained me earlier today.",
+      "ko": "오늘은 회의가 줄줄이 이어져서 완전히 진이 빠졌어.",
+      "focus": "completely drained me"
+     }
+    ],
+    "collocations": [
+     "drain the water",
+     "drain resources"
+    ]
+   },
+   {
+    "id": "drain-2",
+    "pos": "n",
+    "ko": "배수구, 소모 요인",
+    "en": "a pipe that carries away waste water, or a steady loss",
+    "nuance": "가산 명사라 the drain으로 쓰고, down the drain은 '돈·노력이 헛되이 날아가다'라는 굳은 표현이다. 인재 유출은 brain drain이라고 한다.",
+    "pattern": "down the drain",
+    "examples": [
+     {
+      "en": "Six months of work went down the drain overnight.",
+      "ko": "6개월치 작업이 하룻밤 사이에 물거품이 됐어.",
+      "focus": "went down the drain"
+     }
+    ]
+   }
+  ],
+  "confusables": [
+   {
+    "word": "drown",
+    "note": "drown은 물에 빠져 죽는 것이고 drain은 물을 빼내는 것이라 방향이 반대다."
+   },
+   {
+    "word": "tired",
+    "note": "tired는 그냥 피곤한 것, drained는 기운이 완전히 빠져나간 더 센 표현이다."
+   }
+  ]
+ },
+ {
+  "id": "dread",
+  "headword": "dread",
+  "ipa": "/dred/",
+  "level": "ADV",
+  "isCore": false,
+  "topic": "emotions_personality",
+  "forms": [
+   "dreaded",
+   "dreading",
+   "dreads"
+  ],
+  "senses": [
+   {
+    "id": "dread-1",
+    "pos": "v",
+    "ko": "몹시 두려워하다",
+    "en": "to feel very worried about something that will happen",
+    "nuance": "뒤에 to부정사가 아니라 -ing를 쓰는 것이 자연스럽다(dread telling him). 발음은 bread와 같은 /dred/라 '드리드'가 아니다.",
+    "pattern": "dread + -ing",
+    "examples": [
+     {
+      "en": "I dread telling the client about another delay.",
+      "ko": "고객한테 또 지연됐다고 말하는 게 정말 겁나.",
+      "focus": "dread telling the client"
+     },
+     {
+      "en": "Emma was dreading the results all week.",
+      "ko": "엠마는 한 주 내내 결과를 두려워했어.",
+      "focus": "was dreading the results"
+     }
+    ],
+    "collocations": [
+     "dread going to work",
+     "dread the thought"
+    ]
+   }
+  ],
+  "wordFamily": [
+   {
+    "form": "dreadful",
+    "pos": "adj",
+    "ko": "끔찍한, 형편없는"
+   }
+  ],
+  "confusables": [
+   {
+    "word": "fear",
+    "note": "fear는 무서움 전반, dread는 앞으로 닥칠 일을 미리 걱정하며 싫어하는 감정이다."
+   },
+   {
+    "word": "worry",
+    "note": "worry는 가벼운 걱정에도 쓰지만 dread는 생각만 해도 싫을 만큼 강한 두려움이다."
+   }
+  ]
+ },
+ {
+  "id": "dual",
+  "headword": "dual",
+  "ipa": "/ˈduːəl/",
+  "level": "ADV",
+  "isCore": false,
+  "topic": "description_quality",
+  "senses": [
+   {
+    "id": "dual-1",
+    "pos": "adj",
+    "ko": "이중의, 두 가지의",
+    "en": "having two parts, roles, or purposes at the same time",
+    "nuance": "명사 앞에서만 쓰는 형용사라 This is dual처럼 서술어로 쓰지 않는다. 발음이 duel(결투)과 같으니 문맥으로 구별하고, '두 개의'는 보통 two를 쓴다.",
+    "pattern": "dual + 명사(role, citizenship)",
+    "examples": [
+     {
+      "en": "She holds dual citizenship and travels on two passports.",
+      "ko": "그분은 이중 국적이라 여권 두 개로 다녀요.",
+      "focus": "holds dual citizenship"
+     },
+     {
+      "en": "Our new tool has a dual purpose for training and testing.",
+      "ko": "새 도구는 교육과 테스트라는 두 가지 목적이 있어요.",
+      "focus": "a dual purpose"
+     }
+    ],
+    "collocations": [
+     "dual citizenship",
+     "a dual role",
+     "a dual purpose"
+    ]
+   }
+  ],
+  "confusables": [
+   {
+    "word": "duel",
+    "note": "발음은 같지만 duel은 두 사람이 벌이는 '결투'라는 명사다."
+   },
+   {
+    "word": "double",
+    "note": "double은 양이 두 배라는 뜻, dual은 성격이나 역할이 두 가지라는 뜻이다."
+   }
+  ]
+ },
+ {
+  "id": "e-book",
+  "headword": "e-book",
+  "ipa": "/ˈiː bʊk/",
+  "level": "ADV",
+  "isCore": false,
+  "topic": "culture_arts",
+  "forms": [
+   "e book",
+   "e books",
+   "e-books",
+   "ebook",
+   "ebooks"
+  ],
+  "senses": [
+   {
+    "id": "e-book-1",
+    "pos": "n",
+    "ko": "전자책",
+    "en": "a book you read on a screen instead of on paper",
+    "nuance": "가산 명사라 an e-book으로 쓰고, e가 모음 소리라 a가 아니라 an을 붙인다. 하이픈 없는 ebook도 널리 쓰이지만 한 글에서는 표기를 하나로 통일한다.",
+    "pattern": "read/buy + an e-book",
+    "examples": [
+     {
+      "en": "I bought the e-book because the paper edition sold out.",
+      "ko": "종이책이 품절이어서 전자책으로 샀어.",
+      "focus": "bought the e-book"
+     },
+     {
+      "en": "Our team publishes e-books for new employees every year.",
+      "ko": "우리 팀은 매년 신입 사원용 전자책을 펴내요.",
+      "focus": "publishes e-books"
+     }
+    ],
+    "collocations": [
+     "read an e-book",
+     "buy an e-book"
+    ]
+   }
+  ],
+  "confusables": [
+   {
+    "word": "audiobook",
+    "note": "audiobook은 귀로 듣는 낭독 파일이고 e-book은 화면으로 읽는 글이다."
+   }
+  ]
+ },
+ {
+  "id": "ecological",
+  "headword": "ecological",
+  "ipa": "/ˌiːkəˈlɑːdʒɪkl/",
+  "level": "ADV",
+  "isCore": false,
+  "topic": "environment_science",
+  "senses": [
+   {
+    "id": "ecological-1",
+    "pos": "adj",
+    "ko": "생태의, 생태학적인",
+    "en": "related to how living things affect each other and their surroundings",
+    "nuance": "environmental보다 좁아서 생물과 서식 환경의 관계를 다룰 때 쓴다. '친환경 제품'은 ecological product가 아니라 eco-friendly product가 자연스럽다.",
+    "pattern": "ecological + 명사(impact, system)",
+    "examples": [
+     {
+      "en": "The dam had a serious ecological impact on the river.",
+      "ko": "그 댐은 강에 심각한 생태적 영향을 미쳤어요.",
+      "focus": "a serious ecological impact"
+     },
+     {
+      "en": "Researchers study ecological changes after each wildfire.",
+      "ko": "연구자들은 산불이 날 때마다 생태 변화를 조사해요.",
+      "focus": "study ecological changes"
+     }
+    ],
+    "collocations": [
+     "ecological impact",
+     "an ecological system",
+     "ecological balance"
+    ]
+   }
+  ],
+  "confusables": [
+   {
+    "word": "environmental",
+    "note": "environmental은 환경 문제 전반, ecological은 생물과 서식지의 관계에 초점을 둔다."
+   },
+   {
+    "word": "economical",
+    "note": "철자가 비슷하지만 economical은 '돈이 덜 드는, 경제적인'이라는 뜻이다."
+   }
+  ]
+ },
+ {
+  "id": "ecology",
+  "headword": "ecology",
+  "ipa": "/iˈkɑːlədʒi/",
+  "level": "ADV",
+  "isCore": false,
+  "topic": "environment_science",
+  "forms": [
+   "ecologies"
+  ],
+  "senses": [
+   {
+    "id": "ecology-1",
+    "pos": "n",
+    "ko": "생태학, 생태",
+    "en": "the study of how living things relate to their surroundings",
+    "nuance": "학문을 뜻할 때는 불가산이라 study ecology처럼 관사 없이 쓴다. 발음 첫 음절이 /i/라 economy와 섞이지 않게 주의한다.",
+    "pattern": "study/the ecology of + 장소",
+    "examples": [
+     {
+      "en": "Mina studies marine ecology at a university in Busan.",
+      "ko": "미나는 부산의 한 대학에서 해양 생태학을 공부해요.",
+      "focus": "studies marine ecology"
+     },
+     {
+      "en": "The report describes the ecology of the wetland in detail.",
+      "ko": "그 보고서는 습지의 생태를 상세히 설명해요.",
+      "focus": "the ecology of the wetland"
+     }
+    ],
+    "collocations": [
+     "marine ecology",
+     "the ecology of a forest"
+    ]
+   }
+  ],
+  "wordFamily": [
+   {
+    "form": "ecologist",
+    "pos": "n",
+    "ko": "생태학자"
+   }
+  ],
+  "confusables": [
+   {
+    "word": "economy",
+    "note": "economy는 '경제'라 발음이 비슷해도 ecology의 '생태'와 전혀 다른 분야다."
+   },
+   {
+    "word": "biology",
+    "note": "biology는 생물 자체를 연구하고 ecology는 생물과 환경의 관계를 연구한다."
+   }
+  ]
  }
 ]

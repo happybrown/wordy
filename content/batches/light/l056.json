@@ -503,8 +503,8 @@
   ],
   "confusables": [
    {
-    "word": "importantly",
-    "note": "구어에서는 More importantly 대신 More important도 쓰지만, 글에서는 importantly가 안전하다."
+    "word": "important",
+    "note": "important는 명사를 꾸미는 형용사, importantly는 문장 앞에서 '중요한 것은'이라고 말할 때 쓰는 부사다."
    }
   ]
  },
@@ -1542,6 +1542,1448 @@
    {
     "word": "interesting",
     "note": "interesting은 그냥 재미있다는 넓은 말, intriguing은 수수께끼 같아 더 알고 싶게 만든다는 뜻이다."
+   }
+  ]
+ },
+ {
+  "id": "invasion",
+  "headword": "invasion",
+  "ipa": "/ɪnˈveɪʒn/",
+  "level": "ADV",
+  "isCore": false,
+  "topic": "society_politics",
+  "forms": [
+   "invasions"
+  ],
+  "senses": [
+   {
+    "id": "invasion-1",
+    "pos": "n",
+    "ko": "침입, 침해",
+    "en": "the act of entering a place or someone's private area without permission",
+    "nuance": "군대의 침공만이 아니라 an invasion of privacy처럼 권리 침해에도 쓰는 가산 명사다. 뒤에는 into가 아니라 of를 붙인다.",
+    "pattern": "an invasion of + 명사",
+    "examples": [
+     {
+      "en": "Reading an employee's private messages is a clear invasion of privacy.",
+      "ko": "직원의 사적인 메시지를 읽는 건 명백한 사생활 침해예요.",
+      "focus": "a clear invasion of privacy"
+     },
+     {
+      "en": "The museum exhibit covers the invasion and its economic effects.",
+      "ko": "그 박물관 전시는 침공과 그 경제적 영향을 다뤄요.",
+      "focus": "covers the invasion and its economic effects"
+     }
+    ],
+    "collocations": [
+     "an invasion of privacy",
+     "a military invasion"
+    ]
+   }
+  ],
+  "wordFamily": [
+   {
+    "form": "invade",
+    "pos": "v",
+    "ko": "침입하다"
+   }
+  ],
+  "confusables": [
+   {
+    "word": "violation",
+    "note": "violation은 규칙·법을 어긴 것, invasion은 남의 영역이나 사생활에 밀고 들어간 것이다."
+   }
+  ]
+ },
+ {
+  "id": "inventory",
+  "headword": "inventory",
+  "ipa": "/ˈɪnvəntɔri/",
+  "level": "ADV",
+  "isCore": false,
+  "topic": "work_business",
+  "forms": [
+   "inventories"
+  ],
+  "senses": [
+   {
+    "id": "inventory-1",
+    "pos": "n",
+    "ko": "재고, 재고 목록",
+    "en": "all the goods a shop or company has in stock at one time",
+    "nuance": "미국에서는 재고 자체를 inventory, 영국에서는 stock이라고 한다. '재고 조사를 하다'는 check inventory보다 take inventory가 굳은 표현이다.",
+    "pattern": "take/manage + inventory",
+    "examples": [
+     {
+      "en": "We take inventory every Sunday night after the store closes.",
+      "ko": "우리는 매주 일요일 밤 가게 문 닫고 재고 조사를 해요.",
+      "focus": "take inventory every Sunday night"
+     },
+     {
+      "en": "Excess inventory tied up most of our cash last quarter.",
+      "ko": "지난 분기엔 과잉 재고가 현금 대부분을 묶어 놨어요.",
+      "focus": "Excess inventory tied up most of our cash"
+     }
+    ],
+    "collocations": [
+     "take inventory",
+     "inventory management",
+     "excess inventory"
+    ]
+   }
+  ],
+  "confusables": [
+   {
+    "word": "stock",
+    "note": "stock은 영국식 '재고'이자 미국에서는 '주식'도 되므로, 재고를 뜻할 땐 inventory가 덜 헷갈린다."
+   }
+  ]
+ },
+ {
+  "id": "invoice",
+  "headword": "invoice",
+  "ipa": "/ˈɪnvɔɪs/",
+  "level": "ADV",
+  "isCore": false,
+  "topic": "money_shopping",
+  "forms": [
+   "invoiced",
+   "invoices",
+   "invoicing"
+  ],
+  "senses": [
+   {
+    "id": "invoice-1",
+    "pos": "n",
+    "ko": "청구서, 송장",
+    "en": "a document listing goods sold and the money someone must pay",
+    "nuance": "'계산서'를 다 bill로 옮기기 쉬운데, 기업 간 거래 서류는 an invoice다. 식당에서 받는 계산서는 bill 또는 check이다.",
+    "pattern": "issue/send an invoice",
+    "examples": [
+     {
+      "en": "Please send the invoice to accounting by the end of Tuesday.",
+      "ko": "화요일까지 회계팀에 청구서를 보내 주세요.",
+      "focus": "send the invoice to accounting"
+     },
+     {
+      "en": "Their invoice arrived three weeks late, so payment slipped.",
+      "ko": "그쪽 청구서가 3주나 늦게 와서 지급도 밀렸어요.",
+      "focus": "Their invoice arrived three weeks late"
+     }
+    ],
+    "collocations": [
+     "issue an invoice",
+     "pay the invoice",
+     "an outstanding invoice"
+    ]
+   },
+   {
+    "id": "invoice-2",
+    "pos": "v",
+    "ko": "청구서를 보내다",
+    "en": "to send someone a document asking them to pay for work or goods",
+    "nuance": "사람을 바로 목적어로 받아 invoice the client처럼 쓰고 전치사가 필요 없다. 프리랜서 업무 메일에서 아주 흔하다.",
+    "examples": [
+     {
+      "en": "I'll invoice the client once the second milestone is approved.",
+      "ko": "두 번째 마일스톤이 승인되면 고객사에 청구서를 보낼게요.",
+      "focus": "invoice the client"
+     }
+    ]
+   }
+  ],
+  "confusables": [
+   {
+    "word": "receipt",
+    "note": "receipt는 이미 돈을 냈다는 영수증, invoice는 아직 내지 않은 돈을 청구하는 서류다."
+   }
+  ]
+ },
+ {
+  "id": "issuer",
+  "headword": "issuer",
+  "ipa": "/ˈɪʃuər/",
+  "level": "ADV",
+  "isCore": false,
+  "topic": "money_shopping",
+  "forms": [
+   "issuers"
+  ],
+  "senses": [
+   {
+    "id": "issuer-1",
+    "pos": "n",
+    "ko": "발행사, 발행 기관",
+    "en": "a company or bank that officially gives out cards, bonds, or shares",
+    "nuance": "카드·채권을 '발행'하는 쪽을 가리키는 금융 용어다. 카드를 쓰는 사람은 issuer가 아니라 the cardholder다.",
+    "pattern": "the card/bond issuer",
+    "examples": [
+     {
+      "en": "Contact the card issuer directly about that unfamiliar charge.",
+      "ko": "그 낯선 결제 건은 카드 발행사에 직접 문의하세요.",
+      "focus": "Contact the card issuer directly"
+     },
+     {
+      "en": "Several bond issuers delayed their offerings after the rate hike.",
+      "ko": "금리 인상 뒤 여러 채권 발행사가 발행을 미뤘어요.",
+      "focus": "Several bond issuers delayed their offerings"
+     }
+    ],
+    "collocations": [
+     "the card issuer",
+     "a bond issuer"
+    ]
+   }
+  ],
+  "confusables": [
+   {
+    "word": "insurer",
+    "note": "철자가 비슷하지만 insurer는 보험사, issuer는 카드·채권을 발행하는 기관이다."
+   }
+  ]
+ },
+ {
+  "id": "jazz",
+  "headword": "jazz",
+  "ipa": "/dʒæz/",
+  "level": "ADV",
+  "isCore": false,
+  "topic": "culture_arts",
+  "senses": [
+   {
+    "id": "jazz-1",
+    "pos": "n",
+    "ko": "재즈",
+    "en": "a music style with strong rhythm and free solo playing",
+    "nuance": "음악 장르 이름이라 불가산이고 관사 없이 listen to jazz처럼 쓴다. a jazz나 jazzes라고 하지 않고 곡 하나는 a jazz piece다.",
+    "pattern": "listen to / play + jazz",
+    "examples": [
+     {
+      "en": "Tom plays jazz at a small club near the station.",
+      "ko": "톰은 역 근처 작은 클럽에서 재즈를 연주해요.",
+      "focus": "plays jazz at a small club"
+     },
+     {
+      "en": "Our team dinner ended at a quiet jazz bar downtown.",
+      "ko": "우리 팀 회식은 시내 조용한 재즈 바에서 마무리됐어요.",
+      "focus": "a quiet jazz bar downtown"
+     }
+    ],
+    "collocations": [
+     "listen to jazz",
+     "a jazz band",
+     "play jazz"
+    ]
+   }
+  ],
+  "confusables": [
+   {
+    "word": "classical",
+    "note": "장르 이름은 둘 다 관사 없이 쓴다. jazz는 즉흥 연주가, classical은 악보 그대로 연주가 중심이다."
+   }
+  ]
+ },
+ {
+  "id": "judicial",
+  "headword": "judicial",
+  "ipa": "/dʒuˈdɪʃl/",
+  "level": "ADV",
+  "isCore": false,
+  "topic": "society_politics",
+  "senses": [
+   {
+    "id": "judicial-1",
+    "pos": "adj",
+    "ko": "사법의, 재판의",
+    "en": "connected with courts of law, judges, and their decisions",
+    "nuance": "법원·판사와 관련된 제도를 가리키며 명사 앞에서만 거의 쓴다. 판사처럼 '공정하고 신중한' 태도는 judicial이 아니라 judicious다.",
+    "pattern": "judicial + 명사(system, review)",
+    "examples": [
+     {
+      "en": "The company requested a judicial review of the new regulation.",
+      "ko": "그 회사는 새 규정에 대한 사법 심사를 청구했어요.",
+      "focus": "a judicial review of the new regulation"
+     },
+     {
+      "en": "Our paper compares judicial systems in three Asian countries.",
+      "ko": "저희 논문은 아시아 세 나라의 사법 제도를 비교합니다.",
+      "focus": "compares judicial systems"
+     }
+    ],
+    "collocations": [
+     "judicial review",
+     "the judicial system",
+     "judicial independence"
+    ]
+   }
+  ],
+  "confusables": [
+   {
+    "word": "judicious",
+    "note": "judicious는 '분별 있는·현명한'이라는 성격 묘사, judicial은 '법원·재판의'라는 제도 용어다."
+   },
+   {
+    "word": "legal",
+    "note": "legal은 법 전반, judicial은 그중에서도 법원과 판사가 하는 일에 한정된다."
+   }
+  ]
+ },
+ {
+  "id": "kilometer",
+  "headword": "kilometer",
+  "ipa": "/kɪˈlɑmɪtər/",
+  "level": "ADV",
+  "isCore": false,
+  "topic": "time_quantity",
+  "forms": [
+   "kilometers",
+   "kilometre",
+   "kilometres"
+  ],
+  "senses": [
+   {
+    "id": "kilometer-1",
+    "pos": "n",
+    "ko": "킬로미터",
+    "en": "a unit of distance equal to one thousand meters",
+    "nuance": "미국은 kilometer, 영국은 kilometre로 철자가 갈린다. 명사 앞에서 쓸 땐 a five-kilometer walk처럼 단수로 두고 복수를 쓰지 않는다.",
+    "pattern": "숫자 + kilometers",
+    "examples": [
+     {
+      "en": "The new office is only three kilometers from the subway.",
+      "ko": "새 사무실은 지하철에서 겨우 3킬로미터 거리예요.",
+      "focus": "only three kilometers from the subway"
+     },
+     {
+      "en": "Mina runs about five kilometers before work every morning.",
+      "ko": "미나는 매일 아침 출근 전에 5킬로미터 정도 뛰어요.",
+      "focus": "runs about five kilometers"
+     }
+    ],
+    "collocations": [
+     "a few kilometers away",
+     "square kilometers"
+    ]
+   }
+  ],
+  "confusables": [
+   {
+    "word": "mile",
+    "note": "미국 일상 대화에서는 거리를 mile로 말하므로, 미터법 수치는 상대가 익숙한지 확인하는 게 좋다."
+   }
+  ]
+ },
+ {
+  "id": "knot",
+  "headword": "knot",
+  "ipa": "/nɑt/",
+  "level": "ADV",
+  "isCore": false,
+  "topic": "home_daily",
+  "forms": [
+   "knots"
+  ],
+  "senses": [
+   {
+    "id": "knot-1",
+    "pos": "n",
+    "ko": "매듭",
+    "en": "a tight join made by tying string or rope together",
+    "nuance": "k를 발음하지 않아 not과 소리가 같다. '매듭을 묶다'는 make a knot보다 tie a knot이 자연스럽다.",
+    "pattern": "tie/untie a knot",
+    "examples": [
+     {
+      "en": "Tie a tight knot so the package doesn't open again.",
+      "ko": "소포가 다시 열리지 않게 매듭을 단단히 묶으세요.",
+      "focus": "Tie a tight knot"
+     },
+     {
+      "en": "My shoelaces had knots I couldn't undo this morning.",
+      "ko": "오늘 아침엔 신발끈에 못 풀 매듭이 생겼어요.",
+      "focus": "had knots I couldn't undo"
+     }
+    ],
+    "collocations": [
+     "tie a knot",
+     "untie a knot",
+     "a tight knot"
+    ]
+   }
+  ],
+  "confusables": [
+   {
+    "word": "not",
+    "note": "knot의 k는 소리가 나지 않아 not과 발음이 같다. 듣고 구분하려면 앞뒤 문맥을 봐야 한다."
+   },
+   {
+    "word": "bow",
+    "note": "bow는 리본처럼 고리를 만든 나비 매듭, knot은 잡아당겨 조인 일반 매듭이다."
+   }
+  ]
+ },
+ {
+  "id": "lab",
+  "headword": "lab",
+  "ipa": "/læb/",
+  "level": "ADV",
+  "isCore": false,
+  "topic": "academic",
+  "forms": [
+   "labs"
+  ],
+  "senses": [
+   {
+    "id": "lab-1",
+    "pos": "n",
+    "ko": "실험실, 연구실",
+    "en": "a room with equipment for science tests and research",
+    "nuance": "laboratory의 줄임말이지만 회화·논문 모두에서 lab이 훨씬 흔하다. 대학원생이 소속된 '연구실'도 my lab이라고 한다.",
+    "pattern": "in the lab",
+    "examples": [
+     {
+      "en": "Jun spends most weekends in the lab finishing his experiments.",
+      "ko": "준은 주말 대부분을 실험실에서 실험 마무리하며 보내요.",
+      "focus": "in the lab finishing his experiments"
+     },
+     {
+      "en": "The lab results should reach your doctor by Thursday.",
+      "ko": "검사 결과는 목요일까지 의사 선생님께 도착할 거예요.",
+      "focus": "The lab results should reach your doctor"
+     }
+    ],
+    "collocations": [
+     "in the lab",
+     "lab results",
+     "a research lab"
+    ]
+   }
+  ],
+  "confusables": [
+   {
+    "word": "laboratory",
+    "note": "뜻은 같지만 laboratory는 간판·공식 문서에 쓰고, 말할 때는 거의 언제나 lab이라고 한다."
+   }
+  ]
+ },
+ {
+  "id": "lawsuit",
+  "headword": "lawsuit",
+  "ipa": "/ˈlɔsut/",
+  "level": "ADV",
+  "isCore": false,
+  "topic": "society_politics",
+  "forms": [
+   "lawsuits"
+  ],
+  "senses": [
+   {
+    "id": "lawsuit-1",
+    "pos": "n",
+    "ko": "소송",
+    "en": "a legal claim one person or company brings against another in court",
+    "nuance": "'소송을 걸다'는 make a lawsuit이 아니라 file a lawsuit against somebody다. 형사 사건이 아니라 민사 분쟁에 쓴다.",
+    "pattern": "file a lawsuit against + 사람",
+    "examples": [
+     {
+      "en": "The supplier filed a lawsuit against us over the canceled order.",
+      "ko": "공급사가 취소된 주문 때문에 우리를 상대로 소송을 냈어요.",
+      "focus": "filed a lawsuit against us"
+     },
+     {
+      "en": "Both sides settled the lawsuit quietly before the trial began.",
+      "ko": "양쪽은 재판이 시작되기 전에 조용히 소송을 합의로 끝냈어요.",
+      "focus": "settled the lawsuit quietly"
+     }
+    ],
+    "collocations": [
+     "file a lawsuit",
+     "settle a lawsuit",
+     "face a lawsuit"
+    ]
+   }
+  ],
+  "confusables": [
+   {
+    "word": "trial",
+    "note": "lawsuit은 제기된 소송 전체, trial은 그 안에서 법정에 서서 다투는 재판 단계다."
+   }
+  ]
+ },
+ {
+  "id": "lease",
+  "headword": "lease",
+  "ipa": "/lis/",
+  "level": "ADV",
+  "isCore": false,
+  "topic": "money_shopping",
+  "forms": [
+   "leased",
+   "leases",
+   "leasing"
+  ],
+  "senses": [
+   {
+    "id": "lease-1",
+    "pos": "n",
+    "ko": "임대 계약, 임차 계약",
+    "en": "a written agreement to rent a home, office, or car for a set time",
+    "nuance": "한국의 '전세'와 달리 매달 내는 월세 계약 문서를 뜻한다. 계약서에 서명하는 건 sign a lease, 기간이 끝나는 건 the lease expires다.",
+    "pattern": "sign/renew a lease",
+    "examples": [
+     {
+      "en": "Our office lease expires in March, so we're looking around.",
+      "ko": "사무실 임대 계약이 3월에 끝나서 다른 곳을 알아보는 중이에요.",
+      "focus": "Our office lease expires in March"
+     },
+     {
+      "en": "Read the lease carefully before you sign anything tomorrow.",
+      "ko": "내일 서명하기 전에 임대 계약서를 꼼꼼히 읽어 보세요.",
+      "focus": "Read the lease carefully"
+     }
+    ],
+    "collocations": [
+     "sign a lease",
+     "renew the lease",
+     "a five-year lease"
+    ]
+   },
+   {
+    "id": "lease-2",
+    "pos": "v",
+    "ko": "임대하다, 빌리다",
+    "en": "to pay to use a building or vehicle for an agreed period",
+    "nuance": "빌리는 쪽과 빌려주는 쪽 모두에 쓸 수 있어 lease from과 lease to로 방향을 구분한다. 며칠 단위로 짧게 빌리는 건 rent가 자연스럽다.",
+    "examples": [
+     {
+      "en": "We leased two floors from the building owner last year.",
+      "ko": "작년에 건물주에게서 두 개 층을 임차했어요.",
+      "focus": "leased two floors from the building owner"
+     }
+    ]
+   }
+  ],
+  "confusables": [
+   {
+    "word": "rent",
+    "note": "rent는 짧게 빌리는 것도 포함하고, lease는 보통 1년 이상 계약서를 쓰는 장기 임대다."
+   }
+  ]
+ },
+ {
+  "id": "ledger",
+  "headword": "ledger",
+  "ipa": "/ˈledʒər/",
+  "level": "ADV",
+  "isCore": false,
+  "topic": "money_shopping",
+  "forms": [
+   "ledgers"
+  ],
+  "senses": [
+   {
+    "id": "ledger-1",
+    "pos": "n",
+    "ko": "회계 장부, 원장",
+    "en": "a book or file where a business records all money coming and going",
+    "nuance": "회계에서 모든 거래를 모아 두는 공식 장부를 말한다. 블록체인 설명에서 a distributed ledger로도 자주 나온다.",
+    "pattern": "record in the ledger",
+    "examples": [
+     {
+      "en": "Every refund must appear in the ledger on the same day.",
+      "ko": "모든 환불은 당일 안에 장부에 기록돼야 해요.",
+      "focus": "appear in the ledger"
+     },
+     {
+      "en": "Our accountant found two entries missing from last month's ledger.",
+      "ko": "회계사가 지난달 장부에서 누락된 항목 두 개를 찾았어요.",
+      "focus": "missing from last month's ledger"
+     }
+    ],
+    "collocations": [
+     "the general ledger",
+     "record in the ledger",
+     "a distributed ledger"
+    ]
+   }
+  ],
+  "confusables": [
+   {
+    "word": "lender",
+    "note": "철자가 비슷하지만 lender는 돈을 빌려주는 '사람·기관', ledger는 거래를 적는 '장부'다."
+   },
+   {
+    "word": "leader",
+    "note": "발음이 비슷해도 leader는 /ˈlidər/로 길게, ledger는 /ˈledʒər/로 짧고 dʒ 소리가 난다."
+   }
+  ]
+ },
+ {
+  "id": "legislate",
+  "headword": "legislate",
+  "ipa": "/ˈledʒɪsleɪt/",
+  "level": "ADV",
+  "isCore": false,
+  "topic": "society_politics",
+  "forms": [
+   "legislated",
+   "legislates",
+   "legislating"
+  ],
+  "senses": [
+   {
+    "id": "legislate-1",
+    "pos": "v",
+    "ko": "법을 만들다, 입법하다",
+    "en": "to make new laws, usually through a parliament or congress",
+    "nuance": "국회가 주어가 되는 딱딱한 동사라 개인에게는 쓰지 않는다. 목적어를 잘 받지 않고 legislate on이나 legislate against 형태가 흔하다.",
+    "pattern": "legislate on/against + 명사",
+    "examples": [
+     {
+      "en": "Lawmakers promised to legislate on data privacy within a year.",
+      "ko": "의원들은 1년 안에 데이터 프라이버시 법을 만들겠다고 약속했어요.",
+      "focus": "legislate on data privacy"
+     },
+     {
+      "en": "You can't legislate against every kind of online fraud.",
+      "ko": "온라인 사기를 종류별로 다 법으로 막을 수는 없어요.",
+      "focus": "legislate against every kind of online fraud"
+     }
+    ],
+    "collocations": [
+     "legislate against",
+     "legislate on the issue"
+    ]
+   }
+  ],
+  "wordFamily": [
+   {
+    "form": "legislation",
+    "pos": "n",
+    "ko": "법률, 입법"
+   },
+   {
+    "form": "legislative",
+    "pos": "adj",
+    "ko": "입법의"
+   }
+  ],
+  "confusables": [
+   {
+    "word": "legislation",
+    "note": "legislation은 만들어진 법 자체(불가산 명사), legislate는 그 법을 만드는 행위를 뜻하는 동사다."
+   }
+  ]
+ },
+ {
+  "id": "legitimate",
+  "headword": "legitimate",
+  "ipa": "/lɪˈdʒɪtəmət/",
+  "level": "ADV",
+  "isCore": false,
+  "topic": "thinking_opinion",
+  "senses": [
+   {
+    "id": "legitimate-1",
+    "pos": "adj",
+    "ko": "정당한, 합법적인",
+    "en": "allowed by law, or fair and reasonable enough to accept",
+    "nuance": "법에 맞는다는 뜻과 '충분히 납득이 간다'는 뜻을 함께 쓴다. legal은 법 조문에만 초점이 있고, legitimate은 정당성까지 따진다.",
+    "pattern": "a legitimate + 명사(concern, reason)",
+    "examples": [
+     {
+      "en": "That's a legitimate concern, so let's address it in the proposal.",
+      "ko": "그건 충분히 타당한 우려니까 제안서에서 다루죠.",
+      "focus": "a legitimate concern"
+     },
+     {
+      "en": "Only legitimate businesses can apply for this city grant.",
+      "ko": "합법적으로 등록된 사업체만 이 시 보조금을 신청할 수 있어요.",
+      "focus": "Only legitimate businesses can apply"
+     }
+    ],
+    "collocations": [
+     "a legitimate concern",
+     "a legitimate reason",
+     "perfectly legitimate"
+    ]
+   }
+  ],
+  "wordFamily": [
+   {
+    "form": "legitimacy",
+    "pos": "n",
+    "ko": "정당성"
+   }
+  ],
+  "confusables": [
+   {
+    "word": "legal",
+    "note": "legal은 법에 어긋나지 않는다는 사실, legitimate은 법뿐 아니라 이유까지 납득된다는 판단이다."
+   }
+  ]
+ },
+ {
+  "id": "lender",
+  "headword": "lender",
+  "ipa": "/ˈlendər/",
+  "level": "ADV",
+  "isCore": false,
+  "topic": "money_shopping",
+  "forms": [
+   "lenders"
+  ],
+  "senses": [
+   {
+    "id": "lender-1",
+    "pos": "n",
+    "ko": "대출 기관, 빌려주는 쪽",
+    "en": "a bank or person that gives money to be paid back later",
+    "nuance": "돈을 빌려주는 쪽이 lender, 빌리는 쪽이 borrower다. 은행 전반을 뜻하는 기사체 표현으로 a major lender처럼 자주 쓴다.",
+    "pattern": "a lender + 동사",
+    "examples": [
+     {
+      "en": "Compare at least three lenders before you accept any offer.",
+      "ko": "어떤 조건이든 받아들이기 전에 대출 기관을 최소 세 곳은 비교해 보세요.",
+      "focus": "Compare at least three lenders"
+     },
+     {
+      "en": "The lender asked for two years of tax documents.",
+      "ko": "대출 기관이 2년치 세금 서류를 요구했어요.",
+      "focus": "The lender asked for two years"
+     }
+    ],
+    "collocations": [
+     "a major lender",
+     "mortgage lenders"
+    ]
+   }
+  ],
+  "confusables": [
+   {
+    "word": "borrower",
+    "note": "lender는 돈을 내주는 쪽, borrower는 받아서 갚아야 하는 쪽이다."
+   },
+   {
+    "word": "ledger",
+    "note": "철자가 비슷하지만 ledger는 거래를 적는 회계 장부이고 사람·기관이 아니다."
+   }
+  ]
+ },
+ {
+  "id": "lessee",
+  "headword": "lessee",
+  "ipa": "/leˈsi/",
+  "level": "ADV",
+  "isCore": false,
+  "topic": "money_shopping",
+  "forms": [
+   "lessees"
+  ],
+  "senses": [
+   {
+    "id": "lessee-1",
+    "pos": "n",
+    "ko": "임차인, 세입자",
+    "en": "the person or company that pays to use a property under contract",
+    "nuance": "계약서에서만 쓰는 법률 용어라 일상 대화에서는 tenant라고 한다. 빌려주는 쪽은 -or이 붙은 lessor다.",
+    "pattern": "the lessee + 동사",
+    "examples": [
+     {
+      "en": "The lessee is responsible for repairs under clause four.",
+      "ko": "4조에 따르면 수리 책임은 임차인에게 있습니다.",
+      "focus": "The lessee is responsible for repairs"
+     },
+     {
+      "en": "Both lessees signed the renewal before the deadline passed.",
+      "ko": "임차인 두 명 모두 기한 전에 갱신 계약에 서명했어요.",
+      "focus": "Both lessees signed the renewal"
+     }
+    ],
+    "collocations": [
+     "the lessee and the lessor",
+     "the lessee's obligations"
+    ]
+   }
+  ],
+  "confusables": [
+   {
+    "word": "lessor",
+    "note": "-ee는 받는 쪽, -or는 주는 쪽이다. lessee가 빌려 쓰는 사람, lessor가 빌려주는 소유주다."
+   },
+   {
+    "word": "tenant",
+    "note": "tenant는 일상에서 쓰는 '세입자', lessee는 계약서에 등장하는 법률 용어다."
+   }
+  ]
+ },
+ {
+  "id": "leverage",
+  "headword": "leverage",
+  "ipa": "/ˈlevərɪdʒ/",
+  "level": "ADV",
+  "isCore": false,
+  "topic": "work_business",
+  "forms": [
+   "leveraged",
+   "leverages",
+   "leveraging"
+  ],
+  "senses": [
+   {
+    "id": "leverage-1",
+    "pos": "n",
+    "ko": "영향력, 협상력",
+    "en": "the power to influence people so you get what you want",
+    "nuance": "협상에서 상대를 움직일 수 있는 힘을 뜻하는 불가산 명사라 a leverage라고 하지 않는다. 금융에서는 빌린 돈의 비율을 뜻하기도 한다.",
+    "pattern": "have leverage over + 사람",
+    "examples": [
+     {
+      "en": "We have little leverage because they can buy elsewhere.",
+      "ko": "그쪽이 다른 데서 살 수 있으니 우리는 협상력이 거의 없어요.",
+      "focus": "have little leverage"
+     },
+     {
+      "en": "Losing our biggest client gave the supplier real leverage.",
+      "ko": "최대 고객사를 잃으면서 공급사가 진짜 협상력을 쥐게 됐어요.",
+      "focus": "gave the supplier real leverage"
+     }
+    ],
+    "collocations": [
+     "have leverage over",
+     "use your leverage",
+     "financial leverage"
+    ]
+   },
+   {
+    "id": "leverage-2",
+    "pos": "v",
+    "ko": "활용하다, 최대한 쓰다",
+    "en": "to use what you already have to gain more benefit",
+    "nuance": "비즈니스 회의에서 use 대신 쓰는 유행어라 일상 대화에서는 과하게 들린다. 격식 없는 자리에서는 make the most of가 자연스럽다.",
+    "examples": [
+     {
+      "en": "Let's leverage our existing users to test the new feature.",
+      "ko": "새 기능을 시험하는 데 기존 사용자들을 활용합시다.",
+      "focus": "leverage our existing users"
+     }
+    ]
+   }
+  ],
+  "confusables": [
+   {
+    "word": "advantage",
+    "note": "advantage는 내가 가진 유리한 점, leverage는 그 점으로 상대를 움직일 수 있는 힘이다."
+   }
+  ]
+ },
+ {
+  "id": "lifestyle",
+  "headword": "lifestyle",
+  "ipa": "/ˈlaɪfstaɪl/",
+  "level": "ADV",
+  "isCore": false,
+  "topic": "home_daily",
+  "forms": [
+   "lifestyles"
+  ],
+  "senses": [
+   {
+    "id": "lifestyle-1",
+    "pos": "n",
+    "ko": "생활 방식, 라이프스타일",
+    "en": "the way a person lives day to day, including habits and choices",
+    "nuance": "가산 명사라 a healthy lifestyle처럼 관사를 붙인다. '생활 수준'은 lifestyle이 아니라 standard of living이다.",
+    "pattern": "a + 형용사 + lifestyle",
+    "examples": [
+     {
+      "en": "Working from home completely changed my daily lifestyle.",
+      "ko": "재택근무가 제 일상 생활 방식을 완전히 바꿔 놨어요.",
+      "focus": "changed my daily lifestyle"
+     },
+     {
+      "en": "The survey asked about lifestyles among customers in their thirties.",
+      "ko": "그 설문은 30대 고객들의 생활 방식을 물었어요.",
+      "focus": "asked about lifestyles among customers"
+     }
+    ],
+    "collocations": [
+     "a healthy lifestyle",
+     "an active lifestyle",
+     "a lifestyle change"
+    ]
+   }
+  ],
+  "confusables": [
+   {
+    "word": "living",
+    "note": "make a living은 '생계를 꾸리다'라는 돈 이야기, lifestyle은 어떻게 사느냐는 생활 방식이다."
+   }
+  ]
+ },
+ {
+  "id": "liquidity",
+  "headword": "liquidity",
+  "ipa": "/lɪˈkwɪdəti/",
+  "level": "ADV",
+  "isCore": false,
+  "topic": "money_shopping",
+  "senses": [
+   {
+    "id": "liquidity-1",
+    "pos": "n",
+    "ko": "유동성, 현금 여력",
+    "en": "how easily a company can turn what it owns into cash",
+    "nuance": "불가산 명사라 liquidities라고 하지 않고 enough liquidity처럼 쓴다. 액체와는 무관한 금융 용어이니 liquid와 뜻을 섞지 않는다.",
+    "pattern": "enough/short of + liquidity",
+    "examples": [
+     {
+      "en": "The firm has enough liquidity to survive two bad quarters.",
+      "ko": "그 회사는 부진한 두 분기를 버틸 만한 유동성이 있어요.",
+      "focus": "enough liquidity to survive two bad quarters"
+     },
+     {
+      "en": "Our report warns about a liquidity problem next spring.",
+      "ko": "저희 보고서는 내년 봄 유동성 문제를 경고합니다.",
+      "focus": "a liquidity problem next spring"
+     }
+    ],
+    "collocations": [
+     "a liquidity problem",
+     "provide liquidity",
+     "market liquidity"
+    ]
+   }
+  ],
+  "wordFamily": [
+   {
+    "form": "liquid",
+    "pos": "adj",
+    "ko": "현금화하기 쉬운"
+   }
+  ],
+  "confusables": [
+   {
+    "word": "solvency",
+    "note": "solvency는 빚을 결국 갚을 수 있는지, liquidity는 지금 당장 현금을 만들 수 있는지를 말한다."
+   }
+  ]
+ },
+ {
+  "id": "liter",
+  "headword": "liter",
+  "ipa": "/ˈlitər/",
+  "level": "ADV",
+  "isCore": false,
+  "topic": "time_quantity",
+  "forms": [
+   "liters",
+   "litre",
+   "litres"
+  ],
+  "senses": [
+   {
+    "id": "liter-1",
+    "pos": "n",
+    "ko": "리터",
+    "en": "a unit for measuring liquid, about four cups",
+    "nuance": "미국은 liter, 영국은 litre로 철자가 다르다. 명사 앞에서는 a two-liter bottle처럼 단수로 두고 하이픈을 넣는다.",
+    "pattern": "숫자 + liters of + 명사",
+    "examples": [
+     {
+      "en": "The recipe needs two liters of water for eight people.",
+      "ko": "이 레시피는 8인분에 물 2리터가 필요해요.",
+      "focus": "two liters of water"
+     },
+     {
+      "en": "Please buy a one-liter carton of milk on your way.",
+      "ko": "오는 길에 1리터짜리 우유 하나만 사다 주세요.",
+      "focus": "a one-liter carton of milk"
+     }
+    ],
+    "collocations": [
+     "a liter of water",
+     "a two-liter bottle"
+    ]
+   }
+  ],
+  "confusables": [
+   {
+    "word": "litter",
+    "note": "litter는 '쓰레기'로 t가 두 개이고 짧게 발음한다. liter는 길게 /ˈlitər/로 읽는 단위다."
+   }
+  ]
+ },
+ {
+  "id": "literal",
+  "headword": "literal",
+  "ipa": "/ˈlɪtərəl/",
+  "level": "ADV",
+  "isCore": false,
+  "topic": "communication",
+  "senses": [
+   {
+    "id": "literal-1",
+    "pos": "adj",
+    "ko": "문자 그대로의, 직역의",
+    "en": "following the exact words, with no hidden or figured meaning",
+    "nuance": "비유가 아니라 글자 뜻 그대로라는 말이라 translation, meaning과 잘 붙는다. '문학의'는 literal이 아니라 literary이니 섞지 않는다.",
+    "pattern": "the literal meaning of + 명사",
+    "examples": [
+     {
+      "en": "A literal translation of that slogan sounds strange in English.",
+      "ko": "그 슬로건을 직역하면 영어로는 이상하게 들려요.",
+      "focus": "A literal translation of that slogan"
+     },
+     {
+      "en": "He took my joke in the literal sense and got upset.",
+      "ko": "그는 제 농담을 글자 그대로 받아들여서 기분이 상했어요.",
+      "focus": "in the literal sense"
+     }
+    ],
+    "collocations": [
+     "a literal translation",
+     "the literal meaning",
+     "in the literal sense"
+    ]
+   }
+  ],
+  "wordFamily": [
+   {
+    "form": "literally",
+    "pos": "adv",
+    "ko": "문자 그대로"
+   }
+  ],
+  "confusables": [
+   {
+    "word": "literary",
+    "note": "literary는 '문학의', literal은 '글자 그대로의'로 철자가 비슷해 가장 많이 헷갈린다."
+   },
+   {
+    "word": "figurative",
+    "note": "figurative는 비유적인 뜻, literal은 비유 없이 글자 그대로의 뜻이다."
+   }
+  ]
+ },
+ {
+  "id": "liver",
+  "headword": "liver",
+  "ipa": "/ˈlɪvər/",
+  "level": "ADV",
+  "isCore": false,
+  "topic": "body_health",
+  "forms": [
+   "livers"
+  ],
+  "senses": [
+   {
+    "id": "liver-1",
+    "pos": "n",
+    "ko": "간",
+    "en": "the large body organ that cleans your blood and helps digestion",
+    "nuance": "live의 -er처럼 보이지만 /ˈlɪvər/로 짧게 읽는 신체 기관이다. 건강검진에서는 liver function test라는 표현을 자주 본다.",
+    "pattern": "liver + 명사(function, disease)",
+    "examples": [
+     {
+      "en": "My doctor said the liver test results look fine now.",
+      "ko": "의사 선생님이 간 수치 결과는 이제 괜찮다고 하셨어요.",
+      "focus": "the liver test results look fine"
+     },
+     {
+      "en": "Too much sugar can damage your liver over many years.",
+      "ko": "설탕을 너무 많이 먹으면 오랜 세월에 걸쳐 간이 상할 수 있어요.",
+      "focus": "damage your liver"
+     }
+    ],
+    "collocations": [
+     "liver function",
+     "liver disease",
+     "damage your liver"
+    ]
+   }
+  ],
+  "confusables": [
+   {
+    "word": "kidney",
+    "note": "kidney는 오줌을 거르는 콩팥, liver는 혈액의 독소를 처리하는 간이다."
+   }
+  ]
+ },
+ {
+  "id": "lobby",
+  "headword": "lobby",
+  "ipa": "/ˈlɑbi/",
+  "level": "ADV",
+  "isCore": false,
+  "topic": "travel_transport",
+  "forms": [
+   "lobbies"
+  ],
+  "senses": [
+   {
+    "id": "lobby-1",
+    "pos": "n",
+    "ko": "로비, 현관홀",
+    "en": "the open area just inside the front door of a large building",
+    "nuance": "호텔·사무실 1층의 넓은 공간을 말하며 가산 명사라 in the lobby로 쓴다. 아파트 공동 현관도 the lobby라고 부른다.",
+    "pattern": "in/at the lobby",
+    "examples": [
+     {
+      "en": "Wait in the lobby and I'll bring your visitor badge.",
+      "ko": "로비에서 기다리시면 방문증 가져다드릴게요.",
+      "focus": "Wait in the lobby"
+     },
+     {
+      "en": "Both hotel lobbies were packed with conference attendees yesterday.",
+      "ko": "어제는 호텔 로비 두 곳 다 학회 참석자들로 꽉 찼어요.",
+      "focus": "Both hotel lobbies were packed"
+     }
+    ],
+    "collocations": [
+     "in the hotel lobby",
+     "meet in the lobby"
+    ]
+   },
+   {
+    "id": "lobby-2",
+    "pos": "n",
+    "ko": "이익 단체, 압력 단체",
+    "en": "a group that tries to influence lawmakers about one issue",
+    "nuance": "정치 기사에서 the farming lobby처럼 분야를 앞에 붙여 쓴다. 한국어 '로비하다'에 해당하는 동사 lobby도 같은 어원이다.",
+    "examples": [
+     {
+      "en": "The energy lobby pushed hard against the new carbon rules.",
+      "ko": "에너지 업계 단체가 새 탄소 규제에 강하게 반대했어요.",
+      "focus": "The energy lobby pushed hard"
+     }
+    ]
+   }
+  ],
+  "confusables": [
+   {
+    "word": "hall",
+    "note": "hall은 건물 안의 복도나 큰 강당, lobby는 정문 안쪽에서 손님을 맞는 공간이다."
+   }
+  ]
+ },
+ {
+  "id": "logical",
+  "headword": "logical",
+  "ipa": "/ˈlɑdʒɪkl/",
+  "level": "ADV",
+  "isCore": false,
+  "topic": "thinking_opinion",
+  "senses": [
+   {
+    "id": "logical-1",
+    "pos": "adj",
+    "ko": "논리적인, 당연한",
+    "en": "based on clear reasons, so the conclusion makes sense",
+    "nuance": "생각의 흐름이 앞뒤가 맞는다는 뜻이고 the logical next step처럼 '당연한 수순'에도 쓴다. 감정 없이 차갑다는 뜻은 없으니 그 경우엔 cold를 쓴다.",
+    "pattern": "a logical + 명사(step, explanation)",
+    "examples": [
+     {
+      "en": "Opening a Busan office is the logical next step for us.",
+      "ko": "부산 사무소를 여는 게 우리한테는 당연한 다음 수순이에요.",
+      "focus": "the logical next step"
+     },
+     {
+      "en": "There's no logical explanation for these numbers dropping overnight.",
+      "ko": "이 수치가 하룻밤 사이에 떨어진 건 논리적으로 설명이 안 돼요.",
+      "focus": "no logical explanation for these numbers"
+     }
+    ],
+    "collocations": [
+     "a logical explanation",
+     "the logical next step",
+     "perfectly logical"
+    ]
+   }
+  ],
+  "wordFamily": [
+   {
+    "form": "logic",
+    "pos": "n",
+    "ko": "논리"
+   },
+   {
+    "form": "logically",
+    "pos": "adv",
+    "ko": "논리적으로"
+   }
+  ],
+  "confusables": [
+   {
+    "word": "reasonable",
+    "note": "reasonable은 상식적으로 무리 없다는 뜻, logical은 근거에서 결론이 어긋나지 않는다는 뜻이다."
+   }
+  ]
+ },
+ {
+  "id": "lone",
+  "headword": "lone",
+  "ipa": "/loʊn/",
+  "level": "ADV",
+  "isCore": false,
+  "topic": "description_quality",
+  "senses": [
+   {
+    "id": "lone-1",
+    "pos": "adj",
+    "ko": "혼자인, 단 하나의",
+    "en": "being the only one of its kind in a place or group",
+    "nuance": "반드시 명사 앞에만 쓰고 He is lone처럼 서술어로 쓰지 않는다. 외로운 감정은 lonely이고 lone은 '딱 하나뿐'이라는 사실만 말한다.",
+    "pattern": "the lone + 명사",
+    "examples": [
+     {
+      "en": "She was the lone woman on that engineering panel.",
+      "ko": "그녀는 그 공학 패널에서 유일한 여성이었어요.",
+      "focus": "the lone woman on that engineering panel"
+     },
+     {
+      "en": "A lone customer waited outside the store before opening.",
+      "ko": "개점 전에 손님 한 명이 가게 밖에서 기다리고 있었어요.",
+      "focus": "A lone customer waited outside"
+     }
+    ],
+    "collocations": [
+     "the lone survivor",
+     "a lone figure",
+     "a lone voice"
+    ]
+   }
+  ],
+  "confusables": [
+   {
+    "word": "lonely",
+    "note": "lonely는 외롭다는 감정, lone은 수가 하나뿐이라는 사실만 말하고 감정은 없다."
+   },
+   {
+    "word": "loan",
+    "note": "발음이 같아 헷갈린다. loan은 '대출'이라는 명사, lone은 '유일한'이라는 형용사다."
+   }
+  ]
+ },
+ {
+  "id": "loyalty",
+  "headword": "loyalty",
+  "ipa": "/ˈlɔɪəlti/",
+  "level": "ADV",
+  "isCore": false,
+  "topic": "emotions_personality",
+  "forms": [
+   "loyalties"
+  ],
+  "senses": [
+   {
+    "id": "loyalty-1",
+    "pos": "n",
+    "ko": "충성심, 의리",
+    "en": "the quality of staying faithful to a person, group, or brand",
+    "nuance": "보통 불가산으로 쓰고 뒤 전치사는 for가 아니라 to다. 마케팅에서는 customer loyalty, a loyalty program처럼 굳어진 조합으로 나온다.",
+    "pattern": "loyalty to + 사람/조직",
+    "examples": [
+     {
+      "en": "Brand loyalty matters more than price for these older customers.",
+      "ko": "이 연령대 고객들한테는 가격보다 브랜드 충성도가 더 중요해요.",
+      "focus": "Brand loyalty matters more than price"
+     },
+     {
+      "en": "His loyalty to the team kept everyone going last winter.",
+      "ko": "그의 팀에 대한 의리가 지난겨울 모두를 버티게 했어요.",
+      "focus": "His loyalty to the team"
+     }
+    ],
+    "collocations": [
+     "customer loyalty",
+     "a loyalty program",
+     "loyalty to the company"
+    ]
+   }
+  ],
+  "wordFamily": [
+   {
+    "form": "loyal",
+    "pos": "adj",
+    "ko": "충성스러운"
+   }
+  ],
+  "confusables": [
+   {
+    "word": "royalty",
+    "note": "철자 한 글자 차이로 royalty는 '왕족·인세', loyalty는 '충성심'이라 뜻이 완전히 다르다."
+   }
+  ]
+ },
+ {
+  "id": "lump",
+  "headword": "lump",
+  "ipa": "/lʌmp/",
+  "level": "ADV",
+  "isCore": false,
+  "topic": "body_health",
+  "forms": [
+   "lumps"
+  ],
+  "senses": [
+   {
+    "id": "lump-1",
+    "pos": "n",
+    "ko": "덩어리, 혹",
+    "en": "a small solid piece with no regular shape, or a swelling on the body",
+    "nuance": "몸에 만져지는 혹과 설탕·흙 덩어리에 모두 쓰는 가산 명사다. 돈을 한 번에 받는 건 a lump sum이라는 굳은 표현이다.",
+    "pattern": "a lump of + 명사",
+    "examples": [
+     {
+      "en": "The doctor checked a small lump on my left wrist.",
+      "ko": "의사 선생님이 제 왼쪽 손목의 작은 혹을 살펴봤어요.",
+      "focus": "a small lump on my left wrist"
+     },
+     {
+      "en": "They paid the settlement as a lump sum in December.",
+      "ko": "그쪽은 합의금을 12월에 일시불로 지급했어요.",
+      "focus": "as a lump sum in December"
+     }
+    ],
+    "collocations": [
+     "a lump sum",
+     "a lump of sugar",
+     "find a lump"
+    ]
+   }
+  ],
+  "confusables": [
+   {
+    "word": "bump",
+    "note": "bump는 부딪혀서 생긴 혹이나 도로의 튀어나온 곳, lump는 안에서 만져지는 덩어리다."
+   }
+  ]
+ },
+ {
+  "id": "lung",
+  "headword": "lung",
+  "ipa": "/lʌŋ/",
+  "level": "ADV",
+  "isCore": false,
+  "topic": "body_health",
+  "forms": [
+   "lungs"
+  ],
+  "senses": [
+   {
+    "id": "lung-1",
+    "pos": "n",
+    "ko": "폐, 허파",
+    "en": "one of the two body parts you use for breathing",
+    "nuance": "두 개라 보통 복수 lungs로 말하고, 병명은 lung cancer처럼 단수로 명사 앞에 붙인다. 발음은 ng로 끝나 long과 다르다.",
+    "pattern": "lung + 명사(cancer, capacity)",
+    "examples": [
+     {
+      "en": "Swimming really improved my lung capacity over six months.",
+      "ko": "6개월 동안 수영하니까 폐활량이 확실히 좋아졌어요.",
+      "focus": "improved my lung capacity"
+     },
+     {
+      "en": "Fine dust can damage your lungs even on short walks.",
+      "ko": "미세먼지는 잠깐 걷는 사이에도 폐를 상하게 할 수 있어요.",
+      "focus": "damage your lungs"
+     }
+    ],
+    "collocations": [
+     "lung cancer",
+     "lung capacity",
+     "damage your lungs"
+    ]
+   }
+  ],
+  "confusables": [
+   {
+    "word": "long",
+    "note": "lung은 /ʌ/로 짧게, long은 /ɔ/로 길게 소리 나므로 모음을 구분해 발음해야 한다."
+   }
+  ]
+ },
+ {
+  "id": "magnificent",
+  "headword": "magnificent",
+  "ipa": "/mæɡˈnɪfɪsnt/",
+  "level": "ADV",
+  "isCore": false,
+  "topic": "description_quality",
+  "senses": [
+   {
+    "id": "magnificent-1",
+    "pos": "adj",
+    "ko": "장엄한, 멋진",
+    "en": "so large, beautiful, or impressive that people admire it",
+    "nuance": "건물·풍경·공연처럼 규모가 크고 감탄이 나오는 대상에 쓴다. 음식이 맛있다거나 사람이 착하다는 칭찬에는 어울리지 않는다.",
+    "pattern": "a magnificent + 명사(view, building)",
+    "examples": [
+     {
+      "en": "The hotel room had a magnificent view of the harbor.",
+      "ko": "호텔 방에서 항구가 내려다보이는 장관이 펼쳐졌어요.",
+      "focus": "a magnificent view of the harbor"
+     },
+     {
+      "en": "Her closing speech at the conference was absolutely magnificent.",
+      "ko": "학회 마지막에 한 그녀의 연설은 정말 훌륭했어요.",
+      "focus": "was absolutely magnificent"
+     }
+    ],
+    "collocations": [
+     "a magnificent view",
+     "a magnificent building",
+     "absolutely magnificent"
+    ]
+   }
+  ],
+  "confusables": [
+   {
+    "word": "gorgeous",
+    "note": "gorgeous는 사람·옷에도 쓰는 구어적 칭찬, magnificent는 규모가 큰 대상에 쓰는 격식체다."
+   }
+  ]
+ },
+ {
+  "id": "mall",
+  "headword": "mall",
+  "ipa": "/mɔl/",
+  "level": "ADV",
+  "isCore": false,
+  "topic": "money_shopping",
+  "forms": [
+   "malls"
+  ],
+  "senses": [
+   {
+    "id": "mall-1",
+    "pos": "n",
+    "ko": "쇼핑몰",
+    "en": "a large building with many shops and places to eat inside",
+    "nuance": "미국은 mall, 영국은 shopping centre를 쓴다. 온라인 쇼핑 사이트를 mall이라 부르는 건 한국식이고 영어로는 an online store다.",
+    "pattern": "at/to the mall",
+    "examples": [
+     {
+      "en": "Let's meet at the mall near the station around seven.",
+      "ko": "일곱 시쯤 역 근처 쇼핑몰에서 만나자.",
+      "focus": "meet at the mall near the station"
+     },
+     {
+      "en": "Two more malls opened downtown despite falling foot traffic.",
+      "ko": "유동 인구가 주는데도 시내에 쇼핑몰이 두 곳 더 열었어요.",
+      "focus": "Two more malls opened downtown"
+     }
+    ],
+    "collocations": [
+     "a shopping mall",
+     "go to the mall"
+    ]
+   }
+  ],
+  "confusables": [
+   {
+    "word": "market",
+    "note": "market은 노점이 늘어선 재래시장, mall은 실내에 상점이 들어선 큰 건물이다."
    }
   ]
  }

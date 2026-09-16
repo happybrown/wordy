@@ -96,6 +96,7 @@ const NOT_A_FORM = new Set([
   // 복수를 만들기 쉬운 것들. consents(동의서)·completions(완공 건수)처럼
   // 전문 분야에서 실재하는 복수는 넣지 않는다.
   'compliances', 'conservations', 'consumptions', 'collaterals',
+  'expertises', 'governances',
 ]);
 /**
  * 불규칙 변화형. 어간이 크게 바뀌어 편집 거리·접미사 규칙으로는 잡히지 않는다.

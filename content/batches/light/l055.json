@@ -1627,5 +1627,1517 @@
     "note": "철자가 비슷하지만 found는 find의 과거형이거나 '설립하다'라 뜻이 전혀 다르다."
    }
   ]
+ },
+ {
+  "id": "formally",
+  "headword": "formally",
+  "ipa": "/ˈfɔːrməli/",
+  "level": "ADV",
+  "isCore": false,
+  "topic": "communication",
+  "senses": [
+   {
+    "id": "formally-1",
+    "pos": "adv",
+    "ko": "공식적으로, 격식 있게",
+    "en": "in an official way, or following polite rules of behavior",
+    "nuance": "서류·발표처럼 절차를 갖춘 행위를 꾸민다. '예전에'라는 뜻의 formerly와 철자가 한 글자 차이라 회의록에서 자주 헷갈리니 구분해 둔다.",
+    "pattern": "formally + 동사(announce, request)",
+    "examples": [
+     {
+      "en": "The merger will be formally announced at Tuesday's press conference.",
+      "ko": "합병은 화요일 기자회견에서 공식 발표될 예정입니다.",
+      "focus": "formally announced"
+     },
+     {
+      "en": "You should request the extension formally, not just by text.",
+      "ko": "연장은 문자 말고 공식적으로 요청하셔야 해요.",
+      "focus": "request the extension formally"
+     }
+    ],
+    "collocations": [
+     "formally announce",
+     "formally request",
+     "formally approve"
+    ]
+   }
+  ],
+  "wordFamily": [
+   {
+    "form": "formal",
+    "pos": "adj",
+    "ko": "공식적인, 격식 있는"
+   }
+  ],
+  "confusables": [
+   {
+    "word": "formerly",
+    "note": "formerly는 '이전에'라는 시간 표현, formally는 '공식적으로'라는 방식 표현이다."
+   },
+   {
+    "word": "officially",
+    "note": "officially는 기관의 권한으로 확정했다는 쪽, formally는 절차와 격식을 갖췄다는 쪽이다."
+   }
+  ]
+ },
+ {
+  "id": "foster",
+  "headword": "foster",
+  "ipa": "/ˈfɔːstər/",
+  "level": "ADV",
+  "isCore": false,
+  "topic": "work_business",
+  "forms": [
+   "fostered",
+   "fostering",
+   "fosters"
+  ],
+  "senses": [
+   {
+    "id": "foster-1",
+    "pos": "v",
+    "ko": "조성하다, 키우다",
+    "en": "to help a feeling, skill, or idea grow over time",
+    "nuance": "협력·신뢰·창의성처럼 눈에 안 보이는 것을 목적어로 받는 격식체다. 물건이나 매출을 늘리는 데는 쓰지 않고 그때는 increase를 쓴다.",
+    "pattern": "foster + 명사(cooperation, trust)",
+    "examples": [
+     {
+      "en": "These short meetings foster trust between the two teams.",
+      "ko": "이런 짧은 회의가 두 팀 사이의 신뢰를 키웁니다.",
+      "focus": "foster trust between the two teams"
+     },
+     {
+      "en": "The program fostered closer cooperation with our London office.",
+      "ko": "그 프로그램은 런던 지사와의 협력을 더 긴밀하게 만들었어요.",
+      "focus": "fostered closer cooperation"
+     }
+    ],
+    "collocations": [
+     "foster cooperation",
+     "foster innovation",
+     "foster a sense of trust"
+    ]
+   }
+  ],
+  "confusables": [
+   {
+    "word": "encourage",
+    "note": "encourage는 사람에게 용기를 주는 일상어, foster는 분위기·능력이 자라도록 여건을 만드는 격식체다."
+   },
+   {
+    "word": "raise",
+    "note": "raise는 아이나 수치를 실제로 키우는 것, foster는 추상적인 것이 자라게 돕는 것이다."
+   }
+  ]
+ },
+ {
+  "id": "founder",
+  "headword": "founder",
+  "ipa": "/ˈfaʊndər/",
+  "level": "ADV",
+  "isCore": false,
+  "topic": "work_business",
+  "forms": [
+   "founders"
+  ],
+  "senses": [
+   {
+    "id": "founder-1",
+    "pos": "n",
+    "ko": "설립자, 창업자",
+    "en": "a person who starts a company, school, or organization",
+    "nuance": "회사를 세운 사람이라 find(찾다)가 아니라 found(설립하다)에서 온 말이다. 공동 창업자는 cofounder 또는 co-founder라고 쓴다.",
+    "pattern": "the founder of + 조직",
+    "examples": [
+     {
+      "en": "The founder of the company still reviews every hiring decision.",
+      "ko": "그 회사 설립자는 아직도 모든 채용 결정을 검토해요.",
+      "focus": "The founder of the company"
+     },
+     {
+      "en": "Both founders spoke about their first year at the conference.",
+      "ko": "두 창업자 모두 학회에서 창업 첫해 이야기를 했습니다.",
+      "focus": "Both founders spoke"
+     }
+    ],
+    "collocations": [
+     "the founder of a company",
+     "a co-founder"
+    ]
+   }
+  ],
+  "wordFamily": [
+   {
+    "form": "found",
+    "pos": "v",
+    "ko": "설립하다"
+   },
+   {
+    "form": "foundation",
+    "pos": "n",
+    "ko": "설립, 재단, 토대"
+   }
+  ],
+  "confusables": [
+   {
+    "word": "owner",
+    "note": "owner는 지금 소유한 사람, founder는 처음 만든 사람이다. 창업자가 지분을 다 팔았어도 founder다."
+   },
+   {
+    "word": "finder",
+    "note": "finder는 잃어버린 것을 찾은 사람, founder는 조직을 세운 사람이다."
+   }
+  ]
+ },
+ {
+  "id": "fraction",
+  "headword": "fraction",
+  "ipa": "/ˈfrækʃn/",
+  "level": "ADV",
+  "isCore": false,
+  "topic": "time_quantity",
+  "forms": [
+   "fractions"
+  ],
+  "senses": [
+   {
+    "id": "fraction-1",
+    "pos": "n",
+    "ko": "아주 적은 부분, 분수",
+    "en": "a very small part of something, or a number like one half",
+    "nuance": "a fraction of the cost처럼 '아주 일부'라는 뜻으로 쓸 때가 많고, 이때 a를 빼면 어색하다. 그냥 '일부'는 part나 some이고 fraction은 '놀랄 만큼 적다'는 어감이 있다.",
+    "pattern": "a fraction of + 명사",
+    "examples": [
+     {
+      "en": "We finished the redesign at a fraction of the original cost.",
+      "ko": "우리는 원래 비용의 일부만으로 리디자인을 끝냈어요.",
+      "focus": "a fraction of the original cost"
+     },
+     {
+      "en": "Only a small fraction of users ever open that menu.",
+      "ko": "그 메뉴를 열어 보는 사용자는 아주 일부뿐이야.",
+      "focus": "a small fraction of users"
+     }
+    ],
+    "collocations": [
+     "a fraction of the cost",
+     "a small fraction",
+     "a fraction of a second"
+    ]
+   }
+  ],
+  "confusables": [
+   {
+    "word": "percentage",
+    "note": "percentage는 비율을 수치로 말할 때, fraction은 '전체에 비해 아주 적다'는 느낌을 줄 때 쓴다."
+   },
+   {
+    "word": "function",
+    "note": "철자가 비슷하지만 function은 '기능'이라 뜻이 전혀 다르다."
+   }
+  ]
+ },
+ {
+  "id": "franchise",
+  "headword": "franchise",
+  "ipa": "/ˈfræntʃaɪz/",
+  "level": "ADV",
+  "isCore": false,
+  "topic": "work_business",
+  "forms": [
+   "franchises"
+  ],
+  "senses": [
+   {
+    "id": "franchise-1",
+    "pos": "n",
+    "ko": "가맹 사업권, 체인점",
+    "en": "the right to sell a company's products using its name",
+    "nuance": "가산 명사라 buy a franchise, open a franchise처럼 관사를 붙인다. 한국어 '프랜차이즈'는 본사를 가리킬 때도 있지만 영어 franchise는 보통 권리나 개별 가맹점을 뜻한다.",
+    "pattern": "own/buy + a franchise",
+    "examples": [
+     {
+      "en": "Tom bought a coffee franchise near the Busan station last year.",
+      "ko": "톰은 작년에 부산역 근처에 커피 가맹점을 하나 냈어요.",
+      "focus": "bought a coffee franchise"
+     },
+     {
+      "en": "The company now runs two hundred franchises across Asia.",
+      "ko": "그 회사는 이제 아시아 전역에서 가맹점 200곳을 운영합니다.",
+      "focus": "two hundred franchises across Asia"
+     }
+    ],
+    "collocations": [
+     "buy a franchise",
+     "a franchise agreement",
+     "open a franchise"
+    ]
+   }
+  ],
+  "confusables": [
+   {
+    "word": "branch",
+    "note": "branch는 본사가 직접 운영하는 지점, franchise는 남이 권리를 사서 여는 가맹점이다."
+   },
+   {
+    "word": "chain",
+    "note": "chain은 같은 이름의 가게 전체를 묶어 부르는 말, franchise는 그 가게를 낼 권리다."
+   }
+  ]
+ },
+ {
+  "id": "fraud",
+  "headword": "fraud",
+  "ipa": "/frɔːd/",
+  "level": "ADV",
+  "isCore": false,
+  "topic": "society_politics",
+  "forms": [
+   "frauds"
+  ],
+  "senses": [
+   {
+    "id": "fraud-1",
+    "pos": "n",
+    "ko": "사기, 사기 범죄",
+    "en": "the crime of tricking people to get money illegally",
+    "nuance": "범죄 행위 전반을 말할 때는 불가산이라 commit fraud라고 하고 a fraud를 붙이지 않는다. 개별 사건이나 사기꾼을 가리킬 때만 a fraud, frauds로 쓴다.",
+    "pattern": "commit fraud / accused of fraud",
+    "examples": [
+     {
+      "en": "The bank flagged the transfer as possible credit card fraud.",
+      "ko": "은행이 그 이체를 신용카드 사기 가능성으로 표시했어요.",
+      "focus": "possible credit card fraud"
+     },
+     {
+      "en": "Two managers were charged with fraud after the audit.",
+      "ko": "감사 후에 관리자 두 명이 사기 혐의로 기소됐습니다.",
+      "focus": "charged with fraud"
+     }
+    ],
+    "collocations": [
+     "commit fraud",
+     "credit card fraud",
+     "a fraud investigation"
+    ]
+   }
+  ],
+  "wordFamily": [
+   {
+    "form": "fraudulent",
+    "pos": "adj",
+    "ko": "사기의, 부정한"
+   }
+  ],
+  "confusables": [
+   {
+    "word": "scam",
+    "note": "scam은 구어로 쓰는 사기 수법, fraud는 법률·뉴스에서 쓰는 범죄 용어다."
+   },
+   {
+    "word": "cheat",
+    "note": "cheat는 시험·게임에서 속이는 것까지 포함, fraud는 돈을 노린 범죄를 가리킨다."
+   }
+  ]
+ },
+ {
+  "id": "freely",
+  "headword": "freely",
+  "ipa": "/ˈfriːli/",
+  "level": "ADV",
+  "isCore": false,
+  "topic": "communication",
+  "senses": [
+   {
+    "id": "freely-1",
+    "pos": "adv",
+    "ko": "자유롭게, 거리낌 없이",
+    "en": "without being stopped, limited, or controlled",
+    "nuance": "제약 없이 말하거나 움직인다는 뜻이지 '공짜로'라는 뜻은 없다. '무료로'는 freely가 아니라 for free 또는 free of charge라고 해야 한다.",
+    "pattern": "동사 + freely (speak, move)",
+    "examples": [
+     {
+      "en": "Please speak freely; nothing said here leaves this room.",
+      "ko": "편하게 말씀하세요. 여기서 나온 얘기는 밖으로 안 나갑니다.",
+      "focus": "speak freely"
+     },
+     {
+      "en": "Data moves freely between the two systems now.",
+      "ko": "이제 두 시스템 사이에서 데이터가 자유롭게 오가.",
+      "focus": "moves freely between the two systems"
+     }
+    ],
+    "collocations": [
+     "speak freely",
+     "move freely",
+     "freely available"
+    ]
+   }
+  ],
+  "confusables": [
+   {
+    "word": "free",
+    "note": "free는 '공짜로'라는 부사로도 쓰지만 freely에는 그 뜻이 없고 '제약 없이'만 뜻한다."
+   }
+  ]
+ },
+ {
+  "id": "frost",
+  "headword": "frost",
+  "ipa": "/frɔːst/",
+  "level": "ADV",
+  "isCore": false,
+  "topic": "nature_animals",
+  "forms": [
+   "frosts"
+  ],
+  "senses": [
+   {
+    "id": "frost-1",
+    "pos": "n",
+    "ko": "서리, 영하 날씨",
+    "en": "a thin white layer of ice that forms on cold surfaces",
+    "nuance": "표면에 낀 얼음층을 말할 때는 불가산이라 a frost라고 하지 않는다. 밤사이 서리가 내린 특정 날씨를 셀 때만 an early frost처럼 쓴다.",
+    "pattern": "frost on + 표면",
+    "examples": [
+     {
+      "en": "There was frost on the car windows this morning.",
+      "ko": "오늘 아침에 차 유리창에 서리가 끼었더라.",
+      "focus": "frost on the car windows"
+     },
+     {
+      "en": "An early frost destroyed most of the farm's apple crop.",
+      "ko": "이른 서리가 그 농장 사과 수확 대부분을 망쳤습니다.",
+      "focus": "An early frost destroyed"
+     }
+    ],
+    "collocations": [
+     "frost on the ground",
+     "an early frost",
+     "a heavy frost"
+    ]
+   }
+  ],
+  "wordFamily": [
+   {
+    "form": "frosty",
+    "pos": "adj",
+    "ko": "서리가 낀, 쌀쌀한"
+   }
+  ],
+  "confusables": [
+   {
+    "word": "ice",
+    "note": "ice는 두꺼운 얼음 덩어리, frost는 표면에 하얗게 앉은 얇은 얼음 결정이다."
+   },
+   {
+    "word": "freeze",
+    "note": "freeze는 얼다는 동사, frost는 언 결과로 생긴 서리라는 명사다."
+   }
+  ]
+ },
+ {
+  "id": "furious",
+  "headword": "furious",
+  "ipa": "/ˈfjʊriəs/",
+  "level": "ADV",
+  "isCore": false,
+  "topic": "emotions_personality",
+  "senses": [
+   {
+    "id": "furious-1",
+    "pos": "adj",
+    "ko": "몹시 화가 난",
+    "en": "extremely angry, much more than annoyed",
+    "nuance": "angry보다 훨씬 센 말이라 very furious를 붙이지 않고 absolutely furious라고 한다. 사람에게 화났으면 furious with, 일 때문이면 furious about을 쓴다.",
+    "pattern": "be furious with/about + 명사",
+    "examples": [
+     {
+      "en": "The client was furious about the missed delivery date.",
+      "ko": "고객사는 납기일을 놓친 것에 몹시 화가 났어요.",
+      "focus": "furious about the missed delivery date"
+     },
+     {
+      "en": "Don't tell her yet; she'll be absolutely furious.",
+      "ko": "아직 말하지 마. 그 사람 엄청 화낼 거야.",
+      "focus": "absolutely furious"
+     }
+    ],
+    "collocations": [
+     "be furious with someone",
+     "absolutely furious",
+     "furious about a decision"
+    ]
+   }
+  ],
+  "wordFamily": [
+   {
+    "form": "fury",
+    "pos": "n",
+    "ko": "격노, 분노"
+   }
+  ],
+  "confusables": [
+   {
+    "word": "angry",
+    "note": "angry는 보통 화, furious는 참기 힘들 만큼 격한 분노다. 강도 차이가 크다."
+   },
+   {
+    "word": "curious",
+    "note": "철자가 비슷하지만 curious는 '궁금한'이라 뜻이 정반대에 가깝다."
+   }
+  ]
+ },
+ {
+  "id": "furnish",
+  "headword": "furnish",
+  "ipa": "/ˈfɜːrnɪʃ/",
+  "level": "ADV",
+  "isCore": false,
+  "topic": "home_daily",
+  "forms": [
+   "furnished",
+   "furnishes",
+   "furnishing"
+  ],
+  "senses": [
+   {
+    "id": "furnish-1",
+    "pos": "v",
+    "ko": "가구를 들이다",
+    "en": "to put beds, tables, and chairs into a room or house",
+    "nuance": "집에 가구를 채워 넣는다는 뜻이고, 실제로는 a furnished apartment처럼 과거분사 형태로 훨씬 자주 본다. 가구 자체는 furnish가 아니라 furniture다.",
+    "pattern": "furnish + 장소 / a furnished + 장소",
+    "examples": [
+     {
+      "en": "We rented a furnished apartment near the London office.",
+      "ko": "우리는 런던 사무실 근처에 가구가 딸린 아파트를 빌렸어요.",
+      "focus": "a furnished apartment"
+     },
+     {
+      "en": "They furnished the whole meeting room for under two thousand dollars.",
+      "ko": "그들은 2천 달러도 안 들여서 회의실 전체에 가구를 넣었습니다.",
+      "focus": "furnished the whole meeting room"
+     }
+    ],
+    "collocations": [
+     "a furnished apartment",
+     "fully furnished",
+     "furnish a room"
+    ]
+   }
+  ],
+  "confusables": [
+   {
+    "word": "furniture",
+    "note": "furniture는 가구를 뜻하는 불가산 명사, furnish는 그 가구를 들여놓는 동사다."
+   },
+   {
+    "word": "finish",
+    "note": "철자가 비슷해 헷갈리지만 finish는 '끝내다'라 뜻이 전혀 다르다."
+   }
+  ]
+ },
+ {
+  "id": "fuse",
+  "headword": "fuse",
+  "ipa": "/fjuːz/",
+  "level": "ADV",
+  "isCore": false,
+  "topic": "environment_science",
+  "forms": [
+   "fused",
+   "fuses",
+   "fusing"
+  ],
+  "senses": [
+   {
+    "id": "fuse-1",
+    "pos": "v",
+    "ko": "결합하다, 융합하다",
+    "en": "to join two things so they become one",
+    "nuance": "열이나 압력으로 완전히 하나가 되는 것이라 나중에 다시 떼기 어렵다는 어감이다. 단순히 합치는 것은 combine, 회사 합병은 merge를 쓴다.",
+    "pattern": "fuse A with/and B",
+    "examples": [
+     {
+      "en": "Her design fuses traditional patterns with modern materials.",
+      "ko": "그분 디자인은 전통 문양을 현대적인 소재와 결합합니다.",
+      "focus": "fuses traditional patterns with modern materials"
+     },
+     {
+      "en": "At high heat the two metals fuse into a single piece.",
+      "ko": "고온에서 두 금속이 하나로 융합돼.",
+      "focus": "the two metals fuse"
+     }
+    ],
+    "collocations": [
+     "fuse two things together",
+     "fuse traditional and modern styles"
+    ]
+   }
+  ],
+  "wordFamily": [
+   {
+    "form": "fusion",
+    "pos": "n",
+    "ko": "융합, 결합"
+   }
+  ],
+  "confusables": [
+   {
+    "word": "combine",
+    "note": "combine은 합쳐도 각각 구분되지만, fuse는 녹아 붙어 하나가 되어 구분이 사라진다."
+   },
+   {
+    "word": "confuse",
+    "note": "철자가 비슷하지만 confuse는 '혼동시키다'라 뜻이 전혀 다르다."
+   }
+  ]
+ },
+ {
+  "id": "gasoline",
+  "headword": "gasoline",
+  "ipa": "/ˈɡæsəliːn/",
+  "level": "ADV",
+  "isCore": false,
+  "topic": "travel_transport",
+  "senses": [
+   {
+    "id": "gasoline-1",
+    "pos": "n",
+    "ko": "휘발유",
+    "en": "the liquid fuel that cars burn to run",
+    "nuance": "불가산 명사라 a gasoline이라고 하지 않고 양은 liters of gasoline으로 센다. 미국에서는 줄여서 gas라고 하고 영국에서는 petrol을 쓴다.",
+    "pattern": "a tank of gasoline / gasoline prices",
+    "examples": [
+     {
+      "en": "Gasoline prices went up again just before the holiday.",
+      "ko": "연휴 직전에 휘발유 값이 또 올랐어.",
+      "focus": "Gasoline prices went up"
+     },
+     {
+      "en": "The company car still runs on gasoline, not electricity.",
+      "ko": "그 법인차는 아직 전기가 아니라 휘발유로 갑니다.",
+      "focus": "runs on gasoline"
+     }
+    ],
+    "collocations": [
+     "gasoline prices",
+     "run on gasoline",
+     "a gallon of gasoline"
+    ]
+   }
+  ],
+  "confusables": [
+   {
+    "word": "petrol",
+    "note": "같은 것을 가리키지만 petrol은 영국식, gasoline은 미국식이다. 미국 구어로는 gas라고 줄인다."
+   },
+   {
+    "word": "diesel",
+    "note": "diesel은 경유라 연료 종류가 다르다. 주유할 때 잘못 넣으면 차가 망가진다."
+   }
+  ]
+ },
+ {
+  "id": "genetically",
+  "headword": "genetically",
+  "ipa": "/dʒəˈnetɪkli/",
+  "level": "ADV",
+  "isCore": false,
+  "topic": "environment_science",
+  "senses": [
+   {
+    "id": "genetically-1",
+    "pos": "adv",
+    "ko": "유전적으로",
+    "en": "in a way related to the genes passed from parents",
+    "nuance": "genetically modified(유전자 변형)가 가장 흔한 조합이라 식품 표시에서 GM으로 줄여 쓴다. 첫 글자 g를 '그'가 아니라 '즈'에 가깝게 읽는다.",
+    "pattern": "genetically + 형용사/분사",
+    "examples": [
+     {
+      "en": "These tomatoes are genetically modified to resist cold weather.",
+      "ko": "이 토마토는 추위에 강하도록 유전자가 변형된 거예요.",
+      "focus": "genetically modified to resist cold weather"
+     },
+     {
+      "en": "The two species are genetically very similar to each other.",
+      "ko": "그 두 종은 유전적으로 서로 아주 비슷합니다.",
+      "focus": "genetically very similar"
+     }
+    ],
+    "collocations": [
+     "genetically modified",
+     "genetically similar",
+     "genetically identical"
+    ]
+   }
+  ],
+  "wordFamily": [
+   {
+    "form": "genetic",
+    "pos": "adj",
+    "ko": "유전의, 유전적인"
+   },
+   {
+    "form": "gene",
+    "pos": "n",
+    "ko": "유전자"
+   }
+  ],
+  "confusables": [
+   {
+    "word": "generally",
+    "note": "철자가 비슷하지만 generally는 '일반적으로'라 뜻이 전혀 다르다."
+   }
+  ]
+ },
+ {
+  "id": "genetics",
+  "headword": "genetics",
+  "ipa": "/dʒəˈnetɪks/",
+  "level": "ADV",
+  "isCore": false,
+  "topic": "academic",
+  "senses": [
+   {
+    "id": "genetics-1",
+    "pos": "n",
+    "ko": "유전학, 유전적 특성",
+    "en": "the study of how qualities pass from parents to children",
+    "nuance": "s로 끝나지만 학문 이름이라 단수 취급해 Genetics is difficult라고 한다. 유전자 하나는 a gene, 형용사는 genetic이다.",
+    "pattern": "study/major in + genetics",
+    "examples": [
+     {
+      "en": "Mina studied genetics before she moved into data science.",
+      "ko": "미나는 데이터 과학으로 옮기기 전에 유전학을 공부했어요.",
+      "focus": "studied genetics"
+     },
+     {
+      "en": "Genetics explains only part of why people age differently.",
+      "ko": "유전학은 사람마다 노화가 다른 이유의 일부만 설명해 줍니다.",
+      "focus": "Genetics explains only part"
+     }
+    ],
+    "collocations": [
+     "study genetics",
+     "human genetics",
+     "a genetics lab"
+    ]
+   }
+  ],
+  "wordFamily": [
+   {
+    "form": "genetic",
+    "pos": "adj",
+    "ko": "유전의"
+   },
+   {
+    "form": "geneticist",
+    "pos": "n",
+    "ko": "유전학자"
+   }
+  ],
+  "confusables": [
+   {
+    "word": "genetic",
+    "note": "genetics는 학문 이름인 명사, genetic은 '유전의'라는 형용사다. genetics disease는 틀린다."
+   }
+  ]
+ },
+ {
+  "id": "glare",
+  "headword": "glare",
+  "ipa": "/ɡler/",
+  "level": "ADV",
+  "isCore": false,
+  "topic": "description_quality",
+  "forms": [
+   "glares"
+  ],
+  "senses": [
+   {
+    "id": "glare-1",
+    "pos": "n",
+    "ko": "눈부신 빛, 반사광",
+    "en": "strong light that hurts your eyes or makes seeing hard",
+    "nuance": "화면이나 창에 반사돼 눈이 부신 빛을 말하는 불가산 명사다. '햇빛이 세다'가 아니라 '눈이 부셔서 안 보인다'는 불편에 초점이 있다.",
+    "pattern": "the glare from/of + 광원",
+    "examples": [
+     {
+      "en": "Move your monitor; the glare from the window is terrible.",
+      "ko": "모니터 좀 옮겨. 창문 반사광 때문에 눈이 너무 부셔.",
+      "focus": "the glare from the window"
+     },
+     {
+      "en": "I wore sunglasses to cut the glare on the highway.",
+      "ko": "고속도로에서 눈부심을 줄이려고 선글라스를 썼어요.",
+      "focus": "cut the glare on the highway"
+     }
+    ],
+    "collocations": [
+     "the glare of the sun",
+     "reduce glare",
+     "screen glare"
+    ]
+   },
+   {
+    "id": "glare-2",
+    "pos": "n",
+    "ko": "노려봄, 쏘아보는 눈빛",
+    "en": "a long angry look at someone",
+    "nuance": "말없이 화난 눈으로 쏘아보는 시선을 뜻하는 가산 명사다. stare는 그냥 오래 쳐다보는 것이고 glare는 반드시 화가 담겨 있다.",
+    "pattern": "give someone a glare",
+    "examples": [
+     {
+      "en": "He gave me a cold glare when I interrupted him.",
+      "ko": "내가 말을 끊자 그 사람이 나를 차갑게 노려봤어.",
+      "focus": "a cold glare"
+     }
+    ]
+   }
+  ],
+  "confusables": [
+   {
+    "word": "stare",
+    "note": "stare는 감정 없이 오래 쳐다보는 것, glare는 화난 눈으로 쏘아보는 것이다."
+   },
+   {
+    "word": "glance",
+    "note": "glance는 힐끗 짧게 보는 것, glare는 길게 노려보는 것이라 방향이 반대다."
+   }
+  ]
+ },
+ {
+  "id": "glimpse",
+  "headword": "glimpse",
+  "ipa": "/ɡlɪmps/",
+  "level": "ADV",
+  "isCore": false,
+  "topic": "movement_action",
+  "forms": [
+   "glimpses"
+  ],
+  "senses": [
+   {
+    "id": "glimpse-1",
+    "pos": "n",
+    "ko": "언뜻 봄, 잠깐 보임",
+    "en": "a quick look at something, often by chance",
+    "nuance": "catch a glimpse of + 명사가 거의 굳은 표현이고 see a glimpse라고는 잘 쓰지 않는다. 설명·보고서에서는 '맛보기'라는 뜻으로 a glimpse of the future처럼 쓴다.",
+    "pattern": "catch a glimpse of + 명사",
+    "examples": [
+     {
+      "en": "I caught a glimpse of the new logo before the meeting.",
+      "ko": "회의 전에 새 로고를 잠깐 봤어.",
+      "focus": "caught a glimpse of the new logo"
+     },
+     {
+      "en": "The demo gave us a glimpse of next year's product.",
+      "ko": "그 데모는 내년 제품을 살짝 맛보게 해 줬습니다.",
+      "focus": "a glimpse of next year's product"
+     }
+    ],
+    "collocations": [
+     "catch a glimpse of",
+     "a brief glimpse",
+     "a glimpse of the future"
+    ]
+   }
+  ],
+  "confusables": [
+   {
+    "word": "glance",
+    "note": "glance는 내가 일부러 힐끗 보는 것, glimpse는 우연히 잠깐 눈에 들어오는 것이다."
+   }
+  ]
+ },
+ {
+  "id": "goodness",
+  "headword": "goodness",
+  "ipa": "/ˈɡʊdnəs/",
+  "level": "ADV",
+  "isCore": false,
+  "topic": "emotions_personality",
+  "senses": [
+   {
+    "id": "goodness-1",
+    "pos": "interj",
+    "ko": "세상에, 어머나",
+    "en": "a word you say when surprised or shocked",
+    "nuance": "놀랐을 때 쓰는 가벼운 감탄으로 My goodness!, Goodness me! 형태가 흔하다. Oh my God보다 부드러워서 직장에서도 부담 없이 쓴다.",
+    "pattern": "My goodness! / Goodness, + 절",
+    "examples": [
+     {
+      "en": "My goodness, did they really cut the budget in half?",
+      "ko": "세상에, 예산을 정말 반으로 깎았대요?",
+      "focus": "My goodness"
+     },
+     {
+      "en": "Goodness, I didn't expect so many people today.",
+      "ko": "어머, 오늘 이렇게 많이 올 줄은 몰랐네.",
+      "focus": "Goodness, I didn't expect"
+     }
+    ],
+    "collocations": [
+     "my goodness",
+     "goodness knows",
+     "thank goodness"
+    ]
+   },
+   {
+    "id": "goodness-2",
+    "pos": "n",
+    "ko": "선량함, 좋은 성분",
+    "en": "the quality of being kind, or the healthy part of food",
+    "nuance": "사람의 착함을 뜻할 때도, 음식의 영양을 뜻할 때도 불가산이라 a goodness라고 하지 않는다. 일상 대화보다 글이나 광고 문구에서 더 자주 본다.",
+    "pattern": "the goodness of + 명사",
+    "examples": [
+     {
+      "en": "She still believes in the basic goodness of people.",
+      "ko": "그분은 여전히 사람의 근본적인 선함을 믿어요.",
+      "focus": "the basic goodness of people"
+     }
+    ]
+   }
+  ],
+  "confusables": [
+   {
+    "word": "kindness",
+    "note": "kindness는 남에게 잘해 주는 구체적 행동, goodness는 사람의 됨됨이 전체를 가리킨다."
+   }
+  ]
+ },
+ {
+  "id": "goodwill",
+  "headword": "goodwill",
+  "ipa": "/ˌɡʊdˈwɪl/",
+  "level": "ADV",
+  "isCore": false,
+  "topic": "work_business",
+  "senses": [
+   {
+    "id": "goodwill-1",
+    "pos": "n",
+    "ko": "호의, 선의",
+    "en": "a friendly and helpful attitude toward other people",
+    "nuance": "불가산 명사라 a goodwill이라고 하지 않고 a lot of goodwill로 센다. 협상에서 '성의 표시로'는 as a gesture of goodwill이라는 굳은 표현을 쓴다.",
+    "pattern": "a gesture of goodwill",
+    "examples": [
+     {
+      "en": "We waived the fee as a gesture of goodwill.",
+      "ko": "저희는 성의 표시로 수수료를 면제해 드렸습니다.",
+      "focus": "a gesture of goodwill"
+     },
+     {
+      "en": "Years of goodwill disappeared after that one email.",
+      "ko": "그 이메일 하나로 몇 년간 쌓은 호의가 사라졌어.",
+      "focus": "Years of goodwill disappeared"
+     }
+    ],
+    "collocations": [
+     "a gesture of goodwill",
+     "build goodwill",
+     "goodwill between partners"
+    ]
+   }
+  ],
+  "confusables": [
+   {
+    "word": "favor",
+    "note": "favor는 한 번 베푸는 구체적 도움, goodwill은 오래 쌓인 우호적인 태도다."
+   }
+  ]
+ },
+ {
+  "id": "governance",
+  "headword": "governance",
+  "ipa": "/ˈɡʌvərnəns/",
+  "level": "ADV",
+  "isCore": false,
+  "topic": "society_politics",
+  "senses": [
+   {
+    "id": "governance-1",
+    "pos": "n",
+    "ko": "지배 구조, 통치 방식",
+    "en": "the way an organization or country is controlled and managed",
+    "nuance": "정부나 회사를 '어떻게 운영하는가'라는 방식·구조를 뜻하는 불가산 명사다. 기관 자체는 government, 사람은 governor이니 구분해 쓴다.",
+    "pattern": "corporate/good governance",
+    "examples": [
+     {
+      "en": "Investors asked hard questions about our corporate governance.",
+      "ko": "투자자들이 우리 기업 지배 구조에 대해 까다로운 질문을 했어요.",
+      "focus": "our corporate governance"
+     },
+     {
+      "en": "Better governance would prevent most of these budget problems.",
+      "ko": "운영 체계가 더 나았다면 이런 예산 문제 대부분은 안 생겼을 겁니다.",
+      "focus": "Better governance would prevent"
+     }
+    ],
+    "collocations": [
+     "corporate governance",
+     "good governance",
+     "a governance structure"
+    ]
+   }
+  ],
+  "confusables": [
+   {
+    "word": "government",
+    "note": "government는 나라를 다스리는 기관 자체, governance는 다스리는 방식과 체계다."
+   }
+  ]
+ },
+ {
+  "id": "gram",
+  "headword": "gram",
+  "ipa": "/ɡræm/",
+  "level": "ADV",
+  "isCore": false,
+  "topic": "time_quantity",
+  "forms": [
+   "gramme",
+   "grams"
+  ],
+  "senses": [
+   {
+    "id": "gram-1",
+    "pos": "n",
+    "ko": "그램",
+    "en": "a small unit of weight; a thousand of them make a kilo",
+    "nuance": "숫자 뒤에 복수 s를 붙여 500 grams라고 쓰고, 줄여 쓸 때는 g로 표기한다. 영국식 철자는 gramme이지만 지금은 gram이 일반적이다.",
+    "pattern": "숫자 + grams of + 명사",
+    "examples": [
+     {
+      "en": "The report says each sample weighs about fifty grams.",
+      "ko": "보고서에 따르면 각 샘플은 약 50그램이래요.",
+      "focus": "about fifty grams"
+     },
+     {
+      "en": "Add ten grams of salt and stir it slowly.",
+      "ko": "소금 10그램을 넣고 천천히 저어.",
+      "focus": "ten grams of salt"
+     }
+    ],
+    "collocations": [
+     "grams of sugar",
+     "per gram",
+     "weigh fifty grams"
+    ]
+   }
+  ],
+  "confusables": [
+   {
+    "word": "kilogram",
+    "note": "1 kilogram은 1,000 grams다. 몸무게는 보통 kilograms로, 식재료는 grams로 말한다."
+   }
+  ]
+ },
+ {
+  "id": "graph",
+  "headword": "graph",
+  "ipa": "/ɡræf/",
+  "level": "ADV",
+  "isCore": false,
+  "topic": "academic",
+  "forms": [
+   "graphs"
+  ],
+  "senses": [
+   {
+    "id": "graph-1",
+    "pos": "n",
+    "ko": "그래프, 도표",
+    "en": "a drawing with lines or bars that shows how numbers change",
+    "nuance": "가산 명사라 a graph, two graphs로 쓰고 발표에서는 이 graph shows보다 this graph shows처럼 지시어를 붙인다. 원형 차트는 graph가 아니라 pie chart라고 한다.",
+    "pattern": "a graph shows/of + 명사",
+    "examples": [
+     {
+      "en": "This graph shows our monthly sales since last January.",
+      "ko": "이 그래프는 작년 1월 이후 월별 매출을 보여 줍니다.",
+      "focus": "This graph shows our monthly sales"
+     },
+     {
+      "en": "Could you put those numbers into two separate graphs?",
+      "ko": "그 수치를 그래프 두 개로 나눠서 만들어 주실 수 있을까요?",
+      "focus": "two separate graphs"
+     }
+    ],
+    "collocations": [
+     "a line graph",
+     "a bar graph",
+     "the graph shows"
+    ]
+   }
+  ],
+  "confusables": [
+   {
+    "word": "chart",
+    "note": "chart는 표·지도까지 포함하는 넓은 말, graph는 수치의 변화를 선이나 막대로 그린 것이다."
+   }
+  ]
+ },
+ {
+  "id": "grasp",
+  "headword": "grasp",
+  "ipa": "/ɡræsp/",
+  "level": "ADV",
+  "isCore": false,
+  "topic": "thinking_opinion",
+  "forms": [
+   "grasped",
+   "grasping",
+   "grasps"
+  ],
+  "senses": [
+   {
+    "id": "grasp-1",
+    "pos": "v",
+    "ko": "이해하다, 파악하다",
+    "en": "to understand something difficult or complicated",
+    "nuance": "어려운 개념을 겨우 붙잡듯 이해한다는 뜻이라 쉬운 내용에는 안 쓴다. 이해가 안 될 때는 fail to grasp 또는 struggle to grasp라고 한다.",
+    "pattern": "grasp + 명사(concept, idea)",
+    "examples": [
+     {
+      "en": "It took me a week to grasp the new pricing model.",
+      "ko": "새 가격 모델을 이해하는 데 일주일이 걸렸어.",
+      "focus": "grasp the new pricing model"
+     },
+     {
+      "en": "She grasped the main idea faster than anyone in the room.",
+      "ko": "그분은 회의실에 있던 누구보다 빨리 핵심을 파악했어요.",
+      "focus": "grasped the main idea"
+     }
+    ],
+    "collocations": [
+     "grasp the concept",
+     "fail to grasp",
+     "grasp the main idea"
+    ]
+   }
+  ],
+  "confusables": [
+   {
+    "word": "understand",
+    "note": "understand는 일상 전반에 쓰는 일반어, grasp는 어려운 내용을 애써 파악했을 때 쓴다."
+   },
+   {
+    "word": "grab",
+    "note": "grab은 손으로 확 잡는 물리적 동작, grasp는 주로 머리로 이해한다는 비유로 쓴다."
+   }
+  ]
+ },
+ {
+  "id": "gross",
+  "headword": "gross",
+  "ipa": "/ɡroʊs/",
+  "level": "ADV",
+  "isCore": false,
+  "topic": "money_shopping",
+  "senses": [
+   {
+    "id": "gross-1",
+    "pos": "adj",
+    "ko": "총계의, 세전의",
+    "en": "counted before taxes or costs are taken away",
+    "nuance": "명세서·재무 보고에서 세금·비용을 빼기 전 금액을 가리키며 반대는 net이다. 한국어 '연봉'은 보통 세전이라 gross salary라고 해야 오해가 없다.",
+    "pattern": "gross + 명사(salary, profit)",
+    "examples": [
+     {
+      "en": "Is that figure your gross salary or take-home pay?",
+      "ko": "그 금액이 세전 연봉이에요, 실수령액이에요?",
+      "focus": "your gross salary"
+     },
+     {
+      "en": "Gross profit rose eight percent, but costs rose faster.",
+      "ko": "총이익은 8퍼센트 올랐지만 비용이 더 빨리 올랐습니다.",
+      "focus": "Gross profit rose eight percent"
+     }
+    ],
+    "collocations": [
+     "gross profit",
+     "gross salary",
+     "gross domestic product"
+    ]
+   },
+   {
+    "id": "gross-2",
+    "pos": "adj",
+    "ko": "역겨운, 더러운",
+    "en": "very unpleasant to look at, smell, or think about",
+    "nuance": "구어에서 아주 흔한 감탄형 표현으로 That's gross!처럼 쓴다. 회계의 gross와 철자가 같지만 격식 없는 말이라 보고서에는 쓰지 않는다.",
+    "pattern": "That's gross.",
+    "examples": [
+     {
+      "en": "Someone left milk in the office fridge; it smells gross.",
+      "ko": "누가 사무실 냉장고에 우유를 뒀는지 냄새가 역겨워.",
+      "focus": "it smells gross"
+     }
+    ]
+   }
+  ],
+  "confusables": [
+   {
+    "word": "net",
+    "note": "gross는 빼기 전 총액, net은 세금·비용을 다 뺀 실제 금액이다."
+   },
+   {
+    "word": "total",
+    "note": "total은 단순 합계, gross는 '아직 아무것도 빼지 않은 상태'라는 회계상 의미가 붙는다."
+   }
+  ],
+  "forms": [
+   "grosser",
+   "grossest"
+  ]
+ },
+ {
+  "id": "guardian",
+  "headword": "guardian",
+  "ipa": "/ˈɡɑːrdiən/",
+  "level": "ADV",
+  "isCore": false,
+  "topic": "people_family",
+  "forms": [
+   "guardians"
+  ],
+  "senses": [
+   {
+    "id": "guardian-1",
+    "pos": "n",
+    "ko": "보호자, 후견인",
+    "en": "an adult who is legally responsible for a child",
+    "nuance": "학교 서류에서 parent or guardian처럼 부모가 아닌 법적 보호자를 가리킬 때 쓴다. 문을 지키는 경비는 guardian이 아니라 guard다.",
+    "pattern": "a parent or guardian",
+    "examples": [
+     {
+      "en": "A parent or guardian must sign this permission form.",
+      "ko": "이 동의서에는 부모나 보호자가 서명해야 합니다.",
+      "focus": "A parent or guardian must sign"
+     },
+     {
+      "en": "His aunt became his legal guardian after the accident.",
+      "ko": "사고 후에 이모가 그의 법적 후견인이 됐어.",
+      "focus": "his legal guardian"
+     }
+    ],
+    "collocations": [
+     "a legal guardian",
+     "a parent or guardian",
+     "appoint a guardian"
+    ]
+   }
+  ],
+  "confusables": [
+   {
+    "word": "guard",
+    "note": "guard는 건물·사람을 지키는 경비원, guardian은 아이를 법적으로 책임지는 보호자다."
+   }
+  ]
+ },
+ {
+  "id": "guidance",
+  "headword": "guidance",
+  "ipa": "/ˈɡaɪdns/",
+  "level": "ADV",
+  "isCore": false,
+  "topic": "work_business",
+  "senses": [
+   {
+    "id": "guidance-1",
+    "pos": "n",
+    "ko": "지도, 안내, 조언",
+    "en": "helpful advice about what to do in a situation",
+    "nuance": "불가산 명사라 a guidance, guidances라고 하지 않고 some guidance로 쓴다. advice보다 격식 있고 윗사람·기관이 방향을 잡아 준다는 어감이 강하다.",
+    "pattern": "guidance on + 명사",
+    "examples": [
+     {
+      "en": "We need clear guidance on how to handle refund requests.",
+      "ko": "환불 요청을 어떻게 처리할지 명확한 지침이 필요합니다.",
+      "focus": "clear guidance on how to handle"
+     },
+     {
+      "en": "The team improved a lot under her guidance.",
+      "ko": "그분 지도 아래 팀이 많이 좋아졌어요.",
+      "focus": "under her guidance"
+     }
+    ],
+    "collocations": [
+     "provide guidance",
+     "guidance on a policy",
+     "under someone's guidance"
+    ]
+   }
+  ],
+  "wordFamily": [
+   {
+    "form": "guide",
+    "pos": "v",
+    "ko": "안내하다, 이끌다"
+   }
+  ],
+  "confusables": [
+   {
+    "word": "advice",
+    "note": "advice는 친구끼리도 쓰는 일반어, guidance는 상사·기관이 공식적으로 방향을 주는 느낌이다."
+   },
+   {
+    "word": "guideline",
+    "note": "guideline은 셀 수 있는 개별 지침 항목, guidance는 지도 전체를 뭉뚱그린 불가산 명사다."
+   }
+  ]
+ },
+ {
+  "id": "gulf",
+  "headword": "gulf",
+  "ipa": "/ɡʌlf/",
+  "level": "ADV",
+  "isCore": false,
+  "topic": "abstract_general",
+  "forms": [
+   "gulfs"
+  ],
+  "senses": [
+   {
+    "id": "gulf-1",
+    "pos": "n",
+    "ko": "큰 격차, 간극",
+    "en": "a very large difference between two groups or ideas",
+    "nuance": "메우기 어려울 만큼 큰 차이를 가리키며 a gulf between A and B 형태로 쓴다. 작은 차이에는 쓰지 않고 그때는 gap을 쓴다.",
+    "pattern": "a gulf between A and B",
+    "examples": [
+     {
+      "en": "There's still a wide gulf between the two teams' expectations.",
+      "ko": "두 팀의 기대치 사이에는 아직 큰 간극이 있어요.",
+      "focus": "a wide gulf between the two teams' expectations"
+     },
+     {
+      "en": "The report describes a growing gulf between rich and poor.",
+      "ko": "그 보고서는 빈부 사이의 격차가 커지고 있다고 설명합니다.",
+      "focus": "a growing gulf between rich and poor"
+     }
+    ],
+    "collocations": [
+     "a wide gulf between",
+     "bridge the gulf",
+     "a growing gulf"
+    ]
+   }
+  ],
+  "confusables": [
+   {
+    "word": "gap",
+    "note": "gap은 크기에 상관없는 일반어, gulf는 건너기 힘들 만큼 크고 깊은 차이를 강조한다."
+   },
+   {
+    "word": "golf",
+    "note": "철자가 한 글자 차이라 헷갈리지만 golf는 운동 이름이라 뜻이 전혀 다르다."
+   }
+  ]
+ },
+ {
+  "id": "habitat",
+  "headword": "habitat",
+  "ipa": "/ˈhæbɪtæt/",
+  "level": "ADV",
+  "isCore": false,
+  "topic": "nature_animals",
+  "forms": [
+   "habitats"
+  ],
+  "senses": [
+   {
+    "id": "habitat-1",
+    "pos": "n",
+    "ko": "서식지",
+    "en": "the natural place where an animal or plant normally lives",
+    "nuance": "동식물이 사는 자연 환경을 뜻하는 가산 명사라 사람이 사는 곳에는 쓰지 않는다. 사람의 거주지는 habitat이 아니라 home이나 housing이다.",
+    "pattern": "the natural habitat of + 동물",
+    "examples": [
+     {
+      "en": "Building the road destroyed the natural habitat of several birds.",
+      "ko": "도로를 내면서 여러 새의 자연 서식지가 파괴됐습니다.",
+      "focus": "the natural habitat of several birds"
+     },
+     {
+      "en": "The park protects habitats for over two hundred species.",
+      "ko": "그 공원은 200종이 넘는 생물의 서식지를 보호해요.",
+      "focus": "protects habitats for over two hundred species"
+     }
+    ],
+    "collocations": [
+     "a natural habitat",
+     "habitat loss",
+     "protect a habitat"
+    ]
+   }
+  ],
+  "confusables": [
+   {
+    "word": "habit",
+    "note": "철자가 비슷하지만 habit은 사람의 '습관'이라 뜻이 전혀 다르다."
+   },
+   {
+    "word": "environment",
+    "note": "environment는 주변 환경 전반, habitat은 특정 생물이 실제로 사는 장소다."
+   }
+  ]
+ },
+ {
+  "id": "halt",
+  "headword": "halt",
+  "ipa": "/hɔːlt/",
+  "level": "ADV",
+  "isCore": false,
+  "topic": "movement_action",
+  "forms": [
+   "halted",
+   "halting",
+   "halts"
+  ],
+  "senses": [
+   {
+    "id": "halt-1",
+    "pos": "v",
+    "ko": "중단하다, 멈추다",
+    "en": "to stop an activity or make something stop completely",
+    "nuance": "생산·공사·거래처럼 진행 중이던 큰 활동을 멈출 때 쓰는 격식체다. 뉴스와 공지에 어울리고 친구에게는 stop을 쓴다.",
+    "pattern": "halt + 명사(production, work)",
+    "examples": [
+     {
+      "en": "The factory halted production after the safety inspection.",
+      "ko": "그 공장은 안전 점검 후 생산을 중단했습니다.",
+      "focus": "halted production"
+     },
+     {
+      "en": "Heavy rain halted work on the bridge for three days.",
+      "ko": "폭우로 다리 공사가 사흘간 중단됐어요.",
+      "focus": "halted work on the bridge"
+     }
+    ],
+    "collocations": [
+     "halt production",
+     "halt construction",
+     "come to a halt"
+    ]
+   }
+  ],
+  "confusables": [
+   {
+    "word": "stop",
+    "note": "stop은 일상 전반의 일반어, halt는 공식 발표나 뉴스에서 큰 활동을 멈출 때 쓴다."
+   },
+   {
+    "word": "pause",
+    "note": "pause는 곧 다시 시작할 짧은 멈춤, halt는 언제 재개할지 모르는 중단이다."
+   }
+  ]
+ },
+ {
+  "id": "haunt",
+  "headword": "haunt",
+  "ipa": "/hɔːnt/",
+  "level": "ADV",
+  "isCore": false,
+  "topic": "emotions_personality",
+  "forms": [
+   "haunted",
+   "haunting",
+   "haunts"
+  ],
+  "senses": [
+   {
+    "id": "haunt-1",
+    "pos": "v",
+    "ko": "계속 괴롭히다, 따라다니다",
+    "en": "to keep worrying someone for a long time",
+    "nuance": "나쁜 기억·실수가 오래 마음을 떠나지 않을 때 쓴다. 지금 걱정하는 일에는 worry를 쓰고, haunt는 과거의 일이 계속 되살아난다는 어감이다.",
+    "pattern": "명사 + haunt + 사람",
+    "examples": [
+     {
+      "en": "That pricing mistake still haunts me two years later.",
+      "ko": "그 가격 실수가 2년이 지나도 아직 날 괴롭혀.",
+      "focus": "still haunts me"
+     },
+     {
+      "en": "The failed launch haunted the team for a whole year.",
+      "ko": "실패한 출시가 그 팀을 일 년 내내 따라다녔어요.",
+      "focus": "haunted the team for a whole year"
+     }
+    ],
+    "collocations": [
+     "haunt someone for years",
+     "a haunting memory"
+    ]
+   },
+   {
+    "id": "haunt-2",
+    "pos": "v",
+    "ko": "(유령이) 출몰하다",
+    "en": "to appear often in a place, said about a spirit",
+    "nuance": "유령이 특정 장소에 자주 나타난다는 뜻으로 보통 수동형 be haunted로 쓴다. 장소를 목적어로 받아 haunt in the house가 아니라 haunt the house다.",
+    "pattern": "be haunted by + 명사",
+    "examples": [
+     {
+      "en": "Locals say an old ghost haunts the theater on rainy nights.",
+      "ko": "주민들은 비 오는 밤이면 오래된 유령이 그 극장에 나타난다고 해.",
+      "focus": "haunts the theater"
+     }
+    ]
+   }
+  ],
+  "confusables": [
+   {
+    "word": "worry",
+    "note": "worry는 지금 걱정되는 일, haunt는 지나간 일이 계속 되살아나 괴롭히는 것이다."
+   }
+  ]
+ },
+ {
+  "id": "headquarters",
+  "headword": "headquarters",
+  "ipa": "/ˈhedkwɔːrtərz/",
+  "level": "ADV",
+  "isCore": false,
+  "topic": "work_business",
+  "senses": [
+   {
+    "id": "headquarters-1",
+    "pos": "n",
+    "ko": "본사, 본부",
+    "en": "the main office of a company or organization",
+    "nuance": "언제나 s가 붙어 있어 a headquarter라고 쓰지 않고, 단수 취급해 The headquarters is in Seoul이라고 한다. 줄임말 HQ는 사내 메일에서 흔하다.",
+    "pattern": "headquarters in + 도시",
+    "examples": [
+     {
+      "en": "Their headquarters moved from New York to Seoul last spring.",
+      "ko": "그 회사 본사는 지난봄에 뉴욕에서 서울로 옮겼어요.",
+      "focus": "Their headquarters moved"
+     },
+     {
+      "en": "I'm flying to headquarters on Monday for the budget review.",
+      "ko": "예산 검토 때문에 월요일에 본사로 갑니다.",
+      "focus": "flying to headquarters"
+     }
+    ],
+    "collocations": [
+     "company headquarters",
+     "global headquarters",
+     "move its headquarters"
+    ]
+   }
+  ],
+  "confusables": [
+   {
+    "word": "branch",
+    "note": "headquarters는 중심이 되는 본사 하나, branch는 각 지역에 흩어진 지점이다."
+   },
+   {
+    "word": "office",
+    "note": "office는 어느 사무실이든 가리키지만 headquarters는 회사 전체를 지휘하는 본사만 뜻한다."
+   }
+  ]
  }
 ]
