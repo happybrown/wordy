@@ -28,7 +28,7 @@ import androidx.compose.ui.unit.dp
 import dev.brown.wordy.domain.model.Example
 import dev.brown.wordy.domain.model.Sense
 import dev.brown.wordy.domain.model.Word
-import dev.brown.wordy.ui.theme.MasteryColors
+import dev.brown.wordy.ui.theme.masteryColors
 
 /** 예문에서 focus 구간을 강조한 텍스트 */
 @Composable

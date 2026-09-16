@@ -11,7 +11,7 @@ import androidx.compose.foundation.layout.height
 import androidx.compose.foundation.layout.padding
 import androidx.compose.foundation.layout.size
 import androidx.compose.foundation.rememberScrollState
-import androidx.compose.foundation.shape.RoundedCornerShape
+import androidx.compose.foundation.shape.CircleShape
 import androidx.compose.foundation.verticalScroll
 import androidx.compose.material3.HorizontalDivider
 import androidx.compose.material3.MaterialTheme
@@ -32,7 +32,7 @@ import dev.brown.wordy.ui.components.SectionTitle
 import dev.brown.wordy.ui.components.StatTile
 import dev.brown.wordy.ui.components.VSpace
 import dev.brown.wordy.ui.components.appViewModel
-import dev.brown.wordy.ui.theme.MasteryColors
+import dev.brown.wordy.ui.theme.masteryColors
 import java.time.format.DateTimeFormatter
 
 @Composable
@@ -48,7 +48,12 @@ fun StatsScreen(onWord: (String) -> Unit) {
         SectionTitle("최근 30일")
         Row(Modifier.fillMaxWidth(), horizontalArrangement = Arrangement.spacedBy(8.dp)) {
             StatTile("복습", "${s.reviews30d}", Modifier.weight(1f))
-            StatTile("정답률", s.recentAccuracy?.let { "${(it * 100).toInt()}%" } ?: "—", Modifier.weight(1f))
+            StatTile(
+                "정답률",
+                s.recentAccuracy?.let { "${(it * 100).toInt()}%" } ?: "—",
+                Modifier.weight(1f),
+                accent = s.recentAccuracy?.takeIf { it >= 0.8 }?.let { MaterialTheme.colorScheme.primary },
+            )
             StatTile("학습일", "${s.activeDays30d}일", Modifier.weight(1f))
         }
         VSpace(8)
@@ -125,18 +130,22 @@ private fun DayChart(days: List<DayBar>) {
             if (max == 0) {
                 Text("아직 학습 기록이 없습니다.", style = MaterialTheme.typography.bodyMedium, color = MaterialTheme.colorScheme.onSurfaceVariant)
             } else {
-                Row(Modifier.fillMaxWidth().height(96.dp), verticalAlignment = Alignment.Bottom, horizontalArrangement = Arrangement.spacedBy(2.dp)) {
-                    days.forEach { d ->
+                Row(Modifier.fillMaxWidth().height(104.dp), verticalAlignment = Alignment.Bottom, horizontalArrangement = Arrangement.spacedBy(3.dp)) {
+                    days.forEachIndexed { i, d ->
                         val total = d.reviewed + d.newLearned
                         val frac = if (max == 0) 0f else total.toFloat() / max
+                        val isToday = i == days.lastIndex
                         Column(Modifier.weight(1f), verticalArrangement = Arrangement.Bottom, horizontalAlignment = Alignment.CenterHorizontally) {
                             Box(
                                 Modifier.fillMaxWidth()
-                                    .height((frac * 88).dp.coerceAtLeast(if (total > 0) 3.dp else 1.dp))
-                                    .clip(RoundedCornerShape(2.dp))
+                                    .height((frac * 92).dp.coerceAtLeast(if (total > 0) 6.dp else 3.dp))
+                                    .clip(CircleShape)
                                     .background(
-                                        if (total > 0) MaterialTheme.colorScheme.primary
-                                        else MaterialTheme.colorScheme.surfaceVariant
+                                        when {
+                                            total > 0 && isToday -> MaterialTheme.colorScheme.primary
+                                            total > 0 -> MaterialTheme.colorScheme.primary.copy(alpha = 0.55f)
+                                            else -> MaterialTheme.colorScheme.surfaceContainerHigh
+                                        }
                                     )
                             )
                         }
@@ -164,10 +173,10 @@ private fun MasteryBreakdown(counts: Map<Mastery, Int>, introduced: Int) {
         return
     }
 
-    Row(Modifier.fillMaxWidth().height(12.dp).clip(MaterialTheme.shapes.extraSmall)) {
+    Row(Modifier.fillMaxWidth().height(14.dp).clip(CircleShape), horizontalArrangement = Arrangement.spacedBy(2.dp)) {
         shown.forEach { m ->
             val n = counts[m] ?: 0
-            if (n > 0) Box(Modifier.weight(n.toFloat()).fillMaxWidth().height(12.dp).background(MasteryColors[m.level]))
+            if (n > 0) Box(Modifier.weight(n.toFloat()).fillMaxWidth().height(14.dp).clip(CircleShape).background(masteryColors[m.level]))
         }
     }
     VSpace(10)

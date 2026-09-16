@@ -1,5 +1,6 @@
 package dev.brown.wordy.ui.session
 
+import androidx.compose.animation.animateColorAsState
 import androidx.compose.foundation.layout.Arrangement
 import androidx.compose.foundation.layout.Column
 import androidx.compose.foundation.layout.FlowRow
@@ -46,29 +47,65 @@ import dev.brown.wordy.domain.session.Answer
 import dev.brown.wordy.domain.session.Exercise
 import dev.brown.wordy.domain.session.ExerciseGenerator
 import dev.brown.wordy.ui.components.LevelTag
+import dev.brown.wordy.ui.theme.masteryColors
 import dev.brown.wordy.ui.components.VSpace
 
+/**
+ * 보기 버튼 색.
+ *
+ * 정답을 브랜드 primary 로 칠하면 아직 안 고른 보기(filledTonal, 연한 primary 계열)와
+ * 색상이 같아 "무엇이 정답인지" 가 눈에 들어오지 않는다. 정답은 초록으로 따로 뺀다.
+ * 초록/빨강만으로 구분하지 않도록 정답·오답 모두 글자가 흰색으로 반전돼 명도 차이도 함께 준다.
+ */
 @Composable
 private fun optionColors(index: Int, chosen: Int?, correct: Int, answered: Boolean): androidx.compose.material3.ButtonColors {
     val cs = MaterialTheme.colorScheme
     return when {
-        answered && index == correct -> ButtonDefaults.buttonColors(containerColor = cs.primary, contentColor = cs.onPrimary)
-        answered && index == chosen -> ButtonDefaults.buttonColors(containerColor = cs.error, contentColor = cs.onError)
-        else -> ButtonDefaults.filledTonalButtonColors()
+        answered && index == correct ->
+            ButtonDefaults.buttonColors(containerColor = masteryColors[4], contentColor = Color.White)
+        answered && index == chosen ->
+            ButtonDefaults.buttonColors(containerColor = cs.error, contentColor = cs.onError)
+        // 고르지 않은 채 넘어간 보기는 뒤로 물러나게 한다
+        answered -> ButtonDefaults.buttonColors(
+            containerColor = cs.surfaceContainerHigh,
+            contentColor = cs.onSurfaceVariant,
+        )
+        else -> ButtonDefaults.buttonColors(
+            containerColor = cs.surfaceContainerHigh,
+            contentColor = cs.onSurface,
+        )
     }
 }
 
 @Composable
 private fun ChoiceList(options: List<String>, correctIndex: Int, answered: Boolean, onChoose: (Int) -> Unit) {
     var chosen by remember { mutableStateOf<Int?>(null) }
-    Column(verticalArrangement = Arrangement.spacedBy(8.dp)) {
+    Column(verticalArrangement = Arrangement.spacedBy(10.dp)) {
         options.forEachIndexed { i, text ->
+            // 정답이 밝혀질 때 색이 튀지 않고 번지도록 한다
+            val colors = optionColors(i, chosen, correctIndex, answered)
+            val container by animateColorAsState(colors.containerColor, label = "optionBg")
+            val content by animateColorAsState(colors.contentColor, label = "optionFg")
             Button(
                 onClick = { if (!answered && chosen == null) { chosen = i; onChoose(i) } },
                 enabled = !answered || i == correctIndex || i == chosen,
-                colors = optionColors(i, chosen, correctIndex, answered),
-                modifier = Modifier.fillMaxWidth().heightIn(min = 52.dp),
-            ) { Text(text, style = MaterialTheme.typography.bodyLarge) }
+                colors = ButtonDefaults.buttonColors(
+                    containerColor = container,
+                    contentColor = content,
+                    disabledContainerColor = container,
+                    disabledContentColor = content,
+                ),
+                shape = MaterialTheme.shapes.medium,
+                contentPadding = androidx.compose.foundation.layout.PaddingValues(horizontal = 20.dp, vertical = 16.dp),
+                modifier = Modifier.fillMaxWidth().heightIn(min = 58.dp),
+            ) {
+                Text(
+                    text,
+                    style = MaterialTheme.typography.bodyLarge,
+                    modifier = Modifier.fillMaxWidth(),
+                    textAlign = androidx.compose.ui.text.style.TextAlign.Center,
+                )
+            }
         }
     }
 }

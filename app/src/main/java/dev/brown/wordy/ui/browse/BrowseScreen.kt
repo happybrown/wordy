@@ -33,7 +33,7 @@ import dev.brown.wordy.ui.components.LoadingBox
 import dev.brown.wordy.ui.components.MasteryDot
 import dev.brown.wordy.ui.components.ProgressBar
 import dev.brown.wordy.ui.components.appViewModel
-import dev.brown.wordy.ui.theme.MasteryColors
+import dev.brown.wordy.ui.theme.masteryColors
 
 @Composable
 fun BrowseScreen(initialLevel: Level?, onOpenUnit: (unitId: String, title: String) -> Unit, onOpenWord: (String) -> Unit) {
@@ -72,7 +72,7 @@ fun BrowseScreen(initialLevel: Level?, onOpenUnit: (unitId: String, title: Strin
                                 Text(row.unit.title, fontWeight = FontWeight.SemiBold)
                                 Text("익숙 ${row.familiar} · 만남 ${row.met} / ${row.unit.wordCount}", style = MaterialTheme.typography.labelMedium, color = MaterialTheme.colorScheme.onSurfaceVariant)
                             }
-                            ProgressBar(if (row.unit.wordCount == 0) 0f else row.familiar.toFloat() / row.unit.wordCount, color = MasteryColors[3])
+                            ProgressBar(if (row.unit.wordCount == 0) 0f else row.familiar.toFloat() / row.unit.wordCount, color = masteryColors[3])
                         }
                     }
                 }
