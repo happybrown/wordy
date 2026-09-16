@@ -54,8 +54,8 @@ import dev.brown.wordy.ui.components.StatTile
 import dev.brown.wordy.ui.components.VSpace
 import dev.brown.wordy.ui.components.WordCard
 import dev.brown.wordy.ui.components.appViewModel
-import dev.brown.wordy.ui.theme.bloomGradient
-import dev.brown.wordy.ui.theme.onBloomGradient
+import dev.brown.wordy.ui.theme.heroGradient
+import dev.brown.wordy.ui.theme.onHeroGradient
 
 @Composable
 fun SessionScreen(extraNew: Int, onExit: () -> Unit, onOpenWord: (String) -> Unit) {
@@ -192,14 +192,14 @@ private fun SummaryPane(stats: SessionStats, onExit: () -> Unit, onOpenWord: (St
             Modifier
                 .size(96.dp)
                 .clip(CircleShape)
-                .background(bloomGradient)
+                .background(heroGradient)
                 .align(Alignment.CenterHorizontally),
             contentAlignment = Alignment.Center,
         ) {
             Icon(
                 Icons.Default.Check,
                 contentDescription = null,
-                tint = onBloomGradient,
+                tint = onHeroGradient,
                 modifier = Modifier.size(46.dp),
             )
         }

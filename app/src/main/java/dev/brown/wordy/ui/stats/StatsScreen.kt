@@ -21,6 +21,7 @@ import androidx.compose.runtime.Composable
 import androidx.compose.runtime.getValue
 import androidx.compose.ui.Alignment
 import androidx.compose.ui.Modifier
+import androidx.compose.ui.graphics.Color
 import androidx.compose.ui.draw.clip
 import androidx.compose.ui.text.font.FontWeight
 import androidx.compose.ui.unit.dp
@@ -43,9 +44,14 @@ fun StatsScreen(onWord: (String) -> Unit) {
     if (s.loading) { LoadingBox(); return }
 
     Column(Modifier.fillMaxWidth().verticalScroll(rememberScrollState()).padding(horizontal = 20.dp, vertical = 12.dp)) {
-        Text("통계", style = MaterialTheme.typography.headlineMedium, fontWeight = FontWeight.Bold)
-
-        SectionTitle("최근 30일")
+        VSpace(6)
+        Text("통계", style = MaterialTheme.typography.headlineMedium)
+        Text(
+            "최근 30일 기록",
+            style = MaterialTheme.typography.bodySmall,
+            color = MaterialTheme.colorScheme.onSurfaceVariant,
+        )
+        VSpace(18)
         Row(Modifier.fillMaxWidth(), horizontalArrangement = Arrangement.spacedBy(8.dp)) {
             StatTile("복습", "${s.reviews30d}", Modifier.weight(1f))
             StatTile(
@@ -66,40 +72,58 @@ fun StatsScreen(onWord: (String) -> Unit) {
         VSpace(16)
         DayChart(s.days)
 
-        SectionTitle("숙달 단계")
+        VSpace(26)
+        Text("숙달 단계", style = MaterialTheme.typography.titleMedium)
+        VSpace(12)
         MasteryBreakdown(s.mastery, s.introduced)
         s.avgDaysToMaster?.let {
             VSpace(6)
             Text("숙달까지 평균 ${"%.1f".format(it)}일", style = MaterialTheme.typography.bodySmall, color = MaterialTheme.colorScheme.onSurfaceVariant)
         }
 
-        SectionTitle("약한 단어")
+        VSpace(26)
+        Text("약한 단어", style = MaterialTheme.typography.titleMedium)
+        VSpace(6)
         if (s.weakWords.isEmpty()) {
             Text("아직 틀린 단어가 없습니다. 복습을 더 하면 여기에 모입니다.",
                 style = MaterialTheme.typography.bodyMedium, color = MaterialTheme.colorScheme.onSurfaceVariant)
         } else {
             Text("잊은 횟수가 많고 기억이 짧게 유지되는 순서입니다.",
                 style = MaterialTheme.typography.bodySmall, color = MaterialTheme.colorScheme.onSurfaceVariant)
-            VSpace(8)
-            s.weakWords.forEach { w ->
-                Row(
-                    Modifier.fillMaxWidth().clickable { onWord(w.wordId) }.padding(vertical = 10.dp),
-                    horizontalArrangement = Arrangement.SpaceBetween,
-                    verticalAlignment = Alignment.CenterVertically,
-                ) {
-                    Column(Modifier.weight(1f)) {
-                        Text(w.headword, fontWeight = FontWeight.SemiBold)
-                        if (w.ko.isNotBlank()) {
-                            Text(w.ko, style = MaterialTheme.typography.bodySmall, color = MaterialTheme.colorScheme.onSurfaceVariant)
+            VSpace(12)
+            Surface(
+                Modifier.fillMaxWidth(),
+                shape = MaterialTheme.shapes.medium,
+                color = MaterialTheme.colorScheme.surfaceContainer,
+            ) {
+                Column(Modifier.padding(vertical = 4.dp)) {
+                    s.weakWords.forEachIndexed { i, w ->
+                        Surface(onClick = { onWord(w.wordId) }, color = Color.Transparent) {
+                            Row(
+                                Modifier.fillMaxWidth().padding(horizontal = 16.dp, vertical = 12.dp),
+                                verticalAlignment = Alignment.CenterVertically,
+                            ) {
+                                Column(Modifier.weight(1f)) {
+                                    Text(w.headword, style = MaterialTheme.typography.titleSmall)
+                                    if (w.ko.isNotBlank()) {
+                                        Text(w.ko, style = MaterialTheme.typography.bodySmall, color = MaterialTheme.colorScheme.onSurfaceVariant)
+                                    }
+                                }
+                                Text(
+                                    "${w.lapses}번 잊음 · ${formatStability(w.stabilityDays)}",
+                                    style = MaterialTheme.typography.labelSmall,
+                                    color = MaterialTheme.colorScheme.onSurfaceVariant,
+                                )
+                            }
+                        }
+                        if (i != s.weakWords.lastIndex) {
+                            Box(
+                                Modifier.padding(horizontal = 16.dp).fillMaxWidth().height(1.dp)
+                                    .background(MaterialTheme.colorScheme.outlineVariant)
+                            )
                         }
                     }
-                    Text(
-                        "${w.lapses}번 잊음 · ${formatStability(w.stabilityDays)}",
-                        style = MaterialTheme.typography.labelMedium,
-                        color = MaterialTheme.colorScheme.onSurfaceVariant,
-                    )
                 }
-                HorizontalDivider()
             }
         }
         VSpace(32)
