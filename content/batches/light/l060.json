@@ -1,0 +1,2882 @@
+[
+ {
+  "id": "sphere",
+  "headword": "sphere",
+  "ipa": "/sfɪr/",
+  "level": "ADV",
+  "isCore": false,
+  "topic": "abstract_general",
+  "forms": [
+   "spheres"
+  ],
+  "senses": [
+   {
+    "id": "sphere-1",
+    "pos": "n",
+    "ko": "영역, 분야",
+    "en": "an area of activity or influence that one group controls",
+    "nuance": "field가 '학문·직업 분야'라면 sphere는 '힘이 미치는 범위'라는 느낌이 강하다. the private sphere, the public sphere처럼 the를 붙여 쓰는 경우가 많다.",
+    "pattern": "in the sphere of + 명사",
+    "examples": [
+     {
+      "en": "Budget cuts fall outside my sphere of influence, unfortunately.",
+      "ko": "아쉽지만 예산 삭감은 제 영향력이 미치는 범위 밖이에요.",
+      "focus": "outside my sphere of influence"
+     },
+     {
+      "en": "The report separates the public sphere from private family life.",
+      "ko": "그 보고서는 공적 영역과 사적인 가정생활을 구분합니다.",
+      "focus": "separates the public sphere"
+     }
+    ],
+    "collocations": [
+     "a sphere of influence",
+     "the public sphere",
+     "in the political sphere"
+    ]
+   },
+   {
+    "id": "sphere-2",
+    "pos": "n",
+    "ko": "구, 구체",
+    "en": "a round solid shape like a ball",
+    "nuance": "수학·과학 글에서 '완전한 공 모양'을 뜻한다. 일상에서 공을 말할 때는 ball을 쓰고 sphere는 쓰지 않는다.",
+    "examples": [
+     {
+      "en": "The model shows the earth as a slightly flattened sphere.",
+      "ko": "그 모형은 지구를 살짝 눌린 구체로 보여 줍니다.",
+      "focus": "a slightly flattened sphere"
+     }
+    ]
+   }
+  ],
+  "wordFamily": [
+   {
+    "form": "spherical",
+    "pos": "adj",
+    "ko": "구 모양의"
+   }
+  ],
+  "confusables": [
+   {
+    "word": "field",
+    "note": "field는 '전공·업계'를 가리키고, sphere는 권한·영향이 미치는 '범위'에 초점이 있다."
+   }
+  ]
+ },
+ {
+  "id": "spill",
+  "headword": "spill",
+  "ipa": "/spɪl/",
+  "level": "ADV",
+  "isCore": false,
+  "topic": "movement_action",
+  "forms": [
+   "spilled",
+   "spilling",
+   "spills",
+   "spilt"
+  ],
+  "senses": [
+   {
+    "id": "spill-1",
+    "pos": "v",
+    "ko": "쏟다, 흘리다",
+    "en": "to let liquid fall out of a container by accident",
+    "nuance": "실수로 흘리는 것이라 일부러 부을 때는 pour를 쓴다. 미국식 과거형은 spilled이고 spilt은 영국식 표기다.",
+    "pattern": "spill + 액체 + on/over",
+    "examples": [
+     {
+      "en": "I spilled coffee on the printed agenda right before the meeting.",
+      "ko": "회의 직전에 인쇄한 안건지에 커피를 쏟았어요.",
+      "focus": "spilled coffee on the printed agenda"
+     },
+     {
+      "en": "Careful, that mug will spill if you keep tilting it.",
+      "ko": "조심해, 그 머그컵 계속 기울이면 쏟아져.",
+      "focus": "will spill if you keep tilting"
+     }
+    ],
+    "collocations": [
+     "spill coffee on",
+     "an oil spill"
+    ]
+   },
+   {
+    "id": "spill-2",
+    "pos": "n",
+    "ko": "유출, 쏟아진 것",
+    "en": "an amount of liquid that has come out of its container",
+    "nuance": "환경 기사에서 an oil spill(기름 유출)로 자주 나온다. 유출 '사고'를 셀 수 있게 a spill이라고 쓴다.",
+    "examples": [
+     {
+      "en": "The company still hasn't paid for last year's chemical spill.",
+      "ko": "그 회사는 작년 화학물질 유출 비용을 아직 물지 않았어요.",
+      "focus": "last year's chemical spill"
+     }
+    ]
+   }
+  ],
+  "confusables": [
+   {
+    "word": "pour",
+    "note": "pour는 일부러 따르는 것, spill은 실수로 넘치거나 쏟는 것이다."
+   }
+  ]
+ },
+ {
+  "id": "spit",
+  "headword": "spit",
+  "ipa": "/spɪt/",
+  "level": "ADV",
+  "isCore": false,
+  "topic": "body_health",
+  "forms": [
+   "spat",
+   "spits",
+   "spitting"
+  ],
+  "senses": [
+   {
+    "id": "spit-1",
+    "pos": "v",
+    "ko": "뱉다",
+    "en": "to force liquid or food out of your mouth",
+    "nuance": "과거형은 spat이며 spitted는 틀린 형태다. 목적어 없이 쓰면 '침을 뱉다'라는 무례한 행동을 뜻하니 상황을 가려 쓴다.",
+    "pattern": "spit + 목적어 + out",
+    "examples": [
+     {
+      "en": "The dentist asked me to rinse and spit into the bowl.",
+      "ko": "치과 의사가 헹구고 그릇에 뱉으라고 했어요.",
+      "focus": "rinse and spit into the bowl"
+     },
+     {
+      "en": "Jun spat out the soup because it was far too salty.",
+      "ko": "준은 국이 너무 짜서 뱉어 냈어요.",
+      "focus": "spat out the soup"
+     }
+    ],
+    "collocations": [
+     "spit something out",
+     "spit on the ground"
+    ]
+   }
+  ],
+  "confusables": [
+   {
+    "word": "swallow",
+    "note": "swallow는 삼키는 것, spit은 입 밖으로 뱉어 내는 것이라 정반대다."
+   }
+  ]
+ },
+ {
+  "id": "spite",
+  "headword": "spite",
+  "ipa": "/spaɪt/",
+  "level": "ADV",
+  "isCore": false,
+  "topic": "emotions_personality",
+  "senses": [
+   {
+    "id": "spite-1",
+    "pos": "n",
+    "ko": "악의, 앙심",
+    "en": "a wish to hurt or annoy someone for no good reason",
+    "nuance": "실제로는 in spite of(~에도 불구하고)라는 굳은 표현으로 훨씬 자주 만난다. despite와 뜻이 같지만 despite of라고는 절대 쓰지 않는다.",
+    "pattern": "in spite of + 명사/-ing",
+    "examples": [
+     {
+      "en": "In spite of the delay, we still closed the deal.",
+      "ko": "지연이 있었는데도 우리는 결국 계약을 성사시켰어요.",
+      "focus": "In spite of the delay"
+     },
+     {
+      "en": "She leaked the schedule out of pure spite, apparently.",
+      "ko": "그 사람은 순전히 앙심으로 일정을 흘린 모양이에요.",
+      "focus": "out of pure spite"
+     }
+    ],
+    "collocations": [
+     "in spite of",
+     "out of spite"
+    ]
+   }
+  ],
+  "confusables": [
+   {
+    "word": "despite",
+    "note": "뜻은 같지만 despite 뒤에는 of를 쓰지 않는다. in spite of / despite 로 외운다."
+   }
+  ],
+  "memoryHook": "spite에 in과 of를 붙이면 '~에도 불구하고'가 된다."
+ },
+ {
+  "id": "splash",
+  "headword": "splash",
+  "ipa": "/splæʃ/",
+  "level": "ADV",
+  "isCore": false,
+  "topic": "movement_action",
+  "forms": [
+   "splashed",
+   "splashes",
+   "splashing"
+  ],
+  "senses": [
+   {
+    "id": "splash-1",
+    "pos": "v",
+    "ko": "튀기다, 첨벙거리다",
+    "en": "to make liquid fly around in drops",
+    "nuance": "물이 '튀는' 소리와 움직임을 함께 담은 단어다. splash는 자동사·타동사 둘 다 되어 The water splashed / He splashed me 모두 자연스럽다.",
+    "pattern": "splash + 목적어 + with/on",
+    "examples": [
+     {
+      "en": "A passing truck splashed muddy water all over my coat.",
+      "ko": "지나가던 트럭이 코트에 흙탕물을 온통 튀겼어요.",
+      "focus": "splashed muddy water all over my coat"
+     },
+     {
+      "en": "Try not to splash the keyboard while you refill your bottle.",
+      "ko": "물병 채울 때 키보드에 튀기지 않게 조심해.",
+      "focus": "splash the keyboard"
+     }
+    ],
+    "collocations": [
+     "splash water on",
+     "make a splash"
+    ]
+   },
+   {
+    "id": "splash-2",
+    "pos": "n",
+    "ko": "첨벙 소리, 튀김",
+    "en": "the sound or mark made when liquid hits something",
+    "nuance": "make a splash는 '물을 튀기다'와 '크게 주목받다' 두 뜻으로 모두 쓴다. 신제품이 화제가 됐을 때 자주 쓰는 비즈니스 표현이다.",
+    "examples": [
+     {
+      "en": "Their new app made a real splash at the trade show.",
+      "ko": "그 회사 새 앱이 전시회에서 큰 화제가 됐어요.",
+      "focus": "made a real splash"
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "id": "spouse",
+  "headword": "spouse",
+  "ipa": "/spaʊs/",
+  "level": "ADV",
+  "isCore": false,
+  "topic": "people_family",
+  "forms": [
+   "spouses"
+  ],
+  "senses": [
+   {
+    "id": "spouse-1",
+    "pos": "n",
+    "ko": "배우자",
+    "en": "the person someone is married to",
+    "nuance": "서류·보험·인사 규정에 쓰는 격식어라 대화에서는 husband, wife, partner를 쓴다. 성별을 밝히지 않아도 되는 중립적 표현이다.",
+    "pattern": "your spouse",
+    "examples": [
+     {
+      "en": "The insurance also covers your spouse and any dependent children.",
+      "ko": "이 보험은 배우자와 부양 자녀까지 보장합니다.",
+      "focus": "covers your spouse"
+     },
+     {
+      "en": "Employees may bring their spouses to the year-end dinner.",
+      "ko": "직원들은 연말 만찬에 배우자를 동반할 수 있습니다.",
+      "focus": "bring their spouses"
+     }
+    ],
+    "collocations": [
+     "a surviving spouse",
+     "your spouse's income"
+    ]
+   }
+  ],
+  "confusables": [
+   {
+    "word": "partner",
+    "note": "partner는 결혼 여부와 상관없이 쓰지만, spouse는 법적으로 혼인한 상대만 가리킨다."
+   }
+  ]
+ },
+ {
+  "id": "spreadsheet",
+  "headword": "spreadsheet",
+  "ipa": "/ˈspredʃiːt/",
+  "level": "ADV",
+  "isCore": false,
+  "topic": "work_business",
+  "forms": [
+   "spreadsheets"
+  ],
+  "senses": [
+   {
+    "id": "spreadsheet-1",
+    "pos": "n",
+    "ko": "스프레드시트, 엑셀 표",
+    "en": "a computer document with rows and columns for numbers",
+    "nuance": "한국에서 '엑셀 파일'이라 부르는 것을 영어에서는 보통 a spreadsheet라고 한다. Excel은 제품 이름이라 다른 도구를 쓸 때는 쓰지 못한다.",
+    "pattern": "a spreadsheet of + 명사",
+    "examples": [
+     {
+      "en": "Can you drop the numbers into a shared spreadsheet tonight?",
+      "ko": "오늘 밤에 숫자들 공유 스프레드시트에 넣어 줄래요?",
+      "focus": "into a shared spreadsheet"
+     },
+     {
+      "en": "Our team still tracks every invoice in three separate spreadsheets.",
+      "ko": "우리 팀은 아직도 청구서를 스프레드시트 세 개에 나눠 관리해요.",
+      "focus": "in three separate spreadsheets"
+     }
+    ],
+    "collocations": [
+     "a shared spreadsheet",
+     "update the spreadsheet"
+    ]
+   }
+  ],
+  "confusables": [
+   {
+    "word": "Excel",
+    "note": "Excel은 마이크로소프트 제품명이고, 문서 자체를 가리키는 일반 명사는 spreadsheet다."
+   }
+  ]
+ },
+ {
+  "id": "stack",
+  "headword": "stack",
+  "ipa": "/stæk/",
+  "level": "ADV",
+  "isCore": false,
+  "topic": "work_business",
+  "forms": [
+   "stacks"
+  ],
+  "senses": [
+   {
+    "id": "stack-1",
+    "pos": "n",
+    "ko": "더미, 무더기",
+    "en": "a neat pile of things placed one on top of another",
+    "nuance": "차곡차곡 쌓은 '가지런한' 더미라 뒤죽박죽 쌓인 것은 a pile이라고 한다. a stack of work처럼 '산더미 같은 일'을 뜻하기도 한다.",
+    "pattern": "a stack of + 복수명사",
+    "examples": [
+     {
+      "en": "There's a stack of contracts waiting for your signature.",
+      "ko": "서명하셔야 할 계약서가 한 무더기 쌓여 있어요.",
+      "focus": "a stack of contracts"
+     },
+     {
+      "en": "Emma sorted the reports into three stacks by department.",
+      "ko": "엠마가 보고서를 부서별로 세 무더기로 정리했어요.",
+      "focus": "into three stacks by department"
+     }
+    ],
+    "collocations": [
+     "a stack of papers",
+     "a stack of books"
+    ]
+   },
+   {
+    "id": "stack-2",
+    "pos": "n",
+    "ko": "기술 스택",
+    "en": "the set of tools and programs a team uses to build software",
+    "nuance": "IT 채용 공고에서 our tech stack으로 흔히 쓴다. 이 뜻에서는 앞에 tech, technology를 붙이는 편이 오해가 없다.",
+    "examples": [
+     {
+      "en": "Their whole tech stack runs on open source tools.",
+      "ko": "그 회사 기술 스택은 전부 오픈소스로 돌아가요.",
+      "focus": "Their whole tech stack"
+     }
+    ]
+   }
+  ],
+  "confusables": [
+   {
+    "word": "pile",
+    "note": "pile은 대충 쌓인 더미, stack은 반듯하게 포개 쌓은 더미를 말한다."
+   }
+  ]
+ },
+ {
+  "id": "stadium",
+  "headword": "stadium",
+  "ipa": "/ˈsteɪdiəm/",
+  "level": "ADV",
+  "isCore": false,
+  "topic": "sports_leisure",
+  "forms": [
+   "stadiums"
+  ],
+  "senses": [
+   {
+    "id": "stadium-1",
+    "pos": "n",
+    "ko": "경기장, 스타디움",
+    "en": "a large sports ground with rows of seats around it",
+    "nuance": "관중석이 둘러싼 큰 야외 경기장을 뜻한다. 실내 체육관은 stadium이 아니라 a gym이나 an arena라고 한다.",
+    "pattern": "at the stadium",
+    "examples": [
+     {
+      "en": "The new stadium seats sixty thousand and cost a fortune.",
+      "ko": "새 경기장은 육만 석 규모인데 돈이 어마어마하게 들었어요.",
+      "focus": "The new stadium seats sixty thousand"
+     },
+     {
+      "en": "We're meeting at the stadium entrance around six thirty.",
+      "ko": "우리 여섯 시 반쯤 경기장 입구에서 만나기로 했어.",
+      "focus": "at the stadium entrance"
+     }
+    ],
+    "collocations": [
+     "a football stadium",
+     "a packed stadium"
+    ]
+   }
+  ],
+  "confusables": [
+   {
+    "word": "arena",
+    "note": "arena는 지붕 있는 실내 공연·경기장, stadium은 관중석이 둘러싼 대형 야외 경기장이다."
+   }
+  ]
+ },
+ {
+  "id": "stakeholder",
+  "headword": "stakeholder",
+  "ipa": "/ˈsteɪkhoʊldər/",
+  "level": "ADV",
+  "isCore": false,
+  "topic": "work_business",
+  "forms": [
+   "stakeholders"
+  ],
+  "senses": [
+   {
+    "id": "stakeholder-1",
+    "pos": "n",
+    "ko": "이해관계자",
+    "en": "a person or group affected by what a company decides",
+    "nuance": "주식을 가진 주주(shareholder)보다 넓어서 직원·고객·지역사회까지 포함한다. 회의에서 '유관 부서'를 가리킬 때도 the stakeholders라고 한다.",
+    "pattern": "key stakeholders",
+    "examples": [
+     {
+      "en": "We need sign-off from every key stakeholder before Friday.",
+      "ko": "금요일 전까지 주요 이해관계자 전원의 승인이 필요해요.",
+      "focus": "every key stakeholder"
+     },
+     {
+      "en": "Let's brief the stakeholders once the numbers are confirmed.",
+      "ko": "수치가 확정되면 이해관계자들에게 설명하죠.",
+      "focus": "brief the stakeholders"
+     }
+    ],
+    "collocations": [
+     "key stakeholders",
+     "stakeholder engagement"
+    ]
+   }
+  ],
+  "confusables": [
+   {
+    "word": "shareholder",
+    "note": "shareholder는 주식을 가진 사람만, stakeholder는 영향을 받는 모든 당사자를 뜻한다."
+   }
+  ]
+ },
+ {
+  "id": "starve",
+  "headword": "starve",
+  "ipa": "/stɑːrv/",
+  "level": "ADV",
+  "isCore": false,
+  "topic": "body_health",
+  "forms": [
+   "starved",
+   "starves",
+   "starving"
+  ],
+  "senses": [
+   {
+    "id": "starve-1",
+    "pos": "v",
+    "ko": "굶주리다, 굶기다",
+    "en": "to suffer or die because you have no food",
+    "nuance": "회화에서 I'm starving은 '배고파 죽겠다'는 과장이고, 진짜 굶는 상황은 아니다. 현재형 I starve는 쓰지 않고 진행형으로 쓴다.",
+    "pattern": "be starving",
+    "examples": [
+     {
+      "en": "I'm starving — can we grab lunch before the next session?",
+      "ko": "배고파 죽겠어. 다음 세션 전에 점심 먹을까?",
+      "focus": "I'm starving"
+     },
+     {
+      "en": "The project starved for months without any real budget.",
+      "ko": "그 프로젝트는 제대로 된 예산 없이 몇 달을 굶주렸어요.",
+      "focus": "starved for months"
+     }
+    ],
+    "collocations": [
+     "be starving",
+     "starve to death"
+    ]
+   }
+  ],
+  "wordFamily": [
+   {
+    "form": "starvation",
+    "pos": "n",
+    "ko": "기아, 굶주림"
+   }
+  ],
+  "confusables": [
+   {
+    "word": "hungry",
+    "note": "hungry는 보통의 배고픔, starving은 '굶어 죽을 지경'이라는 훨씬 강한 과장이다."
+   }
+  ]
+ },
+ {
+  "id": "statute",
+  "headword": "statute",
+  "ipa": "/ˈstætʃuːt/",
+  "level": "ADV",
+  "isCore": false,
+  "topic": "society_politics",
+  "forms": [
+   "statutes"
+  ],
+  "senses": [
+   {
+    "id": "statute-1",
+    "pos": "n",
+    "ko": "법령, 성문법",
+    "en": "a written rule passed by a parliament or congress",
+    "nuance": "국회가 통과시켜 문서로 남은 법을 가리키는 법률 용어다. 발음이 statue(조각상)와 다르니 /ˈstætʃuːt/로 세 음절을 살려 읽는다.",
+    "pattern": "under the statute",
+    "examples": [
+     {
+      "en": "Under the new statute, companies must report every data breach.",
+      "ko": "새 법령에 따라 기업은 모든 정보 유출을 신고해야 합니다.",
+      "focus": "Under the new statute"
+     },
+     {
+      "en": "Our lawyers checked three statutes before approving the contract.",
+      "ko": "우리 변호사들이 계약을 승인하기 전에 법령 세 개를 확인했어요.",
+      "focus": "checked three statutes"
+     }
+    ],
+    "collocations": [
+     "under the statute",
+     "a federal statute"
+    ]
+   }
+  ],
+  "confusables": [
+   {
+    "word": "statue",
+    "note": "statue는 사람을 본뜬 조각상, statute는 국회가 만든 법령이다. 철자 t 하나 차이다."
+   }
+  ]
+ },
+ {
+  "id": "steep",
+  "headword": "steep",
+  "ipa": "/stiːp/",
+  "level": "ADV",
+  "isCore": false,
+  "topic": "description_quality",
+  "forms": [
+   "steeper",
+   "steepest"
+  ],
+  "senses": [
+   {
+    "id": "steep-1",
+    "pos": "adj",
+    "ko": "가파른, 급격한",
+    "en": "rising or falling very quickly over a short distance",
+    "nuance": "언덕뿐 아니라 그래프의 급격한 변화에도 쓴다. a steep learning curve는 '배우기 쉬운'이 아니라 '초반에 배울 게 많은'이라는 뜻이다.",
+    "pattern": "a steep + 명사",
+    "examples": [
+     {
+      "en": "The chart shows a steep drop in subscriptions after March.",
+      "ko": "그래프를 보면 3월 이후 구독이 급격히 떨어졌어요.",
+      "focus": "a steep drop in subscriptions"
+     },
+     {
+      "en": "This role has a steeper learning curve than I expected.",
+      "ko": "이 업무는 생각보다 초반에 배울 게 훨씬 많네요.",
+      "focus": "a steeper learning curve"
+     }
+    ],
+    "collocations": [
+     "a steep decline",
+     "a steep learning curve",
+     "a steep hill"
+    ]
+   },
+   {
+    "id": "steep-2",
+    "pos": "adj",
+    "ko": "너무 비싼",
+    "en": "costing much more money than seems fair",
+    "nuance": "expensive의 구어 표현으로 '좀 심하게 비싸다'는 불평이 섞여 있다. 격식 있는 보고서보다 대화에서 쓴다.",
+    "examples": [
+     {
+      "en": "Forty thousand won for parking seems a bit steep.",
+      "ko": "주차비 사만 원은 좀 너무한 것 같은데요.",
+      "focus": "seems a bit steep"
+     }
+    ]
+   }
+  ],
+  "wordFamily": [
+   {
+    "form": "steeply",
+    "pos": "adv",
+    "ko": "가파르게"
+   }
+  ]
+ },
+ {
+  "id": "stiff",
+  "headword": "stiff",
+  "ipa": "/stɪf/",
+  "level": "ADV",
+  "isCore": false,
+  "topic": "description_quality",
+  "forms": [
+   "stiffer",
+   "stiffest"
+  ],
+  "senses": [
+   {
+    "id": "stiff-1",
+    "pos": "adj",
+    "ko": "뻣뻣한, 결린",
+    "en": "hard to bend or move without pain",
+    "nuance": "목·어깨가 '결리다'는 My neck is stiff라고 한다. hard는 단단함을, stiff는 잘 안 굽는다는 점을 강조한다.",
+    "pattern": "be stiff",
+    "examples": [
+     {
+      "en": "My neck is stiff after sitting through a four-hour workshop.",
+      "ko": "네 시간짜리 워크숍 앉아 있었더니 목이 뻣뻣해요.",
+      "focus": "My neck is stiff"
+     },
+     {
+      "en": "These new shoes feel stiff, but they'll loosen up soon.",
+      "ko": "이 새 신발 뻣뻣한데 곧 길들여질 거예요.",
+      "focus": "feel stiff"
+     }
+    ],
+    "collocations": [
+     "a stiff neck",
+     "stiff competition"
+    ]
+   },
+   {
+    "id": "stiff-2",
+    "pos": "adj",
+    "ko": "딱딱한, 서먹한",
+    "en": "too formal and not relaxed with other people",
+    "nuance": "사람의 태도를 말할 때는 '어색하고 격식만 차린다'는 부정적 평가다. 회의 분위기에도 The meeting felt stiff처럼 쓴다.",
+    "examples": [
+     {
+      "en": "The first call was stiff, but the second felt natural.",
+      "ko": "첫 통화는 서먹했는데 두 번째는 자연스러웠어요.",
+      "focus": "was stiff"
+     }
+    ]
+   }
+  ],
+  "confusables": [
+   {
+    "word": "hard",
+    "note": "hard는 눌러도 안 들어가는 단단함, stiff는 굽히거나 움직이기 힘든 뻣뻣함이다."
+   }
+  ]
+ },
+ {
+  "id": "stitch",
+  "headword": "stitch",
+  "ipa": "/stɪtʃ/",
+  "level": "ADV",
+  "isCore": false,
+  "topic": "body_health",
+  "forms": [
+   "stitches"
+  ],
+  "senses": [
+   {
+    "id": "stitch-1",
+    "pos": "n",
+    "ko": "바늘땀, 꿰맨 자국",
+    "en": "one loop of thread made by a needle in cloth or skin",
+    "nuance": "병원에서 상처를 꿰맨 것은 보통 복수 stitches로 말한다. '몇 바늘 꿰맸다'는 got five stitches처럼 get을 쓴다.",
+    "pattern": "get stitches",
+    "examples": [
+     {
+      "en": "Tom got eight stitches after slipping in the lobby.",
+      "ko": "톰은 로비에서 미끄러져서 여덟 바늘 꿰맸어요.",
+      "focus": "got eight stitches"
+     },
+     {
+      "en": "The doctor removes the stitches next Tuesday morning.",
+      "ko": "의사가 다음 주 화요일 아침에 실밥을 뽑아요.",
+      "focus": "removes the stitches"
+     }
+    ],
+    "collocations": [
+     "get stitches",
+     "remove the stitches"
+    ]
+   }
+  ],
+  "confusables": [
+   {
+    "word": "sew",
+    "note": "sew는 '바느질하다'라는 동작 동사, stitch(명사)는 그 결과로 생긴 한 땀이다."
+   }
+  ]
+ },
+ {
+  "id": "stockholder",
+  "headword": "stockholder",
+  "ipa": "/ˈstɑːkhoʊldər/",
+  "level": "ADV",
+  "isCore": false,
+  "topic": "money_shopping",
+  "forms": [
+   "stockholders"
+  ],
+  "senses": [
+   {
+    "id": "stockholder-1",
+    "pos": "n",
+    "ko": "주주",
+    "en": "someone who owns part of a company by holding its shares",
+    "nuance": "미국식 표현이고 영국에서는 shareholder를 더 쓴다. '주주총회'는 a stockholders' meeting처럼 복수 소유격으로 쓴다.",
+    "pattern": "a major stockholder",
+    "examples": [
+     {
+      "en": "Every stockholder receives the annual report by email.",
+      "ko": "모든 주주는 연차 보고서를 이메일로 받습니다.",
+      "focus": "Every stockholder receives"
+     },
+     {
+      "en": "Two major stockholders voted against the merger yesterday.",
+      "ko": "어제 주요 주주 두 곳이 합병에 반대표를 던졌어요.",
+      "focus": "Two major stockholders voted"
+     }
+    ],
+    "collocations": [
+     "a major stockholder",
+     "a stockholders' meeting"
+    ]
+   }
+  ],
+  "confusables": [
+   {
+    "word": "stakeholder",
+    "note": "stockholder는 주식을 가진 사람만, stakeholder는 영향받는 모든 당사자를 뜻한다."
+   }
+  ]
+ },
+ {
+  "id": "stockmarket",
+  "headword": "stockmarket",
+  "ipa": "/ˈstɑːkmɑːrkɪt/",
+  "level": "ADV",
+  "isCore": false,
+  "topic": "money_shopping",
+  "forms": [
+   "stockmarkets"
+  ],
+  "senses": [
+   {
+    "id": "stockmarket-1",
+    "pos": "n",
+    "ko": "주식 시장, 증시",
+    "en": "the place where shares of companies are bought and sold",
+    "nuance": "보통 the를 붙여 the stockmarket이라고 쓰며, 미국에서는 두 단어 the stock market이 더 흔하다. '증시가 올랐다'는 The stockmarket rose다.",
+    "pattern": "the stockmarket",
+    "examples": [
+     {
+      "en": "The stockmarket fell sharply after the interest rate announcement.",
+      "ko": "금리 발표 뒤에 증시가 크게 떨어졌어요.",
+      "focus": "The stockmarket fell sharply"
+     },
+     {
+      "en": "Mina moved her savings out of the stockmarket last spring.",
+      "ko": "미나는 지난봄에 저축을 증시에서 빼냈어요.",
+      "focus": "out of the stockmarket"
+     }
+    ],
+    "collocations": [
+     "on the stockmarket",
+     "the stockmarket crashed"
+    ]
+   }
+  ]
+ },
+ {
+  "id": "strategic",
+  "headword": "strategic",
+  "ipa": "/strəˈtiːdʒɪk/",
+  "level": "ADV",
+  "isCore": false,
+  "topic": "work_business",
+  "senses": [
+   {
+    "id": "strategic-1",
+    "pos": "adj",
+    "ko": "전략적인",
+    "en": "planned carefully to reach an important long-term goal",
+    "nuance": "당장이 아니라 긴 안목으로 계획한다는 뜻이라 tactical(눈앞의 수단)과 대비된다. 명사 strategy와 철자·강세가 달라 strategic은 두 번째 음절을 강하게 읽는다.",
+    "pattern": "a strategic + 명사",
+    "examples": [
+     {
+      "en": "Hiring a local partner was a strategic decision, not a cost cut.",
+      "ko": "현지 파트너 채용은 비용 절감이 아니라 전략적 결정이었어요.",
+      "focus": "a strategic decision"
+     },
+     {
+      "en": "Let's keep the strategic goals separate from this quarter's targets.",
+      "ko": "전략 목표는 이번 분기 목표와 분리해서 봅시다.",
+      "focus": "the strategic goals"
+     }
+    ],
+    "collocations": [
+     "a strategic decision",
+     "a strategic partnership",
+     "strategic planning"
+    ]
+   }
+  ],
+  "wordFamily": [
+   {
+    "form": "strategy",
+    "pos": "n",
+    "ko": "전략"
+   },
+   {
+    "form": "strategically",
+    "pos": "adv",
+    "ko": "전략적으로"
+   }
+  ],
+  "confusables": [
+   {
+    "word": "tactical",
+    "note": "tactical은 당장의 수단, strategic은 장기 목표를 향한 큰 그림이다."
+   }
+  ]
+ },
+ {
+  "id": "subjective",
+  "headword": "subjective",
+  "ipa": "/səbˈdʒektɪv/",
+  "level": "ADV",
+  "isCore": false,
+  "topic": "thinking_opinion",
+  "senses": [
+   {
+    "id": "subjective-1",
+    "pos": "adj",
+    "ko": "주관적인",
+    "en": "based on personal feelings rather than facts",
+    "nuance": "평가가 사람마다 다르다는 뜻이라 대개 '믿기 어렵다'는 완곡한 비판이 담긴다. 반대말 objective와 함께 외워 두면 헷갈리지 않는다.",
+    "pattern": "be subjective",
+    "examples": [
+     {
+      "en": "Design scores are subjective, so we added a blind review.",
+      "ko": "디자인 점수는 주관적이라 블라인드 심사를 넣었어요.",
+      "focus": "are subjective"
+     },
+     {
+      "en": "That's a subjective judgment, not something the data shows.",
+      "ko": "그건 데이터가 보여 주는 게 아니라 주관적 판단이에요.",
+      "focus": "a subjective judgment"
+     }
+    ],
+    "collocations": [
+     "a subjective judgment",
+     "highly subjective",
+     "a subjective opinion"
+    ]
+   }
+  ],
+  "wordFamily": [
+   {
+    "form": "subjectivity",
+    "pos": "n",
+    "ko": "주관성"
+   }
+  ],
+  "confusables": [
+   {
+    "word": "objective",
+    "note": "objective는 사실에 근거해 누가 봐도 같은 것, subjective는 개인 느낌에 따라 달라지는 것이다."
+   }
+  ]
+ },
+ {
+  "id": "subordinate",
+  "headword": "subordinate",
+  "ipa": "/səˈbɔːrdɪnət/",
+  "level": "ADV",
+  "isCore": false,
+  "topic": "work_business",
+  "forms": [
+   "subordinates"
+  ],
+  "senses": [
+   {
+    "id": "subordinate-1",
+    "pos": "n",
+    "ko": "부하 직원",
+    "en": "a worker who has a lower rank than someone else",
+    "nuance": "조직도나 인사 규정에 쓰는 딱딱한 말이라 대화에서는 my team, the people on my team이라고 한다. 본인 앞에서 She's my subordinate라고 하면 무례하게 들린다.",
+    "pattern": "a subordinate of + 사람",
+    "examples": [
+     {
+      "en": "The survey asks managers to rate each subordinate twice yearly.",
+      "ko": "그 설문은 관리자에게 부하 직원을 연 두 번 평가하게 합니다.",
+      "focus": "rate each subordinate"
+     },
+     {
+      "en": "Good managers give their subordinates room to make decisions.",
+      "ko": "좋은 관리자는 부하 직원에게 결정할 여지를 줍니다.",
+      "focus": "give their subordinates room"
+     }
+    ],
+    "collocations": [
+     "a direct subordinate",
+     "manage subordinates"
+    ]
+   }
+  ],
+  "confusables": [
+   {
+    "word": "colleague",
+    "note": "colleague는 직급과 무관한 '동료', subordinate는 나보다 직급이 낮은 사람만 가리킨다."
+   }
+  ]
+ },
+ {
+  "id": "subscribe",
+  "headword": "subscribe",
+  "ipa": "/səbˈskraɪb/",
+  "level": "ADV",
+  "isCore": false,
+  "topic": "communication",
+  "forms": [
+   "subscribed",
+   "subscribes",
+   "subscribing"
+  ],
+  "senses": [
+   {
+    "id": "subscribe-1",
+    "pos": "v",
+    "ko": "구독하다, 가입하다",
+    "en": "to pay regularly so that you keep receiving something",
+    "nuance": "목적어를 바로 붙이지 않고 반드시 subscribe to를 쓴다. subscribe a newsletter는 틀린 문장이다.",
+    "pattern": "subscribe to + 명사",
+    "examples": [
+     {
+      "en": "We subscribe to three research databases for the whole team.",
+      "ko": "우리는 팀 전체가 쓰는 연구 데이터베이스 세 곳을 구독해요.",
+      "focus": "subscribe to three research databases"
+     },
+     {
+      "en": "I subscribed to their weekly report and never read it.",
+      "ko": "그쪽 주간 리포트를 구독했는데 한 번도 안 읽었어요.",
+      "focus": "subscribed to their weekly report"
+     }
+    ],
+    "collocations": [
+     "subscribe to a service",
+     "subscribe to a newsletter"
+    ]
+   }
+  ],
+  "wordFamily": [
+   {
+    "form": "subscription",
+    "pos": "n",
+    "ko": "구독, 구독료"
+   },
+   {
+    "form": "subscriber",
+    "pos": "n",
+    "ko": "구독자"
+   }
+  ],
+  "confusables": [
+   {
+    "word": "sign up",
+    "note": "sign up은 무료 가입까지 포함하고, subscribe는 돈을 내고 계속 받는 것을 뜻한다."
+   }
+  ]
+ },
+ {
+  "id": "subscription",
+  "headword": "subscription",
+  "ipa": "/səbˈskrɪpʃn/",
+  "level": "ADV",
+  "isCore": false,
+  "topic": "money_shopping",
+  "forms": [
+   "subscriptions"
+  ],
+  "senses": [
+   {
+    "id": "subscription-1",
+    "pos": "n",
+    "ko": "구독, 구독권",
+    "en": "an agreement to pay money regularly to keep getting something",
+    "nuance": "가산명사라 a monthly subscription처럼 관사를 꼭 붙인다. '구독을 해지하다'는 cancel a subscription이고 delete는 쓰지 않는다.",
+    "pattern": "a subscription to + 명사",
+    "examples": [
+     {
+      "en": "Finance asked us to cancel every unused software subscription.",
+      "ko": "재무팀이 안 쓰는 소프트웨어 구독을 전부 해지하라고 했어요.",
+      "focus": "cancel every unused software subscription"
+     },
+     {
+      "en": "My subscription to that journal renews every January automatically.",
+      "ko": "그 학술지 구독은 매년 1월에 자동 갱신돼요.",
+      "focus": "My subscription to that journal renews"
+     }
+    ],
+    "collocations": [
+     "cancel a subscription",
+     "a monthly subscription",
+     "a subscription fee"
+    ]
+   }
+  ],
+  "confusables": [
+   {
+    "word": "membership",
+    "note": "membership은 단체의 '회원 자격', subscription은 정기적으로 돈 내고 받는 서비스다."
+   }
+  ]
+ },
+ {
+  "id": "subsidiary",
+  "headword": "subsidiary",
+  "ipa": "/səbˈsɪdieri/",
+  "level": "ADV",
+  "isCore": false,
+  "topic": "work_business",
+  "forms": [
+   "subsidiaries"
+  ],
+  "senses": [
+   {
+    "id": "subsidiary-1",
+    "pos": "n",
+    "ko": "자회사",
+    "en": "a company that is owned and controlled by a larger one",
+    "nuance": "모회사(parent company)의 지배를 받는 회사를 뜻한다. 발음이 비슷한 subsidy(보조금)와 뜻이 전혀 다르니 구분해 둔다.",
+    "pattern": "a subsidiary of + 회사",
+    "examples": [
+     {
+      "en": "The Seoul office is a wholly owned subsidiary of the group.",
+      "ko": "서울 지사는 그룹의 완전 자회사예요.",
+      "focus": "a wholly owned subsidiary of the group"
+     },
+     {
+      "en": "They sold two European subsidiaries to raise cash quickly.",
+      "ko": "그들은 현금을 빨리 마련하려고 유럽 자회사 두 곳을 팔았어요.",
+      "focus": "sold two European subsidiaries"
+     }
+    ],
+    "collocations": [
+     "a wholly owned subsidiary",
+     "a subsidiary of"
+    ]
+   }
+  ],
+  "confusables": [
+   {
+    "word": "subsidy",
+    "note": "subsidy는 정부가 주는 보조금, subsidiary는 모회사가 지배하는 자회사다."
+   }
+  ]
+ },
+ {
+  "id": "subsidy",
+  "headword": "subsidy",
+  "ipa": "/ˈsʌbsədi/",
+  "level": "ADV",
+  "isCore": false,
+  "topic": "society_politics",
+  "forms": [
+   "subsidies"
+  ],
+  "senses": [
+   {
+    "id": "subsidy-1",
+    "pos": "n",
+    "ko": "보조금, 지원금",
+    "en": "money given by a government to lower the price of something",
+    "nuance": "정부나 기관이 값을 낮추려고 주는 돈이라 개인끼리 주는 돈에는 쓰지 않는다. 가산명사라 복수는 subsidies로 쓴다.",
+    "pattern": "a subsidy for + 명사",
+    "examples": [
+     {
+      "en": "The government cut its subsidy for electric delivery vans.",
+      "ko": "정부가 전기 배송 차량 보조금을 줄였어요.",
+      "focus": "cut its subsidy for electric delivery vans"
+     },
+     {
+      "en": "Farm subsidies took up most of yesterday's budget debate.",
+      "ko": "어제 예산 토론은 대부분 농업 보조금 얘기였어요.",
+      "focus": "Farm subsidies took up"
+     }
+    ],
+    "collocations": [
+     "government subsidies",
+     "cut a subsidy",
+     "receive a subsidy"
+    ]
+   }
+  ],
+  "wordFamily": [
+   {
+    "form": "subsidize",
+    "pos": "v",
+    "ko": "보조금을 주다"
+   }
+  ],
+  "confusables": [
+   {
+    "word": "grant",
+    "note": "grant는 연구·사업에 특정 목적으로 주는 돈, subsidy는 가격을 낮추려 계속 대는 지원금이다."
+   }
+  ]
+ },
+ {
+  "id": "substantially",
+  "headword": "substantially",
+  "ipa": "/səbˈstænʃəli/",
+  "level": "ADV",
+  "isCore": false,
+  "topic": "time_quantity",
+  "senses": [
+   {
+    "id": "substantially-1",
+    "pos": "adv",
+    "ko": "상당히, 크게",
+    "en": "by a large amount that clearly matters",
+    "nuance": "보고서에서 a lot 대신 쓰는 격식체다. very의 자리에 넣어 substantially good이라고 하지 않고, 변화를 나타내는 동사와 붙여 쓴다.",
+    "pattern": "동사 + substantially",
+    "examples": [
+     {
+      "en": "Costs rose substantially after the supplier changed its pricing.",
+      "ko": "공급사가 가격 정책을 바꾼 뒤로 비용이 상당히 올랐어요.",
+      "focus": "rose substantially"
+     },
+     {
+      "en": "The two proposals differ substantially in how they handle refunds.",
+      "ko": "두 제안은 환불 처리 방식에서 상당히 다릅니다.",
+      "focus": "differ substantially"
+     }
+    ],
+    "collocations": [
+     "increase substantially",
+     "differ substantially",
+     "substantially higher"
+    ]
+   }
+  ],
+  "wordFamily": [
+   {
+    "form": "substantial",
+    "pos": "adj",
+    "ko": "상당한, 많은"
+   }
+  ],
+  "confusables": [
+   {
+    "word": "substantively",
+    "note": "substantively는 '내용상·본질적으로', substantially는 '양이 상당히'라는 뜻이다."
+   }
+  ]
+ },
+ {
+  "id": "subtle",
+  "headword": "subtle",
+  "ipa": "/ˈsʌtl/",
+  "level": "ADV",
+  "isCore": false,
+  "topic": "description_quality",
+  "forms": [
+   "subtler",
+   "subtlest"
+  ],
+  "senses": [
+   {
+    "id": "subtle-1",
+    "pos": "adj",
+    "ko": "미묘한, 은은한",
+    "en": "small and not easy to notice, but still important",
+    "nuance": "b를 소리 내지 않아 /ˈsʌtl/로 읽는다. '약하다'가 아니라 '티 나지 않지만 분명히 있다'는 긍정적 뉘앙스가 자주 붙는다.",
+    "pattern": "a subtle + 명사",
+    "examples": [
+     {
+      "en": "There's a subtle difference between the two contract drafts.",
+      "ko": "두 계약서 초안 사이에 미묘한 차이가 있어요.",
+      "focus": "a subtle difference"
+     },
+     {
+      "en": "Her feedback was subtle, but everyone got the message.",
+      "ko": "그분 피드백은 은근했지만 다들 뜻을 알아들었어요.",
+      "focus": "was subtle"
+     }
+    ],
+    "collocations": [
+     "a subtle difference",
+     "a subtle change",
+     "a subtle hint"
+    ]
+   }
+  ],
+  "wordFamily": [
+   {
+    "form": "subtlety",
+    "pos": "n",
+    "ko": "미묘함, 세심함"
+   }
+  ],
+  "memoryHook": "subtle의 b는 소리가 나지 않는다 — 단어 뜻처럼 '티가 안 난다'."
+ },
+ {
+  "id": "suck",
+  "headword": "suck",
+  "ipa": "/sʌk/",
+  "level": "ADV",
+  "isCore": false,
+  "topic": "movement_action",
+  "forms": [
+   "sucked",
+   "sucking",
+   "sucks"
+  ],
+  "senses": [
+   {
+    "id": "suck-1",
+    "pos": "v",
+    "ko": "빨아들이다, 빨다",
+    "en": "to pull liquid or air into your mouth or a machine",
+    "nuance": "입이나 기계가 안으로 빨아들이는 동작이다. 기계가 빨아들일 때는 보통 suck up 또는 suck in으로 쓴다.",
+    "pattern": "suck + 목적어 + up/in",
+    "examples": [
+     {
+      "en": "The machine sucks dust out of the server room filters.",
+      "ko": "그 장비가 서버실 필터에서 먼지를 빨아들여요.",
+      "focus": "sucks dust out of"
+     },
+     {
+      "en": "Tom sucked the last bit of juice through his straw.",
+      "ko": "톰이 빨대로 남은 주스를 쪽 빨아 마셨어요.",
+      "focus": "sucked the last bit of juice"
+     }
+    ],
+    "collocations": [
+     "suck up dust",
+     "suck through a straw"
+    ]
+   },
+   {
+    "id": "suck-2",
+    "pos": "v",
+    "ko": "형편없다",
+    "en": "to be very bad or disappointing",
+    "nuance": "친구끼리 쓰는 아주 캐주얼한 표현이라 회의나 이메일에는 쓰지 않는다. That sucks는 '완전 별로다' 또는 '안됐다'는 공감으로도 쓴다.",
+    "examples": [
+     {
+      "en": "The new booking system sucks, honestly — everyone complains about it.",
+      "ko": "솔직히 새 예약 시스템 진짜 별로야. 다들 불평해.",
+      "focus": "The new booking system sucks"
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "id": "sue",
+  "headword": "sue",
+  "ipa": "/suː/",
+  "level": "ADV",
+  "isCore": false,
+  "topic": "society_politics",
+  "forms": [
+   "sued",
+   "sues",
+   "suing"
+  ],
+  "senses": [
+   {
+    "id": "sue-1",
+    "pos": "v",
+    "ko": "고소하다, 소송을 걸다",
+    "en": "to take someone to a court to ask for money or justice",
+    "nuance": "민사 소송을 거는 것이라 경찰에 신고하는 report와 다르다. sue to a company가 아니라 목적어를 바로 붙여 sue the company라고 쓴다.",
+    "pattern": "sue + 사람/회사 + for + 명사",
+    "examples": [
+     {
+      "en": "They threatened to sue us over the delayed delivery.",
+      "ko": "그쪽에서 배송 지연 건으로 우리를 고소하겠다고 했어요.",
+      "focus": "sue us over the delayed delivery"
+     },
+     {
+      "en": "The supplier sued for damages and won the case.",
+      "ko": "그 공급업체는 손해배상 소송을 걸어 이겼어요.",
+      "focus": "sued for damages"
+     }
+    ],
+    "collocations": [
+     "sue for damages",
+     "threaten to sue"
+    ]
+   }
+  ],
+  "wordFamily": [
+   {
+    "form": "lawsuit",
+    "pos": "n",
+    "ko": "소송"
+   }
+  ],
+  "confusables": [
+   {
+    "word": "charge",
+    "note": "charge는 검찰이 형사로 기소하는 것, sue는 개인·회사가 민사로 거는 소송이다."
+   }
+  ]
+ },
+ {
+  "id": "suite",
+  "headword": "suite",
+  "ipa": "/swiːt/",
+  "level": "ADV",
+  "isCore": false,
+  "topic": "travel_transport",
+  "forms": [
+   "suites"
+  ],
+  "senses": [
+   {
+    "id": "suite-1",
+    "pos": "n",
+    "ko": "스위트룸, 세트",
+    "en": "a set of connected hotel rooms, or a group of matching items",
+    "nuance": "발음이 sweet과 같은 /swiːt/이고 suit(/suːt/, 정장)과는 다르다. 소프트웨어 묶음도 a suite of tools라고 한다.",
+    "pattern": "a suite of + 복수명사",
+    "examples": [
+     {
+      "en": "The client booked a suite near the conference center downtown.",
+      "ko": "고객사가 시내 컨벤션 센터 근처 스위트룸을 예약했어요.",
+      "focus": "booked a suite"
+     },
+     {
+      "en": "We're moving the team onto a single suite of tools.",
+      "ko": "우리 팀을 하나로 묶인 도구 세트로 옮기는 중이에요.",
+      "focus": "a single suite of tools"
+     }
+    ],
+    "collocations": [
+     "a hotel suite",
+     "a suite of tools"
+    ]
+   }
+  ],
+  "confusables": [
+   {
+    "word": "suit",
+    "note": "suit은 /suːt/로 읽는 '정장', suite은 /swiːt/로 읽는 '스위트룸·세트'다."
+   }
+  ]
+ },
+ {
+  "id": "supervise",
+  "headword": "supervise",
+  "ipa": "/ˈsuːpərvaɪz/",
+  "level": "ADV",
+  "isCore": false,
+  "topic": "work_business",
+  "forms": [
+   "supervised",
+   "supervises",
+   "supervising"
+  ],
+  "senses": [
+   {
+    "id": "supervise-1",
+    "pos": "v",
+    "ko": "감독하다, 지도하다",
+    "en": "to watch a person or job to make sure it goes well",
+    "nuance": "책임을 지고 지켜보는 것이라 감시하는 watch나 monitor보다 권한이 있다. 대학원 지도교수도 supervise a thesis라고 쓴다.",
+    "pattern": "supervise + 사람/일",
+    "examples": [
+     {
+      "en": "Mina supervises four interns and still runs her own projects.",
+      "ko": "미나는 인턴 네 명을 지도하면서 자기 프로젝트도 맡고 있어요.",
+      "focus": "supervises four interns"
+     },
+     {
+      "en": "A senior engineer supervised the whole migration over the weekend.",
+      "ko": "선임 엔지니어가 주말 내내 이관 작업 전체를 감독했어요.",
+      "focus": "supervised the whole migration"
+     }
+    ],
+    "collocations": [
+     "supervise a team",
+     "supervise the work",
+     "closely supervised"
+    ]
+   }
+  ],
+  "wordFamily": [
+   {
+    "form": "supervisor",
+    "pos": "n",
+    "ko": "감독자, 상사"
+   },
+   {
+    "form": "supervision",
+    "pos": "n",
+    "ko": "감독, 지도"
+   }
+  ],
+  "confusables": [
+   {
+    "word": "monitor",
+    "note": "monitor는 상태를 지켜보며 기록하는 것, supervise는 책임지고 사람·일을 이끄는 것이다."
+   }
+  ]
+ },
+ {
+  "id": "supposedly",
+  "headword": "supposedly",
+  "ipa": "/səˈpoʊzɪdli/",
+  "level": "ADV",
+  "isCore": false,
+  "topic": "thinking_opinion",
+  "senses": [
+   {
+    "id": "supposedly-1",
+    "pos": "adv",
+    "ko": "아마도, 듣기로는",
+    "en": "used when saying what people claim, though you doubt it",
+    "nuance": "'남들은 그렇다는데 나는 못 믿겠다'는 의심이 섞인 말이다. probably처럼 단순 추측을 뜻하지 않으니 중립적으로 말하려면 apparently를 쓴다.",
+    "pattern": "supposedly + 형용사/동사",
+    "examples": [
+     {
+      "en": "The update supposedly fixes the login bug, but mine still fails.",
+      "ko": "그 업데이트가 로그인 오류를 고쳤다는데 제 건 아직도 안 돼요.",
+      "focus": "supposedly fixes the login bug"
+     },
+     {
+      "en": "He's supposedly the expert, yet nobody can reach him.",
+      "ko": "듣기로는 그분이 전문가라는데 아무도 연락이 안 되네요.",
+      "focus": "supposedly the expert"
+     }
+    ],
+    "collocations": [
+     "supposedly better",
+     "be supposedly responsible"
+    ]
+   }
+  ],
+  "wordFamily": [
+   {
+    "form": "suppose",
+    "pos": "v",
+    "ko": "생각하다, 가정하다"
+   }
+  ],
+  "confusables": [
+   {
+    "word": "apparently",
+    "note": "apparently는 들은 대로 중립적으로 전하고, supposedly에는 '믿기 어렵다'는 뉘앙스가 깔린다."
+   }
+  ]
+ },
+ {
+  "id": "surge",
+  "headword": "surge",
+  "ipa": "/sɜːrdʒ/",
+  "level": "ADV",
+  "isCore": false,
+  "topic": "time_quantity",
+  "forms": [
+   "surged",
+   "surges",
+   "surging"
+  ],
+  "senses": [
+   {
+    "id": "surge-1",
+    "pos": "n",
+    "ko": "급증, 쇄도",
+    "en": "a sudden large rise in the number or amount of something",
+    "nuance": "완만한 증가가 아니라 짧은 기간에 확 몰리는 것이다. a surge in demand처럼 in을 쓰고 of는 쓰지 않는다.",
+    "pattern": "a surge in + 명사",
+    "examples": [
+     {
+      "en": "We saw a surge in signups right after the news article.",
+      "ko": "기사 나간 직후에 가입이 급증했어요.",
+      "focus": "a surge in signups"
+     },
+     {
+      "en": "The support team handled a surge of calls all morning.",
+      "ko": "지원팀이 오전 내내 쏟아지는 전화를 감당했어요.",
+      "focus": "a surge of calls"
+     }
+    ],
+    "collocations": [
+     "a surge in demand",
+     "a sudden surge"
+    ]
+   },
+   {
+    "id": "surge-2",
+    "pos": "v",
+    "ko": "급등하다, 밀려들다",
+    "en": "to rise or move forward suddenly and powerfully",
+    "nuance": "주가·수요가 '치솟다'라는 뜻으로 기사에 자주 나온다. 사람·물결이 한꺼번에 몰려드는 움직임에도 쓴다.",
+    "examples": [
+     {
+      "en": "Shares surged twelve percent after the earnings call yesterday.",
+      "ko": "어제 실적 발표 후에 주가가 12퍼센트 급등했어요.",
+      "focus": "Shares surged twelve percent"
+     }
+    ]
+   }
+  ],
+  "confusables": [
+   {
+    "word": "increase",
+    "note": "increase는 속도와 상관없는 일반적 증가, surge는 갑작스럽고 큰 급증이다."
+   }
+  ]
+ },
+ {
+  "id": "surgeon",
+  "headword": "surgeon",
+  "ipa": "/ˈsɜːrdʒən/",
+  "level": "ADV",
+  "isCore": false,
+  "topic": "body_health",
+  "forms": [
+   "surgeons"
+  ],
+  "senses": [
+   {
+    "id": "surgeon-1",
+    "pos": "n",
+    "ko": "외과 의사",
+    "en": "a doctor trained to cut into the body to treat illness",
+    "nuance": "수술을 집도하는 의사 '사람'이고, 수술 자체는 surgery다. '수술받다'는 have surgery이지 have a surgeon이 아니다.",
+    "pattern": "a surgeon at + 병원",
+    "examples": [
+     {
+      "en": "Her sister is a heart surgeon at a Seoul hospital.",
+      "ko": "그분 언니가 서울의 한 병원 심장외과 의사예요.",
+      "focus": "a heart surgeon"
+     },
+     {
+      "en": "Two surgeons reviewed the scan before scheduling the operation.",
+      "ko": "외과 의사 두 명이 수술 일정을 잡기 전에 영상을 검토했어요.",
+      "focus": "Two surgeons reviewed the scan"
+     }
+    ],
+    "collocations": [
+     "a heart surgeon",
+     "see a surgeon"
+    ]
+   }
+  ],
+  "confusables": [
+   {
+    "word": "surgery",
+    "note": "surgery는 '수술'이라는 행위, surgeon은 그 수술을 하는 '사람'이다."
+   }
+  ]
+ },
+ {
+  "id": "surrender",
+  "headword": "surrender",
+  "ipa": "/səˈrendər/",
+  "level": "ADV",
+  "isCore": false,
+  "topic": "society_politics",
+  "forms": [
+   "surrendered",
+   "surrendering",
+   "surrenders"
+  ],
+  "senses": [
+   {
+    "id": "surrender-1",
+    "pos": "v",
+    "ko": "항복하다, 넘겨주다",
+    "en": "to stop fighting and accept that the other side has won",
+    "nuance": "give up보다 훨씬 격식 있고 무겁다. 권리·여권처럼 무언가를 '내주다'라는 뜻으로도 쓰며, 그때는 surrender + 목적어로 쓴다.",
+    "pattern": "surrender to + 사람/기관",
+    "examples": [
+     {
+      "en": "The company refused to surrender its patent rights in court.",
+      "ko": "그 회사는 법정에서 특허권을 넘기기를 거부했어요.",
+      "focus": "surrender its patent rights"
+     },
+     {
+      "en": "Visitors must surrender their passports at the front desk.",
+      "ko": "방문객은 프런트에 여권을 맡겨야 합니다.",
+      "focus": "surrender their passports"
+     }
+    ],
+    "collocations": [
+     "surrender to the police",
+     "surrender control"
+    ]
+   }
+  ],
+  "confusables": [
+   {
+    "word": "give up",
+    "note": "give up은 일상적으로 '포기하다', surrender는 상대에게 굴복하거나 정식으로 내주는 격식어다."
+   }
+  ]
+ },
+ {
+  "id": "swell",
+  "headword": "swell",
+  "ipa": "/swel/",
+  "level": "ADV",
+  "isCore": false,
+  "topic": "body_health",
+  "forms": [
+   "swelled",
+   "swelling",
+   "swells",
+   "swollen"
+  ],
+  "senses": [
+   {
+    "id": "swell-1",
+    "pos": "v",
+    "ko": "붓다, 부풀다",
+    "en": "to become larger and rounder than normal",
+    "nuance": "과거분사는 swollen이라 a swollen ankle처럼 형용사로 쓴다. swelled는 과거형으로만 쓰고 명사 앞에는 잘 쓰지 않는다.",
+    "pattern": "swell up",
+    "examples": [
+     {
+      "en": "My ankle started to swell after the long flight home.",
+      "ko": "장거리 비행으로 돌아온 뒤 발목이 붓기 시작했어요.",
+      "focus": "started to swell"
+     },
+     {
+      "en": "Her hand was badly swollen, so she skipped the workshop.",
+      "ko": "손이 심하게 부어서 그분은 워크숍에 빠졌어요.",
+      "focus": "was badly swollen"
+     }
+    ],
+    "collocations": [
+     "swell up",
+     "a swollen ankle"
+    ]
+   },
+   {
+    "id": "swell-2",
+    "pos": "v",
+    "ko": "늘어나다, 불어나다",
+    "en": "to grow much bigger in number or size",
+    "nuance": "인원·수치가 크게 불어날 때 기사체로 쓴다. 이때는 swelled to처럼 규칙 과거형을 쓰고 swollen은 쓰지 않는다.",
+    "examples": [
+     {
+      "en": "The waiting list swelled to nearly two thousand people.",
+      "ko": "대기자 명단이 이천 명 가까이로 불어났어요.",
+      "focus": "swelled to nearly two thousand"
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "id": "swift",
+  "headword": "swift",
+  "ipa": "/swɪft/",
+  "level": "ADV",
+  "isCore": false,
+  "topic": "description_quality",
+  "forms": [
+   "swifter",
+   "swiftest"
+  ],
+  "senses": [
+   {
+    "id": "swift-1",
+    "pos": "adj",
+    "ko": "신속한, 재빠른",
+    "en": "happening or moving very quickly and smoothly",
+    "nuance": "fast의 격식체로 보고서·공지에 쓰고, 사람의 달리기 속도에는 잘 쓰지 않는다. a swift response는 '빠른 회신'이라는 비즈니스 상투어다.",
+    "pattern": "a swift + 명사",
+    "examples": [
+     {
+      "en": "Thank you for such a swift response to our request.",
+      "ko": "저희 요청에 이렇게 신속히 답해 주셔서 감사합니다.",
+      "focus": "such a swift response"
+     },
+     {
+      "en": "The board wants swift action on the audit findings.",
+      "ko": "이사회는 감사 지적 사항에 대한 신속한 조치를 원합니다.",
+      "focus": "wants swift action"
+     }
+    ],
+    "collocations": [
+     "a swift response",
+     "swift action",
+     "a swift decision"
+    ]
+   }
+  ],
+  "wordFamily": [
+   {
+    "form": "swiftly",
+    "pos": "adv",
+    "ko": "신속하게"
+   }
+  ],
+  "confusables": [
+   {
+    "word": "fast",
+    "note": "fast는 일상 회화의 '빠른', swift는 격식 있는 글에서 쓰는 '신속한'이다."
+   }
+  ]
+ },
+ {
+  "id": "sword",
+  "headword": "sword",
+  "ipa": "/sɔːrd/",
+  "level": "ADV",
+  "isCore": false,
+  "topic": "culture_arts",
+  "forms": [
+   "swords"
+  ],
+  "senses": [
+   {
+    "id": "sword-1",
+    "pos": "n",
+    "ko": "검, 칼",
+    "en": "a long metal weapon with a sharp edge, used long ago",
+    "nuance": "w를 소리 내지 않아 /sɔːrd/로 읽으니 sword를 '스워드'로 발음하지 않는다. a double-edged sword는 '양날의 검'이라는 비유로 회의에서도 쓴다.",
+    "pattern": "a double-edged sword",
+    "examples": [
+     {
+      "en": "Remote work is a double-edged sword for small teams.",
+      "ko": "재택근무는 작은 팀에는 양날의 검이에요.",
+      "focus": "a double-edged sword"
+     },
+     {
+      "en": "The museum displays swords from the Joseon period upstairs.",
+      "ko": "그 박물관은 위층에 조선 시대 검들을 전시해요.",
+      "focus": "displays swords from the Joseon period"
+     }
+    ],
+    "collocations": [
+     "a double-edged sword",
+     "draw a sword"
+    ]
+   }
+  ],
+  "memoryHook": "sword의 w는 묵음이다. board와 같은 소리로 읽으면 된다."
+ },
+ {
+  "id": "syndrome",
+  "headword": "syndrome",
+  "ipa": "/ˈsɪndroʊm/",
+  "level": "ADV",
+  "isCore": false,
+  "topic": "body_health",
+  "forms": [
+   "syndromes"
+  ],
+  "senses": [
+   {
+    "id": "syndrome-1",
+    "pos": "n",
+    "ko": "증후군",
+    "en": "a set of medical signs that appear together in a patient",
+    "nuance": "하나의 병명이 아니라 '증상 묶음'이라 disease와 다르다. impostor syndrome처럼 사회 현상에도 비유로 쓴다.",
+    "pattern": "have + 명사 + syndrome",
+    "examples": [
+     {
+      "en": "A lot of new managers quietly deal with impostor syndrome.",
+      "ko": "신임 관리자 중 많은 수가 남몰래 가면 증후군을 겪어요.",
+      "focus": "deal with impostor syndrome"
+     },
+     {
+      "en": "The study compares two syndromes that share similar symptoms.",
+      "ko": "그 연구는 비슷한 증상을 공유하는 두 증후군을 비교합니다.",
+      "focus": "compares two syndromes"
+     }
+    ],
+    "collocations": [
+     "impostor syndrome",
+     "burnout syndrome"
+    ]
+   }
+  ],
+  "confusables": [
+   {
+    "word": "disease",
+    "note": "disease는 원인이 밝혀진 병 자체, syndrome은 함께 나타나는 증상들의 묶음이다."
+   }
+  ]
+ },
+ {
+  "id": "systematic",
+  "headword": "systematic",
+  "ipa": "/ˌsɪstəˈmætɪk/",
+  "level": "ADV",
+  "isCore": false,
+  "topic": "academic",
+  "senses": [
+   {
+    "id": "systematic-1",
+    "pos": "adj",
+    "ko": "체계적인",
+    "en": "done in an ordered, careful way according to a fixed plan",
+    "nuance": "'꼼꼼히 순서대로'라는 칭찬이고, systemic(제도 전체에 퍼진)과는 뜻이 다르다. 논문에서는 a systematic review가 정해진 방법으로 선행연구를 훑는 연구를 말한다.",
+    "pattern": "a systematic + 명사",
+    "examples": [
+     {
+      "en": "We need a systematic way to track every customer complaint.",
+      "ko": "고객 불만을 전부 추적할 체계적인 방법이 필요해요.",
+      "focus": "a systematic way to track"
+     },
+     {
+      "en": "Her paper began with a systematic review of past studies.",
+      "ko": "그분 논문은 선행 연구의 체계적 검토로 시작했어요.",
+      "focus": "a systematic review of past studies"
+     }
+    ],
+    "collocations": [
+     "a systematic approach",
+     "a systematic review",
+     "systematic errors"
+    ]
+   }
+  ],
+  "wordFamily": [
+   {
+    "form": "systematically",
+    "pos": "adv",
+    "ko": "체계적으로"
+   }
+  ],
+  "confusables": [
+   {
+    "word": "systemic",
+    "note": "systemic은 '제도·조직 전체에 퍼진', systematic은 '순서대로 꼼꼼한'이라는 뜻이다."
+   }
+  ]
+ },
+ {
+  "id": "tactic",
+  "headword": "tactic",
+  "ipa": "/ˈtæktɪk/",
+  "level": "ADV",
+  "isCore": false,
+  "topic": "thinking_opinion",
+  "forms": [
+   "tactics"
+  ],
+  "senses": [
+   {
+    "id": "tactic-1",
+    "pos": "n",
+    "ko": "전술, 수법",
+    "en": "one method you use to reach a goal in a particular situation",
+    "nuance": "큰 그림인 strategy 아래에서 쓰는 개별 수단이다. 보통 복수 tactics로 쓰고, 협상 상황에서는 '얄팍한 수법'이라는 부정적 어감이 붙기도 한다.",
+    "pattern": "a tactic to + 동사원형",
+    "examples": [
+     {
+      "en": "Delaying the answer is a common negotiation tactic here.",
+      "ko": "답을 미루는 건 여기서 흔한 협상 전술이에요.",
+      "focus": "a common negotiation tactic"
+     },
+     {
+      "en": "Their marketing tactics changed completely after the new director arrived.",
+      "ko": "새 이사가 온 뒤로 그쪽 마케팅 전술이 완전히 바뀌었어요.",
+      "focus": "Their marketing tactics changed"
+     }
+    ],
+    "collocations": [
+     "negotiation tactics",
+     "a scare tactic",
+     "change tactics"
+    ]
+   }
+  ],
+  "wordFamily": [
+   {
+    "form": "tactical",
+    "pos": "adj",
+    "ko": "전술적인"
+   }
+  ],
+  "confusables": [
+   {
+    "word": "strategy",
+    "note": "strategy는 목표를 향한 전체 계획, tactic은 그 안에서 쓰는 개별 수단이다."
+   }
+  ]
+ },
+ {
+  "id": "takeover",
+  "headword": "takeover",
+  "ipa": "/ˈteɪkoʊvər/",
+  "level": "ADV",
+  "isCore": false,
+  "topic": "work_business",
+  "forms": [
+   "takeovers"
+  ],
+  "senses": [
+   {
+    "id": "takeover-1",
+    "pos": "n",
+    "ko": "인수, 경영권 인수",
+    "en": "the act of getting control of a company by buying its shares",
+    "nuance": "명사는 붙여 쓴 takeover 한 단어이고, 동사로 말할 때만 take over로 띄운다. 상대가 원치 않는 인수는 a hostile takeover라고 한다.",
+    "pattern": "a takeover of + 회사",
+    "examples": [
+     {
+      "en": "News of the takeover leaked before the board even voted.",
+      "ko": "이사회가 표결하기도 전에 인수 소식이 새어 나갔어요.",
+      "focus": "News of the takeover"
+     },
+     {
+      "en": "Two hostile takeovers shook the industry last year.",
+      "ko": "작년에 적대적 인수 두 건이 업계를 흔들었어요.",
+      "focus": "Two hostile takeovers"
+     }
+    ],
+    "collocations": [
+     "a hostile takeover",
+     "a takeover bid"
+    ]
+   }
+  ],
+  "confusables": [
+   {
+    "word": "merger",
+    "note": "merger는 두 회사가 하나로 합치는 것, takeover는 한쪽이 다른 쪽을 사서 지배하는 것이다."
+   }
+  ]
+ },
+ {
+  "id": "tariff",
+  "headword": "tariff",
+  "ipa": "/ˈtærɪf/",
+  "level": "ADV",
+  "isCore": false,
+  "topic": "money_shopping",
+  "forms": [
+   "tariffs"
+  ],
+  "senses": [
+   {
+    "id": "tariff-1",
+    "pos": "n",
+    "ko": "관세",
+    "en": "a tax a country charges on goods coming from abroad",
+    "nuance": "수입품에 붙는 세금이라 상점에서 내는 부가세(VAT)와 다르다. 관세를 매기다는 impose a tariff on이고 charge가 아니다.",
+    "pattern": "a tariff on + 명사",
+    "examples": [
+     {
+      "en": "The new tariff on steel raised our production costs sharply.",
+      "ko": "철강에 붙은 새 관세로 생산비가 크게 올랐어요.",
+      "focus": "The new tariff on steel"
+     },
+     {
+      "en": "Both sides agreed to cut tariffs over the next decade.",
+      "ko": "양측은 앞으로 십 년에 걸쳐 관세를 낮추기로 합의했어요.",
+      "focus": "cut tariffs"
+     }
+    ],
+    "collocations": [
+     "impose a tariff on",
+     "cut tariffs",
+     "import tariffs"
+    ]
+   }
+  ],
+  "confusables": [
+   {
+    "word": "tax",
+    "note": "tax는 세금 전반, tariff는 국경을 넘는 수입품에만 붙는 관세다."
+   }
+  ]
+ },
+ {
+  "id": "taxable",
+  "headword": "taxable",
+  "ipa": "/ˈtæksəbl/",
+  "level": "ADV",
+  "isCore": false,
+  "topic": "money_shopping",
+  "senses": [
+   {
+    "id": "taxable-1",
+    "pos": "adj",
+    "ko": "과세 대상인",
+    "en": "of a kind that you must pay money to the government on",
+    "nuance": "세금을 '내야 하는' 대상이라는 뜻이며, 세금이 붙은 상태는 taxed다. taxable income(과세 소득)이라는 굳은 표현으로 가장 자주 만난다.",
+    "pattern": "taxable + 명사",
+    "examples": [
+     {
+      "en": "Stock options count as taxable income in most cases.",
+      "ko": "스톡옵션은 대부분 과세 소득으로 잡힙니다.",
+      "focus": "count as taxable income"
+     },
+     {
+      "en": "Is the relocation allowance taxable, or does the company cover it?",
+      "ko": "이사 지원금은 과세 대상인가요, 아니면 회사가 부담하나요?",
+      "focus": "Is the relocation allowance taxable"
+     }
+    ],
+    "collocations": [
+     "taxable income",
+     "fully taxable"
+    ]
+   }
+  ],
+  "confusables": [
+   {
+    "word": "tax-free",
+    "note": "tax-free는 세금이 아예 없는 것, taxable은 세금을 내야 하는 대상이라는 뜻이다."
+   }
+  ]
+ },
+ {
+  "id": "taxation",
+  "headword": "taxation",
+  "ipa": "/tækˈseɪʃn/",
+  "level": "ADV",
+  "isCore": false,
+  "topic": "society_politics",
+  "senses": [
+   {
+    "id": "taxation-1",
+    "pos": "n",
+    "ko": "과세, 조세 제도",
+    "en": "the system by which a government collects money from people",
+    "nuance": "불가산이라 a taxation이나 taxations로 쓰지 않는다. 내는 돈 자체는 taxes이고, 제도·방식을 말할 때 taxation을 쓴다.",
+    "pattern": "under + 형용사 + taxation",
+    "examples": [
+     {
+      "en": "The report compares taxation in Korea and three European countries.",
+      "ko": "그 보고서는 한국과 유럽 세 나라의 과세 제도를 비교합니다.",
+      "focus": "compares taxation in Korea"
+     },
+     {
+      "en": "Double taxation is the main worry for staff working abroad.",
+      "ko": "해외 근무 직원들의 가장 큰 걱정은 이중과세예요.",
+      "focus": "Double taxation is the main worry"
+     }
+    ],
+    "collocations": [
+     "double taxation",
+     "corporate taxation"
+    ]
+   }
+  ],
+  "confusables": [
+   {
+    "word": "tax",
+    "note": "tax는 실제로 내는 돈이라 셀 수 있지만, taxation은 제도를 뜻하는 불가산명사다."
+   }
+  ]
+ },
+ {
+  "id": "taxpayer",
+  "headword": "taxpayer",
+  "ipa": "/ˈtækspeɪər/",
+  "level": "ADV",
+  "isCore": false,
+  "topic": "society_politics",
+  "forms": [
+   "taxpayers"
+  ],
+  "senses": [
+   {
+    "id": "taxpayer-1",
+    "pos": "n",
+    "ko": "납세자",
+    "en": "a person or company that pays money to the government",
+    "nuance": "'국민 세금으로'라는 말은 at taxpayers' expense처럼 복수 소유격으로 쓴다. 세무 공무원은 taxpayer가 아니라 a tax officer다.",
+    "pattern": "taxpayers' money",
+    "examples": [
+     {
+      "en": "The audit asks whether taxpayers' money funded that consulting contract.",
+      "ko": "감사는 그 컨설팅 계약에 국민 세금이 쓰였는지를 따집니다.",
+      "focus": "whether taxpayers' money funded"
+     },
+     {
+      "en": "Every taxpayer can file the form online until May.",
+      "ko": "모든 납세자는 5월까지 온라인으로 신고할 수 있어요.",
+      "focus": "Every taxpayer can file"
+     }
+    ],
+    "collocations": [
+     "taxpayers' money",
+     "a corporate taxpayer"
+    ]
+   }
+  ]
+ },
+ {
+  "id": "tease",
+  "headword": "tease",
+  "ipa": "/tiːz/",
+  "level": "ADV",
+  "isCore": false,
+  "topic": "communication",
+  "forms": [
+   "teased",
+   "teases",
+   "teasing"
+  ],
+  "senses": [
+   {
+    "id": "tease-1",
+    "pos": "v",
+    "ko": "놀리다, 장난치다",
+    "en": "to make jokes about someone, in a kind or an unkind way",
+    "nuance": "친한 사이의 가벼운 농담부터 상처 주는 놀림까지 폭이 넓다. 악의 없는 장난임을 밝히려면 I'm just teasing이라고 덧붙인다.",
+    "pattern": "tease + 사람 + about + 명사",
+    "examples": [
+     {
+      "en": "The team still teases me about my first client call.",
+      "ko": "팀원들이 제 첫 고객 통화 얘기로 아직도 놀려요.",
+      "focus": "teases me about my first client call"
+     },
+     {
+      "en": "Relax, I'm just teasing you about the typo.",
+      "ko": "진정해, 오타 가지고 그냥 놀린 거야.",
+      "focus": "I'm just teasing you"
+     }
+    ],
+    "collocations": [
+     "tease someone about",
+     "stop teasing"
+    ]
+   },
+   {
+    "id": "tease-2",
+    "pos": "v",
+    "ko": "살짝 공개하다",
+    "en": "to show a small part of something new to build interest",
+    "nuance": "마케팅에서 신제품 정보를 조금만 흘릴 때 쓴다. 한국어 '티저 영상'의 그 tease다.",
+    "examples": [
+     {
+      "en": "They teased the new model with a ten-second clip.",
+      "ko": "그쪽은 십 초짜리 영상으로 신모델을 살짝 공개했어요.",
+      "focus": "teased the new model"
+     }
+    ]
+   }
+  ],
+  "wordFamily": [
+   {
+    "form": "teaser",
+    "pos": "n",
+    "ko": "티저, 맛보기"
+   }
+  ]
+ },
+ {
+  "id": "technological",
+  "headword": "technological",
+  "ipa": "/ˌteknəˈlɑːdʒɪkl/",
+  "level": "ADV",
+  "isCore": false,
+  "topic": "environment_science",
+  "senses": [
+   {
+    "id": "technological-1",
+    "pos": "adj",
+    "ko": "기술의, 기술적인",
+    "en": "relating to new machines, tools and ways of doing things",
+    "nuance": "산업·사회 수준의 큰 기술 흐름을 꾸민다. 장비나 세부 사항의 '기술적 문제'는 technological이 아니라 a technical problem이라고 한다.",
+    "pattern": "technological + 명사",
+    "examples": [
+     {
+      "en": "Technological change is reshaping how our whole industry hires.",
+      "ko": "기술 변화가 우리 업계 채용 방식을 통째로 바꾸고 있어요.",
+      "focus": "Technological change is reshaping"
+     },
+     {
+      "en": "The paper links technological progress to longer working hours.",
+      "ko": "그 논문은 기술 발전을 더 긴 노동 시간과 연결합니다.",
+      "focus": "links technological progress"
+     }
+    ],
+    "collocations": [
+     "technological change",
+     "technological progress",
+     "technological innovation"
+    ]
+   }
+  ],
+  "wordFamily": [
+   {
+    "form": "technology",
+    "pos": "n",
+    "ko": "기술"
+   }
+  ],
+  "confusables": [
+   {
+    "word": "technical",
+    "note": "technical은 장비·전문 지식 차원의 '기술적', technological은 사회를 바꾸는 큰 '기술의'다."
+   }
+  ]
+ },
+ {
+  "id": "telecom",
+  "headword": "telecom",
+  "ipa": "/ˈtelɪkɑːm/",
+  "level": "ADV",
+  "isCore": false,
+  "topic": "environment_science",
+  "forms": [
+   "telecoms"
+  ],
+  "senses": [
+   {
+    "id": "telecom-1",
+    "pos": "n",
+    "ko": "통신, 통신 회사",
+    "en": "the business of sending calls and data over long distances",
+    "nuance": "telecommunications의 줄임말로 업계·산업을 가리킬 때 쓴다. 회사 하나를 말할 때는 a telecom company나 a telecom이라고 한다.",
+    "pattern": "the telecom industry",
+    "examples": [
+     {
+      "en": "She spent ten years in telecom before moving to finance.",
+      "ko": "그분은 금융으로 옮기기 전에 통신 업계에서 십 년 있었어요.",
+      "focus": "ten years in telecom"
+     },
+     {
+      "en": "Three telecoms are bidding for the same spectrum licence.",
+      "ko": "통신사 세 곳이 같은 주파수 면허를 두고 입찰 중이에요.",
+      "focus": "Three telecoms are bidding"
+     }
+    ],
+    "collocations": [
+     "the telecom industry",
+     "a telecom company"
+    ]
+   }
+  ]
+ },
+ {
+  "id": "telegraph",
+  "headword": "telegraph",
+  "ipa": "/ˈtelɪɡræf/",
+  "level": "ADV",
+  "isCore": false,
+  "topic": "communication",
+  "forms": [
+   "telegraphs"
+  ],
+  "senses": [
+   {
+    "id": "telegraph-1",
+    "pos": "n",
+    "ko": "전신, 전보 장치",
+    "en": "an old system for sending messages by wire over long distances",
+    "nuance": "지금은 역사·비유로만 쓰는 옛 통신 수단이다. 보낸 '전보' 한 통은 telegraph가 아니라 a telegram이라고 한다.",
+    "pattern": "by telegraph",
+    "examples": [
+     {
+      "en": "News of the treaty reached London by telegraph within hours.",
+      "ko": "조약 소식은 몇 시간 만에 전신으로 런던에 닿았어요.",
+      "focus": "reached London by telegraph"
+     },
+     {
+      "en": "The museum still keeps two working telegraphs from 1890.",
+      "ko": "그 박물관은 1890년대 작동하는 전신기 두 대를 아직 보관해요.",
+      "focus": "two working telegraphs"
+     }
+    ],
+    "collocations": [
+     "by telegraph",
+     "the electric telegraph"
+    ]
+   }
+  ],
+  "confusables": [
+   {
+    "word": "telegram",
+    "note": "telegram은 전신으로 보낸 '전보 한 통', telegraph는 그 전송 장치·방식이다."
+   }
+  ]
+ },
+ {
+  "id": "tempt",
+  "headword": "tempt",
+  "ipa": "/tempt/",
+  "level": "ADV",
+  "isCore": false,
+  "topic": "emotions_personality",
+  "forms": [
+   "tempted",
+   "tempting",
+   "tempts"
+  ],
+  "senses": [
+   {
+    "id": "tempt-1",
+    "pos": "v",
+    "ko": "유혹하다, 끌리게 하다",
+    "en": "to make someone want to do something, often unwise",
+    "nuance": "실제 회화에서는 수동형 be tempted to로 훨씬 자주 쓴다. I'm tempted to는 '그러고 싶은 마음이 든다'는 부드러운 표현이다.",
+    "pattern": "be tempted to + 동사원형",
+    "examples": [
+     {
+      "en": "I'm tempted to skip the afternoon session and finish this report.",
+      "ko": "오후 세션 빠지고 이 보고서 끝내고 싶은 마음이 드네요.",
+      "focus": "I'm tempted to skip"
+     },
+     {
+      "en": "The signing bonus tempted her into leaving a stable job.",
+      "ko": "계약금에 끌려서 그분은 안정된 직장을 떠났어요.",
+      "focus": "tempted her into leaving"
+     }
+    ],
+    "collocations": [
+     "be tempted to",
+     "a tempting offer"
+    ]
+   }
+  ],
+  "wordFamily": [
+   {
+    "form": "temptation",
+    "pos": "n",
+    "ko": "유혹"
+   }
+  ],
+  "confusables": [
+   {
+    "word": "attract",
+    "note": "attract는 관심을 끄는 중립어, tempt는 하지 말아야 할 일을 하고 싶게 만드는 것이다."
+   }
+  ]
+ },
+ {
+  "id": "tenant",
+  "headword": "tenant",
+  "ipa": "/ˈtenənt/",
+  "level": "ADV",
+  "isCore": false,
+  "topic": "home_daily",
+  "forms": [
+   "tenants"
+  ],
+  "senses": [
+   {
+    "id": "tenant-1",
+    "pos": "n",
+    "ko": "세입자, 임차인",
+    "en": "a person who pays rent to live in or use a place",
+    "nuance": "돈을 내고 사는 쪽이 tenant, 집을 빌려주는 쪽이 landlord다. 상가 입주사도 tenant라고 하니 사무실 건물 얘기에도 쓴다.",
+    "pattern": "the previous tenant",
+    "examples": [
+     {
+      "en": "The previous tenant left a stack of unopened mail.",
+      "ko": "이전 세입자가 뜯지 않은 우편물을 한 무더기 남겼어요.",
+      "focus": "The previous tenant left"
+     },
+     {
+      "en": "Our building lost two tenants after the rent increase.",
+      "ko": "임대료 인상 뒤에 우리 건물 임차인 두 곳이 나갔어요.",
+      "focus": "lost two tenants"
+     }
+    ],
+    "collocations": [
+     "the previous tenant",
+     "a commercial tenant"
+    ]
+   }
+  ],
+  "confusables": [
+   {
+    "word": "landlord",
+    "note": "landlord는 집을 빌려주고 임대료를 받는 사람, tenant는 임대료를 내고 사는 사람이다."
+   }
+  ]
+ },
+ {
+  "id": "terminate",
+  "headword": "terminate",
+  "ipa": "/ˈtɜːrmɪneɪt/",
+  "level": "ADV",
+  "isCore": false,
+  "topic": "work_business",
+  "forms": [
+   "terminated",
+   "terminates",
+   "terminating"
+  ],
+  "senses": [
+   {
+    "id": "terminate-1",
+    "pos": "v",
+    "ko": "종료하다, 해지하다",
+    "en": "to officially end an agreement, a job or a service",
+    "nuance": "계약서·인사 문서에 쓰는 딱딱한 말이라 일상 대화의 end, stop과 어감이 다르다. 사람을 목적어로 쓰면 '해고하다'라는 무거운 뜻이 된다.",
+    "pattern": "terminate a contract",
+    "examples": [
+     {
+      "en": "Either side may terminate the contract with thirty days' notice.",
+      "ko": "어느 쪽이든 30일 전 통보로 계약을 해지할 수 있습니다.",
+      "focus": "terminate the contract"
+     },
+     {
+      "en": "The vendor terminated our access before the migration finished.",
+      "ko": "그 업체는 이관이 끝나기도 전에 우리 접근 권한을 끊었어요.",
+      "focus": "terminated our access"
+     }
+    ],
+    "collocations": [
+     "terminate a contract",
+     "terminate an agreement"
+    ]
+   }
+  ],
+  "wordFamily": [
+   {
+    "form": "termination",
+    "pos": "n",
+    "ko": "종료, 해지"
+   }
+  ],
+  "confusables": [
+   {
+    "word": "finish",
+    "note": "finish는 일이 자연스레 끝나는 것, terminate는 공식적으로 중간에 끊어 버리는 것이다."
+   }
+  ]
+ },
+ {
+  "id": "terrace",
+  "headword": "terrace",
+  "ipa": "/ˈterəs/",
+  "level": "ADV",
+  "isCore": false,
+  "topic": "home_daily",
+  "forms": [
+   "terraces"
+  ],
+  "senses": [
+   {
+    "id": "terrace-1",
+    "pos": "n",
+    "ko": "테라스, 옥외 공간",
+    "en": "a flat outdoor area next to a building, used for sitting",
+    "nuance": "지붕 없는 평평한 야외 공간이라 난간만 튀어나온 balcony와 다르다. 산비탈의 계단식 논밭도 terraces라고 부른다.",
+    "pattern": "on the terrace",
+    "examples": [
+     {
+      "en": "Let's take the client meeting out on the terrace.",
+      "ko": "고객 미팅은 테라스에서 하죠.",
+      "focus": "out on the terrace"
+     },
+     {
+      "en": "Rice terraces cover the hillsides around that small village.",
+      "ko": "그 작은 마을 주변 산비탈은 계단식 논으로 덮여 있어요.",
+      "focus": "Rice terraces cover the hillsides"
+     }
+    ],
+    "collocations": [
+     "on the terrace",
+     "a roof terrace"
+    ]
+   }
+  ],
+  "confusables": [
+   {
+    "word": "balcony",
+    "note": "balcony는 건물 벽에서 튀어나온 좁은 공간, terrace는 땅이나 옥상의 넓고 평평한 공간이다."
+   }
+  ]
+ },
+ {
+  "id": "terribly",
+  "headword": "terribly",
+  "ipa": "/ˈterəbli/",
+  "level": "ADV",
+  "isCore": false,
+  "topic": "time_quantity",
+  "senses": [
+   {
+    "id": "terribly-1",
+    "pos": "adv",
+    "ko": "몹시, 대단히",
+    "en": "very much, used to make a word stronger",
+    "nuance": "very 자리에 넣는 강조어라 I'm terribly sorry처럼 좋은 말에도 붙는다. '무섭게'라는 뜻이 아니니 문자 그대로 해석하지 않는다.",
+    "pattern": "terribly + 형용사",
+    "examples": [
+     {
+      "en": "I'm terribly sorry, but the numbers came in late.",
+      "ko": "정말 죄송한데 수치가 늦게 들어왔어요.",
+      "focus": "I'm terribly sorry"
+     },
+     {
+      "en": "The first draft wasn't terribly clear about the funding.",
+      "ko": "초안은 자금 부분이 그렇게 명확하지 않았어요.",
+      "focus": "wasn't terribly clear"
+     }
+    ],
+    "collocations": [
+     "terribly sorry",
+     "not terribly good"
+    ]
+   }
+  ],
+  "wordFamily": [
+   {
+    "form": "terrible",
+    "pos": "adj",
+    "ko": "끔찍한, 형편없는"
+   }
+  ],
+  "confusables": [
+   {
+    "word": "terrific",
+    "note": "terrific은 '아주 좋은'이라는 칭찬이고, terrible은 '끔찍한'이라 뜻이 정반대다."
+   }
+  ]
+ },
+ {
+  "id": "terrorism",
+  "headword": "terrorism",
+  "ipa": "/ˈterərɪzəm/",
+  "level": "ADV",
+  "isCore": false,
+  "topic": "society_politics",
+  "senses": [
+   {
+    "id": "terrorism-1",
+    "pos": "n",
+    "ko": "테러 행위",
+    "en": "the use of violence to frighten people for political aims",
+    "nuance": "불가산이라 a terrorism이라고 하지 않고 terrorism 또는 acts of terrorism이라고 쓴다. 한국어 '테러를 당하다'를 직역하지 말고 be a victim of terrorism으로 쓴다.",
+    "pattern": "fight terrorism",
+    "examples": [
+     {
+      "en": "The course covers how governments fund the fight against terrorism.",
+      "ko": "그 강의는 정부가 테러 대응에 어떻게 예산을 쓰는지 다룹니다.",
+      "focus": "the fight against terrorism"
+     },
+     {
+      "en": "Airport screening rules changed after several acts of terrorism.",
+      "ko": "여러 차례 테러 행위 이후 공항 검색 규정이 바뀌었어요.",
+      "focus": "several acts of terrorism"
+     }
+    ],
+    "collocations": [
+     "fight terrorism",
+     "an act of terrorism"
+    ]
+   }
+  ],
+  "wordFamily": [
+   {
+    "form": "terrorist",
+    "pos": "n",
+    "ko": "테러범"
+   }
+  ]
+ },
+ {
+  "id": "testify",
+  "headword": "testify",
+  "ipa": "/ˈtestɪfaɪ/",
+  "level": "ADV",
+  "isCore": false,
+  "topic": "society_politics",
+  "forms": [
+   "testified",
+   "testifies",
+   "testifying"
+  ],
+  "senses": [
+   {
+    "id": "testify-1",
+    "pos": "v",
+    "ko": "증언하다",
+    "en": "to say formally in a court what you know to be true",
+    "nuance": "법정이나 청문회에서 공식적으로 말하는 것이라 일상의 say와 다르다. 어느 편을 드는지 밝힐 때는 testify against나 testify for를 쓴다.",
+    "pattern": "testify against/for + 사람",
+    "examples": [
+     {
+      "en": "Two former managers agreed to testify at the hearing.",
+      "ko": "전직 관리자 두 명이 청문회에서 증언하기로 했어요.",
+      "focus": "testify at the hearing"
+     },
+     {
+      "en": "She testified against her old employer last Thursday morning.",
+      "ko": "그분은 지난 목요일 아침에 옛 고용주에게 불리한 증언을 했어요.",
+      "focus": "testified against her old employer"
+     }
+    ],
+    "collocations": [
+     "testify in court",
+     "testify against someone"
+    ]
+   }
+  ],
+  "wordFamily": [
+   {
+    "form": "testimony",
+    "pos": "n",
+    "ko": "증언"
+   }
+  ],
+  "confusables": [
+   {
+    "word": "witness",
+    "note": "witness는 목격하는 것이나 목격자 자체, testify는 법정에서 말로 증언하는 행위다."
+   }
+  ]
+ },
+ {
+  "id": "thread",
+  "headword": "thread",
+  "ipa": "/θred/",
+  "level": "ADV",
+  "isCore": false,
+  "topic": "communication",
+  "forms": [
+   "threads"
+  ],
+  "senses": [
+   {
+    "id": "thread-1",
+    "pos": "n",
+    "ko": "(메시지) 스레드",
+    "en": "a series of messages on one topic, shown together online",
+    "nuance": "메신저·메일에서 같은 주제로 이어진 대화 묶음이다. '그 메일 스레드에'는 in that thread이지 on이 아니다.",
+    "pattern": "in the thread",
+    "examples": [
+     {
+      "en": "I posted the revised budget in the finance thread yesterday.",
+      "ko": "수정 예산은 어제 재무 스레드에 올려 뒀어요.",
+      "focus": "in the finance thread"
+     },
+     {
+      "en": "Could you keep both questions in one thread, please?",
+      "ko": "두 질문 한 스레드에 모아 주실 수 있을까요?",
+      "focus": "in one thread"
+     }
+    ],
+    "collocations": [
+     "an email thread",
+     "start a thread"
+    ]
+   },
+   {
+    "id": "thread-2",
+    "pos": "n",
+    "ko": "실",
+    "en": "a very thin line of cotton used for sewing",
+    "nuance": "바느질용 '실'이며 굵은 끈은 string, 털실은 yarn이다. 재료를 뜻할 때는 불가산으로 some thread처럼 쓴다.",
+    "examples": [
+     {
+      "en": "A loose thread was hanging from the sleeve of my jacket.",
+      "ko": "재킷 소매에 실이 한 가닥 풀려 나와 있었어요.",
+      "focus": "A loose thread was hanging"
+     }
+    ]
+   }
+  ],
+  "confusables": [
+   {
+    "word": "threat",
+    "note": "철자가 비슷하지만 threat은 /θret/ '위협', thread는 /θred/ '실·스레드'다."
+   }
+  ]
+ },
+ {
+  "id": "tick",
+  "headword": "tick",
+  "ipa": "/tɪk/",
+  "level": "ADV",
+  "isCore": false,
+  "topic": "communication",
+  "forms": [
+   "ticked",
+   "ticking",
+   "ticks"
+  ],
+  "senses": [
+   {
+    "id": "tick-1",
+    "pos": "v",
+    "ko": "체크 표시를 하다",
+    "en": "to mark a small sign next to an item on a list",
+    "nuance": "영국식 표현이고 미국에서는 check the box라고 한다. 항목을 끝냈다고 지울 때는 tick off를 쓴다.",
+    "pattern": "tick the box",
+    "examples": [
+     {
+      "en": "Please tick the box if you want the printed report.",
+      "ko": "인쇄본 보고서를 원하시면 칸에 체크해 주세요.",
+      "focus": "tick the box"
+     },
+     {
+      "en": "Emma ticked off three items before the meeting even started.",
+      "ko": "엠마는 회의가 시작되기도 전에 항목 세 개를 처리했어요.",
+      "focus": "ticked off three items"
+     }
+    ],
+    "collocations": [
+     "tick the box",
+     "tick off a list"
+    ]
+   },
+   {
+    "id": "tick-2",
+    "pos": "n",
+    "ko": "똑딱 소리",
+    "en": "the short regular sound a clock makes",
+    "nuance": "시계 소리는 셀 수 있게 a tick이라고 하고, 반복되는 소리는 ticking으로 쓴다. 한국어 '똑딱'에 해당하는 의성어다.",
+    "examples": [
+     {
+      "en": "The tick of the old clock filled the silent room.",
+      "ko": "낡은 시계의 똑딱 소리가 조용한 방을 채웠어요.",
+      "focus": "The tick of the old clock"
+     }
+    ]
+   }
+  ],
+  "confusables": [
+   {
+    "word": "check",
+    "note": "미국에서는 상자에 표시하는 것을 check라 하고, 영국에서는 tick이라고 한다."
+   }
+  ]
+ },
+ {
+  "id": "timber",
+  "headword": "timber",
+  "ipa": "/ˈtɪmbər/",
+  "level": "ADV",
+  "isCore": false,
+  "topic": "environment_science",
+  "senses": [
+   {
+    "id": "timber-1",
+    "pos": "n",
+    "ko": "목재",
+    "en": "wood that has been cut and prepared for building",
+    "nuance": "건축·산업용 재료라 불가산으로 쓰고 a timber라고 하지 않는다. 미국에서는 같은 것을 lumber라고 부르는 경우가 많다.",
+    "pattern": "made of timber",
+    "examples": [
+     {
+      "en": "The new office uses timber instead of steel for the frame.",
+      "ko": "새 사무실은 골조에 철강 대신 목재를 씁니다.",
+      "focus": "uses timber instead of steel"
+     },
+     {
+      "en": "Rising timber prices pushed the whole project over budget.",
+      "ko": "목재 가격 상승으로 프로젝트 전체가 예산을 넘겼어요.",
+      "focus": "Rising timber prices"
+     }
+    ],
+    "collocations": [
+     "timber prices",
+     "made of timber"
+    ]
+   }
+  ],
+  "confusables": [
+   {
+    "word": "wood",
+    "note": "wood는 나무 재료 전반, timber는 잘라서 건축용으로 다듬은 목재를 가리킨다."
+   }
+  ]
+ },
+ {
+  "id": "torture",
+  "headword": "torture",
+  "ipa": "/ˈtɔːrtʃər/",
+  "level": "ADV",
+  "isCore": false,
+  "topic": "society_politics",
+  "forms": [
+   "tortured",
+   "tortures",
+   "torturing"
+  ],
+  "senses": [
+   {
+    "id": "torture-1",
+    "pos": "v",
+    "ko": "고문하다",
+    "en": "to hurt someone badly on purpose to punish or force them",
+    "nuance": "인권 보고서·법률 문서에 나오는 무거운 말이다. 명사로도 같은 철자를 쓰며 그때는 불가산이라 a torture라고 하지 않는다.",
+    "pattern": "torture + 사람",
+    "examples": [
+     {
+      "en": "The report says guards tortured prisoners at three separate sites.",
+      "ko": "그 보고서는 교도관들이 세 곳에서 수감자를 고문했다고 밝힙니다.",
+      "focus": "tortured prisoners at three separate sites"
+     },
+     {
+      "en": "International law forbids states from torturing anyone in custody.",
+      "ko": "국제법은 국가가 구금된 사람을 고문하는 것을 금지합니다.",
+      "focus": "forbids states from torturing anyone"
+     }
+    ],
+    "collocations": [
+     "torture prisoners",
+     "be tortured"
+    ]
+   },
+   {
+    "id": "torture-2",
+    "pos": "n",
+    "ko": "몹시 괴로운 일",
+    "en": "something that feels painfully long or boring",
+    "nuance": "'고문 같았다'는 과장 표현으로 일상에서 가볍게 쓴다. 불가산이라 It was torture이지 a torture가 아니다.",
+    "examples": [
+     {
+      "en": "That three-hour budget meeting was pure torture.",
+      "ko": "그 세 시간짜리 예산 회의는 완전 고문이었어요.",
+      "focus": "was pure torture"
+     }
+    ]
+   }
+  ]
+ }
+]

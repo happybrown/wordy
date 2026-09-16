@@ -89,6 +89,7 @@ const NOT_A_FORM = new Set([
   // 접두사가 붙어도 불규칙은 그대로다 (rewrite -> rewrote/rewritten)
   'rewrited', 'rewrit', 'overcomed', 'understanded', 'withdrawed', 'rebuilded',
   'foreseed', 'undoed', 'redoed', 'outgrowed', 'misunderstanded',
+  'weaved',
   'squarer', 'squarest', 'wronger', 'wrongest', 'famouser', 'famousest', 'correcter', 'correctest',
   'unlikelier', 'unlikeliest', 'gayer', 'gayest', 'eagerer', 'eagerest', 'awarer', 'awarest',
   'sparer', 'sparest', 'dailyer', 'dailyest', 'finaler', 'finalest',
@@ -110,6 +111,9 @@ const NOT_A_FORM = new Set([
   // 기상·물리 측정 불가산 명사. rage 는 격노의 뜻일 때 불가산
   // ('유행' 뜻의 all the rage 도 복수를 만들지 않는다).
   'radiations', 'rainfalls', 'rages',
+  // 조세 제도·목재·변동성은 해당 뜻에서 불가산.
+  // timbers(구조용 들보), taxes(세금 자체)는 다른 뜻이라 여기 없다.
+  'taxations', 'timbers', 'volatilities',
 ]);
 /**
  * 불규칙 변화형. 어간이 크게 바뀌어 편집 거리·접미사 규칙으로는 잡히지 않는다.
