@@ -54,6 +54,8 @@ import dev.brown.wordy.ui.components.StatTile
 import dev.brown.wordy.ui.components.VSpace
 import dev.brown.wordy.ui.components.WordCard
 import dev.brown.wordy.ui.components.appViewModel
+import dev.brown.wordy.ui.theme.bloomGradient
+import dev.brown.wordy.ui.theme.onBloomGradient
 
 @Composable
 fun SessionScreen(extraNew: Int, onExit: () -> Unit, onOpenWord: (String) -> Unit) {
@@ -102,8 +104,12 @@ private fun LearnPane(word: Word, onSpeak: (String) -> Unit, onLearned: () -> Un
             WordCard(word, onSpeak)
             VSpace(16)
         }
-        Surface(tonalElevation = 3.dp) {
-            Button(onClick = onLearned, modifier = Modifier.fillMaxWidth().padding(16.dp).height(52.dp)) { Text("확인했어요 → 바로 퀴즈") }
+        Surface(color = MaterialTheme.colorScheme.background) {
+            Button(
+                onClick = onLearned,
+                modifier = Modifier.fillMaxWidth().padding(horizontal = 18.dp, vertical = 14.dp).height(52.dp),
+                shape = CircleShape,
+            ) { Text("확인했어요  →  바로 퀴즈", style = MaterialTheme.typography.titleMedium) }
         }
     }
 }
@@ -143,7 +149,7 @@ private fun FeedbackPanel(f: Feedback, onContinue: () -> Unit, onSpeak: (String)
     Surface(
         color = container,
         tonalElevation = 4.dp,
-        shape = RoundedCornerShape(topStart = 28.dp, topEnd = 28.dp),
+        shape = RoundedCornerShape(topStart = 34.dp, topEnd = 34.dp),
     ) {
         Column(Modifier.fillMaxWidth().padding(20.dp), verticalArrangement = Arrangement.spacedBy(10.dp)) {
             Row(Modifier.fillMaxWidth(), horizontalArrangement = Arrangement.SpaceBetween, verticalAlignment = Alignment.CenterVertically) {
@@ -184,16 +190,16 @@ private fun SummaryPane(stats: SessionStats, onExit: () -> Unit, onOpenWord: (St
         // 끝냈다는 사실 자체가 보상이 되도록 큰 원형 표시를 둔다
         Box(
             Modifier
-                .size(92.dp)
+                .size(96.dp)
                 .clip(CircleShape)
-                .background(MaterialTheme.colorScheme.primaryContainer)
+                .background(bloomGradient)
                 .align(Alignment.CenterHorizontally),
             contentAlignment = Alignment.Center,
         ) {
             Icon(
                 Icons.Default.Check,
                 contentDescription = null,
-                tint = MaterialTheme.colorScheme.onPrimaryContainer,
+                tint = onBloomGradient,
                 modifier = Modifier.size(46.dp),
             )
         }

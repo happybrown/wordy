@@ -4,6 +4,7 @@ import androidx.lifecycle.ViewModel
 import androidx.lifecycle.viewModelScope
 import dev.brown.wordy.data.repo.ProgressRepository
 import dev.brown.wordy.di.AppContainer
+import dev.brown.wordy.domain.mastery.streakOf
 import dev.brown.wordy.domain.model.Level
 import dev.brown.wordy.domain.model.Mastery
 import kotlinx.coroutines.flow.MutableStateFlow
@@ -31,6 +32,10 @@ data class HomeUiState(
     val coreFamiliar: Int = 0,
     val coreMet: Int = 0,
     val totalReviews: Int = 0,
+    /** 최근 7일 학습량(복습+신규). 마지막 항목이 오늘. */
+    val weekActivity: List<Int> = List(7) { 0 },
+    /** 전 레벨에서 '익숙' 이상에 오른 단어 수. */
+    val familiarTotal: Int = 0,
 )
 
 class HomeViewModel(private val c: AppContainer) : ViewModel() {
@@ -55,11 +60,18 @@ class HomeViewModel(private val c: AppContainer) : ViewModel() {
                     dailyGoal = s.dailyNewWords, learnedToday = daily?.newLearned ?: 0, reviewedToday = daily?.reviewed ?: 0,
                     dueNow = due, currentLevel = s.currentLevel, levels = levelProgress,
                     coreTotal = coreIds.size, coreFamiliar = coreIds.count { statusMap[it]?.mastery?.level ?: 0 >= Mastery.FAMILIAR.level }, coreMet = coreIds.count { statusMap[it]?.mastery?.level ?: 0 >= 1 },
+                    familiarTotal = statuses.count { it.mastery.level >= Mastery.FAMILIAR.level },
                 )
             }.collectLatest { base ->
                 val tomorrowStart = ProgressRepository.startOfDay(LocalDate.now().plusDays(1))
                 val dueTomorrow = c.progress.dueBetween(c.now(), tomorrowStart + 86_400_000L)
-                _state.value = base.copy(dueTomorrow = dueTomorrow, streak = streak(), totalReviews = c.progress.totalReviews())
+                val allDaily = c.progress.allDaily()
+                _state.value = base.copy(
+                    dueTomorrow = dueTomorrow,
+                    streak = streakOf(allDaily.filter { it.reviewed > 0 || it.newLearned > 0 }.map { it.date }.toSet(), LocalDate.now()),
+                    totalReviews = c.progress.totalReviews(),
+                    weekActivity = weekActivity(allDaily),
+                )
             }
         }
     }
@@ -67,11 +79,13 @@ class HomeViewModel(private val c: AppContainer) : ViewModel() {
     private val levelIdCache = HashMap<Level, List<String>>()
     private suspend fun levelIds(level: Level): List<String> = levelIdCache.getOrPut(level) { c.words.wordIdsByLevel(level) }
 
-    private suspend fun streak(): Int {
-        val days = c.progress.allDaily().filter { it.reviewed > 0 || it.newLearned > 0 }.map { LocalDate.parse(it.date) }.toSet()
-        var d = LocalDate.now(); var n = 0
-        if (d !in days) d = d.minusDays(1)
-        while (d in days) { n++; d = d.minusDays(1) }
-        return n
+    /** 최근 7일 학습량. 기록이 없는 날도 0 으로 채워야 막대 간격이 일정해진다. */
+    private fun weekActivity(daily: List<dev.brown.wordy.domain.model.DailyStat>): List<Int> {
+        val byDate = daily.associateBy { it.date }
+        val today = LocalDate.now()
+        return (6L downTo 0L).map { back ->
+            val d = byDate[today.minusDays(back).toString()]
+            (d?.reviewed ?: 0) + (d?.newLearned ?: 0)
+        }
     }
 }

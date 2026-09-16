@@ -77,6 +77,10 @@ private fun optionColors(index: Int, chosen: Int?, correct: Int, answered: Boole
     }
 }
 
+/** Bloom 의 보기 버튼 곡률. 알약보다는 덜 둥근 큰 라운드가 글자 길 때 안정적이다. */
+@Composable
+private fun optionShape() = MaterialTheme.shapes.small
+
 @Composable
 private fun ChoiceList(options: List<String>, correctIndex: Int, answered: Boolean, onChoose: (Int) -> Unit) {
     var chosen by remember { mutableStateOf<Int?>(null) }
@@ -95,7 +99,7 @@ private fun ChoiceList(options: List<String>, correctIndex: Int, answered: Boole
                     disabledContainerColor = container,
                     disabledContentColor = content,
                 ),
-                shape = MaterialTheme.shapes.medium,
+                shape = optionShape(),
                 contentPadding = androidx.compose.foundation.layout.PaddingValues(horizontal = 20.dp, vertical = 16.dp),
                 modifier = Modifier.fillMaxWidth().heightIn(min = 58.dp),
             ) {

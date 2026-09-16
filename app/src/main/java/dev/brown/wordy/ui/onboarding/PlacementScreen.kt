@@ -47,7 +47,11 @@ fun PlacementScreen(onDone: (Level?) -> Unit) {
                 style = MaterialTheme.typography.bodySmall, color = MaterialTheme.colorScheme.onSurfaceVariant,
             )
             VSpace(24)
-            Button(onClick = { onDone(s.recommended) }, modifier = Modifier.fillMaxWidth().height(52.dp)) {
+            Button(
+                onClick = { onDone(s.recommended) },
+                modifier = Modifier.fillMaxWidth().height(54.dp),
+                shape = androidx.compose.foundation.shape.CircleShape,
+            ) {
                 Text("${s.recommended.ko} 레벨로 시작하기")
             }
             VSpace(8)
@@ -74,7 +78,8 @@ fun PlacementScreen(onDone: (Level?) -> Unit) {
         q.options.forEachIndexed { i, opt ->
             OutlinedButton(
                 onClick = { vm.answer(i) },
-                modifier = Modifier.fillMaxWidth().padding(vertical = 5.dp).height(56.dp),
+                modifier = Modifier.fillMaxWidth().padding(vertical = 5.dp).height(58.dp),
+                shape = MaterialTheme.shapes.small,
             ) { Text(opt, style = MaterialTheme.typography.bodyLarge) }
         }
 

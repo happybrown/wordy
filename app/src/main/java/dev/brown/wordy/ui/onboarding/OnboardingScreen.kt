@@ -67,7 +67,11 @@ fun OnboardingScreen(onDone: () -> Unit) {
         Text("시작 레벨", style = MaterialTheme.typography.titleMedium, fontWeight = FontWeight.SemiBold)
         Text("언제든 설정에서 바꿀 수 있어요. 낮은 레벨부터 빠르게 훑는 것도 좋습니다.", style = MaterialTheme.typography.bodySmall, color = MaterialTheme.colorScheme.onSurfaceVariant)
         VSpace(8)
-        OutlinedButton(onClick = { showPlacement = true }, modifier = Modifier.fillMaxWidth()) {
+        OutlinedButton(
+            onClick = { showPlacement = true },
+            modifier = Modifier.fillMaxWidth().height(48.dp),
+            shape = androidx.compose.foundation.shape.CircleShape,
+        ) {
             Text(if (placedBy == null) "30문제로 내 레벨 진단하기" else "다시 진단하기")
         }
         placedBy?.let {
@@ -102,8 +106,9 @@ fun OnboardingScreen(onDone: () -> Unit) {
         VSpace(28)
         Button(
             onClick = { scope.launch { c.settings.update { it.copy(onboardingDone = true, currentLevel = level, dailyNewWords = goal.toInt(), coreEnabled = core) }; onDone() } },
-            modifier = Modifier.fillMaxWidth().height(52.dp),
-        ) { Text("시작하기") }
+            modifier = Modifier.fillMaxWidth().height(54.dp),
+            shape = androidx.compose.foundation.shape.CircleShape,
+        ) { Text("시작하기", style = MaterialTheme.typography.titleMedium) }
         VSpace(24)
     }
 }

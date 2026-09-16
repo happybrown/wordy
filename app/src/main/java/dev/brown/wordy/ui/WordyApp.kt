@@ -1,5 +1,6 @@
 package dev.brown.wordy.ui
 
+import androidx.activity.compose.BackHandler
 import androidx.compose.foundation.layout.padding
 import androidx.compose.material.icons.Icons
 import androidx.compose.material.icons.automirrored.filled.MenuBook
@@ -81,9 +82,9 @@ fun WordyApp(container: AppContainer) {
                         onOpenLevel = { lvl -> browseLevel = lvl; nav.navigateTab(BrowseRoute) },
                     )
                 }
-                composable<BrowseRoute> { BrowseScreen(initialLevel = browseLevel, onOpenUnit = { id, title -> nav.navigate(UnitRoute(id, title)) }, onOpenWord = { nav.navigate(WordRoute(it)) }) }
-                composable<StatsRoute> { StatsScreen(onWord = { nav.navigate(WordRoute(it)) }) }
-                composable<SettingsRoute> { SettingsScreen() }
+                composable<BrowseRoute> { TabBack(nav); BrowseScreen(initialLevel = browseLevel, onOpenUnit = { id, title -> nav.navigate(UnitRoute(id, title)) }, onOpenWord = { nav.navigate(WordRoute(it)) }) }
+                composable<StatsRoute> { TabBack(nav); StatsScreen(onWord = { nav.navigate(WordRoute(it)) }) }
+                composable<SettingsRoute> { TabBack(nav); SettingsScreen() }
                 composable<SessionRoute> { entry -> SessionScreen(extraNew = entry.toRoute<SessionRoute>().extraNew, onExit = { nav.popBackStack() }, onOpenWord = { nav.navigate(WordRoute(it)) }) }
                 composable<UnitRoute> { entry -> val r = entry.toRoute<UnitRoute>(); UnitScreen(r.unitId, r.title, onBack = { nav.popBackStack() }, onOpenWord = { nav.navigate(WordRoute(it)) }) }
                 composable<WordRoute> { entry -> WordDetailScreen(entry.toRoute<WordRoute>().wordId, onBack = { nav.popBackStack() }, onPractice = { nav.navigate(PracticeRoute(it)) }) }
@@ -93,8 +94,28 @@ fun WordyApp(container: AppContainer) {
     }
 }
 
+/**
+ * 하단 탭 이동. 백스택에 탭이 쌓이지 않도록 매번 그래프 루트까지 비운다.
+ *
+ * 대상을 HomeRoute 나 startDestination 으로 잡으면 안 된다. 둘 다 "스택에 그것이
+ * 남아 있을 때만" 동작하는데, 홈에서 단어장으로 가는 순간 홈이 스택에서 빠지므로
+ * 그 뒤의 탭 이동은 아무것도 비우지 못하고 계속 쌓인다.
+ * (실제로 [홈] → [단어장] → [단어장, 설정] → [단어장, 설정, 홈] 으로 늘어났다.)
+ *
+ * graph.id 는 항상 스택 맨 아래에 있으므로 어느 탭에서 눌러도 확실히 비워진다.
+ */
 private fun androidx.navigation.NavHostController.navigateTab(route: Any) = navigate(route) {
-    popUpTo(graph.findStartDestination().id) { saveState = true }
+    popUpTo(graph.id) { inclusive = true }
     launchSingleTop = true
-    restoreState = true
+}
+
+/**
+ * 홈이 아닌 탭에서 백 키를 누르면 홈으로 보낸다. 홈에서 한 번 더 누르면 앱이 닫힌다.
+ *
+ * NavHost **안쪽**(각 탭 화면 안)에 둬야 한다. 바깥에 두면 NavHost 가 등록한
+ * 자체 백 처리기가 먼저 가져가 홈이 아니라 직전에 들른 탭으로 돌아간다.
+ */
+@Composable
+private fun TabBack(nav: androidx.navigation.NavHostController) {
+    BackHandler { nav.navigateTab(HomeRoute) }
 }

@@ -1,6 +1,10 @@
 <?xml version="1.0" encoding="utf-8"?>
 <adaptive-icon xmlns:android="http://schemas.android.com/apk/res/android">
-    <background android:drawable="@color/ic_launcher_background" />
+    <background android:drawable="@drawable/ic_launcher_background" />
     <foreground android:drawable="@drawable/ic_launcher_foreground" />
-    <monochrome android:drawable="@drawable/ic_launcher_foreground" />
+    <!--
+      모노크롬(테마 아이콘)은 시스템이 한 가지 색으로 칠하므로 그라데이션이나
+      여러 색이 의미가 없다. 말풍선 실루엣만 담은 별도 도형을 쓴다.
+    -->
+    <monochrome android:drawable="@drawable/ic_launcher_mono" />
 </adaptive-icon>
