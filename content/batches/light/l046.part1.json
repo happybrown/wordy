@@ -1,0 +1,1625 @@
+[
+ {
+  "id": "conceal",
+  "headword": "conceal",
+  "ipa": "/kənˈsiːl/",
+  "level": "HIGH",
+  "isCore": false,
+  "topic": "communication",
+  "forms": [
+   "concealed",
+   "concealing",
+   "conceals"
+  ],
+  "senses": [
+   {
+    "id": "conceal-1",
+    "pos": "v",
+    "ko": "숨기다, 감추다",
+    "en": "to keep something out of sight or secret from others",
+    "nuance": "hide보다 격식 있고 보고서·기사·법정에서 쓴다. 한국 학습자가 conceal to me처럼 쓰는데 conceal은 전치사 없이 바로 목적어를 받고, '~에게 숨기다'는 conceal it from me다.",
+    "pattern": "conceal + 명사 + from + 사람",
+    "examples": [
+     {
+      "en": "The report concealed how much the project actually cost us.",
+      "ko": "그 보고서는 프로젝트에 실제로 든 비용을 숨겼어요.",
+      "focus": "report concealed how much"
+     },
+     {
+      "en": "Mina couldn't conceal her surprise when Tom walked in.",
+      "ko": "미나는 톰이 들어오자 놀란 걸 감추지 못했어.",
+      "focus": "couldn't conceal her surprise"
+     }
+    ],
+    "collocations": [
+     "conceal the truth",
+     "conceal information from"
+    ]
+   }
+  ],
+  "wordFamily": [
+   {
+    "form": "concealment",
+    "pos": "n",
+    "ko": "은폐, 숨김"
+   }
+  ],
+  "confusables": [
+   {
+    "word": "hide",
+    "note": "hide는 물건도 몸도 숨기는 일상어, conceal은 사실·감정을 덮는 격식어다."
+   },
+   {
+    "word": "conceive",
+    "note": "철자가 비슷하지만 conceive는 '생각해 내다'로 뜻이 전혀 다르다."
+   }
+  ]
+ },
+ {
+  "id": "confess",
+  "headword": "confess",
+  "ipa": "/kənˈfes/",
+  "level": "HIGH",
+  "isCore": false,
+  "topic": "communication",
+  "forms": [
+   "confessed",
+   "confesses",
+   "confessing"
+  ],
+  "senses": [
+   {
+    "id": "confess-1",
+    "pos": "v",
+    "ko": "고백하다, 자백하다",
+    "en": "to admit that you did something wrong or felt something secretly",
+    "nuance": "잘못이나 부끄러운 사실을 털어놓을 때 쓴다. 한국 학습자가 '사랑 고백'에 confess를 쓰는데 영어로는 어색하고 tell her how I feel이나 ask her out이 자연스럽다.",
+    "pattern": "confess (to) + 명사 / that절",
+    "examples": [
+     {
+      "en": "I have to confess that I forgot your birthday completely.",
+      "ko": "솔직히 말하면 네 생일을 완전히 까먹었어.",
+      "focus": "confess that I forgot"
+     },
+     {
+      "en": "He finally confessed to breaking the printer last week.",
+      "ko": "그 사람이 지난주에 프린터 망가뜨린 걸 결국 자백했어.",
+      "focus": "confessed to breaking the printer"
+     }
+    ],
+    "collocations": [
+     "confess to a crime",
+     "I have to confess"
+    ]
+   }
+  ],
+  "wordFamily": [
+   {
+    "form": "confession",
+    "pos": "n",
+    "ko": "고백, 자백"
+   }
+  ],
+  "confusables": [
+   {
+    "word": "admit",
+    "note": "admit은 마지못해 인정하는 것, confess는 스스로 무거운 것을 털어놓는 느낌이다."
+   },
+   {
+    "word": "confer",
+    "note": "confer는 '수여하다·상의하다'로 confess와 관계가 없다."
+   }
+  ]
+ },
+ {
+  "id": "confine",
+  "headword": "confine",
+  "ipa": "/kənˈfaɪn/",
+  "level": "HIGH",
+  "isCore": false,
+  "topic": "abstract_general",
+  "forms": [
+   "confined",
+   "confines",
+   "confining"
+  ],
+  "senses": [
+   {
+    "id": "confine-1",
+    "pos": "v",
+    "ko": "한정하다, 국한하다",
+    "en": "to keep something within certain limits",
+    "nuance": "회의·보고서에서 '~로만 한정하자'고 할 때 confine A to B로 쓴다. to 뒤에는 명사나 -ing가 오지 동사원형이 오지 않는다.",
+    "pattern": "confine + 명사 + to + 명사",
+    "examples": [
+     {
+      "en": "Let's confine today's discussion to the budget, not the schedule.",
+      "ko": "오늘 논의는 일정 말고 예산으로만 한정합시다.",
+      "focus": "confine today's discussion to the budget"
+     },
+     {
+      "en": "The damage was confined to one floor of the building.",
+      "ko": "피해는 건물 한 층에만 국한됐어요.",
+      "focus": "was confined to one floor"
+     }
+    ],
+    "collocations": [
+     "confine it to",
+     "be confined to bed"
+    ]
+   }
+  ],
+  "wordFamily": [
+   {
+    "form": "confinement",
+    "pos": "n",
+    "ko": "감금, 제한"
+   }
+  ],
+  "confusables": [
+   {
+    "word": "limit",
+    "note": "limit은 양·정도의 상한을 정하는 것, confine은 밖으로 못 나가게 테두리를 치는 것이다."
+   },
+   {
+    "word": "confirm",
+    "note": "철자가 비슷하지만 confirm은 '확인해 주다'로 전혀 다른 단어다."
+   }
+  ]
+ },
+ {
+  "id": "conform",
+  "headword": "conform",
+  "ipa": "/kənˈfɔːrm/",
+  "level": "HIGH",
+  "isCore": false,
+  "topic": "society_politics",
+  "forms": [
+   "conformed",
+   "conforming",
+   "conforms"
+  ],
+  "senses": [
+   {
+    "id": "conform-1",
+    "pos": "v",
+    "ko": "따르다, 맞추다",
+    "en": "to behave the way rules or most people expect",
+    "nuance": "뒤에 반드시 to가 붙어 conform to the rules라고 하지 conform the rules라고 하지 않는다. 사람 주어면 '남들처럼 굴다'는 약간 부정적 어감도 있다.",
+    "pattern": "conform to + 명사",
+    "examples": [
+     {
+      "en": "All new products must conform to these safety standards.",
+      "ko": "신제품은 모두 이 안전 기준을 따라야 합니다.",
+      "focus": "must conform to these safety standards"
+     },
+     {
+      "en": "Jun never felt any need to conform to office fashion.",
+      "ko": "준은 사무실 옷차림에 맞출 필요를 전혀 못 느꼈어.",
+      "focus": "conform to office fashion"
+     }
+    ],
+    "collocations": [
+     "conform to standards",
+     "conform to the rules"
+    ]
+   }
+  ],
+  "wordFamily": [
+   {
+    "form": "conformity",
+    "pos": "n",
+    "ko": "순응, 따름"
+   }
+  ],
+  "confusables": [
+   {
+    "word": "confirm",
+    "note": "conform은 '기준에 맞추다', confirm은 '사실을 확인하다'다. 발음도 con-FORM / con-FIRM으로 다르다."
+   },
+   {
+    "word": "obey",
+    "note": "obey는 명령에 복종하는 것, conform은 기준·관행에 자기를 맞추는 것이다."
+   }
+  ]
+ },
+ {
+  "id": "confront",
+  "headword": "confront",
+  "ipa": "/kənˈfrʌnt/",
+  "level": "HIGH",
+  "isCore": false,
+  "topic": "thinking_opinion",
+  "forms": [
+   "confronted",
+   "confronting",
+   "confronts"
+  ],
+  "senses": [
+   {
+    "id": "confront-1",
+    "pos": "v",
+    "ko": "맞서다, 직면하다",
+    "en": "to deal with a hard problem or person instead of avoiding it",
+    "nuance": "싸운다기보다 피하지 않고 정면으로 다룬다는 뜻이다. '문제에 직면하다'는 confront a problem이지 confront with a problem이 아니며, with는 be confronted with 수동형에서만 쓴다.",
+    "pattern": "confront + 명사 / be confronted with + 명사",
+    "examples": [
+     {
+      "en": "She decided to confront her manager about the unfair schedule.",
+      "ko": "그분은 불공평한 일정에 대해 팀장에게 따지기로 했어요.",
+      "focus": "confront her manager about"
+     },
+     {
+      "en": "We're confronted with a serious drop in sales this quarter.",
+      "ko": "이번 분기에 매출이 크게 떨어지는 상황에 직면했습니다.",
+      "focus": "We're confronted with a serious drop"
+     }
+    ],
+    "collocations": [
+     "confront a problem",
+     "be confronted with"
+    ]
+   }
+  ],
+  "wordFamily": [
+   {
+    "form": "confrontation",
+    "pos": "n",
+    "ko": "대립, 대결"
+   }
+  ],
+  "confusables": [
+   {
+    "word": "face",
+    "note": "face는 어려움을 겪는 상태 전반, confront는 피하지 않고 적극적으로 부딪히는 행동이다."
+   }
+  ]
+ },
+ {
+  "id": "congress",
+  "headword": "congress",
+  "ipa": "/ˈkɑːŋɡrəs/",
+  "level": "HIGH",
+  "isCore": false,
+  "topic": "society_politics",
+  "forms": [
+   "congresses"
+  ],
+  "senses": [
+   {
+    "id": "congress-1",
+    "pos": "n",
+    "ko": "의회, 국회",
+    "en": "the group of people elected to make laws, especially in the US",
+    "nuance": "미국 국회를 뜻할 때는 대문자 Congress로 쓰고 관사를 붙이지 않는 경우가 많다. 한국 국회는 the National Assembly라고 하지 congress라고 하지 않는다.",
+    "pattern": "Congress + 단수 동사",
+    "examples": [
+     {
+      "en": "Congress has not agreed on the new budget yet.",
+      "ko": "의회는 아직 새 예산에 합의하지 못했습니다.",
+      "focus": "Congress has not agreed"
+     },
+     {
+      "en": "The bill passed Congress but the president may reject it.",
+      "ko": "그 법안은 의회를 통과했지만 대통령이 거부할 수도 있어요.",
+      "focus": "passed Congress"
+     }
+    ],
+    "collocations": [
+     "a member of Congress",
+     "pass Congress"
+    ]
+   },
+   {
+    "id": "congress-2",
+    "pos": "n",
+    "ko": "대회, 학술 대회",
+    "en": "a large formal meeting of experts from many countries",
+    "nuance": "학술 분야에서 conference보다 크고 국제적인 정기 대회를 가리킨다. 이 뜻일 때는 소문자로 쓰고 a world congress처럼 관사를 붙인다.",
+    "examples": [
+     {
+      "en": "Emma is presenting her research at a medical congress in London.",
+      "ko": "엠마는 런던에서 열리는 의학 대회에서 연구를 발표해.",
+      "focus": "at a medical congress"
+     }
+    ]
+   }
+  ],
+  "wordFamily": [
+   {
+    "form": "congressional",
+    "pos": "adj",
+    "ko": "의회의"
+   }
+  ],
+  "confusables": [
+   {
+    "word": "parliament",
+    "note": "parliament는 영국식 의회, congress는 미국식 의회다. 나라에 따라 이름이 다르다."
+   }
+  ]
+ },
+ {
+  "id": "conscience",
+  "headword": "conscience",
+  "ipa": "/ˈkɑːnʃəns/",
+  "level": "HIGH",
+  "isCore": false,
+  "topic": "emotions_personality",
+  "senses": [
+   {
+    "id": "conscience-1",
+    "pos": "n",
+    "ko": "양심",
+    "en": "the feeling inside that tells you if your actions are right",
+    "nuance": "보통 a clear conscience, a guilty conscience처럼 소유격이나 관사와 함께 쓴다. conscious와 발음이 다르니(CON-shəns) 주의한다.",
+    "pattern": "have a clear conscience",
+    "examples": [
+     {
+      "en": "I returned the extra change so my conscience would be clear.",
+      "ko": "양심에 걸릴 것 없게 거스름돈 더 받은 걸 돌려줬어.",
+      "focus": "my conscience would be clear"
+     },
+     {
+      "en": "His conscience wouldn't let him take credit for her work.",
+      "ko": "그는 양심상 그분 성과를 자기 공으로 돌릴 수 없었어요.",
+      "focus": "His conscience wouldn't let him"
+     }
+    ],
+    "collocations": [
+     "a guilty conscience",
+     "a clear conscience"
+    ]
+   }
+  ],
+  "confusables": [
+   {
+    "word": "conscious",
+    "note": "conscience는 명사 '양심', conscious는 형용사 '의식이 있는'이다. 철자 sci 뒤가 -ence인지 -ous인지로 구분한다."
+   }
+  ],
+  "memoryHook": "con(함께) + science(앎) — '나와 함께 아는 것'이 양심이다."
+ },
+ {
+  "id": "conscious",
+  "headword": "conscious",
+  "ipa": "/ˈkɑːnʃəs/",
+  "level": "HIGH",
+  "isCore": false,
+  "topic": "thinking_opinion",
+  "senses": [
+   {
+    "id": "conscious-1",
+    "pos": "adj",
+    "ko": "의식하는, 알고 있는",
+    "en": "noticing or aware that something exists or is happening",
+    "nuance": "be conscious of + 명사 형태가 기본이고 뒤에 that절도 온다. 한국 학습자가 I conscious it이라고 쓰는데 반드시 be동사와 of가 필요하다.",
+    "pattern": "be conscious of + 명사",
+    "examples": [
+     {
+      "en": "I was conscious of everyone watching me during the presentation.",
+      "ko": "발표하는 동안 다들 날 보고 있다는 게 의식됐어요.",
+      "focus": "was conscious of everyone watching"
+     },
+     {
+      "en": "We made a conscious effort to cut paper use this year.",
+      "ko": "올해는 의식적으로 종이 사용을 줄이려고 노력했습니다.",
+      "focus": "made a conscious effort"
+     }
+    ],
+    "collocations": [
+     "be conscious of",
+     "a conscious effort"
+    ]
+   },
+   {
+    "id": "conscious-2",
+    "pos": "adj",
+    "ko": "의식이 있는, 깨어 있는",
+    "en": "awake and able to understand what is happening",
+    "nuance": "병원·사고 상황에서 기절하지 않고 깨어 있는 상태를 말한다. 잠에서 깬 것은 awake라고 하지 conscious를 쓰지 않는다.",
+    "examples": [
+     {
+      "en": "The driver was still conscious when the ambulance arrived.",
+      "ko": "구급차가 도착했을 때 운전자는 아직 의식이 있었어요.",
+      "focus": "was still conscious"
+     }
+    ]
+   }
+  ],
+  "wordFamily": [
+   {
+    "form": "consciousness",
+    "pos": "n",
+    "ko": "의식"
+   },
+   {
+    "form": "consciously",
+    "pos": "adv",
+    "ko": "의식적으로"
+   }
+  ],
+  "confusables": [
+   {
+    "word": "conscience",
+    "note": "conscious는 '의식하는' 형용사, conscience는 '양심' 명사다."
+   },
+   {
+    "word": "aware",
+    "note": "aware는 정보를 알고 있다는 뜻이 강하고, conscious는 느끼고 신경 쓴다는 쪽에 가깝다."
+   }
+  ]
+ },
+ {
+  "id": "controversy",
+  "headword": "controversy",
+  "ipa": "/ˈkɑːntrəvɜːrsi/",
+  "level": "HIGH",
+  "isCore": false,
+  "topic": "society_politics",
+  "forms": [
+   "controversies"
+  ],
+  "senses": [
+   {
+    "id": "controversy-1",
+    "pos": "n",
+    "ko": "논란, 논쟁",
+    "en": "strong public disagreement about something over a long time",
+    "nuance": "여러 사람이 오래 다투는 '논란'이라 cause·spark controversy와 잘 붙는다. 단순한 말다툼은 argument이고 controversy를 쓰면 과장이 된다.",
+    "pattern": "cause controversy over + 명사",
+    "examples": [
+     {
+      "en": "The new parking fee caused a lot of controversy online.",
+      "ko": "새 주차 요금이 온라인에서 큰 논란을 일으켰어요.",
+      "focus": "caused a lot of controversy"
+     },
+     {
+      "en": "There's still controversy over who should pay for repairs.",
+      "ko": "수리비를 누가 내야 하는지를 두고 아직 논란이 있어요.",
+      "focus": "controversy over who should pay"
+     }
+    ],
+    "collocations": [
+     "cause controversy",
+     "spark a controversy"
+    ]
+   }
+  ],
+  "wordFamily": [
+   {
+    "form": "controversial",
+    "pos": "adj",
+    "ko": "논란이 많은"
+   }
+  ],
+  "confusables": [
+   {
+    "word": "argument",
+    "note": "argument는 사람들 사이의 한 번의 말다툼, controversy는 사회적으로 오래 가는 논란이다."
+   },
+   {
+    "word": "contrast",
+    "note": "철자가 비슷해 헷갈리지만 contrast는 '대조'로 다툼과 무관하다."
+   }
+  ]
+ },
+ {
+  "id": "convict",
+  "headword": "convict",
+  "ipa": "/kənˈvɪkt/",
+  "level": "HIGH",
+  "isCore": false,
+  "topic": "society_politics",
+  "forms": [
+   "convicted",
+   "convicting",
+   "convicts"
+  ],
+  "senses": [
+   {
+    "id": "convict-1",
+    "pos": "v",
+    "ko": "유죄를 선고하다",
+    "en": "to decide in a court that someone is guilty of a crime",
+    "nuance": "법원이 주어가 되므로 실제로는 be convicted of 수동형으로 훨씬 자주 쓴다. of 뒤에는 죄명이 오며 for를 쓰면 틀린다.",
+    "pattern": "be convicted of + 죄명",
+    "examples": [
+     {
+      "en": "He was convicted of fraud and lost his business licence.",
+      "ko": "그 사람은 사기죄로 유죄를 받고 사업 허가를 잃었어요.",
+      "focus": "was convicted of fraud"
+     },
+     {
+      "en": "The court convicted both drivers after reviewing the video.",
+      "ko": "법원은 영상을 검토한 뒤 운전자 두 명 모두에게 유죄를 선고했습니다.",
+      "focus": "court convicted both drivers"
+     }
+    ],
+    "collocations": [
+     "be convicted of a crime",
+     "convict someone of"
+    ]
+   }
+  ],
+  "wordFamily": [
+   {
+    "form": "conviction",
+    "pos": "n",
+    "ko": "유죄 판결, 확신"
+   }
+  ],
+  "confusables": [
+   {
+    "word": "accuse",
+    "note": "accuse는 '혐의를 제기하다'로 재판 전, convict는 재판에서 유죄가 확정된 것이다."
+   },
+   {
+    "word": "conflict",
+    "note": "철자가 비슷하지만 conflict는 '갈등'이고 법정과 무관하다."
+   }
+  ]
+ },
+ {
+  "id": "cooperate",
+  "headword": "cooperate",
+  "ipa": "/koʊˈɑːpəreɪt/",
+  "level": "HIGH",
+  "isCore": false,
+  "topic": "work_business",
+  "forms": [
+   "cooperated",
+   "cooperates",
+   "cooperating"
+  ],
+  "senses": [
+   {
+    "id": "cooperate-1",
+    "pos": "v",
+    "ko": "협력하다, 협조하다",
+    "en": "to work together with others to reach a shared goal",
+    "nuance": "자동사라 목적어를 바로 받지 못하고 cooperate with + 사람으로 쓴다. 한국 학습자가 cooperate the team이라고 쓰기 쉬운데 with가 반드시 필요하다.",
+    "pattern": "cooperate with + 사람/조직",
+    "examples": [
+     {
+      "en": "Both teams cooperated closely to finish the report on time.",
+      "ko": "두 팀이 긴밀히 협력해서 보고서를 제때 끝냈어요.",
+      "focus": "cooperated closely to finish"
+     },
+     {
+      "en": "If you cooperate with us, this will go much faster.",
+      "ko": "협조해 주시면 훨씬 빨리 진행될 겁니다.",
+      "focus": "cooperate with us"
+     }
+    ],
+    "collocations": [
+     "cooperate with",
+     "cooperate fully"
+    ]
+   }
+  ],
+  "wordFamily": [
+   {
+    "form": "cooperation",
+    "pos": "n",
+    "ko": "협력"
+   },
+   {
+    "form": "cooperative",
+    "pos": "adj",
+    "ko": "협조적인"
+   }
+  ],
+  "confusables": [
+   {
+    "word": "corporate",
+    "note": "cooperate는 동사 '협력하다', corporate는 형용사 '기업의'다. 강세도 co-OP-erate / COR-porate로 다르다."
+   },
+   {
+    "word": "collaborate",
+    "note": "collaborate는 같이 무언가를 만들어 내는 것, cooperate는 그냥 순순히 도와주는 쪽도 포함한다."
+   }
+  ]
+ },
+ {
+  "id": "cord",
+  "headword": "cord",
+  "ipa": "/kɔːrd/",
+  "level": "HIGH",
+  "isCore": false,
+  "topic": "home_daily",
+  "forms": [
+   "cords"
+  ],
+  "senses": [
+   {
+    "id": "cord-1",
+    "pos": "n",
+    "ko": "전선, 줄",
+    "en": "a thick string, or a covered wire that carries electricity",
+    "nuance": "가전제품에 붙은 전기 줄은 cord라고 하고, 데이터용은 cable이라고 한다. 한국에서 쓰는 '코드 꽂다'는 영어로 plug it in이고 put the cord라고 하지 않는다.",
+    "pattern": "unplug the cord",
+    "examples": [
+     {
+      "en": "The power cord is too short to reach that outlet.",
+      "ko": "전선이 짧아서 저 콘센트까지 안 닿아.",
+      "focus": "The power cord is too short"
+     },
+     {
+      "en": "Please tie up the cords so nobody trips over them.",
+      "ko": "누가 걸려 넘어지지 않게 줄 좀 묶어 주세요.",
+      "focus": "tie up the cords"
+     }
+    ],
+    "collocations": [
+     "a power cord",
+     "an extension cord"
+    ]
+   }
+  ],
+  "confusables": [
+   {
+    "word": "chord",
+    "note": "발음은 같지만 chord는 음악의 '화음'이고 cord는 '줄·전선'이다."
+   },
+   {
+    "word": "cable",
+    "note": "cable은 데이터·통신용 굵은 선, cord는 가전에 달린 전원 줄을 주로 가리킨다."
+   }
+  ]
+ },
+ {
+  "id": "corrupt",
+  "headword": "corrupt",
+  "ipa": "/kəˈrʌpt/",
+  "level": "HIGH",
+  "isCore": false,
+  "topic": "society_politics",
+  "senses": [
+   {
+    "id": "corrupt-1",
+    "pos": "adj",
+    "ko": "부패한, 부정한",
+    "en": "willing to act dishonestly in return for money or power",
+    "nuance": "권력이나 돈을 쥔 사람·조직에 쓰지, 단순히 나쁜 사람에게는 쓰지 않는다. 비교급은 corrupter가 아니라 more corrupt로 만든다.",
+    "pattern": "a corrupt + 사람/조직",
+    "examples": [
+     {
+      "en": "The report named several corrupt officials in the city government.",
+      "ko": "보고서는 시청의 부패한 공무원 몇 명을 지목했습니다.",
+      "focus": "several corrupt officials"
+     },
+     {
+      "en": "People stopped trusting the company after the corrupt deal appeared.",
+      "ko": "부정한 거래가 드러난 뒤 사람들이 그 회사를 안 믿게 됐어요.",
+      "focus": "after the corrupt deal"
+     }
+    ],
+    "collocations": [
+     "a corrupt official",
+     "corrupt practices"
+    ]
+   }
+  ],
+  "wordFamily": [
+   {
+    "form": "corruption",
+    "pos": "n",
+    "ko": "부패, 부정"
+   }
+  ],
+  "confusables": [
+   {
+    "word": "correct",
+    "note": "철자가 비슷하지만 correct는 '올바른'으로 뜻이 정반대에 가깝다."
+   },
+   {
+    "word": "dishonest",
+    "note": "dishonest는 개인이 거짓말하는 것, corrupt는 지위를 이용해 돈을 챙기는 것이다."
+   }
+  ]
+ },
+ {
+  "id": "costume",
+  "headword": "costume",
+  "ipa": "/ˈkɑːstuːm/",
+  "level": "HIGH",
+  "isCore": false,
+  "topic": "culture_arts",
+  "forms": [
+   "costumes"
+  ],
+  "senses": [
+   {
+    "id": "costume-1",
+    "pos": "n",
+    "ko": "분장 의상, 복장",
+    "en": "special clothes worn to look like someone else, or by actors",
+    "nuance": "연극·핼러윈처럼 다른 사람으로 보이려고 입는 옷이지 평상복이 아니다. 한국에서 '코스튬'을 예쁜 옷 전반에 쓰기도 하는데 영어로는 outfit이 맞다.",
+    "pattern": "wear a costume",
+    "examples": [
+     {
+      "en": "Tom wore a dinosaur costume to his nephew's birthday party.",
+      "ko": "톰은 조카 생일 파티에 공룡 의상을 입고 갔어.",
+      "focus": "wore a dinosaur costume"
+     },
+     {
+      "en": "The stage costumes took three months to design and sew.",
+      "ko": "무대 의상은 디자인하고 만드는 데 석 달 걸렸어요.",
+      "focus": "The stage costumes"
+     }
+    ],
+    "collocations": [
+     "wear a costume",
+     "a costume party"
+    ]
+   }
+  ],
+  "confusables": [
+   {
+    "word": "outfit",
+    "note": "outfit은 실제로 입는 한 벌의 옷차림, costume은 역할을 위한 분장 의상이다."
+   },
+   {
+    "word": "custom",
+    "note": "custom은 '관습'이고 costume은 '의상'이다. 철자 순서를 헷갈리기 쉽다."
+   }
+  ]
+ },
+ {
+  "id": "cottage",
+  "headword": "cottage",
+  "ipa": "/ˈkɑːtɪdʒ/",
+  "level": "HIGH",
+  "isCore": false,
+  "topic": "travel_transport",
+  "forms": [
+   "cottages"
+  ],
+  "senses": [
+   {
+    "id": "cottage-1",
+    "pos": "n",
+    "ko": "시골 작은 집, 별장",
+    "en": "a small simple house, usually in the country or by a lake",
+    "nuance": "도시 아파트가 아니라 시골이나 호숫가의 작고 아늑한 집을 가리킨다. 한국의 '펜션'은 영어에서 pension이 아니라 a cottage나 a guesthouse라고 해야 통한다.",
+    "pattern": "rent a cottage",
+    "examples": [
+     {
+      "en": "We rented a small cottage by the lake for the weekend.",
+      "ko": "주말 동안 호숫가에 있는 작은 집을 빌렸어.",
+      "focus": "rented a small cottage"
+     },
+     {
+      "en": "Her grandparents still live in a stone cottage outside town.",
+      "ko": "그분 조부모님은 아직 시내 밖 돌집에 사세요.",
+      "focus": "in a stone cottage"
+     }
+    ],
+    "collocations": [
+     "a country cottage",
+     "rent a cottage"
+    ]
+   }
+  ],
+  "confusables": [
+   {
+    "word": "cabin",
+    "note": "cabin은 통나무로 지은 산속 오두막 느낌, cottage는 시골 마을의 아담한 집이다."
+   }
+  ]
+ },
+ {
+  "id": "courage",
+  "headword": "courage",
+  "ipa": "/ˈkɜːrɪdʒ/",
+  "level": "HIGH",
+  "isCore": false,
+  "topic": "emotions_personality",
+  "senses": [
+   {
+    "id": "courage-1",
+    "pos": "n",
+    "ko": "용기",
+    "en": "the strength to do something hard or frightening",
+    "nuance": "불가산 명사라 a courage나 courages라고 하지 않고 the courage to + 동사원형으로 쓴다. '용기 내다'는 have courage보다 work up the courage가 더 자연스럽다.",
+    "pattern": "have the courage to + 동사원형",
+    "examples": [
+     {
+      "en": "It took real courage to admit the mistake in front of everyone.",
+      "ko": "모두 앞에서 실수를 인정하는 데는 진짜 용기가 필요했어요.",
+      "focus": "took real courage to admit"
+     },
+     {
+      "en": "I finally found the courage to ask for a raise.",
+      "ko": "드디어 용기 내서 임금 인상을 요청했어.",
+      "focus": "found the courage to ask"
+     }
+    ],
+    "collocations": [
+     "have the courage to",
+     "take courage"
+    ]
+   }
+  ],
+  "wordFamily": [
+   {
+    "form": "courageous",
+    "pos": "adj",
+    "ko": "용감한"
+   },
+   {
+    "form": "encourage",
+    "pos": "v",
+    "ko": "격려하다"
+   }
+  ],
+  "confusables": [
+   {
+    "word": "bravery",
+    "note": "bravery는 위험 앞에서 겁내지 않는 행동, courage는 두려워도 해내는 마음의 힘이다."
+   },
+   {
+    "word": "confidence",
+    "note": "confidence는 '잘할 수 있다'는 자신감, courage는 무서워도 하는 용기다."
+   }
+  ]
+ },
+ {
+  "id": "cowboy",
+  "headword": "cowboy",
+  "ipa": "/ˈkaʊbɔɪ/",
+  "level": "HIGH",
+  "isCore": false,
+  "topic": "culture_arts",
+  "forms": [
+   "cowboys"
+  ],
+  "senses": [
+   {
+    "id": "cowboy-1",
+    "pos": "n",
+    "ko": "카우보이, 목동",
+    "en": "a man who rides a horse and looks after cattle, especially in the US",
+    "nuance": "실제 직업이기도 하지만 보통 서부 영화 이미지로 쓴다. cowboy boots, cowboy hat처럼 앞에 붙어 스타일을 가리키는 쓰임이 일상에서는 더 흔하다.",
+    "pattern": "cowboy + 명사",
+    "examples": [
+     {
+      "en": "Emma bought cowboy boots for the country music festival.",
+      "ko": "엠마는 컨트리 음악 축제에 신으려고 카우보이 부츠를 샀어.",
+      "focus": "bought cowboy boots"
+     },
+     {
+      "en": "The film follows a young cowboy crossing Texas alone.",
+      "ko": "그 영화는 텍사스를 홀로 건너는 젊은 카우보이를 따라가요.",
+      "focus": "a young cowboy crossing Texas"
+     }
+    ],
+    "collocations": [
+     "cowboy boots",
+     "a cowboy hat"
+    ]
+   }
+  ],
+  "confusables": [
+   {
+    "word": "farmer",
+    "note": "farmer는 농사를 짓는 사람, cowboy는 말을 타고 소 떼를 돌보는 사람이다."
+   }
+  ]
+ },
+ {
+  "id": "crawl",
+  "headword": "crawl",
+  "ipa": "/krɔːl/",
+  "level": "HIGH",
+  "isCore": false,
+  "topic": "movement_action",
+  "forms": [
+   "crawled",
+   "crawling",
+   "crawls"
+  ],
+  "senses": [
+   {
+    "id": "crawl-1",
+    "pos": "v",
+    "ko": "기다, 기어가다",
+    "en": "to move forward on your hands and knees, or very close to the ground",
+    "nuance": "아기·벌레가 바닥에 붙어 움직이는 동작이다. 수영의 '자유형'을 한국에서 '크롤'이라 부르지만 영어로는 do the crawl 또는 freestyle이라고 해야 한다.",
+    "pattern": "crawl + 전치사(under, into)",
+    "examples": [
+     {
+      "en": "The baby crawled under the table and grabbed my shoe.",
+      "ko": "아기가 식탁 밑으로 기어가서 내 신발을 잡았어.",
+      "focus": "crawled under the table"
+     },
+     {
+      "en": "I was so tired I just crawled into bed at eight.",
+      "ko": "너무 피곤해서 여덟 시에 그냥 침대로 기어들어 갔어.",
+      "focus": "crawled into bed"
+     }
+    ],
+    "collocations": [
+     "crawl into bed",
+     "crawl on the floor"
+    ]
+   },
+   {
+    "id": "crawl-2",
+    "pos": "v",
+    "ko": "아주 느리게 가다",
+    "en": "to move much more slowly than normal, especially in traffic",
+    "nuance": "차·줄이 답답할 만큼 느릴 때 쓰며 짜증이 섞인 표현이다. 걷는 속도보다 느리다는 과장이라 실제로 기어간다는 뜻은 아니다.",
+    "examples": [
+     {
+      "en": "Traffic was crawling along the bridge for almost an hour.",
+      "ko": "다리 위 차들이 거의 한 시간 동안 기어갔어요.",
+      "focus": "Traffic was crawling along"
+     }
+    ]
+   }
+  ],
+  "confusables": [
+   {
+    "word": "creep",
+    "note": "creep은 들키지 않으려고 살금살금 움직이는 것, crawl은 바닥에 붙어 기는 동작이다."
+   }
+  ]
+ },
+ {
+  "id": "credible",
+  "headword": "credible",
+  "ipa": "/ˈkredəbl/",
+  "level": "HIGH",
+  "isCore": false,
+  "topic": "thinking_opinion",
+  "senses": [
+   {
+    "id": "credible-1",
+    "pos": "adj",
+    "ko": "믿을 만한, 신뢰가 가는",
+    "en": "likely to be true, or able to be trusted",
+    "nuance": "정보·증거·출처에 주로 쓰고 사람에게 쓰면 '말에 신빙성이 있다'는 뜻이다. 사람의 성격이 착실하다는 뜻으로는 reliable을 쓴다.",
+    "pattern": "a credible + 명사",
+    "examples": [
+     {
+      "en": "We need a credible source before we publish this number.",
+      "ko": "이 수치를 내보내기 전에 믿을 만한 출처가 필요해요.",
+      "focus": "a credible source"
+     },
+     {
+      "en": "His explanation sounded credible until we checked the dates.",
+      "ko": "그 사람 설명은 날짜를 확인하기 전까지는 믿을 만하게 들렸어요.",
+      "focus": "sounded credible"
+     }
+    ],
+    "collocations": [
+     "a credible source",
+     "credible evidence"
+    ]
+   }
+  ],
+  "wordFamily": [
+   {
+    "form": "credibility",
+    "pos": "n",
+    "ko": "신뢰성"
+   },
+   {
+    "form": "incredible",
+    "pos": "adj",
+    "ko": "믿기 힘든, 엄청난"
+   }
+  ],
+  "confusables": [
+   {
+    "word": "reliable",
+    "note": "reliable은 사람·기계가 꾸준히 제 역할을 하는 것, credible은 내용이 사실 같다는 뜻이다."
+   },
+   {
+    "word": "incredible",
+    "note": "in-이 붙으면 '안 믿긴다'가 아니라 보통 '엄청나다'는 칭찬으로 쓰인다."
+   }
+  ]
+ },
+ {
+  "id": "cricket",
+  "headword": "cricket",
+  "ipa": "/ˈkrɪkɪt/",
+  "level": "HIGH",
+  "isCore": false,
+  "topic": "sports_leisure",
+  "forms": [
+   "crickets"
+  ],
+  "senses": [
+   {
+    "id": "cricket-1",
+    "pos": "n",
+    "ko": "크리켓 (경기)",
+    "en": "a team ball game played with a bat, popular in England and India",
+    "nuance": "운동 이름이라 관사 없이 play cricket이라고 한다. a cricket이라고 하면 곤충 귀뚜라미가 되어 버린다.",
+    "pattern": "play cricket",
+    "examples": [
+     {
+      "en": "My coworkers in London watch cricket all weekend in summer.",
+      "ko": "런던 동료들은 여름 주말 내내 크리켓을 봐요.",
+      "focus": "watch cricket all weekend"
+     },
+     {
+      "en": "Jun learned to play cricket while studying abroad.",
+      "ko": "준은 유학하면서 크리켓 하는 법을 배웠어.",
+      "focus": "play cricket"
+     }
+    ],
+    "collocations": [
+     "play cricket",
+     "a cricket match"
+    ]
+   },
+   {
+    "id": "cricket-2",
+    "pos": "n",
+    "ko": "귀뚜라미",
+    "en": "a small brown insect that makes a loud sound at night",
+    "nuance": "이 뜻일 때는 가산명사라 a cricket, crickets로 쓴다. 영어권에서는 '아무 반응이 없다'를 농담으로 crickets 한 단어로 표현하기도 한다.",
+    "examples": [
+     {
+      "en": "The crickets outside my window kept me awake all night.",
+      "ko": "창밖 귀뚜라미 소리 때문에 밤새 못 잤어.",
+      "focus": "The crickets outside my window"
+     }
+    ]
+   }
+  ],
+  "confusables": [
+   {
+    "word": "grasshopper",
+    "note": "grasshopper는 낮에 뛰는 메뚜기, cricket은 밤에 우는 귀뚜라미다."
+   }
+  ]
+ },
+ {
+  "id": "crisp",
+  "headword": "crisp",
+  "ipa": "/krɪsp/",
+  "level": "HIGH",
+  "isCore": false,
+  "topic": "food_cooking",
+  "senses": [
+   {
+    "id": "crisp-1",
+    "pos": "adj",
+    "ko": "바삭한",
+    "en": "pleasantly hard and dry, so it breaks with a sharp sound",
+    "nuance": "갓 튀긴 음식이나 신선한 채소의 좋은 식감을 칭찬할 때 쓴다. 한국 학습자가 crispy만 아는데 crisp가 더 격식 있고 메뉴판에 자주 보인다.",
+    "pattern": "crisp + 음식 명사",
+    "examples": [
+     {
+      "en": "The chicken came out crisp on the outside and juicy inside.",
+      "ko": "치킨이 겉은 바삭하고 속은 촉촉하게 나왔어.",
+      "focus": "came out crisp on the outside"
+     },
+     {
+      "en": "I like my toast really crisp, almost burnt.",
+      "ko": "난 토스트를 거의 탈 정도로 바삭하게 먹는 걸 좋아해.",
+      "focus": "my toast really crisp"
+     }
+    ],
+    "collocations": [
+     "crisp bacon",
+     "nice and crisp"
+    ]
+   },
+   {
+    "id": "crisp-2",
+    "pos": "adj",
+    "ko": "상쾌한, 쌀쌀한",
+    "en": "cool, dry and fresh, used about air or weather",
+    "nuance": "가을 아침처럼 서늘하면서 기분 좋은 공기를 말한다. cold는 불평이 섞이지만 crisp는 긍정적인 묘사다.",
+    "examples": [
+     {
+      "en": "It was a crisp autumn morning, perfect for walking to work.",
+      "ko": "출근길 걷기 딱 좋은 상쾌한 가을 아침이었어.",
+      "focus": "a crisp autumn morning"
+     }
+    ]
+   }
+  ],
+  "wordFamily": [
+   {
+    "form": "crispy",
+    "pos": "adj",
+    "ko": "바삭한"
+   }
+  ],
+  "confusables": [
+   {
+    "word": "crunchy",
+    "note": "crunchy는 견과류처럼 씹을 때 오독오독, crisp는 얇고 가볍게 부서지는 식감이다."
+   }
+  ]
+ },
+ {
+  "id": "cruel",
+  "headword": "cruel",
+  "ipa": "/ˈkruːəl/",
+  "level": "HIGH",
+  "isCore": false,
+  "topic": "emotions_personality",
+  "senses": [
+   {
+    "id": "cruel-1",
+    "pos": "adj",
+    "ko": "잔인한, 모진",
+    "en": "causing pain to people or animals without caring",
+    "nuance": "be cruel to + 대상 형태로 쓰며 전치사 to를 빠뜨리기 쉽다. mean보다 훨씬 무거운 말이라 가벼운 장난에는 쓰지 않는다.",
+    "pattern": "be cruel to + 사람/동물",
+    "examples": [
+     {
+      "en": "It felt cruel to leave the dog alone that long.",
+      "ko": "개를 그렇게 오래 혼자 두는 건 잔인하게 느껴졌어.",
+      "focus": "felt cruel to leave the dog"
+     },
+     {
+      "en": "Telling her the news by text was a cruel way to do it.",
+      "ko": "그 소식을 문자로 알린 건 모진 방식이었어요.",
+      "focus": "was a cruel way"
+     }
+    ],
+    "collocations": [
+     "be cruel to animals",
+     "a cruel joke"
+    ]
+   }
+  ],
+  "wordFamily": [
+   {
+    "form": "cruelty",
+    "pos": "n",
+    "ko": "잔인함, 학대"
+   },
+   {
+    "form": "cruelly",
+    "pos": "adv",
+    "ko": "잔인하게"
+   }
+  ],
+  "confusables": [
+   {
+    "word": "mean",
+    "note": "mean은 말이나 태도가 못된 정도, cruel은 실제로 큰 고통을 주는 심각한 수준이다."
+   }
+  ]
+ },
+ {
+  "id": "cruise",
+  "headword": "cruise",
+  "ipa": "/kruːz/",
+  "level": "HIGH",
+  "isCore": false,
+  "topic": "travel_transport",
+  "forms": [
+   "cruised",
+   "cruises",
+   "cruising"
+  ],
+  "senses": [
+   {
+    "id": "cruise-1",
+    "pos": "n",
+    "ko": "유람선 여행",
+    "en": "a holiday on a large ship that stops at several places",
+    "nuance": "배 자체가 아니라 '배로 하는 여행'이다. 배는 a cruise ship이라고 하고, '유람선을 타다'는 take a cruise 또는 go on a cruise라고 한다.",
+    "pattern": "go on a cruise",
+    "examples": [
+     {
+      "en": "My parents went on a two-week cruise around the Mediterranean.",
+      "ko": "부모님이 지중해를 도는 2주짜리 유람선 여행을 가셨어.",
+      "focus": "went on a two-week cruise"
+     },
+     {
+      "en": "We're thinking about taking a cruise instead of flying somewhere.",
+      "ko": "어디 비행기로 가는 대신 유람선 여행을 할까 생각 중이야.",
+      "focus": "taking a cruise"
+     }
+    ],
+    "collocations": [
+     "go on a cruise",
+     "a cruise ship"
+    ]
+   },
+   {
+    "id": "cruise-2",
+    "pos": "v",
+    "ko": "순항하다, 천천히 달리다",
+    "en": "to travel at a steady comfortable speed without effort",
+    "nuance": "속도를 일정하게 유지하며 편하게 간다는 뜻이라 급하게 달린다는 말이 아니다. 자동차의 cruise control도 이 뜻에서 나왔다.",
+    "examples": [
+     {
+      "en": "We cruised along the coast road with the windows down.",
+      "ko": "창문 열고 해안 도로를 여유롭게 달렸어.",
+      "focus": "cruised along the coast road"
+     }
+    ]
+   }
+  ],
+  "confusables": [
+   {
+    "word": "voyage",
+    "note": "voyage는 목적지로 가는 긴 항해, cruise는 즐기려고 돌아다니는 배 여행이다."
+   }
+  ]
+ },
+ {
+  "id": "crush",
+  "headword": "crush",
+  "ipa": "/krʌʃ/",
+  "level": "HIGH",
+  "isCore": false,
+  "topic": "emotions_personality",
+  "forms": [
+   "crushed",
+   "crushes",
+   "crushing"
+  ],
+  "senses": [
+   {
+    "id": "crush-1",
+    "pos": "n",
+    "ko": "반함, 짝사랑",
+    "en": "a strong short feeling of love for someone you hardly know",
+    "nuance": "have a crush on + 사람이 통째로 굳은 표현이라 to나 for를 쓰면 틀린다. 진지한 연애가 아니라 잠깐 설레는 감정을 가리킨다.",
+    "pattern": "have a crush on + 사람",
+    "examples": [
+     {
+      "en": "I think Mina has a crush on the new barista.",
+      "ko": "미나가 새로 온 바리스타한테 반한 것 같아.",
+      "focus": "has a crush on"
+     },
+     {
+      "en": "He had a crush on her back in high school.",
+      "ko": "걔는 고등학교 때 그 애를 짝사랑했어.",
+      "focus": "had a crush on her"
+     }
+    ],
+    "collocations": [
+     "have a crush on"
+    ]
+   },
+   {
+    "id": "crush-2",
+    "pos": "v",
+    "ko": "으깨다, 짓누르다",
+    "en": "to press something hard so it breaks or loses its shape",
+    "nuance": "위에서 눌러 형태가 망가지는 것이라 마늘·캔·상자에 쓴다. 손으로 쥐어 구기는 종이는 crumple이 더 정확하다.",
+    "examples": [
+     {
+      "en": "Crush two cloves of garlic and add them to the pan.",
+      "ko": "마늘 두 쪽을 으깨서 팬에 넣어.",
+      "focus": "Crush two cloves of garlic"
+     },
+     {
+      "en": "My box of cookies got crushed at the bottom of the bag.",
+      "ko": "가방 밑에서 과자 상자가 눌려 찌그러졌어.",
+      "focus": "got crushed at the bottom"
+     }
+    ]
+   }
+  ],
+  "confusables": [
+   {
+    "word": "squeeze",
+    "note": "squeeze는 눌러 짜내는 것, crush는 눌러 부수거나 찌그러뜨리는 것이다."
+   }
+  ]
+ },
+ {
+  "id": "crystal",
+  "headword": "crystal",
+  "ipa": "/ˈkrɪstl/",
+  "level": "HIGH",
+  "isCore": false,
+  "topic": "environment_science",
+  "forms": [
+   "crystals"
+  ],
+  "senses": [
+   {
+    "id": "crystal-1",
+    "pos": "n",
+    "ko": "결정, 수정",
+    "en": "a small hard piece of a substance with a regular shape",
+    "nuance": "소금·설탕·얼음처럼 규칙적인 모양으로 굳은 알갱이를 말하며 보통 복수로 쓴다. 유리 그릇을 뜻할 때는 불가산이라 made of crystal이라고 한다.",
+    "pattern": "form crystals",
+    "examples": [
+     {
+      "en": "Ice crystals formed on the inside of the car window.",
+      "ko": "차창 안쪽에 얼음 결정이 생겼어.",
+      "focus": "Ice crystals formed"
+     },
+     {
+      "en": "Under the microscope you can see the salt crystals clearly.",
+      "ko": "현미경으로 보면 소금 결정이 또렷하게 보여요.",
+      "focus": "see the salt crystals clearly"
+     }
+    ],
+    "collocations": [
+     "ice crystals",
+     "crystal clear"
+    ]
+   }
+  ],
+  "confusables": [
+   {
+    "word": "glass",
+    "note": "glass는 일반 유리, crystal은 납이 들어가 반짝이는 고급 유리나 광물 결정이다."
+   }
+  ],
+  "memoryHook": "crystal clear는 '수정처럼 투명한' → '아주 분명한'이라는 뜻으로 자주 쓴다."
+ },
+ {
+  "id": "cultivate",
+  "headword": "cultivate",
+  "ipa": "/ˈkʌltɪveɪt/",
+  "level": "HIGH",
+  "isCore": false,
+  "topic": "nature_animals",
+  "forms": [
+   "cultivated",
+   "cultivates",
+   "cultivating"
+  ],
+  "senses": [
+   {
+    "id": "cultivate-1",
+    "pos": "v",
+    "ko": "재배하다, 경작하다",
+    "en": "to prepare land and grow plants on it",
+    "nuance": "grow보다 격식 있고 농업·연구 맥락에서 쓴다. 집에서 화분에 키우는 것은 cultivate가 아니라 grow라고 하는 편이 자연스럽다.",
+    "pattern": "cultivate + 작물/땅",
+    "examples": [
+     {
+      "en": "Farmers here have cultivated rice for over three hundred years.",
+      "ko": "이곳 농부들은 삼백 년 넘게 쌀을 재배해 왔어요.",
+      "focus": "have cultivated rice"
+     },
+     {
+      "en": "The land is too dry to cultivate without irrigation.",
+      "ko": "그 땅은 관개 없이는 경작하기에 너무 건조해요.",
+      "focus": "too dry to cultivate"
+     }
+    ],
+    "collocations": [
+     "cultivate crops",
+     "cultivate the land"
+    ]
+   },
+   {
+    "id": "cultivate-2",
+    "pos": "v",
+    "ko": "기르다, 키워 나가다",
+    "en": "to develop a skill, habit or relationship over time",
+    "nuance": "능력이나 인맥을 '오래 공들여 키운다'는 비유다. 짧은 시간에 끝나는 일에는 쓰지 않고 develop보다 정성이 들어간 느낌을 준다.",
+    "examples": [
+     {
+      "en": "She cultivated good relationships with clients over many years.",
+      "ko": "그분은 오랜 세월 고객들과 좋은 관계를 쌓아 왔어요.",
+      "focus": "cultivated good relationships"
+     }
+    ]
+   }
+  ],
+  "wordFamily": [
+   {
+    "form": "cultivation",
+    "pos": "n",
+    "ko": "재배, 경작"
+   }
+  ],
+  "confusables": [
+   {
+    "word": "grow",
+    "note": "grow는 일상적으로 기르는 것 전반, cultivate는 땅을 갈아 체계적으로 재배하는 것이다."
+   }
+  ]
+ },
+ {
+  "id": "cupboard",
+  "headword": "cupboard",
+  "ipa": "/ˈkʌbərd/",
+  "level": "HIGH",
+  "isCore": false,
+  "topic": "home_daily",
+  "forms": [
+   "cupboards"
+  ],
+  "senses": [
+   {
+    "id": "cupboard-1",
+    "pos": "n",
+    "ko": "찬장, 수납장",
+    "en": "a piece of furniture with doors and shelves for dishes or food",
+    "nuance": "p가 묵음이라 '컵보드'가 아니라 /ˈkʌbərd/로 발음한다. 옷을 넣는 것은 cupboard가 아니라 closet이나 wardrobe다.",
+    "pattern": "in the cupboard",
+    "examples": [
+     {
+      "en": "The mugs are in the cupboard above the sink.",
+      "ko": "머그컵은 싱크대 위 찬장에 있어.",
+      "focus": "in the cupboard above the sink"
+     },
+     {
+      "en": "Could you clear out the kitchen cupboards this weekend?",
+      "ko": "이번 주말에 부엌 수납장 좀 정리해 줄래?",
+      "focus": "clear out the kitchen cupboards"
+     }
+    ],
+    "collocations": [
+     "a kitchen cupboard",
+     "in the cupboard"
+    ]
+   }
+  ],
+  "confusables": [
+   {
+    "word": "closet",
+    "note": "closet은 옷을 거는 붙박이장, cupboard는 그릇·식재료를 넣는 찬장이다."
+   }
+  ]
+ },
+ {
+  "id": "curl",
+  "headword": "curl",
+  "ipa": "/kɜːrl/",
+  "level": "HIGH",
+  "isCore": false,
+  "topic": "body_health",
+  "forms": [
+   "curled",
+   "curling",
+   "curls"
+  ],
+  "senses": [
+   {
+    "id": "curl-1",
+    "pos": "v",
+    "ko": "말다, 곱슬거리다",
+    "en": "to form a round shape, or to make hair form round shapes",
+    "nuance": "머리를 마는 것뿐 아니라 몸을 웅크리는 curl up도 아주 흔하다. '파마하다'는 curl이 아니라 get a perm이다.",
+    "pattern": "curl up + 전치사",
+    "examples": [
+     {
+      "en": "The cat curled up on my laptop again this morning.",
+      "ko": "고양이가 오늘 아침에도 내 노트북 위에 웅크리고 누웠어.",
+      "focus": "curled up on my laptop"
+     },
+     {
+      "en": "My hair curls badly whenever it rains in summer.",
+      "ko": "여름에 비 오면 내 머리가 심하게 곱슬거려.",
+      "focus": "My hair curls badly"
+     }
+    ],
+    "collocations": [
+     "curl up on the sofa",
+     "curl your hair"
+    ]
+   },
+   {
+    "id": "curl-2",
+    "pos": "n",
+    "ko": "곱슬머리 한 가닥",
+    "en": "a piece of hair that grows in a round shape",
+    "nuance": "가산명사라 보통 복수 curls로 쓴다. 곱슬머리인 사람을 묘사할 때는 has curls 또는 has curly hair라고 한다.",
+    "examples": [
+     {
+      "en": "Emma pushed the curls out of her eyes and smiled.",
+      "ko": "엠마는 눈앞의 곱슬머리를 넘기고 웃었어.",
+      "focus": "pushed the curls out of her eyes"
+     }
+    ]
+   }
+  ],
+  "wordFamily": [
+   {
+    "form": "curly",
+    "pos": "adj",
+    "ko": "곱슬곱슬한"
+   }
+  ],
+  "confusables": [
+   {
+    "word": "wave",
+    "note": "wave는 완만한 웨이브, curl은 동그랗게 말린 곱슬이다."
+   }
+  ]
+ },
+ {
+  "id": "curry",
+  "headword": "curry",
+  "ipa": "/ˈkɜːri/",
+  "level": "HIGH",
+  "isCore": false,
+  "topic": "food_cooking",
+  "forms": [
+   "curries"
+  ],
+  "senses": [
+   {
+    "id": "curry-1",
+    "pos": "n",
+    "ko": "카레",
+    "en": "a dish of meat or vegetables cooked in a hot spicy sauce",
+    "nuance": "요리 전체를 가리킬 때는 불가산으로 eat curry, 메뉴 한 그릇은 a curry로 쓴다. 가루는 curry powder라고 따로 말한다.",
+    "pattern": "make a curry",
+    "examples": [
+     {
+      "en": "Let's make a curry tonight since we have leftover chicken.",
+      "ko": "닭고기 남았으니까 오늘 저녁은 카레 하자.",
+      "focus": "make a curry tonight"
+     },
+     {
+      "en": "This curry is much spicier than the one we had yesterday.",
+      "ko": "이 카레는 어제 먹은 것보다 훨씬 매워.",
+      "focus": "This curry is much spicier"
+     }
+    ],
+    "collocations": [
+     "make a curry",
+     "curry powder"
+    ]
+   }
+  ],
+  "confusables": [
+   {
+    "word": "stew",
+    "note": "stew는 오래 끓인 국물 요리 전반, curry는 향신료로 맛을 낸 인도·아시아식 요리다."
+   },
+   {
+    "word": "carry",
+    "note": "curry는 /ˈkɜːri/, carry는 /ˈkæri/로 첫 모음이 다르다. 한국 학습자가 자주 같은 소리로 낸다."
+   }
+  ]
+ },
+ {
+  "id": "dairy",
+  "headword": "dairy",
+  "ipa": "/ˈderi/",
+  "level": "HIGH",
+  "isCore": false,
+  "topic": "food_cooking",
+  "senses": [
+   {
+    "id": "dairy-1",
+    "pos": "n",
+    "ko": "유제품",
+    "en": "milk and foods made from milk, such as cheese and butter",
+    "nuance": "불가산이라 a dairy나 dairies라고 하지 않고 eat dairy, cut out dairy처럼 쓴다. diary(일기)와 철자 순서가 달라 한국 학습자가 특히 자주 틀린다.",
+    "pattern": "cut out dairy",
+    "examples": [
+     {
+      "en": "I stopped eating dairy and my stomach feels much better.",
+      "ko": "유제품을 끊었더니 속이 훨씬 편해졌어.",
+      "focus": "stopped eating dairy"
+     },
+     {
+      "en": "Does this soup contain any dairy or nuts?",
+      "ko": "이 수프에 유제품이나 견과류가 들어 있나요?",
+      "focus": "contain any dairy"
+     }
+    ],
+    "collocations": [
+     "dairy products",
+     "avoid dairy"
+    ]
+   }
+  ],
+  "confusables": [
+   {
+    "word": "diary",
+    "note": "dairy는 '유제품', diary는 '일기장'이다. 철자가 ai인지 ia인지로 뜻이 완전히 달라진다."
+   }
+  ],
+  "memoryHook": "dairy에는 air가 들어 있고 diary에는 I가 들어 있다 — '내 일기'로 외운다."
+ }
+]

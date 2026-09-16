@@ -1,0 +1,2893 @@
+[
+ {
+  "id": "blonde",
+  "headword": "blonde",
+  "ipa": "/blɑːnd/",
+  "level": "HIGH",
+  "isCore": false,
+  "topic": "description_quality",
+  "senses": [
+   {
+    "id": "blonde-1",
+    "pos": "adj",
+    "ko": "금발의",
+    "en": "having pale yellow hair",
+    "nuance": "머리카락 색을 말할 때만 쓰고 사람을 가리키는 형용사가 아니다. 한국 학습자가 'She is blonde hair'라고 쓰기 쉬운데 She has blonde hair가 맞다.",
+    "pattern": "blonde hair",
+    "examples": [
+     {
+      "en": "Emma dyed her hair blonde right before the summer trip.",
+      "ko": "엠마는 여름 여행 직전에 머리를 금발로 염색했어.",
+      "focus": "dyed her hair blonde"
+     },
+     {
+      "en": "The woman with long blonde hair is our new manager.",
+      "ko": "긴 금발 머리 여자분이 우리 새 매니저야.",
+      "focus": "long blonde hair"
+     }
+    ],
+    "collocations": [
+     "blonde hair",
+     "go blonde"
+    ]
+   }
+  ],
+  "confusables": [
+   {
+    "word": "blond",
+    "note": "blond는 남성, blonde는 여성에 쓰는 전통 철자다. 요즘 미국 영어는 머리색에 blonde를 두루 쓴다."
+   },
+   {
+    "word": "blind",
+    "note": "철자가 비슷하지만 blind는 '눈이 안 보이는'이고 blonde는 머리색이다."
+   }
+  ]
+ },
+ {
+  "id": "bloom",
+  "headword": "bloom",
+  "ipa": "/bluːm/",
+  "level": "HIGH",
+  "isCore": false,
+  "topic": "nature_animals",
+  "forms": [
+   "blooms"
+  ],
+  "senses": [
+   {
+    "id": "bloom-1",
+    "pos": "n",
+    "ko": "꽃, 개화",
+    "en": "a flower, or the time when flowers open",
+    "nuance": "'꽃이 피었다'는 in bloom이라는 통째 표현으로 말한다. 한국 학습자가 the flowers are blooming만 떠올리는데, 원어민은 The roses are in bloom을 더 자주 쓴다.",
+    "pattern": "be in bloom",
+    "examples": [
+     {
+      "en": "The cherry trees along the river are in full bloom.",
+      "ko": "강가 벚나무들이 활짝 피었어.",
+      "focus": "in full bloom"
+     },
+     {
+      "en": "Mina picked a few white blooms for the kitchen table.",
+      "ko": "미나가 식탁에 놓으려고 흰 꽃 몇 송이를 꺾었어.",
+      "focus": "a few white blooms"
+     }
+    ],
+    "collocations": [
+     "in full bloom",
+     "come into bloom"
+    ]
+   }
+  ],
+  "confusables": [
+   {
+    "word": "blossom",
+    "note": "blossom은 주로 과일나무 꽃, bloom은 모든 꽃에 두루 쓴다."
+   },
+   {
+    "word": "blood",
+    "note": "철자가 한 글자 차이지만 blood는 /blʌd/ '피'이고 꽃과는 무관하다."
+   }
+  ]
+ },
+ {
+  "id": "blossom",
+  "headword": "blossom",
+  "ipa": "/ˈblɑːsəm/",
+  "level": "HIGH",
+  "isCore": false,
+  "topic": "nature_animals",
+  "forms": [
+   "blossoms"
+  ],
+  "senses": [
+   {
+    "id": "blossom-1",
+    "pos": "n",
+    "ko": "꽃, 벚꽃",
+    "en": "the small flowers on a fruit tree in spring",
+    "nuance": "'벚꽃'은 cherry blossom이라고 하며 이때는 보통 복수형이나 불가산으로 쓴다. 한국 학습자가 cherry flower라고 하기 쉬운데 그 표현은 쓰지 않는다.",
+    "pattern": "cherry blossom",
+    "examples": [
+     {
+      "en": "We went to Yeouido to see the cherry blossoms last weekend.",
+      "ko": "지난 주말에 벚꽃 보러 여의도에 갔어.",
+      "focus": "see the cherry blossoms"
+     },
+     {
+      "en": "The apple tree is covered in white blossom this year.",
+      "ko": "올해는 사과나무가 흰 꽃으로 뒤덮였어.",
+      "focus": "covered in white blossom"
+     }
+    ],
+    "collocations": [
+     "cherry blossom",
+     "apple blossom"
+    ]
+   }
+  ],
+  "confusables": [
+   {
+    "word": "bloom",
+    "note": "bloom은 꽃 일반, blossom은 열매가 될 나무의 꽃이다. 벚꽃은 늘 blossom이다."
+   }
+  ]
+ },
+ {
+  "id": "boil",
+  "headword": "boil",
+  "ipa": "/bɔɪl/",
+  "level": "HIGH",
+  "isCore": false,
+  "topic": "food_cooking",
+  "forms": [
+   "boiled",
+   "boiling",
+   "boils"
+  ],
+  "senses": [
+   {
+    "id": "boil-1",
+    "pos": "v",
+    "ko": "끓다, 끓이다",
+    "en": "to heat water until bubbles rise, or to become that hot",
+    "nuance": "물이 스스로 끓는 것도 boil, 내가 끓이는 것도 boil이라 목적어 유무로 구분한다. 라면처럼 재료를 넣고 삶는 것도 boil이며 cook과 달리 물이 반드시 있어야 한다.",
+    "pattern": "boil + 명사",
+    "examples": [
+     {
+      "en": "Wait until the water boils before you put the noodles in.",
+      "ko": "물이 끓고 나서 면을 넣어.",
+      "focus": "until the water boils"
+     },
+     {
+      "en": "I boiled two eggs for breakfast and burned the toast.",
+      "ko": "아침으로 계란 두 개를 삶았는데 토스트는 태웠어.",
+      "focus": "boiled two eggs"
+     }
+    ],
+    "collocations": [
+     "boil water",
+     "bring to the boil",
+     "a boiled egg"
+    ]
+   }
+  ],
+  "wordFamily": [
+   {
+    "form": "boiler",
+    "pos": "n",
+    "ko": "보일러, 온수기"
+   }
+  ],
+  "confusables": [
+   {
+    "word": "bake",
+    "note": "boil은 물에 넣고 끓이는 것, bake는 오븐에 굽는 것이다."
+   }
+  ]
+ },
+ {
+  "id": "bounce",
+  "headword": "bounce",
+  "ipa": "/baʊns/",
+  "level": "HIGH",
+  "isCore": false,
+  "topic": "sports_leisure",
+  "forms": [
+   "bounced",
+   "bounces",
+   "bouncing"
+  ],
+  "senses": [
+   {
+    "id": "bounce-1",
+    "pos": "v",
+    "ko": "튀다, 튀기다",
+    "en": "to move back up or away after hitting a surface",
+    "nuance": "공이 스스로 튀는 것도, 내가 공을 튀기는 것도 모두 bounce다. 한국 학습자가 jump와 섞는데 jump는 사람이 뛰는 것이고 bounce는 부딪혀 되튀는 것이다.",
+    "pattern": "bounce off + 명사",
+    "examples": [
+     {
+      "en": "The ball bounced off the wall and hit my coffee cup.",
+      "ko": "공이 벽에 튕겨서 내 커피잔을 쳤어.",
+      "focus": "bounced off the wall"
+     },
+     {
+      "en": "Jun kept bouncing the ball while he waited for us.",
+      "ko": "준은 우리를 기다리는 동안 계속 공을 튀기고 있었어.",
+      "focus": "bouncing the ball"
+     }
+    ],
+    "collocations": [
+     "bounce a ball",
+     "bounce off the wall",
+     "bounce back"
+    ]
+   }
+  ],
+  "confusables": [
+   {
+    "word": "jump",
+    "note": "jump는 사람·동물이 스스로 뛰는 것, bounce는 부딪힌 뒤 되튀는 움직임이다."
+   }
+  ]
+ },
+ {
+  "id": "bow",
+  "headword": "bow",
+  "ipa": "/baʊ/",
+  "level": "HIGH",
+  "isCore": false,
+  "topic": "movement_action",
+  "forms": [
+   "bowed",
+   "bowing",
+   "bows"
+  ],
+  "senses": [
+   {
+    "id": "bow-1",
+    "pos": "v",
+    "ko": "고개 숙여 인사하다",
+    "en": "to bend your head or body forward to greet or thank someone",
+    "nuance": "한국식 인사를 영어로 설명할 때 가장 정확한 동사다. '인사하다'를 greet로만 쓰면 동작이 안 보이므로 bow to someone이라고 한다.",
+    "pattern": "bow to + 사람",
+    "examples": [
+     {
+      "en": "In Korea you bow to your boss instead of shaking hands.",
+      "ko": "한국에서는 상사에게 악수 대신 고개 숙여 인사해.",
+      "focus": "bow to your boss"
+     },
+     {
+      "en": "The pianist bowed twice and the audience kept clapping.",
+      "ko": "피아니스트가 두 번 인사했는데 관객들이 계속 박수를 쳤어.",
+      "focus": "bowed twice"
+     }
+    ],
+    "collocations": [
+     "bow to someone",
+     "bow your head"
+    ]
+   },
+   {
+    "id": "bow-2",
+    "pos": "n",
+    "ko": "활, 리본",
+    "en": "a curved weapon for shooting arrows, or a tied ribbon",
+    "nuance": "이 뜻일 때만 발음이 /boʊ/로 바뀌는 점이 함정이다. 선물 포장의 리본 매듭도 같은 단어이므로 tie a bow라고 한다.",
+    "examples": [
+     {
+      "en": "She tied a red bow on the box before giving it.",
+      "ko": "그 사람은 상자에 빨간 리본을 묶고 나서 선물했어.",
+      "focus": "tied a red bow"
+     }
+    ]
+   }
+  ],
+  "confusables": [
+   {
+    "word": "bend",
+    "note": "bend는 몸이나 물건을 구부리는 동작 전반, bow는 인사로 상체를 숙이는 것이다."
+   }
+  ],
+  "memoryHook": "인사할 때는 /baʊ/, 활·리본일 때는 /boʊ/로 발음이 갈린다."
+ },
+ {
+  "id": "breeze",
+  "headword": "breeze",
+  "ipa": "/briːz/",
+  "level": "HIGH",
+  "isCore": false,
+  "topic": "nature_animals",
+  "forms": [
+   "breezes"
+  ],
+  "senses": [
+   {
+    "id": "breeze-1",
+    "pos": "n",
+    "ko": "산들바람",
+    "en": "a light, pleasant wind",
+    "nuance": "wind와 달리 '기분 좋게 시원한' 약한 바람이라 cool·gentle·sea와 잘 붙는다. 셀 수 있어서 a breeze처럼 관사를 꼭 붙인다.",
+    "pattern": "a cool breeze",
+    "examples": [
+     {
+      "en": "There was a cool breeze coming through the open window.",
+      "ko": "열린 창문으로 시원한 바람이 들어오고 있었어.",
+      "focus": "a cool breeze"
+     },
+     {
+      "en": "We sat by the sea and enjoyed the evening breeze.",
+      "ko": "우리는 바닷가에 앉아서 저녁 바람을 즐겼어.",
+      "focus": "the evening breeze"
+     }
+    ],
+    "collocations": [
+     "a cool breeze",
+     "a gentle breeze",
+     "a sea breeze"
+    ]
+   }
+  ],
+  "confusables": [
+   {
+    "word": "wind",
+    "note": "wind는 세기에 상관없는 바람 전반이고 불가산이지만, breeze는 약하고 기분 좋은 바람이며 셀 수 있다."
+   }
+  ]
+ },
+ {
+  "id": "brick",
+  "headword": "brick",
+  "ipa": "/brɪk/",
+  "level": "HIGH",
+  "isCore": false,
+  "topic": "home_daily",
+  "forms": [
+   "bricks"
+  ],
+  "senses": [
+   {
+    "id": "brick-1",
+    "pos": "n",
+    "ko": "벽돌",
+    "en": "a hard block of baked clay used for building walls",
+    "nuance": "건물 재료를 말할 때는 관사 없이 made of brick처럼 불가산으로 쓴다. 벽돌 한 장 한 장을 셀 때만 a brick, bricks가 된다.",
+    "pattern": "be made of brick",
+    "examples": [
+     {
+      "en": "Their house is made of red brick and looks very old.",
+      "ko": "그 집은 빨간 벽돌로 지어져서 아주 오래돼 보여.",
+      "focus": "made of red brick"
+     },
+     {
+      "en": "Tom carried the bricks to the back of the garden.",
+      "ko": "톰이 벽돌을 정원 뒤쪽으로 날랐어.",
+      "focus": "carried the bricks"
+     }
+    ],
+    "collocations": [
+     "red brick",
+     "a brick wall"
+    ]
+   }
+  ],
+  "confusables": [
+   {
+    "word": "block",
+    "note": "block은 네모난 덩어리 전반, brick은 구워 만든 건축용 벽돌이다."
+   }
+  ]
+ },
+ {
+  "id": "bride",
+  "headword": "bride",
+  "ipa": "/braɪd/",
+  "level": "HIGH",
+  "isCore": false,
+  "topic": "people_family",
+  "forms": [
+   "brides"
+  ],
+  "senses": [
+   {
+    "id": "bride-1",
+    "pos": "n",
+    "ko": "신부",
+    "en": "a woman on her wedding day or just married",
+    "nuance": "결혼식 당일 전후에만 쓰는 말이라 결혼 몇 년 뒤에는 wife라고 한다. 신랑은 groom이며 the bride and groom 순서로 말한다.",
+    "pattern": "the bride and groom",
+    "examples": [
+     {
+      "en": "The bride walked in and everyone stood up at once.",
+      "ko": "신부가 들어오자 모두 한꺼번에 일어섰어.",
+      "focus": "The bride walked in"
+     },
+     {
+      "en": "We took a photo with the bride and groom after lunch.",
+      "ko": "점심 먹고 신랑 신부랑 사진 찍었어.",
+      "focus": "the bride and groom"
+     }
+    ],
+    "collocations": [
+     "the bride and groom",
+     "a beautiful bride"
+    ]
+   }
+  ],
+  "confusables": [
+   {
+    "word": "wife",
+    "note": "bride는 결혼식 무렵의 신부, wife는 결혼 생활 내내 쓰는 아내다."
+   },
+   {
+    "word": "groom",
+    "note": "groom은 신랑이다. bridegroom의 줄임말이라 bride와 헷갈리기 쉽다."
+   }
+  ]
+ },
+ {
+  "id": "bull",
+  "headword": "bull",
+  "ipa": "/bʊl/",
+  "level": "HIGH",
+  "isCore": false,
+  "topic": "nature_animals",
+  "forms": [
+   "bulls"
+  ],
+  "senses": [
+   {
+    "id": "bull-1",
+    "pos": "n",
+    "ko": "황소, 수소",
+    "en": "an adult male animal of the cow family",
+    "nuance": "cow는 암소라서 '소'를 통칭할 때 bull을 쓰면 어색하다. 소 일반은 cattle, 고기는 beef로 갈라 쓴다.",
+    "pattern": "a bull",
+    "examples": [
+     {
+      "en": "A huge bull was standing right next to the fence.",
+      "ko": "커다란 황소 한 마리가 울타리 바로 옆에 서 있었어.",
+      "focus": "A huge bull"
+     },
+     {
+      "en": "The farmer keeps two bulls and about thirty cows.",
+      "ko": "그 농부는 수소 두 마리와 소 서른 마리쯤 키워.",
+      "focus": "keeps two bulls"
+     }
+    ],
+    "collocations": [
+     "a young bull",
+     "a bull market"
+    ]
+   }
+  ],
+  "confusables": [
+   {
+    "word": "cow",
+    "note": "cow는 암소, bull은 수소다. 소 무리 전체는 cattle이라고 한다."
+   }
+  ]
+ },
+ {
+  "id": "bullet",
+  "headword": "bullet",
+  "ipa": "/ˈbʊlɪt/",
+  "level": "HIGH",
+  "isCore": false,
+  "topic": "society_politics",
+  "forms": [
+   "bullets"
+  ],
+  "senses": [
+   {
+    "id": "bullet-1",
+    "pos": "n",
+    "ko": "총알",
+    "en": "the small piece of metal fired from a gun",
+    "nuance": "총알 하나하나를 세는 말이고, 총알 전체를 뭉뚱그릴 때는 ammunition을 쓴다. KTX 같은 고속열차를 영어로 a bullet train이라 부르는 것도 이 단어다.",
+    "pattern": "a bullet",
+    "examples": [
+     {
+      "en": "The museum shows an old helmet with a bullet hole.",
+      "ko": "그 박물관에는 총알 자국이 난 옛날 헬멧이 전시돼 있어.",
+      "focus": "a bullet hole"
+     },
+     {
+      "en": "We took the bullet train from Seoul to Busan.",
+      "ko": "우리는 서울에서 부산까지 고속열차를 탔어.",
+      "focus": "the bullet train"
+     }
+    ],
+    "collocations": [
+     "a bullet hole",
+     "a bullet train"
+    ]
+   },
+   {
+    "id": "bullet-2",
+    "pos": "n",
+    "ko": "글머리 기호",
+    "en": "a small round mark that starts each item in a list",
+    "nuance": "발표 자료의 '점 찍은 항목'을 가리키며 bullet point라고 통째로 외우는 편이 낫다. 한국식으로 dot이라고 하면 뜻이 통하지 않는다.",
+    "examples": [
+     {
+      "en": "Keep each bullet short so the slide stays easy to read.",
+      "ko": "슬라이드가 읽기 쉽게 각 항목을 짧게 써.",
+      "focus": "Keep each bullet short"
+     }
+    ]
+   }
+  ],
+  "confusables": [
+   {
+    "word": "bullying",
+    "note": "첫 네 글자가 같아 섞이기 쉽다. bullying은 괴롭힘이고 bullet은 총알이다."
+   }
+  ]
+ },
+ {
+  "id": "bully",
+  "headword": "bully",
+  "ipa": "/ˈbʊli/",
+  "level": "HIGH",
+  "isCore": false,
+  "topic": "society_politics",
+  "forms": [
+   "bullied",
+   "bullies",
+   "bullying"
+  ],
+  "senses": [
+   {
+    "id": "bully-1",
+    "pos": "v",
+    "ko": "괴롭히다",
+    "en": "to hurt or frighten a weaker person again and again",
+    "nuance": "한 번이 아니라 반복해서 약자를 괴롭히는 것이라 학교·직장 상황에서 쓴다. 보통 수동태 be bullied로 피해자를 주어에 놓는다.",
+    "pattern": "be bullied at + 장소",
+    "examples": [
+     {
+      "en": "He was bullied at school but never told his parents.",
+      "ko": "걔는 학교에서 괴롭힘을 당했는데 부모님께 말하지 않았어.",
+      "focus": "was bullied at school"
+     },
+     {
+      "en": "Nobody should be bullied into signing something they don't understand.",
+      "ko": "이해도 못 하는 걸 억지로 서명하게 압박받아선 안 돼.",
+      "focus": "be bullied into signing"
+     }
+    ],
+    "collocations": [
+     "be bullied at school",
+     "bully someone into"
+    ]
+   },
+   {
+    "id": "bully-2",
+    "pos": "n",
+    "ko": "괴롭히는 사람",
+    "en": "someone who often frightens or hurts weaker people",
+    "nuance": "가해자를 가리키는 명사로 a bully라고 관사를 붙인다. 한국어 '일진'과 달리 나이나 무리와 상관없이 한 사람만 가리켜도 된다.",
+    "examples": [
+     {
+      "en": "Every office has one bully that everybody quietly avoids.",
+      "ko": "어느 사무실에나 다들 조용히 피하는 못된 사람이 하나 있어.",
+      "focus": "one bully"
+     }
+    ]
+   }
+  ],
+  "wordFamily": [
+   {
+    "form": "bullying",
+    "pos": "n",
+    "ko": "괴롭힘, 따돌림"
+   }
+  ],
+  "confusables": [
+   {
+    "word": "tease",
+    "note": "tease는 장난스럽게 놀리는 것, bully는 반복적으로 괴롭혀 상처를 주는 것이다."
+   }
+  ]
+ },
+ {
+  "id": "bump",
+  "headword": "bump",
+  "ipa": "/bʌmp/",
+  "level": "HIGH",
+  "isCore": false,
+  "topic": "movement_action",
+  "forms": [
+   "bumped",
+   "bumping",
+   "bumps"
+  ],
+  "senses": [
+   {
+    "id": "bump-1",
+    "pos": "v",
+    "ko": "부딪치다",
+    "en": "to hit something by accident while moving",
+    "nuance": "일부러가 아니라 실수로 쿵 부딪히는 것이라 bump into를 통째로 쓴다. hit과 달리 세게 치는 것이 아니고, 사람에게 쓰면 '우연히 마주치다'가 된다.",
+    "pattern": "bump into + 명사",
+    "examples": [
+     {
+      "en": "I bumped my head on the shelf while picking up the box.",
+      "ko": "상자를 집다가 선반에 머리를 부딪혔어.",
+      "focus": "bumped my head"
+     },
+     {
+      "en": "I bumped into Mina at the station this morning.",
+      "ko": "오늘 아침에 역에서 미나를 우연히 만났어.",
+      "focus": "bumped into Mina"
+     }
+    ],
+    "collocations": [
+     "bump into someone",
+     "bump your head"
+    ]
+   }
+  ],
+  "confusables": [
+   {
+    "word": "hit",
+    "note": "hit은 의도적으로 치는 것도 포함하지만, bump는 거의 항상 실수로 부딪히는 것이다."
+   },
+   {
+    "word": "crash",
+    "note": "crash는 큰 충돌·사고, bump는 가볍게 쿵 하는 정도다."
+   }
+  ]
+ },
+ {
+  "id": "bundle",
+  "headword": "bundle",
+  "ipa": "/ˈbʌndl/",
+  "level": "HIGH",
+  "isCore": false,
+  "topic": "money_shopping",
+  "forms": [
+   "bundles"
+  ],
+  "senses": [
+   {
+    "id": "bundle-1",
+    "pos": "n",
+    "ko": "묶음, 꾸러미",
+    "en": "a group of things tied or wrapped together",
+    "nuance": "a bundle of + 복수명사 형태로 쓰며 끈으로 묶은 느낌이 있다. 휴대폰 요금제의 '결합 상품'도 a bundle이라고 부른다.",
+    "pattern": "a bundle of + 복수명사",
+    "examples": [
+     {
+      "en": "She came home with a bundle of old letters.",
+      "ko": "그 사람이 오래된 편지 한 묶음을 들고 집에 왔어.",
+      "focus": "a bundle of old letters"
+     },
+     {
+      "en": "The phone company offers a bundle with internet and TV.",
+      "ko": "통신사가 인터넷이랑 TV를 묶은 결합 상품을 팔아.",
+      "focus": "offers a bundle"
+     }
+    ],
+    "collocations": [
+     "a bundle of papers",
+     "a bundle deal"
+    ]
+   }
+  ],
+  "confusables": [
+   {
+    "word": "pack",
+    "note": "pack은 상자·봉지에 담긴 것, bundle은 끈으로 묶거나 한데 싼 것이다."
+   }
+  ]
+ },
+ {
+  "id": "bush",
+  "headword": "bush",
+  "ipa": "/bʊʃ/",
+  "level": "HIGH",
+  "isCore": false,
+  "topic": "nature_animals",
+  "forms": [
+   "bushes"
+  ],
+  "senses": [
+   {
+    "id": "bush-1",
+    "pos": "n",
+    "ko": "덤불, 관목",
+    "en": "a small plant with many branches, lower than a tree",
+    "nuance": "나무보다 낮고 줄기가 여럿인 식물이라 tree와 구분한다. 복수는 bushs가 아니라 bushes로 쓴다.",
+    "pattern": "a bush",
+    "examples": [
+     {
+      "en": "The cat was hiding under a bush by the gate.",
+      "ko": "고양이가 문 옆 덤불 아래 숨어 있었어.",
+      "focus": "under a bush"
+     },
+     {
+      "en": "Dad cut the bushes in front of the house yesterday.",
+      "ko": "아빠가 어제 집 앞 덤불을 다듬었어.",
+      "focus": "cut the bushes"
+     }
+    ],
+    "collocations": [
+     "a rose bush",
+     "cut the bushes"
+    ]
+   }
+  ],
+  "confusables": [
+   {
+    "word": "tree",
+    "note": "tree는 굵은 줄기 하나로 높이 자라고, bush는 낮고 가지가 여럿이다."
+   }
+  ]
+ },
+ {
+  "id": "butcher",
+  "headword": "butcher",
+  "ipa": "/ˈbʊtʃər/",
+  "level": "HIGH",
+  "isCore": false,
+  "topic": "food_cooking",
+  "forms": [
+   "butchers"
+  ],
+  "senses": [
+   {
+    "id": "butcher-1",
+    "pos": "n",
+    "ko": "정육점 주인, 정육점",
+    "en": "someone who cuts and sells meat, or that person's shop",
+    "nuance": "가게를 말할 때는 the butcher's처럼 's를 붙여 at the butcher's라고 한다. 한국어 '정육점'을 meat shop이라고 옮기면 어색하다.",
+    "pattern": "at the butcher's",
+    "examples": [
+     {
+      "en": "I bought the pork at the butcher's near my office.",
+      "ko": "사무실 근처 정육점에서 돼지고기를 샀어.",
+      "focus": "at the butcher's"
+     },
+     {
+      "en": "The butcher cut the beef into thin slices for us.",
+      "ko": "정육점 주인이 소고기를 얇게 썰어 줬어.",
+      "focus": "The butcher cut the beef"
+     }
+    ],
+    "collocations": [
+     "the local butcher",
+     "go to the butcher's"
+    ]
+   }
+  ],
+  "confusables": [
+   {
+    "word": "baker",
+    "note": "-er 직업어끼리 형태가 닮았다. baker는 빵, butcher는 고기를 다룬다."
+   }
+  ]
+ },
+ {
+  "id": "buzz",
+  "headword": "buzz",
+  "ipa": "/bʌz/",
+  "level": "HIGH",
+  "isCore": false,
+  "topic": "communication",
+  "forms": [
+   "buzzed",
+   "buzzes",
+   "buzzing"
+  ],
+  "senses": [
+   {
+    "id": "buzz-1",
+    "pos": "v",
+    "ko": "윙윙거리다, 진동하다",
+    "en": "to make a low continuous sound like a flying insect",
+    "nuance": "벌레 소리뿐 아니라 휴대폰 진동음에도 그대로 쓴다. ring은 벨소리, buzz는 진동이라 My phone buzzed처럼 구분해 말한다.",
+    "pattern": "buzz + (부사)",
+    "examples": [
+     {
+      "en": "My phone buzzed twice during the meeting and I ignored it.",
+      "ko": "회의 중에 폰이 두 번 울렸는데 그냥 뒀어.",
+      "focus": "phone buzzed twice"
+     },
+     {
+      "en": "A fly kept buzzing around my head all afternoon.",
+      "ko": "파리 한 마리가 오후 내내 머리 주위를 윙윙거렸어.",
+      "focus": "kept buzzing around my head"
+     }
+    ],
+    "collocations": [
+     "buzz around",
+     "a buzzing sound"
+    ]
+   },
+   {
+    "id": "buzz-2",
+    "pos": "n",
+    "ko": "화제, 들썩임",
+    "en": "a feeling of excitement about something new",
+    "nuance": "신제품이나 영화가 '화제가 되다'를 create a buzz라고 한다. 한국에서 쓰는 '입소문'에 가장 가까운 표현이다.",
+    "examples": [
+     {
+      "en": "There's a lot of buzz about the new cafe downtown.",
+      "ko": "시내 새로 생긴 카페가 요즘 엄청 화제야.",
+      "focus": "a lot of buzz"
+     }
+    ]
+   }
+  ],
+  "confusables": [
+   {
+    "word": "ring",
+    "note": "ring은 벨소리가 울리는 것, buzz는 진동이나 낮게 윙윙거리는 소리다."
+   }
+  ]
+ },
+ {
+  "id": "cab",
+  "headword": "cab",
+  "ipa": "/kæb/",
+  "level": "HIGH",
+  "isCore": false,
+  "topic": "travel_transport",
+  "forms": [
+   "cabs"
+  ],
+  "senses": [
+   {
+    "id": "cab-1",
+    "pos": "n",
+    "ko": "택시",
+    "en": "a car with a driver you pay to take you somewhere",
+    "nuance": "taxi와 같은 뜻이며 미국 구어에서 더 자주 들린다. '택시를 타다'는 ride a cab이 아니라 take a cab 또는 catch a cab이다.",
+    "pattern": "take a cab",
+    "examples": [
+     {
+      "en": "It was raining hard, so we took a cab home.",
+      "ko": "비가 많이 와서 택시 타고 집에 갔어.",
+      "focus": "took a cab home"
+     },
+     {
+      "en": "Can you call a cab for us before nine?",
+      "ko": "아홉 시 전에 택시 좀 불러 주시겠어요?",
+      "focus": "call a cab"
+     }
+    ],
+    "collocations": [
+     "take a cab",
+     "call a cab",
+     "catch a cab"
+    ]
+   }
+  ],
+  "confusables": [
+   {
+    "word": "taxi",
+    "note": "뜻은 같지만 cab은 미국 구어, taxi는 영국·국제적으로 두루 쓰인다."
+   }
+  ]
+ },
+ {
+  "id": "cabin",
+  "headword": "cabin",
+  "ipa": "/ˈkæbɪn/",
+  "level": "HIGH",
+  "isCore": false,
+  "topic": "travel_transport",
+  "forms": [
+   "cabins"
+  ],
+  "senses": [
+   {
+    "id": "cabin-1",
+    "pos": "n",
+    "ko": "오두막, 객실",
+    "en": "a small wooden house, or the space for people on a plane or ship",
+    "nuance": "숲속 통나무집과 비행기·배의 객실을 같은 단어로 부른다. 비행기 승무원은 cabin crew라고 하므로 flight attendant와 함께 외워 두면 좋다.",
+    "pattern": "a log cabin",
+    "examples": [
+     {
+      "en": "We rented a small cabin in the woods for the weekend.",
+      "ko": "주말에 숲속 작은 오두막을 빌렸어.",
+      "focus": "a small cabin in the woods"
+     },
+     {
+      "en": "The cabin crew asked us to fasten our seat belts.",
+      "ko": "승무원이 안전벨트를 매 달라고 했어.",
+      "focus": "The cabin crew"
+     }
+    ],
+    "collocations": [
+     "a log cabin",
+     "cabin crew"
+    ]
+   }
+  ],
+  "confusables": [
+   {
+    "word": "cottage",
+    "note": "cottage는 시골의 아담한 집, cabin은 보통 나무로 지은 더 소박한 오두막이다."
+   }
+  ]
+ },
+ {
+  "id": "canvas",
+  "headword": "canvas",
+  "ipa": "/ˈkænvəs/",
+  "level": "HIGH",
+  "isCore": false,
+  "topic": "culture_arts",
+  "forms": [
+   "canvases"
+  ],
+  "senses": [
+   {
+    "id": "canvas-1",
+    "pos": "n",
+    "ko": "캔버스, 두꺼운 천",
+    "en": "strong cloth used for painting on, or for bags and shoes",
+    "nuance": "그림을 그리는 화폭과 가방·신발에 쓰는 두꺼운 천을 같은 단어로 부른다. 천 재료를 말할 때는 관사 없이 canvas bag처럼 명사를 꾸미는 자리에 놓는다.",
+    "pattern": "on canvas",
+    "examples": [
+     {
+      "en": "She painted the whole scene on a huge canvas.",
+      "ko": "그 사람은 그 장면 전체를 커다란 캔버스에 그렸어.",
+      "focus": "on a huge canvas"
+     },
+     {
+      "en": "I carry my laptop in an old canvas bag.",
+      "ko": "나는 낡은 천 가방에 노트북을 넣고 다녀.",
+      "focus": "an old canvas bag"
+     }
+    ],
+    "collocations": [
+     "a canvas bag",
+     "paint on canvas"
+    ]
+   }
+  ],
+  "confusables": [
+   {
+    "word": "canvass",
+    "note": "s가 두 개인 canvass는 '여론을 조사하다'라는 동사다. 철자 하나 차이라 시험에 자주 나온다."
+   }
+  ]
+ },
+ {
+  "id": "cape",
+  "headword": "cape",
+  "ipa": "/keɪp/",
+  "level": "HIGH",
+  "isCore": false,
+  "topic": "travel_transport",
+  "forms": [
+   "capes"
+  ],
+  "senses": [
+   {
+    "id": "cape-1",
+    "pos": "n",
+    "ko": "곶, 갑",
+    "en": "a piece of land that sticks out into the sea",
+    "nuance": "지명에서 Cape Town, Cape Cod처럼 앞에 붙는 그 단어다. 한국어 '곶'이 낯설면 '바다로 튀어나온 땅'으로 기억하면 된다.",
+    "pattern": "a cape",
+    "examples": [
+     {
+      "en": "There's a lighthouse at the end of the cape.",
+      "ko": "곶 끝에 등대가 하나 있어.",
+      "focus": "the end of the cape"
+     },
+     {
+      "en": "We drove around the cape and stopped for coffee.",
+      "ko": "우리는 곶을 빙 돌아 운전하다가 커피 마시러 멈췄어.",
+      "focus": "drove around the cape"
+     }
+    ],
+    "collocations": [
+     "around the cape"
+    ]
+   },
+   {
+    "id": "cape-2",
+    "pos": "n",
+    "ko": "망토",
+    "en": "a loose piece of clothing worn over the shoulders with no sleeves",
+    "nuance": "소매가 없고 어깨에 둘러 입는 옷이라 coat와 다르다. 영웅 의상을 말할 때 wear a cape라고 한다.",
+    "examples": [
+     {
+      "en": "The little boy wore a red cape to the party.",
+      "ko": "그 꼬마는 파티에 빨간 망토를 입고 왔어.",
+      "focus": "wore a red cape"
+     }
+    ]
+   }
+  ],
+  "confusables": [
+   {
+    "word": "cap",
+    "note": "cap은 챙 달린 모자, cape는 어깨에 두르는 망토다. 모음 길이가 다르다."
+   }
+  ]
+ },
+ {
+  "id": "carve",
+  "headword": "carve",
+  "ipa": "/kɑːrv/",
+  "level": "HIGH",
+  "isCore": false,
+  "topic": "culture_arts",
+  "forms": [
+   "carved",
+   "carves",
+   "carving"
+  ],
+  "senses": [
+   {
+    "id": "carve-1",
+    "pos": "v",
+    "ko": "조각하다, 새기다",
+    "en": "to cut wood or stone into a shape, or cut letters into it",
+    "nuance": "칼로 깎아 모양이나 글자를 만드는 것이라 그냥 cut과 다르다. 재료를 밝힐 때는 carve something out of wood 형태로 쓴다.",
+    "pattern": "carve + 명사 + out of + 재료",
+    "examples": [
+     {
+      "en": "Her grandfather carved this little bird out of wood.",
+      "ko": "그분 할아버지가 이 작은 새를 나무로 깎아 만드셨어.",
+      "focus": "carved this little bird"
+     },
+     {
+      "en": "Someone had carved their names into the old bench.",
+      "ko": "누군가 낡은 벤치에 이름을 새겨 놨더라.",
+      "focus": "carved their names"
+     }
+    ],
+    "collocations": [
+     "carve wood",
+     "carve a name into"
+    ]
+   }
+  ],
+  "wordFamily": [
+   {
+    "form": "carving",
+    "pos": "n",
+    "ko": "조각품, 조각"
+   }
+  ],
+  "confusables": [
+   {
+    "word": "cut",
+    "note": "cut은 그냥 자르는 것, carve는 깎아서 모양이나 글자를 만드는 것이다."
+   }
+  ]
+ },
+ {
+  "id": "casual",
+  "headword": "casual",
+  "ipa": "/ˈkæʒuəl/",
+  "level": "HIGH",
+  "isCore": false,
+  "topic": "description_quality",
+  "senses": [
+   {
+    "id": "casual-1",
+    "pos": "adj",
+    "ko": "격식 없는, 편안한",
+    "en": "relaxed and not formal, in clothes or in the way people act",
+    "nuance": "옷차림뿐 아니라 분위기·말투에도 쓴다. 한국에서 '캐주얼'을 옷에만 쓰지만 영어에서는 a casual chat, a casual meeting처럼 상황에도 붙인다.",
+    "pattern": "casual + 명사",
+    "examples": [
+     {
+      "en": "The office is casual, so jeans are completely fine.",
+      "ko": "우리 사무실은 편한 분위기라 청바지 입어도 전혀 괜찮아.",
+      "focus": "The office is casual"
+     },
+     {
+      "en": "It was just a casual chat, not a real interview.",
+      "ko": "진짜 면접이 아니라 그냥 편하게 얘기한 거였어.",
+      "focus": "a casual chat"
+     }
+    ],
+    "collocations": [
+     "casual clothes",
+     "a casual conversation",
+     "casual wear"
+    ]
+   }
+  ],
+  "wordFamily": [
+   {
+    "form": "casually",
+    "pos": "adv",
+    "ko": "격식 없이, 무심하게"
+   }
+  ],
+  "confusables": [
+   {
+    "word": "causal",
+    "note": "철자 순서만 다르다. causal은 '인과관계의'라는 학술어이고 casual은 '편안한'이다."
+   },
+   {
+    "word": "comfortable",
+    "note": "comfortable은 몸이 편한 것, casual은 격식이 없는 것이다."
+   }
+  ]
+ },
+ {
+  "id": "cattle",
+  "headword": "cattle",
+  "ipa": "/ˈkætl/",
+  "level": "HIGH",
+  "isCore": false,
+  "topic": "nature_animals",
+  "senses": [
+   {
+    "id": "cattle-1",
+    "pos": "n",
+    "ko": "소 떼, 가축 소",
+    "en": "cows and bulls kept on a farm for milk or meat",
+    "nuance": "언제나 복수 취급이라 The cattle are처럼 are를 쓰고, a cattle이나 cattles라고 하지 않는다. 한 마리를 셀 때는 a cow 또는 ten head of cattle이라고 한다.",
+    "pattern": "cattle + 복수 동사",
+    "examples": [
+     {
+      "en": "The cattle were resting under the trees all afternoon.",
+      "ko": "소들이 오후 내내 나무 아래서 쉬고 있었어.",
+      "focus": "The cattle were resting"
+     },
+     {
+      "en": "His family has raised cattle here for sixty years.",
+      "ko": "그 집안은 여기서 육십 년째 소를 키워 왔어.",
+      "focus": "has raised cattle"
+     }
+    ],
+    "collocations": [
+     "raise cattle",
+     "a cattle farm"
+    ]
+   }
+  ],
+  "confusables": [
+   {
+    "word": "cow",
+    "note": "cow는 한 마리를 셀 수 있고, cattle은 무리를 가리키며 늘 복수로 쓴다."
+   }
+  ]
+ },
+ {
+  "id": "causal",
+  "headword": "causal",
+  "ipa": "/ˈkɔːzl/",
+  "level": "HIGH",
+  "isCore": false,
+  "topic": "academic",
+  "senses": [
+   {
+    "id": "causal-1",
+    "pos": "adj",
+    "ko": "인과관계의",
+    "en": "showing that one thing directly makes another thing happen",
+    "nuance": "논문·기사에서 a causal relationship, a causal link 형태로 거의 붙어 다닌다. casual과 철자가 한 끗 차이라 한국 학습자가 가장 많이 헷갈리는 짝이다.",
+    "pattern": "a causal link between A and B",
+    "examples": [
+     {
+      "en": "The study found no causal link between coffee and poor sleep.",
+      "ko": "그 연구는 커피와 수면 부족 사이에 인과관계가 없다고 봤어.",
+      "focus": "no causal link"
+     },
+     {
+      "en": "You need more data to prove a causal relationship here.",
+      "ko": "여기서 인과관계를 증명하려면 데이터가 더 필요해.",
+      "focus": "a causal relationship"
+     }
+    ],
+    "collocations": [
+     "a causal link",
+     "a causal relationship"
+    ]
+   }
+  ],
+  "wordFamily": [
+   {
+    "form": "cause",
+    "pos": "n",
+    "ko": "원인"
+   },
+   {
+    "form": "causality",
+    "pos": "n",
+    "ko": "인과관계"
+   }
+  ],
+  "confusables": [
+   {
+    "word": "casual",
+    "note": "casual은 '편안한'이라는 일상어, causal은 '인과의'라는 학술어다. 발음도 /ˈkæʒuəl/과 /ˈkɔːzl/로 다르다."
+   }
+  ]
+ },
+ {
+  "id": "cave",
+  "headword": "cave",
+  "ipa": "/keɪv/",
+  "level": "HIGH",
+  "isCore": false,
+  "topic": "nature_animals",
+  "forms": [
+   "caves"
+  ],
+  "senses": [
+   {
+    "id": "cave-1",
+    "pos": "n",
+    "ko": "동굴",
+    "en": "a large hole in a hill or under the ground",
+    "nuance": "동굴 안에 있다고 할 때 전치사는 at이 아니라 in the cave를 쓴다. 관광지 동굴도 같은 단어이며 a cave tour처럼 말한다.",
+    "pattern": "in a cave",
+    "examples": [
+     {
+      "en": "It was surprisingly cold inside the cave in August.",
+      "ko": "팔월인데도 동굴 안은 놀랄 만큼 추웠어.",
+      "focus": "inside the cave"
+     },
+     {
+      "en": "We explored two caves on Jeju Island last summer.",
+      "ko": "작년 여름에 제주도에서 동굴 두 곳을 둘러봤어.",
+      "focus": "explored two caves"
+     }
+    ],
+    "collocations": [
+     "explore a cave",
+     "inside the cave"
+    ]
+   }
+  ],
+  "confusables": [
+   {
+    "word": "hole",
+    "note": "hole은 크기와 상관없는 구멍, cave는 사람이 들어갈 수 있는 자연 동굴이다."
+   }
+  ]
+ },
+ {
+  "id": "cease",
+  "headword": "cease",
+  "ipa": "/siːs/",
+  "level": "HIGH",
+  "isCore": false,
+  "topic": "work_business",
+  "forms": [
+   "ceased",
+   "ceases",
+   "ceasing"
+  ],
+  "senses": [
+   {
+    "id": "cease-1",
+    "pos": "v",
+    "ko": "중단하다, 멈추다",
+    "en": "to stop happening or stop doing something",
+    "nuance": "stop보다 훨씬 격식 있는 말이라 공지·계약서·뉴스에서 쓰고 대화에서는 어색하다. cease to do와 cease doing 둘 다 되지만 뒤에 to부정사를 더 자주 쓴다.",
+    "pattern": "cease to + 동사원형",
+    "examples": [
+     {
+      "en": "The company will cease operations in Busan next March.",
+      "ko": "그 회사는 내년 3월에 부산 사업을 중단할 예정이다.",
+      "focus": "cease operations"
+     },
+     {
+      "en": "The old card ceased to work after the system update.",
+      "ko": "시스템 업데이트 후로 예전 카드는 작동하지 않게 됐다.",
+      "focus": "ceased to work"
+     }
+    ],
+    "collocations": [
+     "cease operations",
+     "cease to exist"
+    ]
+   }
+  ],
+  "confusables": [
+   {
+    "word": "stop",
+    "note": "stop은 일상 대화용, cease는 공문·뉴스에 쓰는 격식체다. 친구에게 Cease!라고 하면 어색하다."
+   },
+   {
+    "word": "seize",
+    "note": "발음이 /siːz/로 비슷하지만 seize는 '붙잡다'로 뜻이 정반대에 가깝다."
+   }
+  ]
+ },
+ {
+  "id": "ceiling",
+  "headword": "ceiling",
+  "ipa": "/ˈsiːlɪŋ/",
+  "level": "HIGH",
+  "isCore": false,
+  "topic": "home_daily",
+  "forms": [
+   "ceilings"
+  ],
+  "senses": [
+   {
+    "id": "ceiling-1",
+    "pos": "n",
+    "ko": "천장",
+    "en": "the flat surface above you inside a room",
+    "nuance": "방 안에서 위를 보면 있는 면이고, 건물 밖에서 보는 지붕은 roof다. 전치사는 on이 아니라 on the ceiling으로 붙이되 매달린 것은 hang from the ceiling이라고 한다.",
+    "pattern": "on the ceiling",
+    "examples": [
+     {
+      "en": "The apartment has high ceilings and big windows.",
+      "ko": "그 아파트는 천장이 높고 창문도 커.",
+      "focus": "has high ceilings"
+     },
+     {
+      "en": "A lamp was hanging from the ceiling above the table.",
+      "ko": "식탁 위 천장에 램프가 하나 매달려 있었어.",
+      "focus": "hanging from the ceiling"
+     }
+    ],
+    "collocations": [
+     "a high ceiling",
+     "hang from the ceiling"
+    ]
+   }
+  ],
+  "confusables": [
+   {
+    "word": "roof",
+    "note": "roof는 건물 바깥 위쪽의 지붕, ceiling은 방 안에서 올려다보는 천장이다."
+   },
+   {
+    "word": "feeling",
+    "note": "철자가 한 글자 차이지만 ceiling은 /ˈsiːlɪŋ/, feeling은 /ˈfiːlɪŋ/으로 첫소리가 다르다."
+   }
+  ]
+ },
+ {
+  "id": "celebrity",
+  "headword": "celebrity",
+  "ipa": "/səˈlebrəti/",
+  "level": "HIGH",
+  "isCore": false,
+  "topic": "culture_arts",
+  "forms": [
+   "celebrities"
+  ],
+  "senses": [
+   {
+    "id": "celebrity-1",
+    "pos": "n",
+    "ko": "유명인, 연예인",
+    "en": "a famous person, especially in film, music or sport",
+    "nuance": "한국에서 쓰는 '연예인'에 가장 가까운 말이며 entertainer는 공연자에 한정된다. 복수는 celebritys가 아니라 celebrities로 쓴다.",
+    "pattern": "a celebrity",
+    "examples": [
+     {
+      "en": "A famous celebrity was eating at the table behind us.",
+      "ko": "우리 뒷자리에서 유명한 연예인이 밥을 먹고 있었어.",
+      "focus": "A famous celebrity"
+     },
+     {
+      "en": "Several celebrities joined the campaign to clean the river.",
+      "ko": "유명인 몇 명이 강 정화 캠페인에 참여했어.",
+      "focus": "Several celebrities joined"
+     }
+    ],
+    "collocations": [
+     "a local celebrity",
+     "celebrity culture"
+    ]
+   }
+  ],
+  "wordFamily": [
+   {
+    "form": "celebrate",
+    "pos": "v",
+    "ko": "축하하다, 기념하다"
+   }
+  ],
+  "confusables": [
+   {
+    "word": "celebration",
+    "note": "celebration은 '축하 행사'이고 celebrity는 '유명인'이다. 어원은 같지만 뜻이 전혀 다르다."
+   }
+  ]
+ },
+ {
+  "id": "censor",
+  "headword": "censor",
+  "ipa": "/ˈsensər/",
+  "level": "HIGH",
+  "isCore": false,
+  "topic": "society_politics",
+  "forms": [
+   "censored",
+   "censoring",
+   "censors"
+  ],
+  "senses": [
+   {
+    "id": "censor-1",
+    "pos": "v",
+    "ko": "검열하다, 삭제하다",
+    "en": "to remove parts of a film, book or message that officials do not allow",
+    "nuance": "보통 수동태 be censored로 쓰고, 힘 있는 쪽이 지운다는 뉘앙스가 강하다. 한국 학습자가 sensor(감지기)와 발음이 같아 철자를 자주 틀린다.",
+    "pattern": "be censored",
+    "examples": [
+     {
+      "en": "Two scenes were censored before the film opened here.",
+      "ko": "그 영화가 여기서 개봉하기 전에 두 장면이 삭제됐다.",
+      "focus": "were censored"
+     },
+     {
+      "en": "The government censors any news about the protests.",
+      "ko": "정부가 시위 관련 보도를 모두 검열한다.",
+      "focus": "censors any news"
+     }
+    ],
+    "collocations": [
+     "be censored",
+     "censor the news"
+    ]
+   }
+  ],
+  "wordFamily": [
+   {
+    "form": "censorship",
+    "pos": "n",
+    "ko": "검열"
+   }
+  ],
+  "confusables": [
+   {
+    "word": "sensor",
+    "note": "발음이 거의 같지만 sensor는 온도·움직임을 감지하는 '센서'이고 censor는 검열이다."
+   }
+  ]
+ },
+ {
+  "id": "certificate",
+  "headword": "certificate",
+  "ipa": "/sərˈtɪfɪkət/",
+  "level": "HIGH",
+  "isCore": false,
+  "topic": "school_learning",
+  "forms": [
+   "certificates"
+  ],
+  "senses": [
+   {
+    "id": "certificate-1",
+    "pos": "n",
+    "ko": "증명서, 수료증",
+    "en": "an official paper showing that something is true or that you finished a course",
+    "nuance": "출생·혼인 증명서와 수업 수료증에 모두 쓴다. 한국 학습자가 '자격증'을 certificate로 뭉뚱그리는데, 시험을 통과해 받는 국가 자격은 보통 license나 qualification이다.",
+    "pattern": "a certificate in + 분야",
+    "examples": [
+     {
+      "en": "You'll get a certificate when you finish the ten-week course.",
+      "ko": "10주 과정을 마치면 수료증을 받게 돼.",
+      "focus": "get a certificate"
+     },
+     {
+      "en": "The office asked me for a copy of my birth certificate.",
+      "ko": "사무실에서 출생증명서 사본을 달라고 했어.",
+      "focus": "my birth certificate"
+     }
+    ],
+    "collocations": [
+     "a birth certificate",
+     "get a certificate"
+    ]
+   }
+  ],
+  "confusables": [
+   {
+    "word": "license",
+    "note": "license는 운전·영업처럼 '해도 된다'는 허가증, certificate는 사실이나 이수를 증명하는 서류다."
+   }
+  ]
+ },
+ {
+  "id": "cheer",
+  "headword": "cheer",
+  "ipa": "/tʃɪr/",
+  "level": "HIGH",
+  "isCore": false,
+  "topic": "sports_leisure",
+  "forms": [
+   "cheered",
+   "cheering",
+   "cheers"
+  ],
+  "senses": [
+   {
+    "id": "cheer-1",
+    "pos": "v",
+    "ko": "환호하다, 응원하다",
+    "en": "to shout loudly to show you are pleased or to support a team",
+    "nuance": "'응원하다'를 support로만 외우면 소리 내는 느낌이 빠진다. 경기장에서 소리치며 응원하는 것은 cheer for our team이라고 하고 fighting은 영어에서 통하지 않는다.",
+    "pattern": "cheer for + 팀/사람",
+    "examples": [
+     {
+      "en": "The whole crowd cheered when Jun scored the second goal.",
+      "ko": "준이 두 번째 골을 넣자 관중 전체가 환호했어.",
+      "focus": "crowd cheered"
+     },
+     {
+      "en": "We'll be cheering for you at the finish line.",
+      "ko": "우리가 결승선에서 응원하고 있을게.",
+      "focus": "cheering for you"
+     }
+    ],
+    "collocations": [
+     "cheer for a team",
+     "cheer loudly",
+     "cheer someone up"
+    ]
+   }
+  ],
+  "wordFamily": [
+   {
+    "form": "cheerful",
+    "pos": "adj",
+    "ko": "밝은, 쾌활한"
+   }
+  ],
+  "confusables": [
+   {
+    "word": "support",
+    "note": "support는 마음으로 편드는 것까지 포함하고, cheer는 소리 내어 응원하는 동작이다."
+   }
+  ]
+ },
+ {
+  "id": "chef",
+  "headword": "chef",
+  "ipa": "/ʃef/",
+  "level": "HIGH",
+  "isCore": false,
+  "topic": "food_cooking",
+  "forms": [
+   "chefs"
+  ],
+  "senses": [
+   {
+    "id": "chef-1",
+    "pos": "n",
+    "ko": "요리사, 셰프",
+    "en": "a trained person who cooks in a restaurant as a job",
+    "nuance": "식당에서 직업으로 요리하는 사람만 chef이고, 집에서 요리를 잘하는 사람은 a good cook이라고 한다. 발음이 /tʃ/가 아니라 /ʃ/인 점도 함정이다.",
+    "pattern": "a chef at + 식당",
+    "examples": [
+     {
+      "en": "The chef came out and asked how we liked the soup.",
+      "ko": "셰프가 나와서 수프가 어땠는지 물어봤어.",
+      "focus": "The chef came out"
+     },
+     {
+      "en": "Emma trained as a chef in Paris for three years.",
+      "ko": "엠마는 파리에서 3년간 요리사 수련을 했어.",
+      "focus": "trained as a chef"
+     }
+    ],
+    "collocations": [
+     "a head chef",
+     "train as a chef"
+    ]
+   }
+  ],
+  "confusables": [
+   {
+    "word": "cook",
+    "note": "cook은 요리하는 사람 전반(집에서도), chef는 식당에서 훈련받은 전문 요리사다."
+   },
+   {
+    "word": "chief",
+    "note": "chief는 '우두머리'로 발음이 /tʃiːf/다. chef는 /ʃef/이므로 소리가 완전히 다르다."
+   }
+  ]
+ },
+ {
+  "id": "chemistry",
+  "headword": "chemistry",
+  "ipa": "/ˈkeməstri/",
+  "level": "HIGH",
+  "isCore": false,
+  "topic": "school_learning",
+  "senses": [
+   {
+    "id": "chemistry-1",
+    "pos": "n",
+    "ko": "화학",
+    "en": "the science of what things are made of and how they change",
+    "nuance": "과목명이라 불가산이고 관사도 붙이지 않아 study chemistry라고 한다. 첫소리가 /k/라서 ch를 /tʃ/로 읽으면 안 된다.",
+    "pattern": "study chemistry",
+    "examples": [
+     {
+      "en": "Mina studied chemistry before she moved into design.",
+      "ko": "미나는 디자인 쪽으로 가기 전에 화학을 전공했어.",
+      "focus": "studied chemistry"
+     },
+     {
+      "en": "We have a chemistry test right after lunch tomorrow.",
+      "ko": "내일 점심 바로 다음에 화학 시험이 있어.",
+      "focus": "a chemistry test"
+     }
+    ],
+    "collocations": [
+     "study chemistry",
+     "a chemistry lab"
+    ]
+   },
+   {
+    "id": "chemistry-2",
+    "pos": "n",
+    "ko": "궁합, 호흡",
+    "en": "a natural good feeling between two people working or acting together",
+    "nuance": "드라마 배우들의 '케미'가 바로 이 단어에서 왔고 영어로는 chemistry라고 통째로 쓴다. have chemistry 형태로 쓰며 have a chemistry라고 관사를 붙이지 않는다.",
+    "examples": [
+     {
+      "en": "The two leads have great chemistry in this drama.",
+      "ko": "이 드라마에서 두 주연 배우 케미가 진짜 좋아.",
+      "focus": "have great chemistry"
+     }
+    ]
+   }
+  ],
+  "wordFamily": [
+   {
+    "form": "chemical",
+    "pos": "adj",
+    "ko": "화학의, 화학적인"
+   }
+  ],
+  "confusables": [
+   {
+    "word": "chemical",
+    "note": "chemistry는 학문·궁합, chemical은 '화학 물질' 또는 '화학의'라는 형용사다."
+   }
+  ]
+ },
+ {
+  "id": "chew",
+  "headword": "chew",
+  "ipa": "/tʃuː/",
+  "level": "HIGH",
+  "isCore": false,
+  "topic": "food_cooking",
+  "forms": [
+   "chewed",
+   "chewing",
+   "chews"
+  ],
+  "senses": [
+   {
+    "id": "chew-1",
+    "pos": "v",
+    "ko": "씹다",
+    "en": "to break food into small pieces with your teeth",
+    "nuance": "삼키기 전에 이로 부수는 동작이라 eat과 다르다. 껌은 chew gum이라고 하고 eat gum이라고 하면 이상하게 들린다.",
+    "pattern": "chew + 명사",
+    "examples": [
+     {
+      "en": "The meat was tough and hard to chew.",
+      "ko": "고기가 질겨서 씹기 힘들었어.",
+      "focus": "hard to chew"
+     },
+     {
+      "en": "Please don't chew gum during the presentation.",
+      "ko": "발표 중에는 껌 씹지 말아 줘.",
+      "focus": "chew gum"
+     }
+    ],
+    "collocations": [
+     "chew gum",
+     "chew your food"
+    ]
+   }
+  ],
+  "confusables": [
+   {
+    "word": "bite",
+    "note": "bite는 이로 한 번 무는 것, chew는 입 안에서 계속 씹는 동작이다."
+   }
+  ]
+ },
+ {
+  "id": "chill",
+  "headword": "chill",
+  "ipa": "/tʃɪl/",
+  "level": "HIGH",
+  "isCore": false,
+  "topic": "home_daily",
+  "forms": [
+   "chilled",
+   "chilling",
+   "chills"
+  ],
+  "senses": [
+   {
+    "id": "chill-1",
+    "pos": "v",
+    "ko": "차게 식히다",
+    "en": "to make food or drink cold, but not frozen",
+    "nuance": "얼리는 freeze와 달리 냉장고에서 시원하게만 만드는 것이다. 요리법에 chill for two hours처럼 자주 나온다.",
+    "pattern": "chill + 명사",
+    "examples": [
+     {
+      "en": "Chill the drinks for an hour before the guests arrive.",
+      "ko": "손님 오시기 한 시간 전에 음료를 시원하게 해 둬.",
+      "focus": "Chill the drinks"
+     },
+     {
+      "en": "The soup tastes better chilled than hot, honestly.",
+      "ko": "솔직히 그 수프는 뜨거울 때보다 차갑게 먹는 게 나아.",
+      "focus": "better chilled"
+     }
+    ],
+    "collocations": [
+     "chill the wine",
+     "serve chilled"
+    ]
+   },
+   {
+    "id": "chill-2",
+    "pos": "v",
+    "ko": "느긋하게 쉬다",
+    "en": "to relax and do nothing much, in informal speech",
+    "nuance": "친구끼리만 쓰는 아주 구어적인 말이라 직장 상사에게는 쓰지 않는다. 한국에서 쓰는 '칠하다'라는 말이 여기서 왔고, 영어로는 chill 또는 chill out이라고 한다.",
+    "examples": [
+     {
+      "en": "I just want to chill at home this weekend.",
+      "ko": "이번 주말엔 그냥 집에서 쉬고 싶어.",
+      "focus": "chill at home"
+     }
+    ]
+   }
+  ],
+  "confusables": [
+   {
+    "word": "freeze",
+    "note": "freeze는 얼려서 고체로 만드는 것, chill은 차갑게만 하는 것이다."
+   }
+  ]
+ },
+ {
+  "id": "chin",
+  "headword": "chin",
+  "ipa": "/tʃɪn/",
+  "level": "HIGH",
+  "isCore": false,
+  "topic": "body_health",
+  "forms": [
+   "chins"
+  ],
+  "senses": [
+   {
+    "id": "chin-1",
+    "pos": "n",
+    "ko": "턱",
+    "en": "the part of your face below your mouth",
+    "nuance": "입 아래 앞쪽만 chin이고, 옆으로 넓은 턱뼈와 볼 부근은 jaw다. 한국어로는 둘 다 '턱'이라 자주 섞인다.",
+    "pattern": "one's chin",
+    "examples": [
+     {
+      "en": "He rested his chin on his hand and stared outside.",
+      "ko": "걔는 턱을 손에 괴고 밖을 쳐다봤어.",
+      "focus": "rested his chin"
+     },
+     {
+      "en": "You have a bit of sauce on your chin.",
+      "ko": "턱에 소스가 좀 묻었어.",
+      "focus": "on your chin"
+     }
+    ],
+    "collocations": [
+     "rest your chin on",
+     "a pointed chin"
+    ]
+   }
+  ],
+  "confusables": [
+   {
+    "word": "jaw",
+    "note": "jaw는 귀 아래로 이어지는 턱뼈 전체, chin은 입 아래 튀어나온 앞부분이다."
+   }
+  ]
+ },
+ {
+  "id": "choir",
+  "headword": "choir",
+  "ipa": "/ˈkwaɪər/",
+  "level": "HIGH",
+  "isCore": false,
+  "topic": "culture_arts",
+  "forms": [
+   "choirs"
+  ],
+  "senses": [
+   {
+    "id": "choir-1",
+    "pos": "n",
+    "ko": "합창단",
+    "en": "a group of people who sing together, often in a church",
+    "nuance": "철자와 소리가 전혀 안 맞아 /ˈkwaɪər/로 외워야 하는 대표 단어다. '합창단에 들어가다'는 join the choir, 소속되어 있으면 sing in the choir라고 한다.",
+    "pattern": "sing in a choir",
+    "examples": [
+     {
+      "en": "My sister sings in a choir every Sunday morning.",
+      "ko": "우리 언니는 일요일 아침마다 합창단에서 노래해.",
+      "focus": "sings in a choir"
+     },
+     {
+      "en": "The school choir practiced for two hours after class.",
+      "ko": "학교 합창단이 수업 끝나고 두 시간 연습했어.",
+      "focus": "The school choir"
+     }
+    ],
+    "collocations": [
+     "join a choir",
+     "a school choir"
+    ]
+   }
+  ],
+  "confusables": [
+   {
+    "word": "chorus",
+    "note": "chorus는 노래의 후렴구나 대규모 합창단, choir는 보통 교회·학교의 합창단이다."
+   }
+  ],
+  "memoryHook": "ch-를 /k/로, -oir를 /waɪər/로 읽어 '콰이어'라고 발음한다."
+ },
+ {
+  "id": "chop",
+  "headword": "chop",
+  "ipa": "/tʃɑːp/",
+  "level": "HIGH",
+  "isCore": false,
+  "topic": "food_cooking",
+  "forms": [
+   "chopped",
+   "chopping",
+   "chops"
+  ],
+  "senses": [
+   {
+    "id": "chop-1",
+    "pos": "v",
+    "ko": "썰다, 잘게 자르다",
+    "en": "to cut food or wood into pieces with quick, strong strokes",
+    "nuance": "칼을 위아래로 내리쳐 토막 내는 것이라 cut보다 동작이 거칠다. 요리법에서는 보통 chop up 또는 finely chopped 형태로 나온다.",
+    "pattern": "chop + 명사",
+    "examples": [
+     {
+      "en": "Can you chop the onions while I heat the pan?",
+      "ko": "내가 팬 데우는 동안 양파 좀 썰어 줄래?",
+      "focus": "chop the onions"
+     },
+     {
+      "en": "Add two spoons of finely chopped garlic at the end.",
+      "ko": "마지막에 곱게 다진 마늘 두 스푼을 넣어.",
+      "focus": "finely chopped garlic"
+     }
+    ],
+    "collocations": [
+     "chop onions",
+     "finely chopped",
+     "chop wood"
+    ]
+   }
+  ],
+  "confusables": [
+   {
+    "word": "slice",
+    "note": "slice는 얇고 납작하게 저미는 것, chop은 작은 덩어리로 툭툭 자르는 것이다."
+   }
+  ]
+ },
+ {
+  "id": "chorus",
+  "headword": "chorus",
+  "ipa": "/ˈkɔːrəs/",
+  "level": "HIGH",
+  "isCore": false,
+  "topic": "culture_arts",
+  "forms": [
+   "choruses"
+  ],
+  "senses": [
+   {
+    "id": "chorus-1",
+    "pos": "n",
+    "ko": "후렴, 코러스",
+    "en": "the part of a song that is repeated after each verse",
+    "nuance": "노래에서 반복되는 부분을 가리키며 한국에서 말하는 '후렴구'다. 한국어 '코러스'는 배경 화음을 뜻할 때가 많은데 그건 backing vocals라고 한다.",
+    "pattern": "the chorus of + 노래",
+    "examples": [
+     {
+      "en": "Everyone sang along when the chorus came on again.",
+      "ko": "후렴이 다시 나오자 다들 따라 불렀어.",
+      "focus": "the chorus came on"
+     },
+     {
+      "en": "I only remember the chorus, not the first verse.",
+      "ko": "나는 첫 소절 말고 후렴만 기억나.",
+      "focus": "remember the chorus"
+     }
+    ],
+    "collocations": [
+     "sing the chorus",
+     "a catchy chorus"
+    ]
+   }
+  ],
+  "confusables": [
+   {
+    "word": "verse",
+    "note": "verse는 가사가 매번 바뀌는 절, chorus는 똑같이 반복되는 후렴이다."
+   }
+  ]
+ },
+ {
+  "id": "circulate",
+  "headword": "circulate",
+  "ipa": "/ˈsɜːrkjəleɪt/",
+  "level": "HIGH",
+  "isCore": false,
+  "topic": "work_business",
+  "forms": [
+   "circulated",
+   "circulates",
+   "circulating"
+  ],
+  "senses": [
+   {
+    "id": "circulate-1",
+    "pos": "v",
+    "ko": "돌다, 퍼지다",
+    "en": "to move around a system, or to spread among many people",
+    "nuance": "피·공기처럼 순환하는 것과 소문·문서가 돌아다니는 것에 모두 쓴다. 회사에서 '문서를 회람하다'는 circulate the document라고 하며 spread보다 격식 있다.",
+    "pattern": "circulate + 명사",
+    "examples": [
+     {
+      "en": "I'll circulate the agenda before Friday's meeting.",
+      "ko": "금요일 회의 전에 안건을 돌리겠습니다.",
+      "focus": "circulate the agenda"
+     },
+     {
+      "en": "Rumors about the merger circulated all week.",
+      "ko": "합병 소문이 일주일 내내 돌았어.",
+      "focus": "circulated all week"
+     }
+    ],
+    "collocations": [
+     "circulate a document",
+     "blood circulates"
+    ]
+   }
+  ],
+  "wordFamily": [
+   {
+    "form": "circulation",
+    "pos": "n",
+    "ko": "순환, 유통"
+   }
+  ],
+  "confusables": [
+   {
+    "word": "calculate",
+    "note": "철자가 닮았지만 calculate는 '계산하다'이고 circulate는 '돌다, 퍼지다'다."
+   }
+  ]
+ },
+ {
+  "id": "clap",
+  "headword": "clap",
+  "ipa": "/klæp/",
+  "level": "HIGH",
+  "isCore": false,
+  "topic": "movement_action",
+  "forms": [
+   "clapped",
+   "clapping",
+   "claps"
+  ],
+  "senses": [
+   {
+    "id": "clap-1",
+    "pos": "v",
+    "ko": "박수 치다",
+    "en": "to hit your hands together to show you liked something",
+    "nuance": "'박수를 치다'를 hit hands라고 하면 안 되고 clap 한 단어로 끝난다. 목적어 없이 쓰거나 clap for someone 형태로 쓴다.",
+    "pattern": "clap for + 사람",
+    "examples": [
+     {
+      "en": "The audience clapped for almost a full minute.",
+      "ko": "관객들이 거의 1분 내내 박수를 쳤어.",
+      "focus": "clapped for almost a full minute"
+     },
+     {
+      "en": "Everyone started clapping as soon as she finished.",
+      "ko": "그분이 끝내자마자 다들 박수를 치기 시작했어.",
+      "focus": "started clapping"
+     }
+    ],
+    "collocations": [
+     "clap your hands",
+     "clap loudly"
+    ]
+   }
+  ],
+  "confusables": [
+   {
+    "word": "applaud",
+    "note": "applaud는 격식 있는 글에서 쓰는 '박수로 칭찬하다', clap은 일상 동작 그대로다."
+   }
+  ]
+ },
+ {
+  "id": "clarify",
+  "headword": "clarify",
+  "ipa": "/ˈklærəfaɪ/",
+  "level": "HIGH",
+  "isCore": false,
+  "topic": "communication",
+  "forms": [
+   "clarified",
+   "clarifies",
+   "clarifying"
+  ],
+  "senses": [
+   {
+    "id": "clarify-1",
+    "pos": "v",
+    "ko": "명확히 하다, 분명히 밝히다",
+    "en": "to explain something again so it becomes easier to understand",
+    "nuance": "회의·이메일에서 오해를 풀 때 쓰는 정중한 동사다. explain이 처음 설명하는 것이라면 clarify는 이미 나온 말을 또렷하게 다듬는 것이다.",
+    "pattern": "clarify + 명사 / clarify that절",
+    "examples": [
+     {
+      "en": "Could you clarify what you meant by the second option?",
+      "ko": "두 번째 안이 무슨 뜻인지 좀 명확히 해 주시겠어요?",
+      "focus": "clarify what you meant"
+     },
+     {
+      "en": "Tom clarified that the deadline is Monday, not Friday.",
+      "ko": "톰이 마감이 금요일이 아니라 월요일이라고 분명히 했어.",
+      "focus": "clarified that the deadline"
+     }
+    ],
+    "collocations": [
+     "clarify a point",
+     "clarify the situation"
+    ]
+   }
+  ],
+  "wordFamily": [
+   {
+    "form": "clarification",
+    "pos": "n",
+    "ko": "설명, 해명"
+   }
+  ],
+  "confusables": [
+   {
+    "word": "explain",
+    "note": "explain은 처음부터 설명하는 것, clarify는 이미 말한 것을 헷갈리지 않게 다시 정리하는 것이다."
+   },
+   {
+    "word": "classify",
+    "note": "철자가 비슷하지만 classify는 '분류하다'로 뜻이 전혀 다르다."
+   }
+  ]
+ },
+ {
+  "id": "clash",
+  "headword": "clash",
+  "ipa": "/klæʃ/",
+  "level": "HIGH",
+  "isCore": false,
+  "topic": "society_politics",
+  "forms": [
+   "clashed",
+   "clashes",
+   "clashing"
+  ],
+  "senses": [
+   {
+    "id": "clash-1",
+    "pos": "v",
+    "ko": "충돌하다, 겹치다",
+    "en": "to argue strongly, or for two events to happen at the same time",
+    "nuance": "사람끼리 세게 부딪히는 것뿐 아니라 일정이 겹칠 때도 쓴다. 한국 학습자가 일정 충돌에 crash를 쓰기 쉬운데 그건 사고를 뜻하므로 clash가 맞다.",
+    "pattern": "clash with + 명사",
+    "examples": [
+     {
+      "en": "The meeting clashes with my dentist appointment on Tuesday.",
+      "ko": "회의가 화요일 치과 예약이랑 겹쳐.",
+      "focus": "clashes with my dentist appointment"
+     },
+     {
+      "en": "The two managers clashed over the new budget.",
+      "ko": "두 관리자가 새 예산을 두고 충돌했어.",
+      "focus": "clashed over the new budget"
+     }
+    ],
+    "collocations": [
+     "clash with someone",
+     "clash over an issue"
+    ]
+   }
+  ],
+  "confusables": [
+   {
+    "word": "crash",
+    "note": "crash는 차 사고처럼 물리적 충돌, clash는 의견 다툼이나 일정이 겹치는 것이다."
+   }
+  ]
+ },
+ {
+  "id": "clay",
+  "headword": "clay",
+  "ipa": "/kleɪ/",
+  "level": "HIGH",
+  "isCore": false,
+  "topic": "culture_arts",
+  "senses": [
+   {
+    "id": "clay-1",
+    "pos": "n",
+    "ko": "점토, 찰흙",
+    "en": "heavy, soft earth that becomes hard when it is baked",
+    "nuance": "재료라서 불가산이고 a clay라고 하지 않는다. 그릇이나 인형을 만들 때는 made of clay, 만드는 활동은 work with clay라고 한다.",
+    "pattern": "be made of clay",
+    "examples": [
+     {
+      "en": "The children made small animals out of clay today.",
+      "ko": "아이들이 오늘 찰흙으로 작은 동물을 만들었어.",
+      "focus": "out of clay"
+     },
+     {
+      "en": "These bowls are made of clay and baked twice.",
+      "ko": "이 그릇들은 점토로 만들어서 두 번 구운 거야.",
+      "focus": "made of clay"
+     }
+    ],
+    "collocations": [
+     "made of clay",
+     "a clay pot"
+    ]
+   }
+  ],
+  "confusables": [
+   {
+    "word": "mud",
+    "note": "mud는 물에 젖은 진흙, clay는 도자기나 공예에 쓰는 고운 점토다."
+   }
+  ]
+ },
+ {
+  "id": "client",
+  "headword": "client",
+  "ipa": "/ˈklaɪənt/",
+  "level": "HIGH",
+  "isCore": false,
+  "topic": "work_business",
+  "forms": [
+   "clients"
+  ],
+  "senses": [
+   {
+    "id": "client-1",
+    "pos": "n",
+    "ko": "고객, 의뢰인",
+    "en": "a person or company that pays for professional services",
+    "nuance": "변호사·디자이너·광고회사처럼 전문 서비스를 받는 쪽이 client다. 가게에서 물건을 사는 사람은 customer이므로 카페 손님을 client라고 하면 어색하다.",
+    "pattern": "a client of + 회사",
+    "examples": [
+     {
+      "en": "I have a call with an important client at three.",
+      "ko": "세 시에 중요한 고객이랑 통화가 있어.",
+      "focus": "an important client"
+     },
+     {
+      "en": "Our clients expect a reply within one business day.",
+      "ko": "우리 고객들은 영업일 하루 안에 답변을 기대해.",
+      "focus": "Our clients expect a reply"
+     }
+    ],
+    "collocations": [
+     "a major client",
+     "meet a client"
+    ]
+   }
+  ],
+  "confusables": [
+   {
+    "word": "customer",
+    "note": "customer는 물건을 사는 손님, client는 전문 서비스를 의뢰하는 고객이다."
+   }
+  ]
+ },
+ {
+  "id": "cliff",
+  "headword": "cliff",
+  "ipa": "/klɪf/",
+  "level": "HIGH",
+  "isCore": false,
+  "topic": "nature_animals",
+  "forms": [
+   "cliffs"
+  ],
+  "senses": [
+   {
+    "id": "cliff-1",
+    "pos": "n",
+    "ko": "절벽",
+    "en": "a high rock wall with a steep drop, often by the sea",
+    "nuance": "'절벽 위'는 on top of the cliff, '절벽 가장자리'는 the edge of the cliff라고 쓴다. 단순한 언덕 hill과 달리 수직에 가깝게 떨어지는 지형을 말한다.",
+    "pattern": "the edge of the cliff",
+    "examples": [
+     {
+      "en": "Don't stand too close to the edge of the cliff.",
+      "ko": "절벽 끝에 너무 가까이 서지 마.",
+      "focus": "the edge of the cliff"
+     },
+     {
+      "en": "The path runs along the cliffs above the beach.",
+      "ko": "그 길은 해변 위 절벽을 따라 이어져.",
+      "focus": "along the cliffs"
+     }
+    ],
+    "collocations": [
+     "the edge of a cliff",
+     "a steep cliff"
+    ]
+   }
+  ],
+  "confusables": [
+   {
+    "word": "hill",
+    "note": "hill은 완만하게 올라가는 언덕, cliff는 거의 수직으로 떨어지는 절벽이다."
+   }
+  ]
+ },
+ {
+  "id": "cling",
+  "headword": "cling",
+  "ipa": "/klɪŋ/",
+  "level": "HIGH",
+  "isCore": false,
+  "topic": "movement_action",
+  "forms": [
+   "clinging",
+   "clings",
+   "clung"
+  ],
+  "senses": [
+   {
+    "id": "cling-1",
+    "pos": "v",
+    "ko": "매달리다, 달라붙다",
+    "en": "to hold on very tightly, or to stick to a surface",
+    "nuance": "거의 언제나 cling to + 명사 형태로 쓰고 to를 빼면 틀린다. 과거형이 clinged가 아니라 clung인 불규칙 동사다.",
+    "pattern": "cling to + 명사",
+    "examples": [
+     {
+      "en": "The child clung to her mother's arm on the boat.",
+      "ko": "아이가 배 위에서 엄마 팔에 꼭 매달려 있었어.",
+      "focus": "clung to her mother's arm"
+     },
+     {
+      "en": "My wet shirt was clinging to my back all afternoon.",
+      "ko": "젖은 셔츠가 오후 내내 등에 달라붙어 있었어.",
+      "focus": "clinging to my back"
+     }
+    ],
+    "collocations": [
+     "cling to someone",
+     "cling to hope"
+    ]
+   }
+  ],
+  "confusables": [
+   {
+    "word": "hold",
+    "note": "hold는 그냥 잡는 것, cling은 놓치지 않으려 필사적으로 붙잡는 느낌이다."
+   }
+  ]
+ },
+ {
+  "id": "clinic",
+  "headword": "clinic",
+  "ipa": "/ˈklɪnɪk/",
+  "level": "HIGH",
+  "isCore": false,
+  "topic": "body_health",
+  "forms": [
+   "clinics"
+  ],
+  "senses": [
+   {
+    "id": "clinic-1",
+    "pos": "n",
+    "ko": "의원, 진료소",
+    "en": "a small place where you see a doctor but do not stay overnight",
+    "nuance": "입원 시설이 있는 hospital과 달리 clinic은 진료만 받고 돌아오는 작은 곳이다. 한국 학습자가 감기로 hospital에 간다고 말하면 큰 병을 의심받으므로 clinic이 자연스럽다.",
+    "pattern": "go to a clinic",
+    "examples": [
+     {
+      "en": "I went to a clinic near my office for a flu shot.",
+      "ko": "독감 주사 맞으러 사무실 근처 의원에 갔어.",
+      "focus": "went to a clinic"
+     },
+     {
+      "en": "The eye clinic opens at nine on weekdays.",
+      "ko": "그 안과는 평일에 아홉 시에 열어.",
+      "focus": "The eye clinic opens"
+     }
+    ],
+    "collocations": [
+     "a dental clinic",
+     "go to the clinic"
+    ]
+   }
+  ],
+  "confusables": [
+   {
+    "word": "hospital",
+    "note": "hospital은 입원·수술이 가능한 큰 병원, clinic은 외래 진료만 하는 동네 의원이다."
+   }
+  ]
+ },
+ {
+  "id": "clue",
+  "headword": "clue",
+  "ipa": "/kluː/",
+  "level": "HIGH",
+  "isCore": false,
+  "topic": "thinking_opinion",
+  "forms": [
+   "clues"
+  ],
+  "senses": [
+   {
+    "id": "clue-1",
+    "pos": "n",
+    "ko": "단서, 실마리",
+    "en": "a piece of information that helps you solve a problem or mystery",
+    "nuance": "'전혀 모르겠다'를 I have no clue라는 굳어진 표현으로 말하는 것이 가장 실용적이다. 증거 evidence와 달리 완전하지 않은 힌트 수준을 가리킨다.",
+    "pattern": "a clue to + 명사",
+    "examples": [
+     {
+      "en": "Honestly, I have no clue where I left my keys.",
+      "ko": "솔직히 열쇠를 어디 뒀는지 전혀 모르겠어.",
+      "focus": "I have no clue"
+     },
+     {
+      "en": "The photo gave us a clue about the missing file.",
+      "ko": "그 사진이 사라진 파일에 대한 단서를 줬어.",
+      "focus": "gave us a clue"
+     }
+    ],
+    "collocations": [
+     "have no clue",
+     "give a clue",
+     "a clue to the mystery"
+    ]
+   }
+  ],
+  "confusables": [
+   {
+    "word": "hint",
+    "note": "hint는 일부러 흘려 주는 힌트, clue는 사건을 풀 실마리로 우연히 남은 것도 포함한다."
+   }
+  ]
+ },
+ {
+  "id": "coincide",
+  "headword": "coincide",
+  "ipa": "/ˌkoʊɪnˈsaɪd/",
+  "level": "HIGH",
+  "isCore": false,
+  "topic": "time_quantity",
+  "forms": [
+   "coincided",
+   "coincides",
+   "coinciding"
+  ],
+  "senses": [
+   {
+    "id": "coincide-1",
+    "pos": "v",
+    "ko": "동시에 일어나다, 겹치다",
+    "en": "to happen at the same time as something else",
+    "nuance": "거의 항상 coincide with + 명사 형태로 쓰며 with를 빼면 틀린다. 일정이 겹쳐 곤란하다는 뉘앙스의 clash와 달리 중립적이거나 우연의 일치를 뜻한다.",
+    "pattern": "coincide with + 명사",
+    "examples": [
+     {
+      "en": "Our trip coincides with the cherry blossom festival this year.",
+      "ko": "올해 우리 여행이 벚꽃 축제랑 겹쳐.",
+      "focus": "coincides with the cherry blossom festival"
+     },
+     {
+      "en": "The sale coincided with the opening of the new store.",
+      "ko": "그 세일은 새 매장 개점과 같은 시기에 진행됐다.",
+      "focus": "coincided with the opening"
+     }
+    ],
+    "collocations": [
+     "coincide with an event"
+    ]
+   }
+  ],
+  "wordFamily": [
+   {
+    "form": "coincidence",
+    "pos": "n",
+    "ko": "우연의 일치"
+   }
+  ],
+  "confusables": [
+   {
+    "word": "clash",
+    "note": "clash는 겹쳐서 곤란하다는 부정적 뉘앙스, coincide는 그냥 같은 때에 일어난다는 사실 서술이다."
+   }
+  ]
+ },
+ {
+  "id": "collaborate",
+  "headword": "collaborate",
+  "ipa": "/kəˈlæbəreɪt/",
+  "level": "HIGH",
+  "isCore": false,
+  "topic": "work_business",
+  "forms": [
+   "collaborated",
+   "collaborates",
+   "collaborating"
+  ],
+  "senses": [
+   {
+    "id": "collaborate-1",
+    "pos": "v",
+    "ko": "협업하다, 공동 작업하다",
+    "en": "to work together with others on a project",
+    "nuance": "사람과 함께할 때는 with, 프로젝트를 말할 때는 on을 써서 collaborate with A on B라고 한다. 한국 학습자가 cooperate와 섞는데 collaborate는 같이 결과물을 만드는 쪽이다.",
+    "pattern": "collaborate with A on B",
+    "examples": [
+     {
+      "en": "We collaborated with a design team in London last year.",
+      "ko": "작년에 런던의 디자인 팀과 협업했어.",
+      "focus": "collaborated with a design team"
+     },
+     {
+      "en": "Two departments are collaborating on the new app.",
+      "ko": "두 부서가 새 앱을 함께 만들고 있어.",
+      "focus": "collaborating on the new app"
+     }
+    ],
+    "collocations": [
+     "collaborate with someone",
+     "collaborate on a project"
+    ]
+   }
+  ],
+  "wordFamily": [
+   {
+    "form": "collaboration",
+    "pos": "n",
+    "ko": "협업, 공동 작업"
+   }
+  ],
+  "confusables": [
+   {
+    "word": "cooperate",
+    "note": "cooperate는 남의 일에 협조해 주는 것, collaborate는 같이 하나를 만들어 내는 것이다."
+   }
+  ]
+ },
+ {
+  "id": "collar",
+  "headword": "collar",
+  "ipa": "/ˈkɑːlər/",
+  "level": "HIGH",
+  "isCore": false,
+  "topic": "description_quality",
+  "forms": [
+   "collars"
+  ],
+  "senses": [
+   {
+    "id": "collar-1",
+    "pos": "n",
+    "ko": "옷깃, 목줄",
+    "en": "the part of a shirt around your neck, or a band around a pet's neck",
+    "nuance": "셔츠의 깃과 강아지 목줄이 같은 단어다. 사무직을 a white-collar job이라고 부르는 표현도 여기서 나왔다.",
+    "pattern": "a shirt collar",
+    "examples": [
+     {
+      "en": "Your shirt collar is folded in at the back.",
+      "ko": "셔츠 깃이 뒤쪽으로 접혀 들어갔어.",
+      "focus": "Your shirt collar"
+     },
+     {
+      "en": "The dog's collar has our phone number on it.",
+      "ko": "강아지 목줄에 우리 전화번호가 적혀 있어.",
+      "focus": "The dog's collar"
+     }
+    ],
+    "collocations": [
+     "a shirt collar",
+     "a white-collar job"
+    ]
+   }
+  ],
+  "confusables": [
+   {
+    "word": "color",
+    "note": "철자가 한 글자 차이라 자주 틀린다. collar는 /ˈkɑːlər/ 옷깃, color는 /ˈkʌlər/ 색이다."
+   },
+   {
+    "word": "dollar",
+    "note": "collar와 dollar는 첫 자음만 다르고 발음이 거의 같아 듣기에서 헷갈린다."
+   }
+  ]
+ },
+ {
+  "id": "colony",
+  "headword": "colony",
+  "ipa": "/ˈkɑːləni/",
+  "level": "HIGH",
+  "isCore": false,
+  "topic": "society_politics",
+  "forms": [
+   "colonies"
+  ],
+  "senses": [
+   {
+    "id": "colony-1",
+    "pos": "n",
+    "ko": "식민지",
+    "en": "a country or area controlled by another country",
+    "nuance": "역사 수업에서 자주 나오며 a colony of + 나라 형태로 쓴다. 복수는 colonys가 아니라 colonies다.",
+    "pattern": "a colony of + 나라",
+    "examples": [
+     {
+      "en": "India was a British colony until nineteen forty-seven.",
+      "ko": "인도는 1947년까지 영국 식민지였다.",
+      "focus": "a British colony"
+     },
+     {
+      "en": "Many former colonies changed their names after independence.",
+      "ko": "많은 옛 식민지들이 독립 후 국명을 바꿨다.",
+      "focus": "Many former colonies"
+     }
+    ],
+    "collocations": [
+     "a former colony",
+     "a British colony"
+    ]
+   },
+   {
+    "id": "colony-2",
+    "pos": "n",
+    "ko": "군집, 무리",
+    "en": "a large group of the same animals living together",
+    "nuance": "개미·펭귄처럼 한곳에 모여 사는 동물 무리를 셀 때 a colony of ants라고 한다. group보다 '한 장소에 정착한 집단'이라는 뜻이 강하다.",
+    "examples": [
+     {
+      "en": "We saw a huge colony of penguins on the island.",
+      "ko": "그 섬에서 엄청 큰 펭귄 무리를 봤어.",
+      "focus": "a huge colony of penguins"
+     }
+    ]
+   }
+  ],
+  "wordFamily": [
+   {
+    "form": "colonial",
+    "pos": "adj",
+    "ko": "식민지의"
+   }
+  ],
+  "confusables": [
+   {
+    "word": "country",
+    "note": "country는 독립된 나라, colony는 다른 나라의 지배를 받는 지역이다."
+   }
+  ]
+ },
+ {
+  "id": "combat",
+  "headword": "combat",
+  "ipa": "/ˈkɑːmbæt/",
+  "level": "HIGH",
+  "isCore": false,
+  "topic": "society_politics",
+  "forms": [
+   "combated",
+   "combating",
+   "combats"
+  ],
+  "senses": [
+   {
+    "id": "combat-1",
+    "pos": "v",
+    "ko": "맞서 싸우다, 퇴치하다",
+    "en": "to try hard to stop something bad from growing",
+    "nuance": "사람이 아니라 범죄·기후변화·질병 같은 문제를 상대로 쓴다. 뉴스·보고서에서 fight 대신 쓰는 격식체이며 전치사 없이 바로 목적어를 붙인다.",
+    "pattern": "combat + 문제",
+    "examples": [
+     {
+      "en": "The city is spending more money to combat air pollution.",
+      "ko": "그 시는 대기오염에 맞서려고 예산을 더 쓰고 있다.",
+      "focus": "combat air pollution"
+     },
+     {
+      "en": "New rules were introduced to combat online fraud.",
+      "ko": "온라인 사기를 막기 위해 새 규정이 도입됐다.",
+      "focus": "combat online fraud"
+     }
+    ],
+    "collocations": [
+     "combat crime",
+     "combat climate change"
+    ]
+   }
+  ],
+  "confusables": [
+   {
+    "word": "fight",
+    "note": "fight는 사람끼리 싸우는 것도 되지만, combat은 주로 사회 문제를 상대로 쓰는 격식어다."
+   }
+  ],
+  "memoryHook": "명사로 쓰면 강세가 앞(COM-bat), 동사로 쓰면 뒤로 가기도 한다."
+ },
+ {
+  "id": "commerce",
+  "headword": "commerce",
+  "ipa": "/ˈkɑːmɜːrs/",
+  "level": "HIGH",
+  "isCore": false,
+  "topic": "money_shopping",
+  "senses": [
+   {
+    "id": "commerce-1",
+    "pos": "n",
+    "ko": "상업, 거래",
+    "en": "the buying and selling of goods, especially between countries",
+    "nuance": "불가산이라 a commerce나 commerces라고 쓰지 않는다. 한국에서 흔히 쓰는 '이커머스'가 e-commerce이며 온라인 거래를 뜻한다.",
+    "pattern": "commerce between A and B",
+    "examples": [
+     {
+      "en": "Online commerce grew quickly after the shops closed.",
+      "ko": "가게들이 문을 닫은 뒤 온라인 상거래가 빠르게 성장했다.",
+      "focus": "Online commerce grew"
+     },
+     {
+      "en": "The river was once the center of local commerce.",
+      "ko": "그 강은 한때 지역 상업의 중심이었다.",
+      "focus": "the center of local commerce"
+     }
+    ],
+    "collocations": [
+     "international commerce",
+     "e-commerce"
+    ]
+   }
+  ],
+  "wordFamily": [
+   {
+    "form": "commercial",
+    "pos": "adj",
+    "ko": "상업의, 상업적인"
+   }
+  ],
+  "confusables": [
+   {
+    "word": "trade",
+    "note": "trade가 더 일상적이고 구체적인 거래를 말하며, commerce는 상업 활동 전체를 가리키는 격식어다."
+   }
+  ]
+ },
+ {
+  "id": "communist",
+  "headword": "communist",
+  "ipa": "/ˈkɑːmjənɪst/",
+  "level": "HIGH",
+  "isCore": false,
+  "topic": "society_politics",
+  "senses": [
+   {
+    "id": "communist-1",
+    "pos": "adj",
+    "ko": "공산주의의",
+    "en": "based on the political idea that the state owns most property",
+    "nuance": "정치 체제를 설명하는 형용사라 a communist country처럼 명사 앞에 붙는다. community(지역 사회)와 어원만 닮았을 뿐 뜻이 전혀 다르니 섞지 않는다.",
+    "pattern": "a communist + 명사",
+    "examples": [
+     {
+      "en": "The book explains how the communist system worked there.",
+      "ko": "그 책은 거기서 공산주의 체제가 어떻게 작동했는지 설명한다.",
+      "focus": "the communist system"
+     },
+     {
+      "en": "She studied the history of communist parties in Europe.",
+      "ko": "그분은 유럽 공산당의 역사를 연구했다.",
+      "focus": "communist parties"
+     }
+    ],
+    "collocations": [
+     "a communist country",
+     "the communist party"
+    ]
+   }
+  ],
+  "wordFamily": [
+   {
+    "form": "communism",
+    "pos": "n",
+    "ko": "공산주의"
+   }
+  ],
+  "confusables": [
+   {
+    "word": "community",
+    "note": "철자가 닮았지만 community는 '지역 사회'이고 communist는 정치 이념을 가리킨다."
+   }
+  ]
+ },
+ {
+  "id": "companion",
+  "headword": "companion",
+  "ipa": "/kəmˈpænjən/",
+  "level": "HIGH",
+  "isCore": false,
+  "topic": "people_family",
+  "forms": [
+   "companions"
+  ],
+  "senses": [
+   {
+    "id": "companion-1",
+    "pos": "n",
+    "ko": "동반자, 말동무",
+    "en": "someone who spends time with you, often on a trip",
+    "nuance": "friend보다 '함께 시간을 보내는 사람'이라는 뜻이 강해서 여행이나 노년의 반려에 쓴다. 회사 company와 철자가 닮았지만 전혀 다른 단어다.",
+    "pattern": "a travel companion",
+    "examples": [
+     {
+      "en": "Jun was a great travel companion on our trip to Busan.",
+      "ko": "준은 부산 여행에서 정말 좋은 동행이었어.",
+      "focus": "a great travel companion"
+     },
+     {
+      "en": "Her old dog has been her companion for twelve years.",
+      "ko": "그분의 늙은 강아지가 12년째 반려가 되어 줬어.",
+      "focus": "has been her companion"
+     }
+    ],
+    "collocations": [
+     "a travel companion",
+     "a constant companion"
+    ]
+   }
+  ],
+  "confusables": [
+   {
+    "word": "company",
+    "note": "company는 '회사' 또는 '함께 있어 줌'이라는 불가산 명사, companion은 그 사람 자체다."
+   }
+  ]
+ },
+ {
+  "id": "competent",
+  "headword": "competent",
+  "ipa": "/ˈkɑːmpɪtənt/",
+  "level": "HIGH",
+  "isCore": false,
+  "topic": "work_business",
+  "senses": [
+   {
+    "id": "competent-1",
+    "pos": "adj",
+    "ko": "유능한, 일 잘하는",
+    "en": "having enough skill to do a job properly",
+    "nuance": "'아주 훌륭하다'가 아니라 '맡은 일은 제대로 한다'는 중간 정도의 칭찬이다. 상사에게 You're competent라고 하면 밋밋하게 들리니 excellent 쪽을 쓴다.",
+    "pattern": "be competent at + 명사",
+    "examples": [
+     {
+      "en": "She's a competent manager, though not a very warm one.",
+      "ko": "그분은 따뜻한 편은 아니지만 일은 제대로 하는 관리자야.",
+      "focus": "a competent manager"
+     },
+     {
+      "en": "You need to be competent at basic spreadsheets for this role.",
+      "ko": "이 자리는 기본적인 스프레드시트는 다룰 줄 알아야 해.",
+      "focus": "be competent at basic spreadsheets"
+     }
+    ],
+    "collocations": [
+     "a competent teacher",
+     "highly competent"
+    ]
+   }
+  ],
+  "wordFamily": [
+   {
+    "form": "competence",
+    "pos": "n",
+    "ko": "능력, 역량"
+   }
+  ],
+  "confusables": [
+   {
+    "word": "competitive",
+    "note": "competitive는 '경쟁심이 강한', competent는 '일을 해낼 능력이 있는'이다. 철자가 비슷해 자주 섞인다."
+   }
+  ]
+ },
+ {
+  "id": "complement",
+  "headword": "complement",
+  "ipa": "/ˈkɑːmplɪmənt/",
+  "level": "HIGH",
+  "isCore": false,
+  "topic": "description_quality",
+  "forms": [
+   "complements"
+  ],
+  "senses": [
+   {
+    "id": "complement-1",
+    "pos": "n",
+    "ko": "보완하는 것",
+    "en": "something that goes well with another thing and makes it better",
+    "nuance": "compliment(칭찬)와 철자가 e 하나 차이라 한국 학습자가 가장 많이 틀리는 짝이다. a complement to + 명사 형태로 쓴다.",
+    "pattern": "a complement to + 명사",
+    "examples": [
+     {
+      "en": "This sauce is a perfect complement to grilled fish.",
+      "ko": "이 소스는 구운 생선이랑 정말 잘 어울려.",
+      "focus": "a perfect complement to grilled fish"
+     },
+     {
+      "en": "The photos are a nice complement to the written report.",
+      "ko": "사진들이 보고서 글을 잘 보완해 줘.",
+      "focus": "a nice complement"
+     }
+    ],
+    "collocations": [
+     "a perfect complement",
+     "a complement to the meal"
+    ]
+   }
+  ],
+  "wordFamily": [
+   {
+    "form": "complementary",
+    "pos": "adj",
+    "ko": "보완적인"
+   }
+  ],
+  "confusables": [
+   {
+    "word": "compliment",
+    "note": "compliment는 i를 쓰며 '칭찬'이다. complement는 e를 쓰며 '모자란 부분을 채워 주는 것'이다."
+   },
+   {
+    "word": "supplement",
+    "note": "supplement는 그냥 더 얹는 추가분, complement는 부족한 부분을 채워 완성하는 것이다."
+   }
+  ]
+ }
+]
