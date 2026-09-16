@@ -61,17 +61,17 @@ const NOT_A_FORM = new Set([
   // 과목명은 복수를 만들지 않는다
   'biologies', 'chemistries', 'physicses', 'geographies', 'historys',
   'clays', 'muds', 'dusts', 'steels', 'cottons', 'dependences', 'courages', 'despairs',
-  'fleshes', 'fora', 'fames', 'furs_',
+  'fleshes', 'fora', 'fames', 'minimals', 
   // 스포츠 이름은 복수를 만들지 않는다
   'golfs', 'soccers', 'tenniss', 'chesses', 'boxings',
   // 편집 거리 1 이라 표기 변형으로 오인되는 철자 오류
   'advertisment', 'advertisments', 'goverment', 'enviroment', 'recieve', 'seperate',
-  'definately', 'occured', 'begining', 'writting', 'untill', 'wich', 'membership_',
+  'definately', 'occured', 'begining', 'writting', 'untill', 'wich', 
   // 과거형이 원형과 같은 동사
   'quitted', 'costed', 'cutted', 'hitted', 'setted', 'letted', 'spreaded', 'shutted',
   'casted', 'bursted', 'hurted', 'beted', 'splited', 'bade', 'ridded',
   // 영국식 철자 규칙 오적용 (fulfil → fulfilled 가 맞다)
-  'fulfiled', 'fulfiling', 'instaled', 'instaling', 'trafficking_',
+  'fulfiled', 'fulfiling', 'instaled', 'instaling', 
   // 단복수 동형 명사 (aircraft, sheep, deer, series, species)
   'aircrafts', 'sheeps', 'deers', 'serieses', 'specieses', 'offsprings',
   'deader', 'deadest', 'falser', 'falsest', 'truer', 'truest', 'uniquer', 'uniquest',

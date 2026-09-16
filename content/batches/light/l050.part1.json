@@ -1,0 +1,1468 @@
+[
+ {
+  "id": "passport",
+  "headword": "passport",
+  "ipa": "/ˈpæspɔːrt/",
+  "level": "HIGH",
+  "isCore": false,
+  "topic": "travel_transport",
+  "forms": [
+   "passports"
+  ],
+  "senses": [
+   {
+    "id": "passport-1",
+    "pos": "n",
+    "ko": "여권",
+    "en": "an official book that lets you travel to other countries",
+    "nuance": "공항에서는 renew·expire와 붙여 쓴다. 한국 학습자가 passport number를 '패스포트 넘버'로 말하려다 앞의 pass를 '패쓰'로 늘이기 쉬운데 첫 음절에 강세를 준다.",
+    "pattern": "renew / check a passport",
+    "examples": [
+     {
+      "en": "My passport expires next month, so I have to renew it.",
+      "ko": "내 여권이 다음 달에 만료돼서 갱신해야 해.",
+      "focus": "My passport expires next month"
+     },
+     {
+      "en": "Please have your passports ready before we reach the counter.",
+      "ko": "카운터 도착하기 전에 여권 미리 준비해 주세요.",
+      "focus": "have your passports ready"
+     }
+    ],
+    "collocations": [
+     "renew a passport",
+     "a valid passport"
+    ]
+   }
+  ],
+  "confusables": [
+   {
+    "word": "visa",
+    "note": "passport는 내 나라가 발급하는 신분증, visa는 상대 나라가 주는 입국 허가다."
+   }
+  ]
+ },
+ {
+  "id": "peel",
+  "headword": "peel",
+  "ipa": "/piːl/",
+  "level": "HIGH",
+  "isCore": false,
+  "topic": "food_cooking",
+  "forms": [
+   "peeled",
+   "peeling",
+   "peels"
+  ],
+  "senses": [
+   {
+    "id": "peel-1",
+    "pos": "v",
+    "ko": "껍질을 벗기다",
+    "en": "to take the outer skin off a fruit or vegetable",
+    "nuance": "칼이나 손으로 겉껍질을 벗기는 동작이다. '까다'를 cut으로 옮기는 실수가 흔한데 사과·감자는 peel, 반으로 자르는 것만 cut이다.",
+    "pattern": "peel + 명사",
+    "examples": [
+     {
+      "en": "Can you peel the potatoes while I chop the onions?",
+      "ko": "내가 양파 써는 동안 감자 껍질 좀 벗겨 줄래?",
+      "focus": "peel the potatoes"
+     },
+     {
+      "en": "Mina peeled an orange and shared half with Jun.",
+      "ko": "미나가 오렌지를 까서 준이랑 반씩 나눴어.",
+      "focus": "peeled an orange"
+     }
+    ],
+    "collocations": [
+     "peel an apple",
+     "peel off the label"
+    ]
+   },
+   {
+    "id": "peel-2",
+    "pos": "n",
+    "ko": "껍질",
+    "en": "the outer skin of a fruit or vegetable",
+    "nuance": "과일의 벗겨 낸 겉껍질을 가리킨다. 사과·감자처럼 얇은 것은 skin도 쓰지만 오렌지·레몬처럼 두꺼운 것은 peel이 자연스럽다.",
+    "examples": [
+     {
+      "en": "Don't throw the lemon peel away; I need it for the cake.",
+      "ko": "레몬 껍질 버리지 마, 케이크에 쓸 거야.",
+      "focus": "the lemon peel"
+     }
+    ]
+   }
+  ],
+  "confusables": [
+   {
+    "word": "skin",
+    "note": "skin은 붙어 있는 얇은 껍질, peel은 주로 벗겨 내는 동작이나 벗겨 낸 두꺼운 껍질을 말한다."
+   }
+  ]
+ },
+ {
+  "id": "pepper",
+  "headword": "pepper",
+  "ipa": "/ˈpepər/",
+  "level": "HIGH",
+  "isCore": false,
+  "topic": "food_cooking",
+  "forms": [
+   "peppers"
+  ],
+  "senses": [
+   {
+    "id": "pepper-1",
+    "pos": "n",
+    "ko": "후추",
+    "en": "a hot black or white powder used to give food more taste",
+    "nuance": "양념으로서의 후추는 불가산이라 a pepper라고 하지 않고 some pepper, salt and pepper라고 한다. 한국 학습자가 '후추 하나'를 a pepper라고 하면 피망 한 개로 들린다.",
+    "pattern": "salt and pepper",
+    "examples": [
+     {
+      "en": "Could you pass the salt and pepper, please?",
+      "ko": "소금이랑 후추 좀 건네주시겠어요?",
+      "focus": "the salt and pepper"
+     },
+     {
+      "en": "I added too much pepper and now the soup is spicy.",
+      "ko": "후추를 너무 많이 넣어서 국이 매워졌어.",
+      "focus": "too much pepper"
+     }
+    ],
+    "collocations": [
+     "salt and pepper",
+     "black pepper"
+    ]
+   },
+   {
+    "id": "pepper-2",
+    "pos": "n",
+    "ko": "피망, 고추",
+    "en": "a hollow green, red, or yellow vegetable used in cooking",
+    "nuance": "가산명사라 a red pepper, two peppers처럼 센다. 한국어 '피망'은 영어로 green pepper이고 paprika는 영어에서 가루 양념을 뜻하니 주의한다.",
+    "examples": [
+     {
+      "en": "Slice the red peppers thinly and add them at the end.",
+      "ko": "빨간 피망을 얇게 썰어서 마지막에 넣어.",
+      "focus": "the red peppers"
+     }
+    ]
+   }
+  ],
+  "confusables": [
+   {
+    "word": "paprika",
+    "note": "영어 paprika는 붉은 가루 양념이고, 한국어 '파프리카' 채소는 bell pepper 또는 pepper다."
+   }
+  ]
+ },
+ {
+  "id": "physics",
+  "headword": "physics",
+  "ipa": "/ˈfɪzɪks/",
+  "level": "HIGH",
+  "isCore": false,
+  "topic": "school_learning",
+  "forms": [],
+  "senses": [
+   {
+    "id": "physics-1",
+    "pos": "n",
+    "ko": "물리학",
+    "en": "the science of energy, force, and how matter moves",
+    "nuance": "-s로 끝나지만 단수 취급이라 Physics is hard가 맞고 are는 틀리다. ph를 'ㅍ'이 아니라 f 소리로 내야 하고 첫 음절에 강세를 준다.",
+    "pattern": "study / major in physics",
+    "examples": [
+     {
+      "en": "Jun is majoring in physics at a university in Busan.",
+      "ko": "준이는 부산에 있는 대학에서 물리학을 전공하고 있어.",
+      "focus": "majoring in physics"
+     },
+     {
+      "en": "Physics was my favorite subject, but the exams were brutal.",
+      "ko": "물리는 제일 좋아하는 과목이었는데 시험은 진짜 힘들었어.",
+      "focus": "Physics was my favorite subject"
+     }
+    ],
+    "collocations": [
+     "study physics",
+     "a physics teacher"
+    ]
+   }
+  ],
+  "wordFamily": [
+   {
+    "form": "physical",
+    "pos": "adj",
+    "ko": "신체의, 물리적인"
+   },
+   {
+    "form": "physicist",
+    "pos": "n",
+    "ko": "물리학자"
+   }
+  ],
+  "confusables": [
+   {
+    "word": "physical",
+    "note": "physics는 학문 이름(명사), physical은 '신체의·물리적인'이라는 형용사다."
+   }
+  ]
+ },
+ {
+  "id": "pill",
+  "headword": "pill",
+  "ipa": "/pɪl/",
+  "level": "HIGH",
+  "isCore": false,
+  "topic": "body_health",
+  "forms": [
+   "pills"
+  ],
+  "senses": [
+   {
+    "id": "pill-1",
+    "pos": "n",
+    "ko": "알약",
+    "en": "a small round piece of medicine that you swallow",
+    "nuance": "약을 '먹다'는 eat이 아니라 take a pill이라고 한다. pill은 딱딱한 알약이고 가루약·물약은 medicine으로 묶어 말한다.",
+    "pattern": "take a pill",
+    "examples": [
+     {
+      "en": "Take one pill after each meal for a week.",
+      "ko": "일주일 동안 매 식사 후에 한 알씩 드세요.",
+      "focus": "Take one pill after each meal"
+     },
+     {
+      "en": "I forgot my pills at home, so my head still hurts.",
+      "ko": "약을 집에 두고 와서 아직도 머리가 아파.",
+      "focus": "forgot my pills at home"
+     }
+    ],
+    "collocations": [
+     "take a pill",
+     "sleeping pills"
+    ]
+   }
+  ],
+  "confusables": [
+   {
+    "word": "medicine",
+    "note": "medicine은 약 전반을 뜻하는 불가산명사, pill은 세어지는 알약 한 알이다."
+   }
+  ]
+ },
+ {
+  "id": "pin",
+  "headword": "pin",
+  "ipa": "/pɪn/",
+  "level": "HIGH",
+  "isCore": false,
+  "topic": "home_daily",
+  "forms": [
+   "pinned",
+   "pinning",
+   "pins"
+  ],
+  "senses": [
+   {
+    "id": "pin-1",
+    "pos": "n",
+    "ko": "핀, 압정",
+    "en": "a short thin piece of metal used to hold things together",
+    "nuance": "옷핀은 safety pin, 머리핀은 hairpin 또는 bobby pin이라고 따로 부른다. 한국에서 '헤어핀'이라고 하는 집게형은 영어로 hair clip이다.",
+    "examples": [
+     {
+      "en": "There's a pin holding the two pieces of cloth together.",
+      "ko": "천 두 장을 핀 하나가 붙잡고 있어.",
+      "focus": "a pin holding the two pieces"
+     }
+    ],
+    "collocations": [
+     "a safety pin"
+    ]
+   },
+   {
+    "id": "pin-2",
+    "pos": "v",
+    "ko": "고정하다, 게시하다",
+    "en": "to fasten something in place, or keep a post at the top",
+    "nuance": "벽에 종이를 꽂을 때도, 채팅방에서 공지를 맨 위에 두는 것도 pin이다. n을 하나만 쓰기 쉬운데 과거형은 pinned로 겹쳐 쓴다.",
+    "pattern": "pin + 명사 + to / on + 장소",
+    "examples": [
+     {
+      "en": "I pinned the schedule to the wall next to my desk.",
+      "ko": "책상 옆 벽에 일정표를 붙여 놨어.",
+      "focus": "pinned the schedule to the wall"
+     },
+     {
+      "en": "Could you pin that message so nobody misses it?",
+      "ko": "아무도 못 보고 지나치지 않게 그 메시지 좀 고정해 줄래요?",
+      "focus": "pin that message"
+     }
+    ]
+   }
+  ],
+  "confusables": [
+   {
+    "word": "needle",
+    "note": "needle은 실을 꿰어 꿰매는 바늘, pin은 실 없이 꽂아 고정하는 핀이다."
+   }
+  ]
+ },
+ {
+  "id": "pine",
+  "headword": "pine",
+  "ipa": "/paɪn/",
+  "level": "HIGH",
+  "isCore": false,
+  "topic": "nature_animals",
+  "forms": [
+   "pines"
+  ],
+  "senses": [
+   {
+    "id": "pine-1",
+    "pos": "n",
+    "ko": "소나무",
+    "en": "a tall tree with thin sharp leaves that stay green all year",
+    "nuance": "나무 자체와 그 목재를 모두 가리켜, 가구 설명에서 solid pine처럼 쓴다. pineapple과 철자가 겹쳐 파인애플을 떠올리기 쉽지만 전혀 다른 단어다.",
+    "pattern": "a pine tree / forest",
+    "examples": [
+     {
+      "en": "The trail goes through a thick pine forest for two hours.",
+      "ko": "그 등산로는 두 시간 동안 울창한 소나무 숲을 지나가.",
+      "focus": "a thick pine forest"
+     },
+     {
+      "en": "We bought a table made of pine because it was cheaper.",
+      "ko": "더 싸서 소나무로 만든 식탁을 샀어.",
+      "focus": "a table made of pine"
+     }
+    ],
+    "collocations": [
+     "a pine tree",
+     "a pine forest"
+    ]
+   }
+  ],
+  "confusables": [
+   {
+    "word": "pineapple",
+    "note": "pine은 소나무, pineapple은 파인애플로 철자만 닮았을 뿐 관련이 없다."
+   }
+  ]
+ },
+ {
+  "id": "pioneer",
+  "headword": "pioneer",
+  "ipa": "/ˌpaɪəˈnɪr/",
+  "level": "HIGH",
+  "isCore": false,
+  "topic": "work_business",
+  "forms": [
+   "pioneers"
+  ],
+  "senses": [
+   {
+    "id": "pioneer-1",
+    "pos": "n",
+    "ko": "선구자, 개척자",
+    "en": "the first person to develop a new idea, method, or area",
+    "nuance": "분야를 처음 열었다는 존경의 뉘앙스라 발표·기사에서 쓴다. 강세가 끝 음절(-neer)에 있어 '파이어니어'가 아니라 [파이어니어]로 뒤를 길게 끈다.",
+    "pattern": "a pioneer in / of + 분야",
+    "examples": [
+     {
+      "en": "She's considered a pioneer in online education in Korea.",
+      "ko": "그분은 한국 온라인 교육의 선구자로 꼽혀요.",
+      "focus": "a pioneer in online education"
+     },
+     {
+      "en": "The pioneers of this field worked without any funding.",
+      "ko": "이 분야의 개척자들은 지원금 하나 없이 일했어요.",
+      "focus": "The pioneers of this field"
+     }
+    ],
+    "collocations": [
+     "a pioneer in the field",
+     "an early pioneer"
+    ]
+   }
+  ],
+  "wordFamily": [
+   {
+    "form": "pioneering",
+    "pos": "adj",
+    "ko": "선구적인"
+   }
+  ],
+  "confusables": [
+   {
+    "word": "founder",
+    "note": "founder는 회사·단체를 세운 사람, pioneer는 분야 자체를 처음 개척한 사람이다."
+   }
+  ]
+ },
+ {
+  "id": "pity",
+  "headword": "pity",
+  "ipa": "/ˈpɪti/",
+  "level": "HIGH",
+  "isCore": false,
+  "topic": "emotions_personality",
+  "forms": [],
+  "senses": [
+   {
+    "id": "pity-1",
+    "pos": "n",
+    "ko": "아쉬운 일, 유감",
+    "en": "something that makes you feel a little sad or disappointed",
+    "nuance": "What a pity!나 It's a pity that…처럼 아쉬움을 표현하는 관용 표현으로 가장 많이 쓴다. 이때는 반드시 a를 붙여 a pity라고 한다.",
+    "pattern": "It's a pity (that) + 절",
+    "examples": [
+     {
+      "en": "It's a pity you can't come to the concert with us.",
+      "ko": "네가 콘서트에 같이 못 가다니 아쉽다.",
+      "focus": "It's a pity you can't come"
+     },
+     {
+      "en": "What a pity that the museum closed so early!",
+      "ko": "박물관이 그렇게 일찍 닫다니 아쉽네요!",
+      "focus": "What a pity that the museum closed"
+     }
+    ],
+    "collocations": [
+     "What a pity!",
+     "It's a pity that"
+    ]
+   },
+   {
+    "id": "pity-2",
+    "pos": "n",
+    "ko": "동정, 연민",
+    "en": "a feeling of sadness for someone who is suffering",
+    "nuance": "이 뜻일 때는 관사 없이 feel pity for로 쓴다. 상대를 낮춰 보는 느낌이 있어 위로할 때는 sympathy를 쓰는 편이 안전하다.",
+    "examples": [
+     {
+      "en": "I felt pity for the stray cat sitting in the rain.",
+      "ko": "비 맞고 앉아 있는 길고양이가 불쌍했어.",
+      "focus": "felt pity for the stray cat"
+     }
+    ]
+   }
+  ],
+  "confusables": [
+   {
+    "word": "sympathy",
+    "note": "sympathy는 상대 입장에 공감하는 것, pity는 위에서 내려다보며 안쓰러워하는 느낌이 섞인다."
+   }
+  ]
+ },
+ {
+  "id": "poison",
+  "headword": "poison",
+  "ipa": "/ˈpɔɪzən/",
+  "level": "HIGH",
+  "isCore": false,
+  "topic": "body_health",
+  "forms": [
+   "poisoned",
+   "poisoning",
+   "poisons"
+  ],
+  "senses": [
+   {
+    "id": "poison-1",
+    "pos": "n",
+    "ko": "독",
+    "en": "a substance that can kill or harm you if it enters the body",
+    "nuance": "보통 불가산으로 쓰고 종류를 셀 때만 poisons가 된다. 식중독은 food poison이 아니라 food poisoning이라고 해야 맞다.",
+    "pattern": "rat / snake poison",
+    "examples": [
+     {
+      "en": "Keep the rat poison somewhere the kids can't reach.",
+      "ko": "쥐약은 애들 손 안 닿는 데 두세요.",
+      "focus": "the rat poison"
+     },
+     {
+      "en": "Some of these mushrooms contain a strong poison.",
+      "ko": "이 버섯들 중 일부에는 강한 독이 들어 있어.",
+      "focus": "contain a strong poison"
+     }
+    ],
+    "collocations": [
+     "rat poison",
+     "food poisoning"
+    ]
+   },
+   {
+    "id": "poison-2",
+    "pos": "v",
+    "ko": "독을 넣다, 오염시키다",
+    "en": "to harm a person, animal, or place with a harmful substance",
+    "nuance": "물·땅이 오염될 때도 poison을 쓰는데 이때는 pollute보다 '해를 입힌다'는 어감이 강하다. 수동형 be poisoned by로 자주 나온다.",
+    "examples": [
+     {
+      "en": "The factory poisoned the river for almost twenty years.",
+      "ko": "그 공장이 거의 20년 동안 강을 오염시켰어요.",
+      "focus": "poisoned the river"
+     }
+    ]
+   }
+  ],
+  "confusables": [
+   {
+    "word": "pollute",
+    "note": "pollute는 쓰레기·매연으로 더럽히는 것, poison은 독성 물질로 해를 입히는 것이다."
+   }
+  ]
+ },
+ {
+  "id": "polar",
+  "headword": "polar",
+  "ipa": "/ˈpoʊlər/",
+  "level": "HIGH",
+  "isCore": false,
+  "topic": "nature_animals",
+  "forms": [],
+  "senses": [
+   {
+    "id": "polar-1",
+    "pos": "adj",
+    "ko": "극지방의",
+    "en": "relating to the very cold areas at the top or bottom of the earth",
+    "nuance": "명사 앞에만 붙는 형용사라 The weather is polar처럼 쓰지 않는다. 북극곰은 반드시 polar bear이고 north pole bear라고 하지 않는다.",
+    "pattern": "polar + 명사",
+    "examples": [
+     {
+      "en": "We watched a documentary about polar bears last night.",
+      "ko": "어젯밤에 북극곰에 관한 다큐멘터리를 봤어.",
+      "focus": "about polar bears"
+     },
+     {
+      "en": "Melting ice is changing life in the polar regions.",
+      "ko": "얼음이 녹으면서 극지방의 생태가 바뀌고 있어요.",
+      "focus": "life in the polar regions"
+     }
+    ],
+    "collocations": [
+     "a polar bear",
+     "the polar regions"
+    ]
+   }
+  ],
+  "confusables": [
+   {
+    "word": "pole",
+    "note": "pole은 '극·기둥'이라는 명사, polar는 '극지방의'라는 형용사다."
+   }
+  ]
+ },
+ {
+  "id": "pole",
+  "headword": "pole",
+  "ipa": "/poʊl/",
+  "level": "HIGH",
+  "isCore": false,
+  "topic": "nature_animals",
+  "forms": [
+   "poles"
+  ],
+  "senses": [
+   {
+    "id": "pole-1",
+    "pos": "n",
+    "ko": "기둥, 장대",
+    "en": "a long thin stick of wood or metal standing in the ground",
+    "nuance": "전봇대·텐트 폴처럼 길고 가는 지지대를 말한다. 나무 막대기 stick보다 훨씬 길고 세워 두는 것이라는 점이 다르다.",
+    "examples": [
+     {
+      "en": "A truck knocked over the pole in front of our building.",
+      "ko": "트럭이 우리 건물 앞 기둥을 들이받아 쓰러뜨렸어.",
+      "focus": "knocked over the pole"
+     }
+    ],
+    "collocations": [
+     "a telephone pole"
+    ]
+   },
+   {
+    "id": "pole-2",
+    "pos": "n",
+    "ko": "극, 극지",
+    "en": "the point at the very top or bottom of the earth",
+    "nuance": "지구의 극은 항상 the를 붙여 the North Pole, the South Pole이라고 대문자로 쓴다. 무관사로 North Pole만 쓰면 어색하다.",
+    "examples": [
+     {
+      "en": "He dreams of reaching the South Pole before he turns fifty.",
+      "ko": "그는 쉰 살이 되기 전에 남극점에 닿는 게 꿈이야.",
+      "focus": "reaching the South Pole"
+     }
+    ]
+   }
+  ],
+  "confusables": [
+   {
+    "word": "poll",
+    "note": "poll은 '여론조사'로 발음이 pole과 같지만 철자와 뜻이 완전히 다르다."
+   }
+  ]
+ },
+ {
+  "id": "polite",
+  "headword": "polite",
+  "ipa": "/pəˈlaɪt/",
+  "level": "HIGH",
+  "isCore": false,
+  "topic": "emotions_personality",
+  "forms": [],
+  "senses": [
+   {
+    "id": "polite-1",
+    "pos": "adj",
+    "ko": "예의 바른, 정중한",
+    "en": "behaving in a way that shows respect for other people",
+    "nuance": "kind가 마음이 따뜻한 것이라면 polite는 겉으로 드러나는 예절이다. 강세가 뒤 음절(-lite)에 있어 police, policy와 헷갈리지 않게 발음해야 한다.",
+    "pattern": "It's polite to + 동사원형",
+    "examples": [
+     {
+      "en": "It's polite to greet your neighbors in the elevator.",
+      "ko": "엘리베이터에서 이웃에게 인사하는 게 예의야.",
+      "focus": "It's polite to greet your neighbors"
+     },
+     {
+      "en": "He gave a polite answer, but he clearly disagreed.",
+      "ko": "그는 정중하게 대답했지만 분명 동의하지 않았어요.",
+      "focus": "gave a polite answer"
+     }
+    ],
+    "collocations": [
+     "a polite way to ask",
+     "be polite to customers"
+    ]
+   }
+  ],
+  "wordFamily": [
+   {
+    "form": "politely",
+    "pos": "adv",
+    "ko": "정중하게"
+   },
+   {
+    "form": "politeness",
+    "pos": "n",
+    "ko": "예의, 공손함"
+   }
+  ],
+  "confusables": [
+   {
+    "word": "kind",
+    "note": "kind는 남을 실제로 배려하는 마음, polite는 말투·태도의 예절을 뜻한다."
+   }
+  ]
+ },
+ {
+  "id": "pollute",
+  "headword": "pollute",
+  "ipa": "/pəˈluːt/",
+  "level": "HIGH",
+  "isCore": false,
+  "topic": "environment_science",
+  "forms": [
+   "polluted",
+   "pollutes",
+   "polluting"
+  ],
+  "senses": [
+   {
+    "id": "pollute-1",
+    "pos": "v",
+    "ko": "오염시키다",
+    "en": "to make air, water, or land dirty and unsafe",
+    "nuance": "명사 pollution과 혼동해 The air is pollution이라고 하기 쉬운데 The air is polluted가 맞다. 방이 지저분한 것은 pollute가 아니라 messy다.",
+    "pattern": "pollute + 명사 / be polluted by",
+    "examples": [
+     {
+      "en": "Old buses pollute the air much more than new ones.",
+      "ko": "오래된 버스가 새 버스보다 공기를 훨씬 많이 오염시켜요.",
+      "focus": "pollute the air"
+     },
+     {
+      "en": "The stream was badly polluted before the factory closed.",
+      "ko": "그 개울은 공장이 문 닫기 전에 심하게 오염돼 있었어요.",
+      "focus": "badly polluted"
+     }
+    ],
+    "collocations": [
+     "pollute the air",
+     "pollute rivers"
+    ]
+   }
+  ],
+  "wordFamily": [
+   {
+    "form": "pollution",
+    "pos": "n",
+    "ko": "오염, 공해"
+   },
+   {
+    "form": "pollutant",
+    "pos": "n",
+    "ko": "오염 물질"
+   }
+  ],
+  "confusables": [
+   {
+    "word": "pollution",
+    "note": "pollute는 동사, pollution은 명사다. '대기오염'은 air pollution으로 명사를 쓴다."
+   }
+  ]
+ },
+ {
+  "id": "pond",
+  "headword": "pond",
+  "ipa": "/pɑːnd/",
+  "level": "HIGH",
+  "isCore": false,
+  "topic": "nature_animals",
+  "forms": [
+   "ponds"
+  ],
+  "senses": [
+   {
+    "id": "pond-1",
+    "pos": "n",
+    "ko": "연못",
+    "en": "a small area of still water, often made in a park or garden",
+    "nuance": "lake보다 훨씬 작고 공원이나 마당에 인공으로 만든 것도 포함한다. 한국 학습자가 '호수 공원'을 lake로 통일하기 쉬운데 걸어서 한 바퀴 도는 작은 물은 pond다.",
+    "examples": [
+     {
+      "en": "The kids fed the ducks at the pond near our apartment.",
+      "ko": "아이들이 우리 아파트 근처 연못에서 오리에게 먹이를 줬어.",
+      "focus": "at the pond near our apartment"
+     },
+     {
+      "en": "In winter the pond freezes hard enough to walk on.",
+      "ko": "겨울에는 연못이 걸어 다닐 만큼 단단하게 얼어.",
+      "focus": "the pond freezes"
+     }
+    ],
+    "collocations": [
+     "a fish pond",
+     "around the pond"
+    ]
+   }
+  ],
+  "confusables": [
+   {
+    "word": "lake",
+    "note": "lake는 자연적으로 생긴 큰 호수, pond는 훨씬 작고 인공인 경우도 많은 연못이다."
+   }
+  ]
+ },
+ {
+  "id": "pork",
+  "headword": "pork",
+  "ipa": "/pɔːrk/",
+  "level": "HIGH",
+  "isCore": false,
+  "topic": "food_cooking",
+  "forms": [],
+  "senses": [
+   {
+    "id": "pork-1",
+    "pos": "n",
+    "ko": "돼지고기",
+    "en": "meat that comes from a pig",
+    "nuance": "불가산이라 a pork나 porks라고 하지 않고 some pork, pork belly라고 쓴다. 살아 있는 동물은 pig, 먹는 고기는 pork로 단어가 아예 갈린다.",
+    "pattern": "pork + 부위 (belly, chop)",
+    "examples": [
+     {
+      "en": "We grilled pork belly on the balcony last Saturday.",
+      "ko": "지난 토요일에 발코니에서 삼겹살을 구워 먹었어.",
+      "focus": "grilled pork belly"
+     },
+     {
+      "en": "Is this soup made with pork or beef broth?",
+      "ko": "이 국은 돼지고기 육수예요, 소고기 육수예요?",
+      "focus": "made with pork or beef broth"
+     }
+    ],
+    "collocations": [
+     "pork belly",
+     "a pork chop"
+    ]
+   }
+  ],
+  "confusables": [
+   {
+    "word": "pig",
+    "note": "pig는 살아 있는 동물, pork는 식탁에 올라온 고기다. beef와 cow도 같은 관계다."
+   }
+  ]
+ },
+ {
+  "id": "powder",
+  "headword": "powder",
+  "ipa": "/ˈpaʊdər/",
+  "level": "HIGH",
+  "isCore": false,
+  "topic": "food_cooking",
+  "forms": [
+   "powders"
+  ],
+  "senses": [
+   {
+    "id": "powder-1",
+    "pos": "n",
+    "ko": "가루, 분말",
+    "en": "a dry substance made of many very small pieces",
+    "nuance": "보통 불가산이라 a powder 대신 some powder, two spoons of powder라고 한다. 세탁세제는 washing powder, 밀가루는 powder가 아니라 flour다.",
+    "pattern": "명사 + powder (chili, baking)",
+    "examples": [
+     {
+      "en": "Add a spoon of chili powder and stir it well.",
+      "ko": "고춧가루 한 숟갈 넣고 잘 저어 줘.",
+      "focus": "a spoon of chili powder"
+     },
+     {
+      "en": "The baby powder spilled all over the bathroom floor.",
+      "ko": "베이비파우더가 욕실 바닥에 온통 쏟아졌어.",
+      "focus": "The baby powder spilled"
+     }
+    ],
+    "collocations": [
+     "chili powder",
+     "baking powder"
+    ]
+   }
+  ],
+  "confusables": [
+   {
+    "word": "flour",
+    "note": "flour는 밀가루 한 가지를 가리키고, powder는 고춧가루·베이킹파우더 등 가루 전반이다."
+   }
+  ]
+ },
+ {
+  "id": "precious",
+  "headword": "precious",
+  "ipa": "/ˈpreʃəs/",
+  "level": "HIGH",
+  "isCore": false,
+  "topic": "description_quality",
+  "forms": [],
+  "senses": [
+   {
+    "id": "precious-1",
+    "pos": "adj",
+    "ko": "소중한, 귀중한",
+    "en": "worth a lot of money, or very important to you personally",
+    "nuance": "값이 비싼 것과 마음에 소중한 것 둘 다에 쓴다. 철자가 비슷한 precise(정확한)와 뜻이 전혀 다르고, ci를 'ㅅ'이 아니라 [ʃ] 소리로 낸다.",
+    "pattern": "precious + 명사",
+    "examples": [
+     {
+      "en": "Those photos are precious to me, so please don't delete them.",
+      "ko": "그 사진들은 나한테 소중하니까 지우지 말아 줘.",
+      "focus": "precious to me"
+     },
+     {
+      "en": "Don't waste your precious weekend on that paperwork.",
+      "ko": "그 서류 작업에 소중한 주말을 낭비하지 마세요.",
+      "focus": "your precious weekend"
+     }
+    ],
+    "collocations": [
+     "precious time",
+     "precious metals"
+    ]
+   }
+  ],
+  "confusables": [
+   {
+    "word": "precise",
+    "note": "precious는 '소중한', precise는 '정확한'이다. 철자만 닮았을 뿐 뜻이 겹치지 않는다."
+   }
+  ]
+ },
+ {
+  "id": "prescribe",
+  "headword": "prescribe",
+  "ipa": "/prɪˈskraɪb/",
+  "level": "HIGH",
+  "isCore": false,
+  "topic": "body_health",
+  "forms": [
+   "prescribed",
+   "prescribes",
+   "prescribing"
+  ],
+  "senses": [
+   {
+    "id": "prescribe-1",
+    "pos": "v",
+    "ko": "처방하다",
+    "en": "to say officially what medicine a sick person should take",
+    "nuance": "약을 주는 주체는 의사이고 약사는 fill a prescription을 한다. describe와 철자가 한 글자 차이라 pre-와 de-를 또렷이 구분해 발음해야 한다.",
+    "pattern": "prescribe + 약 + for + 사람",
+    "examples": [
+     {
+      "en": "The doctor prescribed antibiotics for my throat infection.",
+      "ko": "의사가 목 염증에 항생제를 처방해 줬어요.",
+      "focus": "prescribed antibiotics"
+     },
+     {
+      "en": "They can't prescribe anything without seeing you first.",
+      "ko": "먼저 진료를 받지 않으면 아무것도 처방해 줄 수 없어요.",
+      "focus": "prescribe anything without seeing you"
+     }
+    ],
+    "collocations": [
+     "prescribe medicine",
+     "prescribe a treatment"
+    ]
+   }
+  ],
+  "wordFamily": [
+   {
+    "form": "prescription",
+    "pos": "n",
+    "ko": "처방전"
+   }
+  ],
+  "confusables": [
+   {
+    "word": "describe",
+    "note": "describe는 '설명하다', prescribe는 의사가 '처방하다'다. 접두사 de-와 pre-만 다르다."
+   }
+  ]
+ },
+ {
+  "id": "prey",
+  "headword": "prey",
+  "ipa": "/preɪ/",
+  "level": "HIGH",
+  "isCore": false,
+  "topic": "nature_animals",
+  "forms": [],
+  "senses": [
+   {
+    "id": "prey-1",
+    "pos": "n",
+    "ko": "먹이, 사냥감",
+    "en": "an animal that is hunted and eaten by another animal",
+    "nuance": "불가산이라 a prey나 preys로 세지 않고 hunt prey, easy prey처럼 쓴다. 발음이 pray(기도하다)와 똑같아 문맥으로 구분해야 한다.",
+    "pattern": "hunt / catch prey",
+    "examples": [
+     {
+      "en": "Owls hunt their prey silently in almost total darkness.",
+      "ko": "올빼미는 거의 캄캄한 데서도 소리 없이 먹이를 사냥해.",
+      "focus": "hunt their prey"
+     },
+     {
+      "en": "Tourists with open bags are easy prey for pickpockets.",
+      "ko": "가방을 열어 둔 관광객은 소매치기의 손쉬운 먹잇감이에요.",
+      "focus": "easy prey for pickpockets"
+     }
+    ],
+    "collocations": [
+     "hunt prey",
+     "easy prey"
+    ]
+   }
+  ],
+  "confusables": [
+   {
+    "word": "pray",
+    "note": "발음이 같지만 pray는 '기도하다'라는 동사, prey는 '사냥감'이라는 명사다."
+   }
+  ]
+ },
+ {
+  "id": "priest",
+  "headword": "priest",
+  "ipa": "/priːst/",
+  "level": "HIGH",
+  "isCore": false,
+  "topic": "society_politics",
+  "forms": [
+   "priests"
+  ],
+  "senses": [
+   {
+    "id": "priest-1",
+    "pos": "n",
+    "ko": "신부, 성직자",
+    "en": "someone trained to lead religious services in a church",
+    "nuance": "가톨릭 신부를 가리키는 말로 가장 흔하고 개신교 목사는 pastor나 minister라고 한다. ie를 짧게 읽기 쉬운데 [priːst]로 길게 낸다.",
+    "examples": [
+     {
+      "en": "A priest married them in a small church in Busan.",
+      "ko": "부산의 작은 성당에서 신부님이 두 사람 주례를 섰어.",
+      "focus": "A priest married them"
+     },
+     {
+      "en": "The priest spoke quietly with the family after the service.",
+      "ko": "미사가 끝난 뒤 신부님이 가족과 조용히 이야기를 나눴어요.",
+      "focus": "The priest spoke quietly"
+     }
+    ],
+    "collocations": [
+     "a Catholic priest",
+     "become a priest"
+    ]
+   }
+  ],
+  "confusables": [
+   {
+    "word": "pastor",
+    "note": "priest는 주로 가톨릭 신부, pastor는 개신교 목사를 가리킨다."
+   }
+  ]
+ },
+ {
+  "id": "primitive",
+  "headword": "primitive",
+  "ipa": "/ˈprɪmətɪv/",
+  "level": "HIGH",
+  "isCore": false,
+  "topic": "description_quality",
+  "forms": [],
+  "senses": [
+   {
+    "id": "primitive-1",
+    "pos": "adj",
+    "ko": "원시적인, 초보적인",
+    "en": "very simple and made long ago, or not developed yet",
+    "nuance": "옛 시대를 가리킬 때는 중립적이지만 사람에게 쓰면 무시하는 말이 되니 조심한다. 기기·시스템이 낡았다고 농담할 때도 쓴다.",
+    "pattern": "primitive + 명사",
+    "examples": [
+     {
+      "en": "They used primitive tools made of stone and bone.",
+      "ko": "그들은 돌과 뼈로 만든 원시적인 도구를 썼어요.",
+      "focus": "primitive tools"
+     },
+     {
+      "en": "Our booking system is pretty primitive compared to theirs.",
+      "ko": "우리 예약 시스템은 저쪽 것에 비하면 꽤 원시적이에요.",
+      "focus": "pretty primitive compared to theirs"
+     }
+    ],
+    "collocations": [
+     "primitive tools",
+     "a primitive society"
+    ]
+   }
+  ],
+  "confusables": [
+   {
+    "word": "primary",
+    "note": "primary는 '주된·최초의', primitive는 '발달하지 않은·원시적인'이라는 평가가 들어간다."
+   }
+  ]
+ },
+ {
+  "id": "pronounce",
+  "headword": "pronounce",
+  "ipa": "/prəˈnaʊns/",
+  "level": "HIGH",
+  "isCore": false,
+  "topic": "communication",
+  "forms": [
+   "pronounced",
+   "pronounces",
+   "pronouncing"
+  ],
+  "senses": [
+   {
+    "id": "pronounce-1",
+    "pos": "v",
+    "ko": "발음하다",
+    "en": "to make the sounds of a word in the correct way",
+    "nuance": "명사는 pronounciation이 아니라 pronunciation으로 o가 빠지는 것이 최다 오타다. 이름을 물을 때 How do you pronounce it?이라고 통째로 외워 두면 좋다.",
+    "pattern": "How do you pronounce + 명사?",
+    "examples": [
+     {
+      "en": "How do you pronounce your last name in English?",
+      "ko": "성을 영어로 어떻게 발음하세요?",
+      "focus": "How do you pronounce your last name"
+     },
+     {
+      "en": "I kept pronouncing the street name wrong all week.",
+      "ko": "일주일 내내 그 거리 이름을 잘못 발음하고 있었어.",
+      "focus": "pronouncing the street name wrong"
+     }
+    ],
+    "collocations": [
+     "pronounce a word",
+     "hard to pronounce"
+    ]
+   }
+  ],
+  "wordFamily": [
+   {
+    "form": "pronunciation",
+    "pos": "n",
+    "ko": "발음"
+   }
+  ],
+  "confusables": [
+   {
+    "word": "announce",
+    "note": "announce는 '공식적으로 알리다', pronounce는 소리 내어 '발음하다'다."
+   }
+  ]
+ },
+ {
+  "id": "psychology",
+  "headword": "psychology",
+  "ipa": "/saɪˈkɑːlədʒi/",
+  "level": "HIGH",
+  "isCore": false,
+  "topic": "school_learning",
+  "forms": [],
+  "senses": [
+   {
+    "id": "psychology-1",
+    "pos": "n",
+    "ko": "심리학, 심리",
+    "en": "the study of the mind, or the way someone thinks and feels",
+    "nuance": "학문 이름일 때는 불가산이라 a psychology라고 하지 않는다. 첫 p는 묵음이라 '프시콜로지'가 아니라 [사이칼러지]로 읽고 강세는 -cho-에 있다.",
+    "pattern": "study / major in psychology",
+    "examples": [
+     {
+      "en": "Emma switched from law to psychology in her second year.",
+      "ko": "엠마는 2학년 때 법학에서 심리학으로 전공을 바꿨어.",
+      "focus": "from law to psychology"
+     },
+     {
+      "en": "Understanding customer psychology really helps in this job.",
+      "ko": "이 일에서는 고객 심리를 이해하는 게 정말 도움이 돼요.",
+      "focus": "Understanding customer psychology"
+     }
+    ],
+    "collocations": [
+     "study psychology",
+     "child psychology"
+    ]
+   }
+  ],
+  "wordFamily": [
+   {
+    "form": "psychologist",
+    "pos": "n",
+    "ko": "심리학자"
+   },
+   {
+    "form": "psychological",
+    "pos": "adj",
+    "ko": "심리적인"
+   }
+  ],
+  "confusables": [
+   {
+    "word": "psychiatry",
+    "note": "psychology는 마음을 연구하는 학문, psychiatry는 약도 쓰는 의학의 한 분야다."
+   }
+  ]
+ },
+ {
+  "id": "punch",
+  "headword": "punch",
+  "ipa": "/pʌntʃ/",
+  "level": "HIGH",
+  "isCore": false,
+  "topic": "sports_leisure",
+  "forms": [
+   "punched",
+   "punches",
+   "punching"
+  ],
+  "senses": [
+   {
+    "id": "punch-1",
+    "pos": "v",
+    "ko": "주먹으로 치다",
+    "en": "to hit someone or something hard with a closed hand",
+    "nuance": "주먹을 쥐고 치는 것만 punch이고 손바닥으로 때리면 slap이다. lunch, launch와 모음이 달라 [pʌ]로 짧게 낸다.",
+    "pattern": "punch + 명사",
+    "examples": [
+     {
+      "en": "He punched the bag for twenty minutes without stopping.",
+      "ko": "그는 쉬지 않고 20분 동안 샌드백을 쳤어.",
+      "focus": "punched the bag"
+     },
+     {
+      "en": "Don't punch the elevator buttons so hard!",
+      "ko": "엘리베이터 버튼을 그렇게 세게 누르지 마!",
+      "focus": "punch the elevator buttons"
+     }
+    ],
+    "collocations": [
+     "punch someone in the face",
+     "throw a punch"
+    ]
+   },
+   {
+    "id": "punch-2",
+    "pos": "n",
+    "ko": "펀치, 주먹질",
+    "en": "a hard hit made with a closed hand",
+    "nuance": "복싱에서 '한 방'을 셀 때 a punch, two punches로 쓴다. '치다'는 throw a punch이고 make a punch라고 하지 않는다.",
+    "examples": [
+     {
+      "en": "That last punch decided the whole match.",
+      "ko": "그 마지막 펀치가 경기 전체를 갈랐어.",
+      "focus": "That last punch"
+     }
+    ]
+   }
+  ],
+  "confusables": [
+   {
+    "word": "slap",
+    "note": "punch는 주먹으로 치는 것, slap은 손바닥으로 때리는 것이다."
+   }
+  ]
+ },
+ {
+  "id": "reception",
+  "headword": "reception",
+  "ipa": "/rɪˈsepʃən/",
+  "level": "HIGH",
+  "isCore": false,
+  "topic": "work_business",
+  "forms": [
+   "receptions"
+  ],
+  "senses": [
+   {
+    "id": "reception-1",
+    "pos": "n",
+    "ko": "접수처, 프런트",
+    "en": "the desk near the entrance where visitors are greeted",
+    "nuance": "호텔·사무실 입구의 안내 데스크를 말하며 영국식에서 특히 흔하다. 한국에서 쓰는 '프런트'는 영어로 the front desk 또는 reception이다.",
+    "pattern": "at / ask at reception",
+    "examples": [
+     {
+      "en": "Please leave your ID at reception before you go up.",
+      "ko": "올라가시기 전에 접수처에 신분증을 맡겨 주세요.",
+      "focus": "leave your ID at reception"
+     },
+     {
+      "en": "Ask at reception if the meeting room is free.",
+      "ko": "회의실이 비었는지 접수처에 물어보세요.",
+      "focus": "Ask at reception"
+     }
+    ],
+    "collocations": [
+     "at reception",
+     "the reception desk"
+    ]
+   },
+   {
+    "id": "reception-2",
+    "pos": "n",
+    "ko": "수신 상태, 신호",
+    "en": "how clearly a phone or radio signal can be picked up",
+    "nuance": "휴대폰이 안 터질 때 The reception is bad라고 한다. 한국 학습자가 '안테나가 없다'를 직역해 no antenna라고 하기 쉬운데 no reception이 자연스럽다.",
+    "examples": [
+     {
+      "en": "The reception is terrible inside this basement café.",
+      "ko": "이 지하 카페 안은 수신이 정말 안 좋아.",
+      "focus": "The reception is terrible"
+     }
+    ]
+   }
+  ],
+  "confusables": [
+   {
+    "word": "receipt",
+    "note": "receipt는 물건 산 뒤 받는 영수증, reception은 접수처나 수신 상태다."
+   }
+  ]
+ },
+ {
+  "id": "recipe",
+  "headword": "recipe",
+  "ipa": "/ˈresəpi/",
+  "level": "HIGH",
+  "isCore": false,
+  "topic": "food_cooking",
+  "forms": [
+   "recipes"
+  ],
+  "senses": [
+   {
+    "id": "recipe-1",
+    "pos": "n",
+    "ko": "조리법, 레시피",
+    "en": "a set of instructions telling you how to cook a dish",
+    "nuance": "끝의 -e를 발음해 [레서피]라고 하지 '리사이프'라고 읽지 않는다. '레시피대로'는 by the recipe가 아니라 follow the recipe라고 한다.",
+    "pattern": "follow / share a recipe",
+    "examples": [
+     {
+      "en": "Can you send me the recipe for that soup?",
+      "ko": "그 국 레시피 좀 보내 줄래?",
+      "focus": "the recipe for that soup"
+     },
+     {
+      "en": "I followed the recipe exactly, but it still tasted bland.",
+      "ko": "레시피대로 정확히 했는데도 맛이 심심했어.",
+      "focus": "followed the recipe exactly"
+     }
+    ],
+    "collocations": [
+     "follow a recipe",
+     "a recipe for"
+    ]
+   }
+  ],
+  "confusables": [
+   {
+    "word": "receipt",
+    "note": "recipe는 요리법, receipt는 영수증이다. receipt의 p는 묵음이다."
+   }
+  ]
+ },
+ {
+  "id": "refrigerator",
+  "headword": "refrigerator",
+  "ipa": "/rɪˈfrɪdʒəreɪtər/",
+  "level": "HIGH",
+  "isCore": false,
+  "topic": "home_daily",
+  "forms": [
+   "refrigerators"
+  ],
+  "senses": [
+   {
+    "id": "refrigerator-1",
+    "pos": "n",
+    "ko": "냉장고",
+    "en": "a cold machine in a kitchen that keeps food fresh",
+    "nuance": "일상 대화에서는 거의 fridge로 줄여 말하고 refrigerator는 설명서·광고에 가깝다. 냉동실은 따로 freezer라고 부른다.",
+    "pattern": "in / put in the refrigerator",
+    "examples": [
+     {
+      "en": "Put the leftovers in the refrigerator before they go bad.",
+      "ko": "남은 음식 상하기 전에 냉장고에 넣어.",
+      "focus": "in the refrigerator"
+     },
+     {
+      "en": "Our refrigerator makes a strange noise every night.",
+      "ko": "우리 냉장고는 밤마다 이상한 소리를 내.",
+      "focus": "Our refrigerator makes a strange noise"
+     }
+    ],
+    "collocations": [
+     "keep in the refrigerator",
+     "open the refrigerator"
+    ]
+   }
+  ],
+  "confusables": [
+   {
+    "word": "freezer",
+    "note": "refrigerator는 차갑게 보관하는 냉장실, freezer는 얼리는 냉동실이다."
+   }
+  ]
+ },
+ {
+  "id": "relieve",
+  "headword": "relieve",
+  "ipa": "/rɪˈliːv/",
+  "level": "HIGH",
+  "isCore": false,
+  "topic": "body_health",
+  "forms": [
+   "relieved",
+   "relieves",
+   "relieving"
+  ],
+  "senses": [
+   {
+    "id": "relieve-1",
+    "pos": "v",
+    "ko": "덜어 주다, 완화하다",
+    "en": "to make pain, worry, or pressure less strong",
+    "nuance": "감정은 대개 be relieved 수동형으로 쓰고, 통증·스트레스는 relieve stress처럼 능동으로 쓴다. 명사 relief와 철자가 v/f로 갈리니 주의한다.",
+    "pattern": "relieve + 통증·스트레스",
+    "examples": [
+     {
+      "en": "A short walk after dinner relieves my back pain.",
+      "ko": "저녁 먹고 잠깐 걸으면 허리 통증이 가라앉아.",
+      "focus": "relieves my back pain"
+     },
+     {
+      "en": "I was so relieved when the test results came back normal.",
+      "ko": "검사 결과가 정상으로 나왔을 때 정말 안심했어.",
+      "focus": "was so relieved"
+     }
+    ],
+    "collocations": [
+     "relieve stress",
+     "relieve the pain"
+    ]
+   }
+  ],
+  "wordFamily": [
+   {
+    "form": "relief",
+    "pos": "n",
+    "ko": "안도, 완화"
+   }
+  ],
+  "confusables": [
+   {
+    "word": "relief",
+    "note": "relieve는 동사, relief는 명사다. What a relief!처럼 명사 자리에는 relief를 쓴다."
+   }
+  ]
+ },
+ {
+  "id": "republic",
+  "headword": "republic",
+  "ipa": "/rɪˈpʌblɪk/",
+  "level": "HIGH",
+  "isCore": false,
+  "topic": "society_politics",
+  "forms": [
+   "republics"
+  ],
+  "senses": [
+   {
+    "id": "republic-1",
+    "pos": "n",
+    "ko": "공화국",
+    "en": "a country led by elected people rather than a king or queen",
+    "nuance": "나라 이름에 들어갈 때는 the를 붙여 the Republic of Korea라고 한다. 정치 성향을 말하는 republican과는 뜻이 다르다.",
+    "pattern": "the Republic of + 나라",
+    "examples": [
+     {
+      "en": "Korea has been a republic since nineteen forty-eight.",
+      "ko": "한국은 1948년부터 공화국이었어요.",
+      "focus": "been a republic"
+     },
+     {
+      "en": "Several former republics became independent countries overnight.",
+      "ko": "여러 옛 공화국들이 하룻밤 사이에 독립국이 되었어요.",
+      "focus": "Several former republics"
+     }
+    ],
+    "collocations": [
+     "the Republic of Korea",
+     "become a republic"
+    ]
+   }
+  ],
+  "confusables": [
+   {
+    "word": "democracy",
+    "note": "republic은 왕이 없는 국가 형태, democracy는 국민이 결정권을 가진 제도를 뜻한다."
+   }
+  ]
+ }
+]
