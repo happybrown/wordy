@@ -8,15 +8,22 @@ import androidx.compose.foundation.layout.fillMaxWidth
 import androidx.compose.foundation.layout.padding
 import androidx.compose.foundation.rememberScrollState
 import androidx.compose.foundation.verticalScroll
+import androidx.compose.material3.AlertDialog
+import androidx.compose.material3.Button
 import androidx.compose.material3.FilterChip
 import androidx.compose.material3.HorizontalDivider
 import androidx.compose.material3.MaterialTheme
+import androidx.compose.material3.OutlinedButton
+import androidx.compose.material3.TextButton
 import androidx.compose.material3.Slider
 import androidx.compose.material3.Switch
 import androidx.compose.material3.Text
 import androidx.compose.runtime.Composable
 import androidx.compose.runtime.getValue
+import androidx.compose.runtime.mutableStateOf
+import androidx.compose.runtime.remember
 import androidx.compose.runtime.rememberCoroutineScope
+import androidx.compose.runtime.setValue
 import androidx.compose.ui.Alignment
 import androidx.compose.ui.Modifier
 import androidx.compose.ui.text.font.FontWeight
@@ -33,6 +40,7 @@ import android.os.Build
 import androidx.activity.compose.rememberLauncherForActivityResult
 import androidx.activity.result.contract.ActivityResultContracts
 import androidx.compose.ui.platform.LocalContext
+import dev.brown.wordy.platform.BackupManager
 import dev.brown.wordy.platform.ReminderScheduler
 
 @Composable
@@ -83,6 +91,9 @@ fun SettingsScreen() {
         Text("TTS 속도 ${"%.2f".format(s.ttsRate)}x", fontWeight = FontWeight.SemiBold)
         Slider(value = s.ttsRate, onValueChange = { update { st -> st.copy(ttsRate = it) }; c.tts.rate = it }, valueRange = 0.6f..1.3f, steps = 13)
 
+        SectionTitle("백업")
+        BackupSection()
+
         SectionTitle("정보")
         Text("콘텐츠 버전 ${c.contentVersion}", style = MaterialTheme.typography.bodyMedium)
         VSpace(6)
@@ -107,3 +118,88 @@ private fun ToggleRow(title: String, desc: String, checked: Boolean, onChange: (
     }
     HorizontalDivider()
 }
+
+/**
+ * 학습 기록 내보내기·복원.
+ *
+ * content.db 는 앱에 내장되어 있어 백업 대상이 아니다. 기기를 바꾸거나 앱을 지웠다
+ * 다시 깔 때 FSRS 일정과 숙달 단계를 그대로 옮기기 위한 기능이다.
+ */
+@Composable
+private fun BackupSection() {
+    val c = LocalAppContainer.current
+    val ctx = LocalContext.current
+    val scope = rememberCoroutineScope()
+    var message by remember { mutableStateOf<String?>(null) }
+    var busy by remember { mutableStateOf(false) }
+    var pending by remember { mutableStateOf<BackupManager.Backup?>(null) }
+
+    val exportLauncher = rememberLauncherForActivityResult(ActivityResultContracts.CreateDocument("application/json")) { uri ->
+        if (uri == null) return@rememberLauncherForActivityResult
+        busy = true
+        scope.launch {
+            message = runCatching {
+                val out = ctx.contentResolver.openOutputStream(uri) ?: error("파일을 열 수 없습니다")
+                out.use { c.backup.export(it, appVersion(ctx), c.contentVersion, c.now()) }
+            }.fold(
+                { "내보냈습니다. 카드 ${it.cards}개, 복습 기록 ${it.reviews}개, 단어 ${it.words}개." },
+                { "내보내기 실패: ${it.message}" },
+            )
+            busy = false
+        }
+    }
+
+    val importLauncher = rememberLauncherForActivityResult(ActivityResultContracts.OpenDocument()) { uri ->
+        if (uri == null) return@rememberLauncherForActivityResult
+        scope.launch {
+            val input = runCatching { ctx.contentResolver.openInputStream(uri) ?: error("파일을 열 수 없습니다") }
+            input.fold(
+                { stream -> stream.use { c.backup.peek(it) }.fold({ pending = it }, { message = "읽기 실패: ${it.message}" }) },
+                { message = "읽기 실패: ${it.message}" },
+            )
+        }
+    }
+
+    Text("학습 기록(복습 일정·숙달 단계·북마크)을 JSON 파일로 저장합니다. 단어 콘텐츠는 앱에 들어 있어 백업하지 않습니다.",
+        style = MaterialTheme.typography.bodySmall, color = MaterialTheme.colorScheme.onSurfaceVariant)
+    VSpace(8)
+    Row(horizontalArrangement = Arrangement.spacedBy(8.dp)) {
+        Button(onClick = { exportLauncher.launch(BackupManager.fileName(c.now())) }, enabled = !busy) { Text("내보내기") }
+        OutlinedButton(onClick = { importLauncher.launch(arrayOf("application/json")) }, enabled = !busy) { Text("복원") }
+    }
+    message?.let {
+        VSpace(6)
+        Text(it, style = MaterialTheme.typography.bodySmall, color = MaterialTheme.colorScheme.primary)
+    }
+
+    pending?.let { backup ->
+        val d = java.time.Instant.ofEpochMilli(backup.exportedAt).atZone(java.time.ZoneId.systemDefault()).toLocalDate()
+        AlertDialog(
+            onDismissRequest = { pending = null },
+            title = { Text("학습 기록을 복원할까요?") },
+            text = {
+                Text(
+                    "백업 날짜: ${d.year}년 ${d.monthValue}월 ${d.dayOfMonth}일\n" +
+                        "카드 ${backup.cards.size}개 · 복습 기록 ${backup.reviewLogs.size}개 · 단어 ${backup.wordStatus.size}개\n\n" +
+                        "지금 기기에 있는 학습 기록은 모두 지워지고 이 백업으로 바뀝니다. 되돌릴 수 없습니다."
+                )
+            },
+            confirmButton = {
+                TextButton(onClick = {
+                    pending = null; busy = true
+                    scope.launch {
+                        message = runCatching { c.backup.restore(backup) }.fold(
+                            { "복원했습니다. 카드 ${it.cards}개, 복습 기록 ${it.reviews}개." },
+                            { "복원 실패: ${it.message}" },
+                        )
+                        busy = false
+                    }
+                }) { Text("복원") }
+            },
+            dismissButton = { TextButton(onClick = { pending = null }) { Text("취소") } },
+        )
+    }
+}
+
+private fun appVersion(ctx: android.content.Context): String =
+    runCatching { ctx.packageManager.getPackageInfo(ctx.packageName, 0).versionName ?: "?" }.getOrDefault("?")

@@ -64,6 +64,11 @@ android {
 
     testOptions {
         unitTests.isIncludeAndroidResources = true
+        // Robolectric 은 FileDescriptor 를 가로채려고 jdk.internal.access 를 건드린다.
+        // JDK 17+ 의 모듈 캡슐화 때문에 열어 주지 않으면 IllegalAccessException 으로 전부 실패한다.
+        unitTests.all {
+            it.jvmArgs("--add-opens=java.base/java.lang=ALL-UNNAMED", "--add-exports=java.base/jdk.internal.access=ALL-UNNAMED")
+        }
     }
 
     packaging {
@@ -104,6 +109,8 @@ dependencies {
     testImplementation(libs.junit)
     testImplementation(libs.kotlinx.coroutines.test)
     testImplementation(libs.robolectric)
+    testImplementation(libs.androidx.test.core)
+    testImplementation(libs.androidx.sqlite.bundled.jvm)
     testImplementation(libs.androidx.room3.testing)
     androidTestImplementation(libs.androidx.test.ext.junit)
     androidTestImplementation(platform(libs.androidx.compose.bom))

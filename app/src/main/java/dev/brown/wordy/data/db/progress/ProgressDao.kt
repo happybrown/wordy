@@ -41,6 +41,19 @@ interface CardDao {
 
     @Query("SELECT DISTINCT wordId FROM card")
     suspend fun introducedWordIds(): List<String>
+
+    @Query("SELECT * FROM card")
+    suspend fun all(): List<CardEntity>
+
+    /**
+     * 복원 전용. insertAll 은 IGNORE 라 (wordId, senseId, skill) 유니크 제약에 걸리면 조용히 버린다.
+     * 그 동작은 단어를 두 번 도입해도 카드가 안 늘어나게 하려는 것이라 복원에는 맞지 않는다.
+     */
+    @Insert(onConflict = OnConflictStrategy.REPLACE)
+    suspend fun insertAllForRestore(cards: List<CardEntity>)
+
+    @Query("DELETE FROM card")
+    suspend fun deleteAll()
 }
 
 @Dao
@@ -56,6 +69,15 @@ interface ReviewLogDao {
 
     @Query("SELECT COUNT(*) FROM review_log")
     suspend fun count(): Int
+
+    @Query("SELECT * FROM review_log")
+    suspend fun all(): List<ReviewLogEntity>
+
+    @Insert
+    suspend fun insertAll(logs: List<ReviewLogEntity>)
+
+    @Query("DELETE FROM review_log")
+    suspend fun deleteAll()
 }
 
 @Dao
@@ -83,6 +105,12 @@ interface WordStatusDao {
 
     @Query("SELECT wordId FROM word_status")
     suspend fun knownWordIds(): List<String>
+
+    @Query("SELECT * FROM word_status")
+    suspend fun all(): List<WordStatusEntity>
+
+    @Query("DELETE FROM word_status")
+    suspend fun deleteAll()
 }
 
 @Dao
@@ -101,4 +129,10 @@ interface DailyStatDao {
 
     @Query("SELECT * FROM daily_stat ORDER BY date DESC")
     suspend fun all(): List<DailyStatEntity>
+
+    @Upsert
+    suspend fun upsertAll(stats: List<DailyStatEntity>)
+
+    @Query("DELETE FROM daily_stat")
+    suspend fun deleteAll()
 }
