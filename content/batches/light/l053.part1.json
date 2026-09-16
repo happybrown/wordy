@@ -1,0 +1,1620 @@
+[
+ {
+  "id": "brew",
+  "headword": "brew",
+  "ipa": "/bruː/",
+  "level": "ADV",
+  "isCore": false,
+  "topic": "food_cooking",
+  "forms": [
+   "brewed",
+   "brewing",
+   "brews"
+  ],
+  "senses": [
+   {
+    "id": "brew-1",
+    "pos": "v",
+    "ko": "(커피·차를) 내리다",
+    "en": "to make coffee or tea by mixing it with hot water",
+    "nuance": "커피·차를 우려내는 과정 전체를 가리킨다. 한국어 '커피 타다'를 make로만 쓰기 쉬운데, 드립·티백처럼 우러나길 기다리는 상황이면 brew가 더 정확하다.",
+    "pattern": "brew + coffee/tea",
+    "examples": [
+     {
+      "en": "I'll brew a fresh pot of coffee before the meeting starts.",
+      "ko": "회의 시작하기 전에 커피 새로 내려 놓을게요.",
+      "focus": "brew a fresh pot of coffee"
+     },
+     {
+      "en": "Let the tea brew for three minutes, then take the bag out.",
+      "ko": "차를 3분 우린 다음에 티백을 빼세요.",
+      "focus": "Let the tea brew for three minutes"
+     }
+    ],
+    "collocations": [
+     "brew coffee",
+     "freshly brewed tea"
+    ]
+   },
+   {
+    "id": "brew-2",
+    "pos": "v",
+    "ko": "(문제가) 일어나려 하다",
+    "en": "to slowly develop, about trouble or a storm",
+    "nuance": "갈등·위기가 아직 터지지 않고 조용히 커지는 중일 때 쓴다. 보통 진행형 be brewing으로만 쓰고 단순현재로 A problem brews라고는 거의 안 한다.",
+    "pattern": "be brewing",
+    "examples": [
+     {
+      "en": "Something is brewing between the two teams about the budget.",
+      "ko": "예산 문제로 두 팀 사이에 뭔가 일이 커지고 있어요.",
+      "focus": "Something is brewing between the two teams"
+     }
+    ]
+   }
+  ],
+  "wordFamily": [
+   {
+    "form": "brewery",
+    "pos": "n",
+    "ko": "양조장"
+   }
+  ],
+  "confusables": [
+   {
+    "word": "boil",
+    "note": "boil은 물을 끓이는 것 자체, brew는 끓인 물로 커피·차의 맛을 우려내는 과정이다."
+   }
+  ]
+ },
+ {
+  "id": "broker",
+  "headword": "broker",
+  "ipa": "/ˈbroʊkər/",
+  "level": "ADV",
+  "isCore": false,
+  "topic": "money_shopping",
+  "forms": [
+   "brokers"
+  ],
+  "senses": [
+   {
+    "id": "broker-1",
+    "pos": "n",
+    "ko": "중개인, 브로커",
+    "en": "a person who buys and sells things for other people",
+    "nuance": "주식·보험·부동산 거래를 대신 해 주고 수수료를 받는 직업이다. 한국어 '브로커'는 불법 알선이라는 부정적 어감이 강하지만 영어 broker는 중립적인 직업명이다.",
+    "pattern": "a + 분야 + broker",
+    "examples": [
+     {
+      "en": "Our insurance broker found us a much cheaper policy last month.",
+      "ko": "우리 보험 중개인이 지난달에 훨씬 싼 상품을 찾아 줬어요.",
+      "focus": "Our insurance broker found us"
+     },
+     {
+      "en": "Talk to a mortgage broker before you sign anything with the bank.",
+      "ko": "은행이랑 계약하기 전에 대출 중개인이랑 먼저 얘기해 봐.",
+      "focus": "Talk to a mortgage broker"
+     }
+    ],
+    "collocations": [
+     "an insurance broker",
+     "a real estate broker"
+    ]
+   }
+  ],
+  "confusables": [
+   {
+    "word": "agent",
+    "note": "agent는 한쪽을 대리하는 사람, broker는 사는 쪽과 파는 쪽을 이어 주고 수수료를 받는 사람이다."
+   },
+   {
+    "word": "broke",
+    "note": "broke는 break의 과거형이거나 '빈털터리인'이라는 형용사로, 철자만 비슷하고 뜻은 전혀 다르다."
+   }
+  ]
+ },
+ {
+  "id": "brute",
+  "headword": "brute",
+  "ipa": "/bruːt/",
+  "level": "ADV",
+  "isCore": false,
+  "topic": "description_quality",
+  "senses": [
+   {
+    "id": "brute-1",
+    "pos": "adj",
+    "ko": "순전한 힘의, 무식한",
+    "en": "using only physical power, without skill or thought",
+    "nuance": "명사 앞에서 brute force, brute strength 형태로 거의 굳어져 쓴다. 사람을 '난폭한'이라고 할 때는 brute가 아니라 brutal을 쓴다.",
+    "pattern": "brute force / brute strength",
+    "examples": [
+     {
+      "en": "Don't use brute force on that door; the key sticks a little.",
+      "ko": "그 문을 힘으로 밀지 마. 열쇠가 좀 뻑뻑한 거야.",
+      "focus": "use brute force on that door"
+     },
+     {
+      "en": "He moved the desk by brute strength alone, and hurt his back.",
+      "ko": "그 사람은 순전히 힘으로 책상을 옮기다가 허리를 다쳤어.",
+      "focus": "by brute strength alone"
+     }
+    ],
+    "collocations": [
+     "brute force",
+     "brute strength"
+    ]
+   }
+  ],
+  "wordFamily": [
+   {
+    "form": "brutal",
+    "pos": "adj",
+    "ko": "잔인한, 혹독한"
+   }
+  ],
+  "confusables": [
+   {
+    "word": "brutal",
+    "note": "brutal은 사람·행동이 잔인하다는 뜻이고, brute는 주로 force·strength 앞에 붙어 '힘만 쓰는'을 뜻한다."
+   }
+  ]
+ },
+ {
+  "id": "bulk",
+  "headword": "bulk",
+  "ipa": "/bʌlk/",
+  "level": "ADV",
+  "isCore": false,
+  "topic": "time_quantity",
+  "senses": [
+   {
+    "id": "bulk-1",
+    "pos": "n",
+    "ko": "대부분, 대량",
+    "en": "the largest part of something, or a very large amount",
+    "nuance": "the bulk of + 명사 형태로 '거의 다'를 뜻한다. 앞에 the가 빠지면 어색하고, 셀 수 있는 명사가 와도 동사는 내용에 맞춰 쓴다.",
+    "pattern": "the bulk of + 명사",
+    "examples": [
+     {
+      "en": "The bulk of our sales still comes from just two clients.",
+      "ko": "우리 매출의 대부분은 아직도 딱 두 거래처에서 나와요.",
+      "focus": "The bulk of our sales"
+     },
+     {
+      "en": "Mina spent the bulk of her weekend preparing the presentation.",
+      "ko": "미나는 주말 대부분을 발표 준비하는 데 썼어.",
+      "focus": "spent the bulk of her weekend"
+     }
+    ],
+    "collocations": [
+     "the bulk of the work",
+     "buy in bulk"
+    ]
+   }
+  ],
+  "wordFamily": [
+   {
+    "form": "bulky",
+    "pos": "adj",
+    "ko": "부피가 큰"
+   }
+  ],
+  "confusables": [
+   {
+    "word": "most",
+    "note": "most는 일상 대화에서 두루 쓰고, the bulk of는 보고서·업무 대화에서 '압도적 다수'를 강조할 때 쓴다."
+   }
+  ]
+ },
+ {
+  "id": "businessman",
+  "headword": "businessman",
+  "ipa": "/ˈbɪznəsmæn/",
+  "level": "ADV",
+  "isCore": false,
+  "topic": "work_business",
+  "forms": [
+   "businessmen"
+  ],
+  "senses": [
+   {
+    "id": "businessman-1",
+    "pos": "n",
+    "ko": "사업가",
+    "en": "a man who works at a high level in trade or industry",
+    "nuance": "회사를 소유하거나 경영하는 사람을 뜻하지, 단순한 회사원은 아니다. 회사원은 office worker나 I work at a company라고 해야 하고, 성별 중립적으로는 businessperson을 쓴다.",
+    "pattern": "a successful businessman",
+    "examples": [
+     {
+      "en": "Her father was a businessman who ran three small factories.",
+      "ko": "그분 아버지는 작은 공장 세 개를 운영하던 사업가였어요.",
+      "focus": "was a businessman who ran"
+     },
+     {
+      "en": "Several businessmen from Busan joined the trade fair last week.",
+      "ko": "지난주 무역 박람회에 부산에서 사업가 몇 분이 오셨어요.",
+      "focus": "Several businessmen from Busan"
+     }
+    ],
+    "collocations": [
+     "a successful businessman",
+     "a local businessman"
+    ]
+   }
+  ],
+  "confusables": [
+   {
+    "word": "office worker",
+    "note": "한국어 '회사원'은 office worker나 employee이고, businessman은 사업을 소유·경영하는 사람이다."
+   },
+   {
+    "word": "businessperson",
+    "note": "businessperson은 성별을 드러내지 않는 요즘 표현이라 공식 문서에서는 이쪽이 안전하다."
+   }
+  ]
+ },
+ {
+  "id": "bust",
+  "headword": "bust",
+  "ipa": "/bʌst/",
+  "level": "ADV",
+  "isCore": false,
+  "topic": "movement_action",
+  "forms": [
+   "busted",
+   "busting",
+   "busts"
+  ],
+  "senses": [
+   {
+    "id": "bust-1",
+    "pos": "v",
+    "ko": "부수다, 고장 내다",
+    "en": "to break something, especially by force",
+    "nuance": "break의 격 없는 구어판이라 친구끼리 말할 때 쓰고 보고서에는 쓰지 않는다. 미국 구어에서는 과거형으로 busted를 흔히 쓴다.",
+    "pattern": "bust + 명사",
+    "examples": [
+     {
+      "en": "Jun busted his phone screen dropping it on the stairs.",
+      "ko": "준이 계단에서 폰을 떨어뜨려서 액정을 박살 냈어.",
+      "focus": "busted his phone screen"
+     },
+     {
+      "en": "Be careful or you'll bust the zipper on that bag.",
+      "ko": "조심해, 안 그러면 그 가방 지퍼 망가뜨린다.",
+      "focus": "bust the zipper"
+     }
+    ],
+    "collocations": [
+     "bust a window",
+     "get busted"
+    ]
+   },
+   {
+    "id": "bust-2",
+    "pos": "v",
+    "ko": "적발하다, 붙잡다",
+    "en": "to catch and arrest someone doing something illegal",
+    "nuance": "경찰이 현장에서 잡는 상황에 쓰는 구어로 보통 수동 get busted 형태다. 정식 문서에서는 arrest를 쓴다.",
+    "pattern": "get busted for + 명사",
+    "examples": [
+     {
+      "en": "He got busted for parking in the fire lane again.",
+      "ko": "그 사람 또 소방 차로에 주차했다가 걸렸대.",
+      "focus": "got busted for parking"
+     }
+    ]
+   }
+  ],
+  "confusables": [
+   {
+    "word": "break",
+    "note": "break는 어느 상황에서나 쓰는 표준어, bust는 친한 사이에서만 쓰는 거친 구어다."
+   }
+  ]
+ },
+ {
+  "id": "cabinet",
+  "headword": "cabinet",
+  "ipa": "/ˈkæbɪnət/",
+  "level": "ADV",
+  "isCore": false,
+  "topic": "home_daily",
+  "forms": [
+   "cabinets"
+  ],
+  "senses": [
+   {
+    "id": "cabinet-1",
+    "pos": "n",
+    "ko": "수납장, 캐비닛",
+    "en": "a piece of furniture with doors or drawers for storing things",
+    "nuance": "문이나 서랍이 달린 수납 가구를 뜻하는 가산 명사다. 한국어 '캐비닛'은 사무실 철제장만 떠올리기 쉽지만 영어에서는 주방 상부장·약장도 전부 cabinet이다.",
+    "pattern": "in the cabinet",
+    "examples": [
+     {
+      "en": "The extra mugs are in the cabinet above the sink.",
+      "ko": "여분 머그컵은 싱크대 위 수납장에 있어.",
+      "focus": "in the cabinet above the sink"
+     },
+     {
+      "en": "We painted the kitchen cabinets white over the weekend.",
+      "ko": "우리 주말 동안 주방 수납장을 흰색으로 칠했어.",
+      "focus": "painted the kitchen cabinets white"
+     }
+    ],
+    "collocations": [
+     "a kitchen cabinet",
+     "a filing cabinet"
+    ]
+   },
+   {
+    "id": "cabinet-2",
+    "pos": "n",
+    "ko": "내각",
+    "en": "the group of senior ministers who advise a country's leader",
+    "nuance": "정부 장관들의 모임을 뜻하며 보통 the Cabinet처럼 대문자로 쓴다. 한 명의 장관은 cabinet이 아니라 a cabinet minister다.",
+    "pattern": "the Cabinet",
+    "examples": [
+     {
+      "en": "The prime minister announced three new Cabinet members today.",
+      "ko": "총리가 오늘 새 내각 인사 세 명을 발표했습니다.",
+      "focus": "three new Cabinet members"
+     }
+    ]
+   }
+  ],
+  "confusables": [
+   {
+    "word": "closet",
+    "note": "closet은 사람이 들어갈 만한 붙박이 옷장, cabinet은 문·서랍이 달린 작은 수납 가구다."
+   }
+  ]
+ },
+ {
+  "id": "calculation",
+  "headword": "calculation",
+  "ipa": "/ˌkælkjəˈleɪʃn/",
+  "level": "ADV",
+  "isCore": false,
+  "topic": "academic",
+  "forms": [
+   "calculations"
+  ],
+  "senses": [
+   {
+    "id": "calculation-1",
+    "pos": "n",
+    "ko": "계산, 산출",
+    "en": "the process of finding an answer using numbers",
+    "nuance": "구체적인 계산 한 건씩은 셀 수 있어 calculations로 자주 쓴다. '계산이 틀렸다'는 My calculation is wrong보다 My calculations are off가 자연스럽다.",
+    "pattern": "do/check a calculation",
+    "examples": [
+     {
+      "en": "Let me check my calculations before I send you the quote.",
+      "ko": "견적 보내기 전에 계산을 한 번 더 확인해 볼게요.",
+      "focus": "check my calculations"
+     },
+     {
+      "en": "By my calculation, we'll run out of stock by Friday.",
+      "ko": "제 계산대로면 금요일쯤 재고가 다 떨어져요.",
+      "focus": "By my calculation"
+     }
+    ],
+    "collocations": [
+     "a rough calculation",
+     "check the calculations"
+    ]
+   }
+  ],
+  "wordFamily": [
+   {
+    "form": "calculate",
+    "pos": "v",
+    "ko": "계산하다"
+   },
+   {
+    "form": "calculator",
+    "pos": "n",
+    "ko": "계산기"
+   }
+  ],
+  "confusables": [
+   {
+    "word": "count",
+    "note": "count는 하나씩 세는 것, calculation은 식을 써서 답을 구하는 계산이다."
+   },
+   {
+    "word": "bill",
+    "note": "식당에서 '계산서'는 calculation이 아니라 the bill 또는 the check다."
+   }
+  ]
+ },
+ {
+  "id": "calculator",
+  "headword": "calculator",
+  "ipa": "/ˈkælkjəleɪtər/",
+  "level": "ADV",
+  "isCore": false,
+  "topic": "school_learning",
+  "forms": [
+   "calculators"
+  ],
+  "senses": [
+   {
+    "id": "calculator-1",
+    "pos": "n",
+    "ko": "계산기",
+    "en": "a small machine or app used for working with numbers",
+    "nuance": "기계·앱을 뜻하는 가산 명사라 a calculator처럼 관사가 필요하다. 계산해 주는 사람이 아니라 도구를 뜻하므로 사람에게는 쓰지 않는다.",
+    "pattern": "use a calculator",
+    "examples": [
+     {
+      "en": "You can use the calculator on your phone for this part.",
+      "ko": "이 부분은 폰에 있는 계산기 써도 돼요.",
+      "focus": "use the calculator on your phone"
+     },
+     {
+      "en": "The exam rules say no calculators are allowed in the room.",
+      "ko": "시험 규정상 시험장에 계산기는 반입 금지예요.",
+      "focus": "no calculators are allowed"
+     }
+    ],
+    "collocations": [
+     "use a calculator",
+     "a pocket calculator"
+    ]
+   }
+  ],
+  "wordFamily": [
+   {
+    "form": "calculate",
+    "pos": "v",
+    "ko": "계산하다"
+   },
+   {
+    "form": "calculation",
+    "pos": "n",
+    "ko": "계산"
+   }
+  ],
+  "confusables": [
+   {
+    "word": "computer",
+    "note": "calculator는 숫자 계산만 하는 작은 기계, computer는 온갖 작업을 하는 컴퓨터다."
+   }
+  ]
+ },
+ {
+  "id": "campus",
+  "headword": "campus",
+  "ipa": "/ˈkæmpəs/",
+  "level": "ADV",
+  "isCore": false,
+  "topic": "school_learning",
+  "forms": [
+   "campuses"
+  ],
+  "senses": [
+   {
+    "id": "campus-1",
+    "pos": "n",
+    "ko": "캠퍼스, 교내",
+    "en": "the land and buildings of a college or large company",
+    "nuance": "'교내에서'는 in the campus가 아니라 on campus로 관사 없이 쓴다. 대학뿐 아니라 큰 회사 부지에도 쓴다.",
+    "pattern": "on campus / off campus",
+    "examples": [
+     {
+      "en": "Most first-year students live on campus for a year.",
+      "ko": "1학년 대부분은 일 년 동안 교내에서 살아요.",
+      "focus": "live on campus"
+     },
+     {
+      "en": "Our company moved to a new campus just outside Seoul.",
+      "ko": "우리 회사는 서울 바로 외곽에 있는 새 부지로 옮겼어요.",
+      "focus": "moved to a new campus"
+     }
+    ],
+    "collocations": [
+     "on campus",
+     "a university campus"
+    ]
+   }
+  ],
+  "confusables": [
+   {
+    "word": "college",
+    "note": "college는 학교라는 기관, campus는 그 학교가 차지한 땅과 건물이다."
+   },
+   {
+    "word": "CC",
+    "note": "한국어 '캠퍼스 커플'은 콩글리시라 영어로는 그냥 we met at university라고 말한다."
+   }
+  ]
+ },
+ {
+  "id": "caption",
+  "headword": "caption",
+  "ipa": "/ˈkæpʃn/",
+  "level": "ADV",
+  "isCore": false,
+  "topic": "communication",
+  "forms": [
+   "captions"
+  ],
+  "senses": [
+   {
+    "id": "caption-1",
+    "pos": "n",
+    "ko": "설명 글, 자막",
+    "en": "short words printed under a picture or on a screen",
+    "nuance": "사진 밑에 붙는 설명이나 영상의 자막을 뜻하는 가산 명사다. 외국어를 번역한 영화 자막은 captions가 아니라 subtitles라고 구분해 쓴다.",
+    "pattern": "a caption under/on + 명사",
+    "examples": [
+     {
+      "en": "Add a short caption under each photo before you post it.",
+      "ko": "올리기 전에 사진마다 짧은 설명을 달아 줘.",
+      "focus": "a short caption under each photo"
+     },
+     {
+      "en": "I turn on captions when I watch videos on the subway.",
+      "ko": "지하철에서 영상 볼 때는 자막을 켜 놔.",
+      "focus": "turn on captions"
+     }
+    ],
+    "collocations": [
+     "add a caption",
+     "turn on captions"
+    ]
+   }
+  ],
+  "confusables": [
+   {
+    "word": "subtitle",
+    "note": "subtitle은 대사를 다른 언어로 옮긴 자막, caption은 같은 언어로 소리를 적어 준 자막이나 사진 설명이다."
+   },
+   {
+    "word": "title",
+    "note": "title은 작품의 제목, caption은 그림·영상 아래 붙는 짧은 설명이다."
+   }
+  ]
+ },
+ {
+  "id": "cater",
+  "headword": "cater",
+  "ipa": "/ˈkeɪtər/",
+  "level": "ADV",
+  "isCore": false,
+  "topic": "food_cooking",
+  "forms": [
+   "catered",
+   "catering",
+   "caters"
+  ],
+  "senses": [
+   {
+    "id": "cater-1",
+    "pos": "v",
+    "ko": "음식을 공급하다",
+    "en": "to provide and serve food for an event as a job",
+    "nuance": "행사에 음식을 준비해 내는 업체 일을 말한다. 집에서 요리해 대접하는 건 cater가 아니라 cook for나 have people over다.",
+    "pattern": "cater + 행사 / cater for + 사람",
+    "examples": [
+     {
+      "en": "A small shop near the office catered our year-end party.",
+      "ko": "사무실 근처 작은 가게가 우리 송년회 음식을 맡아 줬어요.",
+      "focus": "catered our year-end party"
+     }
+    ],
+    "collocations": [
+     "cater an event",
+     "a catered lunch"
+    ]
+   },
+   {
+    "id": "cater-2",
+    "pos": "v",
+    "ko": "맞추다, 부응하다",
+    "en": "to give people exactly what they want or need",
+    "nuance": "cater to + 명사로 특정 집단의 취향에 맞춘다는 뜻이다. to를 빼고 cater customers라고 하면 틀리고, 지나치게 맞춰 준다는 비판조로도 자주 쓴다.",
+    "pattern": "cater to + 명사",
+    "examples": [
+     {
+      "en": "This app mainly caters to users over fifty.",
+      "ko": "이 앱은 주로 50대 이상 사용자에 맞춰 만들어졌어요.",
+      "focus": "caters to users over fifty"
+     }
+    ]
+   }
+  ],
+  "wordFamily": [
+   {
+    "form": "caterer",
+    "pos": "n",
+    "ko": "출장 요리 업체"
+   }
+  ],
+  "confusables": [
+   {
+    "word": "serve",
+    "note": "serve는 음식을 내놓는 행위, cater는 행사 음식을 통째로 준비해 공급하는 사업이다."
+   }
+  ]
+ },
+ {
+  "id": "cathedral",
+  "headword": "cathedral",
+  "ipa": "/kəˈθiːdrəl/",
+  "level": "ADV",
+  "isCore": false,
+  "topic": "travel_transport",
+  "forms": [
+   "cathedrals"
+  ],
+  "senses": [
+   {
+    "id": "cathedral-1",
+    "pos": "n",
+    "ko": "대성당",
+    "en": "a very large and important church in a city",
+    "nuance": "주교가 있는 도시의 큰 성당만 가리키는 가산 명사다. 동네 교회는 cathedral이 아니라 church이고, 여행 이야기에서 건축물로 자주 등장한다.",
+    "pattern": "visit + the cathedral",
+    "examples": [
+     {
+      "en": "We climbed to the top of the cathedral for the view.",
+      "ko": "우리는 전망 보려고 대성당 꼭대기까지 올라갔어.",
+      "focus": "the top of the cathedral"
+     },
+     {
+      "en": "The cathedral took almost two hundred years to finish.",
+      "ko": "그 대성당은 완공까지 거의 200년이 걸렸어요.",
+      "focus": "The cathedral took almost two hundred years"
+     }
+    ],
+    "collocations": [
+     "visit a cathedral",
+     "a medieval cathedral"
+    ]
+   }
+  ],
+  "confusables": [
+   {
+    "word": "church",
+    "note": "church는 크기와 상관없는 일반 교회, cathedral은 주교가 관할하는 도시의 대성당이다."
+   },
+   {
+    "word": "temple",
+    "note": "temple은 절이나 고대 신전이고, cathedral은 기독교 대성당만 가리킨다."
+   }
+  ]
+ },
+ {
+  "id": "chancellor",
+  "headword": "chancellor",
+  "ipa": "/ˈtʃænsələr/",
+  "level": "ADV",
+  "isCore": false,
+  "topic": "society_politics",
+  "forms": [
+   "chancellors"
+  ],
+  "senses": [
+   {
+    "id": "chancellor-1",
+    "pos": "n",
+    "ko": "총리, 총장",
+    "en": "the head of a government in some countries, or of a university",
+    "nuance": "독일·오스트리아의 총리와 영미권 대학 총장에 쓰는 직함이다. 사람 이름 앞에서는 Chancellor Kim처럼 대문자로 관사 없이 쓴다.",
+    "pattern": "the chancellor of + 기관",
+    "examples": [
+     {
+      "en": "The German chancellor will visit Seoul again this autumn.",
+      "ko": "독일 총리가 올가을에 다시 서울을 방문할 예정입니다.",
+      "focus": "The German chancellor will visit"
+     },
+     {
+      "en": "Our new chancellor spoke about tuition at the opening ceremony.",
+      "ko": "새 총장님이 개강식에서 등록금 얘기를 하셨어요.",
+      "focus": "Our new chancellor spoke about tuition"
+     }
+    ],
+    "collocations": [
+     "the German chancellor",
+     "the university chancellor"
+    ]
+   }
+  ],
+  "confusables": [
+   {
+    "word": "president",
+    "note": "한국·미국의 대통령은 president이고, 독일식 내각 수반이나 대학 총장에는 chancellor를 쓴다."
+   },
+   {
+    "word": "chance",
+    "note": "철자가 비슷하지만 chance는 '기회·가능성'이라 뜻이 전혀 다르다."
+   }
+  ]
+ },
+ {
+  "id": "charter",
+  "headword": "charter",
+  "ipa": "/ˈtʃɑːrtər/",
+  "level": "ADV",
+  "isCore": false,
+  "topic": "travel_transport",
+  "forms": [
+   "chartered",
+   "chartering",
+   "charters"
+  ],
+  "senses": [
+   {
+    "id": "charter-1",
+    "pos": "v",
+    "ko": "전세 내다",
+    "en": "to pay to use a whole plane, bus, or boat",
+    "nuance": "비행기·버스·배를 통째로 빌릴 때만 쓰고, 자동차 한 대는 rent를 쓴다. 한국어 '전세 버스'는 a chartered bus다.",
+    "pattern": "charter a + 교통수단",
+    "examples": [
+     {
+      "en": "The company chartered a bus to take everyone to the resort.",
+      "ko": "회사에서 다 같이 리조트 가려고 버스를 한 대 전세 냈어요.",
+      "focus": "chartered a bus"
+     },
+     {
+      "en": "We might charter a small boat for the island tour.",
+      "ko": "섬 투어는 작은 배를 하나 빌릴 수도 있어.",
+      "focus": "charter a small boat"
+     }
+    ],
+    "collocations": [
+     "charter a plane",
+     "a chartered flight"
+    ]
+   },
+   {
+    "id": "charter-2",
+    "pos": "n",
+    "ko": "헌장, 설립 강령",
+    "en": "an official written statement of an organization's rights and aims",
+    "nuance": "유엔 헌장처럼 조직의 목적과 권리를 적은 공식 문서다. 일반 계약서는 charter가 아니라 contract라고 해야 한다.",
+    "pattern": "the charter of + 기관",
+    "examples": [
+     {
+      "en": "The charter says every member gets one vote.",
+      "ko": "헌장에 따르면 모든 회원이 한 표씩 갖습니다.",
+      "focus": "The charter says every member"
+     }
+    ]
+   }
+  ],
+  "confusables": [
+   {
+    "word": "rent",
+    "note": "rent는 집·차처럼 일부를 빌리는 일반어, charter는 비행기·버스·배 전체를 빌리는 것이다."
+   },
+   {
+    "word": "chapter",
+    "note": "철자가 비슷한 chapter는 책의 '장'이라 전혀 다른 단어다."
+   }
+  ]
+ },
+ {
+  "id": "chess",
+  "headword": "chess",
+  "ipa": "/tʃes/",
+  "level": "ADV",
+  "isCore": false,
+  "topic": "sports_leisure",
+  "senses": [
+   {
+    "id": "chess-1",
+    "pos": "n",
+    "ko": "체스",
+    "en": "a board game for two people with kings, queens, and pawns",
+    "nuance": "경기 이름이라 불가산이고 관사도 붙이지 않아 play chess라고 한다. a chess나 chesses는 틀리며, 판을 말할 때만 a chess set이라고 쓴다.",
+    "pattern": "play chess",
+    "examples": [
+     {
+      "en": "Tom and I play chess online almost every evening.",
+      "ko": "톰이랑 나는 거의 매일 저녁 온라인으로 체스를 둬.",
+      "focus": "play chess online"
+     },
+     {
+      "en": "She joined the chess club to meet people on campus.",
+      "ko": "그 친구는 교내에서 사람들 만나려고 체스 동아리에 들었어.",
+      "focus": "joined the chess club"
+     }
+    ],
+    "collocations": [
+     "play chess",
+     "a chess club",
+     "a game of chess"
+    ]
+   }
+  ],
+  "confusables": [
+   {
+    "word": "checkers",
+    "note": "checkers는 같은 판에서 하는 더 단순한 게임이고, chess는 말마다 움직임이 다른 게임이다."
+   },
+   {
+    "word": "chest",
+    "note": "한 글자 차이인 chest는 '가슴·상자'라 발음도 뜻도 전혀 다르다."
+   }
+  ]
+ },
+ {
+  "id": "chronic",
+  "headword": "chronic",
+  "ipa": "/ˈkrɑːnɪk/",
+  "level": "ADV",
+  "isCore": false,
+  "topic": "body_health",
+  "senses": [
+   {
+    "id": "chronic-1",
+    "pos": "adj",
+    "ko": "만성의, 고질적인",
+    "en": "lasting for a long time and hard to cure or fix",
+    "nuance": "병이나 문제가 오래 이어질 때 쓰고, 명사 앞에 붙는 게 보통이다. 갑자기 심해지는 것은 chronic이 아니라 acute이며 첫소리는 /k/로 발음한다.",
+    "pattern": "chronic + 명사(pain, shortage)",
+    "examples": [
+     {
+      "en": "My father has chronic back pain from years of driving.",
+      "ko": "아버지는 오래 운전하셔서 만성 허리 통증이 있으세요.",
+      "focus": "has chronic back pain"
+     },
+     {
+      "en": "The hospital faces a chronic shortage of night nurses.",
+      "ko": "그 병원은 야간 간호 인력 부족이 고질적이에요.",
+      "focus": "a chronic shortage of night nurses"
+     }
+    ],
+    "collocations": [
+     "chronic pain",
+     "a chronic disease",
+     "a chronic shortage"
+    ]
+   }
+  ],
+  "wordFamily": [
+   {
+    "form": "chronically",
+    "pos": "adv",
+    "ko": "만성적으로"
+   }
+  ],
+  "confusables": [
+   {
+    "word": "acute",
+    "note": "acute는 갑자기 심하게 오는 것, chronic은 약해도 오래 끌며 잘 낫지 않는 것이다."
+   }
+  ]
+ },
+ {
+  "id": "citation",
+  "headword": "citation",
+  "ipa": "/saɪˈteɪʃn/",
+  "level": "ADV",
+  "isCore": false,
+  "topic": "academic",
+  "forms": [
+   "citations"
+  ],
+  "senses": [
+   {
+    "id": "citation-1",
+    "pos": "n",
+    "ko": "인용, 출처 표기",
+    "en": "a note showing where words or ideas came from",
+    "nuance": "논문에서 출처를 밝힌 표기 하나하나를 뜻하는 가산 명사다. 인용한 문장 자체는 citation이 아니라 quote·quotation이라고 구분해야 한다.",
+    "pattern": "add/include a citation",
+    "examples": [
+     {
+      "en": "Add a citation for every figure you took from that report.",
+      "ko": "그 보고서에서 가져온 수치마다 출처를 달아 주세요.",
+      "focus": "Add a citation for every figure"
+     },
+     {
+      "en": "Her paper has over three hundred citations already.",
+      "ko": "그분 논문은 벌써 인용이 300회가 넘어요.",
+      "focus": "over three hundred citations"
+     }
+    ],
+    "collocations": [
+     "add a citation",
+     "a citation index"
+    ]
+   }
+  ],
+  "wordFamily": [
+   {
+    "form": "cite",
+    "pos": "v",
+    "ko": "인용하다"
+   }
+  ],
+  "confusables": [
+   {
+    "word": "quotation",
+    "note": "quotation은 그대로 옮겨 온 말 자체, citation은 그 말의 출처를 밝힌 표기다."
+   },
+   {
+    "word": "situation",
+    "note": "철자가 비슷해 헷갈리지만 situation은 '상황'이라 뜻이 전혀 다르다."
+   }
+  ]
+ },
+ {
+  "id": "civilization",
+  "headword": "civilization",
+  "ipa": "/ˌsɪvələˈzeɪʃn/",
+  "level": "ADV",
+  "isCore": false,
+  "topic": "society_politics",
+  "forms": [
+   "civilisation",
+   "civilisations",
+   "civilizations"
+  ],
+  "senses": [
+   {
+    "id": "civilization-1",
+    "pos": "n",
+    "ko": "문명",
+    "en": "a society with its own cities, writing, and way of life",
+    "nuance": "특정 시대·지역의 문명은 셀 수 있고, 인류 전체의 문명은 불가산으로 쓴다. 영국식 철자는 civilisation이며 뜻 차이는 없다.",
+    "pattern": "an ancient civilization",
+    "examples": [
+     {
+      "en": "The museum shows tools from several ancient civilizations.",
+      "ko": "그 박물관에는 여러 고대 문명의 도구가 전시돼 있어요.",
+      "focus": "several ancient civilizations"
+     },
+     {
+      "en": "Writing changed civilization more than almost any other invention.",
+      "ko": "문자는 다른 어떤 발명보다 문명을 크게 바꿨습니다.",
+      "focus": "changed civilization"
+     }
+    ],
+    "collocations": [
+     "an ancient civilization",
+     "modern civilization"
+    ]
+   }
+  ],
+  "wordFamily": [
+   {
+    "form": "civilized",
+    "pos": "adj",
+    "ko": "문명화된, 교양 있는"
+   }
+  ],
+  "confusables": [
+   {
+    "word": "culture",
+    "note": "culture는 한 집단의 생활 방식과 가치, civilization은 도시·문자까지 갖춘 큰 사회 전체다."
+   },
+   {
+    "word": "civilian",
+    "note": "civilian은 군인이 아닌 '민간인'이라 철자만 비슷하고 뜻은 다르다."
+   }
+  ]
+ },
+ {
+  "id": "clone",
+  "headword": "clone",
+  "ipa": "/kloʊn/",
+  "level": "ADV",
+  "isCore": false,
+  "topic": "environment_science",
+  "forms": [
+   "cloned",
+   "clones",
+   "cloning"
+  ],
+  "senses": [
+   {
+    "id": "clone-1",
+    "pos": "v",
+    "ko": "복제하다",
+    "en": "to make an exact genetic copy of a plant or animal",
+    "nuance": "생물을 유전적으로 똑같이 만드는 것을 뜻한다. 파일이나 문서를 복사하는 건 clone이 아니라 copy이고, 저장소 복제 같은 IT 용어에서만 예외로 clone을 쓴다.",
+    "pattern": "clone + 생물",
+    "examples": [
+     {
+      "en": "Scientists first cloned a sheep back in the nineties.",
+      "ko": "과학자들이 90년대에 처음으로 양을 복제했어요.",
+      "focus": "first cloned a sheep"
+     },
+     {
+      "en": "Some farms already clone their best fruit trees.",
+      "ko": "일부 농장은 이미 제일 좋은 과일나무를 복제해요.",
+      "focus": "clone their best fruit trees"
+     }
+    ],
+    "collocations": [
+     "clone an animal",
+     "a cloned sheep"
+    ]
+   },
+   {
+    "id": "clone-2",
+    "pos": "n",
+    "ko": "복제품, 짝퉁",
+    "en": "a product made to look exactly like a famous one",
+    "nuance": "유명 제품을 거의 그대로 베낀 것을 가리키는 구어로 약간 무시하는 어감이 있다. 정식으로 허가받은 복제는 clone이 아니라 licensed version이다.",
+    "pattern": "a clone of + 제품",
+    "examples": [
+     {
+      "en": "That game is basically a clone of an older Korean title.",
+      "ko": "그 게임은 사실상 예전 한국 게임의 복제판이야.",
+      "focus": "a clone of an older Korean title"
+     }
+    ]
+   }
+  ],
+  "wordFamily": [
+   {
+    "form": "cloning",
+    "pos": "n",
+    "ko": "복제 기술"
+   }
+  ],
+  "confusables": [
+   {
+    "word": "copy",
+    "note": "copy는 문서·파일 등 무엇이든 베끼는 일반어, clone은 유전자까지 똑같이 만드는 복제다."
+   }
+  ]
+ },
+ {
+  "id": "coalition",
+  "headword": "coalition",
+  "ipa": "/ˌkoʊəˈlɪʃn/",
+  "level": "ADV",
+  "isCore": false,
+  "topic": "society_politics",
+  "forms": [
+   "coalitions"
+  ],
+  "senses": [
+   {
+    "id": "coalition-1",
+    "pos": "n",
+    "ko": "연합, 연립",
+    "en": "a group of parties or organizations working together for a while",
+    "nuance": "서로 다른 정당·단체가 한동안 손잡은 상태를 뜻하는 가산 명사다. 영구적인 결합은 coalition이 아니라 merger나 union이라고 한다.",
+    "pattern": "form a coalition with + 명사",
+    "examples": [
+     {
+      "en": "The two parties formed a coalition to pass the budget.",
+      "ko": "두 정당이 예산안을 통과시키려고 연립을 이뤘습니다.",
+      "focus": "formed a coalition to pass the budget"
+     },
+     {
+      "en": "A coalition of local groups is fighting the new highway.",
+      "ko": "지역 단체 연합이 새 고속도로 건설에 반대하고 있어요.",
+      "focus": "A coalition of local groups"
+     }
+    ],
+    "collocations": [
+     "form a coalition",
+     "a coalition government"
+    ]
+   }
+  ],
+  "confusables": [
+   {
+    "word": "alliance",
+    "note": "alliance는 오래가는 동맹, coalition은 특정 목적을 위해 잠시 뭉친 연합이다."
+   },
+   {
+    "word": "condition",
+    "note": "철자가 비슷해 보이지만 condition은 '상태·조건'으로 전혀 다른 단어다."
+   }
+  ]
+ },
+ {
+  "id": "collateral",
+  "headword": "collateral",
+  "ipa": "/kəˈlætərəl/",
+  "level": "ADV",
+  "isCore": false,
+  "topic": "money_shopping",
+  "senses": [
+   {
+    "id": "collateral-1",
+    "pos": "n",
+    "ko": "담보",
+    "en": "property promised to a lender in case a loan is not repaid",
+    "nuance": "대출 못 갚을 때 넘어가는 재산을 뜻하는 불가산 명사라 a collateral, collaterals라고 쓰지 않는다. 사람이 서는 '보증'은 collateral이 아니라 a guarantee다.",
+    "pattern": "use + 명사 + as collateral",
+    "examples": [
+     {
+      "en": "The bank asked us to put up our apartment as collateral.",
+      "ko": "은행에서 우리 아파트를 담보로 잡으라고 했어요.",
+      "focus": "our apartment as collateral"
+     },
+     {
+      "en": "Small firms often have no collateral to offer a lender.",
+      "ko": "작은 회사는 은행에 내놓을 담보가 없는 경우가 많아요.",
+      "focus": "have no collateral to offer"
+     }
+    ],
+    "collocations": [
+     "as collateral",
+     "put up collateral"
+    ]
+   }
+  ],
+  "confusables": [
+   {
+    "word": "deposit",
+    "note": "deposit은 미리 맡기는 보증금, collateral은 대출을 못 갚을 때만 넘어가는 담보 재산이다."
+   }
+  ]
+ },
+ {
+  "id": "comma",
+  "headword": "comma",
+  "ipa": "/ˈkɑːmə/",
+  "level": "ADV",
+  "isCore": false,
+  "topic": "communication",
+  "forms": [
+   "commas"
+  ],
+  "senses": [
+   {
+    "id": "comma-1",
+    "pos": "n",
+    "ko": "쉼표",
+    "en": "the mark ( , ) used to separate parts of a sentence",
+    "nuance": "부호 하나하나를 세는 가산 명사다. 한국어로는 '콤마를 찍다'라고 하지만 영어에서는 hit a comma가 아니라 put 또는 add a comma라고 한다.",
+    "pattern": "put a comma after + 명사",
+    "examples": [
+     {
+      "en": "Put a comma after the name, then start the sentence.",
+      "ko": "이름 뒤에 쉼표를 찍고 문장을 시작하세요.",
+      "focus": "Put a comma after the name"
+     },
+     {
+      "en": "Your email has too many commas in the first paragraph.",
+      "ko": "네 이메일 첫 단락에 쉼표가 너무 많아.",
+      "focus": "too many commas"
+     }
+    ],
+    "collocations": [
+     "put a comma",
+     "a missing comma"
+    ]
+   }
+  ],
+  "confusables": [
+   {
+    "word": "period",
+    "note": "period(영국식 full stop)는 문장을 끝내는 마침표, comma는 문장 안을 끊어 주는 쉼표다."
+   },
+   {
+    "word": "coma",
+    "note": "m이 하나인 coma는 '혼수상태'라 뜻이 전혀 다르니 철자에 주의한다."
+   }
+  ]
+ },
+ {
+  "id": "commence",
+  "headword": "commence",
+  "ipa": "/kəˈmens/",
+  "level": "ADV",
+  "isCore": false,
+  "topic": "time_quantity",
+  "forms": [
+   "commenced",
+   "commences",
+   "commencing"
+  ],
+  "senses": [
+   {
+    "id": "commence-1",
+    "pos": "v",
+    "ko": "시작되다, 개시하다",
+    "en": "to start, used in formal notices and announcements",
+    "nuance": "안내 방송·공문에서 쓰는 딱딱한 begin이라 친구끼리는 start를 쓴다. 뒤에 to부정사보다 -ing나 명사가 자연스러워 commence working이라고 한다.",
+    "pattern": "commence + 명사 / -ing",
+    "examples": [
+     {
+      "en": "Boarding will commence in about fifteen minutes at gate nine.",
+      "ko": "탑승은 약 15분 뒤 9번 게이트에서 시작됩니다.",
+      "focus": "will commence in about fifteen minutes"
+     },
+     {
+      "en": "The trial commenced on Monday after a long delay.",
+      "ko": "재판은 오랜 지연 끝에 월요일에 시작됐습니다.",
+      "focus": "commenced on Monday"
+     }
+    ],
+    "collocations": [
+     "commence work",
+     "commence proceedings"
+    ]
+   }
+  ],
+  "confusables": [
+   {
+    "word": "start",
+    "note": "start는 어디서나 쓰는 일상어, commence는 공지·법률 문서에서 쓰는 격식체다."
+   },
+   {
+    "word": "comment",
+    "note": "철자가 비슷한 comment는 '논평하다'라 뜻이 전혀 다르다."
+   }
+  ]
+ },
+ {
+  "id": "commodity",
+  "headword": "commodity",
+  "ipa": "/kəˈmɑːdəti/",
+  "level": "ADV",
+  "isCore": false,
+  "topic": "money_shopping",
+  "forms": [
+   "commodities"
+  ],
+  "senses": [
+   {
+    "id": "commodity-1",
+    "pos": "n",
+    "ko": "원자재, 상품",
+    "en": "something like oil or coffee that is bought and sold in large amounts",
+    "nuance": "석유·곡물처럼 시장에서 대량 거래되는 기초 물품을 뜻한다. 가게에서 파는 완성품은 commodity가 아니라 product나 goods라고 해야 한다.",
+    "pattern": "commodity prices",
+    "examples": [
+     {
+      "en": "Commodity prices jumped again after the storm hit the coast.",
+      "ko": "태풍이 해안을 덮친 뒤 원자재 가격이 또 뛰었어요.",
+      "focus": "Commodity prices jumped"
+     },
+     {
+      "en": "Coffee is one of the most traded commodities in the world.",
+      "ko": "커피는 세계에서 가장 많이 거래되는 원자재 중 하나예요.",
+      "focus": "the most traded commodities"
+     }
+    ],
+    "collocations": [
+     "commodity prices",
+     "a valuable commodity"
+    ]
+   }
+  ],
+  "confusables": [
+   {
+    "word": "product",
+    "note": "product는 회사가 만들어 파는 완성품, commodity는 어디서 사든 품질이 같은 원자재다."
+   }
+  ]
+ },
+ {
+  "id": "commonly",
+  "headword": "commonly",
+  "ipa": "/ˈkɑːmənli/",
+  "level": "ADV",
+  "isCore": false,
+  "topic": "time_quantity",
+  "senses": [
+   {
+    "id": "commonly-1",
+    "pos": "adv",
+    "ko": "흔히, 보통",
+    "en": "in a way that happens often among many people",
+    "nuance": "'많은 사람이 그렇게 한다'는 빈도를 말하며 보통 수동태 앞에 온다. '보통은'이라는 뜻으로 문장 첫머리에 쓰는 usually와 달리 commonly는 동사 바로 앞이 자연스럽다.",
+    "pattern": "be commonly + 과거분사",
+    "examples": [
+     {
+      "en": "This plant is commonly used in Korean soups and stews.",
+      "ko": "이 나물은 한국 국이나 찌개에 흔히 쓰여요.",
+      "focus": "is commonly used"
+     },
+     {
+      "en": "The disease is commonly known by a much shorter name.",
+      "ko": "그 병은 훨씬 짧은 이름으로 흔히 불려요.",
+      "focus": "is commonly known"
+     }
+    ],
+    "collocations": [
+     "commonly used",
+     "commonly known as"
+    ]
+   }
+  ],
+  "wordFamily": [
+   {
+    "form": "common",
+    "pos": "adj",
+    "ko": "흔한, 공통의"
+   }
+  ],
+  "confusables": [
+   {
+    "word": "usually",
+    "note": "usually는 한 사람·상황의 평소 습관, commonly는 여러 사람 사이에 널리 그렇다는 뜻이다."
+   }
+  ]
+ },
+ {
+  "id": "comparative",
+  "headword": "comparative",
+  "ipa": "/kəmˈpærətɪv/",
+  "level": "ADV",
+  "isCore": false,
+  "topic": "academic",
+  "senses": [
+   {
+    "id": "comparative-1",
+    "pos": "adj",
+    "ko": "비교의, 상대적인",
+    "en": "based on looking at two or more things side by side",
+    "nuance": "연구·분석 이름에 붙어 comparative study처럼 쓰거나 '상대적인'이라는 뜻으로 쓴다. 동사를 꾸밀 때는 comparatively를 써서 comparatively cheap이라고 한다.",
+    "pattern": "comparative + 명사(study, advantage)",
+    "examples": [
+     {
+      "en": "She wrote a comparative study of two school systems.",
+      "ko": "그분은 두 학교 제도를 비교한 연구를 썼어요.",
+      "focus": "a comparative study of two school systems"
+     },
+     {
+      "en": "After the noisy office, this room feels like comparative calm.",
+      "ko": "시끄러운 사무실에 있다 오니까 이 방은 상대적으로 조용하게 느껴져요.",
+      "focus": "feels like comparative calm"
+     }
+    ],
+    "collocations": [
+     "a comparative study",
+     "comparative advantage"
+    ]
+   }
+  ],
+  "wordFamily": [
+   {
+    "form": "comparatively",
+    "pos": "adv",
+    "ko": "비교적, 상대적으로"
+   },
+   {
+    "form": "compare",
+    "pos": "v",
+    "ko": "비교하다"
+   }
+  ],
+  "confusables": [
+   {
+    "word": "comparable",
+    "note": "comparable은 '비교할 만한, 비슷한 수준의', comparative는 '비교해서 본'이라는 뜻이다."
+   }
+  ]
+ },
+ {
+  "id": "compatible",
+  "headword": "compatible",
+  "ipa": "/kəmˈpætəbl/",
+  "level": "ADV",
+  "isCore": false,
+  "topic": "environment_science",
+  "senses": [
+   {
+    "id": "compatible-1",
+    "pos": "adj",
+    "ko": "호환되는",
+    "en": "able to be used together with something else",
+    "nuance": "기기·프로그램이 함께 작동한다는 뜻으로 be compatible with처럼 with를 쓴다. to를 쓰면 틀리고, 사람 궁합에도 We're compatible처럼 쓸 수 있다.",
+    "pattern": "be compatible with + 명사",
+    "examples": [
+     {
+      "en": "This charger isn't compatible with the older model.",
+      "ko": "이 충전기는 구형 모델하고는 호환이 안 돼.",
+      "focus": "isn't compatible with the older model"
+     },
+     {
+      "en": "Make sure the file is compatible with our reporting software.",
+      "ko": "그 파일이 우리 보고 프로그램과 호환되는지 확인해 주세요.",
+      "focus": "compatible with our reporting software"
+     }
+    ],
+    "collocations": [
+     "compatible with",
+     "fully compatible"
+    ]
+   }
+  ],
+  "wordFamily": [
+   {
+    "form": "compatibility",
+    "pos": "n",
+    "ko": "호환성"
+   }
+  ],
+  "confusables": [
+   {
+    "word": "suitable",
+    "note": "suitable은 목적에 알맞다는 뜻, compatible은 다른 것과 함께 문제없이 작동한다는 뜻이다."
+   }
+  ]
+ },
+ {
+  "id": "compel",
+  "headword": "compel",
+  "ipa": "/kəmˈpel/",
+  "level": "ADV",
+  "isCore": false,
+  "topic": "thinking_opinion",
+  "forms": [
+   "compelled",
+   "compelling",
+   "compels"
+  ],
+  "senses": [
+   {
+    "id": "compel-1",
+    "pos": "v",
+    "ko": "강요하다, ~하게 만들다",
+    "en": "to force someone to do something they may not want to do",
+    "nuance": "법·상황이 어쩔 수 없게 만들 때 쓰는 격식체로 compel + 목적어 + to부정사 형태다. 사람이 직접 윽박지르는 건 force가 자연스럽고, l을 겹쳐 compelled로 쓴다.",
+    "pattern": "compel + 사람 + to부정사",
+    "examples": [
+     {
+      "en": "The new rule compels every driver to record their hours.",
+      "ko": "새 규정은 모든 운전자가 근무 시간을 기록하도록 강제합니다.",
+      "focus": "compels every driver to record"
+     },
+     {
+      "en": "I felt compelled to say something at the meeting.",
+      "ko": "회의에서 뭐라도 말해야 할 것 같은 기분이 들었어요.",
+      "focus": "felt compelled to say something"
+     }
+    ],
+    "collocations": [
+     "feel compelled to",
+     "compel someone to act"
+    ]
+   }
+  ],
+  "wordFamily": [
+   {
+    "form": "compelling",
+    "pos": "adj",
+    "ko": "설득력 있는"
+   }
+  ],
+  "confusables": [
+   {
+    "word": "force",
+    "note": "force는 일상적으로 쓰는 '억지로 시키다', compel은 규정·양심이 그렇게 만든다는 격식체다."
+   }
+  ]
+ },
+ {
+  "id": "compensate",
+  "headword": "compensate",
+  "ipa": "/ˈkɑːmpenseɪt/",
+  "level": "ADV",
+  "isCore": false,
+  "topic": "work_business",
+  "forms": [
+   "compensated",
+   "compensates",
+   "compensating"
+  ],
+  "senses": [
+   {
+    "id": "compensate-1",
+    "pos": "v",
+    "ko": "보상하다, 배상하다",
+    "en": "to pay someone money for a loss or for their work",
+    "nuance": "손해나 노동에 돈으로 값을 치를 때 쓰며 compensate + 사람 + for + 손해 순서다. 사과만 하는 건 compensate가 아니라 apologize다.",
+    "pattern": "compensate + 사람 + for + 명사",
+    "examples": [
+     {
+      "en": "The airline compensated us for the two nights we lost.",
+      "ko": "항공사가 우리가 날린 이틀 밤에 대해 보상해 줬어요.",
+      "focus": "compensated us for the two nights"
+     },
+     {
+      "en": "Staff should be properly compensated for weekend shifts.",
+      "ko": "직원들은 주말 근무에 대해 제대로 보상받아야 합니다.",
+      "focus": "be properly compensated for weekend shifts"
+     }
+    ],
+    "collocations": [
+     "compensate someone for",
+     "be fully compensated"
+    ]
+   },
+   {
+    "id": "compensate-2",
+    "pos": "v",
+    "ko": "만회하다, 메우다",
+    "en": "to balance a weak point with a strong one",
+    "nuance": "부족한 점을 다른 강점으로 메울 때 compensate for + 명사로 쓴다. 이때는 목적어를 바로 쓰지 않고 반드시 for가 필요하다.",
+    "pattern": "compensate for + 명사",
+    "examples": [
+     {
+      "en": "His hard work compensates for his lack of experience.",
+      "ko": "그 사람은 성실함으로 경험 부족을 메워요.",
+      "focus": "compensates for his lack of experience"
+     }
+    ]
+   }
+  ],
+  "wordFamily": [
+   {
+    "form": "compensation",
+    "pos": "n",
+    "ko": "보상, 보상금"
+   }
+  ],
+  "confusables": [
+   {
+    "word": "refund",
+    "note": "refund는 낸 돈을 그대로 돌려주는 것, compensate는 손해 전체를 돈으로 메워 주는 것이다."
+   }
+  ]
+ },
+ {
+  "id": "compile",
+  "headword": "compile",
+  "ipa": "/kəmˈpaɪl/",
+  "level": "ADV",
+  "isCore": false,
+  "topic": "work_business",
+  "forms": [
+   "compiled",
+   "compiles",
+   "compiling"
+  ],
+  "senses": [
+   {
+    "id": "compile-1",
+    "pos": "v",
+    "ko": "모아서 만들다, 편집하다",
+    "en": "to collect information from many places into one document",
+    "nuance": "여러 곳의 자료를 모아 목록·보고서 하나로 만드는 작업이다. 그냥 쌓아 두는 collect와 달리 정리된 결과물이 나온다는 점이 다르다.",
+    "pattern": "compile a list/report",
+    "examples": [
+     {
+      "en": "Could you compile a list of everyone who replied?",
+      "ko": "답장한 사람 명단 좀 정리해 주실 수 있어요?",
+      "focus": "compile a list of everyone"
+     },
+     {
+      "en": "She compiled the survey results into a single slide.",
+      "ko": "그분이 설문 결과를 슬라이드 한 장으로 정리했어요.",
+      "focus": "compiled the survey results"
+     }
+    ],
+    "collocations": [
+     "compile a list",
+     "compile a report"
+    ]
+   }
+  ],
+  "wordFamily": [
+   {
+    "form": "compilation",
+    "pos": "n",
+    "ko": "편집물, 모음집"
+   }
+  ],
+  "confusables": [
+   {
+    "word": "collect",
+    "note": "collect는 그냥 모으는 것, compile은 모은 것을 하나의 자료로 정리해 내는 것이다."
+   },
+   {
+    "word": "compose",
+    "note": "compose는 곡이나 글을 창작하는 것, compile은 이미 있는 자료를 모으는 것이다."
+   }
+  ]
+ }
+]

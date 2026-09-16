@@ -1240,6 +1240,9 @@
     "word": "arbitration",
     "note": "arbitration은 분쟁을 제3자가 중재하는 것이고, arbitrage는 가격 차이를 노린 거래다."
    }
+  ],
+  "forms": [
+   "arbitrages"
   ]
  },
  {
@@ -1556,6 +1559,1416 @@
    {
     "word": "task",
     "note": "task는 크기와 상관없는 할 일 전반, assignment는 누군가가 공식적으로 맡긴 일이다."
+   }
+  ]
+ },
+ {
+  "id": "athletic",
+  "headword": "athletic",
+  "ipa": "/æθˈletɪk/",
+  "level": "ADV",
+  "isCore": false,
+  "topic": "sports_leisure",
+  "senses": [
+   {
+    "id": "athletic-1",
+    "pos": "adj",
+    "ko": "운동을 잘하는, 탄탄한",
+    "en": "physically strong, fit, and good at sports",
+    "nuance": "몸이 다부지고 운동 신경이 좋다는 칭찬에 쓴다. '헬스장'은 athletic club이 아니라 a gym이고, '헬스하다'는 work out이다.",
+    "pattern": "be athletic / athletic + 명사",
+    "examples": [
+     {
+      "en": "Mina has always been athletic, even without training much.",
+      "ko": "미나는 크게 훈련하지 않아도 늘 운동 신경이 좋았어.",
+      "focus": "has always been athletic"
+     },
+     {
+      "en": "You'll need proper athletic shoes for tomorrow's hiking course.",
+      "ko": "내일 등산 코스에는 제대로 된 운동화가 필요할 거야.",
+      "focus": "proper athletic shoes"
+     }
+    ],
+    "collocations": [
+     "athletic shoes",
+     "an athletic build",
+     "athletic ability"
+    ]
+   }
+  ],
+  "wordFamily": [
+   {
+    "form": "athlete",
+    "pos": "n",
+    "ko": "운동선수"
+   }
+  ],
+  "confusables": [
+   {
+    "word": "sporty",
+    "note": "sporty는 옷·차의 '스포티한 스타일'에도 쓰지만 athletic은 실제 신체 능력을 가리킨다."
+   }
+  ]
+ },
+ {
+  "id": "atomic",
+  "headword": "atomic",
+  "ipa": "/əˈtɑːmɪk/",
+  "level": "ADV",
+  "isCore": false,
+  "topic": "environment_science",
+  "senses": [
+   {
+    "id": "atomic-1",
+    "pos": "adj",
+    "ko": "원자의, 원자력의",
+    "en": "related to the smallest units of matter, or to nuclear energy",
+    "nuance": "과학 수업에서는 atomic structure처럼, 에너지·무기 이야기에서는 nuclear가 더 흔하다. 명사 앞에만 쓰고 It is atomic처럼 단독으로는 거의 안 쓴다.",
+    "pattern": "atomic + 명사(energy, structure)",
+    "examples": [
+     {
+      "en": "Our professor spent two hours explaining atomic structure with simple drawings.",
+      "ko": "교수님이 간단한 그림으로 원자 구조를 두 시간이나 설명하셨어.",
+      "focus": "explaining atomic structure"
+     },
+     {
+      "en": "The museum has a whole floor about atomic energy research.",
+      "ko": "그 박물관에는 원자력 연구를 다루는 층이 통째로 있어요.",
+      "focus": "about atomic energy research"
+     }
+    ],
+    "collocations": [
+     "atomic energy",
+     "atomic structure",
+     "an atomic bomb"
+    ]
+   }
+  ],
+  "wordFamily": [
+   {
+    "form": "atom",
+    "pos": "n",
+    "ko": "원자"
+   }
+  ],
+  "confusables": [
+   {
+    "word": "nuclear",
+    "note": "발전소·무기 이야기는 요즘 거의 nuclear를 쓰고, atomic은 물리 구조나 옛 표현에 남아 있다."
+   }
+  ]
+ },
+ {
+  "id": "attorney",
+  "headword": "attorney",
+  "ipa": "/əˈtɜːrni/",
+  "level": "ADV",
+  "isCore": false,
+  "topic": "society_politics",
+  "forms": [
+   "attorneys"
+  ],
+  "senses": [
+   {
+    "id": "attorney-1",
+    "pos": "n",
+    "ko": "변호사",
+    "en": "a person whose job is to give legal advice and speak for clients in court",
+    "nuance": "미국식 표현이고 영국에서는 solicitor나 barrister를 쓴다. '검사'는 attorney가 아니라 prosecutor이니 뉴스 번역 때 주의한다.",
+    "pattern": "talk to / hire an attorney",
+    "examples": [
+     {
+      "en": "You should talk to an attorney before signing that contract.",
+      "ko": "그 계약서에 서명하기 전에 변호사와 상담하는 게 좋아요.",
+      "focus": "talk to an attorney"
+     },
+     {
+      "en": "Both attorneys asked the judge for more time.",
+      "ko": "양측 변호사가 판사에게 시간을 더 달라고 요청했어요.",
+      "focus": "Both attorneys asked the judge"
+     }
+    ],
+    "collocations": [
+     "hire an attorney",
+     "a defense attorney"
+    ]
+   }
+  ],
+  "confusables": [
+   {
+    "word": "lawyer",
+    "note": "lawyer는 법률가 전반을 가리키는 일상어, attorney는 의뢰인을 대리하는 미국식 공식 호칭이다."
+   },
+   {
+    "word": "prosecutor",
+    "note": "prosecutor는 국가를 대신해 기소하는 검사이고, attorney는 보통 의뢰인 편에 선다."
+   }
+  ]
+ },
+ {
+  "id": "audio",
+  "headword": "audio",
+  "ipa": "/ˈɔːdioʊ/",
+  "level": "ADV",
+  "isCore": false,
+  "topic": "environment_science",
+  "senses": [
+   {
+    "id": "audio-1",
+    "pos": "adj",
+    "ko": "음성의, 소리의",
+    "en": "related to recorded or broadcast sound",
+    "nuance": "명사 앞에 붙여 audio file, audio quality처럼 쓰는 형용사다. 오디오 기기 자체는 an audio가 아니라 a speaker나 a sound system이라고 한다.",
+    "pattern": "audio + 명사(file, quality)",
+    "examples": [
+     {
+      "en": "Can you send me the audio file instead of the video?",
+      "ko": "영상 말고 음성 파일로 보내 줄 수 있어?",
+      "focus": "the audio file"
+     },
+     {
+      "en": "The audio quality dropped badly once Jun left the room.",
+      "ko": "준이 방에서 나가자마자 음질이 뚝 떨어졌어요.",
+      "focus": "The audio quality dropped"
+     }
+    ],
+    "collocations": [
+     "an audio file",
+     "audio quality",
+     "an audio recording"
+    ]
+   }
+  ],
+  "confusables": [
+   {
+    "word": "audit",
+    "note": "철자가 비슷하지만 audit은 '회계 감사'다. audio는 소리, audit은 장부와 관련이 있다."
+   },
+   {
+    "word": "sound",
+    "note": "sound는 귀에 들리는 소리 자체, audio는 녹음·전송되는 음성 자료를 가리키는 기술 용어다."
+   }
+  ]
+ },
+ {
+  "id": "audit",
+  "headword": "audit",
+  "ipa": "/ˈɔːdɪt/",
+  "level": "ADV",
+  "isCore": false,
+  "topic": "work_business",
+  "forms": [
+   "audits"
+  ],
+  "senses": [
+   {
+    "id": "audit-1",
+    "pos": "n",
+    "ko": "회계 감사, 점검",
+    "en": "an official check of a company's money records or systems",
+    "nuance": "가산 명사로 an annual audit처럼 쓰고, 요즘은 a security audit처럼 회계 밖에서도 쓴다. 단순 확인은 a check이고 audit은 외부의 공식 검사 어감이다.",
+    "pattern": "carry out / pass an audit",
+    "examples": [
+     {
+      "en": "We're preparing documents for the annual audit next month.",
+      "ko": "다음 달 연례 회계 감사를 대비해 서류를 준비하고 있습니다.",
+      "focus": "for the annual audit"
+     },
+     {
+      "en": "Two security audits found the same problem in our login page.",
+      "ko": "보안 점검 두 번 모두 우리 로그인 페이지에서 같은 문제를 찾아냈어요.",
+      "focus": "Two security audits found the same problem"
+     }
+    ],
+    "collocations": [
+     "an annual audit",
+     "carry out an audit",
+     "a security audit"
+    ]
+   }
+  ],
+  "wordFamily": [
+   {
+    "form": "auditor",
+    "pos": "n",
+    "ko": "감사관, 회계 감사인"
+   }
+  ],
+  "confusables": [
+   {
+    "word": "inspection",
+    "note": "inspection은 눈으로 보는 현장 점검, audit은 기록과 장부를 따져 보는 공식 검사다."
+   }
+  ]
+ },
+ {
+  "id": "auditor",
+  "headword": "auditor",
+  "ipa": "/ˈɔːdɪtər/",
+  "level": "ADV",
+  "isCore": false,
+  "topic": "work_business",
+  "forms": [
+   "auditors"
+  ],
+  "senses": [
+   {
+    "id": "auditor-1",
+    "pos": "n",
+    "ko": "회계 감사인, 감사관",
+    "en": "a person whose job is to check that money records are correct",
+    "nuance": "회사 밖에서 오는 external auditor와 사내 internal auditor로 나눠 말한다. editor(편집자)와 철자가 한 글자 차이라 메일에서 자주 실수가 난다.",
+    "pattern": "an external/internal auditor",
+    "examples": [
+     {
+      "en": "The external auditor asked for last year's receipts this morning.",
+      "ko": "외부 감사인이 오늘 아침에 작년 영수증을 요청했어요.",
+      "focus": "The external auditor asked for last year's receipts"
+     },
+     {
+      "en": "Our auditors meet the finance team every Tuesday afternoon.",
+      "ko": "저희 감사인들은 매주 화요일 오후에 재무팀과 만납니다.",
+      "focus": "Our auditors meet the finance team"
+     }
+    ],
+    "collocations": [
+     "an external auditor",
+     "an internal auditor"
+    ]
+   }
+  ],
+  "confusables": [
+   {
+    "word": "editor",
+    "note": "editor는 글을 다듬는 편집자, auditor는 장부를 검사하는 감사인이다. 철자를 꼭 구분한다."
+   },
+   {
+    "word": "accountant",
+    "note": "accountant는 장부를 작성·관리하고, auditor는 그 장부가 맞는지 바깥에서 검사한다."
+   }
+  ]
+ },
+ {
+  "id": "authentic",
+  "headword": "authentic",
+  "ipa": "/ɔːˈθentɪk/",
+  "level": "ADV",
+  "isCore": false,
+  "topic": "description_quality",
+  "senses": [
+   {
+    "id": "authentic-1",
+    "pos": "adj",
+    "ko": "진짜의, 정통의",
+    "en": "real and not a copy, or true to the original style",
+    "nuance": "가짜가 아니라는 뜻과 '현지 방식 그대로'라는 뜻을 함께 가진다. 사람의 성격이 '진실되다'는 authentic보다 genuine이나 honest가 자연스럽다.",
+    "pattern": "authentic + 명사(food, style)",
+    "examples": [
+     {
+      "en": "That small place serves authentic Thai food at fair prices.",
+      "ko": "그 작은 가게는 정통 태국 음식을 괜찮은 가격에 팔아.",
+      "focus": "serves authentic Thai food"
+     },
+     {
+      "en": "The gallery confirmed the painting was authentic after months of testing.",
+      "ko": "그 미술관은 몇 달간 검사한 끝에 그 그림이 진품이라고 확인했어요.",
+      "focus": "the painting was authentic"
+     }
+    ],
+    "collocations": [
+     "authentic food",
+     "an authentic experience",
+     "truly authentic"
+    ]
+   }
+  ],
+  "wordFamily": [
+   {
+    "form": "authenticity",
+    "pos": "n",
+    "ko": "진정성, 진품 여부"
+   }
+  ],
+  "confusables": [
+   {
+    "word": "genuine",
+    "note": "genuine은 물건의 진품성과 사람의 진심 모두에 쓰지만, authentic은 '원래 방식대로'라는 쪽이 강하다."
+   }
+  ]
+ },
+ {
+  "id": "authority",
+  "headword": "authority",
+  "ipa": "/əˈθɔːrəti/",
+  "level": "ADV",
+  "isCore": false,
+  "topic": "society_politics",
+  "forms": [
+   "authorities"
+  ],
+  "senses": [
+   {
+    "id": "authority-1",
+    "pos": "n",
+    "ko": "권한, 권위",
+    "en": "the official power to give orders or make decisions",
+    "nuance": "이 뜻으로는 불가산이라 an authority라고 하지 않고 have the authority to로 쓴다. '권력'이 힘 자체를 말하는 power와 달리 authority는 공식적으로 주어진 권한이다.",
+    "pattern": "have the authority to + 동사",
+    "examples": [
+     {
+      "en": "I don't have the authority to approve that refund myself.",
+      "ko": "제가 그 환불을 직접 승인할 권한은 없습니다.",
+      "focus": "have the authority to approve that refund"
+     },
+     {
+      "en": "She speaks with real authority about climate policy these days.",
+      "ko": "그분은 요즘 기후 정책에 대해 정말 권위 있게 말해요.",
+      "focus": "with real authority"
+     }
+    ],
+    "collocations": [
+     "have the authority to",
+     "with authority"
+    ]
+   },
+   {
+    "id": "authority-2",
+    "pos": "n",
+    "ko": "당국, 관계 기관",
+    "en": "an official group with the power to control an area or service",
+    "nuance": "이 뜻으로는 거의 항상 복수 the authorities로 쓴다. 한국어 '당국'을 the government로만 옮기면 지자체·기관 전반이 빠진다.",
+    "pattern": "the (local) authorities",
+    "examples": [
+     {
+      "en": "Local authorities closed the bridge after the heavy rain.",
+      "ko": "폭우가 내린 뒤에 지방 당국이 그 다리를 폐쇄했어요.",
+      "focus": "Local authorities closed the bridge"
+     }
+    ]
+   }
+  ],
+  "wordFamily": [
+   {
+    "form": "authorize",
+    "pos": "v",
+    "ko": "권한을 주다, 승인하다"
+   }
+  ],
+  "confusables": [
+   {
+    "word": "power",
+    "note": "power는 실제로 남을 움직이는 힘, authority는 직책·법으로 공식 인정된 권한이다."
+   }
+  ]
+ },
+ {
+  "id": "authorize",
+  "headword": "authorize",
+  "ipa": "/ˈɔːθəraɪz/",
+  "level": "ADV",
+  "isCore": false,
+  "topic": "work_business",
+  "forms": [
+   "authorized",
+   "authorizes",
+   "authorizing",
+   "authorise",
+   "authorised",
+   "authorises",
+   "authorising"
+  ],
+  "senses": [
+   {
+    "id": "authorize-1",
+    "pos": "v",
+    "ko": "승인하다, 허가하다",
+    "en": "to give official permission for something to happen",
+    "nuance": "권한 있는 사람이 공식적으로 허락한다는 뜻이라 카드 결제·지출·출입에 쓴다. 친구에게 '허락하다'는 let이나 allow가 자연스럽고 authorize는 딱딱하다.",
+    "pattern": "authorize + 명사 / be authorized to + 동사",
+    "examples": [
+     {
+      "en": "Only the manager can authorize a refund over fifty dollars.",
+      "ko": "50달러가 넘는 환불은 매니저만 승인할 수 있어요.",
+      "focus": "authorize a refund"
+     },
+     {
+      "en": "I'm not authorised to share those files with outside partners.",
+      "ko": "저는 그 파일을 외부 파트너와 공유할 권한이 없습니다.",
+      "focus": "not authorised to share those files"
+     }
+    ],
+    "collocations": [
+     "authorize a payment",
+     "be authorized to",
+     "authorize access"
+    ]
+   }
+  ],
+  "wordFamily": [
+   {
+    "form": "authorization",
+    "pos": "n",
+    "ko": "승인, 허가"
+   }
+  ],
+  "confusables": [
+   {
+    "word": "allow",
+    "note": "allow는 일상적으로 그냥 허락하는 것, authorize는 권한자가 공식 절차로 승인하는 것이다."
+   },
+   {
+    "word": "author",
+    "note": "철자가 겹치지만 author는 '작가'라는 명사다. authorize와 뜻이 이어지지 않는다."
+   }
+  ]
+ },
+ {
+  "id": "availability",
+  "headword": "availability",
+  "ipa": "/əˌveɪləˈbɪləti/",
+  "level": "ADV",
+  "isCore": false,
+  "topic": "work_business",
+  "forms": [
+   "availabilities"
+  ],
+  "senses": [
+   {
+    "id": "availability-1",
+    "pos": "n",
+    "ko": "이용 가능 여부, 시간 여유",
+    "en": "whether something can be used or bought, or when a person is free",
+    "nuance": "보통 불가산이라 availabilities는 거의 쓰지 않는다. 일정 잡을 때 Let me know your availability가 '가능한 시간 알려 줘'로 자주 쓰인다.",
+    "pattern": "check / confirm + availability",
+    "examples": [
+     {
+      "en": "Could you send me your availability for next week?",
+      "ko": "다음 주에 가능한 시간을 보내 주실 수 있을까요?",
+      "focus": "send me your availability"
+     },
+     {
+      "en": "Please check room availability before you promise anything to the client.",
+      "ko": "고객에게 약속하기 전에 회의실이 비는지 먼저 확인하세요.",
+      "focus": "check room availability"
+     }
+    ],
+    "collocations": [
+     "check availability",
+     "your availability",
+     "limited availability"
+    ]
+   }
+  ],
+  "wordFamily": [
+   {
+    "form": "available",
+    "pos": "adj",
+    "ko": "이용 가능한, 시간이 되는"
+   }
+  ],
+  "confusables": [
+   {
+    "word": "schedule",
+    "note": "schedule은 이미 잡힌 일정표, availability는 그중 비어 있어 쓸 수 있는 시간을 말한다."
+   }
+  ]
+ },
+ {
+  "id": "axis",
+  "headword": "axis",
+  "ipa": "/ˈæksɪs/",
+  "level": "ADV",
+  "isCore": false,
+  "topic": "academic",
+  "forms": [
+   "axes"
+  ],
+  "senses": [
+   {
+    "id": "axis-1",
+    "pos": "n",
+    "ko": "축, 좌표축",
+    "en": "a line on a graph, or the line something turns around",
+    "nuance": "복수가 axises가 아니라 axes라 발음도 /ˈæksiːz/로 달라진다. 그래프 설명에서 the x-axis, the vertical axis처럼 the를 붙여 쓴다.",
+    "pattern": "the x/y axis",
+    "examples": [
+     {
+      "en": "Put the years on the horizontal axis and sales above.",
+      "ko": "연도는 가로축에 놓고 매출은 위쪽에 두세요.",
+      "focus": "on the horizontal axis"
+     },
+     {
+      "en": "Label both axes clearly, or the chart confuses everyone.",
+      "ko": "축 두 개 다 라벨을 확실히 달지 않으면 다들 헷갈려요.",
+      "focus": "Label both axes clearly"
+     }
+    ],
+    "collocations": [
+     "the vertical axis",
+     "the x axis",
+     "on its axis"
+    ]
+   }
+  ],
+  "confusables": [
+   {
+    "word": "basis",
+    "note": "둘 다 -is로 끝나 복수가 axes, bases로 바뀐다. basis는 '근거·기준'이라 뜻은 전혀 다르다."
+   }
+  ]
+ },
+ {
+  "id": "backward",
+  "headword": "backward",
+  "ipa": "/ˈbækwərd/",
+  "level": "ADV",
+  "isCore": false,
+  "topic": "movement_action",
+  "forms": [
+   "backwards"
+  ],
+  "senses": [
+   {
+    "id": "backward-1",
+    "pos": "adv",
+    "ko": "뒤로, 거꾸로",
+    "en": "toward the back, or in the opposite order",
+    "nuance": "미국식은 backward, 영국식은 backwards이고 둘 다 통한다. '뒤에'라는 위치는 backward가 아니라 behind를 써야 한다.",
+    "pattern": "동사 + backward",
+    "examples": [
+     {
+      "en": "Take two steps backward so everyone fits in the photo.",
+      "ko": "사진에 다 나오게 두 걸음만 뒤로 가 주세요.",
+      "focus": "Take two steps backward"
+     },
+     {
+      "en": "He can say the alphabet backwards faster than I can forward.",
+      "ko": "걔는 내가 앞으로 말하는 것보다 알파벳을 거꾸로 더 빨리 말해.",
+      "focus": "say the alphabet backwards"
+     }
+    ],
+    "collocations": [
+     "step backward",
+     "lean backward",
+     "count backwards"
+    ]
+   }
+  ],
+  "confusables": [
+   {
+    "word": "behind",
+    "note": "behind는 '~뒤에'라는 위치, backward는 '뒤쪽으로'라는 방향이다. 움직임이 있으면 backward다."
+   },
+   {
+    "word": "awkward",
+    "note": "철자가 비슷해 보이지만 awkward는 '어색한'이라는 형용사로 관계가 없다."
+   }
+  ]
+ },
+ {
+  "id": "banker",
+  "headword": "banker",
+  "ipa": "/ˈbæŋkər/",
+  "level": "ADV",
+  "isCore": false,
+  "topic": "money_shopping",
+  "forms": [
+   "bankers"
+  ],
+  "senses": [
+   {
+    "id": "banker-1",
+    "pos": "n",
+    "ko": "은행원, 은행가",
+    "en": "someone who works at a high level in the money business",
+    "nuance": "창구 직원은 banker가 아니라 a bank teller라고 해야 한다. banker는 대출·투자를 다루는 전문직 이미지가 강하다.",
+    "pattern": "a/an + 분야 + banker",
+    "examples": [
+     {
+      "en": "Her sister works as an investment banker in New York.",
+      "ko": "그분 언니는 뉴욕에서 투자은행가로 일해요.",
+      "focus": "works as an investment banker"
+     },
+     {
+      "en": "Two bankers explained the loan terms to us very patiently.",
+      "ko": "은행원 두 분이 대출 조건을 아주 차분하게 설명해 줬어요.",
+      "focus": "Two bankers explained the loan terms"
+     }
+    ],
+    "collocations": [
+     "an investment banker",
+     "a private banker"
+    ]
+   }
+  ],
+  "confusables": [
+   {
+    "word": "teller",
+    "note": "teller는 창구에서 입출금을 처리하는 직원, banker는 대출·투자를 다루는 전문 인력이다."
+   }
+  ]
+ },
+ {
+  "id": "bankrupt",
+  "headword": "bankrupt",
+  "ipa": "/ˈbæŋkrʌpt/",
+  "level": "ADV",
+  "isCore": false,
+  "topic": "money_shopping",
+  "senses": [
+   {
+    "id": "bankrupt-1",
+    "pos": "adj",
+    "ko": "파산한",
+    "en": "unable to pay what you owe, as decided by a court",
+    "nuance": "go bankrupt가 가장 흔한 형태이고 become bankrupt도 쓴다. be bankrupted처럼 수동으로 쓰면 '남에 의해 망했다'는 다른 뜻이 된다.",
+    "pattern": "go bankrupt",
+    "examples": [
+     {
+      "en": "The café next door went bankrupt after only one year.",
+      "ko": "옆 카페는 1년 만에 파산했어.",
+      "focus": "went bankrupt"
+     },
+     {
+      "en": "If we lose this contract, we could be bankrupt by spring.",
+      "ko": "이 계약을 놓치면 봄쯤엔 파산할 수도 있어요.",
+      "focus": "we could be bankrupt by spring"
+     }
+    ],
+    "collocations": [
+     "go bankrupt",
+     "declare bankrupt"
+    ]
+   }
+  ],
+  "wordFamily": [
+   {
+    "form": "bankruptcy",
+    "pos": "n",
+    "ko": "파산"
+   }
+  ],
+  "confusables": [
+   {
+    "word": "broke",
+    "note": "broke는 '지금 돈이 없다'는 구어, bankrupt는 법적으로 파산 선고를 받은 상태다."
+   }
+  ]
+ },
+ {
+  "id": "bankruptcy",
+  "headword": "bankruptcy",
+  "ipa": "/ˈbæŋkrʌptsi/",
+  "level": "ADV",
+  "isCore": false,
+  "topic": "money_shopping",
+  "forms": [
+   "bankruptcies"
+  ],
+  "senses": [
+   {
+    "id": "bankruptcy-1",
+    "pos": "n",
+    "ko": "파산, 도산",
+    "en": "the legal state of not being able to pay what you owe",
+    "nuance": "file for bankruptcy(파산 신청을 하다)가 뉴스에서 가장 자주 나오는 형태다. 형용사 bankrupt와 달리 명사이므로 go bankruptcy라고 쓰면 틀린다.",
+    "pattern": "file for bankruptcy",
+    "examples": [
+     {
+      "en": "The airline filed for bankruptcy but kept flying for months.",
+      "ko": "그 항공사는 파산 신청을 하고도 몇 달간 운항을 이어 갔어요.",
+      "focus": "filed for bankruptcy"
+     },
+     {
+      "en": "Small business bankruptcies rose sharply during that difficult winter.",
+      "ko": "그 힘든 겨울 동안 소상공인 파산이 크게 늘었어요.",
+      "focus": "Small business bankruptcies rose sharply"
+     }
+    ],
+    "collocations": [
+     "file for bankruptcy",
+     "face bankruptcy"
+    ]
+   }
+  ],
+  "confusables": [
+   {
+    "word": "bankrupt",
+    "note": "bankrupt는 형용사라 go bankrupt, bankruptcy는 명사라 file for bankruptcy로 쓴다."
+   }
+  ]
+ },
+ {
+  "id": "barrel",
+  "headword": "barrel",
+  "ipa": "/ˈbærəl/",
+  "level": "ADV",
+  "isCore": false,
+  "topic": "money_shopping",
+  "forms": [
+   "barrels"
+  ],
+  "senses": [
+   {
+    "id": "barrel-1",
+    "pos": "n",
+    "ko": "통, 배럴",
+    "en": "a large round container, or the unit used to measure oil",
+    "nuance": "나무통 자체와 석유 단위(약 159리터) 둘 다 가리키는 가산 명사다. 기름값은 per barrel로 말하고 a barrel of oil처럼 of를 붙인다.",
+    "pattern": "a barrel of + 명사 / per barrel",
+    "examples": [
+     {
+      "en": "Oil dropped below eighty dollars a barrel this morning.",
+      "ko": "오늘 아침 유가가 배럴당 80달러 아래로 떨어졌어요.",
+      "focus": "eighty dollars a barrel"
+     },
+     {
+      "en": "They store the sauce in wooden barrels for two years.",
+      "ko": "그들은 그 소스를 나무통에 2년 동안 저장해요.",
+      "focus": "in wooden barrels"
+     }
+    ],
+    "collocations": [
+     "a barrel of oil",
+     "per barrel",
+     "a wooden barrel"
+    ]
+   }
+  ],
+  "confusables": [
+   {
+    "word": "barrier",
+    "note": "철자가 비슷하지만 barrier는 '장벽·장애물'이고 barrel은 '통'이다."
+   }
+  ]
+ },
+ {
+  "id": "basin",
+  "headword": "basin",
+  "ipa": "/ˈbeɪsn/",
+  "level": "ADV",
+  "isCore": false,
+  "topic": "nature_animals",
+  "forms": [
+   "basins"
+  ],
+  "senses": [
+   {
+    "id": "basin-1",
+    "pos": "n",
+    "ko": "유역, 분지",
+    "en": "a wide area of land that a river drains, or a bowl-shaped valley",
+    "nuance": "지리 수업에서 the Amazon basin처럼 the를 붙여 쓰는 가산 명사다. 욕실 세면대도 basin이라고 하지만 미국에서는 sink가 더 흔하다.",
+    "pattern": "the + 지명 + basin",
+    "examples": [
+     {
+      "en": "Farming in the river basin depends heavily on summer rain.",
+      "ko": "그 강 유역의 농사는 여름비에 크게 좌우돼요.",
+      "focus": "in the river basin"
+     },
+     {
+      "en": "Both basins flooded after three days of steady rain.",
+      "ko": "사흘간 비가 계속 내린 뒤 두 분지 모두 물에 잠겼어요.",
+      "focus": "Both basins flooded"
+     }
+    ],
+    "collocations": [
+     "a river basin",
+     "the Amazon basin"
+    ]
+   }
+  ],
+  "confusables": [
+   {
+    "word": "sink",
+    "note": "미국 집에서 설거지·세수하는 대야 모양 시설은 보통 sink라 하고, basin은 영국식이거나 지리 용어다."
+   },
+   {
+    "word": "basis",
+    "note": "철자가 한 글자 차이다. basis는 '근거·기준'으로 뜻이 전혀 다르다."
+   }
+  ]
+ },
+ {
+  "id": "benchmark",
+  "headword": "benchmark",
+  "ipa": "/ˈbentʃmɑːrk/",
+  "level": "ADV",
+  "isCore": false,
+  "topic": "work_business",
+  "forms": [
+   "benchmarks"
+  ],
+  "senses": [
+   {
+    "id": "benchmark-1",
+    "pos": "n",
+    "ko": "기준, 비교 기준점",
+    "en": "a standard that other things are measured or compared against",
+    "nuance": "비교의 잣대가 되는 수치나 사례를 뜻하는 가산 명사다. 한국어 '벤치마킹하다'는 영어로 benchmark against 또는 learn from이라고 풀어 쓴다.",
+    "pattern": "set / meet a benchmark",
+    "examples": [
+     {
+      "en": "Their service speed has become the benchmark for our whole industry.",
+      "ko": "그 회사의 서비스 속도가 우리 업계 전체의 기준이 됐어요.",
+      "focus": "become the benchmark for our whole industry"
+     },
+     {
+      "en": "We missed two benchmarks last quarter, so the plan changed.",
+      "ko": "지난 분기에 기준 두 개를 못 맞춰서 계획이 바뀌었어요.",
+      "focus": "missed two benchmarks"
+     }
+    ],
+    "collocations": [
+     "set a benchmark",
+     "an industry benchmark",
+     "meet a benchmark"
+    ]
+   }
+  ],
+  "confusables": [
+   {
+    "word": "standard",
+    "note": "standard는 지켜야 할 최소 수준, benchmark는 남과 견줘 보려고 잡은 비교 기준이다."
+   }
+  ]
+ },
+ {
+  "id": "beta",
+  "headword": "beta",
+  "ipa": "/ˈbeɪtə/",
+  "level": "ADV",
+  "isCore": false,
+  "topic": "environment_science",
+  "forms": [
+   "betas"
+  ],
+  "senses": [
+   {
+    "id": "beta-1",
+    "pos": "n",
+    "ko": "베타, 시험판",
+    "en": "a test stage of new software, before the full release",
+    "nuance": "in beta, a beta version처럼 쓰는 가산 명사다. '베타 테스터'는 a beta tester이고 beta 단독으로 사람을 가리키지는 않는다.",
+    "pattern": "in beta / a beta version",
+    "examples": [
+     {
+      "en": "The app is still in beta, so expect a few bugs.",
+      "ko": "그 앱은 아직 베타라서 오류가 좀 있을 거야.",
+      "focus": "still in beta"
+     },
+     {
+      "en": "We ran two betas before launching the payment feature last spring.",
+      "ko": "지난봄 결제 기능을 내놓기 전에 베타를 두 번 돌렸어요.",
+      "focus": "ran two betas"
+     }
+    ],
+    "collocations": [
+     "in beta",
+     "a beta version",
+     "a beta tester"
+    ]
+   }
+  ],
+  "confusables": [
+   {
+    "word": "demo",
+    "note": "demo는 보여 주려고 만든 시연용, beta는 실제 사용자에게 돌려 보며 오류를 찾는 시험판이다."
+   }
+  ]
+ },
+ {
+  "id": "bilingual",
+  "headword": "bilingual",
+  "ipa": "/baɪˈlɪŋɡwəl/",
+  "level": "ADV",
+  "isCore": false,
+  "topic": "school_learning",
+  "senses": [
+   {
+    "id": "bilingual-1",
+    "pos": "adj",
+    "ko": "2개 국어를 하는",
+    "en": "able to speak two languages well, or written in two languages",
+    "nuance": "두 언어를 모두 편하게 쓰는 수준을 말하므로 영어를 공부 중인 사람에게는 잘 쓰지 않는다. 사람과 책·안내판 모두에 쓸 수 있다.",
+    "pattern": "be bilingual / bilingual + 명사",
+    "examples": [
+     {
+      "en": "Emma grew up bilingual because her parents spoke different languages.",
+      "ko": "엠마는 부모님이 서로 다른 언어를 써서 2개 국어를 하며 자랐어.",
+      "focus": "grew up bilingual"
+     },
+     {
+      "en": "The museum hands out bilingual guides at the front desk.",
+      "ko": "그 박물관은 안내 데스크에서 2개 국어 안내서를 나눠 줘요.",
+      "focus": "bilingual guides"
+     }
+    ],
+    "collocations": [
+     "be bilingual",
+     "a bilingual dictionary",
+     "bilingual education"
+    ]
+   }
+  ],
+  "confusables": [
+   {
+    "word": "fluent",
+    "note": "fluent는 한 언어를 유창하게 하는 것, bilingual은 두 언어를 모두 자유롭게 쓰는 상태다."
+   }
+  ]
+ },
+ {
+  "id": "bishop",
+  "headword": "bishop",
+  "ipa": "/ˈbɪʃəp/",
+  "level": "ADV",
+  "isCore": false,
+  "topic": "society_politics",
+  "forms": [
+   "bishops"
+  ],
+  "senses": [
+   {
+    "id": "bishop-1",
+    "pos": "n",
+    "ko": "주교",
+    "en": "a senior Christian priest in charge of churches in one area",
+    "nuance": "이름 앞에 직함으로 붙일 때는 Bishop Kim처럼 대문자로 쓴다. 체스에서 대각선으로 움직이는 말도 bishop이라고 부른다.",
+    "pattern": "Bishop + 이름",
+    "examples": [
+     {
+      "en": "The bishop visited our town for the first time in years.",
+      "ko": "주교님이 몇 년 만에 우리 동네를 방문하셨어요.",
+      "focus": "The bishop visited our town"
+     },
+     {
+      "en": "Move your bishop here and you'll win in two turns.",
+      "ko": "비숍을 여기로 옮기면 두 수 만에 이겨.",
+      "focus": "Move your bishop here"
+     }
+    ],
+    "collocations": [
+     "a local bishop",
+     "the bishop of"
+    ]
+   }
+  ],
+  "confusables": [
+   {
+    "word": "priest",
+    "note": "priest는 교회를 맡은 일반 사제, bishop은 여러 교회를 관할하는 더 높은 성직자다."
+   }
+  ]
+ },
+ {
+  "id": "bizarre",
+  "headword": "bizarre",
+  "ipa": "/bɪˈzɑːr/",
+  "level": "ADV",
+  "isCore": false,
+  "topic": "description_quality",
+  "senses": [
+   {
+    "id": "bizarre-1",
+    "pos": "adj",
+    "ko": "아주 기이한, 희한한",
+    "en": "very strange in a way that is hard to explain",
+    "nuance": "strange보다 훨씬 세고 '어이없을 만큼 이상하다'는 감탄에 가깝다. bazaar(시장)와 발음이 거의 같으니 철자를 구분해서 써야 한다.",
+    "pattern": "be bizarre / bizarre + 명사",
+    "examples": [
+     {
+      "en": "Tom told us a bizarre story about his flight home.",
+      "ko": "톰이 집에 오는 비행기에서 겪은 희한한 얘기를 해 줬어.",
+      "focus": "a bizarre story"
+     },
+     {
+      "en": "It felt bizarre seeing my old teacher at the gym.",
+      "ko": "헬스장에서 옛날 선생님을 보니까 진짜 묘했어.",
+      "focus": "felt bizarre seeing my old teacher"
+     }
+    ],
+    "collocations": [
+     "a bizarre story",
+     "completely bizarre",
+     "a bizarre coincidence"
+    ]
+   }
+  ],
+  "confusables": [
+   {
+    "word": "bazaar",
+    "note": "발음이 거의 같지만 bazaar는 '시장·바자회'라는 명사다. 철자 z와 두 a의 위치를 구분한다."
+   },
+   {
+    "word": "strange",
+    "note": "strange는 그냥 낯설고 이상한 정도, bizarre는 설명이 안 될 만큼 기이하다는 강한 표현이다."
+   }
+  ]
+ },
+ {
+  "id": "blast",
+  "headword": "blast",
+  "ipa": "/blæst/",
+  "level": "ADV",
+  "isCore": false,
+  "topic": "environment_science",
+  "forms": [
+   "blasts"
+  ],
+  "senses": [
+   {
+    "id": "blast-1",
+    "pos": "n",
+    "ko": "폭발, 돌풍",
+    "en": "a sudden strong explosion, or a rush of air",
+    "nuance": "폭발 그 자체보다 순간의 충격과 소리에 초점이 있는 가산 명사다. 문을 열 때 훅 들어오는 찬 바람도 a blast of cold air라고 한다.",
+    "pattern": "a blast of + 명사",
+    "examples": [
+     {
+      "en": "A blast of cold air hit us when the door opened.",
+      "ko": "문이 열리자 찬 바람이 훅 들이쳤어.",
+      "focus": "A blast of cold air"
+     },
+     {
+      "en": "Nobody was hurt, though the blast broke several windows.",
+      "ko": "폭발로 창문 몇 개가 깨졌지만 다친 사람은 없었어요.",
+      "focus": "the blast broke several windows"
+     }
+    ],
+    "collocations": [
+     "a blast of cold air",
+     "a bomb blast"
+    ]
+   },
+   {
+    "id": "blast-2",
+    "pos": "n",
+    "ko": "아주 즐거운 시간",
+    "en": "a very enjoyable time, in informal speech",
+    "nuance": "have a blast 형태로만 쓰는 구어 표현이라 격식 있는 자리에는 맞지 않는다. It was a blast로 지난 일을 평할 때도 자주 쓴다.",
+    "pattern": "have a blast",
+    "examples": [
+     {
+      "en": "We had a blast at the food festival in Busan.",
+      "ko": "부산 음식 축제에서 진짜 재밌게 놀았어.",
+      "focus": "had a blast at the food festival"
+     }
+    ]
+   }
+  ],
+  "confusables": [
+   {
+    "word": "explosion",
+    "note": "explosion은 폭발 사건 자체를 가리키는 중립어, blast는 그 순간의 충격파와 소리를 강조한다."
+   }
+  ]
+ },
+ {
+  "id": "bleed",
+  "headword": "bleed",
+  "ipa": "/bliːd/",
+  "level": "ADV",
+  "isCore": false,
+  "topic": "body_health",
+  "forms": [
+   "bled",
+   "bleeding",
+   "bleeds"
+  ],
+  "senses": [
+   {
+    "id": "bleed-1",
+    "pos": "v",
+    "ko": "피가 나다",
+    "en": "to lose blood from a cut or wound",
+    "nuance": "과거형이 bleeded가 아니라 bled인 불규칙 동사다. '피가 난다'를 Blood comes out이라고 풀어 쓰기보다 It's bleeding이라고 하는 게 자연스럽다.",
+    "pattern": "주어 + be bleeding",
+    "examples": [
+     {
+      "en": "Your finger's bleeding; let me grab a bandage.",
+      "ko": "손가락에서 피 나. 밴드 좀 가져올게.",
+      "focus": "finger's bleeding"
+     },
+     {
+      "en": "His nose bled for ten minutes after the basketball game.",
+      "ko": "농구 경기 끝나고 걔 코피가 10분이나 났어.",
+      "focus": "His nose bled for ten minutes"
+     }
+    ],
+    "collocations": [
+     "start bleeding",
+     "stop the bleeding",
+     "bleed heavily"
+    ]
+   }
+  ],
+  "wordFamily": [
+   {
+    "form": "blood",
+    "pos": "n",
+    "ko": "피, 혈액"
+   }
+  ],
+  "confusables": [
+   {
+    "word": "blend",
+    "note": "철자가 비슷하지만 blend는 '섞다'라는 뜻이고 bleed는 피가 나는 것이다."
+   }
+  ]
+ },
+ {
+  "id": "bonus",
+  "headword": "bonus",
+  "ipa": "/ˈboʊnəs/",
+  "level": "ADV",
+  "isCore": false,
+  "topic": "money_shopping",
+  "forms": [
+   "bonuses"
+  ],
+  "senses": [
+   {
+    "id": "bonus-1",
+    "pos": "n",
+    "ko": "보너스, 상여금",
+    "en": "extra money paid on top of your normal pay",
+    "nuance": "복수는 bonus가 -s로 끝나므로 bonuss가 아니라 bonuses다. 한국의 '상여금'은 a year-end bonus나 a performance bonus로 구체적으로 말한다.",
+    "pattern": "get / receive a bonus",
+    "examples": [
+     {
+      "en": "Everyone on the team got a small year-end bonus.",
+      "ko": "팀원 모두가 소액이지만 연말 보너스를 받았어요.",
+      "focus": "got a small year-end bonus"
+     },
+     {
+      "en": "Our bonuses depend on how the whole company performs.",
+      "ko": "우리 보너스는 회사 전체 실적에 달려 있어요.",
+      "focus": "Our bonuses depend on"
+     }
+    ],
+    "collocations": [
+     "a year-end bonus",
+     "get a bonus",
+     "a performance bonus"
+    ]
+   }
+  ],
+  "confusables": [
+   {
+    "word": "allowance",
+    "note": "allowance는 매달 정해진 목적으로 주는 수당, bonus는 성과나 시기에 따라 추가로 주는 돈이다."
+   }
+  ]
+ },
+ {
+  "id": "borrower",
+  "headword": "borrower",
+  "ipa": "/ˈbɑːroʊər/",
+  "level": "ADV",
+  "isCore": false,
+  "topic": "money_shopping",
+  "forms": [
+   "borrowers"
+  ],
+  "senses": [
+   {
+    "id": "borrower-1",
+    "pos": "n",
+    "ko": "차용인, 대출받는 사람",
+    "en": "a person who takes money or an item and must return it",
+    "nuance": "은행 대출이나 도서관 대출 양쪽에 쓰는 가산 명사다. 돈을 빌려주는 쪽은 borrower가 아니라 lender이니 방향을 헷갈리지 않아야 한다.",
+    "pattern": "a borrower + 관계절",
+    "examples": [
+     {
+      "en": "Young borrowers usually pay a higher interest rate here.",
+      "ko": "여기서는 젊은 대출자들이 보통 더 높은 금리를 내요.",
+      "focus": "Young borrowers usually pay a higher interest rate"
+     },
+     {
+      "en": "Each borrower can keep five library books for two weeks.",
+      "ko": "대출자 한 명당 도서관 책 다섯 권을 2주간 빌릴 수 있어요.",
+      "focus": "Each borrower can keep five library books"
+     }
+    ],
+    "collocations": [
+     "a borrower and a lender",
+     "young borrowers"
+    ]
+   }
+  ],
+  "wordFamily": [
+   {
+    "form": "borrow",
+    "pos": "v",
+    "ko": "빌리다"
+   }
+  ],
+  "confusables": [
+   {
+    "word": "lender",
+    "note": "방향이 반대다. borrower는 빌려 가는 사람, lender는 빌려주는 은행이나 사람이다."
+   }
+  ]
+ },
+ {
+  "id": "bound",
+  "headword": "bound",
+  "ipa": "/baʊnd/",
+  "level": "ADV",
+  "isCore": false,
+  "topic": "abstract_general",
+  "senses": [
+   {
+    "id": "bound-1",
+    "pos": "adj",
+    "ko": "틀림없이 ~할",
+    "en": "certain to happen or to do something",
+    "nuance": "be bound to + 동사원형 형태로만 쓰고 뒤에 -ing를 붙이지 않는다. 화자의 강한 확신을 나타내며 will보다 '어차피 그렇게 된다'는 어감이 있다.",
+    "pattern": "be bound to + 동사원형",
+    "examples": [
+     {
+      "en": "If you practice every day, you're bound to improve.",
+      "ko": "매일 연습하면 틀림없이 늘 거야.",
+      "focus": "bound to improve"
+     },
+     {
+      "en": "Traffic is bound to be terrible on the holiday weekend.",
+      "ko": "연휴 주말엔 차가 엄청 막힐 게 뻔해.",
+      "focus": "bound to be terrible"
+     }
+    ],
+    "collocations": [
+     "be bound to happen",
+     "bound to fail"
+    ]
+   },
+   {
+    "id": "bound-2",
+    "pos": "adj",
+    "ko": "~행의, ~로 향하는",
+    "en": "traveling toward a particular place",
+    "nuance": "보통 Seoul-bound처럼 지명 뒤에 하이픈으로 붙이거나 bound for + 장소로 쓴다. 공항·역 안내 방송에서 자주 들리는 표현이다.",
+    "pattern": "bound for + 장소",
+    "examples": [
+     {
+      "en": "This train is bound for Busan and leaves in ten minutes.",
+      "ko": "이 기차는 부산행이고 10분 후에 출발합니다.",
+      "focus": "bound for Busan"
+     }
+    ]
+   }
+  ],
+  "confusables": [
+   {
+    "word": "sure",
+    "note": "be sure to는 '꼭 ~해라'는 당부로도 쓰이지만, be bound to는 '어차피 그렇게 된다'는 예측이다."
+   }
+  ]
+ },
+ {
+  "id": "bracket",
+  "headword": "bracket",
+  "ipa": "/ˈbrækɪt/",
+  "level": "ADV",
+  "isCore": false,
+  "topic": "time_quantity",
+  "forms": [
+   "brackets"
+  ],
+  "senses": [
+   {
+    "id": "bracket-1",
+    "pos": "n",
+    "ko": "괄호",
+    "en": "one of the marks [ ] or ( ) used around extra words",
+    "nuance": "보통 복수 brackets로 쓰고 '괄호 안에'는 in brackets다. 미국에서는 ( )를 parentheses, [ ]를 brackets로 나눠 부른다.",
+    "pattern": "in brackets",
+    "examples": [
+     {
+      "en": "Put the original title in brackets after the translation.",
+      "ko": "번역 뒤에 원제를 괄호 안에 넣어 주세요.",
+      "focus": "in brackets"
+     },
+     {
+      "en": "You forgot to close the bracket on line twelve.",
+      "ko": "12번 줄에서 괄호 닫는 걸 잊었어.",
+      "focus": "close the bracket"
+     }
+    ],
+    "collocations": [
+     "in brackets",
+     "close the bracket"
+    ]
+   },
+   {
+    "id": "bracket-2",
+    "pos": "n",
+    "ko": "구간, 계층",
+    "en": "a group of people or things within a certain range",
+    "nuance": "소득·연령처럼 범위로 묶을 때 the tax bracket, an age bracket처럼 쓴다. 한국어 '구간'을 section으로 옮기면 뜻이 달라진다.",
+    "pattern": "a/the + 종류 + bracket",
+    "examples": [
+     {
+      "en": "A raise could push me into a higher tax bracket.",
+      "ko": "연봉이 오르면 더 높은 세율 구간으로 올라갈 수도 있어요.",
+      "focus": "a higher tax bracket"
+     }
+    ]
+   }
+  ],
+  "confusables": [
+   {
+    "word": "parenthesis",
+    "note": "미국식에서는 ( )가 parenthesis, [ ]가 bracket이다. 영국에서는 ( )도 brackets라고 부른다."
+   }
+  ]
+ },
+ {
+  "id": "breach",
+  "headword": "breach",
+  "ipa": "/briːtʃ/",
+  "level": "ADV",
+  "isCore": false,
+  "topic": "society_politics",
+  "forms": [
+   "breaches"
+  ],
+  "senses": [
+   {
+    "id": "breach-1",
+    "pos": "n",
+    "ko": "위반, 침해",
+    "en": "an act of breaking a rule, an agreement, or a secure system",
+    "nuance": "계약 위반(a breach of contract)과 정보 유출(a data breach)에 특히 자주 쓰는 가산 명사다. 전치사는 of를 쓰고 breach on이라고 하지 않는다.",
+    "pattern": "a breach of + 명사",
+    "examples": [
+     {
+      "en": "Sharing that file was a clear breach of our agreement.",
+      "ko": "그 파일을 공유한 건 명백한 계약 위반이었어요.",
+      "focus": "a clear breach of our agreement"
+     },
+     {
+      "en": "Two data breaches last year cost the company several customers.",
+      "ko": "작년 정보 유출 두 건으로 그 회사는 고객 몇 곳을 잃었어요.",
+      "focus": "Two data breaches last year"
+     }
+    ],
+    "collocations": [
+     "a breach of contract",
+     "a data breach",
+     "a security breach"
+    ]
+   }
+  ],
+  "confusables": [
+   {
+    "word": "violation",
+    "note": "violation은 법·규정 위반에 널리 쓰고, breach는 계약이나 보안 시스템이 뚫린 경우에 특히 쓴다."
+   },
+   {
+    "word": "beach",
+    "note": "철자 r 하나 차이지만 beach는 '해변'이다. 발음도 breach는 /briːtʃ/로 r 소리가 들어간다."
    }
   ]
  }

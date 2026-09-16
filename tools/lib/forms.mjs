@@ -129,7 +129,9 @@ const IRREGULAR = new Map([
 /** 약어는 변화형이 아니라 별개 단어다. 학습 카드의 '변화형' 줄에 넣지 않는다. */
 const ABBREVIATION = new Set(['math', 'prof', 'lab', 'gym', 'sculpt', 'exam', 'fridge', 'flu', 'app']);
 
-const SLANG = new Set(['gotta', 'gettin', 'gonna', 'wanna', 'dunno', 'kinda', 'sorta', 'lemme', 'gimme', "ain't", 'em', 'ya', 'yeah', 'cuz', 'til']);
+const SLANG = new Set([
+  // -ing 의 g 가 탈락한 구어 표기
+  'bleedin', 'goin', 'doin', 'comin', 'runnin', 'talkin', 'lookin', 'workin', 'nothin', 'somethin','gotta', 'gettin', 'gonna', 'wanna', 'dunno', 'kinda', 'sorta', 'lemme', 'gimme', "ain't", 'em', 'ya', 'yeah', 'cuz', 'til']);
 const badS = (h) => /(s|x|z|ch|sh)$/.test(h) || /[^aeiou]y$/.test(h); // marchs, storys are not words
 const isPlural = (h, f) => (IRREGULAR_PLURAL[h] ? IRREGULAR_PLURAL[h] === f : (f === h + 's' && !badS(h)) || f === h + 'es' || (h.endsWith('y') && f === h.slice(0, -1) + 'ies') || (h.endsWith('f') && f === h.slice(0, -1) + 'ves') || (h.endsWith('fe') && f === h.slice(0, -2) + 'ves'));
 const isVerbish = (h, f) => /(s|es|ed|d|ing|en|t|n)$/.test(f) || lev(h, f) <= 3;
