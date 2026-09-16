@@ -3,6 +3,11 @@
 `apple → 사과` 식 단어장이 아니라, 의미(sense)별 용법·연어·예문·구동사·뉘앙스까지 익히고 FSRS 간격 반복으로 잊지 않게 하는 개인용 앱.
 설계 문서: `~/.claude/plans/rustling-floating-hartmanis.md` (승인본).
 
+## 현재 상태
+콘텐츠 4,054개 전량 완성(`validate --all` 0 error / 0 warning), 앱은 M5(마무리)까지 완료.
+학습 루프 7종 문제 유형, 통계, 백업·복원, 레벨 진단 퀴즈, 알림, 다크 모드가 동작한다.
+남은 선택 과제는 M6 온디바이스 AI 보조.
+
 ## 구성
 ```
 app/        Android 앱 (Kotlin, Jetpack Compose, Room 3, 수동 DI). 패키지 dev.brown.wordy
@@ -14,7 +19,7 @@ tools/      Node 26 파이프라인 (외부 의존성은 @exodus/schemasafe 하�
 ```bash
 export JAVA_HOME="/Applications/Android Studio.app/Contents/jbr/Contents/Home"   # JDK 17+
 ./gradlew :app:assembleDebug            # APK: app/build/outputs/apk/debug/app-debug.apk
-./gradlew :app:testDebugUnitTest        # domain 단위테스트 (FSRS, 판정, 문제 생성, 숙달)
+./gradlew :app:testDebugUnitTest        # 단위테스트 46개 (FSRS, 판정, 문제 생성, 숙달, 백업, 진단, 스트릭)
 ```
 AGP 9.x built-in Kotlin 을 쓰므로 `org.jetbrains.kotlin.android` 플러그인은 적용하지 않는다.
 
@@ -31,7 +36,7 @@ node tools/build-db.mjs [--include-golden]        # → app/src/main/assets/data
 node tools/stats.mjs                    # 분포 리포트
 ```
 `build-db` 는 Room 이 내보낸 스키마(`app/schemas/**/1.json`)의 `createSql` 을 그대로 실행하므로 앱의 스키마 검증을 통과한다.
-콘텍츠 DB(content.db) 와 학습 진행 DB(progress.db) 는 분리되어 콘텐츠 갱신이 학습 기록을 지우지 않는다.
+콘텐츠 DB(content.db) 와 학습 진행 DB(progress.db) 는 분리되어 콘텐츠 갱신이 학습 기록을 지우지 않는다.
 
 ## 레벨과 트랙
 | 레벨 | 단어 수 | 기준 |
