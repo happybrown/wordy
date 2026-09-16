@@ -55,7 +55,7 @@ const NOT_A_FORM = new Set([
   'alcohols', 'independences', 'efficiencies', 'poverties',
   'resistances', 'approvals', 'involvements', 'exposures', 'significances', 'oversea',
   'participations', 'poetries', 'sakes', 'maintenances', 'diversities', 'stabilities',
-  'carbons', 'concretes',
+  'carbons', 'concretes', 'determinations', 'fictions', 'confusions', 'transportations', 'storages',
   // 편집 거리 1 이라 표기 변형으로 오인되는 철자 오류
   'advertisment', 'advertisments', 'goverment', 'enviroment', 'recieve', 'seperate',
   'definately', 'occured', 'begining', 'writting', 'untill', 'wich', 'membership_',
