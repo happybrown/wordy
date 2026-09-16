@@ -122,7 +122,8 @@ export function validateEntries(entries, { manifest = null, globalScope = false 
       // confusable 은 카드에 설명만 띄우는 대조 항목이라 학습 대상일 필요가 없다.
       // flu vs cold, last vs latest 처럼 목록 밖 단어가 더 좋은 대조인 경우가 많으므로
       // 존재 여부는 검사하지 않는다. 철자·형식만 본다.
-      if (!/^[A-Za-z][A-Za-z'\- ]*$/.test(c.word)) err(id, 'confusable.format', `confusable "${c.word}"는 영어 단어가 아님`);
+      // i.e., e.g. 같은 약어도 유효한 대조 대상이다
+      if (!/^[A-Za-z][A-Za-z'\-. ]*$/.test(c.word)) err(id, 'confusable.format', `confusable "${c.word}"는 영어 단어가 아님`);
     }
     for (const f of e.wordFamily || []) {
       if (!hasHangul(f.ko)) err(id, 'lang', `wordFamily ko에 한글 없음: ${f.form}`);
