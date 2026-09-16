@@ -2,6 +2,7 @@ package dev.brown.wordy.ui.settings
 
 import androidx.compose.foundation.layout.Arrangement
 import androidx.compose.foundation.layout.Column
+import androidx.compose.foundation.layout.ColumnScope
 import androidx.compose.foundation.layout.Row
 import androidx.compose.foundation.layout.fillMaxSize
 import androidx.compose.foundation.layout.fillMaxWidth
@@ -16,6 +17,7 @@ import androidx.compose.material3.MaterialTheme
 import androidx.compose.material3.OutlinedButton
 import androidx.compose.material3.TextButton
 import androidx.compose.material3.Slider
+import androidx.compose.material3.Surface
 import androidx.compose.material3.Switch
 import androidx.compose.material3.Text
 import androidx.compose.runtime.Composable
@@ -54,6 +56,7 @@ fun SettingsScreen() {
         Text("설정", style = MaterialTheme.typography.headlineMedium, fontWeight = FontWeight.Bold)
 
         SectionTitle("학습")
+        SettingsGroup {
         Text("현재 레벨", fontWeight = FontWeight.SemiBold)
         androidx.compose.foundation.layout.FlowRow(horizontalArrangement = Arrangement.spacedBy(6.dp)) {
             Level.entries.forEach { lvl -> FilterChip(selected = s.currentLevel == lvl, onClick = { update { it.copy(currentLevel = lvl) } }, label = { Text(lvl.ko) }) }
@@ -69,9 +72,11 @@ fun SettingsScreen() {
         Text("목표 기억 보존률 ${(s.desiredRetention * 100).toInt()}%", fontWeight = FontWeight.SemiBold)
         Text("높이면 복습이 잦아지고, 낮추면 복습은 줄지만 더 자주 잊습니다. 기본 90%.", style = MaterialTheme.typography.bodySmall, color = MaterialTheme.colorScheme.onSurfaceVariant)
         Slider(value = s.desiredRetention, onValueChange = { update { st -> st.copy(desiredRetention = it) } }, valueRange = 0.8f..0.95f, steps = 14)
-        ToggleRow("엄격한 타이핑 판정", "켜면 1글자 오타도 오답으로 처리합니다", s.strictTyping) { update { st -> st.copy(strictTyping = it) } }
+        ToggleRow("엄격한 타이핑 판정", "켜면 1글자 오타도 오답으로 처리합니다", s.strictTyping, last = true) { update { st -> st.copy(strictTyping = it) } }
+        }
 
         SectionTitle("알림")
+        SettingsGroup {
         val ctx = LocalContext.current
         val permissionLauncher = rememberLauncherForActivityResult(ActivityResultContracts.RequestPermission()) { granted ->
             if (granted) { update { st -> st.copy(reminderEnabled = true) }; ReminderScheduler.schedule(ctx, s.reminderHour, s.reminderMinute) }
@@ -86,13 +91,17 @@ fun SettingsScreen() {
             Slider(value = (s.reminderHour * 60 + s.reminderMinute).toFloat(), onValueChange = { v -> val m = v.toInt(); update { st -> st.copy(reminderHour = m / 60, reminderMinute = (m % 60) / 30 * 30) } },
                 onValueChangeFinished = { ReminderScheduler.schedule(ctx, s.reminderHour, s.reminderMinute) }, valueRange = 0f..1439f, steps = 47)
         }
+        }
 
         SectionTitle("발음")
+        SettingsGroup {
         Text("TTS 속도 ${"%.2f".format(s.ttsRate)}x", fontWeight = FontWeight.SemiBold)
         Slider(value = s.ttsRate, onValueChange = { update { st -> st.copy(ttsRate = it) }; c.tts.rate = it }, valueRange = 0.6f..1.3f, steps = 13)
 
+        }
+
         SectionTitle("백업")
-        BackupSection()
+        SettingsGroup { BackupSection() }
 
         SectionTitle("정보")
         Text("콘텐츠 버전 ${c.contentVersion}", style = MaterialTheme.typography.bodyMedium)
@@ -108,15 +117,16 @@ fun SettingsScreen() {
 }
 
 @Composable
-private fun ToggleRow(title: String, desc: String, checked: Boolean, onChange: (Boolean) -> Unit) {
-    Row(Modifier.fillMaxWidth().padding(vertical = 6.dp), horizontalArrangement = Arrangement.SpaceBetween, verticalAlignment = Alignment.CenterVertically) {
-        Column(Modifier.weight(1f)) {
-            Text(title, fontWeight = FontWeight.SemiBold)
+private fun ToggleRow(title: String, desc: String, checked: Boolean, last: Boolean = false, onChange: (Boolean) -> Unit) {
+    Row(Modifier.fillMaxWidth().padding(vertical = 10.dp), horizontalArrangement = Arrangement.SpaceBetween, verticalAlignment = Alignment.CenterVertically) {
+        Column(Modifier.weight(1f).padding(end = 12.dp)) {
+            Text(title, style = MaterialTheme.typography.titleSmall)
             Text(desc, style = MaterialTheme.typography.bodySmall, color = MaterialTheme.colorScheme.onSurfaceVariant)
         }
         Switch(checked = checked, onCheckedChange = onChange)
     }
-    HorizontalDivider()
+    // 그룹의 마지막 줄 아래에는 선을 긋지 않는다. 카드 테두리와 겹쳐 지저분해진다.
+    if (!last) HorizontalDivider(color = MaterialTheme.colorScheme.outlineVariant.copy(alpha = 0.5f))
 }
 
 /**
@@ -203,3 +213,18 @@ private fun BackupSection() {
 
 private fun appVersion(ctx: android.content.Context): String =
     runCatching { ctx.packageManager.getPackageInfo(ctx.packageName, 0).versionName ?: "?" }.getOrDefault("?")
+
+/**
+ * 설정 한 묶음. 항목이 배경 없이 죽 늘어서면 어디까지가 한 그룹인지 읽히지 않는다.
+ * 카드로 감싸면 "학습 / 알림 / 발음 / 백업" 경계가 눈으로 구분된다.
+ */
+@Composable
+private fun SettingsGroup(content: @Composable ColumnScope.() -> Unit) {
+    Surface(
+        Modifier.fillMaxWidth(),
+        shape = MaterialTheme.shapes.medium,
+        color = MaterialTheme.colorScheme.surfaceContainer,
+    ) {
+        Column(Modifier.padding(horizontal = 18.dp, vertical = 16.dp), content = content)
+    }
+}

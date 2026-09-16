@@ -14,10 +14,12 @@ import androidx.compose.material.icons.filled.Bookmark
 import androidx.compose.material.icons.filled.Clear
 import androidx.compose.material.icons.filled.Search
 import androidx.compose.material3.Card
+import androidx.compose.foundation.shape.CircleShape
 import androidx.compose.material3.Icon
 import androidx.compose.material3.IconButton
 import androidx.compose.material3.MaterialTheme
-import androidx.compose.material3.OutlinedTextField
+import androidx.compose.material3.TextField
+import androidx.compose.material3.TextFieldDefaults
 import androidx.compose.material3.PrimaryScrollableTabRow
 import androidx.compose.material3.Tab
 import androidx.compose.material3.Text
@@ -25,6 +27,7 @@ import androidx.compose.runtime.Composable
 import androidx.compose.runtime.getValue
 import androidx.compose.ui.Alignment
 import androidx.compose.ui.Modifier
+import androidx.compose.ui.graphics.Color
 import androidx.compose.ui.text.font.FontWeight
 import androidx.compose.ui.unit.dp
 import androidx.lifecycle.compose.collectAsStateWithLifecycle
@@ -43,12 +46,22 @@ fun BrowseScreen(initialLevel: Level?, onOpenUnit: (unitId: String, title: Strin
     if (s.loading) { LoadingBox(); return }
 
     Column(Modifier.fillMaxSize()) {
-        OutlinedTextField(
+        // 검색창은 테두리 대신 채운 알약 모양. 요즘 앱의 기본 검색 인상이고
+        // 테두리가 사라지면 아래 탭·목록과 경쟁하지 않는다.
+        TextField(
             value = s.query, onValueChange = vm::search, singleLine = true,
             placeholder = { Text("영어 또는 한국어로 검색") },
             leadingIcon = { Icon(Icons.Default.Search, null) },
             trailingIcon = { if (s.query.isNotEmpty()) IconButton(onClick = { vm.search("") }) { Icon(Icons.Default.Clear, "지우기") } },
-            modifier = Modifier.fillMaxWidth().padding(horizontal = 16.dp, vertical = 8.dp),
+            shape = CircleShape,
+            colors = TextFieldDefaults.colors(
+                focusedContainerColor = MaterialTheme.colorScheme.surfaceContainerHigh,
+                unfocusedContainerColor = MaterialTheme.colorScheme.surfaceContainer,
+                focusedIndicatorColor = Color.Transparent,
+                unfocusedIndicatorColor = Color.Transparent,
+                disabledIndicatorColor = Color.Transparent,
+            ),
+            modifier = Modifier.fillMaxWidth().padding(horizontal = 16.dp, vertical = 10.dp),
         )
         if (s.query.isNotBlank()) {
             WordList(s.results, onOpenWord, emptyText = "검색 결과가 없어요")
