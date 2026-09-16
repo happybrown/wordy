@@ -100,6 +100,9 @@ const NOT_A_FORM = new Set([
   'compliances', 'conservations', 'consumptions', 'collaterals',
   'expertises', 'governances',
   'liquidities',
+  'merchandises', 'merchandize', 'merchandized', 'merchandizes',
+  // 기체·물질명. maturities(만기일)는 금융에서 실재하므로 넣지 않는다.
+  'oxygens', 'hydrogens', 'nitrogens',
 ]);
 /**
  * 불규칙 변화형. 어간이 크게 바뀌어 편집 거리·접미사 규칙으로는 잡히지 않는다.

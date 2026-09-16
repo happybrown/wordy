@@ -298,8 +298,30 @@
     ],
     "collocations": [
      "show maturity",
-     "emotional maturity",
-     "a lack of maturity"
+     "emotional maturity"
+    ]
+   },
+   {
+    "id": "maturity-2",
+    "pos": "n",
+    "ko": "만기, 만기일",
+    "en": "the date when a loan or an investment must be paid back",
+    "nuance": "금융에서는 만기일을 세므로 different maturities처럼 복수가 된다. '성숙함' 뜻과 달리 셀 수 있다는 점이 한국어 학습자가 놓치는 부분이다.",
+    "pattern": "at maturity",
+    "examples": [
+     {
+      "en": "The bond reaches maturity at the end of next year.",
+      "ko": "그 채권은 내년 말에 만기가 됩니다.",
+      "focus": "reaches maturity"
+     },
+     {
+      "en": "We compared two funds with different maturities before deciding.",
+      "ko": "결정하기 전에 만기가 다른 두 펀드를 비교했어요.",
+      "focus": "with different maturities"
+     }
+    ],
+    "collocations": [
+     "at maturity"
     ]
    }
   ],
@@ -315,6 +337,9 @@
     "word": "majority",
     "note": "철자가 비슷하지만 majority는 '과반수', maturity는 '성숙함'으로 뜻이 전혀 다르다."
    }
+  ],
+  "forms": [
+   "maturities"
   ]
  },
  {
@@ -1492,6 +1517,1428 @@
    {
     "word": "rule",
     "note": "rule은 어기면 제재가 있는 규정, norm은 강제는 없지만 다들 따르는 관행이다."
+   }
+  ]
+ },
+ {
+  "id": "notably",
+  "headword": "notably",
+  "ipa": "/ˈnoʊtəbli/",
+  "level": "ADV",
+  "isCore": false,
+  "topic": "communication",
+  "senses": [
+   {
+    "id": "notably-1",
+    "pos": "adv",
+    "ko": "특히, 눈에 띄게",
+    "en": "used to point out the clearest or most important example",
+    "nuance": "예를 콕 집어 들 때 most notably 형태로 자주 쓰며, especially보다 글말에 어울린다. '완전히'라는 뜻의 totally와 혼동하지 않는다.",
+    "pattern": "most notably + 명사",
+    "examples": [
+     {
+      "en": "Several teams missed the deadline, most notably the data group.",
+      "ko": "여러 팀이 마감을 놓쳤는데, 특히 데이터 그룹이 그랬어요.",
+      "focus": "most notably the data group"
+     },
+     {
+      "en": "Response times improved notably after we added two servers.",
+      "ko": "서버 두 대를 늘린 뒤 응답 속도가 눈에 띄게 좋아졌어요.",
+      "focus": "improved notably after we added two servers"
+     }
+    ],
+    "collocations": [
+     "most notably",
+     "notably higher",
+     "notably absent"
+    ]
+   }
+  ],
+  "wordFamily": [
+   {
+    "form": "notable",
+    "pos": "adj",
+    "ko": "주목할 만한"
+   }
+  ],
+  "confusables": [
+   {
+    "word": "especially",
+    "note": "especially는 회화에서 두루 쓰고, notably는 보고서에서 대표 사례를 짚을 때 쓰는 격식체다."
+   }
+  ]
+ },
+ {
+  "id": "nucleus",
+  "headword": "nucleus",
+  "ipa": "/ˈnuːkliəs/",
+  "level": "ADV",
+  "isCore": false,
+  "topic": "environment_science",
+  "forms": [
+   "nuclei"
+  ],
+  "senses": [
+   {
+    "id": "nucleus-1",
+    "pos": "n",
+    "ko": "핵, 중심부",
+    "en": "the central part of a cell or an atom, or a small core group",
+    "nuance": "복수형이 nucleuses가 아니라 nuclei라는 점이 가장 자주 틀리는 부분이다. 사람 조직에도 써서 '핵심 인력'을 the nucleus of the team이라고 한다.",
+    "pattern": "the nucleus of + 명사",
+    "examples": [
+     {
+      "en": "These five engineers form the nucleus of the whole project.",
+      "ko": "이 엔지니어 다섯 명이 프로젝트 전체의 핵심이에요.",
+      "focus": "the nucleus of the whole project"
+     },
+     {
+      "en": "The slide shows several nuclei stained in bright blue.",
+      "ko": "슬라이드에는 밝은 파란색으로 염색된 핵이 여러 개 보여요.",
+      "focus": "several nuclei stained in bright blue"
+     }
+    ],
+    "collocations": [
+     "the nucleus of a cell",
+     "the atomic nucleus"
+    ]
+   }
+  ],
+  "confusables": [
+   {
+    "word": "nuclear",
+    "note": "nuclear는 '핵의'라는 형용사, nucleus는 '핵' 자체를 가리키는 명사다."
+   }
+  ]
+ },
+ {
+  "id": "nun",
+  "headword": "nun",
+  "ipa": "/nʌn/",
+  "level": "ADV",
+  "isCore": false,
+  "topic": "people_family",
+  "forms": [
+   "nuns"
+  ],
+  "senses": [
+   {
+    "id": "nun-1",
+    "pos": "n",
+    "ko": "수녀",
+    "en": "a woman who lives in a religious community and takes vows",
+    "nuance": "가산명사라 a nun으로 센다. 남성 수도자는 a monk이고, 성당의 신부는 a priest라서 서로 바꿔 쓸 수 없다.",
+    "pattern": "become a nun",
+    "examples": [
+     {
+      "en": "Two nuns ran the small school for almost thirty years.",
+      "ko": "수녀 두 분이 그 작은 학교를 거의 30년간 운영했어요.",
+      "focus": "Two nuns ran the small school"
+     },
+     {
+      "en": "Her aunt became a nun after finishing university in Busan.",
+      "ko": "그분 이모는 부산에서 대학을 마친 뒤 수녀가 되셨어요.",
+      "focus": "became a nun"
+     }
+    ],
+    "collocations": [
+     "become a nun",
+     "a Catholic nun"
+    ]
+   }
+  ],
+  "confusables": [
+   {
+    "word": "monk",
+    "note": "monk는 남성 수도자, nun은 여성 수도자다. 한국의 '스님'도 영어로는 monk나 nun으로 옮긴다."
+   }
+  ]
+ },
+ {
+  "id": "nutrient",
+  "headword": "nutrient",
+  "ipa": "/ˈnuːtriənt/",
+  "level": "ADV",
+  "isCore": false,
+  "topic": "body_health",
+  "forms": [
+   "nutrients"
+  ],
+  "senses": [
+   {
+    "id": "nutrient-1",
+    "pos": "n",
+    "ko": "영양소",
+    "en": "a substance in food that living things need to grow",
+    "nuance": "가산명사라 보통 복수 nutrients로 쓰고, '영양'이라는 개념 자체는 nutrition이다. 영양제는 nutrient가 아니라 a supplement라고 한다.",
+    "pattern": "rich in nutrients",
+    "examples": [
+     {
+      "en": "Boiling too long removes many of the nutrients in vegetables.",
+      "ko": "너무 오래 삶으면 채소의 영양소가 많이 없어져요.",
+      "focus": "removes many of the nutrients in vegetables"
+     },
+     {
+      "en": "This soil is rich in nutrients, so almost anything grows.",
+      "ko": "이 흙은 영양분이 풍부해서 거의 뭐든 잘 자라요.",
+      "focus": "rich in nutrients"
+     }
+    ],
+    "collocations": [
+     "essential nutrients",
+     "rich in nutrients",
+     "absorb nutrients"
+    ]
+   }
+  ],
+  "wordFamily": [
+   {
+    "form": "nutrition",
+    "pos": "n",
+    "ko": "영양"
+   },
+   {
+    "form": "nutritious",
+    "pos": "adj",
+    "ko": "영양가 높은"
+   }
+  ],
+  "confusables": [
+   {
+    "word": "nutrition",
+    "note": "nutrition은 '영양'이라는 불가산 개념, nutrient는 비타민처럼 셀 수 있는 개별 영양소다."
+   }
+  ]
+ },
+ {
+  "id": "objection",
+  "headword": "objection",
+  "ipa": "/əbˈdʒekʃn/",
+  "level": "ADV",
+  "isCore": false,
+  "topic": "communication",
+  "forms": [
+   "objections"
+  ],
+  "senses": [
+   {
+    "id": "objection-1",
+    "pos": "n",
+    "ko": "반대, 이의",
+    "en": "a reason you give for not agreeing with a plan or idea",
+    "nuance": "가산명사라 an objection으로 세고, 대상은 to로 잇는다. '반대할 게 없다'는 I have no objection이며, against가 아니라 to를 쓰는 점을 자주 틀린다.",
+    "pattern": "an objection to + 명사",
+    "examples": [
+     {
+      "en": "Does anyone have an objection to moving the meeting?",
+      "ko": "회의 시간을 옮기는 데 이의 있으신 분 계신가요?",
+      "focus": "an objection to moving the meeting"
+     },
+     {
+      "en": "Legal raised two objections to the draft contract yesterday.",
+      "ko": "어제 법무팀이 계약서 초안에 두 가지 이의를 제기했어요.",
+      "focus": "raised two objections to the draft contract"
+     }
+    ],
+    "collocations": [
+     "raise an objection",
+     "have no objection",
+     "an objection to"
+    ]
+   }
+  ],
+  "wordFamily": [
+   {
+    "form": "object",
+    "pos": "v",
+    "ko": "반대하다"
+   },
+   {
+    "form": "objective",
+    "pos": "n",
+    "ko": "목표"
+   }
+  ],
+  "confusables": [
+   {
+    "word": "opposition",
+    "note": "opposition은 반대 세력·반대 전반, objection은 구체적으로 제기한 한 가지 이의다."
+   }
+  ]
+ },
+ {
+  "id": "oblige",
+  "headword": "oblige",
+  "ipa": "/əˈblaɪdʒ/",
+  "level": "ADV",
+  "isCore": false,
+  "topic": "work_business",
+  "forms": [
+   "obliged",
+   "obliges",
+   "obliging"
+  ],
+  "senses": [
+   {
+    "id": "oblige-1",
+    "pos": "v",
+    "ko": "의무를 지우다, 하게 만들다",
+    "en": "to force someone by law, rule, or duty to do something",
+    "nuance": "실제로는 수동형 be obliged to + 동사원형으로 거의 항상 쓴다. have to보다 격식체라 계약서·공지에 어울리고, 뒤에는 -ing가 아니라 to부정사가 온다.",
+    "pattern": "be obliged to + 동사원형",
+    "examples": [
+     {
+      "en": "We're obliged to report any delay within two business days.",
+      "ko": "지연이 생기면 영업일 이틀 안에 보고해야 합니다.",
+      "focus": "obliged to report any delay"
+     },
+     {
+      "en": "The contract obliges them to cover all shipping costs.",
+      "ko": "계약상 그쪽이 배송비를 전부 부담하게 되어 있어요.",
+      "focus": "obliges them to cover all shipping costs"
+     }
+    ],
+    "collocations": [
+     "be obliged to",
+     "feel obliged to"
+    ]
+   }
+  ],
+  "wordFamily": [
+   {
+    "form": "obligation",
+    "pos": "n",
+    "ko": "의무"
+   },
+   {
+    "form": "obligatory",
+    "pos": "adj",
+    "ko": "의무적인"
+   }
+  ],
+  "confusables": [
+   {
+    "word": "force",
+    "note": "force는 물리적·강압적으로 시키는 것, oblige는 규정이나 도리 때문에 어쩔 수 없이 하게 하는 것이다."
+   }
+  ]
+ },
+ {
+  "id": "obsess",
+  "headword": "obsess",
+  "ipa": "/əbˈses/",
+  "level": "ADV",
+  "isCore": false,
+  "topic": "emotions_personality",
+  "forms": [
+   "obsessed",
+   "obsesses",
+   "obsessing"
+  ],
+  "senses": [
+   {
+    "id": "obsess-1",
+    "pos": "v",
+    "ko": "집착하다, 사로잡히다",
+    "en": "to think about one thing so much that you can't stop",
+    "nuance": "be obsessed with 또는 obsess over가 기본 형태이고 obsess about도 쓴다. '좋아한다'는 뜻으로 가볍게 쓰는 구어도 있지만, 원래는 지나쳐서 문제라는 뉘앙스다.",
+    "pattern": "be obsessed with + 명사",
+    "examples": [
+     {
+      "en": "Our CEO is obsessed with response time above everything else.",
+      "ko": "우리 대표는 무엇보다 응답 속도에 집착해요.",
+      "focus": "is obsessed with response time"
+     },
+     {
+      "en": "Try not to obsess over one bad review, honestly.",
+      "ko": "솔직히 나쁜 리뷰 하나에 너무 매달리지 마세요.",
+      "focus": "obsess over one bad review"
+     }
+    ],
+    "collocations": [
+     "be obsessed with",
+     "obsess over",
+     "obsess about"
+    ]
+   }
+  ],
+  "wordFamily": [
+   {
+    "form": "obsession",
+    "pos": "n",
+    "ko": "집착, 강박"
+   },
+   {
+    "form": "obsessive",
+    "pos": "adj",
+    "ko": "집착이 심한"
+   }
+  ],
+  "confusables": [
+   {
+    "word": "possess",
+    "note": "possess는 '소유하다'로 뜻이 전혀 다르다. 철자가 비슷해 시험에서 자주 헷갈린다."
+   }
+  ]
+ },
+ {
+  "id": "offset",
+  "headword": "offset",
+  "ipa": "/ˌɔːfˈset/",
+  "level": "ADV",
+  "isCore": false,
+  "topic": "money_shopping",
+  "forms": [
+   "offsets",
+   "offsetting"
+  ],
+  "senses": [
+   {
+    "id": "offset-1",
+    "pos": "v",
+    "ko": "상쇄하다, 벌충하다",
+    "en": "to balance a loss or cost with something of equal value",
+    "nuance": "과거형이 offsetted가 아니라 원형과 같은 offset이라는 점이 함정이다. 두 값이 서로 맞비겨진다는 뜻이라 회계·환경 보고서에 자주 나온다.",
+    "pattern": "offset + 명사",
+    "examples": [
+     {
+      "en": "Higher volume should offset the drop in unit price.",
+      "ko": "물량이 늘면 단가 하락을 상쇄할 수 있을 거예요.",
+      "focus": "offset the drop in unit price"
+     },
+     {
+      "en": "We're planting trees to offset our shipping emissions.",
+      "ko": "우리는 배송 과정의 탄소 배출을 상쇄하려고 나무를 심고 있어요.",
+      "focus": "offset our shipping emissions"
+     }
+    ],
+    "collocations": [
+     "offset the cost",
+     "offset losses",
+     "carbon offsets"
+    ]
+   }
+  ],
+  "confusables": [
+   {
+    "word": "compensate",
+    "note": "compensate는 사람에게 돈으로 보상하는 쪽, offset은 두 수치가 서로 맞비겨 균형을 이루는 것이다."
+   }
+  ]
+ },
+ {
+  "id": "operational",
+  "headword": "operational",
+  "ipa": "/ˌɑːpəˈreɪʃənl/",
+  "level": "ADV",
+  "isCore": false,
+  "topic": "work_business",
+  "senses": [
+   {
+    "id": "operational-1",
+    "pos": "adj",
+    "ko": "운영상의, 가동 중인",
+    "en": "relating to daily running, or ready to be used",
+    "nuance": "'운영 비용'처럼 명사 앞에 붙는 용법과 '가동되다'라는 서술 용법을 둘 다 쓴다. 수술과는 아무 관계가 없으니 operation의 의료 뜻과 섞지 않는다.",
+    "pattern": "become operational",
+    "examples": [
+     {
+      "en": "The new plant becomes operational in early April.",
+      "ko": "새 공장은 4월 초에 가동을 시작합니다.",
+      "focus": "becomes operational in early April"
+     },
+     {
+      "en": "Most of our operational costs come from cloud hosting.",
+      "ko": "우리 운영비 대부분은 클라우드 호스팅에서 나와요.",
+      "focus": "our operational costs"
+     }
+    ],
+    "collocations": [
+     "operational costs",
+     "become operational",
+     "operational efficiency"
+    ]
+   }
+  ],
+  "wordFamily": [
+   {
+    "form": "operate",
+    "pos": "v",
+    "ko": "운영하다, 작동하다"
+   },
+   {
+    "form": "operation",
+    "pos": "n",
+    "ko": "운영, 수술"
+   }
+  ],
+  "confusables": [
+   {
+    "word": "operating",
+    "note": "회계 용어는 operating costs가 표준이고, operational은 '가동 가능한' 상태를 말할 때 더 자연스럽다."
+   }
+  ]
+ },
+ {
+  "id": "orbit",
+  "headword": "orbit",
+  "ipa": "/ˈɔːrbɪt/",
+  "level": "ADV",
+  "isCore": false,
+  "topic": "environment_science",
+  "forms": [
+   "orbits"
+  ],
+  "senses": [
+   {
+    "id": "orbit-1",
+    "pos": "n",
+    "ko": "궤도",
+    "en": "the curved path a planet or satellite follows around something",
+    "nuance": "'궤도에 오르다'는 go into orbit, '궤도를 돌다'는 in orbit으로 전치사가 다르다. 관용적으로 in orbit 앞에는 관사를 붙이지 않는다.",
+    "pattern": "in orbit around + 명사",
+    "examples": [
+     {
+      "en": "The satellite reached orbit about nine minutes after launch.",
+      "ko": "위성은 발사 후 9분쯤 만에 궤도에 도달했어요.",
+      "focus": "reached orbit about nine minutes after launch"
+     },
+     {
+      "en": "Hundreds of old rockets are still in orbit today.",
+      "ko": "낡은 로켓 수백 개가 지금도 궤도에 떠 있어요.",
+      "focus": "still in orbit today"
+     }
+    ],
+    "collocations": [
+     "in orbit",
+     "go into orbit",
+     "Earth's orbit"
+    ]
+   }
+  ],
+  "confusables": [
+   {
+    "word": "track",
+    "note": "track은 땅 위의 경로나 선로, orbit은 천체가 다른 천체 주위를 도는 곡선 경로다."
+   }
+  ]
+ },
+ {
+  "id": "organism",
+  "headword": "organism",
+  "ipa": "/ˈɔːrɡənɪzəm/",
+  "level": "ADV",
+  "isCore": false,
+  "topic": "environment_science",
+  "forms": [
+   "organisms"
+  ],
+  "senses": [
+   {
+    "id": "organism-1",
+    "pos": "n",
+    "ko": "유기체, 생물",
+    "en": "any living thing, from tiny bacteria to a large animal",
+    "nuance": "가산명사라 an organism으로 센다. organization(조직)과 어근이 같아 헷갈리기 쉬운데, organism은 살아 있는 생명체다.",
+    "pattern": "a living organism",
+    "examples": [
+     {
+      "en": "A single drop of pond water holds thousands of organisms.",
+      "ko": "연못 물 한 방울에 수천 개의 생물이 들어 있어요.",
+      "focus": "thousands of organisms"
+     },
+     {
+      "en": "The paper compares how each organism responds to salt.",
+      "ko": "그 논문은 각 생물이 염분에 어떻게 반응하는지 비교해요.",
+      "focus": "how each organism responds to salt"
+     }
+    ],
+    "collocations": [
+     "a living organism",
+     "a single-celled organism"
+    ]
+   }
+  ],
+  "confusables": [
+   {
+    "word": "organization",
+    "note": "organization은 회사·단체 같은 '조직', organism은 세포·동물 같은 살아 있는 '생물'이다."
+   }
+  ]
+ },
+ {
+  "id": "organizational",
+  "headword": "organizational",
+  "ipa": "/ˌɔːrɡənəˈzeɪʃənl/",
+  "level": "ADV",
+  "isCore": false,
+  "topic": "work_business",
+  "forms": [
+   "organisational"
+  ],
+  "senses": [
+   {
+    "id": "organizational-1",
+    "pos": "adj",
+    "ko": "조직의, 조직 운영의",
+    "en": "relating to a company or group, or to planning things well",
+    "nuance": "회사 구조를 말할 때도, 개인의 정리 능력을 말할 때도 쓴다. 영국식 철자는 organisational이고, 사람을 두고 'He is organizational'이라고는 하지 않는다.",
+    "pattern": "organizational + 명사",
+    "examples": [
+     {
+      "en": "The merger brought a lot of organizational change this year.",
+      "ko": "합병 때문에 올해 조직 변화가 많았어요.",
+      "focus": "a lot of organizational change"
+     },
+     {
+      "en": "Her organizational skills saved the whole launch week.",
+      "ko": "그분의 조직력 덕분에 출시 주간 전체를 살렸어요.",
+      "focus": "Her organizational skills"
+     }
+    ],
+    "collocations": [
+     "organizational change",
+     "organizational skills",
+     "organizational structure"
+    ]
+   }
+  ],
+  "wordFamily": [
+   {
+    "form": "organization",
+    "pos": "n",
+    "ko": "조직, 단체"
+   },
+   {
+    "form": "organize",
+    "pos": "v",
+    "ko": "조직하다, 정리하다"
+   }
+  ],
+  "confusables": [
+   {
+    "word": "organic",
+    "note": "organic은 '유기농의, 자연스러운'이고 organizational은 '조직과 관련된'이다."
+   }
+  ]
+ },
+ {
+  "id": "ounce",
+  "headword": "ounce",
+  "ipa": "/aʊns/",
+  "level": "ADV",
+  "isCore": false,
+  "topic": "time_quantity",
+  "forms": [
+   "ounces"
+  ],
+  "senses": [
+   {
+    "id": "ounce-1",
+    "pos": "n",
+    "ko": "온스",
+    "en": "a unit of weight equal to about 28 grams",
+    "nuance": "미국 자료를 읽을 때 자주 나오며 약 28그램이다. 줄임말은 oz이고, 액체는 fluid ounce라 무게 온스와 다르다는 점을 주의한다.",
+    "pattern": "숫자 + ounces of + 명사",
+    "examples": [
+     {
+      "en": "The recipe calls for eight ounces of cream cheese.",
+      "ko": "그 레시피는 크림치즈 8온스를 요구해요.",
+      "focus": "eight ounces of cream cheese"
+     },
+     {
+      "en": "Each sample weighs just under one ounce.",
+      "ko": "각 시료는 1온스가 채 안 됩니다.",
+      "focus": "just under one ounce"
+     }
+    ],
+    "collocations": [
+     "an ounce of gold",
+     "per ounce"
+    ]
+   }
+  ],
+  "confusables": [
+   {
+    "word": "pound",
+    "note": "1 pound가 16 ounces다. 몸무게처럼 큰 무게는 pound, 재료 계량은 ounce를 쓴다."
+   }
+  ]
+ },
+ {
+  "id": "outer",
+  "headword": "outer",
+  "ipa": "/ˈaʊtər/",
+  "level": "ADV",
+  "isCore": false,
+  "topic": "description_quality",
+  "senses": [
+   {
+    "id": "outer-1",
+    "pos": "adj",
+    "ko": "바깥쪽의, 외부의",
+    "en": "on the outside, or farther from the center",
+    "nuance": "명사 앞에서만 쓰고 'The wall is outer'처럼 서술할 수 없다. 비교급처럼 보이지만 more outer, outest 같은 형태는 없다.",
+    "pattern": "the outer + 명사",
+    "examples": [
+     {
+      "en": "Damage to the outer layer won't affect the data inside.",
+      "ko": "바깥층이 손상돼도 안의 데이터에는 영향이 없어요.",
+      "focus": "the outer layer"
+     },
+     {
+      "en": "The company opened two offices in the outer suburbs.",
+      "ko": "그 회사는 외곽 지역에 사무실 두 곳을 열었어요.",
+      "focus": "in the outer suburbs"
+     }
+    ],
+    "collocations": [
+     "the outer layer",
+     "outer space",
+     "the outer edge"
+    ]
+   }
+  ],
+  "confusables": [
+   {
+    "word": "outside",
+    "note": "outside는 명사·전치사로 '바깥'을 가리키고, outer는 명사 앞에 붙는 형용사다."
+   }
+  ]
+ },
+ {
+  "id": "outrage",
+  "headword": "outrage",
+  "ipa": "/ˈaʊtreɪdʒ/",
+  "level": "ADV",
+  "isCore": false,
+  "topic": "emotions_personality",
+  "forms": [
+   "outrages"
+  ],
+  "senses": [
+   {
+    "id": "outrage-1",
+    "pos": "n",
+    "ko": "격분, 공분",
+    "en": "very strong anger about something felt to be deeply unfair",
+    "nuance": "여러 사람이 함께 느끼는 분노라 보통 불가산으로 public outrage처럼 쓴다. 개인이 짜증 난 정도는 anger나 annoyance이지 outrage가 아니다.",
+    "pattern": "cause outrage",
+    "examples": [
+     {
+      "en": "The pricing change caused outrage among long-time subscribers.",
+      "ko": "가격 변경이 오래된 구독자들 사이에서 공분을 샀어요.",
+      "focus": "caused outrage among long-time subscribers"
+     },
+     {
+      "en": "There was public outrage after the report came out.",
+      "ko": "보고서가 나온 뒤 사회적 공분이 일었어요.",
+      "focus": "public outrage after the report"
+     }
+    ],
+    "collocations": [
+     "public outrage",
+     "cause outrage",
+     "express outrage"
+    ]
+   }
+  ],
+  "wordFamily": [
+   {
+    "form": "outrageous",
+    "pos": "adj",
+    "ko": "터무니없는, 충격적인"
+   }
+  ],
+  "confusables": [
+   {
+    "word": "anger",
+    "note": "anger는 개인의 화 전반, outrage는 부당한 일에 여럿이 크게 분노하는 상태다."
+   }
+  ]
+ },
+ {
+  "id": "outsource",
+  "headword": "outsource",
+  "ipa": "/ˈaʊtsɔːrs/",
+  "level": "ADV",
+  "isCore": false,
+  "topic": "work_business",
+  "forms": [
+   "outsourced",
+   "outsources",
+   "outsourcing"
+  ],
+  "senses": [
+   {
+    "id": "outsource-1",
+    "pos": "v",
+    "ko": "외주로 맡기다",
+    "en": "to pay another company to do work your own staff used to do",
+    "nuance": "맡기는 상대는 to로 잇고, 회사 밖에 맡긴다는 점이 핵심이다. 한국어 '아웃소싱'은 명사처럼 쓰지만 영어에서는 동사 outsource로 문장을 만든다.",
+    "pattern": "outsource + 명사 + to + 회사",
+    "examples": [
+     {
+      "en": "We outsource customer support to a team in Busan.",
+      "ko": "우리는 고객 지원을 부산의 한 팀에 외주로 맡겨요.",
+      "focus": "outsource customer support to a team"
+     },
+     {
+      "en": "Design was outsourced last year to cut fixed costs.",
+      "ko": "고정비를 줄이려고 작년에 디자인을 외주로 돌렸어요.",
+      "focus": "was outsourced last year"
+     }
+    ],
+    "collocations": [
+     "outsource to",
+     "outsource production",
+     "outsource support"
+    ]
+   }
+  ],
+  "confusables": [
+   {
+    "word": "subcontract",
+    "note": "subcontract는 이미 맡은 일을 다시 하청 주는 것, outsource는 사내 업무를 밖으로 넘기는 것이다."
+   }
+  ]
+ },
+ {
+  "id": "overwhelm",
+  "headword": "overwhelm",
+  "ipa": "/ˌoʊvərˈwelm/",
+  "level": "ADV",
+  "isCore": false,
+  "topic": "emotions_personality",
+  "forms": [
+   "overwhelmed",
+   "overwhelming",
+   "overwhelms"
+  ],
+  "senses": [
+   {
+    "id": "overwhelm-1",
+    "pos": "v",
+    "ko": "압도하다, 벅차게 하다",
+    "en": "to affect someone so strongly that they cannot cope",
+    "nuance": "감정을 말할 때는 수동형 be overwhelmed by/with로 쓰고 '힘들다'는 뜻이 된다. 형용사 overwhelming은 '압도적인'이라 긍정·부정 양쪽에 쓴다.",
+    "pattern": "be overwhelmed by + 명사",
+    "examples": [
+     {
+      "en": "New hires often feel overwhelmed during their first month.",
+      "ko": "신입들은 첫 달에 벅차다고 느끼는 경우가 많아요.",
+      "focus": "feel overwhelmed during their first month"
+     },
+     {
+      "en": "The launch overwhelms our servers every single year.",
+      "ko": "출시 때마다 해마다 서버가 감당을 못 해요.",
+      "focus": "overwhelms our servers"
+     }
+    ],
+    "collocations": [
+     "be overwhelmed by",
+     "feel overwhelmed",
+     "overwhelming support"
+    ]
+   }
+  ],
+  "confusables": [
+   {
+    "word": "overcome",
+    "note": "overcome은 어려움을 '이겨내다', overwhelm은 반대로 상대를 '압도해 무너뜨리다'이다."
+   }
+  ]
+ },
+ {
+  "id": "oxygen",
+  "headword": "oxygen",
+  "ipa": "/ˈɑːksɪdʒən/",
+  "level": "ADV",
+  "isCore": false,
+  "topic": "environment_science",
+  "senses": [
+   {
+    "id": "oxygen-1",
+    "pos": "n",
+    "ko": "산소",
+    "en": "the gas in the air that people and animals need to live",
+    "nuance": "불가산이라 an oxygen이나 oxygens라고 하지 않는다. 병원의 '산소 호흡기'는 an oxygen mask처럼 oxygen을 형용사처럼 앞에 붙여 쓴다.",
+    "pattern": "oxygen levels",
+    "examples": [
+     {
+      "en": "Oxygen levels drop noticeably once you pass three thousand meters.",
+      "ko": "3천 미터를 넘으면 산소 농도가 눈에 띄게 떨어져요.",
+      "focus": "Oxygen levels drop noticeably"
+     },
+     {
+      "en": "The patient needed extra oxygen for two more days.",
+      "ko": "그 환자는 이틀 더 산소 공급이 필요했어요.",
+      "focus": "needed extra oxygen"
+     }
+    ],
+    "collocations": [
+     "oxygen levels",
+     "an oxygen mask",
+     "lack of oxygen"
+    ]
+   }
+  ],
+  "confusables": [
+   {
+    "word": "air",
+    "note": "air는 우리가 마시는 공기 전체, oxygen은 그 안의 한 기체 성분이다."
+   }
+  ]
+ },
+ {
+  "id": "painful",
+  "headword": "painful",
+  "ipa": "/ˈpeɪnfl/",
+  "level": "ADV",
+  "isCore": false,
+  "topic": "body_health",
+  "senses": [
+   {
+    "id": "painful-1",
+    "pos": "adj",
+    "ko": "아픈, 고통스러운",
+    "en": "causing physical hurt, or making you feel very upset",
+    "nuance": "'나 아파'는 I'm painful이 아니라 It hurts나 I'm in pain이다. painful은 아픔을 '일으키는' 쪽을 꾸미므로 부위·경험에 붙인다.",
+    "pattern": "a painful + 명사",
+    "examples": [
+     {
+      "en": "My shoulder is still painful after that long flight.",
+      "ko": "그 긴 비행 이후로 어깨가 아직도 아파요.",
+      "focus": "is still painful after that long flight"
+     },
+     {
+      "en": "Cutting the budget was a painful but necessary decision.",
+      "ko": "예산 삭감은 고통스럽지만 꼭 필요한 결정이었어요.",
+      "focus": "a painful but necessary decision"
+     }
+    ],
+    "collocations": [
+     "a painful experience",
+     "a painful decision",
+     "extremely painful"
+    ]
+   }
+  ],
+  "wordFamily": [
+   {
+    "form": "pain",
+    "pos": "n",
+    "ko": "아픔, 고통"
+   },
+   {
+    "form": "painless",
+    "pos": "adj",
+    "ko": "아프지 않은"
+   }
+  ],
+  "confusables": [
+   {
+    "word": "sore",
+    "note": "sore는 근육·목이 욱신거리는 가벼운 아픔, painful은 그보다 강하고 범위가 넓은 표현이다."
+   }
+  ]
+ },
+ {
+  "id": "parcel",
+  "headword": "parcel",
+  "ipa": "/ˈpɑːrsl/",
+  "level": "ADV",
+  "isCore": false,
+  "topic": "travel_transport",
+  "forms": [
+   "parcels"
+  ],
+  "senses": [
+   {
+    "id": "parcel-1",
+    "pos": "n",
+    "ko": "소포, 택배",
+    "en": "something wrapped in paper or a box and sent by post",
+    "nuance": "영국식에서 더 흔하고 미국에서는 package를 많이 쓴다. '택배 왔어요'는 A parcel arrived처럼 쓰며, delivery는 배달 행위 자체를 뜻한다.",
+    "pattern": "send a parcel",
+    "examples": [
+     {
+      "en": "A parcel arrived for you while you were at lunch.",
+      "ko": "점심 드시는 동안 소포가 하나 왔어요.",
+      "focus": "A parcel arrived for you"
+     },
+     {
+      "en": "Could you send this parcel to the London office today?",
+      "ko": "이 소포 오늘 런던 사무실로 보내 주실 수 있나요?",
+      "focus": "send this parcel to the London office"
+     }
+    ],
+    "collocations": [
+     "send a parcel",
+     "a parcel delivery",
+     "collect a parcel"
+    ]
+   }
+  ],
+  "confusables": [
+   {
+    "word": "package",
+    "note": "뜻은 거의 같다. parcel은 영국식 우편 용어에 가깝고 package는 미국에서 더 흔하다."
+   }
+  ]
+ },
+ {
+  "id": "parental",
+  "headword": "parental",
+  "ipa": "/pəˈrentl/",
+  "level": "ADV",
+  "isCore": false,
+  "topic": "people_family",
+  "senses": [
+   {
+    "id": "parental-1",
+    "pos": "adj",
+    "ko": "부모의",
+    "en": "relating to a mother or father, or their duties",
+    "nuance": "명사 앞에서만 쓰는 형용사라 '그는 부모다'를 He is parental이라고 하지 않는다. 회사 제도로는 parental leave(육아휴직)가 가장 많이 쓰이는 조합이다.",
+    "pattern": "parental + 명사",
+    "examples": [
+     {
+      "en": "The company extended parental leave to six months.",
+      "ko": "회사가 육아휴직을 6개월로 늘렸어요.",
+      "focus": "extended parental leave"
+     },
+     {
+      "en": "Students under eighteen need parental consent for the trip.",
+      "ko": "18세 미만 학생은 이 여행에 부모 동의가 필요해요.",
+      "focus": "need parental consent"
+     }
+    ],
+    "collocations": [
+     "parental leave",
+     "parental consent",
+     "parental control"
+    ]
+   }
+  ],
+  "wordFamily": [
+   {
+    "form": "parent",
+    "pos": "n",
+    "ko": "부모"
+   }
+  ],
+  "confusables": [
+   {
+    "word": "maternity",
+    "note": "maternity leave는 어머니의 출산휴가, parental leave는 부모 누구나 쓸 수 있는 육아휴직이다."
+   }
+  ]
+ },
+ {
+  "id": "parliament",
+  "headword": "parliament",
+  "ipa": "/ˈpɑːrləmənt/",
+  "level": "ADV",
+  "isCore": false,
+  "topic": "society_politics",
+  "forms": [
+   "parliaments"
+  ],
+  "senses": [
+   {
+    "id": "parliament-1",
+    "pos": "n",
+    "ko": "의회, 국회",
+    "en": "the group of elected people who make the laws of a country",
+    "nuance": "가운데 a는 소리 나지 않아 '팔러먼트'에 가깝게 읽는다. 한국 국회는 보통 the National Assembly, 미국은 Congress라고 부르는 점이 다르다.",
+    "pattern": "in parliament",
+    "examples": [
+     {
+      "en": "Parliament passed the new data law last Thursday.",
+      "ko": "의회가 지난 목요일 새 데이터 법을 통과시켰어요.",
+      "focus": "Parliament passed the new data law"
+     },
+     {
+      "en": "The bill is still being debated in parliament.",
+      "ko": "그 법안은 아직 의회에서 논의 중이에요.",
+      "focus": "debated in parliament"
+     }
+    ],
+    "collocations": [
+     "a member of parliament",
+     "in parliament"
+    ]
+   }
+  ],
+  "wordFamily": [
+   {
+    "form": "parliamentary",
+    "pos": "adj",
+    "ko": "의회의"
+   }
+  ],
+  "confusables": [
+   {
+    "word": "congress",
+    "note": "congress는 미국 의회를 부르는 이름, parliament는 영국·유럽식 의회를 가리킨다."
+   }
+  ]
+ },
+ {
+  "id": "parliamentary",
+  "headword": "parliamentary",
+  "ipa": "/ˌpɑːrləˈmentri/",
+  "level": "ADV",
+  "isCore": false,
+  "topic": "society_politics",
+  "senses": [
+   {
+    "id": "parliamentary-1",
+    "pos": "adj",
+    "ko": "의회의, 국회의",
+    "en": "relating to the elected body that makes a country's laws",
+    "nuance": "명사 앞에만 붙이는 형용사라 서술적으로 쓰지 않는다. '총선'은 parliamentary elections, '국정감사'류의 조사는 a parliamentary inquiry로 옮긴다.",
+    "pattern": "parliamentary + 명사",
+    "examples": [
+     {
+      "en": "The parliamentary committee will publish its report in June.",
+      "ko": "의회 위원회가 6월에 보고서를 낼 예정이에요.",
+      "focus": "The parliamentary committee"
+     },
+     {
+      "en": "Our client is watching the parliamentary elections very closely.",
+      "ko": "우리 고객사는 총선을 아주 면밀히 지켜보고 있어요.",
+      "focus": "watching the parliamentary elections"
+     }
+    ],
+    "collocations": [
+     "a parliamentary committee",
+     "parliamentary elections",
+     "a parliamentary system"
+    ]
+   }
+  ],
+  "wordFamily": [
+   {
+    "form": "parliament",
+    "pos": "n",
+    "ko": "의회"
+   }
+  ]
+ },
+ {
+  "id": "partial",
+  "headword": "partial",
+  "ipa": "/ˈpɑːrʃl/",
+  "level": "ADV",
+  "isCore": false,
+  "topic": "time_quantity",
+  "senses": [
+   {
+    "id": "partial-1",
+    "pos": "adj",
+    "ko": "부분적인, 일부의",
+    "en": "not complete, covering only some of the whole",
+    "nuance": "'환불 일부만 받았다'는 a partial refund처럼 명사 앞에 붙인다. particular(특정한)와 철자가 비슷하지만 뜻이 전혀 다르니 주의한다.",
+    "pattern": "a partial + 명사",
+    "examples": [
+     {
+      "en": "They offered a partial refund instead of a full one.",
+      "ko": "전액이 아니라 부분 환불을 제안했어요.",
+      "focus": "a partial refund"
+     },
+     {
+      "en": "We only have partial data for the first quarter.",
+      "ko": "1분기 자료는 일부만 갖고 있어요.",
+      "focus": "only have partial data"
+     }
+    ],
+    "collocations": [
+     "a partial refund",
+     "partial success",
+     "a partial view"
+    ]
+   }
+  ],
+  "wordFamily": [
+   {
+    "form": "partially",
+    "pos": "adv",
+    "ko": "부분적으로"
+   }
+  ],
+  "confusables": [
+   {
+    "word": "particular",
+    "note": "particular는 '특정한, 까다로운', partial은 '전체가 아닌 일부의'라는 뜻이다."
+   }
+  ]
+ },
+ {
+  "id": "particle",
+  "headword": "particle",
+  "ipa": "/ˈpɑːrtɪkl/",
+  "level": "ADV",
+  "isCore": false,
+  "topic": "environment_science",
+  "forms": [
+   "particles"
+  ],
+  "senses": [
+   {
+    "id": "particle-1",
+    "pos": "n",
+    "ko": "입자, 미세한 알갱이",
+    "en": "an extremely small piece of matter",
+    "nuance": "가산명사라 a particle로 세고, 미세먼지는 fine particles 또는 fine dust라고 한다. article(기사)과 철자가 한 글자 차이라 검색할 때 자주 헷갈린다.",
+    "pattern": "a particle of + 명사",
+    "examples": [
+     {
+      "en": "The filter catches particles smaller than one micrometer.",
+      "ko": "그 필터는 1마이크로미터보다 작은 입자를 걸러요.",
+      "focus": "catches particles smaller than one micrometer"
+     },
+     {
+      "en": "Her lab studies how dust particles affect lung tissue.",
+      "ko": "그분 연구실은 먼지 입자가 폐 조직에 어떤 영향을 주는지 연구해요.",
+      "focus": "how dust particles affect lung tissue"
+     }
+    ],
+    "collocations": [
+     "dust particles",
+     "fine particles",
+     "a particle of dust"
+    ]
+   }
+  ],
+  "confusables": [
+   {
+    "word": "article",
+    "note": "article은 글·기사나 관사이고, particle은 아주 작은 물질 알갱이다."
+   }
+  ]
+ },
+ {
+  "id": "pat",
+  "headword": "pat",
+  "ipa": "/pæt/",
+  "level": "ADV",
+  "isCore": false,
+  "topic": "movement_action",
+  "forms": [
+   "patted",
+   "patting",
+   "pats"
+  ],
+  "senses": [
+   {
+    "id": "pat-1",
+    "pos": "v",
+    "ko": "토닥이다, 가볍게 두드리다",
+    "en": "to touch someone or something gently with a flat hand",
+    "nuance": "손바닥으로 부드럽게 두드리는 동작이라 hit처럼 세게 때리는 뜻이 아니다. 과거형은 t를 겹쳐 patted로 쓰고, 칭찬 표현 pat on the back으로도 자주 쓴다.",
+    "pattern": "pat + 사람 + on the + 신체",
+    "examples": [
+     {
+      "en": "She patted my shoulder and told me to relax.",
+      "ko": "그분이 내 어깨를 토닥이며 긴장 풀라고 했어요.",
+      "focus": "patted my shoulder"
+     },
+     {
+      "en": "Pat the paper dry before you scan the receipt.",
+      "ko": "영수증 스캔하기 전에 종이를 톡톡 두드려 말리세요.",
+      "focus": "Pat the paper dry"
+     }
+    ],
+    "collocations": [
+     "pat someone on the back",
+     "pat a dog"
+    ]
+   }
+  ],
+  "confusables": [
+   {
+    "word": "tap",
+    "note": "tap은 손가락 끝으로 톡톡 치는 것, pat은 손바닥 전체로 부드럽게 두드리는 것이다."
+   }
+  ]
+ },
+ {
+  "id": "patch",
+  "headword": "patch",
+  "ipa": "/pætʃ/",
+  "level": "ADV",
+  "isCore": false,
+  "topic": "environment_science",
+  "forms": [
+   "patches"
+  ],
+  "senses": [
+   {
+    "id": "patch-1",
+    "pos": "n",
+    "ko": "부분, 자리, 조각",
+    "en": "a small area that looks different from what is around it",
+    "nuance": "가산명사라 a patch of ice처럼 of로 잇는다. IT에서 쓰는 '패치'도 같은 단어이며, 소프트웨어 수정본을 뜻할 때는 release a patch라고 한다.",
+    "pattern": "a patch of + 명사",
+    "examples": [
+     {
+      "en": "Mina slipped on a patch of ice near the entrance.",
+      "ko": "미나가 입구 근처 빙판에서 미끄러졌어요.",
+      "focus": "a patch of ice"
+     },
+     {
+      "en": "The team shipped a security patch within six hours.",
+      "ko": "팀이 여섯 시간 만에 보안 패치를 배포했어요.",
+      "focus": "shipped a security patch"
+     }
+    ],
+    "collocations": [
+     "a patch of ice",
+     "a security patch",
+     "a rough patch"
+    ]
+   }
+  ],
+  "confusables": [
+   {
+    "word": "spot",
+    "note": "spot은 점처럼 작은 지점, patch는 주변과 달라 보이는 넓적한 구역이다."
+   }
+  ]
+ },
+ {
+  "id": "patent",
+  "headword": "patent",
+  "ipa": "/ˈpætnt/",
+  "level": "ADV",
+  "isCore": false,
+  "topic": "work_business",
+  "forms": [
+   "patents"
+  ],
+  "senses": [
+   {
+    "id": "patent-1",
+    "pos": "n",
+    "ko": "특허",
+    "en": "a legal right that stops others from copying your invention",
+    "nuance": "가산명사라 a patent로 세고 '특허를 내다'는 file a patent 또는 apply for a patent다. patient(환자)와 철자가 비슷하니 문서에서 특히 조심한다.",
+    "pattern": "file a patent",
+    "examples": [
+     {
+      "en": "Our legal team filed a patent for the sensor design.",
+      "ko": "법무팀이 그 센서 설계에 대해 특허를 출원했어요.",
+      "focus": "filed a patent for the sensor design"
+     },
+     {
+      "en": "The patent expires in 2031, so competitors are waiting.",
+      "ko": "그 특허는 2031년에 만료돼서 경쟁사들이 기다리고 있어요.",
+      "focus": "The patent expires in 2031"
+     }
+    ],
+    "collocations": [
+     "file a patent",
+     "hold a patent",
+     "a patent application"
+    ]
+   }
+  ],
+  "confusables": [
+   {
+    "word": "patient",
+    "note": "patient는 '환자, 참을성 있는'이고 patent는 '특허'다. 철자가 비슷해 문서에서 자주 틀린다."
+   }
+  ]
+ },
+ {
+  "id": "patrol",
+  "headword": "patrol",
+  "ipa": "/pəˈtroʊl/",
+  "level": "ADV",
+  "isCore": false,
+  "topic": "society_politics",
+  "forms": [
+   "patrols"
+  ],
+  "senses": [
+   {
+    "id": "patrol-1",
+    "pos": "n",
+    "ko": "순찰, 순찰대",
+    "en": "the act of moving around an area to watch for trouble",
+    "nuance": "'순찰 중'은 관사 없이 on patrol이라고 한다. 순찰하는 무리 자체도 a patrol이라 부르며, 이때는 가산명사다.",
+    "pattern": "on patrol",
+    "examples": [
+     {
+      "en": "Two guards are on patrol near the loading dock tonight.",
+      "ko": "오늘 밤 경비 두 명이 하역장 근처를 순찰하고 있어요.",
+      "focus": "on patrol near the loading dock"
+     },
+     {
+      "en": "The city added night patrols after several break-ins.",
+      "ko": "시는 침입 사건이 몇 건 나자 야간 순찰을 늘렸어요.",
+      "focus": "added night patrols"
+     }
+    ],
+    "collocations": [
+     "on patrol",
+     "a police patrol",
+     "night patrols"
+    ]
+   }
+  ],
+  "confusables": [
+   {
+    "word": "payroll",
+    "note": "발음이 비슷하지만 payroll은 '급여 대장', patrol은 '순찰'이라 전혀 다른 분야의 말이다."
+   }
+  ]
+ },
+ {
+  "id": "pave",
+  "headword": "pave",
+  "ipa": "/peɪv/",
+  "level": "ADV",
+  "isCore": false,
+  "topic": "travel_transport",
+  "forms": [
+   "paved",
+   "paves",
+   "paving"
+  ],
+  "senses": [
+   {
+    "id": "pave-1",
+    "pos": "v",
+    "ko": "포장하다, 길을 닦다",
+    "en": "to cover a road or path with a hard flat surface",
+    "nuance": "도로에 아스팔트를 까는 뜻이고, 선물 '포장하다'는 wrap이라 전혀 다르다. 비유로 pave the way for가 '~의 발판을 마련하다'로 자주 쓰인다.",
+    "pattern": "pave the way for + 명사",
+    "examples": [
+     {
+      "en": "The city finally paved the road behind our office.",
+      "ko": "시가 드디어 우리 사무실 뒷길을 포장했어요.",
+      "focus": "paved the road behind our office"
+     },
+     {
+      "en": "This pilot should pave the way for a wider rollout.",
+      "ko": "이번 시범 운영이 전면 확대의 발판이 될 거예요.",
+      "focus": "pave the way for a wider rollout"
+     }
+    ],
+    "collocations": [
+     "pave the way for",
+     "pave a road",
+     "a paved path"
+    ]
+   }
+  ],
+  "confusables": [
+   {
+    "word": "wrap",
+    "note": "한국어 '포장'이 같아 헷갈리지만 물건을 싸는 것은 wrap, 길을 까는 것은 pave다."
    }
   ]
  }
