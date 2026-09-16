@@ -1,0 +1,1545 @@
+[
+ {
+  "id": "costly",
+  "headword": "costly",
+  "ipa": "/ˈkɔːstli/",
+  "level": "ADV",
+  "isCore": false,
+  "topic": "money_shopping",
+  "forms": [
+   "costlier",
+   "costliest"
+  ],
+  "senses": [
+   {
+    "id": "costly-1",
+    "pos": "adj",
+    "ko": "비용이 큰, 손해가 큰",
+    "en": "costing a lot of money, or causing serious loss",
+    "nuance": "-ly로 끝나지만 부사가 아니라 형용사다. 단순히 가격이 비싸다는 expensive와 달리 '그 대가로 손실이 크다'는 뜻이 강해서 실수·지연·오류와 잘 붙는다.",
+    "pattern": "a costly + 명사(mistake, delay)",
+    "examples": [
+     {
+      "en": "That pricing error turned out to be a costly mistake.",
+      "ko": "그 가격 오류는 결국 대가가 큰 실수로 드러났어요.",
+      "focus": "a costly mistake"
+     },
+     {
+      "en": "Rebuilding the whole system would be far costlier than patching it.",
+      "ko": "시스템을 통째로 다시 만드는 건 수정하는 것보다 훨씬 비용이 커요.",
+      "focus": "far costlier than patching it"
+     }
+    ],
+    "collocations": [
+     "a costly mistake",
+     "a costly delay",
+     "prove costly"
+    ]
+   }
+  ],
+  "wordFamily": [
+   {
+    "form": "cost",
+    "pos": "n",
+    "ko": "비용, 대가"
+   }
+  ],
+  "confusables": [
+   {
+    "word": "expensive",
+    "note": "expensive는 값이 비싸다는 뜻, costly는 그 때문에 손해·피해가 크다는 어감이 함께 들어간다."
+   },
+   {
+    "word": "closely",
+    "note": "closely는 진짜 부사(가까이)지만 costly는 -ly여도 형용사라 동사를 꾸미지 못한다."
+   }
+  ]
+ },
+ {
+  "id": "counterpart",
+  "headword": "counterpart",
+  "ipa": "/ˈkaʊntərpɑːrt/",
+  "level": "ADV",
+  "isCore": false,
+  "topic": "work_business",
+  "forms": [
+   "counterparts"
+  ],
+  "senses": [
+   {
+    "id": "counterpart-1",
+    "pos": "n",
+    "ko": "상대방, 대응하는 사람",
+    "en": "a person or thing with the same job or role elsewhere",
+    "nuance": "다른 회사·나라에서 나와 같은 직책을 맡은 사람을 가리킨다. 협상 자리의 '상대편'을 opponent라고 하면 적대적으로 들리니 counterpart가 안전하다.",
+    "pattern": "one's counterpart at/in + 조직",
+    "examples": [
+     {
+      "en": "I'll check the schedule with my counterpart at the Seoul office.",
+      "ko": "서울 지사에 있는 제 카운터파트와 일정을 확인해 볼게요.",
+      "focus": "my counterpart at the Seoul office"
+     },
+     {
+      "en": "Our engineers meet their Japanese counterparts every quarter.",
+      "ko": "우리 엔지니어들은 분기마다 일본 쪽 담당자들을 만나요.",
+      "focus": "their Japanese counterparts"
+     }
+    ],
+    "collocations": [
+     "one's counterpart at the company",
+     "meet a counterpart",
+     "foreign counterparts"
+    ]
+   }
+  ],
+  "confusables": [
+   {
+    "word": "colleague",
+    "note": "colleague는 같은 조직 안의 동료, counterpart는 다른 조직에서 같은 역할을 맡은 사람이다."
+   },
+   {
+    "word": "opponent",
+    "note": "opponent는 싸워 이겨야 할 상대, counterpart는 대등한 위치에서 대응하는 짝이다."
+   }
+  ]
+ },
+ {
+  "id": "coupon",
+  "headword": "coupon",
+  "ipa": "/ˈkuːpɑːn/",
+  "level": "ADV",
+  "isCore": false,
+  "topic": "money_shopping",
+  "forms": [
+   "coupons"
+  ],
+  "senses": [
+   {
+    "id": "coupon-1",
+    "pos": "n",
+    "ko": "할인권, 쿠폰",
+    "en": "a printed or digital ticket that lowers the price you pay",
+    "nuance": "가산 명사라 a coupon, two coupons처럼 센다. 한국어 '쿠폰 쓰다'를 use a coupon 외에 redeem a coupon으로도 쓰고, 쿠폰을 '입력'할 때는 코드라서 coupon code라고 한다.",
+    "pattern": "use/apply + a coupon",
+    "examples": [
+     {
+      "en": "Enter this coupon code at checkout for twenty percent off.",
+      "ko": "결제할 때 이 쿠폰 코드를 넣으면 20퍼센트 할인돼요.",
+      "focus": "this coupon code at checkout"
+     },
+     {
+      "en": "Mina had two coupons, but both expired last Friday.",
+      "ko": "미나는 쿠폰이 두 장 있었는데 둘 다 지난 금요일에 만료됐어.",
+      "focus": "two coupons, but both expired"
+     }
+    ],
+    "collocations": [
+     "use a coupon",
+     "a coupon code",
+     "a discount coupon"
+    ]
+   }
+  ],
+  "confusables": [
+   {
+    "word": "voucher",
+    "note": "voucher는 금액만큼 결제에 쓰는 상품권 쪽, coupon은 가격을 깎아 주는 할인권 쪽이다."
+   },
+   {
+    "word": "receipt",
+    "note": "receipt는 결제 후 받는 영수증, coupon은 결제 전에 내는 할인권이다."
+   }
+  ]
+ },
+ {
+  "id": "creditor",
+  "headword": "creditor",
+  "ipa": "/ˈkredɪtər/",
+  "level": "ADV",
+  "isCore": false,
+  "topic": "money_shopping",
+  "forms": [
+   "creditors"
+  ],
+  "senses": [
+   {
+    "id": "creditor-1",
+    "pos": "n",
+    "ko": "채권자, 돈 받을 사람",
+    "en": "a person or company that is owed money by someone",
+    "nuance": "회계·법률에서 '돈을 빌려준 쪽'을 가리키며 debtor와 짝으로 외운다. credit(신용카드)과 붙여 생각해 '신용이 좋은 사람'으로 오해하기 쉬우니 주의한다.",
+    "pattern": "pay/repay + creditors",
+    "examples": [
+     {
+      "en": "The company must repay its creditors before paying any dividends.",
+      "ko": "그 회사는 배당을 주기 전에 채권자들에게 먼저 갚아야 해요.",
+      "focus": "repay its creditors"
+     },
+     {
+      "en": "Our biggest creditor agreed to extend the loan by a year.",
+      "ko": "가장 큰 채권자가 대출을 1년 연장해 주기로 했어요.",
+      "focus": "Our biggest creditor"
+     }
+    ],
+    "collocations": [
+     "repay creditors",
+     "a major creditor"
+    ]
+   }
+  ],
+  "confusables": [
+   {
+    "word": "debtor",
+    "note": "creditor는 돈을 받을 쪽, debtor는 갚아야 할 쪽으로 정확히 반대다."
+   },
+   {
+    "word": "credible",
+    "note": "credible은 '믿을 만한'이라는 형용사라 철자만 비슷할 뿐 뜻이 전혀 다르다."
+   }
+  ]
+ },
+ {
+  "id": "creek",
+  "headword": "creek",
+  "ipa": "/kriːk/",
+  "level": "ADV",
+  "isCore": false,
+  "topic": "nature_animals",
+  "forms": [
+   "creeks"
+  ],
+  "senses": [
+   {
+    "id": "creek-1",
+    "pos": "n",
+    "ko": "실개천, 작은 개울",
+    "en": "a narrow stream of water, smaller than a river",
+    "nuance": "미국 영어에서 강보다 훨씬 작은 개울을 뜻하는 가산 명사다. 발음이 /kriːk/로 길어서 quick이나 creak(삐걱거리다)과 헷갈리지 않게 주의한다.",
+    "pattern": "cross/along + a creek",
+    "examples": [
+     {
+      "en": "We crossed a shallow creek on the way to the campsite.",
+      "ko": "캠핑장 가는 길에 얕은 개울을 하나 건넜어.",
+      "focus": "crossed a shallow creek"
+     },
+     {
+      "en": "Heavy rain turned the quiet creeks into fast brown water.",
+      "ko": "폭우가 조용하던 개울들을 빠르고 흙탕물 같은 물줄기로 바꿔 놨어.",
+      "focus": "turned the quiet creeks"
+     }
+    ],
+    "collocations": [
+     "a shallow creek",
+     "cross a creek"
+    ]
+   }
+  ],
+  "confusables": [
+   {
+    "word": "stream",
+    "note": "stream이 더 일반적인 '시내'이고 creek은 미국식으로 특히 작은 개울을 가리킨다."
+   },
+   {
+    "word": "creak",
+    "note": "발음이 같지만 creak은 문·바닥이 '삐걱거리다'라는 동사다."
+   }
+  ]
+ },
+ {
+  "id": "creep",
+  "headword": "creep",
+  "ipa": "/kriːp/",
+  "level": "ADV",
+  "isCore": false,
+  "topic": "movement_action",
+  "forms": [
+   "creeping",
+   "creeps",
+   "crept"
+  ],
+  "senses": [
+   {
+    "id": "creep-1",
+    "pos": "v",
+    "ko": "살금살금 움직이다",
+    "en": "to move slowly and quietly so nobody notices you",
+    "nuance": "과거형이 creeped가 아니라 crept인 불규칙 동사다. 비용·수치가 '조금씩 오르다'라는 비유로 회의에서도 자주 쓴다.",
+    "pattern": "creep up/into + 장소",
+    "examples": [
+     {
+      "en": "Costs are creeping up again despite the new supplier contract.",
+      "ko": "새 공급 계약을 맺었는데도 비용이 또 슬금슬금 오르고 있어요.",
+      "focus": "creeping up again"
+     },
+     {
+      "en": "Tom crept out of the meeting room to take a call.",
+      "ko": "톰은 전화를 받으려고 회의실에서 조용히 빠져나갔어.",
+      "focus": "crept out of the meeting room"
+     }
+    ],
+    "collocations": [
+     "creep up on someone",
+     "creep into a room"
+    ]
+   }
+  ],
+  "confusables": [
+   {
+    "word": "crawl",
+    "note": "crawl은 손발로 기어가는 동작, creep은 들키지 않으려고 조용히 움직이는 쪽에 초점이 있다."
+   },
+   {
+    "word": "sneak",
+    "note": "sneak은 몰래 들어가거나 빼내는 목적이 뚜렷하고, creep은 움직임 자체가 느리고 조용하다."
+   }
+  ]
+ },
+ {
+  "id": "curriculum",
+  "headword": "curriculum",
+  "ipa": "/kəˈrɪkjələm/",
+  "level": "ADV",
+  "isCore": false,
+  "topic": "school_learning",
+  "forms": [
+   "curricula",
+   "curriculums"
+  ],
+  "senses": [
+   {
+    "id": "curriculum-1",
+    "pos": "n",
+    "ko": "교육 과정, 커리큘럼",
+    "en": "all the subjects and content that a school or course teaches",
+    "nuance": "라틴어 계열이라 복수가 curricula이고 curriculums도 쓰지만 학술 글에서는 curricula가 더 격식이다. 한 과목의 '수업 계획표'는 curriculum이 아니라 syllabus다.",
+    "pattern": "the school curriculum",
+    "examples": [
+     {
+      "en": "Coding was added to the national curriculum three years ago.",
+      "ko": "코딩은 3년 전에 국가 교육 과정에 들어갔어요.",
+      "focus": "added to the national curriculum"
+     },
+     {
+      "en": "The two universities compared their engineering curricula last spring.",
+      "ko": "두 대학이 지난봄에 공학 교육 과정을 서로 비교했어요.",
+      "focus": "compared their engineering curricula"
+     }
+    ],
+    "collocations": [
+     "the national curriculum",
+     "design a curriculum",
+     "the school curriculum"
+    ]
+   }
+  ],
+  "confusables": [
+   {
+    "word": "syllabus",
+    "note": "syllabus는 한 과목의 주차별 계획, curriculum은 학교·학과 전체가 가르치는 내용을 말한다."
+   }
+  ]
+ },
+ {
+  "id": "curse",
+  "headword": "curse",
+  "ipa": "/kɜːrs/",
+  "level": "ADV",
+  "isCore": false,
+  "topic": "communication",
+  "forms": [
+   "cursed",
+   "curses",
+   "cursing"
+  ],
+  "senses": [
+   {
+    "id": "curse-1",
+    "pos": "n",
+    "ko": "저주, 악운",
+    "en": "bad luck or harm that someone wishes onto another person",
+    "nuance": "가산 명사라 a curse로 쓰고, '축복이자 저주'처럼 a blessing and a curse 형태로 자주 짝을 이룬다. 한국어 '욕'을 curse 하나로 옮기면 어색하고 curse word라고 해야 한다.",
+    "pattern": "a curse on + 사람/사물",
+    "examples": [
+     {
+      "en": "Working from home is a blessing and a curse.",
+      "ko": "재택근무는 축복이자 저주야.",
+      "focus": "a blessing and a curse"
+     },
+     {
+      "en": "The old story says a curse fell on the village.",
+      "ko": "옛날이야기에 따르면 그 마을에 저주가 내렸대.",
+      "focus": "a curse fell on the village"
+     }
+    ],
+    "collocations": [
+     "a blessing and a curse",
+     "put a curse on someone"
+    ]
+   },
+   {
+    "id": "curse-2",
+    "pos": "v",
+    "ko": "욕하다, 악담하다",
+    "en": "to say rude, angry words because you are upset",
+    "nuance": "'욕하다'를 swear로도 쓰지만 swear는 '맹세하다'와 겹쳐서 문맥이 필요하다. 사람을 향해 욕할 때는 curse at someone처럼 at을 붙인다.",
+    "pattern": "curse at + 사람",
+    "examples": [
+     {
+      "en": "He cursed at the printer and then apologized to everyone.",
+      "ko": "그는 프린터에 대고 욕하고 나서 모두에게 사과했어.",
+      "focus": "cursed at the printer"
+     }
+    ]
+   }
+  ],
+  "confusables": [
+   {
+    "word": "swear",
+    "note": "swear는 '욕하다'와 '맹세하다' 두 뜻이 다 있지만 curse는 나쁜 말을 한다는 쪽뿐이다."
+   },
+   {
+    "word": "blame",
+    "note": "blame은 잘못을 탓하는 것, curse는 화가 나서 거친 말을 내뱉는 것이다."
+   }
+  ]
+ },
+ {
+  "id": "custody",
+  "headword": "custody",
+  "ipa": "/ˈkʌstədi/",
+  "level": "ADV",
+  "isCore": false,
+  "topic": "society_politics",
+  "senses": [
+   {
+    "id": "custody-1",
+    "pos": "n",
+    "ko": "양육권, 보호",
+    "en": "the legal right to care for a child or keep something safe",
+    "nuance": "불가산 명사라 a custody라고 하지 않고 custody of the children처럼 쓴다. 경찰에 잡혀 있는 상태는 in custody로, 감옥형(in prison)과는 다르다.",
+    "pattern": "custody of + 명사 / in custody",
+    "examples": [
+     {
+      "en": "The court gave her full custody of both children.",
+      "ko": "법원은 그녀에게 두 아이의 완전한 양육권을 줬어요.",
+      "focus": "full custody of both children"
+     },
+     {
+      "en": "Two suspects are still in custody pending the investigation.",
+      "ko": "용의자 두 명은 조사가 끝날 때까지 여전히 구금 상태예요.",
+      "focus": "still in custody"
+     }
+    ],
+    "collocations": [
+     "custody of a child",
+     "in police custody",
+     "joint custody"
+    ]
+   }
+  ],
+  "confusables": [
+   {
+    "word": "custom",
+    "note": "custom은 '관습'이라 철자만 비슷할 뿐 custody의 '보호·양육권'과 관련이 없다."
+   },
+   {
+    "word": "arrest",
+    "note": "arrest는 체포하는 순간의 행위, custody는 체포 뒤 붙잡아 두고 있는 상태다."
+   }
+  ]
+ },
+ {
+  "id": "cynical",
+  "headword": "cynical",
+  "ipa": "/ˈsɪnɪkl/",
+  "level": "ADV",
+  "isCore": false,
+  "topic": "emotions_personality",
+  "senses": [
+   {
+    "id": "cynical-1",
+    "pos": "adj",
+    "ko": "냉소적인, 삐딱한",
+    "en": "believing people act only for their own benefit, not kindness",
+    "nuance": "첫소리가 /s/라서 '키니컬'로 읽으면 통하지 않는다. 단순히 부정적인 negative와 달리 '남의 선의를 안 믿는다'는 태도가 핵심이다.",
+    "pattern": "be cynical about + 명사",
+    "examples": [
+     {
+      "en": "Don't be so cynical about the new management plan.",
+      "ko": "새 경영 계획을 그렇게 삐딱하게만 보지 마.",
+      "focus": "cynical about the new management plan"
+     },
+     {
+      "en": "After ten years in sales, Jun grew rather cynical.",
+      "ko": "영업 10년 하고 나서 준은 꽤 냉소적으로 변했어.",
+      "focus": "grew rather cynical"
+     }
+    ],
+    "collocations": [
+     "cynical about politics",
+     "a cynical view"
+    ]
+   }
+  ],
+  "wordFamily": [
+   {
+    "form": "cynicism",
+    "pos": "n",
+    "ko": "냉소, 냉소주의"
+   }
+  ],
+  "confusables": [
+   {
+    "word": "clinical",
+    "note": "clinical은 '임상의, 냉정한'이라는 뜻이고 cynical은 남을 믿지 않는 냉소적 태도다."
+   },
+   {
+    "word": "pessimistic",
+    "note": "pessimistic은 결과가 나쁠 거라 보는 것, cynical은 사람의 동기를 의심하는 것이다."
+   }
+  ]
+ },
+ {
+  "id": "deadline",
+  "headword": "deadline",
+  "ipa": "/ˈdedlaɪn/",
+  "level": "ADV",
+  "isCore": false,
+  "topic": "work_business",
+  "forms": [
+   "deadlines"
+  ],
+  "senses": [
+   {
+    "id": "deadline-1",
+    "pos": "n",
+    "ko": "마감일, 기한",
+    "en": "the latest time by which work must be finished",
+    "nuance": "가산 명사라 the deadline, two deadlines처럼 쓴다. '마감을 지키다'는 keep이 아니라 meet a deadline이고, 못 지키면 miss the deadline이다.",
+    "pattern": "meet/miss + the deadline",
+    "examples": [
+     {
+      "en": "We can still meet the deadline if we start today.",
+      "ko": "오늘 시작하면 마감은 아직 맞출 수 있어요.",
+      "focus": "meet the deadline"
+     },
+     {
+      "en": "The client pushed the deadline back to next Wednesday.",
+      "ko": "고객사가 마감을 다음 주 수요일로 미뤄 줬어요.",
+      "focus": "pushed the deadline back"
+     }
+    ],
+    "collocations": [
+     "meet a deadline",
+     "miss the deadline",
+     "a tight deadline"
+    ]
+   }
+  ],
+  "confusables": [
+   {
+    "word": "due date",
+    "note": "due date는 개별 과제·청구서의 지정일, deadline은 그 이상 늦으면 안 되는 최종 한계선이다."
+   }
+  ],
+  "memoryHook": "dead(죽은) + line(선) — 그 선을 넘으면 끝이라는 이미지다."
+ },
+ {
+  "id": "debit",
+  "headword": "debit",
+  "ipa": "/ˈdebɪt/",
+  "level": "ADV",
+  "isCore": false,
+  "topic": "money_shopping",
+  "forms": [
+   "debited",
+   "debiting",
+   "debits"
+  ],
+  "senses": [
+   {
+    "id": "debit-1",
+    "pos": "n",
+    "ko": "출금, 차변",
+    "en": "money taken out of a bank account, or the record of it",
+    "nuance": "발음이 /ˈdebɪt/로 b를 살려 읽으며, b가 묵음인 debt(/det/)와 구별해야 한다. 카드 이름은 a debit card이고 콩글리시 '체크카드'는 영어로 통하지 않는다.",
+    "pattern": "a debit card / direct debit",
+    "examples": [
+     {
+      "en": "Can I pay by debit card instead of cash?",
+      "ko": "현금 말고 체크카드로 결제해도 될까요?",
+      "focus": "pay by debit card"
+     },
+     {
+      "en": "The rent goes out by direct debit every month.",
+      "ko": "월세는 매달 자동 이체로 빠져나가요.",
+      "focus": "by direct debit"
+     }
+    ],
+    "collocations": [
+     "a debit card",
+     "direct debit"
+    ]
+   },
+   {
+    "id": "debit-2",
+    "pos": "v",
+    "ko": "계좌에서 빼다",
+    "en": "to take money out of an account as a formal record",
+    "nuance": "은행·회계 문서에서 주로 수동형 be debited로 나타난다. 일상 대화에서는 The money was taken out처럼 쉬운 말을 쓴다.",
+    "pattern": "be debited from + 계좌",
+    "examples": [
+     {
+      "en": "The fee will be debited from your account on Monday.",
+      "ko": "수수료는 월요일에 계좌에서 빠져나갑니다.",
+      "focus": "be debited from your account"
+     }
+    ]
+   }
+  ],
+  "confusables": [
+   {
+    "word": "debt",
+    "note": "debt는 b가 묵음인 /det/이고 '빚'이며, debit은 b를 발음하는 '출금'이다."
+   },
+   {
+    "word": "credit",
+    "note": "회계에서 debit은 돈이 나가는 차변, credit은 들어오는 대변으로 정반대다."
+   }
+  ]
+ },
+ {
+  "id": "debtor",
+  "headword": "debtor",
+  "ipa": "/ˈdetər/",
+  "level": "ADV",
+  "isCore": false,
+  "topic": "money_shopping",
+  "forms": [
+   "debtors"
+  ],
+  "senses": [
+   {
+    "id": "debtor-1",
+    "pos": "n",
+    "ko": "채무자, 빚진 사람",
+    "en": "a person or company that owes money to someone else",
+    "nuance": "debt처럼 b가 묵음이라 /ˈdetər/로 읽고 '뎁터'라고 하면 알아듣지 못한다. 회계 보고서에서는 '미수금 거래처'를 뜻하기도 한다.",
+    "pattern": "a debtor owes + 금액",
+    "examples": [
+     {
+      "en": "Each debtor received a formal letter about the overdue payment.",
+      "ko": "채무자마다 연체 대금에 대한 공식 서한을 받았어요.",
+      "focus": "Each debtor received a formal letter"
+     },
+     {
+      "en": "The bank listed her as a debtor for the unpaid loan.",
+      "ko": "은행은 갚지 않은 대출 때문에 그녀를 채무자로 올렸어요.",
+      "focus": "listed her as a debtor"
+     }
+    ],
+    "collocations": [
+     "a major debtor",
+     "chase debtors"
+    ]
+   }
+  ],
+  "confusables": [
+   {
+    "word": "creditor",
+    "note": "debtor는 갚아야 할 쪽, creditor는 받을 쪽이라 회계에서 정확히 반대 자리에 놓인다."
+   },
+   {
+    "word": "borrower",
+    "note": "borrower는 빌리는 행위에 초점, debtor는 아직 갚지 않은 빚이 있는 상태에 초점이다."
+   }
+  ]
+ },
+ {
+  "id": "decent",
+  "headword": "decent",
+  "ipa": "/ˈdiːsnt/",
+  "level": "ADV",
+  "isCore": false,
+  "topic": "description_quality",
+  "senses": [
+   {
+    "id": "decent-1",
+    "pos": "adj",
+    "ko": "괜찮은, 쓸 만한",
+    "en": "good enough in quality or amount, though not excellent",
+    "nuance": "최고는 아니지만 기대를 충족한다는 온건한 칭찬이라 급여·식사·성적에 잘 쓴다. 첫 음절이 /diː/라 '디센트'이며 descent(하강)와 철자·발음을 섞지 않는다.",
+    "pattern": "a decent + 명사(salary, meal)",
+    "examples": [
+     {
+      "en": "The offer includes a decent salary and flexible hours.",
+      "ko": "그 제안에는 꽤 괜찮은 연봉이랑 유연 근무가 들어 있어요.",
+      "focus": "a decent salary"
+     },
+     {
+      "en": "We finally found a decent café near the office.",
+      "ko": "드디어 사무실 근처에 괜찮은 카페를 하나 찾았어.",
+      "focus": "a decent café"
+     }
+    ],
+    "collocations": [
+     "a decent salary",
+     "a decent meal",
+     "do a decent job"
+    ]
+   }
+  ],
+  "wordFamily": [
+   {
+    "form": "decency",
+    "pos": "n",
+    "ko": "품위, 예의"
+   }
+  ],
+  "confusables": [
+   {
+    "word": "descent",
+    "note": "descent는 '내려감, 혈통'이라는 명사이고 decent는 '괜찮은'이라는 형용사다."
+   },
+   {
+    "word": "excellent",
+    "note": "excellent는 최고라는 극찬, decent는 '기대만큼은 된다' 정도의 중간 칭찬이다."
+   }
+  ]
+ },
+ {
+  "id": "deem",
+  "headword": "deem",
+  "ipa": "/diːm/",
+  "level": "ADV",
+  "isCore": false,
+  "topic": "thinking_opinion",
+  "forms": [
+   "deemed",
+   "deeming",
+   "deems"
+  ],
+  "senses": [
+   {
+    "id": "deem-1",
+    "pos": "v",
+    "ko": "여기다, 간주하다",
+    "en": "to judge officially that something has a certain quality",
+    "nuance": "규정·판결·공식 보고서에서 쓰는 격식체라 친구와의 대화에서는 think를 쓴다. deem that절보다 deem A B(be동사 없이) 형태나 수동 be deemed가 훨씬 자연스럽다.",
+    "pattern": "deem + 목적어 + 형용사/명사",
+    "examples": [
+     {
+      "en": "The committee deemed the proposal too risky to approve.",
+      "ko": "위원회는 그 제안이 승인하기에 너무 위험하다고 봤어요.",
+      "focus": "deemed the proposal too risky"
+     },
+     {
+      "en": "Any late entry will be deemed invalid under the rules.",
+      "ko": "늦게 제출된 건 규정상 무효로 간주됩니다.",
+      "focus": "be deemed invalid"
+     }
+    ],
+    "collocations": [
+     "be deemed necessary",
+     "deem it appropriate"
+    ]
+   }
+  ],
+  "confusables": [
+   {
+    "word": "consider",
+    "note": "consider는 일상에서도 두루 쓰지만 deem은 공식 판단을 알릴 때만 쓰는 격식체다."
+   },
+   {
+    "word": "assume",
+    "note": "assume은 근거 없이 미리 짐작하는 것, deem은 판단해서 공식적으로 규정하는 것이다."
+   }
+  ]
+ },
+ {
+  "id": "default",
+  "headword": "default",
+  "ipa": "/dɪˈfɔːlt/",
+  "level": "ADV",
+  "isCore": false,
+  "topic": "environment_science",
+  "forms": [
+   "defaulted",
+   "defaulting",
+   "defaults"
+  ],
+  "senses": [
+   {
+    "id": "default-1",
+    "pos": "n",
+    "ko": "기본값, 초기 설정",
+    "en": "the setting a system uses when you choose nothing yourself",
+    "nuance": "IT에서 '디폴트'로 그대로 쓰지만 영어에서는 the default 또는 by default처럼 관사·전치사를 챙겨야 한다. '기본 설정'은 the default setting이다.",
+    "pattern": "by default / the default setting",
+    "examples": [
+     {
+      "en": "The report shows last month by default, so change the range.",
+      "ko": "보고서가 기본으로 지난달을 보여 주니까 기간을 바꾸세요.",
+      "focus": "by default"
+     },
+     {
+      "en": "Our team changed the default settings for all new accounts.",
+      "ko": "우리 팀이 신규 계정의 기본 설정을 전부 바꿨어요.",
+      "focus": "the default settings"
+     }
+    ],
+    "collocations": [
+     "by default",
+     "the default setting",
+     "change the default"
+    ]
+   },
+   {
+    "id": "default-2",
+    "pos": "v",
+    "ko": "채무를 못 갚다",
+    "en": "to fail to pay back a loan as you promised",
+    "nuance": "금융 뉴스에서 default on a loan 형태로 쓰며 on을 빼면 어색하다. 단순 연체는 be late on a payment이고, default는 상환 불능에 가깝다.",
+    "pattern": "default on + 대출/채무",
+    "examples": [
+     {
+      "en": "Two companies defaulted on their loans during the downturn.",
+      "ko": "경기 침체기에 두 회사가 대출을 갚지 못했어요.",
+      "focus": "defaulted on their loans"
+     }
+    ]
+   }
+  ],
+  "confusables": [
+   {
+    "word": "fault",
+    "note": "fault는 '잘못, 결함'이고 default는 '기본값' 또는 '채무 불이행'으로 뜻이 다르다."
+   }
+  ]
+ },
+ {
+  "id": "defer",
+  "headword": "defer",
+  "ipa": "/dɪˈfɜːr/",
+  "level": "ADV",
+  "isCore": false,
+  "topic": "work_business",
+  "forms": [
+   "deferred",
+   "deferring",
+   "defers"
+  ],
+  "senses": [
+   {
+    "id": "defer-1",
+    "pos": "v",
+    "ko": "미루다, 연기하다",
+    "en": "to delay something officially until a later time",
+    "nuance": "뒤 음절에 강세가 있어 r을 겹친 deferred, deferring으로 쓴다. 회의·결제·입학처럼 공식 절차를 미룰 때 쓰고, 일상의 '미루다'는 put off가 자연스럽다.",
+    "pattern": "defer + 명사 (until + 시점)",
+    "examples": [
+     {
+      "en": "Let's defer the budget discussion until the next meeting.",
+      "ko": "예산 논의는 다음 회의로 미룹시다.",
+      "focus": "defer the budget discussion"
+     },
+     {
+      "en": "She deferred her master's program for one year.",
+      "ko": "그분은 석사 과정을 1년 미뤘어요.",
+      "focus": "deferred her master's program"
+     }
+    ],
+    "collocations": [
+     "defer a decision",
+     "defer payment",
+     "deferred tax"
+    ]
+   }
+  ],
+  "confusables": [
+   {
+    "word": "postpone",
+    "note": "postpone이 더 일반적인 '연기하다'이고 defer는 계약·학업처럼 공식 절차에 쓰는 격식체다."
+   },
+   {
+    "word": "differ",
+    "note": "differ는 '다르다'라 뜻이 전혀 다르고 강세도 앞 음절에 있다."
+   }
+  ]
+ },
+ {
+  "id": "deficiency",
+  "headword": "deficiency",
+  "ipa": "/dɪˈfɪʃnsi/",
+  "level": "ADV",
+  "isCore": false,
+  "topic": "body_health",
+  "forms": [
+   "deficiencies"
+  ],
+  "senses": [
+   {
+    "id": "deficiency-1",
+    "pos": "n",
+    "ko": "결핍, 부족",
+    "en": "a lack of something your body or a system needs",
+    "nuance": "영양소·비타민이 모자란 상태에 가장 많이 쓰고 a vitamin D deficiency처럼 관사를 붙인다. 돈이 모자란 '적자'는 deficiency가 아니라 deficit이다.",
+    "pattern": "a deficiency in/of + 명사",
+    "examples": [
+     {
+      "en": "The blood test showed an iron deficiency, so she started supplements.",
+      "ko": "혈액 검사에서 철분 결핍이 나와서 영양제를 먹기 시작했어요.",
+      "focus": "an iron deficiency"
+     },
+     {
+      "en": "The audit found serious deficiencies in our safety training.",
+      "ko": "감사에서 우리 안전 교육에 심각한 미비점이 발견됐어요.",
+      "focus": "serious deficiencies in our safety training"
+     }
+    ],
+    "collocations": [
+     "a vitamin deficiency",
+     "an iron deficiency",
+     "a deficiency in training"
+    ]
+   }
+  ],
+  "confusables": [
+   {
+    "word": "deficit",
+    "note": "deficit는 예산·무역에서 수입보다 지출이 많은 '적자', deficiency는 필요한 것이 모자란 '결핍'이다."
+   },
+   {
+    "word": "efficiency",
+    "note": "efficiency는 '효율'이라 철자만 비슷할 뿐 부족하다는 뜻이 전혀 없다."
+   }
+  ]
+ },
+ {
+  "id": "degrade",
+  "headword": "degrade",
+  "ipa": "/dɪˈɡreɪd/",
+  "level": "ADV",
+  "isCore": false,
+  "topic": "environment_science",
+  "forms": [
+   "degraded",
+   "degrades",
+   "degrading"
+  ],
+  "senses": [
+   {
+    "id": "degrade-1",
+    "pos": "v",
+    "ko": "질이 나빠지다, 떨어뜨리다",
+    "en": "to make something worse in quality, or to break down slowly",
+    "nuance": "성능·환경·화질이 서서히 나빠지는 상황에 쓰며 자동사·타동사 둘 다 가능하다. degree(학위·정도)와 철자가 비슷하지만 관련이 없다.",
+    "pattern": "degrade + 명사 / 주어 + degrade",
+    "examples": [
+     {
+      "en": "Heavy traffic on the server degrades video quality quickly.",
+      "ko": "서버에 트래픽이 몰리면 영상 화질이 금방 떨어져요.",
+      "focus": "degrades video quality"
+     },
+     {
+      "en": "These plastics degrade very slowly in seawater.",
+      "ko": "이런 플라스틱은 바닷물에서 아주 천천히 분해돼요.",
+      "focus": "degrade very slowly in seawater"
+     }
+    ],
+    "collocations": [
+     "degrade performance",
+     "degrade over time"
+    ]
+   }
+  ],
+  "wordFamily": [
+   {
+    "form": "degradation",
+    "pos": "n",
+    "ko": "저하, 악화"
+   }
+  ],
+  "confusables": [
+   {
+    "word": "decay",
+    "note": "decay는 썩어 없어지는 자연적 부패, degrade는 성능·품질이 떨어지는 쪽에도 널리 쓴다."
+   },
+   {
+    "word": "degree",
+    "note": "degree는 '학위, 정도'라 철자가 비슷해도 degrade와 뜻이 전혀 다르다."
+   }
+  ]
+ },
+ {
+  "id": "delegate",
+  "headword": "delegate",
+  "ipa": "/ˈdelɪɡət/",
+  "level": "ADV",
+  "isCore": false,
+  "topic": "work_business",
+  "forms": [
+   "delegated",
+   "delegates",
+   "delegating"
+  ],
+  "senses": [
+   {
+    "id": "delegate-1",
+    "pos": "n",
+    "ko": "대표, 파견 위원",
+    "en": "someone sent to a meeting to speak for a group",
+    "nuance": "명사일 때는 끝을 /ət/으로 약하게 읽고 동사일 때는 /eɪt/로 읽는 점이 다르다. 회사 전체의 '대표이사'는 delegate가 아니라 CEO나 representative다.",
+    "pattern": "a delegate from/to + 조직",
+    "examples": [
+     {
+      "en": "Each branch sent two delegates to the annual conference.",
+      "ko": "각 지점이 연례 총회에 대표를 두 명씩 보냈어요.",
+      "focus": "sent two delegates"
+     },
+     {
+      "en": "A delegate from Busan asked about the new safety rules.",
+      "ko": "부산에서 온 대표가 새 안전 규정에 대해 물었어요.",
+      "focus": "A delegate from Busan"
+     }
+    ],
+    "collocations": [
+     "send a delegate",
+     "a delegate to the conference"
+    ]
+   },
+   {
+    "id": "delegate-2",
+    "pos": "v",
+    "ko": "위임하다, 맡기다",
+    "en": "to give part of your work or power to someone else",
+    "nuance": "동사는 /ˈdelɪɡeɪt/로 읽고 delegate A to B 형태로 쓴다. 단순히 '시키다'가 아니라 권한까지 넘긴다는 뜻이라 관리자 평가에서 자주 등장한다.",
+    "pattern": "delegate + 일 + to + 사람",
+    "examples": [
+     {
+      "en": "Good managers delegate routine tasks to their team.",
+      "ko": "좋은 관리자는 반복 업무를 팀에 위임해요.",
+      "focus": "delegate routine tasks to their team"
+     }
+    ]
+   }
+  ],
+  "confusables": [
+   {
+    "word": "delicate",
+    "note": "delicate는 '섬세한, 다루기 조심스러운'이라 철자만 비슷하고 뜻이 다르다."
+   },
+   {
+    "word": "representative",
+    "note": "representative가 더 넓은 '대표'이고 delegate는 특정 회의에 파견된 대표를 가리킨다."
+   }
+  ]
+ },
+ {
+  "id": "deliberate",
+  "headword": "deliberate",
+  "ipa": "/dɪˈlɪbərət/",
+  "level": "ADV",
+  "isCore": false,
+  "topic": "thinking_opinion",
+  "senses": [
+   {
+    "id": "deliberate-1",
+    "pos": "adj",
+    "ko": "의도적인, 고의의",
+    "en": "done on purpose after thinking, not by accident",
+    "nuance": "형용사는 끝이 /rət/이고 동사 '숙고하다'는 /reɪt/로 읽는다. 나쁜 행위에 쓰면 '고의'라는 비난이 되므로 단순히 '계획적'이라는 뜻으로 가볍게 쓰지 않는다.",
+    "pattern": "a deliberate + 명사(attempt, choice)",
+    "examples": [
+     {
+      "en": "Leaving that slide out was a deliberate choice.",
+      "ko": "그 슬라이드를 뺀 건 의도적인 선택이었어요.",
+      "focus": "a deliberate choice"
+     },
+     {
+      "en": "The report calls the delay deliberate rather than accidental.",
+      "ko": "보고서는 그 지연이 우연이 아니라 고의라고 봅니다.",
+      "focus": "the delay deliberate rather than accidental"
+     }
+    ],
+    "collocations": [
+     "a deliberate attempt",
+     "a deliberate choice",
+     "a deliberate lie"
+    ]
+   }
+  ],
+  "wordFamily": [
+   {
+    "form": "deliberately",
+    "pos": "adv",
+    "ko": "일부러, 고의로"
+   }
+  ],
+  "confusables": [
+   {
+    "word": "intentional",
+    "note": "뜻은 거의 같지만 deliberate가 '충분히 생각한 끝에'라는 어감이 조금 더 강하다."
+   },
+   {
+    "word": "accidental",
+    "note": "accidental은 우연히 벌어진 것으로 deliberate와 정반대 뜻이다."
+   }
+  ]
+ },
+ {
+  "id": "depict",
+  "headword": "depict",
+  "ipa": "/dɪˈpɪkt/",
+  "level": "ADV",
+  "isCore": false,
+  "topic": "culture_arts",
+  "forms": [
+   "depicted",
+   "depicting",
+   "depicts"
+  ],
+  "senses": [
+   {
+    "id": "depict-1",
+    "pos": "v",
+    "ko": "묘사하다, 그리다",
+    "en": "to show someone or something in a picture, film, or writing",
+    "nuance": "그림·영화·소설이 무엇을 보여 주는지 설명할 때 쓰는 격식체다. 말로 설명하는 것은 describe이고, depict는 작품이 주어가 되는 경우가 많아 be depicted as 수동형도 흔하다.",
+    "pattern": "depict + 명사 (as + 명사)",
+    "examples": [
+     {
+      "en": "The painting depicts a quiet street in old Seoul.",
+      "ko": "그 그림은 옛 서울의 조용한 거리를 묘사하고 있어요.",
+      "focus": "depicts a quiet street"
+     },
+     {
+      "en": "Early reports depicted the company as a rising star.",
+      "ko": "초기 보도는 그 회사를 떠오르는 스타로 그렸어요.",
+      "focus": "depicted the company as a rising star"
+     }
+    ],
+    "collocations": [
+     "depict a scene",
+     "be depicted as a hero"
+    ]
+   }
+  ],
+  "wordFamily": [
+   {
+    "form": "depiction",
+    "pos": "n",
+    "ko": "묘사, 서술"
+   }
+  ],
+  "confusables": [
+   {
+    "word": "describe",
+    "note": "describe는 말이나 글로 설명하는 것, depict는 주로 그림·영상이 시각적으로 보여 주는 것이다."
+   },
+   {
+    "word": "detect",
+    "note": "detect는 '찾아내다, 감지하다'라 철자가 비슷해도 묘사와 관련이 없다."
+   }
+  ]
+ },
+ {
+  "id": "depreciation",
+  "headword": "depreciation",
+  "ipa": "/dɪˌpriːʃiˈeɪʃn/",
+  "level": "ADV",
+  "isCore": false,
+  "topic": "money_shopping",
+  "forms": [
+   "depreciations"
+  ],
+  "senses": [
+   {
+    "id": "depreciation-1",
+    "pos": "n",
+    "ko": "감가상각, 가치 하락",
+    "en": "the fall in value of property, money, or equipment over time",
+    "nuance": "회계에서 자산 가치를 해마다 덜어 내는 '감가상각'을 뜻하는 불가산 명사라 보통 복수로 쓰지 않는다. 기분이 우울한 depression과 발음·철자가 비슷하니 구별한다.",
+    "pattern": "depreciation of + 자산",
+    "examples": [
+     {
+      "en": "Depreciation of our delivery vans reduced this year's profit.",
+      "ko": "배송 차량 감가상각 때문에 올해 이익이 줄었어요.",
+      "focus": "Depreciation of our delivery vans"
+     },
+     {
+      "en": "The report separates depreciation from ordinary running costs.",
+      "ko": "보고서는 감가상각을 일반 운영비와 분리해서 보여 줘요.",
+      "focus": "separates depreciation from ordinary running costs"
+     }
+    ],
+    "collocations": [
+     "annual depreciation",
+     "currency depreciation"
+    ]
+   }
+  ],
+  "wordFamily": [
+   {
+    "form": "depreciate",
+    "pos": "v",
+    "ko": "가치가 떨어지다"
+   }
+  ],
+  "confusables": [
+   {
+    "word": "depression",
+    "note": "depression은 우울감이나 경기 침체이고 depreciation은 자산 가치가 줄어드는 것이다."
+   },
+   {
+    "word": "discount",
+    "note": "discount는 판매가를 깎아 주는 할인, depreciation은 시간이 지나 가치가 저절로 떨어지는 것이다."
+   }
+  ]
+ },
+ {
+  "id": "deprive",
+  "headword": "deprive",
+  "ipa": "/dɪˈpraɪv/",
+  "level": "ADV",
+  "isCore": false,
+  "topic": "society_politics",
+  "forms": [
+   "deprived",
+   "deprives",
+   "depriving"
+  ],
+  "senses": [
+   {
+    "id": "deprive-1",
+    "pos": "v",
+    "ko": "빼앗다, 못 누리게 하다",
+    "en": "to stop someone from having something they need",
+    "nuance": "반드시 deprive A of B 형태로 쓰고 from을 쓰면 틀린다. 수동형 be deprived of와 형용사처럼 쓰는 sleep-deprived도 함께 익힌다.",
+    "pattern": "deprive + 사람 + of + 명사",
+    "examples": [
+     {
+      "en": "Long shifts deprive workers of enough rest between days.",
+      "ko": "긴 교대 근무는 근로자에게서 충분한 휴식을 빼앗아요.",
+      "focus": "deprive workers of enough rest"
+     },
+     {
+      "en": "Half the team looked completely sleep deprived this morning.",
+      "ko": "오늘 아침 팀 절반이 완전히 잠이 부족해 보였어.",
+      "focus": "completely sleep deprived"
+     }
+    ],
+    "collocations": [
+     "deprive someone of sleep",
+     "be deprived of rights"
+    ]
+   }
+  ],
+  "wordFamily": [
+   {
+    "form": "deprivation",
+    "pos": "n",
+    "ko": "박탈, 결핍"
+   }
+  ],
+  "confusables": [
+   {
+    "word": "derive",
+    "note": "derive는 '얻어 내다, 유래하다'로 오히려 반대 방향이고 deprive는 빼앗는 쪽이다."
+   },
+   {
+    "word": "rob",
+    "note": "rob은 범죄로 훔치는 행위, deprive는 필요한 것을 누리지 못하게 막는 넓은 뜻이다."
+   }
+  ]
+ },
+ {
+  "id": "deputy",
+  "headword": "deputy",
+  "ipa": "/ˈdepjuti/",
+  "level": "ADV",
+  "isCore": false,
+  "topic": "work_business",
+  "forms": [
+   "deputies"
+  ],
+  "senses": [
+   {
+    "id": "deputy-1",
+    "pos": "n",
+    "ko": "부(副)책임자, 대리",
+    "en": "the second most senior person, who acts for the leader",
+    "nuance": "직함 앞에 붙여 deputy manager, deputy mayor처럼 관사 없이 쓰는 경우가 많다. 잠시 대신 일하는 사람은 substitute이고 deputy는 상시 직책이다.",
+    "pattern": "deputy + 직함",
+    "examples": [
+     {
+      "en": "Our deputy director will run the meeting this Thursday.",
+      "ko": "이번 목요일 회의는 부국장님이 진행하실 거예요.",
+      "focus": "Our deputy director"
+     },
+     {
+      "en": "Two deputies signed the contract while the president traveled.",
+      "ko": "사장이 출장 간 동안 부대표 두 명이 계약서에 서명했어요.",
+      "focus": "Two deputies signed the contract"
+     }
+    ],
+    "collocations": [
+     "a deputy director",
+     "a deputy manager"
+    ]
+   }
+  ],
+  "confusables": [
+   {
+    "word": "assistant",
+    "note": "assistant는 일을 돕는 보조, deputy는 상사가 없을 때 대신 결정하는 2인자다."
+   },
+   {
+    "word": "vice",
+    "note": "vice는 vice president처럼 붙여 쓰는 접두사이고 deputy는 단독 명사로도 쓴다."
+   }
+  ]
+ },
+ {
+  "id": "designate",
+  "headword": "designate",
+  "ipa": "/ˈdezɪɡneɪt/",
+  "level": "ADV",
+  "isCore": false,
+  "topic": "work_business",
+  "forms": [
+   "designated",
+   "designates",
+   "designating"
+  ],
+  "senses": [
+   {
+    "id": "designate-1",
+    "pos": "v",
+    "ko": "지정하다, 임명하다",
+    "en": "to choose someone or something officially for a purpose",
+    "nuance": "design(디자인하다)과 달리 g를 발음하고 '데지그네이트'에 가깝다. 공지·규정에서 be designated as 수동형으로 자주 나오며 일상에서는 choose를 쓴다.",
+    "pattern": "designate + 대상 + as + 명사",
+    "examples": [
+     {
+      "en": "The company designated the fifth floor as a quiet zone.",
+      "ko": "회사가 5층을 조용한 구역으로 지정했어요.",
+      "focus": "designated the fifth floor as a quiet zone"
+     },
+     {
+      "en": "Please park only in the designated visitor spaces.",
+      "ko": "지정된 방문객 주차 구역에만 주차해 주세요.",
+      "focus": "the designated visitor spaces"
+     }
+    ],
+    "collocations": [
+     "a designated area",
+     "designate someone as a leader"
+    ]
+   }
+  ],
+  "confusables": [
+   {
+    "word": "design",
+    "note": "design은 모양을 만드는 것이고 designate는 용도·사람을 공식적으로 정하는 것이다."
+   },
+   {
+    "word": "appoint",
+    "note": "appoint는 사람을 자리에 앉히는 데 주로 쓰고 designate는 장소·용도에도 널리 쓴다."
+   }
+  ]
+ },
+ {
+  "id": "diabetes",
+  "headword": "diabetes",
+  "ipa": "/ˌdaɪəˈbiːtiːz/",
+  "level": "ADV",
+  "isCore": false,
+  "topic": "body_health",
+  "senses": [
+   {
+    "id": "diabetes-1",
+    "pos": "n",
+    "ko": "당뇨병",
+    "en": "an illness in which the body cannot control blood sugar",
+    "nuance": "s로 끝나지만 불가산 단수 취급이라 a diabetes나 diabeteses라고 하지 않는다. '당뇨가 있다'는 have diabetes이고 앞에 관사를 붙이지 않는다.",
+    "pattern": "have/develop + diabetes",
+    "examples": [
+     {
+      "en": "My father has type two diabetes and checks his sugar daily.",
+      "ko": "아버지는 2형 당뇨가 있어서 매일 혈당을 재세요.",
+      "focus": "has type two diabetes"
+     },
+     {
+      "en": "Regular walking lowers the risk of developing diabetes.",
+      "ko": "규칙적으로 걸으면 당뇨에 걸릴 위험이 낮아져요.",
+      "focus": "the risk of developing diabetes"
+     }
+    ],
+    "collocations": [
+     "have diabetes",
+     "type two diabetes"
+    ]
+   }
+  ],
+  "wordFamily": [
+   {
+    "form": "diabetic",
+    "pos": "adj",
+    "ko": "당뇨의, 당뇨 환자의"
+   }
+  ],
+  "confusables": [
+   {
+    "word": "diameter",
+    "note": "diameter는 원의 '지름'이라 앞부분만 비슷할 뿐 질병과 아무 관련이 없다."
+   }
+  ]
+ },
+ {
+  "id": "diagram",
+  "headword": "diagram",
+  "ipa": "/ˈdaɪəɡræm/",
+  "level": "ADV",
+  "isCore": false,
+  "topic": "academic",
+  "forms": [
+   "diagrams"
+  ],
+  "senses": [
+   {
+    "id": "diagram-1",
+    "pos": "n",
+    "ko": "도표, 도해",
+    "en": "a simple drawing that explains how something works",
+    "nuance": "구조·흐름을 선과 도형으로 설명한 그림이라 숫자 그래프인 graph나 chart와 구별한다. 발표에서 '이 도표를 보세요'는 Look at this diagram이다.",
+    "pattern": "a diagram of/showing + 명사",
+    "examples": [
+     {
+      "en": "This diagram shows how the payment system works.",
+      "ko": "이 도표는 결제 시스템이 어떻게 돌아가는지 보여 줍니다.",
+      "focus": "This diagram shows"
+     },
+     {
+      "en": "Emma redrew the diagrams so the slides looked cleaner.",
+      "ko": "엠마가 도표들을 다시 그려서 슬라이드가 더 깔끔해졌어요.",
+      "focus": "redrew the diagrams"
+     }
+    ],
+    "collocations": [
+     "a diagram of the process",
+     "draw a diagram"
+    ]
+   }
+  ],
+  "confusables": [
+   {
+    "word": "graph",
+    "note": "graph는 수치의 변화를 선·막대로 나타낸 것, diagram은 구조나 작동 방식을 설명하는 그림이다."
+   }
+  ]
+ },
+ {
+  "id": "diameter",
+  "headword": "diameter",
+  "ipa": "/daɪˈæmɪtər/",
+  "level": "ADV",
+  "isCore": false,
+  "topic": "academic",
+  "forms": [
+   "diameters"
+  ],
+  "senses": [
+   {
+    "id": "diameter-1",
+    "pos": "n",
+    "ko": "지름, 직경",
+    "en": "the length of a straight line across a circle through its center",
+    "nuance": "강세가 두 번째 음절 /ˈæ/에 있어 '다이애미터'에 가깝다. 크기를 말할 때 20 cm in diameter처럼 in을 붙이는 형태를 통째로 외운다.",
+    "pattern": "숫자 + in diameter",
+    "examples": [
+     {
+      "en": "The pipe is about ten centimeters in diameter.",
+      "ko": "그 파이프는 지름이 약 10센티미터예요.",
+      "focus": "ten centimeters in diameter"
+     },
+     {
+      "en": "Measure the diameter before you order replacement parts.",
+      "ko": "교체 부품을 주문하기 전에 지름을 재세요.",
+      "focus": "Measure the diameter"
+     }
+    ],
+    "collocations": [
+     "in diameter",
+     "measure the diameter"
+    ]
+   }
+  ],
+  "confusables": [
+   {
+    "word": "radius",
+    "note": "radius는 중심에서 가장자리까지의 반지름이고 diameter는 그 두 배인 지름이다."
+   },
+   {
+    "word": "diabetes",
+    "note": "앞 글자만 같을 뿐 diabetes는 당뇨병이라는 질병 이름이다."
+   }
+  ]
+ },
+ {
+  "id": "dictate",
+  "headword": "dictate",
+  "ipa": "/ˈdɪkteɪt/",
+  "level": "ADV",
+  "isCore": false,
+  "topic": "communication",
+  "forms": [
+   "dictated",
+   "dictates",
+   "dictating"
+  ],
+  "senses": [
+   {
+    "id": "dictate-1",
+    "pos": "v",
+    "ko": "좌우하다, 정해 버리다",
+    "en": "to control how something must happen, leaving no choice",
+    "nuance": "사람뿐 아니라 예산·규정·날씨처럼 사물이 주어가 되어 '결정해 버리다'로 자주 쓴다. 사람이 주어면 명령조라 강압적으로 들리니 decide와 어감이 다르다.",
+    "pattern": "dictate + 명사 / dictate what절",
+    "examples": [
+     {
+      "en": "The budget dictates how many people we can hire.",
+      "ko": "예산이 우리가 몇 명을 뽑을 수 있는지를 좌우해요.",
+      "focus": "budget dictates how many people"
+     },
+     {
+      "en": "He dictated the whole letter while driving to Busan.",
+      "ko": "그는 부산으로 운전해 가면서 편지 전체를 불러 줬어요.",
+      "focus": "dictated the whole letter"
+     }
+    ],
+    "collocations": [
+     "dictate the terms",
+     "dictate a letter"
+    ]
+   }
+  ],
+  "wordFamily": [
+   {
+    "form": "dictation",
+    "pos": "n",
+    "ko": "받아쓰기, 구술"
+   }
+  ],
+  "confusables": [
+   {
+    "word": "decide",
+    "note": "decide는 선택지를 놓고 고르는 것, dictate는 다른 선택을 못 하게 정해 버리는 것이다."
+   },
+   {
+    "word": "direct",
+    "note": "direct는 방향을 안내하거나 지휘하는 것이고 dictate는 조건 자체를 강제하는 쪽이다."
+   }
+  ]
+ }
+]

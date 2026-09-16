@@ -205,6 +205,9 @@
     "word": "most",
     "note": "most는 일상 대화에서 두루 쓰고, the bulk of는 보고서·업무 대화에서 '압도적 다수'를 강조할 때 쓴다."
    }
+  ],
+  "forms": [
+   "bulks"
   ]
  },
  {
@@ -1614,6 +1617,1498 @@
    {
     "word": "compose",
     "note": "compose는 곡이나 글을 창작하는 것, compile은 이미 있는 자료를 모으는 것이다."
+   }
+  ]
+ },
+ {
+  "id": "completion",
+  "headword": "completion",
+  "ipa": "/kəmˈpliːʃn/",
+  "level": "ADV",
+  "isCore": false,
+  "topic": "work_business",
+  "senses": [
+   {
+    "id": "completion-1",
+    "pos": "n",
+    "ko": "완료, 완성",
+    "en": "the act of finishing something, or the state of being finished",
+    "nuance": "공사·과정이 끝나는 시점을 가리키는 불가산 명사로 보통 the completion of + 명사로 쓴다. '완료했다'는 completion을 쓰지 말고 We completed it이라고 동사로 말하는 게 자연스럽다.",
+    "pattern": "on/upon completion of + 명사",
+    "examples": [
+     {
+      "en": "You'll get the certificate on completion of the course.",
+      "ko": "과정을 다 마치면 수료증을 받게 됩니다.",
+      "focus": "on completion of the course"
+     },
+     {
+      "en": "The completion of the new line was delayed by six months.",
+      "ko": "새 노선 완공이 6개월 미뤄졌어요.",
+      "focus": "The completion of the new line"
+     }
+    ],
+    "collocations": [
+     "on completion of",
+     "near completion"
+    ]
+   }
+  ],
+  "wordFamily": [
+   {
+    "form": "complete",
+    "pos": "v",
+    "ko": "완료하다"
+   },
+   {
+    "form": "completely",
+    "pos": "adv",
+    "ko": "완전히"
+   }
+  ],
+  "confusables": [
+   {
+    "word": "conclusion",
+    "note": "conclusion은 이야기·회의가 끝나며 내리는 결론, completion은 일이 다 끝났다는 완료 자체다."
+   }
+  ],
+  "forms": [
+   "completions"
+  ]
+ },
+ {
+  "id": "compliance",
+  "headword": "compliance",
+  "ipa": "/kəmˈplaɪəns/",
+  "level": "ADV",
+  "isCore": false,
+  "topic": "work_business",
+  "senses": [
+   {
+    "id": "compliance-1",
+    "pos": "n",
+    "ko": "준수, 규정 이행",
+    "en": "the act of obeying a rule, law, or official order",
+    "nuance": "규정을 지키는 상태를 뜻하는 불가산 명사라 a compliance, compliances라고 쓰지 않는다. '규정 준수'를 keep the rule로 직역하지 말고 in compliance with the rules라고 한다.",
+    "pattern": "in compliance with + 명사",
+    "examples": [
+     {
+      "en": "Our factory is in full compliance with the safety rules.",
+      "ko": "저희 공장은 안전 규정을 전부 준수하고 있습니다.",
+      "focus": "in full compliance with the safety rules"
+     },
+     {
+      "en": "The compliance team reviews every contract before we sign.",
+      "ko": "준법 담당 팀이 계약서를 다 검토한 뒤에 서명해요.",
+      "focus": "The compliance team reviews every contract"
+     }
+    ],
+    "collocations": [
+     "in compliance with",
+     "ensure compliance"
+    ]
+   }
+  ],
+  "wordFamily": [
+   {
+    "form": "comply",
+    "pos": "v",
+    "ko": "준수하다, 따르다"
+   }
+  ],
+  "confusables": [
+   {
+    "word": "obedience",
+    "note": "obedience는 사람 말을 따르는 복종, compliance는 규정·법을 지키는 업무적 준수다."
+   }
+  ]
+ },
+ {
+  "id": "composer",
+  "headword": "composer",
+  "ipa": "/kəmˈpoʊzər/",
+  "level": "ADV",
+  "isCore": false,
+  "topic": "culture_arts",
+  "forms": [
+   "composers"
+  ],
+  "senses": [
+   {
+    "id": "composer-1",
+    "pos": "n",
+    "ko": "작곡가",
+    "en": "a person who writes music",
+    "nuance": "클래식·영화 음악처럼 악보를 쓰는 사람을 가리킨다. 가요를 만드는 사람은 보통 songwriter라고 하고, 노래를 부르는 사람은 singer다.",
+    "pattern": "a composer of + 장르",
+    "examples": [
+     {
+      "en": "My favorite film composer also writes music for video games.",
+      "ko": "내가 제일 좋아하는 영화 음악 작곡가는 게임 음악도 만들어.",
+      "focus": "My favorite film composer"
+     },
+     {
+      "en": "Several young composers performed their own works last night.",
+      "ko": "어젯밤에 젊은 작곡가 몇 명이 자기 곡을 직접 연주했어요.",
+      "focus": "Several young composers performed"
+     }
+    ],
+    "collocations": [
+     "a film composer",
+     "a classical composer"
+    ]
+   }
+  ],
+  "wordFamily": [
+   {
+    "form": "compose",
+    "pos": "v",
+    "ko": "작곡하다"
+   },
+   {
+    "form": "composition",
+    "pos": "n",
+    "ko": "작품, 작곡"
+   }
+  ],
+  "confusables": [
+   {
+    "word": "conductor",
+    "note": "conductor는 오케스트라를 지휘하는 사람, composer는 그 곡을 만든 사람이다."
+   }
+  ]
+ },
+ {
+  "id": "compulsory",
+  "headword": "compulsory",
+  "ipa": "/kəmˈpʌlsəri/",
+  "level": "ADV",
+  "isCore": false,
+  "topic": "school_learning",
+  "senses": [
+   {
+    "id": "compulsory-1",
+    "pos": "adj",
+    "ko": "의무적인, 필수의",
+    "en": "required by a rule or law, not a matter of choice",
+    "nuance": "법이나 학교 규정이 강제할 때 쓰며 반대말은 optional이다. 미국식 대화에서는 mandatory나 required가 더 흔하고, compulsory는 교육·병역 같은 제도 이야기에 잘 어울린다.",
+    "pattern": "be compulsory for + 사람",
+    "examples": [
+     {
+      "en": "Wearing a helmet is compulsory for everyone on the site.",
+      "ko": "현장에서는 모두 헬멧 착용이 의무입니다.",
+      "focus": "is compulsory for everyone"
+     },
+     {
+      "en": "English became a compulsory subject in our third year.",
+      "ko": "우리 때는 3학년부터 영어가 필수 과목이 됐어요.",
+      "focus": "a compulsory subject"
+     }
+    ],
+    "collocations": [
+     "compulsory education",
+     "a compulsory subject"
+    ]
+   }
+  ],
+  "confusables": [
+   {
+    "word": "optional",
+    "note": "optional은 골라서 해도 되는 선택 사항, compulsory는 규정상 반드시 해야 하는 것이다."
+   },
+   {
+    "word": "necessary",
+    "note": "necessary는 목적을 이루려면 필요하다는 뜻이고, compulsory는 규칙이 강제한다는 뜻이다."
+   }
+  ]
+ },
+ {
+  "id": "con",
+  "headword": "con",
+  "ipa": "/kɑːn/",
+  "level": "ADV",
+  "isCore": false,
+  "topic": "thinking_opinion",
+  "forms": [
+   "cons"
+  ],
+  "senses": [
+   {
+    "id": "con-1",
+    "pos": "n",
+    "ko": "단점, 반대 이유",
+    "en": "a reason against something, usually said with its opposite",
+    "nuance": "거의 언제나 pros and cons처럼 복수로 짝지어 쓰고, 단독으로 a con이라고는 잘 쓰지 않는다. 단점 하나를 말할 때는 a downside나 a drawback이 자연스럽다.",
+    "pattern": "the pros and cons of + 명사",
+    "examples": [
+     {
+      "en": "Let's list the pros and cons before we decide anything.",
+      "ko": "결정하기 전에 장단점부터 정리해 보자.",
+      "focus": "the pros and cons"
+     },
+     {
+      "en": "The main cons are the price and the long commute.",
+      "ko": "주요 단점은 가격이랑 긴 통근 시간이야.",
+      "focus": "The main cons are the price"
+     }
+    ],
+    "collocations": [
+     "pros and cons",
+     "the cons of"
+    ]
+   }
+  ],
+  "confusables": [
+   {
+    "word": "disadvantage",
+    "note": "disadvantage는 혼자서도 쓰는 표준어, con은 pros and cons 짝으로 쓰는 가벼운 말이다."
+   }
+  ]
+ },
+ {
+  "id": "conceive",
+  "headword": "conceive",
+  "ipa": "/kənˈsiːv/",
+  "level": "ADV",
+  "isCore": false,
+  "topic": "thinking_opinion",
+  "forms": [
+   "conceived",
+   "conceives",
+   "conceiving"
+  ],
+  "senses": [
+   {
+    "id": "conceive-1",
+    "pos": "v",
+    "ko": "생각해 내다, 상상하다",
+    "en": "to think of a new plan or idea, or to imagine something",
+    "nuance": "계획·작품을 처음 머리에 떠올릴 때 쓰는 격식체다. '상상이 안 된다'는 뜻으로는 can't conceive of + 명사처럼 of를 붙여 쓴다.",
+    "pattern": "conceive + 명사 / conceive of + 명사",
+    "examples": [
+     {
+      "en": "The festival was first conceived by two students in Busan.",
+      "ko": "그 축제는 부산의 학생 두 명이 처음 구상한 거예요.",
+      "focus": "was first conceived by two students"
+     },
+     {
+      "en": "I can't conceive of living without my phone now.",
+      "ko": "이제는 폰 없이 사는 게 상상이 안 돼.",
+      "focus": "can't conceive of living"
+     }
+    ],
+    "collocations": [
+     "conceive an idea",
+     "conceive of a plan"
+    ]
+   }
+  ],
+  "wordFamily": [
+   {
+    "form": "concept",
+    "pos": "n",
+    "ko": "개념"
+   },
+   {
+    "form": "conception",
+    "pos": "n",
+    "ko": "구상, 개념"
+   }
+  ],
+  "confusables": [
+   {
+    "word": "perceive",
+    "note": "perceive는 눈앞의 것을 알아차리는 것, conceive는 없던 생각을 새로 떠올리는 것이다."
+   }
+  ]
+ },
+ {
+  "id": "condemn",
+  "headword": "condemn",
+  "ipa": "/kənˈdem/",
+  "level": "ADV",
+  "isCore": false,
+  "topic": "society_politics",
+  "forms": [
+   "condemned",
+   "condemning",
+   "condemns"
+  ],
+  "senses": [
+   {
+    "id": "condemn-1",
+    "pos": "v",
+    "ko": "비난하다, 규탄하다",
+    "en": "to say publicly that something is very wrong or bad",
+    "nuance": "정부·단체가 공개적으로 강하게 규탄할 때 쓰는 격식체라 친구 흉보기에는 쓰지 않는다. 끝의 n은 소리 내지 않아 /kənˈdem/으로 읽는다.",
+    "pattern": "condemn + 명사 + as + 형용사",
+    "examples": [
+     {
+      "en": "Both governments condemned the attack within a few hours.",
+      "ko": "양국 정부가 몇 시간 만에 그 공격을 규탄했습니다.",
+      "focus": "condemned the attack"
+     },
+     {
+      "en": "The report condemns the company's safety record as poor.",
+      "ko": "그 보고서는 회사의 안전 실적을 형편없다고 비판합니다.",
+      "focus": "condemns the company's safety record"
+     }
+    ],
+    "collocations": [
+     "strongly condemn",
+     "condemn an attack"
+    ]
+   }
+  ],
+  "wordFamily": [
+   {
+    "form": "condemnation",
+    "pos": "n",
+    "ko": "규탄, 비난"
+   }
+  ],
+  "confusables": [
+   {
+    "word": "criticize",
+    "note": "criticize는 일상적인 비판, condemn은 공개적으로 강하게 잘못됐다고 선언하는 규탄이다."
+   },
+   {
+    "word": "blame",
+    "note": "blame은 누구 탓인지 지목하는 것, condemn은 그 행위가 나쁘다고 공개적으로 말하는 것이다."
+   }
+  ]
+ },
+ {
+  "id": "confer",
+  "headword": "confer",
+  "ipa": "/kənˈfɜːr/",
+  "level": "ADV",
+  "isCore": false,
+  "topic": "communication",
+  "forms": [
+   "conferred",
+   "conferring",
+   "confers"
+  ],
+  "senses": [
+   {
+    "id": "confer-1",
+    "pos": "v",
+    "ko": "협의하다, 상의하다",
+    "en": "to talk with other people before making a decision",
+    "nuance": "결정 전에 잠깐 의논한다는 격식체로 confer with + 사람 형태다. 강세가 뒤에 있어 r을 겹쳐 conferred, conferring으로 쓰며 confered는 틀린 철자다.",
+    "pattern": "confer with + 사람",
+    "examples": [
+     {
+      "en": "Give me a minute to confer with my manager about this.",
+      "ko": "이건 잠깐 팀장님과 상의할 시간을 좀 주세요.",
+      "focus": "confer with my manager"
+     },
+     {
+      "en": "The judges conferred quietly before announcing the winner.",
+      "ko": "심사위원들은 우승자를 발표하기 전에 조용히 의논했어요.",
+      "focus": "conferred quietly"
+     }
+    ],
+    "collocations": [
+     "confer with a colleague",
+     "confer on a decision"
+    ]
+   }
+  ],
+  "wordFamily": [
+   {
+    "form": "conference",
+    "pos": "n",
+    "ko": "회의, 학회"
+   }
+  ],
+  "confusables": [
+   {
+    "word": "discuss",
+    "note": "discuss는 주제를 놓고 편하게 이야기하는 일반어, confer는 결정 전에 잠깐 의논하는 격식체다."
+   }
+  ]
+ },
+ {
+  "id": "consensus",
+  "headword": "consensus",
+  "ipa": "/kənˈsensəs/",
+  "level": "ADV",
+  "isCore": false,
+  "topic": "thinking_opinion",
+  "senses": [
+   {
+    "id": "consensus-1",
+    "pos": "n",
+    "ko": "합의, 중론",
+    "en": "an opinion that almost everyone in a group agrees with",
+    "nuance": "모두가 대체로 같은 생각이라는 상태를 뜻하며 보통 a consensus나 the consensus로 쓰고 복수로는 쓰지 않는다. 문서로 맺은 '합의서'는 consensus가 아니라 an agreement다.",
+    "pattern": "reach a consensus on + 명사",
+    "examples": [
+     {
+      "en": "We finally reached a consensus on the launch date.",
+      "ko": "우리는 마침내 출시 날짜에 합의했습니다.",
+      "focus": "reached a consensus on the launch date"
+     },
+     {
+      "en": "There's no consensus yet about who should lead it.",
+      "ko": "누가 이걸 맡을지는 아직 의견이 모이지 않았어요.",
+      "focus": "no consensus yet"
+     }
+    ],
+    "collocations": [
+     "reach a consensus",
+     "a general consensus"
+    ]
+   }
+  ],
+  "confusables": [
+   {
+    "word": "agreement",
+    "note": "agreement는 둘 사이의 약속이나 계약도 되지만, consensus는 집단 전체의 의견이 모인 상태다."
+   }
+  ]
+ },
+ {
+  "id": "consent",
+  "headword": "consent",
+  "ipa": "/kənˈsent/",
+  "level": "ADV",
+  "isCore": false,
+  "topic": "society_politics",
+  "senses": [
+   {
+    "id": "consent-1",
+    "pos": "n",
+    "ko": "동의, 허락",
+    "en": "official permission for something to happen",
+    "nuance": "서류·법에서 쓰는 공식 허락이라 불가산이고 a consent라고 하지 않는다. 의견에 찬성한다는 뜻의 '동의'는 consent가 아니라 agreement다.",
+    "pattern": "give/without consent",
+    "examples": [
+     {
+      "en": "We can't share your data without your written consent.",
+      "ko": "서면 동의 없이는 고객님 정보를 제공할 수 없습니다.",
+      "focus": "without your written consent"
+     },
+     {
+      "en": "The patient gave consent before the operation began.",
+      "ko": "환자는 수술 시작 전에 동의서를 작성했습니다.",
+      "focus": "gave consent"
+     }
+    ],
+    "collocations": [
+     "give consent",
+     "written consent",
+     "without consent"
+    ]
+   }
+  ],
+  "confusables": [
+   {
+    "word": "agreement",
+    "note": "agreement는 의견이 같다는 뜻도 되지만, consent는 '해도 좋다'는 공식 허락에만 쓴다."
+   },
+   {
+    "word": "permission",
+    "note": "permission은 윗사람이 내리는 허가, consent는 당사자가 자기 일에 대해 주는 동의다."
+   }
+  ],
+  "forms": [
+   "consents"
+  ]
+ },
+ {
+  "id": "conservation",
+  "headword": "conservation",
+  "ipa": "/ˌkɑːnsərˈveɪʃn/",
+  "level": "ADV",
+  "isCore": false,
+  "topic": "environment_science",
+  "senses": [
+   {
+    "id": "conservation-1",
+    "pos": "n",
+    "ko": "보호, 보존",
+    "en": "the work of protecting nature, energy, or old buildings",
+    "nuance": "자연·자원을 지키는 활동을 뜻하는 불가산 명사라 conservations라고 쓰지 않는다. 정치 성향인 '보수'는 conservation이 아니라 conservatism이다.",
+    "pattern": "wildlife/energy conservation",
+    "examples": [
+     {
+      "en": "She works in wildlife conservation on an island near Busan.",
+      "ko": "그분은 부산 근처 섬에서 야생동물 보호 일을 해요.",
+      "focus": "works in wildlife conservation"
+     },
+     {
+      "en": "Energy conservation saved the building a lot of money.",
+      "ko": "에너지 절약으로 그 건물은 돈을 많이 아꼈어요.",
+      "focus": "Energy conservation saved the building"
+     }
+    ],
+    "collocations": [
+     "wildlife conservation",
+     "energy conservation"
+    ]
+   }
+  ],
+  "wordFamily": [
+   {
+    "form": "conserve",
+    "pos": "v",
+    "ko": "아끼다, 보존하다"
+   }
+  ],
+  "confusables": [
+   {
+    "word": "preservation",
+    "note": "preservation은 지금 모습 그대로 지키는 것, conservation은 아껴 쓰며 오래 유지하는 쪽에 가깝다."
+   },
+   {
+    "word": "conversation",
+    "note": "철자 순서만 다른 conversation은 '대화'라 뜻이 전혀 다르니 주의한다."
+   }
+  ]
+ },
+ {
+  "id": "conserve",
+  "headword": "conserve",
+  "ipa": "/kənˈsɜːrv/",
+  "level": "ADV",
+  "isCore": false,
+  "topic": "environment_science",
+  "forms": [
+   "conserved",
+   "conserves",
+   "conserving"
+  ],
+  "senses": [
+   {
+    "id": "conserve-1",
+    "pos": "v",
+    "ko": "아껴 쓰다, 보존하다",
+    "en": "to use something carefully so it lasts longer",
+    "nuance": "물·에너지·체력을 낭비하지 않고 아낄 때 쓴다. 돈을 모으는 건 conserve가 아니라 save이며, conserve는 자원·자연에 주로 쓴다.",
+    "pattern": "conserve + 자원",
+    "examples": [
+     {
+      "en": "Turn the heater down to conserve energy at night.",
+      "ko": "밤에는 히터를 낮춰서 에너지를 아껴 쓰세요.",
+      "focus": "conserve energy at night"
+     },
+     {
+      "en": "Walk slowly and conserve your strength for the last hill.",
+      "ko": "천천히 걸으면서 마지막 언덕에 쓸 힘을 아껴 둬.",
+      "focus": "conserve your strength"
+     }
+    ],
+    "collocations": [
+     "conserve energy",
+     "conserve water"
+    ]
+   }
+  ],
+  "wordFamily": [
+   {
+    "form": "conservation",
+    "pos": "n",
+    "ko": "보호, 절약"
+   }
+  ],
+  "confusables": [
+   {
+    "word": "save",
+    "note": "save는 돈·시간까지 두루 쓰는 일상어, conserve는 자원·자연·체력을 아껴 쓴다는 뜻이다."
+   }
+  ]
+ },
+ {
+  "id": "consolidate",
+  "headword": "consolidate",
+  "ipa": "/kənˈsɑːlɪdeɪt/",
+  "level": "ADV",
+  "isCore": false,
+  "topic": "work_business",
+  "forms": [
+   "consolidated",
+   "consolidates",
+   "consolidating"
+  ],
+  "senses": [
+   {
+    "id": "consolidate-1",
+    "pos": "v",
+    "ko": "통합하다, 합치다",
+    "en": "to join several things into one stronger whole",
+    "nuance": "흩어진 부서·대출·파일을 하나로 묶을 때 쓰는 비즈니스 어휘다. 두 회사가 합쳐지는 건 merge, 서류 여러 개를 하나로 모으는 건 consolidate가 자연스럽다.",
+    "pattern": "consolidate + 명사 + into + 명사",
+    "examples": [
+     {
+      "en": "We consolidated three reports into one for the board.",
+      "ko": "이사회용으로 보고서 세 개를 하나로 합쳤어요.",
+      "focus": "consolidated three reports into one"
+     },
+     {
+      "en": "The team consolidated its lead in the final minutes.",
+      "ko": "그 팀은 마지막 몇 분 동안 리드를 굳혔어요.",
+      "focus": "consolidated its lead"
+     }
+    ],
+    "collocations": [
+     "consolidate debt",
+     "consolidate a position"
+    ]
+   }
+  ],
+  "wordFamily": [
+   {
+    "form": "consolidation",
+    "pos": "n",
+    "ko": "통합, 합병"
+   }
+  ],
+  "confusables": [
+   {
+    "word": "combine",
+    "note": "combine은 그냥 둘 이상을 섞는 것, consolidate는 합쳐서 더 단단하고 효율적으로 만드는 것이다."
+   }
+  ]
+ },
+ {
+  "id": "consonant",
+  "headword": "consonant",
+  "ipa": "/ˈkɑːnsənənt/",
+  "level": "ADV",
+  "isCore": false,
+  "topic": "communication",
+  "forms": [
+   "consonants"
+  ],
+  "senses": [
+   {
+    "id": "consonant-1",
+    "pos": "n",
+    "ko": "자음",
+    "en": "a speech sound made by blocking air, like b, k, or s",
+    "nuance": "소리 하나하나를 세는 가산 명사다. 한국인은 영어 끝자음 뒤에 '으' 모음을 붙이기 쉬운데, 자음으로 끝나는 단어는 그대로 끊어 발음해야 한다.",
+    "pattern": "end with a consonant",
+    "examples": [
+     {
+      "en": "Try not to add a vowel after the final consonant.",
+      "ko": "마지막 자음 뒤에 모음을 붙이지 않도록 해 보세요.",
+      "focus": "after the final consonant"
+     },
+     {
+      "en": "English has far more consonants than most people expect.",
+      "ko": "영어에는 대부분이 생각하는 것보다 자음이 훨씬 많아요.",
+      "focus": "far more consonants"
+     }
+    ],
+    "collocations": [
+     "a final consonant",
+     "a silent consonant"
+    ]
+   }
+  ],
+  "confusables": [
+   {
+    "word": "vowel",
+    "note": "vowel은 a, e, i, o, u 같은 모음이고, consonant는 공기를 막아 내는 자음이다."
+   },
+   {
+    "word": "constant",
+    "note": "철자가 비슷한 constant는 '끊임없는'이라는 형용사라 뜻이 전혀 다르다."
+   }
+  ]
+ },
+ {
+  "id": "constitution",
+  "headword": "constitution",
+  "ipa": "/ˌkɑːnstəˈtuːʃn/",
+  "level": "ADV",
+  "isCore": false,
+  "topic": "society_politics",
+  "forms": [
+   "constitutions"
+  ],
+  "senses": [
+   {
+    "id": "constitution-1",
+    "pos": "n",
+    "ko": "헌법",
+    "en": "the set of basic laws that says how a country is governed",
+    "nuance": "나라마다 하나뿐이라 보통 the Constitution처럼 the를 붙여 쓴다. 일반 법률은 constitution이 아니라 a law이며, 헌법 조항 하나는 an article이다.",
+    "pattern": "under the constitution",
+    "examples": [
+     {
+      "en": "Free speech is protected under the Constitution.",
+      "ko": "표현의 자유는 헌법으로 보호받습니다.",
+      "focus": "under the Constitution"
+     },
+     {
+      "en": "Changing the constitution takes years and a national vote.",
+      "ko": "헌법을 바꾸려면 몇 년이 걸리고 국민투표도 필요해요.",
+      "focus": "Changing the constitution"
+     }
+    ],
+    "collocations": [
+     "under the constitution",
+     "amend the constitution"
+    ]
+   }
+  ],
+  "wordFamily": [
+   {
+    "form": "constitutional",
+    "pos": "adj",
+    "ko": "헌법의"
+   }
+  ],
+  "confusables": [
+   {
+    "word": "law",
+    "note": "law는 개별 법률, constitution은 그 법들이 따라야 하는 나라의 기본 법이다."
+   }
+  ]
+ },
+ {
+  "id": "constitutional",
+  "headword": "constitutional",
+  "ipa": "/ˌkɑːnstəˈtuːʃənl/",
+  "level": "ADV",
+  "isCore": false,
+  "topic": "society_politics",
+  "senses": [
+   {
+    "id": "constitutional-1",
+    "pos": "adj",
+    "ko": "헌법의, 합헌인",
+    "en": "allowed by, or related to, a country's basic laws",
+    "nuance": "'헌법에 맞는'과 '헌법에 관한' 두 뜻 모두로 쓴다. 반대말은 uncontitutional이 아니라 unconstitutional이니 철자에 주의한다.",
+    "pattern": "a constitutional + 명사",
+    "examples": [
+     {
+      "en": "The court ruled that the new tax is constitutional.",
+      "ko": "법원은 새 세금이 합헌이라고 판결했습니다.",
+      "focus": "the new tax is constitutional"
+     },
+     {
+      "en": "This raises a serious constitutional question about privacy.",
+      "ko": "이건 사생활에 관한 중대한 헌법적 문제를 제기합니다.",
+      "focus": "a serious constitutional question"
+     }
+    ],
+    "collocations": [
+     "a constitutional right",
+     "a constitutional court"
+    ]
+   }
+  ],
+  "wordFamily": [
+   {
+    "form": "constitution",
+    "pos": "n",
+    "ko": "헌법"
+   }
+  ],
+  "confusables": [
+   {
+    "word": "legal",
+    "note": "legal은 그냥 법에 맞는다는 뜻, constitutional은 헌법에 어긋나지 않는다는 더 높은 차원이다."
+   }
+  ]
+ },
+ {
+  "id": "constrain",
+  "headword": "constrain",
+  "ipa": "/kənˈstreɪn/",
+  "level": "ADV",
+  "isCore": false,
+  "topic": "work_business",
+  "forms": [
+   "constrained",
+   "constraining",
+   "constrains"
+  ],
+  "senses": [
+   {
+    "id": "constrain-1",
+    "pos": "v",
+    "ko": "제약하다, 제한하다",
+    "en": "to limit what someone or something is able to do",
+    "nuance": "예산·시간·규정이 선택의 폭을 좁힐 때 쓰며 be constrained by 수동형이 흔하다. 물건의 수량을 줄이는 건 constrain이 아니라 reduce라고 해야 한다.",
+    "pattern": "be constrained by + 명사",
+    "examples": [
+     {
+      "en": "Our plans are constrained by a very tight budget.",
+      "ko": "우리 계획은 아주 빠듯한 예산에 묶여 있어요.",
+      "focus": "are constrained by a very tight budget"
+     },
+     {
+      "en": "The rule constrains how much data we can collect.",
+      "ko": "그 규정이 우리가 모을 수 있는 데이터 양을 제한합니다.",
+      "focus": "constrains how much data"
+     }
+    ],
+    "collocations": [
+     "be constrained by",
+     "severely constrained"
+    ]
+   }
+  ],
+  "wordFamily": [
+   {
+    "form": "constraint",
+    "pos": "n",
+    "ko": "제약, 제한"
+   }
+  ],
+  "confusables": [
+   {
+    "word": "restrict",
+    "note": "restrict는 규칙으로 못 하게 막는 것, constrain은 조건 때문에 운신의 폭이 좁아지는 것이다."
+   }
+  ]
+ },
+ {
+  "id": "consultancy",
+  "headword": "consultancy",
+  "ipa": "/kənˈsʌltənsi/",
+  "level": "ADV",
+  "isCore": false,
+  "topic": "work_business",
+  "forms": [
+   "consultancies"
+  ],
+  "senses": [
+   {
+    "id": "consultancy-1",
+    "pos": "n",
+    "ko": "컨설팅 회사",
+    "en": "a company that gives expert advice to other companies",
+    "nuance": "조언을 파는 회사를 뜻하는 가산 명사로 영국식에서 특히 흔하다. 사람은 consultancy가 아니라 a consultant이고, 미국에서는 a consulting firm이라고 더 자주 말한다.",
+    "pattern": "work for a consultancy",
+    "examples": [
+     {
+      "en": "Jun left the bank and joined a small consultancy.",
+      "ko": "준은 은행을 그만두고 작은 컨설팅 회사로 옮겼어.",
+      "focus": "joined a small consultancy"
+     },
+     {
+      "en": "Two consultancies are bidding for the same city project.",
+      "ko": "컨설팅 회사 두 곳이 같은 시 사업에 입찰하고 있어요.",
+      "focus": "Two consultancies are bidding"
+     }
+    ],
+    "collocations": [
+     "a management consultancy",
+     "join a consultancy"
+    ]
+   }
+  ],
+  "wordFamily": [
+   {
+    "form": "consultant",
+    "pos": "n",
+    "ko": "컨설턴트, 상담가"
+   },
+   {
+    "form": "consult",
+    "pos": "v",
+    "ko": "상담하다, 참고하다"
+   }
+  ],
+  "confusables": [
+   {
+    "word": "consultant",
+    "note": "consultant는 조언해 주는 사람 한 명, consultancy는 그런 사람들이 모인 회사다."
+   }
+  ]
+ },
+ {
+  "id": "consumption",
+  "headword": "consumption",
+  "ipa": "/kənˈsʌmpʃn/",
+  "level": "ADV",
+  "isCore": false,
+  "topic": "environment_science",
+  "senses": [
+   {
+    "id": "consumption-1",
+    "pos": "n",
+    "ko": "소비, 소비량",
+    "en": "the amount of something used, eaten, or bought",
+    "nuance": "전기·연료·식품을 얼마나 쓰는지를 뜻하는 불가산 명사라 consumptions라고 쓰지 않는다. 한 사람이 산 '소비'가 아니라 전체 사용량을 말할 때 쓰는 통계 어휘다.",
+    "pattern": "the consumption of + 명사",
+    "examples": [
+     {
+      "en": "Our electricity consumption dropped after we changed the lights.",
+      "ko": "조명을 바꾸고 나서 전기 사용량이 줄었어요.",
+      "focus": "Our electricity consumption dropped"
+     },
+     {
+      "en": "Coffee consumption keeps rising among younger workers here.",
+      "ko": "여기 젊은 직장인들 사이에서 커피 소비가 계속 늘고 있어요.",
+      "focus": "Coffee consumption keeps rising"
+     }
+    ],
+    "collocations": [
+     "energy consumption",
+     "fuel consumption"
+    ]
+   }
+  ],
+  "wordFamily": [
+   {
+    "form": "consume",
+    "pos": "v",
+    "ko": "소비하다, 먹다"
+   },
+   {
+    "form": "consumer",
+    "pos": "n",
+    "ko": "소비자"
+   }
+  ],
+  "confusables": [
+   {
+    "word": "spending",
+    "note": "spending은 돈을 쓰는 지출, consumption은 에너지·식품 등 실제로 써 없앤 양이다."
+   }
+  ]
+ },
+ {
+  "id": "container",
+  "headword": "container",
+  "ipa": "/kənˈteɪnər/",
+  "level": "ADV",
+  "isCore": false,
+  "topic": "home_daily",
+  "forms": [
+   "containers"
+  ],
+  "senses": [
+   {
+    "id": "container-1",
+    "pos": "n",
+    "ko": "그릇, 용기",
+    "en": "a box, bottle, or jar used to hold something",
+    "nuance": "뚜껑 있는 반찬통부터 항구의 화물 컨테이너까지 다 가리키는 가산 명사다. 한국어 '컨테이너'는 큰 화물 상자만 떠올리기 쉬워 작은 용기에 쓰기를 어색해한다.",
+    "pattern": "in a container",
+    "examples": [
+     {
+      "en": "Put the leftover soup in a container and label it.",
+      "ko": "남은 국은 통에 담고 이름표를 붙여 놔.",
+      "focus": "in a container"
+     },
+     {
+      "en": "The ship was carrying over four thousand containers.",
+      "ko": "그 배는 컨테이너를 4천 개 넘게 싣고 있었어요.",
+      "focus": "over four thousand containers"
+     }
+    ],
+    "collocations": [
+     "a plastic container",
+     "an airtight container"
+    ]
+   }
+  ],
+  "wordFamily": [
+   {
+    "form": "contain",
+    "pos": "v",
+    "ko": "담고 있다, 포함하다"
+   }
+  ],
+  "confusables": [
+   {
+    "word": "package",
+    "note": "package는 포장해서 배송하는 꾸러미, container는 내용물을 담아 두는 통 자체다."
+   }
+  ]
+ },
+ {
+  "id": "contend",
+  "headword": "contend",
+  "ipa": "/kənˈtend/",
+  "level": "ADV",
+  "isCore": false,
+  "topic": "thinking_opinion",
+  "forms": [
+   "contended",
+   "contending",
+   "contends"
+  ],
+  "senses": [
+   {
+    "id": "contend-1",
+    "pos": "v",
+    "ko": "주장하다",
+    "en": "to say firmly that something is true, especially in an argument",
+    "nuance": "논문·기사에서 반대 의견에 맞서 주장할 때 쓰며 뒤에 that절이 온다. 일상 대화에서는 argue나 say를 쓰는 게 자연스럽다.",
+    "pattern": "contend that + 절",
+    "examples": [
+     {
+      "en": "The author contends that the data was collected too quickly.",
+      "ko": "저자는 그 데이터가 너무 급하게 수집됐다고 주장합니다.",
+      "focus": "contends that the data was collected"
+     },
+     {
+      "en": "Critics contended the price was far too high.",
+      "ko": "비평가들은 가격이 지나치게 비싸다고 주장했어요.",
+      "focus": "contended the price was far too high"
+     }
+    ],
+    "collocations": [
+     "contend that",
+     "widely contended"
+    ]
+   },
+   {
+    "id": "contend-2",
+    "pos": "v",
+    "ko": "씨름하다, 맞서다",
+    "en": "to deal with a difficult problem or situation",
+    "nuance": "contend with + 명사로 힘든 상황을 상대한다는 뜻이다. with를 빼면 '주장하다'로 읽히므로 전치사를 꼭 붙여야 한다.",
+    "pattern": "contend with + 명사",
+    "examples": [
+     {
+      "en": "Drivers had to contend with heavy snow all morning.",
+      "ko": "운전자들은 아침 내내 폭설과 씨름해야 했어요.",
+      "focus": "contend with heavy snow"
+     }
+    ]
+   }
+  ],
+  "confusables": [
+   {
+    "word": "claim",
+    "note": "claim은 증거 없이 내세우는 주장 느낌이 강하고, contend는 근거를 들어 논쟁하며 주장하는 것이다."
+   },
+   {
+    "word": "content",
+    "note": "철자가 한 글자 차이인 content는 '내용, 만족한'이라 뜻과 발음이 모두 다르다."
+   }
+  ]
+ },
+ {
+  "id": "contractor",
+  "headword": "contractor",
+  "ipa": "/ˈkɑːntræktər/",
+  "level": "ADV",
+  "isCore": false,
+  "topic": "work_business",
+  "forms": [
+   "contractors"
+  ],
+  "senses": [
+   {
+    "id": "contractor-1",
+    "pos": "n",
+    "ko": "도급업자, 외주 업체",
+    "en": "a person or firm hired to do a job under an agreement",
+    "nuance": "공사·용역을 계약으로 맡는 개인이나 회사를 뜻한다. 회사에 소속된 직원은 contractor가 아니라 an employee이고, 계약서 자체는 a contract다.",
+    "pattern": "hire a contractor",
+    "examples": [
+     {
+      "en": "We hired a local contractor to redo the office floor.",
+      "ko": "사무실 바닥 다시 까려고 동네 업체를 불렀어요.",
+      "focus": "hired a local contractor"
+     },
+     {
+      "en": "Three contractors bid for the bridge repair job.",
+      "ko": "다리 보수 공사에 업체 세 곳이 입찰했습니다.",
+      "focus": "Three contractors bid"
+     }
+    ],
+    "collocations": [
+     "hire a contractor",
+     "an independent contractor"
+    ]
+   }
+  ],
+  "wordFamily": [
+   {
+    "form": "contract",
+    "pos": "n",
+    "ko": "계약, 계약서"
+   }
+  ],
+  "confusables": [
+   {
+    "word": "employee",
+    "note": "employee는 회사에 소속된 직원, contractor는 계약 단위로 일을 맡아 하는 외부 인력이다."
+   }
+  ]
+ },
+ {
+  "id": "contradict",
+  "headword": "contradict",
+  "ipa": "/ˌkɑːntrəˈdɪkt/",
+  "level": "ADV",
+  "isCore": false,
+  "topic": "thinking_opinion",
+  "forms": [
+   "contradicted",
+   "contradicting",
+   "contradicts"
+  ],
+  "senses": [
+   {
+    "id": "contradict-1",
+    "pos": "v",
+    "ko": "모순되다, 반박하다",
+    "en": "to say the opposite of what someone said, or not match it",
+    "nuance": "사람을 목적어로 쓰면 '말대꾸하다'처럼 무례하게 들릴 수 있다. 자료끼리 안 맞는다는 뜻으로도 쓰고, 자기 말이 앞뒤가 안 맞으면 contradict yourself다.",
+    "pattern": "contradict + 사람/명사",
+    "examples": [
+     {
+      "en": "The new figures contradict what we reported last quarter.",
+      "ko": "새 수치가 지난 분기에 보고한 내용과 맞지 않아요.",
+      "focus": "contradict what we reported"
+     },
+     {
+      "en": "You keep contradicting yourself about when it happened.",
+      "ko": "언제 있었던 일인지 계속 말이 바뀌잖아.",
+      "focus": "contradicting yourself"
+     }
+    ],
+    "collocations": [
+     "contradict yourself",
+     "flatly contradict"
+    ]
+   }
+  ],
+  "wordFamily": [
+   {
+    "form": "contradiction",
+    "pos": "n",
+    "ko": "모순"
+   }
+  ],
+  "confusables": [
+   {
+    "word": "deny",
+    "note": "deny는 사실이 아니라고 부인하는 것, contradict는 상대 말과 정반대되는 말을 하는 것이다."
+   }
+  ]
+ },
+ {
+  "id": "conversion",
+  "headword": "conversion",
+  "ipa": "/kənˈvɜːrʒn/",
+  "level": "ADV",
+  "isCore": false,
+  "topic": "environment_science",
+  "forms": [
+   "conversions"
+  ],
+  "senses": [
+   {
+    "id": "conversion-1",
+    "pos": "n",
+    "ko": "전환, 변환",
+    "en": "the act of changing something into a different form or use",
+    "nuance": "단위·파일·건물 용도가 바뀌는 것을 뜻하며 the conversion of A into B 형태로 쓴다. 한 글자 차이인 conversation(대화)과 헷갈리기 쉬우니 주의한다.",
+    "pattern": "the conversion of A into B",
+    "examples": [
+     {
+      "en": "The conversion of the old factory into flats took two years.",
+      "ko": "옛 공장을 아파트로 바꾸는 데 2년이 걸렸어요.",
+      "focus": "The conversion of the old factory into flats"
+     },
+     {
+      "en": "Check the currency conversion before you pay in dollars.",
+      "ko": "달러로 결제하기 전에 환율 계산을 확인해 봐.",
+      "focus": "the currency conversion"
+     }
+    ],
+    "collocations": [
+     "currency conversion",
+     "the conversion of"
+    ]
+   }
+  ],
+  "wordFamily": [
+   {
+    "form": "convert",
+    "pos": "v",
+    "ko": "바꾸다, 전환하다"
+   }
+  ],
+  "confusables": [
+   {
+    "word": "conversation",
+    "note": "conversation은 사람끼리 나누는 '대화', conversion은 형태나 용도를 바꾸는 '전환'이다."
+   },
+   {
+    "word": "exchange",
+    "note": "exchange는 돈이나 물건을 서로 맞바꾸는 것, conversion은 하나가 다른 형태로 바뀌는 것이다."
+   }
+  ]
+ },
+ {
+  "id": "convertible",
+  "headword": "convertible",
+  "ipa": "/kənˈvɜːrtəbl/",
+  "level": "ADV",
+  "isCore": false,
+  "topic": "travel_transport",
+  "forms": [
+   "convertibles"
+  ],
+  "senses": [
+   {
+    "id": "convertible-1",
+    "pos": "n",
+    "ko": "오픈카",
+    "en": "a car with a roof that can be folded down",
+    "nuance": "지붕이 접히는 차를 가리키는 가산 명사다. 한국어 '오픈카'는 콩글리시라 영어로는 open car가 아니라 a convertible이라고 해야 통한다.",
+    "pattern": "drive a convertible",
+    "examples": [
+     {
+      "en": "We rented a convertible for the drive along the coast.",
+      "ko": "해안 도로 드라이브하려고 오픈카를 빌렸어.",
+      "focus": "rented a convertible"
+     },
+     {
+      "en": "Convertibles look fun but they're noisy on the highway.",
+      "ko": "오픈카는 멋져 보여도 고속도로에선 시끄러워.",
+      "focus": "Convertibles look fun"
+     }
+    ],
+    "collocations": [
+     "drive a convertible",
+     "rent a convertible"
+    ]
+   }
+  ],
+  "wordFamily": [
+   {
+    "form": "convert",
+    "pos": "v",
+    "ko": "바꾸다"
+   }
+  ],
+  "confusables": [
+   {
+    "word": "open car",
+    "note": "open car는 콩글리시라 영어에서는 지붕 접히는 차를 a convertible이라고 불러야 한다."
+   }
+  ]
+ },
+ {
+  "id": "coordinate",
+  "headword": "coordinate",
+  "ipa": "/koʊˈɔːrdɪneɪt/",
+  "level": "ADV",
+  "isCore": false,
+  "topic": "work_business",
+  "forms": [
+   "coordinated",
+   "coordinates",
+   "coordinating"
+  ],
+  "senses": [
+   {
+    "id": "coordinate-1",
+    "pos": "v",
+    "ko": "조율하다, 조정하다",
+    "en": "to organize people or parts so they work well together",
+    "nuance": "여러 사람·일정이 엇갈리지 않게 맞추는 일이다. 사람과 맞출 때는 coordinate with + 사람이고, 명령하는 게 아니라 서로 맞춘다는 어감이다.",
+    "pattern": "coordinate with + 사람",
+    "examples": [
+     {
+      "en": "Emma coordinates the schedules for all three teams.",
+      "ko": "엠마가 세 팀 일정을 전부 조율해요.",
+      "focus": "coordinates the schedules"
+     },
+     {
+      "en": "Please coordinate with the design team before you order.",
+      "ko": "주문 넣기 전에 디자인 팀과 조율해 주세요.",
+      "focus": "coordinate with the design team"
+     }
+    ],
+    "collocations": [
+     "coordinate with",
+     "closely coordinated"
+    ]
+   },
+   {
+    "id": "coordinate-2",
+    "pos": "n",
+    "ko": "좌표",
+    "en": "a pair of numbers showing an exact position on a map",
+    "nuance": "위치를 나타내는 숫자 쌍이라 거의 항상 복수 coordinates로 쓴다. 이때 발음은 끝을 /nət/으로 약하게 내 동사와 구분한다.",
+    "pattern": "send someone the coordinates",
+    "examples": [
+     {
+      "en": "Just text me the coordinates and I'll find the place.",
+      "ko": "좌표만 문자로 보내 줘. 내가 찾아갈게.",
+      "focus": "text me the coordinates"
+     }
+    ]
+   }
+  ],
+  "wordFamily": [
+   {
+    "form": "coordination",
+    "pos": "n",
+    "ko": "조율, 협응"
+   }
+  ],
+  "confusables": [
+   {
+    "word": "cooperate",
+    "note": "cooperate는 함께 힘을 모으는 것, coordinate는 각자 할 일이 겹치지 않게 맞추는 것이다."
+   }
+  ]
+ },
+ {
+  "id": "correction",
+  "headword": "correction",
+  "ipa": "/kəˈrekʃn/",
+  "level": "ADV",
+  "isCore": false,
+  "topic": "school_learning",
+  "forms": [
+   "corrections"
+  ],
+  "senses": [
+   {
+    "id": "correction-1",
+    "pos": "n",
+    "ko": "수정, 정정",
+    "en": "a change that makes something right, or the act of doing it",
+    "nuance": "고친 곳 하나하나를 세는 가산 명사라 make a few corrections처럼 쓴다. '첨삭해 주세요'는 Please correction으로 쓰지 말고 Could you correct this?라고 동사로 말한다.",
+    "pattern": "make corrections to + 명사",
+    "examples": [
+     {
+      "en": "I made a few corrections to your draft in red.",
+      "ko": "네 초안에 빨간색으로 몇 군데 고쳐 놨어.",
+      "focus": "made a few corrections to your draft"
+     },
+     {
+      "en": "The paper printed a correction the very next morning.",
+      "ko": "그 신문은 바로 다음 날 아침에 정정 기사를 실었어요.",
+      "focus": "printed a correction"
+     }
+    ],
+    "collocations": [
+     "make a correction",
+     "a minor correction"
+    ]
+   }
+  ],
+  "wordFamily": [
+   {
+    "form": "correct",
+    "pos": "v",
+    "ko": "고치다, 바로잡다"
+   },
+   {
+    "form": "correctly",
+    "pos": "adv",
+    "ko": "정확하게"
+   }
+  ],
+  "confusables": [
+   {
+    "word": "revision",
+    "note": "revision은 전체를 다시 손보는 개정, correction은 틀린 곳만 바로잡는 정정이다."
+   }
+  ]
+ },
+ {
+  "id": "correctly",
+  "headword": "correctly",
+  "ipa": "/kəˈrektli/",
+  "level": "ADV",
+  "isCore": false,
+  "topic": "description_quality",
+  "senses": [
+   {
+    "id": "correctly-1",
+    "pos": "adv",
+    "ko": "정확하게, 올바르게",
+    "en": "in a way that has no mistakes",
+    "nuance": "동사 뒤에 붙어 '틀림없이 해냈다'를 뜻하며 보통 문장 끝에 온다. 형용사 자리에 쓰면 안 되므로 That's correctly가 아니라 That's correct라고 해야 한다.",
+    "pattern": "동사 + correctly",
+    "examples": [
+     {
+      "en": "Only two people spelled my name correctly today.",
+      "ko": "오늘 내 이름을 제대로 쓴 사람은 딱 두 명이었어.",
+      "focus": "spelled my name correctly"
+     },
+     {
+      "en": "If I remember correctly, the meeting starts at ten.",
+      "ko": "내 기억이 맞다면 회의는 10시에 시작해.",
+      "focus": "If I remember correctly"
+     }
+    ],
+    "collocations": [
+     "spell it correctly",
+     "answer correctly",
+     "if I remember correctly"
+    ]
+   }
+  ],
+  "wordFamily": [
+   {
+    "form": "correct",
+    "pos": "adj",
+    "ko": "맞는, 정확한"
+   }
+  ],
+  "confusables": [
+   {
+    "word": "properly",
+    "note": "properly는 방법이 적절했다는 쪽, correctly는 답이나 철자가 틀리지 않았다는 쪽에 초점이 있다."
+   }
+  ]
+ },
+ {
+  "id": "corridor",
+  "headword": "corridor",
+  "ipa": "/ˈkɔːrɪdɔːr/",
+  "level": "ADV",
+  "isCore": false,
+  "topic": "home_daily",
+  "forms": [
+   "corridors"
+  ],
+  "senses": [
+   {
+    "id": "corridor-1",
+    "pos": "n",
+    "ko": "복도",
+    "en": "a long narrow passage inside a building",
+    "nuance": "건물 안 긴 통로를 뜻하는 가산 명사로 영국식에서 흔하고 미국에서는 hallway를 더 쓴다. 학교 '복도'를 road나 way로 옮기면 안 된다.",
+    "pattern": "along/down the corridor",
+    "examples": [
+     {
+      "en": "The meeting room is at the end of the corridor.",
+      "ko": "회의실은 복도 끝에 있어요.",
+      "focus": "at the end of the corridor"
+     },
+     {
+      "en": "We waited in the corridor while they finished the interview.",
+      "ko": "그분들이 면접 마칠 동안 우리는 복도에서 기다렸어요.",
+      "focus": "waited in the corridor"
+     }
+    ],
+    "collocations": [
+     "down the corridor",
+     "a long corridor"
+    ]
+   }
+  ],
+  "confusables": [
+   {
+    "word": "hallway",
+    "note": "hallway는 미국식으로 더 자주 쓰는 말이고, corridor는 영국식이거나 병원·학교의 긴 복도에 잘 쓴다."
+   },
+   {
+    "word": "aisle",
+    "note": "aisle은 극장·비행기 좌석 사이의 통로, corridor는 건물 안 방들 사이의 복도다."
    }
   ]
  }

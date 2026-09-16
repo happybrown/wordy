@@ -180,3 +180,15 @@ test('스포츠 이름과 영국식 철자 오적용을 거른다', () => {
   // 일반 명사 복수는 유지
   assert.deepEqual(cleanForms('goal', ['goals'], ['n']), ['goals']);
 });
+
+test('학술·비즈니스 불가산 명사의 가짜 복수를 거른다', () => {
+  assert.deepEqual(cleanForms('compliance', ['compliances'], ['n']), []);
+  assert.deepEqual(cleanForms('conservation', ['conservations'], ['n']), []);
+  assert.deepEqual(cleanForms('consumption', ['consumptions'], ['n']), []);
+  assert.deepEqual(cleanForms('collateral', ['collaterals'], ['n']), []);
+  // 같은 계열이지만 실재하는 복수는 남긴다: consents(동의서), completions(완공 건수)
+  assert.deepEqual(cleanForms('consent', ['consents'], ['n']), ['consents']);
+  assert.deepEqual(cleanForms('completion', ['completions'], ['n']), ['completions']);
+  // 동사 consent 의 3인칭 단수도 살아 있어야 한다
+  assert.ok(cleanForms('consent', ['consents', 'consented'], ['v']).includes('consents'));
+});

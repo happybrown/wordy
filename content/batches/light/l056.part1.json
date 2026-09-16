@@ -1,0 +1,1548 @@
+[
+ {
+  "id": "heir",
+  "headword": "heir",
+  "ipa": "/er/",
+  "level": "ADV",
+  "isCore": false,
+  "topic": "money_shopping",
+  "forms": [
+   "heirs"
+  ],
+  "senses": [
+   {
+    "id": "heir-1",
+    "pos": "n",
+    "ko": "상속인, 후계자",
+    "en": "a person who will legally receive money or property when someone dies",
+    "nuance": "h를 발음하지 않아 an heir로 쓰고 발음은 'air'다. 회사 '후계자'는 heir도 되지만 경영권만 뜻할 땐 successor가 정확하다.",
+    "pattern": "the heir to + 명사",
+    "examples": [
+     {
+      "en": "She's the only heir to her grandmother's small publishing company.",
+      "ko": "그녀는 할머니의 작은 출판사를 물려받을 유일한 상속인이야.",
+      "focus": "the only heir to her grandmother's"
+     },
+     {
+      "en": "The lawyer contacted all three heirs before reading the will.",
+      "ko": "변호사는 유언장을 읽기 전에 상속인 세 명 모두에게 연락했어요.",
+      "focus": "contacted all three heirs"
+     }
+    ],
+    "collocations": [
+     "the heir to the throne",
+     "the rightful heir",
+     "name an heir"
+    ]
+   }
+  ],
+  "wordFamily": [
+   {
+    "form": "inherit",
+    "pos": "v",
+    "ko": "상속받다"
+   },
+   {
+    "form": "inheritance",
+    "pos": "n",
+    "ko": "유산, 상속"
+   }
+  ],
+  "confusables": [
+   {
+    "word": "air",
+    "note": "철자는 다르지만 발음이 똑같다. heir의 h는 소리 나지 않으므로 a heir가 아니라 an heir다."
+   },
+   {
+    "word": "successor",
+    "note": "successor는 자리·직책을 이어받는 사람, heir는 재산·지위를 법적으로 물려받는 사람이다."
+   }
+  ]
+ },
+ {
+  "id": "heritage",
+  "headword": "heritage",
+  "ipa": "/ˈherɪtɪdʒ/",
+  "level": "ADV",
+  "isCore": false,
+  "topic": "culture_arts",
+  "senses": [
+   {
+    "id": "heritage-1",
+    "pos": "n",
+    "ko": "유산, 전통",
+    "en": "the traditions, buildings, and values a country keeps from its past",
+    "nuance": "집단이 물려받은 문화·전통이라 보통 불가산이고 a heritage라고 잘 쓰지 않는다. 개인이 받는 돈·부동산은 heritage가 아니라 inheritance다.",
+    "pattern": "cultural/national + heritage",
+    "examples": [
+     {
+      "en": "Our report explains how tourism can protect local cultural heritage.",
+      "ko": "저희 보고서는 관광이 지역 문화유산을 어떻게 지킬 수 있는지 설명합니다.",
+      "focus": "protect local cultural heritage"
+     },
+     {
+      "en": "Jun is proud of his family's heritage in traditional pottery.",
+      "ko": "준은 전통 도자기와 얽힌 집안 내력을 자랑스러워해요.",
+      "focus": "his family's heritage in traditional pottery"
+     }
+    ],
+    "collocations": [
+     "cultural heritage",
+     "a World Heritage Site",
+     "preserve our heritage"
+    ]
+   }
+  ],
+  "confusables": [
+   {
+    "word": "inheritance",
+    "note": "inheritance는 개인이 물려받는 돈·재산, heritage는 사회가 함께 물려받은 문화·전통이다."
+   },
+   {
+    "word": "tradition",
+    "note": "tradition은 반복되는 관습 하나하나, heritage는 물려받은 전통 전체를 묶어 부르는 말이다."
+   }
+  ]
+ },
+ {
+  "id": "horn",
+  "headword": "horn",
+  "ipa": "/hɔrn/",
+  "level": "ADV",
+  "isCore": false,
+  "topic": "travel_transport",
+  "forms": [
+   "horns"
+  ],
+  "senses": [
+   {
+    "id": "horn-1",
+    "pos": "n",
+    "ko": "경적, 클랙슨",
+    "en": "the part of a car you press to make a loud warning sound",
+    "nuance": "'클랙슨'은 상표에서 온 콩글리시라 영어로는 horn이다. '경적을 울리다'는 push the horn이 아니라 honk the horn 또는 그냥 honk다.",
+    "pattern": "honk/sound the horn",
+    "examples": [
+     {
+      "en": "The taxi driver honked his horn at the delivery van.",
+      "ko": "택시 기사가 배달 밴한테 경적을 울렸어요.",
+      "focus": "honked his horn at the delivery van"
+     }
+    ],
+    "collocations": [
+     "honk the horn",
+     "blow the horn"
+    ]
+   },
+   {
+    "id": "horn-2",
+    "pos": "n",
+    "ko": "뿔",
+    "en": "a hard pointed part growing on the head of some animals",
+    "nuance": "소·염소처럼 평생 붙어 있는 뿔이 horn이고, 사슴이 해마다 갈아 끼우는 뿔은 antlers라고 한다.",
+    "examples": [
+     {
+      "en": "The museum display explains why these goats grow curved horns.",
+      "ko": "박물관 전시는 이 염소들이 왜 굽은 뿔이 자라는지 설명해 줘요.",
+      "focus": "grow curved horns"
+     }
+    ]
+   }
+  ],
+  "confusables": [
+   {
+    "word": "antler",
+    "note": "antler는 사슴처럼 매년 빠지고 다시 자라는 뿔, horn은 소·염소처럼 평생 남는 뿔이다."
+   }
+  ]
+ },
+ {
+  "id": "hostage",
+  "headword": "hostage",
+  "ipa": "/ˈhɑstɪdʒ/",
+  "level": "ADV",
+  "isCore": false,
+  "topic": "society_politics",
+  "forms": [
+   "hostages"
+  ],
+  "senses": [
+   {
+    "id": "hostage-1",
+    "pos": "n",
+    "ko": "인질",
+    "en": "someone held by force until other people agree to certain demands",
+    "nuance": "'인질로 잡다'는 take somebody hostage처럼 hostage 앞에 관사를 넣지 않는 굳은 표현이다. 협상에서 비유로도 흔히 쓴다.",
+    "pattern": "take/hold + 사람 + hostage",
+    "examples": [
+     {
+      "en": "The negotiator explained how the team secured the hostages' release.",
+      "ko": "협상가는 팀이 어떻게 인질 석방을 이끌어 냈는지 설명했어요.",
+      "focus": "secured the hostages' release"
+     },
+     {
+      "en": "Don't let one unhappy client hold the whole project hostage.",
+      "ko": "불만 있는 고객 하나가 프로젝트 전체를 볼모로 잡게 두지 마세요.",
+      "focus": "hold the whole project hostage"
+     }
+    ],
+    "collocations": [
+     "take someone hostage",
+     "hold someone hostage",
+     "release the hostages"
+    ]
+   }
+  ],
+  "confusables": [
+   {
+    "word": "hostile",
+    "note": "철자가 비슷하지만 hostage는 '인질'이라는 명사, hostile은 '적대적인'이라는 형용사다."
+   }
+  ]
+ },
+ {
+  "id": "hostile",
+  "headword": "hostile",
+  "ipa": "/ˈhɑstl/",
+  "level": "ADV",
+  "isCore": false,
+  "topic": "emotions_personality",
+  "senses": [
+   {
+    "id": "hostile-1",
+    "pos": "adj",
+    "ko": "적대적인, 반대하는",
+    "en": "showing strong dislike or opposition toward someone or something",
+    "nuance": "싫어하는 티가 말·태도로 드러날 때 쓰며 뒤 전치사는 about이 아니라 to/toward다. 그냥 차가운 태도는 hostile보다 cold가 맞다.",
+    "pattern": "hostile to/toward + 명사",
+    "examples": [
+     {
+      "en": "The board was openly hostile to our pricing proposal yesterday.",
+      "ko": "이사회는 어제 우리 가격 제안에 대놓고 적대적이었어요.",
+      "focus": "openly hostile to our pricing proposal"
+     },
+     {
+      "en": "Nobody performs well in such a hostile work environment.",
+      "ko": "그렇게 적대적인 근무 환경에서는 누구도 성과를 못 내요.",
+      "focus": "such a hostile work environment"
+     }
+    ],
+    "collocations": [
+     "hostile to the idea",
+     "a hostile work environment",
+     "a hostile takeover"
+    ]
+   }
+  ],
+  "wordFamily": [
+   {
+    "form": "hostility",
+    "pos": "n",
+    "ko": "적대감"
+   }
+  ],
+  "confusables": [
+   {
+    "word": "aggressive",
+    "note": "aggressive는 먼저 공격하고 밀어붙이는 태도, hostile은 상대를 거부하고 반대하는 태도다."
+   }
+  ]
+ },
+ {
+  "id": "ideology",
+  "headword": "ideology",
+  "ipa": "/ˌaɪdiˈɑlədʒi/",
+  "level": "ADV",
+  "isCore": false,
+  "topic": "society_politics",
+  "forms": [
+   "ideologies"
+  ],
+  "senses": [
+   {
+    "id": "ideology-1",
+    "pos": "n",
+    "ko": "이념, 이데올로기",
+    "en": "a set of political or social beliefs shared by a group",
+    "nuance": "정치·종교처럼 집단이 공유하는 신념 체계를 말하고 가산 명사다. 개인의 생각 하나는 ideology가 아니라 belief나 view다.",
+    "pattern": "political/free-market + ideology",
+    "examples": [
+     {
+      "en": "The paper compares two competing ideologies about free trade.",
+      "ko": "그 논문은 자유무역을 둘러싼 상반된 두 이념을 비교해요.",
+      "focus": "two competing ideologies about free trade"
+     },
+     {
+      "en": "Her research shows how ideology shapes everyday spending habits.",
+      "ko": "그녀의 연구는 이념이 일상 소비 습관을 어떻게 만드는지 보여 줘요.",
+      "focus": "how ideology shapes everyday spending habits"
+     }
+    ],
+    "collocations": [
+     "political ideology",
+     "competing ideologies"
+    ]
+   }
+  ],
+  "wordFamily": [
+   {
+    "form": "ideological",
+    "pos": "adj",
+    "ko": "이념적인"
+   }
+  ],
+  "confusables": [
+   {
+    "word": "idea",
+    "note": "idea는 떠오른 생각 하나, ideology는 세상을 설명하는 체계적인 신념 묶음이다."
+   }
+  ]
+ },
+ {
+  "id": "illusion",
+  "headword": "illusion",
+  "ipa": "/ɪˈluʒn/",
+  "level": "ADV",
+  "isCore": false,
+  "topic": "thinking_opinion",
+  "forms": [
+   "illusions"
+  ],
+  "senses": [
+   {
+    "id": "illusion-1",
+    "pos": "n",
+    "ko": "착각, 환상",
+    "en": "a false belief or a wrong picture of how things really are",
+    "nuance": "가산 명사라 '착각하다'는 have the illusion that절이나 be under the illusion that절로 쓴다. 눈속임 마술 장치는 a trick이고 illusion은 그 효과 자체다.",
+    "pattern": "the illusion that + 절",
+    "examples": [
+     {
+      "en": "Mirrors give the small office an illusion of extra space.",
+      "ko": "거울이 좁은 사무실을 더 넓어 보이게 하는 착시를 만들어요.",
+      "focus": "an illusion of extra space"
+     },
+     {
+      "en": "Don't be under the illusion that the deadline will move.",
+      "ko": "마감이 미뤄질 거라는 착각은 하지 마세요.",
+      "focus": "under the illusion that the deadline"
+     }
+    ],
+    "collocations": [
+     "create an illusion",
+     "an optical illusion",
+     "under the illusion that"
+    ]
+   }
+  ],
+  "confusables": [
+   {
+    "word": "delusion",
+    "note": "delusion은 사실을 알려 줘도 못 버리는 병적인 믿음, illusion은 누구나 할 수 있는 가벼운 착각이다."
+   },
+   {
+    "word": "illustration",
+    "note": "철자가 비슷하지만 illustration은 '삽화·예시'이고 illusion은 '착각'이다."
+   }
+  ]
+ },
+ {
+  "id": "immense",
+  "headword": "immense",
+  "ipa": "/ɪˈmens/",
+  "level": "ADV",
+  "isCore": false,
+  "topic": "description_quality",
+  "senses": [
+   {
+    "id": "immense-1",
+    "pos": "adj",
+    "ko": "엄청난, 막대한",
+    "en": "extremely large in size, amount, or degree",
+    "nuance": "크기보다 양·정도가 압도적일 때 자주 쓰는 격식체다. very immense처럼 강조어를 붙이지 않고 그 자체로 최상급 느낌을 낸다.",
+    "pattern": "immense + 명사(pressure, value)",
+    "examples": [
+     {
+      "en": "Our team is under immense pressure to ship by Friday.",
+      "ko": "우리 팀은 금요일까지 출시하라는 엄청난 압박을 받고 있어요.",
+      "focus": "under immense pressure to ship"
+     },
+     {
+      "en": "Your feedback was of immense value during the design review.",
+      "ko": "디자인 리뷰 때 주신 피드백이 정말 큰 도움이 됐어요.",
+      "focus": "of immense value during the design review"
+     }
+    ],
+    "collocations": [
+     "immense pressure",
+     "immense value",
+     "an immense amount of work"
+    ]
+   }
+  ],
+  "wordFamily": [
+   {
+    "form": "immensely",
+    "pos": "adv",
+    "ko": "엄청나게"
+   }
+  ],
+  "confusables": [
+   {
+    "word": "intense",
+    "note": "intense는 짧고 강하게 몰아치는 세기, immense는 규모나 양이 어마어마하게 큰 것이다."
+   }
+  ]
+ },
+ {
+  "id": "immigrate",
+  "headword": "immigrate",
+  "ipa": "/ˈɪmɪɡreɪt/",
+  "level": "ADV",
+  "isCore": false,
+  "topic": "travel_transport",
+  "forms": [
+   "immigrated",
+   "immigrates",
+   "immigrating"
+  ],
+  "senses": [
+   {
+    "id": "immigrate-1",
+    "pos": "v",
+    "ko": "이민 오다, 이주해 오다",
+    "en": "to come into a new country to live there permanently",
+    "nuance": "들어오는 쪽이 immigrate, 나가는 쪽이 emigrate다. 목적어를 바로 받지 않아 immigrate Canada가 아니라 immigrate to Canada다.",
+    "pattern": "immigrate to + 나라",
+    "examples": [
+     {
+      "en": "Her parents immigrated to Canada about thirty years ago.",
+      "ko": "그녀의 부모님은 한 삼십 년 전에 캐나다로 이민을 오셨어요.",
+      "focus": "immigrated to Canada"
+     },
+     {
+      "en": "Fewer engineers are immigrating here since the visa rules changed.",
+      "ko": "비자 규정이 바뀐 뒤로 이쪽으로 오는 엔지니어가 줄었어요.",
+      "focus": "are immigrating here since the visa rules"
+     }
+    ],
+    "collocations": [
+     "immigrate to the US",
+     "immigrate legally"
+    ]
+   }
+  ],
+  "wordFamily": [
+   {
+    "form": "immigrant",
+    "pos": "n",
+    "ko": "이민자"
+   },
+   {
+    "form": "immigration",
+    "pos": "n",
+    "ko": "이민, 입국 심사"
+   }
+  ],
+  "confusables": [
+   {
+    "word": "emigrate",
+    "note": "emigrate는 살던 나라를 떠나는 것(from), immigrate는 새 나라로 들어오는 것(to)이다."
+   },
+   {
+    "word": "migrate",
+    "note": "migrate는 계절·일자리를 따라 옮겨 다니는 이동, immigrate는 정착하러 들어오는 것이다."
+   }
+  ]
+ },
+ {
+  "id": "importantly",
+  "headword": "importantly",
+  "ipa": "/ɪmˈpɔrtntli/",
+  "level": "ADV",
+  "isCore": false,
+  "topic": "communication",
+  "senses": [
+   {
+    "id": "importantly-1",
+    "pos": "adv",
+    "ko": "중요한 것은, 중요하게",
+    "en": "used to mark the point that matters most in what you say",
+    "nuance": "거의 언제나 More importantly, 나 Most importantly, 처럼 문장 맨 앞에서 쉼표와 함께 쓴다. '중요한 회의'처럼 명사를 꾸밀 땐 important를 쓴다.",
+    "pattern": "More/Most importantly, + 절",
+    "examples": [
+     {
+      "en": "More importantly, the client still hasn't approved the final budget.",
+      "ko": "더 중요한 건, 고객사가 아직 최종 예산을 승인 안 했다는 거예요.",
+      "focus": "More importantly, the client still hasn't"
+     },
+     {
+      "en": "Most importantly, please save your files before the system update.",
+      "ko": "무엇보다도, 시스템 업데이트 전에 파일을 저장해 주세요.",
+      "focus": "Most importantly, please save your files"
+     }
+    ],
+    "collocations": [
+     "more importantly",
+     "most importantly",
+     "equally importantly"
+    ]
+   }
+  ],
+  "wordFamily": [
+   {
+    "form": "important",
+    "pos": "adj",
+    "ko": "중요한"
+   },
+   {
+    "form": "importance",
+    "pos": "n",
+    "ko": "중요성"
+   }
+  ],
+  "confusables": [
+   {
+    "word": "importantly",
+    "note": "구어에서는 More importantly 대신 More important도 쓰지만, 글에서는 importantly가 안전하다."
+   }
+  ]
+ },
+ {
+  "id": "incline",
+  "headword": "incline",
+  "ipa": "/ˈɪnklaɪn/",
+  "level": "ADV",
+  "isCore": false,
+  "topic": "description_quality",
+  "forms": [
+   "inclines"
+  ],
+  "senses": [
+   {
+    "id": "incline-1",
+    "pos": "n",
+    "ko": "경사, 비탈",
+    "en": "a surface or road that slopes up or down",
+    "nuance": "명사일 땐 앞에 강세가 와서 IN-cline으로 읽고 가산 명사다. 일상 대화의 '언덕'은 hill이고 incline은 기울기를 재는 듯한 딱딱한 말이다.",
+    "pattern": "a steep/gentle incline",
+    "examples": [
+     {
+      "en": "The trail ends with a steep incline near the old temple.",
+      "ko": "그 길은 옛 절 근처에서 가파른 오르막으로 끝나요.",
+      "focus": "a steep incline near the old temple"
+     },
+     {
+      "en": "Set the treadmill to a gentle incline for the first kilometer.",
+      "ko": "첫 1킬로미터는 러닝머신 경사를 완만하게 맞춰 놓으세요.",
+      "focus": "a gentle incline for the first kilometer"
+     }
+    ],
+    "collocations": [
+     "a steep incline",
+     "a gentle incline"
+    ]
+   }
+  ],
+  "wordFamily": [
+   {
+    "form": "inclined",
+    "pos": "adj",
+    "ko": "~하고 싶은, 기운"
+   },
+   {
+    "form": "inclination",
+    "pos": "n",
+    "ko": "성향, 기울기"
+   }
+  ],
+  "confusables": [
+   {
+    "word": "decline",
+    "note": "decline은 '감소하다·거절하다', incline은 명사로 '오르막 경사'를 뜻해 뜻이 전혀 다르다."
+   },
+   {
+    "word": "slope",
+    "note": "slope가 훨씬 일상적인 단어이고, incline은 보고서·설명문에서 쓰는 격식체다."
+   }
+  ]
+ },
+ {
+  "id": "incredibly",
+  "headword": "incredibly",
+  "ipa": "/ɪnˈkredəbli/",
+  "level": "ADV",
+  "isCore": false,
+  "topic": "time_quantity",
+  "senses": [
+   {
+    "id": "incredibly-1",
+    "pos": "adv",
+    "ko": "엄청나게, 믿기 힘들 만큼",
+    "en": "to a very great degree; more than you would expect",
+    "nuance": "형용사·부사 앞에 붙는 강조어로 very보다 세다. 동사를 꾸미려 incredibly works처럼 쓰지 않고 works incredibly well처럼 부사 앞에 붙인다.",
+    "pattern": "incredibly + 형용사/부사",
+    "examples": [
+     {
+      "en": "The new onboarding process is incredibly slow for overseas hires.",
+      "ko": "새 입사 절차는 해외 채용자한테는 엄청나게 느려요.",
+      "focus": "incredibly slow for overseas hires"
+     },
+     {
+      "en": "Emma handled that difficult client incredibly well this morning.",
+      "ko": "엠마가 오늘 아침 그 까다로운 고객을 정말 잘 상대했어요.",
+      "focus": "handled that difficult client incredibly well"
+     }
+    ],
+    "collocations": [
+     "incredibly important",
+     "incredibly well",
+     "incredibly difficult"
+    ]
+   }
+  ],
+  "wordFamily": [
+   {
+    "form": "incredible",
+    "pos": "adj",
+    "ko": "믿기 힘든, 엄청난"
+   }
+  ],
+  "confusables": [
+   {
+    "word": "increasingly",
+    "note": "increasingly는 '점점 더'라는 변화, incredibly는 '지금 엄청나게'라는 정도 강조다."
+   }
+  ]
+ },
+ {
+  "id": "incur",
+  "headword": "incur",
+  "ipa": "/ɪnˈkɜr/",
+  "level": "ADV",
+  "isCore": false,
+  "topic": "money_shopping",
+  "forms": [
+   "incurred",
+   "incurring",
+   "incurs"
+  ],
+  "senses": [
+   {
+    "id": "incur-1",
+    "pos": "v",
+    "ko": "떠안다, 물게 되다",
+    "en": "to end up with a cost, loss, or penalty because of what you did",
+    "nuance": "비용·벌금·손실처럼 달갑지 않은 것에만 쓰고 좋은 것에는 쓰지 않는다. 자음을 겹쳐 incurred, incurring으로 쓴다.",
+    "pattern": "incur + costs/a fee/a penalty",
+    "examples": [
+     {
+      "en": "Late payments will incur a two percent monthly fee.",
+      "ko": "대금이 늦으면 월 2퍼센트 수수료가 붙습니다.",
+      "focus": "incur a two percent monthly fee"
+     },
+     {
+      "en": "We incurred extra shipping costs when the supplier changed ports.",
+      "ko": "공급사가 항구를 바꾸는 바람에 추가 운송비가 발생했어요.",
+      "focus": "incurred extra shipping costs"
+     }
+    ],
+    "collocations": [
+     "incur costs",
+     "incur a penalty",
+     "incur debt"
+    ]
+   }
+  ],
+  "confusables": [
+   {
+    "word": "occur",
+    "note": "occur는 일이 저절로 '일어나다', incur는 내 행동 때문에 비용·벌금을 '떠안다'이다."
+   }
+  ]
+ },
+ {
+  "id": "indirect",
+  "headword": "indirect",
+  "ipa": "/ˌɪndəˈrekt/",
+  "level": "ADV",
+  "isCore": false,
+  "topic": "communication",
+  "senses": [
+   {
+    "id": "indirect-1",
+    "pos": "adj",
+    "ko": "간접적인, 우회적인",
+    "en": "not going straight to the point or straight to the place",
+    "nuance": "말을 돌려 하거나 경로가 곧장 가지 않을 때 둘 다 쓴다. '간접적으로'는 in indirect가 아니라 indirectly다.",
+    "pattern": "an indirect + 명사(answer, route)",
+    "examples": [
+     {
+      "en": "His answer was so indirect that nobody understood the decision.",
+      "ko": "그의 대답이 너무 빙빙 돌아서 아무도 결정을 이해 못 했어요.",
+      "focus": "so indirect that nobody understood"
+     },
+     {
+      "en": "Marketing has only an indirect effect on this quarter's revenue.",
+      "ko": "마케팅은 이번 분기 매출에 간접적인 영향만 줍니다.",
+      "focus": "an indirect effect on this quarter's revenue"
+     }
+    ],
+    "collocations": [
+     "an indirect effect",
+     "an indirect route",
+     "indirect costs"
+    ]
+   }
+  ],
+  "wordFamily": [
+   {
+    "form": "indirectly",
+    "pos": "adv",
+    "ko": "간접적으로"
+   },
+   {
+    "form": "direct",
+    "pos": "adj",
+    "ko": "직접적인"
+   }
+  ],
+  "confusables": [
+   {
+    "word": "vague",
+    "note": "vague는 내용 자체가 흐릿한 것, indirect는 뜻은 분명한데 돌려 말하는 방식이다."
+   }
+  ]
+ },
+ {
+  "id": "induce",
+  "headword": "induce",
+  "ipa": "/ɪnˈdus/",
+  "level": "ADV",
+  "isCore": false,
+  "topic": "academic",
+  "forms": [
+   "induced",
+   "induces",
+   "inducing"
+  ],
+  "senses": [
+   {
+    "id": "induce-1",
+    "pos": "v",
+    "ko": "유발하다, 일으키다",
+    "en": "to make something happen, especially a physical or mental state",
+    "nuance": "논문·의학 글에서 원인과 결과를 말할 때 쓰는 격식 동사다. 사람을 설득할 땐 induce somebody to do처럼 to부정사를 쓴다.",
+    "pattern": "induce + 명사 / induce 사람 to + 동사",
+    "examples": [
+     {
+      "en": "Loud open offices can induce stress in employees over time.",
+      "ko": "시끄러운 개방형 사무실은 시간이 지나면 직원들에게 스트레스를 유발할 수 있어요.",
+      "focus": "induce stress in employees"
+     },
+     {
+      "en": "Nothing could induce her to sign that one-sided contract.",
+      "ko": "어떤 것도 그녀가 그 불공정한 계약서에 서명하게 만들 수는 없었어요.",
+      "focus": "induce her to sign that one-sided contract"
+     }
+    ],
+    "collocations": [
+     "induce stress",
+     "induce sleep",
+     "induce someone to buy"
+    ]
+   }
+  ],
+  "wordFamily": [
+   {
+    "form": "induction",
+    "pos": "n",
+    "ko": "유도, 귀납"
+   }
+  ],
+  "confusables": [
+   {
+    "word": "reduce",
+    "note": "철자가 비슷하지만 reduce는 '줄이다', induce는 '없던 것을 일으키다'로 방향이 반대다."
+   },
+   {
+    "word": "cause",
+    "note": "cause는 일상어로 두루 쓰고, induce는 실험·의학 보고에서 원인을 말할 때 쓰는 격식체다."
+   }
+  ]
+ },
+ {
+  "id": "inevitable",
+  "headword": "inevitable",
+  "ipa": "/ɪnˈevɪtəbl/",
+  "level": "ADV",
+  "isCore": false,
+  "topic": "thinking_opinion",
+  "senses": [
+   {
+    "id": "inevitable-1",
+    "pos": "adj",
+    "ko": "피할 수 없는, 불가피한",
+    "en": "certain to happen, so nobody can stop or avoid it",
+    "nuance": "It's inevitable that절 구문으로 자주 쓴다. '어쩔 수 없다'를 can't help로만 옮기지 말고 결과가 정해졌을 땐 inevitable을 쓴다.",
+    "pattern": "It is inevitable that + 절",
+    "examples": [
+     {
+      "en": "A delay was inevitable once the supplier missed two deadlines.",
+      "ko": "공급사가 마감을 두 번 놓친 순간 지연은 피할 수 없었어요.",
+      "focus": "A delay was inevitable once the supplier"
+     },
+     {
+      "en": "It's inevitable that some customers will complain about the new fee.",
+      "ko": "새 수수료에 불만을 제기하는 고객이 나오는 건 어쩔 수 없어요.",
+      "focus": "It's inevitable that some customers will complain"
+     }
+    ],
+    "collocations": [
+     "an inevitable result",
+     "seem inevitable",
+     "the inevitable outcome"
+    ]
+   }
+  ],
+  "wordFamily": [
+   {
+    "form": "inevitably",
+    "pos": "adv",
+    "ko": "필연적으로"
+   }
+  ],
+  "confusables": [
+   {
+    "word": "unavoidable",
+    "note": "unavoidable은 피하려 해도 못 피한 상황, inevitable은 애초에 그렇게 될 수밖에 없다는 예측이다."
+   }
+  ]
+ },
+ {
+  "id": "infect",
+  "headword": "infect",
+  "ipa": "/ɪnˈfekt/",
+  "level": "ADV",
+  "isCore": false,
+  "topic": "body_health",
+  "forms": [
+   "infected",
+   "infecting",
+   "infects"
+  ],
+  "senses": [
+   {
+    "id": "infect-1",
+    "pos": "v",
+    "ko": "감염시키다, 옮기다",
+    "en": "to give a disease to a person, an animal, or a computer",
+    "nuance": "'감염되다'는 능동형이 아니라 get infected나 be infected with를 쓴다. 감기가 옮았다는 일상 표현은 보통 catch a cold다.",
+    "pattern": "be infected with + 병명",
+    "examples": [
+     {
+      "en": "One careless click infected half the sales team's laptops.",
+      "ko": "부주의한 클릭 한 번에 영업팀 노트북 절반이 감염됐어요.",
+      "focus": "infected half the sales team's laptops"
+     },
+     {
+      "en": "The wound got infected because nobody cleaned it properly.",
+      "ko": "아무도 제대로 소독을 안 해서 상처가 곪았어요.",
+      "focus": "got infected because nobody cleaned it"
+     }
+    ],
+    "collocations": [
+     "get infected",
+     "be infected with a virus",
+     "infect others"
+    ]
+   }
+  ],
+  "wordFamily": [
+   {
+    "form": "infection",
+    "pos": "n",
+    "ko": "감염"
+   },
+   {
+    "form": "infectious",
+    "pos": "adj",
+    "ko": "전염성의"
+   }
+  ],
+  "confusables": [
+   {
+    "word": "affect",
+    "note": "affect는 '영향을 주다'로 병과 무관하고, infect는 병균·바이러스가 옮는 것만 뜻한다."
+   }
+  ]
+ },
+ {
+  "id": "infer",
+  "headword": "infer",
+  "ipa": "/ɪnˈfɜr/",
+  "level": "ADV",
+  "isCore": false,
+  "topic": "thinking_opinion",
+  "forms": [
+   "inferred",
+   "inferring",
+   "infers"
+  ],
+  "senses": [
+   {
+    "id": "infer-1",
+    "pos": "v",
+    "ko": "추론하다, 미루어 알다",
+    "en": "to reach an opinion from facts you already have, not from being told",
+    "nuance": "듣는 쪽이 하는 일이 infer이고, 말하는 쪽이 넌지시 비치는 건 imply다. 자음을 겹쳐 inferred, inferring으로 쓴다.",
+    "pattern": "infer + that절 / infer A from B",
+    "examples": [
+     {
+      "en": "From these numbers we can infer that demand peaked in July.",
+      "ko": "이 수치로 보아 수요가 7월에 정점을 찍었다고 추론할 수 있어요.",
+      "focus": "infer that demand peaked in July"
+     },
+     {
+      "en": "She inferred from his silence that the offer was rejected.",
+      "ko": "그녀는 그의 침묵으로 제안이 거절됐다고 짐작했어요.",
+      "focus": "inferred from his silence"
+     }
+    ],
+    "collocations": [
+     "infer from the data",
+     "reasonably infer"
+    ]
+   }
+  ],
+  "wordFamily": [
+   {
+    "form": "inference",
+    "pos": "n",
+    "ko": "추론"
+   }
+  ],
+  "confusables": [
+   {
+    "word": "imply",
+    "note": "imply는 말하는 사람이 넌지시 담는 것, infer는 듣는 사람이 그것을 읽어 내는 것이다."
+   },
+   {
+    "word": "guess",
+    "note": "guess는 근거 없이 찍는 것, infer는 자료를 근거로 결론을 끌어내는 것이다."
+   }
+  ]
+ },
+ {
+  "id": "inflate",
+  "headword": "inflate",
+  "ipa": "/ɪnˈfleɪt/",
+  "level": "ADV",
+  "isCore": false,
+  "topic": "money_shopping",
+  "forms": [
+   "inflated",
+   "inflates",
+   "inflating"
+  ],
+  "senses": [
+   {
+    "id": "inflate-1",
+    "pos": "v",
+    "ko": "부풀리다, 과장하다",
+    "en": "to make a number or claim seem bigger than it really is",
+    "nuance": "수치·평가를 실제보다 크게 만든다는 부정적인 뜻으로 보고서에서 자주 쓴다. inflated prices처럼 과거분사가 형용사로 굳어 쓰인다.",
+    "pattern": "inflate + 수치/명사",
+    "examples": [
+     {
+      "en": "Don't inflate the forecast just to impress the investors.",
+      "ko": "투자자들한테 잘 보이려고 전망치를 부풀리지 마세요.",
+      "focus": "inflate the forecast"
+     },
+     {
+      "en": "Tourists often pay inflated prices near the main station.",
+      "ko": "관광객들은 중앙역 근처에서 부풀려진 값을 내는 경우가 많아요.",
+      "focus": "pay inflated prices"
+     }
+    ],
+    "collocations": [
+     "inflate the numbers",
+     "inflated prices",
+     "artificially inflate"
+    ]
+   },
+   {
+    "id": "inflate-2",
+    "pos": "v",
+    "ko": "공기를 넣다, 부풀리다",
+    "en": "to fill something with air or gas so it becomes bigger",
+    "nuance": "타이어·풍선에 바람을 넣는 물리적인 뜻이다. 일상 대화에서는 inflate보다 pump up이나 blow up을 더 많이 쓴다.",
+    "examples": [
+     {
+      "en": "Please inflate the tires before the long drive to Busan.",
+      "ko": "부산까지 장거리 운전하기 전에 타이어에 바람 좀 넣어 주세요.",
+      "focus": "inflate the tires"
+     }
+    ]
+   }
+  ],
+  "wordFamily": [
+   {
+    "form": "inflation",
+    "pos": "n",
+    "ko": "인플레이션, 물가 상승"
+   }
+  ],
+  "confusables": [
+   {
+    "word": "exaggerate",
+    "note": "exaggerate는 말로 과장하는 것, inflate는 숫자·가격을 실제보다 크게 만드는 쪽에 쓴다."
+   }
+  ]
+ },
+ {
+  "id": "inflow",
+  "headword": "inflow",
+  "ipa": "/ˈɪnfloʊ/",
+  "level": "ADV",
+  "isCore": false,
+  "topic": "money_shopping",
+  "forms": [
+   "inflows"
+  ],
+  "senses": [
+   {
+    "id": "inflow-1",
+    "pos": "n",
+    "ko": "유입, 들어오는 양",
+    "en": "money, people, or water moving into a place or account",
+    "nuance": "돈·사람이 들어오는 흐름을 가리키며 금융 기사에 자주 나온다. 반대말은 outflow이고 뒤에는 of나 into를 붙인다.",
+    "pattern": "the inflow of + 명사",
+    "examples": [
+     {
+      "en": "The fund reported strong inflows after the interest rate cut.",
+      "ko": "그 펀드는 금리 인하 뒤에 자금 유입이 크게 늘었다고 밝혔어요.",
+      "focus": "reported strong inflows"
+     },
+     {
+      "en": "A steady inflow of foreign students changed the neighborhood.",
+      "ko": "외국인 학생이 꾸준히 유입되면서 동네가 바뀌었어요.",
+      "focus": "A steady inflow of foreign students"
+     }
+    ],
+    "collocations": [
+     "capital inflows",
+     "the inflow of funds",
+     "a steady inflow"
+    ]
+   }
+  ],
+  "confusables": [
+   {
+    "word": "outflow",
+    "note": "inflow는 안으로 들어오는 흐름, outflow는 밖으로 빠져나가는 흐름이다."
+   },
+   {
+    "word": "income",
+    "note": "income은 내가 버는 소득, inflow는 계좌·시장으로 들어오는 자금 흐름 전체다."
+   }
+  ]
+ },
+ {
+  "id": "infrastructure",
+  "headword": "infrastructure",
+  "ipa": "/ˈɪnfrəstrʌktʃər/",
+  "level": "ADV",
+  "isCore": false,
+  "topic": "environment_science",
+  "forms": [
+   "infrastructures"
+  ],
+  "senses": [
+   {
+    "id": "infrastructure-1",
+    "pos": "n",
+    "ko": "기반 시설, 인프라",
+    "en": "the basic roads, power, and systems a country or company needs",
+    "nuance": "보통 불가산이라 infrastructures보다 infrastructure로 쓰고 many infrastructures는 어색하다. '인프라'라는 한국어 그대로 IT 시스템에도 쓴다.",
+    "pattern": "build/upgrade + infrastructure",
+    "examples": [
+     {
+      "en": "The city plans to upgrade its aging water infrastructure by 2030.",
+      "ko": "시는 2030년까지 노후 상수도 시설을 개선할 계획입니다.",
+      "focus": "upgrade its aging water infrastructure"
+     },
+     {
+      "en": "Our cloud infrastructure can't handle traffic during the weekend sale.",
+      "ko": "우리 클라우드 인프라가 주말 세일 때 트래픽을 못 버텨요.",
+      "focus": "Our cloud infrastructure can't handle traffic"
+     }
+    ],
+    "collocations": [
+     "build infrastructure",
+     "IT infrastructure",
+     "infrastructure investment"
+    ]
+   }
+  ],
+  "confusables": [
+   {
+    "word": "facility",
+    "note": "facility는 건물·설비 하나하나, infrastructure는 도로·전력처럼 전체를 떠받치는 기반 전체다."
+   }
+  ]
+ },
+ {
+  "id": "inherent",
+  "headword": "inherent",
+  "ipa": "/ɪnˈhɪrənt/",
+  "level": "ADV",
+  "isCore": false,
+  "topic": "description_quality",
+  "senses": [
+   {
+    "id": "inherent-1",
+    "pos": "adj",
+    "ko": "본질적인, 내재된",
+    "en": "existing as a basic part of something and impossible to separate",
+    "nuance": "떼어 낼 수 없는 성질이라 뒤 전치사는 to나 in을 쓴다. '타고난 재능'처럼 사람에게는 inherent보다 natural이나 innate가 자연스럽다.",
+    "pattern": "inherent in/to + 명사",
+    "examples": [
+     {
+      "en": "Every startup accepts the risks inherent in a new market.",
+      "ko": "모든 스타트업은 새 시장에 본래 따르는 위험을 감수해요.",
+      "focus": "the risks inherent in a new market"
+     },
+     {
+      "en": "There's an inherent conflict between speed and quality here.",
+      "ko": "여기엔 속도와 품질 사이에 본질적인 충돌이 있어요.",
+      "focus": "an inherent conflict between speed and quality"
+     }
+    ],
+    "collocations": [
+     "inherent risk",
+     "inherent in the system",
+     "an inherent problem"
+    ]
+   }
+  ],
+  "wordFamily": [
+   {
+    "form": "inherently",
+    "pos": "adv",
+    "ko": "본질적으로"
+   }
+  ],
+  "confusables": [
+   {
+    "word": "essential",
+    "note": "essential은 '꼭 필요한', inherent는 '원래부터 그 안에 들어 있는'이라 뜻이 다르다."
+   }
+  ]
+ },
+ {
+  "id": "inhibit",
+  "headword": "inhibit",
+  "ipa": "/ɪnˈhɪbɪt/",
+  "level": "ADV",
+  "isCore": false,
+  "topic": "academic",
+  "forms": [
+   "inhibited",
+   "inhibiting",
+   "inhibits"
+  ],
+  "senses": [
+   {
+    "id": "inhibit-1",
+    "pos": "v",
+    "ko": "억제하다, 방해하다",
+    "en": "to slow down or prevent a process from developing normally",
+    "nuance": "완전히 막는 게 아니라 진행을 늦추거나 위축시킨다는 뜻의 학술체다. 자음을 겹치지 않고 inhibited, inhibiting으로 쓴다.",
+    "pattern": "inhibit + 명사(growth, progress)",
+    "examples": [
+     {
+      "en": "Cold weather inhibits the growth of these young plants.",
+      "ko": "추운 날씨가 이 어린 식물들의 성장을 억제해요.",
+      "focus": "inhibits the growth of these young plants"
+     },
+     {
+      "en": "Fear of mistakes inhibits people from speaking up in meetings.",
+      "ko": "실수에 대한 두려움이 회의에서 사람들이 말하는 걸 막아요.",
+      "focus": "inhibits people from speaking up"
+     }
+    ],
+    "collocations": [
+     "inhibit growth",
+     "inhibit progress"
+    ]
+   }
+  ],
+  "confusables": [
+   {
+    "word": "inhabit",
+    "note": "철자 한 글자 차이지만 inhabit은 '거주하다', inhibit은 '억제하다'로 뜻이 완전히 다르다."
+   },
+   {
+    "word": "prevent",
+    "note": "prevent는 아예 못 하게 막는 것, inhibit은 느려지게 하거나 위축시키는 정도다."
+   }
+  ]
+ },
+ {
+  "id": "innovative",
+  "headword": "innovative",
+  "ipa": "/ˈɪnəveɪtɪv/",
+  "level": "ADV",
+  "isCore": false,
+  "topic": "work_business",
+  "senses": [
+   {
+    "id": "innovative-1",
+    "pos": "adj",
+    "ko": "혁신적인, 참신한",
+    "en": "using new ideas or methods that nobody tried before",
+    "nuance": "제품·방식·회사를 칭찬할 때 쓰며 사람에게 쓰면 '새 아이디어를 잘 내는'이라는 뜻이다. '창의적인'은 creative, 실제로 새 걸 만들어 냈으면 innovative다.",
+    "pattern": "an innovative + 명사(approach, product)",
+    "examples": [
+     {
+      "en": "Their innovative approach cut delivery times almost in half.",
+      "ko": "그들의 혁신적인 방식이 배송 시간을 거의 절반으로 줄였어요.",
+      "focus": "Their innovative approach cut delivery times"
+     },
+     {
+      "en": "We need more innovative solutions, not another round of discounts.",
+      "ko": "또 할인이 아니라 더 혁신적인 해법이 필요해요.",
+      "focus": "more innovative solutions"
+     }
+    ],
+    "collocations": [
+     "an innovative approach",
+     "innovative technology",
+     "highly innovative"
+    ]
+   }
+  ],
+  "wordFamily": [
+   {
+    "form": "innovation",
+    "pos": "n",
+    "ko": "혁신"
+   },
+   {
+    "form": "innovate",
+    "pos": "v",
+    "ko": "혁신하다"
+   }
+  ],
+  "confusables": [
+   {
+    "word": "creative",
+    "note": "creative는 새로운 생각을 잘 떠올리는 것, innovative는 그 생각을 실제 제품·방법으로 만든 것이다."
+   }
+  ]
+ },
+ {
+  "id": "inquire",
+  "headword": "inquire",
+  "ipa": "/ɪnˈkwaɪr/",
+  "level": "ADV",
+  "isCore": false,
+  "topic": "communication",
+  "forms": [
+   "enquire",
+   "inquired",
+   "inquires",
+   "inquiring"
+  ],
+  "senses": [
+   {
+    "id": "inquire-1",
+    "pos": "v",
+    "ko": "문의하다, 묻다",
+    "en": "to ask someone for information, often politely or formally",
+    "nuance": "ask의 격식체라 업무 메일·안내문에 쓰고 친구끼리는 ask가 자연스럽다. 목적어를 바로 받지 않아 inquire the price가 아니라 inquire about the price다.",
+    "pattern": "inquire about + 명사",
+    "examples": [
+     {
+      "en": "I'm writing to inquire about your bulk pricing for schools.",
+      "ko": "학교 단체 가격을 문의드리려고 메일 드립니다.",
+      "focus": "inquire about your bulk pricing"
+     },
+     {
+      "en": "Several clients inquired whether the workshop would be recorded.",
+      "ko": "워크숍이 녹화되는지 여러 고객이 문의했어요.",
+      "focus": "inquired whether the workshop would be recorded"
+     }
+    ],
+    "collocations": [
+     "inquire about the price",
+     "inquire into the matter"
+    ]
+   }
+  ],
+  "wordFamily": [
+   {
+    "form": "inquiry",
+    "pos": "n",
+    "ko": "문의, 조사"
+   }
+  ],
+  "confusables": [
+   {
+    "word": "ask",
+    "note": "ask는 일상어라 목적어를 바로 받지만, inquire는 격식체라 about·into 같은 전치사가 필요하다."
+   },
+   {
+    "word": "require",
+    "note": "철자가 비슷해도 require는 '요구하다', inquire는 '물어보다'로 뜻이 다르다."
+   }
+  ]
+ },
+ {
+  "id": "insider",
+  "headword": "insider",
+  "ipa": "/ɪnˈsaɪdər/",
+  "level": "ADV",
+  "isCore": false,
+  "topic": "work_business",
+  "forms": [
+   "insiders"
+  ],
+  "senses": [
+   {
+    "id": "insider-1",
+    "pos": "n",
+    "ko": "내부자, 관계자",
+    "en": "someone inside a group who knows things outsiders cannot know",
+    "nuance": "가산 명사라 an insider로 쓰고, 명사 앞에서는 insider information처럼 형용사처럼 붙는다. 반대말은 an outsider다.",
+    "pattern": "an industry insider",
+    "examples": [
+     {
+      "en": "An industry insider told us the merger talks already collapsed.",
+      "ko": "업계 내부자가 합병 협상이 이미 깨졌다고 알려 줬어요.",
+      "focus": "An industry insider told us"
+     },
+     {
+      "en": "Trading on insider information can end your career instantly.",
+      "ko": "내부 정보로 거래하면 경력이 한순간에 끝날 수 있어요.",
+      "focus": "Trading on insider information"
+     }
+    ],
+    "collocations": [
+     "an industry insider",
+     "insider information",
+     "insider trading"
+    ]
+   }
+  ],
+  "confusables": [
+   {
+    "word": "outsider",
+    "note": "insider는 조직 안에서 사정을 아는 사람, outsider는 밖에 있어 사정을 모르는 사람이다."
+   },
+   {
+    "word": "inside",
+    "note": "inside는 전치사·명사로 '안쪽', insider는 '내부 사정을 아는 사람'이라는 사람 명사다."
+   }
+  ]
+ },
+ {
+  "id": "insurer",
+  "headword": "insurer",
+  "ipa": "/ɪnˈʃʊrər/",
+  "level": "ADV",
+  "isCore": false,
+  "topic": "money_shopping",
+  "forms": [
+   "insurers"
+  ],
+  "senses": [
+   {
+    "id": "insurer-1",
+    "pos": "n",
+    "ko": "보험사, 보험자",
+    "en": "a company that agrees to pay you if damage or loss happens",
+    "nuance": "보험을 파는 회사를 가리키고 보험 상품 자체는 insurance다. 보험을 든 개인은 insurer가 아니라 the insured 또는 the policyholder다.",
+    "pattern": "the insurer + 동사",
+    "examples": [
+     {
+      "en": "Our insurer refused the claim because the report arrived late.",
+      "ko": "보고서가 늦게 도착해서 보험사가 청구를 거절했어요.",
+      "focus": "Our insurer refused the claim"
+     },
+     {
+      "en": "Three major insurers raised their premiums again this year.",
+      "ko": "대형 보험사 세 곳이 올해 또 보험료를 올렸어요.",
+      "focus": "Three major insurers raised their premiums"
+     }
+    ],
+    "collocations": [
+     "a major insurer",
+     "the insurer refused the claim",
+     "health insurers"
+    ]
+   }
+  ],
+  "confusables": [
+   {
+    "word": "insurance",
+    "note": "insurance는 보험이라는 상품·제도, insurer는 그 보험을 파는 회사다."
+   },
+   {
+    "word": "insured",
+    "note": "the insured는 보험에 가입한 사람, insurer는 보험금을 지급하는 회사로 입장이 반대다."
+   }
+  ]
+ },
+ {
+  "id": "intensive",
+  "headword": "intensive",
+  "ipa": "/ɪnˈtensɪv/",
+  "level": "ADV",
+  "isCore": false,
+  "topic": "school_learning",
+  "senses": [
+   {
+    "id": "intensive-1",
+    "pos": "adj",
+    "ko": "집중적인, 집약적인",
+    "en": "involving a lot of effort or resources in a short period",
+    "nuance": "짧은 기간에 많은 것을 쏟아붓는다는 뜻이라 course, training과 잘 붙는다. 감정이 강렬한 건 intensive가 아니라 intense다.",
+    "pattern": "an intensive + 명사(course, program)",
+    "examples": [
+     {
+      "en": "Mina signed up for a two-week intensive English course.",
+      "ko": "미나는 2주짜리 집중 영어 과정에 등록했어요.",
+      "focus": "a two-week intensive English course"
+     },
+     {
+      "en": "This project is far too labor-intensive for a three-person team.",
+      "ko": "이 프로젝트는 3인 팀이 하기엔 손이 너무 많이 가요.",
+      "focus": "far too labor-intensive for a three-person team"
+     }
+    ],
+    "collocations": [
+     "an intensive course",
+     "labor-intensive work",
+     "intensive care"
+    ]
+   }
+  ],
+  "wordFamily": [
+   {
+    "form": "intensity",
+    "pos": "n",
+    "ko": "강도, 세기"
+   }
+  ],
+  "confusables": [
+   {
+    "word": "intense",
+    "note": "intense는 감정·고통이 강렬한 것, intensive는 짧은 기간에 집중해서 하는 것이다."
+   },
+   {
+    "word": "extensive",
+    "note": "extensive는 넓게 두루 퍼진 것, intensive는 좁은 범위에 깊게 몰아넣은 것이다."
+   }
+  ]
+ },
+ {
+  "id": "intervene",
+  "headword": "intervene",
+  "ipa": "/ˌɪntərˈvin/",
+  "level": "ADV",
+  "isCore": false,
+  "topic": "society_politics",
+  "forms": [
+   "intervened",
+   "intervenes",
+   "intervening"
+  ],
+  "senses": [
+   {
+    "id": "intervene-1",
+    "pos": "v",
+    "ko": "개입하다, 중재하다",
+    "en": "to become involved in a situation to change what is happening",
+    "nuance": "목적어를 바로 받지 않아 intervene the argument가 아니라 intervene in the argument다. interfere가 '주제넘게 참견'이라면 intervene은 중립적이거나 도움이 되는 개입이다.",
+    "pattern": "intervene in + 명사",
+    "examples": [
+     {
+      "en": "The manager had to intervene in the argument about overtime.",
+      "ko": "팀장이 초과 근무를 둘러싼 언쟁에 개입해야 했어요.",
+      "focus": "intervene in the argument"
+     },
+     {
+      "en": "The central bank intervened to stop the currency from falling.",
+      "ko": "중앙은행이 통화 하락을 막으려고 개입했어요.",
+      "focus": "intervened to stop the currency"
+     }
+    ],
+    "collocations": [
+     "intervene in a dispute",
+     "intervene directly"
+    ]
+   }
+  ],
+  "wordFamily": [
+   {
+    "form": "intervention",
+    "pos": "n",
+    "ko": "개입, 중재"
+   }
+  ],
+  "confusables": [
+   {
+    "word": "interfere",
+    "note": "interfere는 남의 일에 주제넘게 끼어드는 부정적 뉘앙스, intervene은 상황을 바로잡으려는 개입이다."
+   }
+  ]
+ },
+ {
+  "id": "intrigue",
+  "headword": "intrigue",
+  "ipa": "/ɪnˈtriɡ/",
+  "level": "ADV",
+  "isCore": false,
+  "topic": "emotions_personality",
+  "forms": [
+   "intrigued",
+   "intrigues",
+   "intriguing"
+  ],
+  "senses": [
+   {
+    "id": "intrigue-1",
+    "pos": "v",
+    "ko": "흥미를 끌다, 호기심을 자극하다",
+    "en": "to make someone very curious because something seems strange or new",
+    "nuance": "사람이 주어가 아니라 대상이 주어라 I'm intrigued by it처럼 수동으로 쓴다. 단순히 '재미있다'가 아니라 '더 알고 싶다'는 호기심이다.",
+    "pattern": "be intrigued by + 명사",
+    "examples": [
+     {
+      "en": "Your proposal really intrigues me, especially the pricing section.",
+      "ko": "제안서가 정말 흥미롭네요, 특히 가격 부분이요.",
+      "focus": "really intrigues me"
+     },
+     {
+      "en": "We were intrigued by how quickly the small team shipped.",
+      "ko": "그 작은 팀이 얼마나 빨리 내놓았는지에 우리는 흥미를 느꼈어요.",
+      "focus": "were intrigued by how quickly"
+     }
+    ],
+    "collocations": [
+     "be intrigued by",
+     "an intriguing idea",
+     "sound intriguing"
+    ]
+   }
+  ],
+  "confusables": [
+   {
+    "word": "interesting",
+    "note": "interesting은 그냥 재미있다는 넓은 말, intriguing은 수수께끼 같아 더 알고 싶게 만든다는 뜻이다."
+   }
+  ]
+ }
+]
