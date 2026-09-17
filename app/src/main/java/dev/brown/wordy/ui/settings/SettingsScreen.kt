@@ -6,6 +6,15 @@ import androidx.compose.foundation.layout.Spacer
 import androidx.compose.foundation.layout.size
 import androidx.compose.foundation.layout.width
 import androidx.compose.foundation.shape.CircleShape
+import androidx.compose.foundation.layout.height
+import androidx.compose.material.icons.automirrored.filled.KeyboardArrowRight
+import androidx.compose.material.icons.outlined.Bolt
+import androidx.compose.material.icons.outlined.ChatBubbleOutline
+import androidx.compose.material.icons.outlined.Check
+import androidx.compose.material.icons.outlined.Spellcheck
+import androidx.compose.material.icons.outlined.Today
+import androidx.compose.material3.ModalBottomSheet
+import androidx.compose.ui.graphics.Color
 import androidx.compose.foundation.layout.Arrangement
 import androidx.compose.foundation.layout.Column
 import androidx.compose.foundation.layout.ColumnScope
@@ -69,178 +78,112 @@ fun SettingsScreen() {
     fun update(block: (Settings) -> Settings) = scope.launch { c.settings.update(block) }
     val ctx = LocalContext.current
 
+    // 값을 바꾸는 일은 시트에서 한다. 슬라이더를 화면에 죽 늘어놓으면
+    // 지금 값이 무엇인지 읽기 전에 조절기부터 눈에 들어와 화면이 복잡해진다.
+    var sheet by remember { mutableStateOf<SettingSheet?>(null) }
+
     Column(Modifier.fillMaxSize().verticalScroll(rememberScrollState()).padding(horizontal = 20.dp)) {
-        VSpace(18)
+        VSpace(20)
         Text("설정", style = MaterialTheme.typography.headlineMedium)
-        Text(
-            "학습량과 알림을 조절합니다",
-            style = MaterialTheme.typography.bodySmall,
-            color = MaterialTheme.colorScheme.onSurfaceVariant,
-        )
 
-        // --- 학습 ---
-        GroupHeader(0, Icons.Outlined.School, "학습")
-        SettingsGroup {
-            Text("현재 레벨", style = MaterialTheme.typography.titleSmall)
-            VSpace(2)
-            Text(
-                "새 단어를 어느 레벨에서 뽑을지 정합니다",
-                style = MaterialTheme.typography.bodySmall,
-                color = MaterialTheme.colorScheme.onSurfaceVariant,
+        // 지금 상태를 한 줄로 요약해 맨 위에 둔다. 설정을 열었을 때
+        // "내가 어떻게 해 두었더라" 가 먼저 답이 된다.
+        VSpace(14)
+        SummaryCard(level = s.currentLevel.ko, daily = s.dailyNewWords, core = s.coreEnabled)
+
+        GroupLabel("학습")
+        SettingsCard {
+            NavRow(
+                tile = 0,
+                icon = Icons.Outlined.School,
+                title = "현재 레벨",
+                value = s.currentLevel.ko,
+                onClick = { sheet = SettingSheet.LevelPick },
             )
-            VSpace(10)
-            androidx.compose.foundation.layout.FlowRow(horizontalArrangement = Arrangement.spacedBy(7.dp)) {
-                Level.entries.forEach { lvl ->
-                    FilterChip(
-                        selected = s.currentLevel == lvl,
-                        onClick = { update { it.copy(currentLevel = lvl) } },
-                        label = { Text(lvl.ko) },
-                        shape = CircleShape,
-                    )
-                }
-            }
-
-            RowGap()
-            SliderRow(
+            RowLine()
+            NavRow(
+                tile = 2,
+                icon = Icons.Outlined.Today,
                 title = "하루 새 단어",
-                value = "${s.dailyNewWords}개",
-                desc = "0으로 두면 복습만 합니다",
-                slider = {
-                    Slider(
-                        value = s.dailyNewWords.toFloat(),
-                        onValueChange = { update { st -> st.copy(dailyNewWords = it.toInt()) } },
-                        valueRange = 0f..40f, steps = 39,
-                    )
-                },
+                value = if (s.dailyNewWords == 0) "복습만" else "${s.dailyNewWords}개",
+                onClick = { sheet = SettingSheet.DailyGoal },
             )
-
-            RowGap()
-            ToggleRow(
-                "핵심 회화 어휘 트랙",
-                "새 단어의 일부를 Core 트랙에서 뽑습니다",
-                s.coreEnabled,
-                divider = false,
-            ) { update { st -> st.copy(coreEnabled = it) } }
-            if (s.coreEnabled) {
-                // 토글에 딸린 하위 설정이라 들여써서 종속 관계를 보이게 한다
-                Column(Modifier.padding(start = 14.dp, top = 10.dp)) {
-                    SliderRow(
-                        title = "Core 비율",
-                        value = "${(s.coreRatio * 100).toInt()}%",
-                        desc = null,
-                        slider = {
-                            Slider(
-                                value = s.coreRatio,
-                                onValueChange = { update { st -> st.copy(coreRatio = it) } },
-                                valueRange = 0.1f..0.9f, steps = 7,
-                            )
-                        },
-                    )
-                }
-            }
-
-            RowGap()
-            SliderRow(
-                title = "목표 기억 보존률",
+            RowLine()
+            SwitchRow(
+                tile = 5,
+                icon = Icons.Outlined.ChatBubbleOutline,
+                title = "핵심 회화 어휘",
+                desc = if (s.coreEnabled) "새 단어의 ${(s.coreRatio * 100).toInt()}%를 Core 에서" else "꺼짐",
+                checked = s.coreEnabled,
+                onChange = { update { st -> st.copy(coreEnabled = it) } },
+                onClick = if (s.coreEnabled) ({ sheet = SettingSheet.CoreRatio }) else null,
+            )
+            RowLine()
+            NavRow(
+                tile = 3,
+                icon = Icons.Outlined.Bolt,
+                title = "복습 강도",
                 value = "${(s.desiredRetention * 100).toInt()}%",
-                desc = "높이면 복습이 잦아지고, 낮추면 복습은 줄지만 더 자주 잊습니다",
-                slider = {
-                    Slider(
-                        value = s.desiredRetention,
-                        onValueChange = { update { st -> st.copy(desiredRetention = it) } },
-                        valueRange = 0.8f..0.95f, steps = 14,
-                    )
-                },
+                onClick = { sheet = SettingSheet.Retention },
             )
-
-            RowGap()
-            ToggleRow(
-                "엄격한 타이핑 판정",
-                "켜면 1글자 오타도 오답으로 처리합니다",
-                s.strictTyping,
-                divider = false,
-            ) { update { st -> st.copy(strictTyping = it) } }
+            RowLine()
+            SwitchRow(
+                tile = 1,
+                icon = Icons.Outlined.Spellcheck,
+                title = "엄격한 타이핑 판정",
+                desc = "1글자 오타도 오답으로",
+                checked = s.strictTyping,
+                onChange = { update { st -> st.copy(strictTyping = it) } },
+                onClick = null,
+            )
         }
 
-        // --- 알림 ---
-        GroupHeader(1, Icons.Outlined.Notifications, "알림")
-        SettingsGroup {
+        GroupLabel("알림과 발음")
+        SettingsCard {
             val permissionLauncher = rememberLauncherForActivityResult(ActivityResultContracts.RequestPermission()) { granted ->
                 if (granted) {
                     update { st -> st.copy(reminderEnabled = true) }
                     ReminderScheduler.schedule(ctx, s.reminderHour, s.reminderMinute)
                 }
             }
-            ToggleRow(
-                "매일 복습 알림",
-                "설정한 시각에 예정된 복습 수를 알려 줍니다",
-                s.reminderEnabled,
-                divider = false,
-            ) { on ->
-                if (!on) {
-                    update { st -> st.copy(reminderEnabled = false) }; ReminderScheduler.cancel(ctx)
-                } else if (Build.VERSION.SDK_INT >= 33 && !ReminderScheduler.hasPermission(ctx)) {
-                    permissionLauncher.launch(Manifest.permission.POST_NOTIFICATIONS)
-                } else {
-                    update { st -> st.copy(reminderEnabled = true) }
-                    ReminderScheduler.schedule(ctx, s.reminderHour, s.reminderMinute)
-                }
-            }
-            if (s.reminderEnabled) {
-                Column(Modifier.padding(start = 14.dp, top = 10.dp)) {
-                SliderRow(
-                    title = "알림 시각",
-                    value = "%02d:%02d".format(s.reminderHour, s.reminderMinute),
-                    desc = null,
-                    slider = {
-                        Slider(
-                            value = (s.reminderHour * 60 + s.reminderMinute).toFloat(),
-                            onValueChange = { v ->
-                                val m = v.toInt()
-                                update { st -> st.copy(reminderHour = m / 60, reminderMinute = (m % 60) / 30 * 30) }
-                            },
-                            onValueChangeFinished = { ReminderScheduler.schedule(ctx, s.reminderHour, s.reminderMinute) },
-                            valueRange = 0f..1439f, steps = 47,
-                        )
-                    },
-                )
-                }
-            }
-        }
-
-        // --- 발음 ---
-        GroupHeader(5, Icons.AutoMirrored.Outlined.VolumeUp, "발음")
-        SettingsGroup {
-            SliderRow(
+            SwitchRow(
+                tile = 1,
+                icon = Icons.Outlined.Notifications,
+                title = "매일 복습 알림",
+                desc = if (s.reminderEnabled) "%02d:%02d 에 알려 줍니다".format(s.reminderHour, s.reminderMinute) else "꺼짐",
+                checked = s.reminderEnabled,
+                onChange = { on ->
+                    if (!on) {
+                        update { st -> st.copy(reminderEnabled = false) }; ReminderScheduler.cancel(ctx)
+                    } else if (Build.VERSION.SDK_INT >= 33 && !ReminderScheduler.hasPermission(ctx)) {
+                        permissionLauncher.launch(Manifest.permission.POST_NOTIFICATIONS)
+                    } else {
+                        update { st -> st.copy(reminderEnabled = true) }
+                        ReminderScheduler.schedule(ctx, s.reminderHour, s.reminderMinute)
+                    }
+                },
+                onClick = if (s.reminderEnabled) ({ sheet = SettingSheet.ReminderTime }) else null,
+            )
+            RowLine()
+            NavRow(
+                tile = 5,
+                icon = Icons.AutoMirrored.Outlined.VolumeUp,
                 title = "읽어 주는 속도",
                 value = "%.2fx".format(s.ttsRate),
-                desc = "예문과 단어를 읽어 줄 때의 속도입니다",
-                slider = {
-                    Slider(
-                        value = s.ttsRate,
-                        onValueChange = { update { st -> st.copy(ttsRate = it) }; c.tts.rate = it },
-                        valueRange = 0.6f..1.3f, steps = 13,
-                    )
-                },
+                onClick = { sheet = SettingSheet.TtsRate },
             )
         }
 
-        // --- 백업 ---
-        GroupHeader(3, Icons.Outlined.Backup, "백업")
-        SettingsGroup { BackupSection() }
+        GroupLabel("데이터")
+        SettingsCard { BackupSection() }
 
-        // --- 정보 ---
-        GroupHeader(4, Icons.Outlined.Info, "정보")
-        SettingsGroup {
-            Row(Modifier.fillMaxWidth(), verticalAlignment = Alignment.CenterVertically) {
+        GroupLabel("정보")
+        SettingsCard {
+            Row(Modifier.fillMaxWidth().padding(horizontal = 16.dp, vertical = 14.dp), verticalAlignment = Alignment.CenterVertically) {
                 Text("콘텐츠 버전", style = MaterialTheme.typography.titleSmall, modifier = Modifier.weight(1f))
-                Text(
-                    c.contentVersion,
-                    style = MaterialTheme.typography.labelMedium,
-                    color = MaterialTheme.colorScheme.onSurfaceVariant,
-                )
+                Text(c.contentVersion, style = MaterialTheme.typography.labelMedium, color = MaterialTheme.colorScheme.onSurfaceVariant)
             }
-            VSpace(12)
+            RowLine()
             Text(
                 "단어 목록 출처: New General Service List, New Academic Word List, Business Service List " +
                     "(Browne, Culligan & Phillips; CC BY-SA 4.0) · The CEFR-J Wordlist Version 1.6 " +
@@ -249,80 +192,297 @@ fun SettingsScreen() {
                     "간격 반복은 FSRS-6 알고리즘(open-spaced-repetition).",
                 style = MaterialTheme.typography.bodySmall,
                 color = MaterialTheme.colorScheme.onSurfaceVariant,
+                modifier = Modifier.padding(horizontal = 16.dp, vertical = 14.dp),
             )
         }
         VSpace(30)
     }
-}
 
-/**
- * 섹션 머리. 홈의 상세 목록과 같은 파스텔 아이콘 타일을 써서 두 화면이 한 앱으로 읽히게 한다.
- */
-@Composable
-private fun GroupHeader(tile: Int, icon: androidx.compose.ui.graphics.vector.ImageVector, title: String) {
-    Row(
-        Modifier.fillMaxWidth().padding(top = 26.dp, bottom = 10.dp),
-        verticalAlignment = Alignment.CenterVertically,
-    ) {
-        Box(
-            Modifier.size(28.dp).clip(MaterialTheme.shapes.extraSmall)
-                .background(tileBackgrounds[tile % tileBackgrounds.size]),
-            contentAlignment = Alignment.Center,
+    when (sheet) {
+        SettingSheet.LevelPick -> PickerSheet("현재 레벨", "새 단어를 어느 레벨에서 뽑을지 정합니다", { sheet = null }) {
+            Level.entries.forEach { lvl ->
+                ChoiceRow(lvl.ko, selected = s.currentLevel == lvl) {
+                    update { it.copy(currentLevel = lvl) }; sheet = null
+                }
+            }
+        }
+        SettingSheet.DailyGoal -> SliderSheet(
+            title = "하루 새 단어",
+            value = if (s.dailyNewWords == 0) "복습만 합니다" else "${s.dailyNewWords}개",
+            desc = "복습은 알고리즘이 따로 잡아 줍니다",
+            onDismiss = { sheet = null },
         ) {
-            Icon(
-                icon,
-                contentDescription = null,
-                tint = tileForegrounds[tile % tileForegrounds.size],
-                modifier = Modifier.size(16.dp),
+            Slider(
+                value = s.dailyNewWords.toFloat(),
+                onValueChange = { update { st -> st.copy(dailyNewWords = it.toInt()) } },
+                valueRange = 0f..40f, steps = 39,
             )
         }
-        Spacer(Modifier.width(9.dp))
-        Text(title, style = MaterialTheme.typography.titleMedium)
+        SettingSheet.CoreRatio -> SliderSheet(
+            title = "Core 비율",
+            value = "${(s.coreRatio * 100).toInt()}%",
+            desc = "새 단어 중 get, take 같은 기본 어휘의 비중",
+            onDismiss = { sheet = null },
+        ) {
+            Slider(
+                value = s.coreRatio,
+                onValueChange = { update { st -> st.copy(coreRatio = it) } },
+                valueRange = 0.1f..0.9f, steps = 7,
+            )
+        }
+        SettingSheet.Retention -> SliderSheet(
+            title = "복습 강도",
+            value = "${(s.desiredRetention * 100).toInt()}%",
+            desc = "높이면 복습이 잦아지고, 낮추면 복습은 줄지만 더 자주 잊습니다. 기본 90%.",
+            onDismiss = { sheet = null },
+        ) {
+            Slider(
+                value = s.desiredRetention,
+                onValueChange = { update { st -> st.copy(desiredRetention = it) } },
+                valueRange = 0.8f..0.95f, steps = 14,
+            )
+        }
+        SettingSheet.ReminderTime -> SliderSheet(
+            title = "알림 시각",
+            value = "%02d:%02d".format(s.reminderHour, s.reminderMinute),
+            desc = "30분 단위로 정할 수 있습니다",
+            onDismiss = { sheet = null },
+        ) {
+            Slider(
+                value = (s.reminderHour * 60 + s.reminderMinute).toFloat(),
+                onValueChange = { v ->
+                    val m = v.toInt()
+                    update { st -> st.copy(reminderHour = m / 60, reminderMinute = (m % 60) / 30 * 30) }
+                },
+                onValueChangeFinished = { ReminderScheduler.schedule(ctx, s.reminderHour, s.reminderMinute) },
+                valueRange = 0f..1439f, steps = 47,
+            )
+        }
+        SettingSheet.TtsRate -> SliderSheet(
+            title = "읽어 주는 속도",
+            value = "%.2fx".format(s.ttsRate),
+            desc = "예문과 단어를 읽어 줄 때의 속도입니다",
+            onDismiss = { sheet = null },
+        ) {
+            Slider(
+                value = s.ttsRate,
+                onValueChange = { update { st -> st.copy(ttsRate = it) }; c.tts.rate = it },
+                valueRange = 0.6f..1.3f, steps = 13,
+            )
+        }
+        null -> Unit
+    }
+}
+
+/** 시트로 조절하는 항목들. 화면에는 값만 보이고 조절기는 시트 안에 둔다. */
+private enum class SettingSheet { LevelPick, DailyGoal, CoreRatio, Retention, ReminderTime, TtsRate }
+
+/** 지금 설정을 한 줄로 요약. 설정을 여는 이유의 절반은 "내가 뭘로 해 뒀지" 다. */
+@Composable
+private fun SummaryCard(level: String, daily: Int, core: Boolean) {
+    Surface(
+        Modifier.fillMaxWidth(),
+        shape = MaterialTheme.shapes.medium,
+        color = MaterialTheme.colorScheme.primaryContainer,
+    ) {
+        Row(Modifier.padding(horizontal = 18.dp, vertical = 16.dp)) {
+            SummaryCell(level, "레벨", Modifier.weight(1f))
+            SummaryCell(if (daily == 0) "복습만" else "$daily", "하루 새 단어", Modifier.weight(1f))
+            SummaryCell(if (core) "켜짐" else "꺼짐", "Core 트랙", Modifier.weight(1f))
+        }
+    }
+}
+
+@Composable
+private fun SummaryCell(value: String, label: String, modifier: Modifier = Modifier) {
+    Column(modifier) {
+        Text(value, style = MaterialTheme.typography.titleMedium, color = MaterialTheme.colorScheme.onPrimaryContainer)
+        Text(
+            label,
+            style = MaterialTheme.typography.labelSmall,
+            color = MaterialTheme.colorScheme.onPrimaryContainer.copy(alpha = 0.72f),
+            modifier = Modifier.padding(top = 2.dp),
+        )
+    }
+}
+
+/** 카드 위 작은 분류 이름. 아이콘 없이 글자만 둬 카드 안의 아이콘과 경쟁하지 않는다. */
+@Composable
+private fun GroupLabel(text: String) {
+    Text(
+        text,
+        Modifier.padding(start = 4.dp, top = 26.dp, bottom = 9.dp),
+        style = MaterialTheme.typography.labelLarge,
+        color = MaterialTheme.colorScheme.onSurfaceVariant,
+    )
+}
+
+@Composable
+private fun SettingsCard(content: @Composable ColumnScope.() -> Unit) {
+    Surface(
+        Modifier.fillMaxWidth(),
+        shape = MaterialTheme.shapes.medium,
+        color = MaterialTheme.colorScheme.surfaceContainer,
+    ) {
+        Column(content = content)
+    }
+}
+
+/** 행 사이 선. 아이콘 폭만큼 들여써서 목록이 끊겨 보이지 않게 한다. */
+@Composable
+private fun RowLine() {
+    Box(
+        Modifier.padding(start = 64.dp).fillMaxWidth().height(1.dp)
+            .background(MaterialTheme.colorScheme.outlineVariant)
+    )
+}
+
+@Composable
+private fun RowIcon(tile: Int, icon: androidx.compose.ui.graphics.vector.ImageVector) {
+    Box(
+        Modifier.size(34.dp).clip(MaterialTheme.shapes.extraSmall)
+            .background(tileBackgrounds[tile % tileBackgrounds.size]),
+        contentAlignment = Alignment.Center,
+    ) {
+        Icon(
+            icon,
+            contentDescription = null,
+            tint = tileForegrounds[tile % tileForegrounds.size],
+            modifier = Modifier.size(18.dp),
+        )
+    }
+}
+
+/** 눌러서 시트를 여는 행. 오른쪽에 현재 값과 화살표를 둔다. */
+@Composable
+private fun NavRow(
+    tile: Int,
+    icon: androidx.compose.ui.graphics.vector.ImageVector,
+    title: String,
+    value: String,
+    onClick: () -> Unit,
+) {
+    Surface(onClick = onClick, color = Color.Transparent) {
+        Row(
+            Modifier.fillMaxWidth().padding(horizontal = 16.dp, vertical = 13.dp),
+            verticalAlignment = Alignment.CenterVertically,
+        ) {
+            RowIcon(tile, icon)
+            Spacer(Modifier.width(14.dp))
+            Text(title, style = MaterialTheme.typography.titleSmall, modifier = Modifier.weight(1f))
+            Text(value, style = MaterialTheme.typography.bodyMedium, color = MaterialTheme.colorScheme.onSurfaceVariant)
+            Spacer(Modifier.width(6.dp))
+            Icon(
+                Icons.AutoMirrored.Filled.KeyboardArrowRight,
+                contentDescription = null,
+                tint = MaterialTheme.colorScheme.outline,
+                modifier = Modifier.size(20.dp),
+            )
+        }
     }
 }
 
 /**
- * 슬라이더 한 줄. 제목과 현재 값을 같은 줄 양끝에 두어 지금 값이 얼마인지 바로 읽힌다.
- * 예전에는 "하루 새 단어 10개" 처럼 제목에 값을 섞어 써서 눈에 덜 띄었다.
+ * 스위치가 달린 행. [onClick] 이 있으면 행 본문을 눌러 상세 시트를 열 수 있다.
+ * 스위치와 행 클릭이 같은 자리에서 다른 일을 하므로 스위치에만 토글을 맡긴다.
  */
 @Composable
-private fun SliderRow(title: String, value: String, desc: String?, slider: @Composable () -> Unit) {
-    Column(Modifier.fillMaxWidth()) {
-        Row(Modifier.fillMaxWidth(), verticalAlignment = Alignment.CenterVertically) {
-            Text(title, style = MaterialTheme.typography.titleSmall, modifier = Modifier.weight(1f))
-            Text(value, style = MaterialTheme.typography.titleSmall, color = MaterialTheme.colorScheme.primary)
-        }
-        if (desc != null) {
-            Text(
-                desc,
-                style = MaterialTheme.typography.bodySmall,
-                color = MaterialTheme.colorScheme.onSurfaceVariant,
-            )
-        }
-        slider()
-    }
-}
-
-/** 그룹 안 항목 사이 간격. 구분선 대신 여백으로 나눈다. */
-@Composable
-private fun RowGap() = VSpace(14)
-
-@Composable
-private fun ToggleRow(
+private fun SwitchRow(
+    tile: Int,
+    icon: androidx.compose.ui.graphics.vector.ImageVector,
     title: String,
     desc: String,
     checked: Boolean,
-    divider: Boolean = true,
     onChange: (Boolean) -> Unit,
+    onClick: (() -> Unit)?,
 ) {
-    Row(Modifier.fillMaxWidth(), horizontalArrangement = Arrangement.SpaceBetween, verticalAlignment = Alignment.CenterVertically) {
-        Column(Modifier.weight(1f).padding(end = 12.dp)) {
-            Text(title, style = MaterialTheme.typography.titleSmall)
-            Text(desc, style = MaterialTheme.typography.bodySmall, color = MaterialTheme.colorScheme.onSurfaceVariant)
+    val inner: @Composable () -> Unit = {
+        Row(
+            Modifier.fillMaxWidth().padding(horizontal = 16.dp, vertical = 11.dp),
+            verticalAlignment = Alignment.CenterVertically,
+        ) {
+            RowIcon(tile, icon)
+            Spacer(Modifier.width(14.dp))
+            Column(Modifier.weight(1f).padding(end = 10.dp)) {
+                Text(title, style = MaterialTheme.typography.titleSmall)
+                Text(desc, style = MaterialTheme.typography.bodySmall, color = MaterialTheme.colorScheme.onSurfaceVariant, maxLines = 1)
+            }
+            Switch(checked = checked, onCheckedChange = onChange)
         }
-        Switch(checked = checked, onCheckedChange = onChange)
     }
-    if (divider) HorizontalDivider(color = MaterialTheme.colorScheme.outlineVariant)
+    if (onClick != null) Surface(onClick = onClick, color = Color.Transparent) { inner() } else inner()
+}
+
+@OptIn(androidx.compose.material3.ExperimentalMaterial3Api::class)
+@Composable
+private fun PickerSheet(
+    title: String,
+    desc: String,
+    onDismiss: () -> Unit,
+    content: @Composable ColumnScope.() -> Unit,
+) {
+    ModalBottomSheet(onDismissRequest = onDismiss) {
+        Column(Modifier.fillMaxWidth().padding(horizontal = 20.dp).padding(bottom = 28.dp)) {
+            Text(title, style = MaterialTheme.typography.titleLarge)
+            VSpace(3)
+            Text(desc, style = MaterialTheme.typography.bodySmall, color = MaterialTheme.colorScheme.onSurfaceVariant)
+            VSpace(16)
+            content()
+        }
+    }
+}
+
+@Composable
+private fun ChoiceRow(label: String, selected: Boolean, onClick: () -> Unit) {
+    Surface(
+        onClick = onClick,
+        modifier = Modifier.fillMaxWidth().padding(bottom = 8.dp),
+        shape = MaterialTheme.shapes.small,
+        color = if (selected) MaterialTheme.colorScheme.primaryContainer else MaterialTheme.colorScheme.surfaceContainerHigh,
+    ) {
+        Row(
+            Modifier.fillMaxWidth().padding(horizontal = 18.dp, vertical = 15.dp),
+            verticalAlignment = Alignment.CenterVertically,
+        ) {
+            Text(
+                label,
+                style = MaterialTheme.typography.titleSmall,
+                color = if (selected) MaterialTheme.colorScheme.onPrimaryContainer else MaterialTheme.colorScheme.onSurface,
+                modifier = Modifier.weight(1f),
+            )
+            if (selected) {
+                Icon(
+                    Icons.Outlined.Check,
+                    contentDescription = null,
+                    tint = MaterialTheme.colorScheme.onPrimaryContainer,
+                    modifier = Modifier.size(19.dp),
+                )
+            }
+        }
+    }
+}
+
+/** 값 하나를 슬라이더로 조절하는 시트. 큰 숫자를 먼저 보여 주고 그 아래에서 조절한다. */
+@OptIn(androidx.compose.material3.ExperimentalMaterial3Api::class)
+@Composable
+private fun SliderSheet(
+    title: String,
+    value: String,
+    desc: String,
+    onDismiss: () -> Unit,
+    slider: @Composable () -> Unit,
+) {
+    ModalBottomSheet(onDismissRequest = onDismiss) {
+        Column(Modifier.fillMaxWidth().padding(horizontal = 20.dp).padding(bottom = 30.dp)) {
+            Text(title, style = MaterialTheme.typography.labelLarge, color = MaterialTheme.colorScheme.onSurfaceVariant)
+            VSpace(4)
+            Text(value, style = MaterialTheme.typography.displaySmall, color = MaterialTheme.colorScheme.primary)
+            VSpace(6)
+            Text(desc, style = MaterialTheme.typography.bodySmall, color = MaterialTheme.colorScheme.onSurfaceVariant)
+            VSpace(14)
+            slider()
+        }
+    }
 }
 
 /**
