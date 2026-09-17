@@ -58,8 +58,8 @@ import dev.brown.wordy.ui.theme.heroGradient
 import dev.brown.wordy.ui.theme.onHeroGradient
 
 @Composable
-fun SessionScreen(extraNew: Int, onExit: () -> Unit, onOpenWord: (String) -> Unit) {
-    val vm = appViewModel(key = "session-$extraNew") { SessionViewModel(it, extraNew) }
+fun SessionScreen(extraNew: Int, quizCount: Int?, onExit: () -> Unit, onOpenWord: (String) -> Unit) {
+    val vm = appViewModel(key = "session-$extraNew-${quizCount ?: 0}") { SessionViewModel(it, extraNew, quizCount) }
     val state by vm.state.collectAsStateWithLifecycle()
 
     Column(Modifier.fillMaxSize()) {

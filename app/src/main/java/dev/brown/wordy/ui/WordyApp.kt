@@ -78,7 +78,8 @@ fun WordyApp(container: AppContainer) {
                 composable<OnboardingRoute> { OnboardingScreen(onDone = { nav.navigate(HomeRoute) { popUpTo(OnboardingRoute) { inclusive = true } } }) }
                 composable<HomeRoute> {
                     HomeScreen(
-                        onStartSession = { extra -> nav.navigate(SessionRoute(extra)) },
+                        onStartSession = { extra -> nav.navigate(SessionRoute(extraNew = extra)) },
+                        onStartQuiz = { n -> nav.navigate(SessionRoute(quizCount = n)) },
                         onOpenCore = { browseTab = BrowseTab.Core; nav.navigateTab(BrowseRoute) },
                         onOpenLevel = { lvl -> browseTab = BrowseTab.OfLevel(lvl); nav.navigateTab(BrowseRoute) },
                     )
@@ -86,7 +87,15 @@ fun WordyApp(container: AppContainer) {
                 composable<BrowseRoute> { TabBack(nav); BrowseScreen(initialTab = browseTab, onOpenUnit = { id, title -> nav.navigate(UnitRoute(id, title)) }, onOpenWord = { nav.navigate(WordRoute(it)) }) }
                 composable<StatsRoute> { TabBack(nav); StatsScreen(onWord = { nav.navigate(WordRoute(it)) }) }
                 composable<SettingsRoute> { TabBack(nav); SettingsScreen() }
-                composable<SessionRoute> { entry -> SessionScreen(extraNew = entry.toRoute<SessionRoute>().extraNew, onExit = { nav.popBackStack() }, onOpenWord = { nav.navigate(WordRoute(it)) }) }
+                composable<SessionRoute> { entry ->
+                    val r = entry.toRoute<SessionRoute>()
+                    SessionScreen(
+                        extraNew = r.extraNew,
+                        quizCount = r.quizCount.takeIf { it > 0 },
+                        onExit = { nav.popBackStack() },
+                        onOpenWord = { nav.navigate(WordRoute(it)) },
+                    )
+                }
                 composable<UnitRoute> { entry -> val r = entry.toRoute<UnitRoute>(); UnitScreen(r.unitId, r.title, onBack = { nav.popBackStack() }, onOpenWord = { nav.navigate(WordRoute(it)) }) }
                 composable<WordRoute> { entry -> WordDetailScreen(entry.toRoute<WordRoute>().wordId, onBack = { nav.popBackStack() }, onPractice = { nav.navigate(PracticeRoute(it)) }) }
                 composable<PracticeRoute> { entry -> PracticeScreen(entry.toRoute<PracticeRoute>().wordId, onExit = { nav.popBackStack() }) }

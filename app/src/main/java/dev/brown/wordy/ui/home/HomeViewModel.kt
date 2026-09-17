@@ -36,6 +36,8 @@ data class HomeUiState(
     val weekActivity: List<Int> = List(7) { 0 },
     /** 전 레벨에서 '익숙' 이상에 오른 단어 수. */
     val familiarTotal: Int = 0,
+    /** 한 번이라도 배우기 시작한 단어 수. 퀴즈로 낼 수 있는 후보가 있는지 판단한다. */
+    val introducedTotal: Int = 0,
 )
 
 class HomeViewModel(private val c: AppContainer) : ViewModel() {
@@ -61,6 +63,7 @@ class HomeViewModel(private val c: AppContainer) : ViewModel() {
                     dueNow = due, currentLevel = s.currentLevel, levels = levelProgress,
                     coreTotal = coreIds.size, coreFamiliar = coreIds.count { statusMap[it]?.mastery?.level ?: 0 >= Mastery.FAMILIAR.level }, coreMet = coreIds.count { statusMap[it]?.mastery?.level ?: 0 >= 1 },
                     familiarTotal = statuses.count { it.mastery.level >= Mastery.FAMILIAR.level },
+                    introducedTotal = statuses.count { it.mastery.level >= Mastery.MET.level },
                 )
             }.collectLatest { base ->
                 val tomorrowStart = ProgressRepository.startOfDay(LocalDate.now().plusDays(1))

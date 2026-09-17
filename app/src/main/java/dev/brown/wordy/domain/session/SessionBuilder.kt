@@ -28,6 +28,24 @@ class SessionBuilder(
         return SessionPlan(due, newIds)
     }
 
+    /**
+     * 퀴즈 전용 계획. 새 단어를 도입하지 않고 이미 배운 카드만 문제로 낸다.
+     *
+     * 복습 예정(due)이 없어도 비우지 않는다. "지금 문제만 풀고 싶다" 는 요구에
+     * "오늘 복습할 게 없다" 고 답하면 기능이 무의미해지기 때문이다. 예정 카드를
+     * 먼저 채우고 모자라면 아직 때가 안 된 카드를 due 가 가까운 순으로 당겨 온다.
+     * 이때 앞당겨 푼 문제도 FSRS 에 정상 반영된다. 일찍 맞히면 간격이 늘고
+     * 틀리면 줄어드는 것이 알고리즘의 정상 동작이다.
+     *
+     * @param count 내고 싶은 문제 수
+     */
+    suspend fun buildQuizOnly(now: Long, count: Int): SessionPlan {
+        val due = progress.dueCards(now, count)
+        if (due.size >= count) return SessionPlan(due.take(count), emptyList())
+        val ahead = progress.upcomingCards(now, count - due.size)
+        return SessionPlan(due + ahead, emptyList())
+    }
+
     suspend fun pickNewWords(count: Int, level: dev.brown.wordy.domain.model.Level, coreEnabled: Boolean, coreRatio: Float): List<String> {
         if (count <= 0) return emptyList()
         val introduced = progress.introducedWordIds()

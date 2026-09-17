@@ -39,6 +39,14 @@ interface CardDao {
     @Query("SELECT COUNT(*) FROM card WHERE due > :now AND due <= :until")
     suspend fun dueBetween(now: Long, until: Long): Int
 
+    /**
+     * 아직 복습할 때가 안 된 카드를 due 가 가까운 순으로. 퀴즈 전용 모드에서
+     * 예정 카드가 모자랄 때 앞당겨 풀 문제를 채우는 데 쓴다.
+     * NEW 는 제외한다. 한 번도 안 본 단어를 설명 없이 문제로 내면 찍기가 된다.
+     */
+    @Query("SELECT * FROM card WHERE due > :now AND state != 'NEW' ORDER BY due LIMIT :limit")
+    suspend fun upcoming(now: Long, limit: Int): List<CardEntity>
+
     @Query("SELECT DISTINCT wordId FROM card")
     suspend fun introducedWordIds(): List<String>
 

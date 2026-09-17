@@ -40,7 +40,17 @@ private sealed interface Item {
     data class Review(val card: Card) : Item
 }
 
-class SessionViewModel(private val c: AppContainer, private val extraNew: Int) : ViewModel() {
+/**
+ * @param quizCount 퀴즈 전용 모드에서 낼 문제 수. null 이면 평소 세션(새 단어 + 복습).
+ *
+ * 모드를 생성자로 받는다. 화면에서 나중에 넘기면 init 이 이미 평소 세션을
+ * 만들기 시작한 뒤라 늦는다.
+ */
+class SessionViewModel(
+    private val c: AppContainer,
+    private val extraNew: Int,
+    private val quizCount: Int? = null,
+) : ViewModel() {
     private val _state = MutableStateFlow<SessionUiState>(SessionUiState.Loading)
     val state: StateFlow<SessionUiState> = _state
     val ttsAvailable get() = c.tts.available
@@ -58,8 +68,18 @@ class SessionViewModel(private val c: AppContainer, private val extraNew: Int) :
     init { viewModelScope.launch { start() } }
 
     private suspend fun start() {
-        val plan = c.sessionBuilder.build(c.now(), extraNew = extraNew)
-        if (plan.isEmpty) { _state.value = SessionUiState.Empty("지금은 복습할 카드도, 오늘 배울 새 단어도 없어요.\n홈에서 '더 배우기'를 눌러 이어갈 수 있어요."); return }
+        val plan = if (quizCount != null) {
+            c.sessionBuilder.buildQuizOnly(c.now(), quizCount)
+        } else {
+            c.sessionBuilder.build(c.now(), extraNew = extraNew)
+        }
+        if (plan.isEmpty) {
+            _state.value = SessionUiState.Empty(
+                if (quizCount != null) "아직 문제로 낼 단어가 없어요.\n먼저 단어를 몇 개 배우면 퀴즈를 풀 수 있어요."
+                else "지금은 복습할 카드도, 오늘 배울 새 단어도 없어요.\n홈에서 '더 배우기'를 눌러 이어갈 수 있어요."
+            )
+            return
+        }
         val reviews = plan.dueCards.map { Item.Review(it) }
         val learns = plan.newWordIds.map { Item.Learn(it) }
         // 복습 3개마다 새 단어 1개를 끼워 넣는다 (복습이 없으면 새 단어만)

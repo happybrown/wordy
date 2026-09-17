@@ -30,6 +30,10 @@ class ProgressRepository(private val db: ProgressDatabase) {
     suspend fun dueCards(now: Long, limit: Int): List<Card> = cards.due(now, limit).map { it.toDomain() }
     fun dueCount(now: Long): Flow<Int> = cards.dueCount(now)
     suspend fun dueBetween(from: Long, until: Long): Int = cards.dueBetween(from, until)
+
+    /** 아직 때가 안 된 카드를 due 가 가까운 순으로. 퀴즈 전용 모드에서 쓴다. */
+    suspend fun upcomingCards(now: Long, limit: Int): List<Card> =
+        cards.upcoming(now, limit).map { it.toDomain() }
     suspend fun introducedWordIds(): Set<String> = cards.introducedWordIds().toSet()
 
     suspend fun insertCards(newCards: List<Card>) { cards.insertAll(newCards.map { it.toEntity() }) }

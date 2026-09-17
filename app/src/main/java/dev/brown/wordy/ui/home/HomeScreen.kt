@@ -24,13 +24,18 @@ import androidx.compose.material.icons.automirrored.filled.ArrowForward
 import androidx.compose.material.icons.filled.LocalFireDepartment
 import androidx.compose.material.icons.outlined.ChatBubbleOutline
 import androidx.compose.material.icons.outlined.CheckCircle
+import androidx.compose.material.icons.outlined.Quiz
 import androidx.compose.material.icons.outlined.Schedule
 import androidx.compose.material3.Icon
+import androidx.compose.material3.ModalBottomSheet
 import androidx.compose.material3.MaterialTheme
 import androidx.compose.material3.Surface
 import androidx.compose.material3.Text
 import androidx.compose.runtime.Composable
 import androidx.compose.runtime.getValue
+import androidx.compose.runtime.mutableStateOf
+import androidx.compose.runtime.remember
+import androidx.compose.runtime.setValue
 import androidx.compose.ui.Alignment
 import androidx.compose.ui.Modifier
 import androidx.compose.ui.draw.clip
@@ -48,7 +53,12 @@ import dev.brown.wordy.ui.theme.tileBackgrounds
 import dev.brown.wordy.ui.theme.tileForegrounds
 
 @Composable
-fun HomeScreen(onStartSession: (extraNew: Int) -> Unit, onOpenCore: () -> Unit, onOpenLevel: (Level) -> Unit) {
+fun HomeScreen(
+    onStartSession: (extraNew: Int) -> Unit,
+    onStartQuiz: (count: Int) -> Unit,
+    onOpenCore: () -> Unit,
+    onOpenLevel: (Level) -> Unit,
+) {
     val vm = appViewModel { HomeViewModel(it) }
     val s by vm.state.collectAsStateWithLifecycle()
     if (s.loading) { LoadingBox(); return }
@@ -56,6 +66,7 @@ fun HomeScreen(onStartSession: (extraNew: Int) -> Unit, onOpenCore: () -> Unit, 
     val remainingNew = (s.dailyGoal - s.learnedToday).coerceAtLeast(0)
     val waiting = s.dueNow + remainingNew
     val nothingLeft = waiting == 0
+    var showQuizPicker by remember { mutableStateOf(false) }
 
     Column(Modifier.fillMaxSize().verticalScroll(rememberScrollState()).padding(horizontal = 20.dp)) {
         VSpace(18)
@@ -87,6 +98,9 @@ fun HomeScreen(onStartSession: (extraNew: Int) -> Unit, onOpenCore: () -> Unit, 
             nothingLeft = nothingLeft,
             onStart = { onStartSession(if (nothingLeft) 5 else 0) },
         )
+
+        VSpace(12)
+        QuizCard(enabled = s.familiarTotal > 0 || s.introducedTotal > 0, onClick = { showQuizPicker = true })
 
         // 레벨. 참고 이미지의 과목 타일 격자.
         VSpace(28)
@@ -154,6 +168,96 @@ fun HomeScreen(onStartSession: (extraNew: Int) -> Unit, onOpenCore: () -> Unit, 
             modifier = Modifier.fillMaxWidth(),
         )
         VSpace(26)
+    }
+
+    if (showQuizPicker) {
+        QuizCountSheet(
+            onDismiss = { showQuizPicker = false },
+            onPick = { n -> showQuizPicker = false; onStartQuiz(n) },
+        )
+    }
+}
+
+/**
+ * 퀴즈 전용 진입점. 새 단어를 배우지 않고 이미 아는 단어만 문제로 푼다.
+ * 배운 단어가 하나도 없으면 낼 문제가 없으므로 눌리지 않게 한다.
+ */
+@Composable
+private fun QuizCard(enabled: Boolean, onClick: () -> Unit) {
+    val bg = tileBackgrounds[2]
+    val fg = tileForegrounds[2]
+    Surface(
+        onClick = onClick,
+        enabled = enabled,
+        modifier = Modifier.fillMaxWidth(),
+        shape = MaterialTheme.shapes.medium,
+        color = MaterialTheme.colorScheme.surfaceContainer,
+    ) {
+        Row(
+            Modifier.fillMaxWidth().padding(horizontal = 16.dp, vertical = 14.dp),
+            verticalAlignment = Alignment.CenterVertically,
+        ) {
+            Box(
+                Modifier.size(40.dp).clip(MaterialTheme.shapes.extraSmall).background(bg),
+                contentAlignment = Alignment.Center,
+            ) {
+                Icon(Icons.Outlined.Quiz, contentDescription = null, tint = fg, modifier = Modifier.size(20.dp))
+            }
+            Spacer(Modifier.width(13.dp))
+            Column(Modifier.weight(1f)) {
+                Text("퀴즈만 풀기", style = MaterialTheme.typography.titleSmall)
+                Text(
+                    if (enabled) "새 단어 없이 아는 단어만 문제로" else "먼저 단어를 몇 개 배워야 해요",
+                    style = MaterialTheme.typography.bodySmall,
+                    color = MaterialTheme.colorScheme.onSurfaceVariant,
+                    maxLines = 1,
+                )
+            }
+            Icon(
+                Icons.AutoMirrored.Filled.ArrowForward,
+                contentDescription = null,
+                tint = MaterialTheme.colorScheme.onSurfaceVariant,
+                modifier = Modifier.size(17.dp),
+            )
+        }
+    }
+}
+
+/** 문제 수 선택. 한 손으로 고를 수 있게 네 개만 둔다. */
+@OptIn(androidx.compose.material3.ExperimentalMaterial3Api::class)
+@Composable
+private fun QuizCountSheet(onDismiss: () -> Unit, onPick: (Int) -> Unit) {
+    ModalBottomSheet(onDismissRequest = onDismiss) {
+        Column(Modifier.fillMaxWidth().padding(horizontal = 20.dp).padding(bottom = 28.dp)) {
+            Text("몇 문제 풀까요?", style = MaterialTheme.typography.titleLarge)
+            VSpace(4)
+            Text(
+                "복습할 때가 된 단어를 먼저 내고, 모자라면 곧 복습할 단어를 당겨 옵니다.",
+                style = MaterialTheme.typography.bodySmall,
+                color = MaterialTheme.colorScheme.onSurfaceVariant,
+            )
+            VSpace(18)
+            listOf(10, 20, 30, 50).forEach { n ->
+                Surface(
+                    onClick = { onPick(n) },
+                    modifier = Modifier.fillMaxWidth().padding(bottom = 8.dp),
+                    shape = MaterialTheme.shapes.small,
+                    color = MaterialTheme.colorScheme.surfaceContainerHigh,
+                ) {
+                    Row(
+                        Modifier.fillMaxWidth().padding(horizontal = 18.dp, vertical = 16.dp),
+                        verticalAlignment = Alignment.CenterVertically,
+                    ) {
+                        Text("${n}문제", style = MaterialTheme.typography.titleSmall, modifier = Modifier.weight(1f))
+                        Text(
+                            "약 ${n / 5}분",
+                            style = MaterialTheme.typography.labelMedium,
+                            color = MaterialTheme.colorScheme.onSurfaceVariant,
+                        )
+                    }
+                }
+            }
+        }
     }
 }
 
