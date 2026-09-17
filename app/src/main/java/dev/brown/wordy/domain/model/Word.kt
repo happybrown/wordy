@@ -2,12 +2,23 @@ package dev.brown.wordy.domain.model
 
 import kotlinx.serialization.Serializable
 
+/**
+ * 학습 레벨. 분류 기준은 교육부 교육과정(초등 800 / 중고등)과 CEFR-J, NGSL 빈도다.
+ *
+ * 가운데 세 단계는 학제 이름을 그대로 쓴다. 한국 학습자에게 가장 익숙한 기준이라
+ * 자기 수준을 가늠하기 쉽다. 다만 양 끝 두 개는 학제로 부를 수 없었다.
+ * "초등이전" 은 초등을 기준으로 삼아야 뜻이 통하고, "그 이상" 은 무엇보다 위인지
+ * 말해 주지 않는다. 둘 다 그 자체로 수준을 나타내는 말로 바꿨다.
+ *
+ * @param ko 목록·탭·설정에 쓰는 이름
+ * @param shortKo 홈 타일처럼 폭이 좁은 자리에 쓰는 짧은 이름
+ */
 enum class Level(val code: String, val ko: String, val shortKo: String) {
-    PRE("PRE", "초등이전", "초등이전"),
+    PRE("PRE", "입문", "입문"),
     ELEM("ELEM", "초등", "초등"),
     MID("MID", "중등", "중등"),
     HIGH("HIGH", "고등", "고등"),
-    ADV("ADV", "그 이상", "심화");
+    ADV("ADV", "심화", "심화");
 
     companion object {
         fun of(code: String) = entries.firstOrNull { it.code == code } ?: ELEM

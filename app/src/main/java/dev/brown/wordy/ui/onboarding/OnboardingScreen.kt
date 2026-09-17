@@ -34,11 +34,11 @@ import dev.brown.wordy.ui.components.VSpace
 import kotlinx.coroutines.launch
 
 private val LEVEL_DESC = mapOf(
-    Level.PRE to "cat, red, jump — 가장 기본적인 구체 명사와 동작. 철자 다지기용",
+    Level.PRE to "cat, red, jump — 초등 교육과정에 들어가기 전, 가장 기본적인 사물과 동작",
     Level.ELEM to "breakfast, remember, quiet — 초등 교육과정 800단어 수준",
     Level.MID to "environment, suggest, disappointed — 중학 교육과정, CEFR A2~B1",
     Level.HIGH to "significant, accomplish, inevitable — 고교 교육과정, CEFR B1~B2",
-    Level.ADV to "ambiguous, leverage, scrutinize — 학술·비즈니스 어휘",
+    Level.ADV to "ambiguous, leverage, scrutinize — 고교 과정 밖의 학술·비즈니스 어휘",
 )
 
 @Composable

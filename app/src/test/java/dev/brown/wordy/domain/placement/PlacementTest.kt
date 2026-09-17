@@ -59,6 +59,6 @@ class PlacementTest {
         val correct = mapOf(Level.PRE to 6, Level.ELEM to 4)
         val askedMap = mapOf(Level.PRE to 6, Level.ELEM to 6)
         val s = Placement.summary(correct, askedMap, Level.ELEM)
-        assertEquals("12문제 중 10개 정답 (초등이전 6/6 · 초등 4/6) → 초등 레벨을 추천합니다.", s)
+        assertEquals("12문제 중 10개 정답 (입문 6/6 · 초등 4/6) → 초등 레벨을 추천합니다.", s)
     }
 }
