@@ -15,6 +15,8 @@ import androidx.compose.material.icons.outlined.Spellcheck
 import androidx.compose.material.icons.outlined.Today
 import androidx.compose.material3.ModalBottomSheet
 import androidx.compose.ui.graphics.Color
+import androidx.compose.material.icons.outlined.Add
+import androidx.compose.material.icons.outlined.Remove
 import androidx.compose.foundation.layout.Arrangement
 import androidx.compose.foundation.layout.Column
 import androidx.compose.foundation.layout.ColumnScope
@@ -113,7 +115,7 @@ fun SettingsScreen() {
                 tile = 5,
                 icon = Icons.Outlined.ChatBubbleOutline,
                 title = "핵심 회화 어휘",
-                desc = if (s.coreEnabled) "새 단어의 ${(s.coreRatio * 100).toInt()}%를 Core 에서" else "꺼짐",
+                desc = if (s.coreEnabled) "기본 어휘를 ${coreRatioName(s.coreRatio)} 섞습니다" else "꺼짐",
                 checked = s.coreEnabled,
                 onChange = { update { st -> st.copy(coreEnabled = it) } },
                 onClick = if (s.coreEnabled) ({ sheet = SettingSheet.CoreRatio }) else null,
@@ -123,7 +125,7 @@ fun SettingsScreen() {
                 tile = 3,
                 icon = Icons.Outlined.Bolt,
                 title = "복습 강도",
-                value = "${(s.desiredRetention * 100).toInt()}%",
+                value = retentionName(s.desiredRetention),
                 onClick = { sheet = SettingSheet.Retention },
             )
             RowLine()
@@ -169,7 +171,7 @@ fun SettingsScreen() {
                 tile = 5,
                 icon = Icons.AutoMirrored.Outlined.VolumeUp,
                 title = "읽어 주는 속도",
-                value = "%.2fx".format(s.ttsRate),
+                value = ttsRateName(s.ttsRate),
                 onClick = { sheet = SettingSheet.TtsRate },
             )
         }
@@ -206,69 +208,124 @@ fun SettingsScreen() {
                 }
             }
         }
-        SettingSheet.DailyGoal -> SliderSheet(
-            title = "하루 새 단어",
-            value = if (s.dailyNewWords == 0) "복습만 합니다" else "${s.dailyNewWords}개",
+        SettingSheet.DailyGoal -> ValueSheet(
+            label = "하루 새 단어",
+            value = if (s.dailyNewWords == 0) "복습만" else "${s.dailyNewWords}개",
             desc = "복습은 알고리즘이 따로 잡아 줍니다",
             onDismiss = { sheet = null },
         ) {
-            Slider(
-                value = s.dailyNewWords.toFloat(),
-                onValueChange = { update { st -> st.copy(dailyNewWords = it.toInt()) } },
-                valueRange = 0f..40f, steps = 39,
+            // 슬라이더로는 정확히 10을 맞추기 어렵다. 한 개씩 바꾸는 버튼과
+            // 자주 쓰는 값을 함께 둔다.
+            Stepper(
+                value = s.dailyNewWords,
+                range = 0..40,
+                onChange = { n -> update { st -> st.copy(dailyNewWords = n) } },
+            )
+            VSpace(16)
+            ChipRow(
+                options = listOf(0, 5, 10, 15, 20, 30),
+                selected = s.dailyNewWords,
+                label = { if (it == 0) "복습만" else "$it" },
+                onPick = { n -> update { st -> st.copy(dailyNewWords = n) } },
             )
         }
-        SettingSheet.CoreRatio -> SliderSheet(
-            title = "Core 비율",
-            value = "${(s.coreRatio * 100).toInt()}%",
-            desc = "새 단어 중 get, take 같은 기본 어휘의 비중",
-            onDismiss = { sheet = null },
+        SettingSheet.CoreRatio -> PickerSheet(
+            "Core 비율",
+            "새 단어 중 get, take 같은 기본 어휘의 비중",
+            { sheet = null },
         ) {
-            Slider(
-                value = s.coreRatio,
-                onValueChange = { update { st -> st.copy(coreRatio = it) } },
-                valueRange = 0.1f..0.9f, steps = 7,
-            )
+            // 퍼센트를 1%씩 고를 이유가 없다. 의미가 다른 세 구간만 남긴다.
+            listOf(
+                Triple(0.2f, "조금", "레벨 단어를 주로 배웁니다"),
+                Triple(0.4f, "보통", "기본 어휘를 꾸준히 섞습니다"),
+                Triple(0.7f, "많이", "기본 어휘를 집중해서 익힙니다"),
+            ).forEach { (v, name, note) ->
+                DetailChoiceRow(
+                    title = "$name  ${(v * 100).toInt()}%",
+                    desc = note,
+                    selected = kotlin.math.abs(s.coreRatio - v) < 0.06f,
+                ) { update { st -> st.copy(coreRatio = v) }; sheet = null }
+            }
         }
-        SettingSheet.Retention -> SliderSheet(
-            title = "복습 강도",
-            value = "${(s.desiredRetention * 100).toInt()}%",
-            desc = "높이면 복습이 잦아지고, 낮추면 복습은 줄지만 더 자주 잊습니다. 기본 90%.",
-            onDismiss = { sheet = null },
+        SettingSheet.Retention -> PickerSheet(
+            "복습 강도",
+            "얼마나 자주 복습할지 정합니다",
+            { sheet = null },
         ) {
-            Slider(
-                value = s.desiredRetention,
-                onValueChange = { update { st -> st.copy(desiredRetention = it) } },
-                valueRange = 0.8f..0.95f, steps = 14,
-            )
+            // 0.85 와 0.86 의 차이를 체감할 사람은 없다. 뜻이 다른 세 개만 둔다.
+            listOf(
+                Triple(0.85f, "느슨하게", "복습이 줄지만 더 자주 잊습니다"),
+                Triple(0.90f, "보통", "권장값입니다"),
+                Triple(0.95f, "촘촘하게", "덜 잊지만 복습이 잦아집니다"),
+            ).forEach { (v, name, note) ->
+                DetailChoiceRow(
+                    title = "$name  ${(v * 100).toInt()}%",
+                    desc = note,
+                    selected = kotlin.math.abs(s.desiredRetention - v) < 0.025f,
+                ) { update { st -> st.copy(desiredRetention = v) }; sheet = null }
+            }
         }
-        SettingSheet.ReminderTime -> SliderSheet(
-            title = "알림 시각",
+        SettingSheet.ReminderTime -> ValueSheet(
+            label = "알림 시각",
             value = "%02d:%02d".format(s.reminderHour, s.reminderMinute),
-            desc = "30분 단위로 정할 수 있습니다",
+            desc = "매일 이 시각에 알려 줍니다",
             onDismiss = { sheet = null },
         ) {
-            Slider(
-                value = (s.reminderHour * 60 + s.reminderMinute).toFloat(),
-                onValueChange = { v ->
-                    val m = v.toInt()
-                    update { st -> st.copy(reminderHour = m / 60, reminderMinute = (m % 60) / 30 * 30) }
+            // 시각은 슬라이더로 맞추기 가장 나쁜 값이다. 1439 칸 중 하나를
+            // 손가락으로 집어야 했다. 시와 분을 따로 고르게 한다.
+            Text("시", style = MaterialTheme.typography.labelMedium, color = MaterialTheme.colorScheme.onSurfaceVariant)
+            VSpace(6)
+            ChipRow(
+                options = (6..23).toList(),
+                selected = s.reminderHour,
+                label = { "$it" },
+                onPick = { h ->
+                    update { st -> st.copy(reminderHour = h) }
+                    ReminderScheduler.schedule(ctx, h, s.reminderMinute)
                 },
-                onValueChangeFinished = { ReminderScheduler.schedule(ctx, s.reminderHour, s.reminderMinute) },
-                valueRange = 0f..1439f, steps = 47,
+            )
+            VSpace(16)
+            Text("분", style = MaterialTheme.typography.labelMedium, color = MaterialTheme.colorScheme.onSurfaceVariant)
+            VSpace(6)
+            ChipRow(
+                options = listOf(0, 30),
+                selected = s.reminderMinute,
+                label = { "%02d".format(it) },
+                onPick = { m ->
+                    update { st -> st.copy(reminderMinute = m) }
+                    ReminderScheduler.schedule(ctx, s.reminderHour, m)
+                },
             )
         }
-        SettingSheet.TtsRate -> SliderSheet(
-            title = "읽어 주는 속도",
-            value = "%.2fx".format(s.ttsRate),
-            desc = "예문과 단어를 읽어 줄 때의 속도입니다",
+        SettingSheet.TtsRate -> ValueSheet(
+            label = "읽어 주는 속도",
+            value = ttsRateName(s.ttsRate),
+            desc = "고른 속도로 바로 들어 볼 수 있습니다",
             onDismiss = { sheet = null },
         ) {
-            Slider(
-                value = s.ttsRate,
-                onValueChange = { update { st -> st.copy(ttsRate = it) }; c.tts.rate = it },
-                valueRange = 0.6f..1.3f, steps = 13,
+            // 속도는 숫자를 봐도 알 수 없고 소리로만 판단된다.
+            // 고르면 즉시 예문을 읽어 준다.
+            ChipRow(
+                options = listOf(0.6f, 0.75f, 0.85f, 0.95f, 1.1f, 1.25f),
+                selected = s.ttsRate,
+                label = { ttsRateName(it) },
+                match = { a, b -> kotlin.math.abs(a - b) < 0.03f },
+                onPick = { v ->
+                    update { st -> st.copy(ttsRate = v) }
+                    c.tts.rate = v
+                    c.tts.speak("This is how fast I will read.")
+                },
             )
+            VSpace(14)
+            OutlinedButton(
+                onClick = { c.tts.speak("This is how fast I will read.") },
+                modifier = Modifier.fillMaxWidth().height(46.dp),
+                shape = CircleShape,
+            ) {
+                Icon(Icons.AutoMirrored.Outlined.VolumeUp, null, Modifier.size(17.dp))
+                Spacer(Modifier.width(7.dp))
+                Text("다시 들어 보기")
+            }
         }
         null -> Unit
     }
@@ -462,27 +519,176 @@ private fun ChoiceRow(label: String, selected: Boolean, onClick: () -> Unit) {
     }
 }
 
-/** 값 하나를 슬라이더로 조절하는 시트. 큰 숫자를 먼저 보여 주고 그 아래에서 조절한다. */
+/**
+ * 값 하나를 고치는 시트. 큰 값을 먼저 보여 주고 그 아래에 조절기를 둔다.
+ * 조절기 종류는 항목마다 다르다(단계 버튼, 칩, 목록). 슬라이더는 쓰지 않는다.
+ */
 @OptIn(androidx.compose.material3.ExperimentalMaterial3Api::class)
 @Composable
-private fun SliderSheet(
-    title: String,
+private fun ValueSheet(
+    label: String,
     value: String,
     desc: String,
     onDismiss: () -> Unit,
-    slider: @Composable () -> Unit,
+    content: @Composable ColumnScope.() -> Unit,
 ) {
     ModalBottomSheet(onDismissRequest = onDismiss) {
         Column(Modifier.fillMaxWidth().padding(horizontal = 20.dp).padding(bottom = 30.dp)) {
-            Text(title, style = MaterialTheme.typography.labelLarge, color = MaterialTheme.colorScheme.onSurfaceVariant)
-            VSpace(4)
+            Text(label, style = MaterialTheme.typography.labelLarge, color = MaterialTheme.colorScheme.onSurfaceVariant)
+            VSpace(3)
             Text(value, style = MaterialTheme.typography.displaySmall, color = MaterialTheme.colorScheme.primary)
-            VSpace(6)
+            VSpace(5)
             Text(desc, style = MaterialTheme.typography.bodySmall, color = MaterialTheme.colorScheme.onSurfaceVariant)
-            VSpace(14)
-            slider()
+            VSpace(18)
+            content()
         }
     }
+}
+
+/**
+ * 하나씩 올리고 내리는 조절기. 슬라이더와 달리 원하는 값을 정확히 맞출 수 있다.
+ * 개수처럼 "딱 10개" 가 의미 있는 값에 쓴다.
+ */
+@Composable
+private fun Stepper(value: Int, range: IntRange, onChange: (Int) -> Unit) {
+    Row(
+        Modifier.fillMaxWidth(),
+        verticalAlignment = Alignment.CenterVertically,
+        horizontalArrangement = Arrangement.spacedBy(12.dp),
+    ) {
+        StepButton(Icons.Outlined.Remove, enabled = value > range.first) { onChange((value - 1).coerceIn(range)) }
+        Surface(
+            Modifier.weight(1f).height(52.dp),
+            shape = MaterialTheme.shapes.small,
+            color = MaterialTheme.colorScheme.surfaceContainerHigh,
+        ) {
+            Box(contentAlignment = Alignment.Center) {
+                Text(
+                    if (value == 0) "복습만" else "$value",
+                    style = MaterialTheme.typography.headlineSmall,
+                )
+            }
+        }
+        StepButton(Icons.Outlined.Add, enabled = value < range.last) { onChange((value + 1).coerceIn(range)) }
+    }
+}
+
+@Composable
+private fun StepButton(
+    icon: androidx.compose.ui.graphics.vector.ImageVector,
+    enabled: Boolean,
+    onClick: () -> Unit,
+) {
+    Surface(
+        onClick = onClick,
+        enabled = enabled,
+        modifier = Modifier.size(52.dp),
+        shape = CircleShape,
+        color = MaterialTheme.colorScheme.primaryContainer,
+    ) {
+        Box(contentAlignment = Alignment.Center) {
+            Icon(
+                icon,
+                contentDescription = null,
+                tint = MaterialTheme.colorScheme.onPrimaryContainer.copy(alpha = if (enabled) 1f else 0.35f),
+                modifier = Modifier.size(22.dp),
+            )
+        }
+    }
+}
+
+/**
+ * 가로로 늘어놓은 선택 칩. 값이 몇 개로 정해져 있을 때 슬라이더보다 빠르고 정확하다.
+ * @param match 실수 비교처럼 정확히 같지 않아도 선택으로 볼 때 쓴다.
+ */
+@Composable
+private fun <T> ChipRow(
+    options: List<T>,
+    selected: T,
+    label: (T) -> String,
+    match: (T, T) -> Boolean = { a, b -> a == b },
+    onPick: (T) -> Unit,
+) {
+    androidx.compose.foundation.layout.FlowRow(horizontalArrangement = Arrangement.spacedBy(7.dp)) {
+        options.forEach { opt ->
+            val on = match(selected, opt)
+            Surface(
+                onClick = { onPick(opt) },
+                shape = CircleShape,
+                color = if (on) MaterialTheme.colorScheme.primary else MaterialTheme.colorScheme.surfaceContainerHigh,
+            ) {
+                Text(
+                    label(opt),
+                    Modifier.padding(horizontal = 16.dp, vertical = 10.dp),
+                    style = MaterialTheme.typography.titleSmall,
+                    color = if (on) MaterialTheme.colorScheme.onPrimary else MaterialTheme.colorScheme.onSurface,
+                )
+            }
+        }
+    }
+}
+
+/** 설명이 붙은 선택 행. 값만으로는 무엇이 달라지는지 알 수 없는 항목에 쓴다. */
+@Composable
+private fun DetailChoiceRow(title: String, desc: String, selected: Boolean, onClick: () -> Unit) {
+    Surface(
+        onClick = onClick,
+        modifier = Modifier.fillMaxWidth().padding(bottom = 8.dp),
+        shape = MaterialTheme.shapes.small,
+        color = if (selected) MaterialTheme.colorScheme.primaryContainer else MaterialTheme.colorScheme.surfaceContainerHigh,
+    ) {
+        Row(
+            Modifier.fillMaxWidth().padding(horizontal = 18.dp, vertical = 14.dp),
+            verticalAlignment = Alignment.CenterVertically,
+        ) {
+            Column(Modifier.weight(1f)) {
+                Text(
+                    title,
+                    style = MaterialTheme.typography.titleSmall,
+                    color = if (selected) MaterialTheme.colorScheme.onPrimaryContainer else MaterialTheme.colorScheme.onSurface,
+                )
+                Text(
+                    desc,
+                    style = MaterialTheme.typography.bodySmall,
+                    color = if (selected) {
+                        MaterialTheme.colorScheme.onPrimaryContainer.copy(alpha = 0.78f)
+                    } else {
+                        MaterialTheme.colorScheme.onSurfaceVariant
+                    },
+                )
+            }
+            if (selected) {
+                Icon(
+                    Icons.Outlined.Check,
+                    contentDescription = null,
+                    tint = MaterialTheme.colorScheme.onPrimaryContainer,
+                    modifier = Modifier.size(19.dp),
+                )
+            }
+        }
+    }
+}
+
+// 숫자를 그대로 보여 주면 무슨 뜻인지 알 수 없는 값들을 말로 바꾼다.
+private fun retentionName(v: Float) = when {
+    v < 0.875f -> "느슨하게"
+    v < 0.925f -> "보통"
+    else -> "촘촘하게"
+}
+
+private fun coreRatioName(v: Float) = when {
+    v < 0.3f -> "조금"
+    v < 0.55f -> "적당히"
+    else -> "많이"
+}
+
+private fun ttsRateName(v: Float) = when {
+    v < 0.68f -> "아주 느리게"
+    v < 0.80f -> "느리게"
+    v < 0.90f -> "조금 느리게"
+    v < 1.02f -> "보통"
+    v < 1.18f -> "조금 빠르게"
+    else -> "빠르게"
 }
 
 /**
@@ -526,16 +732,26 @@ private fun BackupSection() {
         }
     }
 
+    Column(Modifier.padding(horizontal = 16.dp, vertical = 15.dp)) {
     Text("학습 기록(복습 일정·숙달 단계·북마크)을 JSON 파일로 저장합니다. 단어 콘텐츠는 앱에 들어 있어 백업하지 않습니다.",
         style = MaterialTheme.typography.bodySmall, color = MaterialTheme.colorScheme.onSurfaceVariant)
-    VSpace(8)
+    VSpace(12)
     Row(horizontalArrangement = Arrangement.spacedBy(8.dp)) {
-        Button(onClick = { exportLauncher.launch(BackupManager.fileName(c.now())) }, enabled = !busy) { Text("내보내기") }
-        OutlinedButton(onClick = { importLauncher.launch(arrayOf("application/json")) }, enabled = !busy) { Text("복원") }
+        Button(
+            onClick = { exportLauncher.launch(BackupManager.fileName(c.now())) },
+            enabled = !busy,
+            shape = CircleShape,
+        ) { Text("내보내기") }
+        OutlinedButton(
+            onClick = { importLauncher.launch(arrayOf("application/json")) },
+            enabled = !busy,
+            shape = CircleShape,
+        ) { Text("복원") }
     }
     message?.let {
-        VSpace(6)
+        VSpace(8)
         Text(it, style = MaterialTheme.typography.bodySmall, color = MaterialTheme.colorScheme.primary)
+    }
     }
 
     pending?.let { backup ->
