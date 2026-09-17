@@ -30,6 +30,7 @@ import androidx.navigation.toRoute
 import dev.brown.wordy.di.AppContainer
 import dev.brown.wordy.domain.model.Level
 import dev.brown.wordy.ui.browse.BrowseScreen
+import dev.brown.wordy.ui.browse.BrowseTab
 import dev.brown.wordy.ui.browse.UnitScreen
 import dev.brown.wordy.ui.components.LoadingBox
 import dev.brown.wordy.ui.components.LocalAppContainer
@@ -63,12 +64,12 @@ fun WordyApp(container: AppContainer) {
         val dest = backStack?.destination
         val showBar = dest?.hasRoute(HomeRoute::class) == true || dest?.hasRoute(BrowseRoute::class) == true ||
             dest?.hasRoute(StatsRoute::class) == true || dest?.hasRoute(SettingsRoute::class) == true
-        var browseLevel by remember { mutableStateOf<Level?>(null) }
+        var browseTab by remember { mutableStateOf<BrowseTab?>(null) }
 
         Scaffold(bottomBar = {
             if (showBar) NavigationBar {
                 NavigationBarItem(selected = dest?.hasRoute(HomeRoute::class) == true, onClick = { nav.navigateTab(HomeRoute) }, icon = { Icon(Icons.Default.Home, null) }, label = { Text("홈") })
-                NavigationBarItem(selected = dest?.hasRoute(BrowseRoute::class) == true, onClick = { browseLevel = null; nav.navigateTab(BrowseRoute) }, icon = { Icon(Icons.AutoMirrored.Filled.MenuBook, null) }, label = { Text("단어장") })
+                NavigationBarItem(selected = dest?.hasRoute(BrowseRoute::class) == true, onClick = { browseTab = null; nav.navigateTab(BrowseRoute) }, icon = { Icon(Icons.AutoMirrored.Filled.MenuBook, null) }, label = { Text("단어장") })
                 NavigationBarItem(selected = dest?.hasRoute(StatsRoute::class) == true, onClick = { nav.navigateTab(StatsRoute) }, icon = { Icon(Icons.Default.BarChart, null) }, label = { Text("통계") })
                 NavigationBarItem(selected = dest?.hasRoute(SettingsRoute::class) == true, onClick = { nav.navigateTab(SettingsRoute) }, icon = { Icon(Icons.Default.Settings, null) }, label = { Text("설정") })
             }
@@ -78,11 +79,11 @@ fun WordyApp(container: AppContainer) {
                 composable<HomeRoute> {
                     HomeScreen(
                         onStartSession = { extra -> nav.navigate(SessionRoute(extra)) },
-                        onOpenCore = { browseLevel = null; nav.navigateTab(BrowseRoute) },
-                        onOpenLevel = { lvl -> browseLevel = lvl; nav.navigateTab(BrowseRoute) },
+                        onOpenCore = { browseTab = BrowseTab.Core; nav.navigateTab(BrowseRoute) },
+                        onOpenLevel = { lvl -> browseTab = BrowseTab.OfLevel(lvl); nav.navigateTab(BrowseRoute) },
                     )
                 }
-                composable<BrowseRoute> { TabBack(nav); BrowseScreen(initialLevel = browseLevel, onOpenUnit = { id, title -> nav.navigate(UnitRoute(id, title)) }, onOpenWord = { nav.navigate(WordRoute(it)) }) }
+                composable<BrowseRoute> { TabBack(nav); BrowseScreen(initialTab = browseTab, onOpenUnit = { id, title -> nav.navigate(UnitRoute(id, title)) }, onOpenWord = { nav.navigate(WordRoute(it)) }) }
                 composable<StatsRoute> { TabBack(nav); StatsScreen(onWord = { nav.navigate(WordRoute(it)) }) }
                 composable<SettingsRoute> { TabBack(nav); SettingsScreen() }
                 composable<SessionRoute> { entry -> SessionScreen(extraNew = entry.toRoute<SessionRoute>().extraNew, onExit = { nav.popBackStack() }, onOpenWord = { nav.navigate(WordRoute(it)) }) }

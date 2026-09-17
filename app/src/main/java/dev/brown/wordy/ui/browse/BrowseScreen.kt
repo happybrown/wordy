@@ -38,11 +38,26 @@ import dev.brown.wordy.ui.components.ProgressBar
 import dev.brown.wordy.ui.components.appViewModel
 import dev.brown.wordy.ui.theme.masteryColors
 
+/**
+ * 단어장. [initialTab] 으로 열 탭을 지정한다.
+ *
+ * 탭 번호를 ViewModel 생성 인자로 넘긴다. LaunchedEffect 로 넘기면 ViewModel 의
+ * init 이 설정을 await 하는 사이에 순서가 뒤집혀 지정이 무시된다.
+ * appViewModel 의 key 에도 탭을 넣어, 다른 탭으로 다시 들어오면 새 인스턴스를 받는다.
+ */
 @Composable
-fun BrowseScreen(initialLevel: Level?, onOpenUnit: (unitId: String, title: String) -> Unit, onOpenWord: (String) -> Unit) {
-    val vm = appViewModel { BrowseViewModel(it) }
+fun BrowseScreen(
+    initialTab: BrowseTab?,
+    onOpenUnit: (unitId: String, title: String) -> Unit,
+    onOpenWord: (String) -> Unit,
+) {
+    val requested: Int? = when (initialTab) {
+        BrowseTab.Core -> 0
+        is BrowseTab.OfLevel -> initialTab.level.ordinal + 1
+        null -> null
+    }
+    val vm = appViewModel(key = "browse-${requested ?: "default"}") { BrowseViewModel(it, requested) }
     val s by vm.state.collectAsStateWithLifecycle()
-    androidx.compose.runtime.LaunchedEffect(initialLevel) { if (initialLevel != null) vm.selectTab(initialLevel.ordinal + 1) }
     if (s.loading) { LoadingBox(); return }
 
     Column(Modifier.fillMaxSize()) {
@@ -117,4 +132,10 @@ fun WordList(rows: List<WordRow>, onOpenWord: (String) -> Unit, emptyText: Strin
             }
         }
     }
+}
+
+/** 단어장에서 열 탭. Core 와 레벨을 한 타입으로 묶어 null 의 뜻을 하나로 만든다. */
+sealed interface BrowseTab {
+    data object Core : BrowseTab
+    data class OfLevel(val level: Level) : BrowseTab
 }

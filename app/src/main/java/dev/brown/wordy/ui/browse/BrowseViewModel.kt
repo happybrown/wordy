@@ -25,15 +25,29 @@ data class BrowseUiState(
     val results: List<WordRow> = emptyList(),
 )
 
-class BrowseViewModel(private val c: AppContainer) : ViewModel() {
-    private val _state = MutableStateFlow(BrowseUiState())
+/**
+ * @param requestedTab 홈에서 지정해 들어온 탭. null 이면 현재 레벨 탭을 연다.
+ *
+ * 화면 쪽 LaunchedEffect 로 탭을 지정하면 안 된다. init 이 `c.settings.current()`
+ * 를 await 하는 동안 LaunchedEffect 가 먼저 selectTab 을 부르고, await 가 끝나면
+ * init 이 그 값을 현재 레벨로 덮어쓴다. 타이밍에 따라 결과가 달라지는 경쟁 조건이라
+ * 디버그 빌드에서는 통과하고 릴리스에서는 실패했다. 생성 시점에 받아 해결한다.
+ */
+class BrowseViewModel(
+    private val c: AppContainer,
+    private val requestedTab: Int? = null,
+) : ViewModel() {
+    private val _state = MutableStateFlow(BrowseUiState(tab = requestedTab ?: 0))
     val state: StateFlow<BrowseUiState> = _state
     private var statuses: Map<String, WordStatus> = emptyMap()
     private var unitWordIds: Map<String, List<String>> = emptyMap()
 
     init {
         viewModelScope.launch {
-            _state.value = _state.value.copy(tab = c.settings.current().currentLevel.ordinal + 1)
+            // 지정 탭이 없을 때만 현재 레벨을 기본값으로 쓴다.
+            if (requestedTab == null) {
+                _state.value = _state.value.copy(tab = c.settings.current().currentLevel.ordinal + 1)
+            }
             val unitsByLevel = Level.entries.associateWith { c.words.units(it) }
             unitWordIds = unitsByLevel.values.flatten().associate { u -> u.id to c.words.wordsByUnit(u.id).map { it.id } }
             val core = c.words.words(c.words.coreWordIds())
